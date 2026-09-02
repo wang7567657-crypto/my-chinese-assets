@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "storagePattern": "aiGenerated/{taskType}/{requestId}.json",
+  "taskTypes": {
+    "listening_quiz": {
+      "label": "生字聽力闖關",
+      "status": "active"
+    },
+    "homophone_compare": {
+      "label": "造句比較／同音字探索",
+      "status": "active"
+    },
+    "fillblank_generate": {
+      "label": "造句填空測驗",
+      "status": "active"
+    }
+  }
+}
