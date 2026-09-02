@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "pendingPath": "aiRequests/pending/{requestId}.json",
+  "donePath": "aiRequests/done/{requestId}.json",
+  "generatedPath": "aiGenerated/{taskType}/{requestId}.json",
+  "workflow": [
+    "check_generated",
+    "create_pending_if_missing",
+    "chatgpt_process_pending",
+    "write_generated",
+    "mark_done"
+  ]
+}
