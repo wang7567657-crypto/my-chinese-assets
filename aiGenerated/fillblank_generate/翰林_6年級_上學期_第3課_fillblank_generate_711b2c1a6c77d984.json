@@ -1,0 +1,310 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "翰林_6年級_上學期_第3課_fillblank_generate_711b2c1a6c77d984",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "chars": [
+      "杏",
+      "婆",
+      "娑",
+      "鏗",
+      "鏘",
+      "撫",
+      "壇",
+      "徒",
+      "鍊",
+      "曰",
+      "矣",
+      "舊",
+      "焉",
+      "亦",
+      "辨",
+      "警",
+      "惕",
+      "慧"
+    ],
+    "count": 18,
+    "level": "國小中高年級"
+  },
+  "data": {
+    "title": "第3課 全課填空",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "杏",
+        "word": "杏樹",
+        "sentence": "院子裡有一棵開滿白花的杏樹。",
+        "answer": "杏",
+        "options": [
+          "杏",
+          "鏘",
+          "鍊",
+          "焉"
+        ],
+        "hint": "想一想「杏樹」要用哪個字。",
+        "explanation": "答案是「杏」。"
+      },
+      {
+        "id": "q2",
+        "targetChar": "婆",
+        "word": "老婆婆",
+        "sentence": "老婆婆坐在門前曬太陽。",
+        "answer": "婆",
+        "options": [
+          "婆",
+          "撫",
+          "曰",
+          "亦"
+        ],
+        "hint": "想一想「老婆婆」要用哪個字。",
+        "explanation": "答案是「婆」。"
+      },
+      {
+        "id": "q3",
+        "targetChar": "娑",
+        "word": "婆娑",
+        "sentence": "樹影婆娑，隨風輕輕搖動。",
+        "answer": "娑",
+        "options": [
+          "娑",
+          "壇",
+          "矣",
+          "辨"
+        ],
+        "hint": "想一想「婆娑」要用哪個字。",
+        "explanation": "答案是「娑」。"
+      },
+      {
+        "id": "q4",
+        "targetChar": "鏗",
+        "word": "鏗鏘",
+        "sentence": "他的聲音鏗鏘有力。",
+        "answer": "鏗",
+        "options": [
+          "鏗",
+          "徒",
+          "舊",
+          "警"
+        ],
+        "hint": "想一想「鏗鏘」要用哪個字。",
+        "explanation": "答案是「鏗」。"
+      },
+      {
+        "id": "q5",
+        "targetChar": "鏘",
+        "word": "鏗鏘",
+        "sentence": "鐘聲鏗鏘地在校園裡響起。",
+        "answer": "鏘",
+        "options": [
+          "鏘",
+          "鍊",
+          "焉",
+          "惕"
+        ],
+        "hint": "想一想「鏗鏘」要用哪個字。",
+        "explanation": "答案是「鏘」。"
+      },
+      {
+        "id": "q6",
+        "targetChar": "撫",
+        "word": "撫摸",
+        "sentence": "她輕輕撫摸小狗的背。",
+        "answer": "撫",
+        "options": [
+          "撫",
+          "曰",
+          "亦",
+          "慧"
+        ],
+        "hint": "想一想「撫摸」要用哪個字。",
+        "explanation": "答案是「撫」。"
+      },
+      {
+        "id": "q7",
+        "targetChar": "壇",
+        "word": "講壇",
+        "sentence": "校長站在講壇上致詞。",
+        "answer": "壇",
+        "options": [
+          "壇",
+          "矣",
+          "辨",
+          "杏"
+        ],
+        "hint": "想一想「講壇」要用哪個字。",
+        "explanation": "答案是「壇」。"
+      },
+      {
+        "id": "q8",
+        "targetChar": "徒",
+        "word": "徒弟",
+        "sentence": "師父耐心教導徒弟。",
+        "answer": "徒",
+        "options": [
+          "徒",
+          "舊",
+          "警",
+          "婆"
+        ],
+        "hint": "想一想「徒弟」要用哪個字。",
+        "explanation": "答案是「徒」。"
+      },
+      {
+        "id": "q9",
+        "targetChar": "鍊",
+        "word": "鍛鍊",
+        "sentence": "每天鍛鍊能讓身體更健康。",
+        "answer": "鍊",
+        "options": [
+          "鍊",
+          "焉",
+          "惕",
+          "娑"
+        ],
+        "hint": "想一想「鍛鍊」要用哪個字。",
+        "explanation": "答案是「鍊」。"
+      },
+      {
+        "id": "q10",
+        "targetChar": "曰",
+        "word": "子曰",
+        "sentence": "古文中常見「子曰」這樣的說法。",
+        "answer": "曰",
+        "options": [
+          "曰",
+          "亦",
+          "慧",
+          "鏗"
+        ],
+        "hint": "想一想「子曰」要用哪個字。",
+        "explanation": "答案是「曰」。"
+      },
+      {
+        "id": "q11",
+        "targetChar": "矣",
+        "word": "而已矣",
+        "sentence": "事情到此而已矣。",
+        "answer": "矣",
+        "options": [
+          "矣",
+          "辨",
+          "杏",
+          "鏘"
+        ],
+        "hint": "想一想「而已矣」要用哪個字。",
+        "explanation": "答案是「矣」。"
+      },
+      {
+        "id": "q12",
+        "targetChar": "舊",
+        "word": "舊物",
+        "sentence": "我整理房間時找到許多舊物。",
+        "answer": "舊",
+        "options": [
+          "舊",
+          "警",
+          "婆",
+          "撫"
+        ],
+        "hint": "想一想「舊物」要用哪個字。",
+        "explanation": "答案是「舊」。"
+      },
+      {
+        "id": "q13",
+        "targetChar": "焉",
+        "word": "焉知",
+        "sentence": "塞翁失馬，焉知非福。",
+        "answer": "焉",
+        "options": [
+          "焉",
+          "惕",
+          "娑",
+          "壇"
+        ],
+        "hint": "想一想「焉知」要用哪個字。",
+        "explanation": "答案是「焉」。"
+      },
+      {
+        "id": "q14",
+        "targetChar": "亦",
+        "word": "亦可",
+        "sentence": "這個方法簡單，另一個方法亦可。",
+        "answer": "亦",
+        "options": [
+          "亦",
+          "慧",
+          "鏗",
+          "徒"
+        ],
+        "hint": "想一想「亦可」要用哪個字。",
+        "explanation": "答案是「亦」。"
+      },
+      {
+        "id": "q15",
+        "targetChar": "辨",
+        "word": "分辨",
+        "sentence": "我們要仔細分辨相似的字。",
+        "answer": "辨",
+        "options": [
+          "辨",
+          "杏",
+          "鏘",
+          "鍊"
+        ],
+        "hint": "想一想「分辨」要用哪個字。",
+        "explanation": "答案是「辨」。"
+      },
+      {
+        "id": "q16",
+        "targetChar": "警",
+        "word": "警告",
+        "sentence": "老師提醒大家注意安全警告。",
+        "answer": "警",
+        "options": [
+          "警",
+          "婆",
+          "撫",
+          "曰"
+        ],
+        "hint": "想一想「警告」要用哪個字。",
+        "explanation": "答案是「警」。"
+      },
+      {
+        "id": "q17",
+        "targetChar": "惕",
+        "word": "警惕",
+        "sentence": "過馬路時要保持警惕。",
+        "answer": "惕",
+        "options": [
+          "惕",
+          "娑",
+          "壇",
+          "矣"
+        ],
+        "hint": "想一想「警惕」要用哪個字。",
+        "explanation": "答案是「惕」。"
+      },
+      {
+        "id": "q18",
+        "targetChar": "慧",
+        "word": "智慧",
+        "sentence": "閱讀能累積知識與智慧。",
+        "answer": "慧",
+        "options": [
+          "慧",
+          "鏗",
+          "徒",
+          "舊"
+        ],
+        "hint": "想一想「智慧」要用哪個字。",
+        "explanation": "答案是「慧」。"
+      }
+    ]
+  },
+  "createdAt": "2026-09-04T01:00:00.000Z"
+}
