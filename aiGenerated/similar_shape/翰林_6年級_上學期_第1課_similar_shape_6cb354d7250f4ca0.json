@@ -1,0 +1,65 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第1課_similar_shape_6cb354d7250f4ca0",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "targetChar": "蝴",
+    "lessonChars": [
+      "皺",
+      "晃",
+      "弄",
+      "摯",
+      "蝴",
+      "蝶",
+      "蛹",
+      "翼",
+      "註",
+      "儲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "蝴",
+    "similarChars": [
+      {
+        "char": "湖",
+        "similarity": "右邊都是「胡」，整體左右結構非常接近。",
+        "difference": "「湖」左邊是水部；「蝴」左邊是虫部。"
+      },
+      {
+        "char": "糊",
+        "similarity": "右邊都是「胡」，字形寬度和排列很像。",
+        "difference": "「糊」左邊是米部；「蝴」左邊是虫部。"
+      },
+      {
+        "char": "瑚",
+        "similarity": "右邊完全相同，都是「胡」。",
+        "difference": "「瑚」左邊是玉部；「蝴」左邊是虫部。"
+      },
+      {
+        "char": "葫",
+        "similarity": "都含有「胡」這個完整部件。",
+        "difference": "「葫」上方是艹，呈上下結構；「蝴」是左虫右胡。"
+      },
+      {
+        "char": "胡",
+        "similarity": "「胡」就是「蝴」右邊的完整部件。",
+        "difference": "「蝴」比「胡」多了左邊的虫部。"
+      },
+      {
+        "char": "醐",
+        "similarity": "右邊同樣是「胡」，右側輪廓一致。",
+        "difference": "「醐」左邊是酉部；「蝴」左邊是虫部。"
+      }
+    ],
+    "teachingTip": "「蝴」出現在「蝴蝶」時和昆蟲有關，因此左邊要找虫部。右邊雖然和「湖、糊、瑚」一樣都是「胡」，左邊偏旁才是辨認關鍵。"
+  },
+  "createdAt": "2026-09-03T01:55:57.854Z"
+}
