@@ -1,0 +1,30 @@
+{
+  "taskType": "component_split",
+  "requestId": "翰林_6年級_上學期_第1課_component_split_4f39b0998e7b7c3b",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "皺",
+    "strokeCount": 15,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      10,
+      5
+    ],
+    "components": [
+      "芻",
+      "皮"
+    ],
+    "strokeCount": 15,
+    "verified": true,
+    "note": "依連續筆順分組：左側芻10畫，右側皮5畫。"
+  },
+  "createdAt": "2026-09-03T15:55:00.000Z"
+}
