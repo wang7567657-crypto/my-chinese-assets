@@ -1,0 +1,226 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "翰林_6年級_上學期_第1課_fillblank_generate_80bca68c4ea105f6",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "title": "第1課 全課填空",
+    "items": [
+      {
+        "char": "皺",
+        "word": "皺"
+      },
+      {
+        "char": "晃",
+        "word": "晃"
+      },
+      {
+        "char": "弄",
+        "word": "弄"
+      },
+      {
+        "char": "摯",
+        "word": "摯"
+      },
+      {
+        "char": "蝴",
+        "word": "蝴"
+      },
+      {
+        "char": "蝶",
+        "word": "蝶"
+      },
+      {
+        "char": "蛹",
+        "word": "蛹"
+      },
+      {
+        "char": "翼",
+        "word": "翼"
+      },
+      {
+        "char": "註",
+        "word": "註"
+      },
+      {
+        "char": "儲",
+        "word": "儲"
+      }
+    ],
+    "chars": [
+      "皺",
+      "晃",
+      "弄",
+      "摯",
+      "蝴",
+      "蝶",
+      "蛹",
+      "翼",
+      "註",
+      "儲"
+    ],
+    "count": 10,
+    "level": "國小中高年級",
+    "autoLesson": true
+  },
+  "data": {
+    "title": "第1課 全課填空",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "皺",
+        "word": "皺",
+        "sentence": "奶奶笑起來時，眼角出現細細的皺紋。",
+        "answer": "皺",
+        "options": [
+          "皺",
+          "摯",
+          "翼",
+          "儲"
+        ],
+        "hint": "哪個字常和「紋」組成詞語？",
+        "explanation": "「皺紋」是皮膚或物體表面形成的紋路。"
+      },
+      {
+        "id": "q2",
+        "targetChar": "晃",
+        "word": "晃",
+        "sentence": "風吹過來，樹枝不停地左右搖晃。",
+        "answer": "晃",
+        "options": [
+          "晃",
+          "弄",
+          "註",
+          "蝶"
+        ],
+        "hint": "句子在說東西來回擺動。",
+        "explanation": "「搖晃」表示來回擺動。"
+      },
+      {
+        "id": "q3",
+        "targetChar": "弄",
+        "word": "弄",
+        "sentence": "我查了資料，終於把事情的原因弄清楚了。",
+        "answer": "弄",
+        "options": [
+          "弄",
+          "蛹",
+          "皺",
+          "翼"
+        ],
+        "hint": "這個詞表示把事情處理到明白。",
+        "explanation": "「弄清楚」表示把事情了解明白。"
+      },
+      {
+        "id": "q4",
+        "targetChar": "摯",
+        "word": "摯",
+        "sentence": "他用真摯的語氣向朋友表達感謝。",
+        "answer": "摯",
+        "options": [
+          "摯",
+          "註",
+          "儲",
+          "蝴"
+        ],
+        "hint": "這個詞和真誠、誠懇有關。",
+        "explanation": "「真摯」表示真誠而深厚。"
+      },
+      {
+        "id": "q5",
+        "targetChar": "蝴",
+        "word": "蝴",
+        "sentence": "花園裡有一隻蝴蝶停在花朵上。",
+        "answer": "蝴",
+        "options": [
+          "蝴",
+          "蛹",
+          "晃",
+          "皺"
+        ],
+        "hint": "這個字常和「蝶」組成昆蟲名稱。",
+        "explanation": "「蝴蝶」是一種有翅膀的昆蟲。"
+      },
+      {
+        "id": "q6",
+        "targetChar": "蝶",
+        "word": "蝶",
+        "sentence": "彩色的蝴蝶在花叢間輕輕飛舞。",
+        "answer": "蝶",
+        "options": [
+          "蝶",
+          "翼",
+          "註",
+          "弄"
+        ],
+        "hint": "前面常和「蝴」連在一起。",
+        "explanation": "「蝶」常出現在「蝴蝶」這個詞裡。"
+      },
+      {
+        "id": "q7",
+        "targetChar": "蛹",
+        "word": "蛹",
+        "sentence": "毛毛蟲形成蛹後，會在裡面慢慢變化。",
+        "answer": "蛹",
+        "options": [
+          "蛹",
+          "蝴",
+          "摯",
+          "儲"
+        ],
+        "hint": "這是昆蟲成長過程的一個階段。",
+        "explanation": "「蛹」是有些昆蟲由幼蟲變成成蟲前的階段。"
+      },
+      {
+        "id": "q8",
+        "targetChar": "翼",
+        "word": "翼",
+        "sentence": "老鷹張開羽翼，在天空中盤旋。",
+        "answer": "翼",
+        "options": [
+          "翼",
+          "晃",
+          "皺",
+          "註"
+        ],
+        "hint": "這個字和翅膀有關。",
+        "explanation": "「羽翼」就是翅膀。"
+      },
+      {
+        "id": "q9",
+        "targetChar": "註",
+        "word": "註",
+        "sentence": "請在作業上註明自己的班級和座號。",
+        "answer": "註",
+        "options": [
+          "註",
+          "儲",
+          "摯",
+          "弄"
+        ],
+        "hint": "這個詞表示用文字寫清楚。",
+        "explanation": "「註明」表示用文字寫清楚、特別標示。"
+      },
+      {
+        "id": "q10",
+        "targetChar": "儲",
+        "word": "儲",
+        "sentence": "我把重要的照片儲存在電腦裡。",
+        "answer": "儲",
+        "options": [
+          "儲",
+          "註",
+          "蝶",
+          "晃"
+        ],
+        "hint": "這個詞表示把東西保存起來。",
+        "explanation": "「儲存」表示保存，留待之後使用。"
+      }
+    ]
+  },
+  "createdAt": "2026-09-03T02:05:02.422Z"
+}
