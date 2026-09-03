@@ -1,0 +1,30 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "example_request_id",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "char": "註",
+    "publisher": "",
+    "grade": "",
+    "semester": "",
+    "lesson": ""
+  },
+  "data": {
+    "char": "註",
+    "groups": {
+      "shape": [
+        {
+          "char": "注",
+          "why": "字形相近",
+          "difference": "言字旁／三點水"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": ""
+  },
+  "createdAt": ""
+}
