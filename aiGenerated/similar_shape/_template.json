@@ -1,0 +1,20 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "example_request_id",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "",
+    "grade": "",
+    "semester": "",
+    "lesson": "",
+    "targetChar": "",
+    "lessonChars": []
+  },
+  "data": {
+    "targetChar": "",
+    "similarChars": [],
+    "teachingTip": ""
+  },
+  "createdAt": ""
+}
