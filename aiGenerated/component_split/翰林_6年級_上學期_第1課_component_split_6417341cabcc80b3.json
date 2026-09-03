@@ -1,0 +1,32 @@
+{
+  "taskType": "component_split",
+  "requestId": "翰林_6年級_上學期_第1課_component_split_6417341cabcc80b3",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "蝴",
+    "strokeCount": 15,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "structure": "左中右",
+    "split": [
+      6,
+      5,
+      4
+    ],
+    "components": [
+      "虫",
+      "古",
+      "月"
+    ],
+    "strokeCount": 15,
+    "verified": true,
+    "note": "依連續筆順分組：虫6畫、古5畫、月4畫；6+5+4=15。"
+  },
+  "createdAt": "2026-09-03T16:20:00.000Z"
+}
