@@ -1,0 +1,9 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_1年級_上學期_首冊-統整_confusion_analysis_0d67c26bed33332c",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {"publisher":"南一","grade":"1年級","semester":"上學期","lesson":"首冊/統整","char":"手","level":"國小中高年級"},
+  "data": {"char":"手","groups":{"shape":[{"char":"毛","why":"字形相近","difference":"「手」的直鉤位置與「毛」不同。"},{"char":"丰","why":"字形相近","difference":"「手」有彎鉤，「丰」以直畫穿過橫畫。"}],"sound":[],"meaning":[],"component":[]},"tip":"先看最後一筆有沒有彎鉤，再比較橫畫的位置。"},
+  "createdAt": "2026-09-04T02:50:00.000Z"
+}
