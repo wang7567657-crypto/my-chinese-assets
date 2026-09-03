@@ -1,0 +1,214 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "翰林_1年級_上學期_第1課_fillblank_generate_28ac1d07ba9ecfef",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "1年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "title": "第1課 全課填空",
+    "items": [
+      {
+        "char": "起",
+        "word": "起"
+      },
+      {
+        "char": "走",
+        "word": "走"
+      },
+      {
+        "char": "你",
+        "word": "你"
+      },
+      {
+        "char": "在",
+        "word": "在"
+      },
+      {
+        "char": "左",
+        "word": "左"
+      },
+      {
+        "char": "我",
+        "word": "我"
+      },
+      {
+        "char": "右",
+        "word": "右"
+      },
+      {
+        "char": "和",
+        "word": "和"
+      },
+      {
+        "char": "向",
+        "word": "向"
+      },
+      {
+        "char": "前",
+        "word": "前"
+      }
+    ],
+    "level": "國小中高年級",
+    "sourceRequestId": "",
+    "autoLesson": true
+  },
+  "data": {
+    "title": "第1課 全課填空",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "起",
+        "word": "一起",
+        "sentence": "下課了，我們一起去操場玩。",
+        "answer": "起",
+        "options": [
+          "起",
+          "在",
+          "和",
+          "走"
+        ],
+        "hint": "和大家共同做一件事有關。",
+        "explanation": "「一起」表示共同、同時。"
+      },
+      {
+        "id": "q2",
+        "targetChar": "走",
+        "word": "走路",
+        "sentence": "我每天走路到學校。",
+        "answer": "走",
+        "options": [
+          "走",
+          "左",
+          "向",
+          "你"
+        ],
+        "hint": "用腳一步一步前進。",
+        "explanation": "「走路」就是用腳行走。"
+      },
+      {
+        "id": "q3",
+        "targetChar": "你",
+        "word": "你好",
+        "sentence": "早上看到同學，我會說：「你好！」",
+        "answer": "你",
+        "options": [
+          "你",
+          "我",
+          "前",
+          "在"
+        ],
+        "hint": "跟別人打招呼時會用到。",
+        "explanation": "「你」是稱呼對方。"
+      },
+      {
+        "id": "q4",
+        "targetChar": "在",
+        "word": "現在",
+        "sentence": "現在是上課時間，要專心聽講。",
+        "answer": "在",
+        "options": [
+          "在",
+          "右",
+          "起",
+          "左"
+        ],
+        "hint": "表示這個時候。",
+        "explanation": "「現在」表示目前。"
+      },
+      {
+        "id": "q5",
+        "targetChar": "左",
+        "word": "左邊",
+        "sentence": "鉛筆盒放在課本的左邊。",
+        "answer": "左",
+        "options": [
+          "左",
+          "和",
+          "走",
+          "我"
+        ],
+        "hint": "和右邊相反的方向。",
+        "explanation": "「左邊」是相對於右邊的位置。"
+      },
+      {
+        "id": "q6",
+        "targetChar": "我",
+        "word": "我們",
+        "sentence": "我們一起把教室整理乾淨。",
+        "answer": "我",
+        "options": [
+          "我",
+          "向",
+          "你",
+          "右"
+        ],
+        "hint": "包含自己和別人。",
+        "explanation": "「我們」表示自己和其他人。"
+      },
+      {
+        "id": "q7",
+        "targetChar": "右",
+        "word": "右手",
+        "sentence": "寫字時，我用右手拿鉛筆。",
+        "answer": "右",
+        "options": [
+          "右",
+          "前",
+          "在",
+          "和"
+        ],
+        "hint": "和左邊相反的方向。",
+        "explanation": "「右手」是身體右側的手。"
+      },
+      {
+        "id": "q8",
+        "targetChar": "和",
+        "word": "和平",
+        "sentence": "大家互相尊重，才能和平相處。",
+        "answer": "和",
+        "options": [
+          "和",
+          "起",
+          "左",
+          "向"
+        ],
+        "hint": "有一起、相處的意思。",
+        "explanation": "「和平」也表示沒有衝突。"
+      },
+      {
+        "id": "q9",
+        "targetChar": "向",
+        "word": "方向",
+        "sentence": "老師教我們分辨東西南北的方向。",
+        "answer": "向",
+        "options": [
+          "向",
+          "走",
+          "我",
+          "前"
+        ],
+        "hint": "表示朝著哪一邊。",
+        "explanation": "「方向」表示所朝的位置。"
+      },
+      {
+        "id": "q10",
+        "targetChar": "前",
+        "word": "前面",
+        "sentence": "老師站在教室前面說明今天的活動。",
+        "answer": "前",
+        "options": [
+          "前",
+          "你",
+          "右",
+          "起"
+        ],
+        "hint": "和後面相反的位置。",
+        "explanation": "「前面」表示較靠前的位置。"
+      }
+    ]
+  },
+  "createdAt": "2026-09-03T15:50:00.000Z"
+}
