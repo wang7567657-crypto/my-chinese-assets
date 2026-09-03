@@ -1,0 +1,65 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第1課_similar_shape_0dd03cf48ad1bcfb",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "targetChar": "蝶",
+    "lessonChars": [
+      "皺",
+      "晃",
+      "弄",
+      "摯",
+      "蝴",
+      "蝶",
+      "蛹",
+      "翼",
+      "註",
+      "儲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "蝶",
+    "similarChars": [
+      {
+        "char": "碟",
+        "similarity": "右邊都含有相同的「枼」形部件，整體輪廓非常接近。",
+        "difference": "「蝶」左邊是虫部；「碟」左邊是石部。"
+      },
+      {
+        "char": "諜",
+        "similarity": "右邊主體和「蝶」相同，都是左右結構。",
+        "difference": "「諜」左邊是言部；「蝶」左邊是虫部。"
+      },
+      {
+        "char": "喋",
+        "similarity": "右邊和「蝶」相同，筆畫分布很接近。",
+        "difference": "「喋」左邊是口部；「蝶」左邊是虫部。"
+      },
+      {
+        "char": "牒",
+        "similarity": "右邊都含相同部件，字形中右半部幾乎一致。",
+        "difference": "「牒」左邊不是虫部，整體左側形狀不同。"
+      },
+      {
+        "char": "蹀",
+        "similarity": "右邊與「蝶」相近，字形容易因右半部相同而混淆。",
+        "difference": "「蹀」左邊是足部；「蝶」左邊是虫部。"
+      },
+      {
+        "char": "堞",
+        "similarity": "右邊與「蝶」相同，都是左窄右寬的結構。",
+        "difference": "「堞」左邊是土部；「蝶」左邊是虫部。"
+      }
+    ],
+    "teachingTip": "辨認「蝶」時先看左邊是不是虫部。看到虫部，再配上右邊的「枼」形部件，就比較不會和「碟、諜、喋」混淆。"
+  },
+  "createdAt": "2026-09-03T01:56:01.206Z"
+}
