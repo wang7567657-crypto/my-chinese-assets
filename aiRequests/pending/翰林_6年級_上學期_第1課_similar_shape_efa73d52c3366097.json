@@ -1,0 +1,29 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第1課_similar_shape_efa73d52c3366097",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "targetChar": "翼",
+    "lessonChars": [
+      "皺",
+      "晃",
+      "弄",
+      "摯",
+      "蝴",
+      "蝶",
+      "蛹",
+      "翼",
+      "註",
+      "儲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "createdAt": "2026-09-03T01:56:06.399Z"
+}
