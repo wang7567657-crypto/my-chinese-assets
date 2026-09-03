@@ -1,0 +1,29 @@
+{
+  "taskType": "component_split",
+  "requestId": "翰林_6年級_上學期_第3課_component_split_2d9a91947ccb2a36",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "杏",
+    "strokeCount": 7,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "structure": "上下",
+    "split": [
+      4,
+      3
+    ],
+    "components": [
+      "木",
+      "口"
+    ],
+    "strokeCount": 7,
+    "verified": true
+  },
+  "createdAt": "2026-09-04T00:50:00.000Z"
+}
