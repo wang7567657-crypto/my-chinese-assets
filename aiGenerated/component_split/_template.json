@@ -9,16 +9,18 @@
     "strokeSource": "c9s/zh-stroke-data"
   },
   "data": {
-    "structure": "左下包圍",
+    "structure": "左右",
     "split": [
       3,
       7
     ],
     "components": [
-      "辶",
-      "車"
+      "部件一",
+      "部件二"
     ],
-    "note": "split 依筆順連續分組"
+    "strokeCount": 10,
+    "verified": true,
+    "note": "split 依台灣筆順資料的連續筆畫分組；加總必須等於 strokeCount。"
   },
   "createdAt": ""
 }
