@@ -1,0 +1,37 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_1年級_上學期_首冊-統整_similar_shape_e822249e8d0b7dab",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "南一",
+    "grade": "1年級",
+    "semester": "上學期",
+    "lesson": "首冊/統整",
+    "targetChar": "二",
+    "lessonChars": [
+      "一",
+      "二",
+      "三",
+      "四",
+      "五",
+      "六",
+      "七",
+      "八",
+      "九",
+      "十",
+      "日",
+      "月",
+      "山",
+      "木",
+      "水",
+      "人",
+      "手",
+      "門"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "createdAt": "2026-09-03T16:50:57.812Z"
+}
