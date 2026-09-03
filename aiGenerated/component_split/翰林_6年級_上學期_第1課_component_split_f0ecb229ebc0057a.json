@@ -1,0 +1,27 @@
+{
+  "taskType": "component_split",
+  "requestId": "翰林_6年級_上學期_第1課_component_split_f0ecb229ebc0057a",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "蝶",
+    "strokeCount": 17,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [],
+    "components": [
+      "虫",
+      "枼"
+    ],
+    "strokeCount": 17,
+    "verified": false,
+    "note": "目前輸入的17畫與常見部件拆分筆畫數無法一致驗證，為避免教錯暫不寫入正式部件字典。"
+  },
+  "createdAt": "2026-09-03T16:20:00.000Z"
+}
