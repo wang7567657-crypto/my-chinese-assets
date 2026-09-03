@@ -1,0 +1,41 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第1課_confusion_analysis_53100f6346298a92",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "儲",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "儲",
+    "groups": {
+      "shape": [
+        {
+          "char": "諸",
+          "why": "字形相近",
+          "difference": "比較「儲」和「諸」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "著",
+          "why": "字形相近",
+          "difference": "比較「儲」和「著」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "緒",
+          "why": "字形相近",
+          "difference": "比較「儲」和「緒」的偏旁與關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "把「儲」放進「儲存」中記憶。"
+  },
+  "createdAt": "2026-09-04T02:43:00.000Z"
+}
