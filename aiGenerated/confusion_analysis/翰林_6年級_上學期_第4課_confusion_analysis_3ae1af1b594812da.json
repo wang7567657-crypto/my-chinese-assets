@@ -1,0 +1,41 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_3ae1af1b594812da",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "擴",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "擴",
+    "groups": {
+      "shape": [
+        {
+          "char": "礦",
+          "why": "字形相近",
+          "difference": "比較「擴」與「礦」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "曠",
+          "why": "字形相近",
+          "difference": "比較「擴」與「曠」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "廣",
+          "why": "字形相近",
+          "difference": "比較「擴」與「廣」的偏旁與關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "把「擴」放進「擴大」中記憶。"
+  },
+  "createdAt": "2026-09-04T02:14:00.000Z"
+}
