@@ -1,3 +1,242 @@
 {
-"taskType":"listening_quiz","requestId":"翰林_6年級_上學期_第4課_listening_quiz_fe67b3455db8e795","version":"1.0","source":"chatgpt","input":{"publisher":"翰林","grade":"6年級","semester":"上學期","lesson":"第4課","chars":["鰭","划","奧","仿","迫","蚊","膚","鋸","劃","擴","液","奈","構","鵰","霸","翹","垂"],"count":17,"level":"國小中高年級"},"data":{"questions":[]},"createdAt":"2026-09-04T01:55:00.000Z"}
+  "taskType": "listening_quiz",
+  "requestId": "翰林_6年級_上學期_第4課_listening_quiz_fe67b3455db8e795",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "chars": [
+      "鰭",
+      "划",
+      "奧",
+      "仿",
+      "迫",
+      "蚊",
+      "膚",
+      "鋸",
+      "劃",
+      "擴",
+      "液",
+      "奈",
+      "構",
+      "鵰",
+      "霸",
+      "翹",
+      "垂"
+    ],
+    "count": 17,
+    "level": "國小中高年級"
+  },
+  "data": {
+    "questions": [
+      {
+        "char": "鰭",
+        "zhuyin": "ㄑㄧˊ",
+        "word": "魚鰭",
+        "options": [
+          "鰭",
+          "迫",
+          "劃",
+          "構"
+        ],
+        "explanation": "「鰭」讀ㄑㄧˊ，例如「魚鰭」。"
+      },
+      {
+        "char": "划",
+        "zhuyin": "ㄏㄨㄚˊ",
+        "word": "划船",
+        "options": [
+          "划",
+          "蚊",
+          "擴",
+          "鵰"
+        ],
+        "explanation": "「划」讀ㄏㄨㄚˊ，例如「划船」。"
+      },
+      {
+        "char": "奧",
+        "zhuyin": "ㄠˋ",
+        "word": "奧祕",
+        "options": [
+          "奧",
+          "膚",
+          "液",
+          "霸"
+        ],
+        "explanation": "「奧」讀ㄠˋ，例如「奧祕」。"
+      },
+      {
+        "char": "仿",
+        "zhuyin": "ㄈㄤˇ",
+        "word": "模仿",
+        "options": [
+          "仿",
+          "鋸",
+          "奈",
+          "翹"
+        ],
+        "explanation": "「仿」讀ㄈㄤˇ，例如「模仿」。"
+      },
+      {
+        "char": "迫",
+        "zhuyin": "ㄆㄛˋ",
+        "word": "壓迫",
+        "options": [
+          "迫",
+          "劃",
+          "構",
+          "垂"
+        ],
+        "explanation": "「迫」讀ㄆㄛˋ，例如「壓迫」。"
+      },
+      {
+        "char": "蚊",
+        "zhuyin": "ㄨㄣˊ",
+        "word": "蚊子",
+        "options": [
+          "蚊",
+          "擴",
+          "鵰",
+          "鰭"
+        ],
+        "explanation": "「蚊」讀ㄨㄣˊ，例如「蚊子」。"
+      },
+      {
+        "char": "膚",
+        "zhuyin": "ㄈㄨ",
+        "word": "皮膚",
+        "options": [
+          "膚",
+          "液",
+          "霸",
+          "划"
+        ],
+        "explanation": "「膚」讀ㄈㄨ，例如「皮膚」。"
+      },
+      {
+        "char": "鋸",
+        "zhuyin": "ㄐㄩˋ",
+        "word": "鋸子",
+        "options": [
+          "鋸",
+          "奈",
+          "翹",
+          "奧"
+        ],
+        "explanation": "「鋸」讀ㄐㄩˋ，例如「鋸子」。"
+      },
+      {
+        "char": "劃",
+        "zhuyin": "ㄏㄨㄚˋ",
+        "word": "劃分",
+        "options": [
+          "劃",
+          "構",
+          "垂",
+          "仿"
+        ],
+        "explanation": "「劃」讀ㄏㄨㄚˋ，例如「劃分」。"
+      },
+      {
+        "char": "擴",
+        "zhuyin": "ㄎㄨㄛˋ",
+        "word": "擴大",
+        "options": [
+          "擴",
+          "鵰",
+          "鰭",
+          "迫"
+        ],
+        "explanation": "「擴」讀ㄎㄨㄛˋ，例如「擴大」。"
+      },
+      {
+        "char": "液",
+        "zhuyin": "ㄧㄝˋ",
+        "word": "液體",
+        "options": [
+          "液",
+          "霸",
+          "划",
+          "蚊"
+        ],
+        "explanation": "「液」讀ㄧㄝˋ，例如「液體」。"
+      },
+      {
+        "char": "奈",
+        "zhuyin": "ㄋㄞˋ",
+        "word": "無奈",
+        "options": [
+          "奈",
+          "翹",
+          "奧",
+          "膚"
+        ],
+        "explanation": "「奈」讀ㄋㄞˋ，例如「無奈」。"
+      },
+      {
+        "char": "構",
+        "zhuyin": "ㄍㄡˋ",
+        "word": "結構",
+        "options": [
+          "構",
+          "垂",
+          "仿",
+          "鋸"
+        ],
+        "explanation": "「構」讀ㄍㄡˋ，例如「結構」。"
+      },
+      {
+        "char": "鵰",
+        "zhuyin": "ㄉㄧㄠ",
+        "word": "大鵰",
+        "options": [
+          "鵰",
+          "鰭",
+          "迫",
+          "劃"
+        ],
+        "explanation": "「鵰」讀ㄉㄧㄠ，例如「大鵰」。"
+      },
+      {
+        "char": "霸",
+        "zhuyin": "ㄅㄚˋ",
+        "word": "霸主",
+        "options": [
+          "霸",
+          "划",
+          "蚊",
+          "擴"
+        ],
+        "explanation": "「霸」讀ㄅㄚˋ，例如「霸主」。"
+      },
+      {
+        "char": "翹",
+        "zhuyin": "ㄑㄧㄠˋ",
+        "word": "翹起",
+        "options": [
+          "翹",
+          "奧",
+          "膚",
+          "液"
+        ],
+        "explanation": "「翹」讀ㄑㄧㄠˋ，例如「翹起」。"
+      },
+      {
+        "char": "垂",
+        "zhuyin": "ㄔㄨㄟˊ",
+        "word": "垂下",
+        "options": [
+          "垂",
+          "仿",
+          "鋸",
+          "奈"
+        ],
+        "explanation": "「垂」讀ㄔㄨㄟˊ，例如「垂下」。"
+      }
+    ]
+  },
+  "createdAt": "2026-09-04T01:58:00.000Z"
 }
