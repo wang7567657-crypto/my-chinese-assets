@@ -1,0 +1,17 @@
+{
+  "taskType": "component_split",
+  "requestId": "翰林_6年級_上學期_第2課_component_split_5ca291d1a7f50735",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "辯",
+    "strokeCount": 21,
+    "strokeSource": "c9s/zh-stroke-data",
+    "instruction": "請依台灣筆順資料的連續筆畫順序，判斷實際部件拆分。split 加總必須等於 strokeCount。回傳 structure、split、components、verified=true。"
+  },
+  "createdAt": "2026-09-03T16:01:32.638Z"
+}
