@@ -1,0 +1,404 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "翰林_6年級_下學期_第1課_fillblank_generate_59e1c4899fccdba2",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "下學期",
+    "lesson": "第1課",
+    "title": "第1課 全課填空",
+    "items": [
+      {
+        "char": "遛",
+        "word": "遛"
+      },
+      {
+        "char": "逛",
+        "word": "逛"
+      },
+      {
+        "char": "繫",
+        "word": "繫"
+      },
+      {
+        "char": "陌",
+        "word": "陌"
+      },
+      {
+        "char": "俐",
+        "word": "俐"
+      },
+      {
+        "char": "醬",
+        "word": "醬"
+      },
+      {
+        "char": "咖",
+        "word": "咖"
+      },
+      {
+        "char": "啡",
+        "word": "啡"
+      },
+      {
+        "char": "倚",
+        "word": "倚"
+      },
+      {
+        "char": "貨",
+        "word": "貨"
+      },
+      {
+        "char": "築",
+        "word": "築"
+      },
+      {
+        "char": "恨",
+        "word": "恨"
+      },
+      {
+        "char": "贈",
+        "word": "贈"
+      },
+      {
+        "char": "剌",
+        "word": "剌"
+      },
+      {
+        "char": "豔",
+        "word": "豔"
+      },
+      {
+        "char": "辣",
+        "word": "辣"
+      },
+      {
+        "char": "襯",
+        "word": "襯"
+      },
+      {
+        "char": "托",
+        "word": "托"
+      },
+      {
+        "char": "彰",
+        "word": "彰"
+      },
+      {
+        "char": "購",
+        "word": "購"
+      }
+    ],
+    "level": "國小中高年級",
+    "sourceRequestId": "",
+    "autoLesson": true
+  },
+  "data": {
+    "title": "第1課 全課填空",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "遛",
+        "word": "遛狗",
+        "sentence": "傍晚時，我牽著小狗到公園遛狗。",
+        "answer": "遛",
+        "options": [
+          "遛",
+          "陌",
+          "啡",
+          "恨"
+        ],
+        "hint": "帶寵物出去走走。",
+        "explanation": "「遛狗」表示帶狗外出散步。"
+      },
+      {
+        "id": "q2",
+        "targetChar": "逛",
+        "word": "逛街",
+        "sentence": "週末我們到老街逛街，欣賞沿途店家。",
+        "answer": "逛",
+        "options": [
+          "逛",
+          "俐",
+          "倚",
+          "贈"
+        ],
+        "hint": "慢慢走著看看。",
+        "explanation": "「逛街」表示在街上遊覽、購物。"
+      },
+      {
+        "id": "q3",
+        "targetChar": "繫",
+        "word": "聯繫",
+        "sentence": "我們用電話和遠方的朋友保持聯繫。",
+        "answer": "繫",
+        "options": [
+          "繫",
+          "醬",
+          "貨",
+          "剌"
+        ],
+        "hint": "和彼此保持接觸有關。",
+        "explanation": "「聯繫」表示彼此連絡。"
+      },
+      {
+        "id": "q4",
+        "targetChar": "陌",
+        "word": "陌生",
+        "sentence": "第一次來到這裡，我對附近環境很陌生。",
+        "answer": "陌",
+        "options": [
+          "陌",
+          "咖",
+          "築",
+          "豔"
+        ],
+        "hint": "不熟悉。",
+        "explanation": "「陌生」表示不熟悉。"
+      },
+      {
+        "id": "q5",
+        "targetChar": "俐",
+        "word": "伶俐",
+        "sentence": "妹妹反應很快，是個聰明伶俐的孩子。",
+        "answer": "俐",
+        "options": [
+          "俐",
+          "啡",
+          "恨",
+          "辣"
+        ],
+        "hint": "常和「伶」組成詞。",
+        "explanation": "「伶俐」表示聰明靈活。"
+      },
+      {
+        "id": "q6",
+        "targetChar": "醬",
+        "word": "醬料",
+        "sentence": "這道料理加了一點醬料後更有味道。",
+        "answer": "醬",
+        "options": [
+          "醬",
+          "倚",
+          "贈",
+          "襯"
+        ],
+        "hint": "用來調味的食品。",
+        "explanation": "「醬料」是調味用的醬。"
+      },
+      {
+        "id": "q7",
+        "targetChar": "咖",
+        "word": "咖啡",
+        "sentence": "爸爸早上喝了一杯熱咖啡。",
+        "answer": "咖",
+        "options": [
+          "咖",
+          "貨",
+          "剌",
+          "托"
+        ],
+        "hint": "常和「啡」組成飲料名稱。",
+        "explanation": "「咖啡」是一種常見飲料。"
+      },
+      {
+        "id": "q8",
+        "targetChar": "啡",
+        "word": "咖啡",
+        "sentence": "桌上放著一杯香氣濃郁的咖啡。",
+        "answer": "啡",
+        "options": [
+          "啡",
+          "築",
+          "豔",
+          "彰"
+        ],
+        "hint": "前面常接「咖」。",
+        "explanation": "「咖啡」由「咖、啡」兩字組成。"
+      },
+      {
+        "id": "q9",
+        "targetChar": "倚",
+        "word": "倚靠",
+        "sentence": "他倚靠在欄杆旁欣賞遠方風景。",
+        "answer": "倚",
+        "options": [
+          "倚",
+          "恨",
+          "辣",
+          "購"
+        ],
+        "hint": "身體靠著物體。",
+        "explanation": "「倚靠」表示靠著。"
+      },
+      {
+        "id": "q10",
+        "targetChar": "貨",
+        "word": "貨物",
+        "sentence": "卡車把貨物送到市場。",
+        "answer": "貨",
+        "options": [
+          "貨",
+          "贈",
+          "襯",
+          "遛"
+        ],
+        "hint": "可以買賣或運送的物品。",
+        "explanation": "「貨物」指供交易、運送的物品。"
+      },
+      {
+        "id": "q11",
+        "targetChar": "築",
+        "word": "建築",
+        "sentence": "這棟建築有一百多年的歷史。",
+        "answer": "築",
+        "options": [
+          "築",
+          "剌",
+          "托",
+          "逛"
+        ],
+        "hint": "房屋等建造物。",
+        "explanation": "「建築」可指建造，也可指建成的房屋。"
+      },
+      {
+        "id": "q12",
+        "targetChar": "恨",
+        "word": "怨恨",
+        "sentence": "與其一直怨恨，不如試著好好溝通。",
+        "answer": "恨",
+        "options": [
+          "恨",
+          "豔",
+          "彰",
+          "繫"
+        ],
+        "hint": "不滿、憎恨。",
+        "explanation": "「怨恨」表示強烈不滿。"
+      },
+      {
+        "id": "q13",
+        "targetChar": "贈",
+        "word": "贈送",
+        "sentence": "畢業時，老師贈送每位同學一張卡片。",
+        "answer": "贈",
+        "options": [
+          "贈",
+          "辣",
+          "購",
+          "陌"
+        ],
+        "hint": "把東西送給別人。",
+        "explanation": "「贈送」表示送給。"
+      },
+      {
+        "id": "q14",
+        "targetChar": "剌",
+        "word": "乖剌",
+        "sentence": "文中人物的態度乖剌，和周遭顯得格格不入。",
+        "answer": "剌",
+        "options": [
+          "剌",
+          "襯",
+          "遛",
+          "俐"
+        ],
+        "hint": "這個字較少單獨使用，要看課文詞語。",
+        "explanation": "「剌」是較少見字，學習時應連同課文詞語記憶。"
+      },
+      {
+        "id": "q15",
+        "targetChar": "豔",
+        "word": "鮮豔",
+        "sentence": "花園裡開滿顏色鮮豔的花。",
+        "answer": "豔",
+        "options": [
+          "豔",
+          "托",
+          "逛",
+          "醬"
+        ],
+        "hint": "顏色明亮美麗。",
+        "explanation": "「鮮豔」表示色彩明亮美麗。"
+      },
+      {
+        "id": "q16",
+        "targetChar": "辣",
+        "word": "辛辣",
+        "sentence": "這道料理味道辛辣，我只敢吃一小口。",
+        "answer": "辣",
+        "options": [
+          "辣",
+          "彰",
+          "繫",
+          "咖"
+        ],
+        "hint": "有強烈刺激的味道。",
+        "explanation": "「辛辣」表示味道辣而刺激。"
+      },
+      {
+        "id": "q17",
+        "targetChar": "襯",
+        "word": "襯托",
+        "sentence": "白雲襯托著藍天，看起來更加明亮。",
+        "answer": "襯",
+        "options": [
+          "襯",
+          "購",
+          "陌",
+          "啡"
+        ],
+        "hint": "使另一事物更突出。",
+        "explanation": "「襯托」表示陪襯而使主體更突出。"
+      },
+      {
+        "id": "q18",
+        "targetChar": "托",
+        "word": "托住",
+        "sentence": "他用雙手托住快要掉下來的紙箱。",
+        "answer": "托",
+        "options": [
+          "托",
+          "遛",
+          "俐",
+          "倚"
+        ],
+        "hint": "從下面承接。",
+        "explanation": "「托住」表示用手或物體承接。"
+      },
+      {
+        "id": "q19",
+        "targetChar": "彰",
+        "word": "彰顯",
+        "sentence": "他的行動彰顯了勇於負責的精神。",
+        "answer": "彰",
+        "options": [
+          "彰",
+          "逛",
+          "醬",
+          "貨"
+        ],
+        "hint": "明顯表現出來。",
+        "explanation": "「彰顯」表示清楚顯示。"
+      },
+      {
+        "id": "q20",
+        "targetChar": "購",
+        "word": "購買",
+        "sentence": "媽媽在市場購買新鮮蔬菜。",
+        "answer": "購",
+        "options": [
+          "購",
+          "繫",
+          "咖",
+          "築"
+        ],
+        "hint": "付錢取得物品。",
+        "explanation": "「購買」就是買東西。"
+      }
+    ]
+  },
+  "createdAt": "2026-09-03T15:50:00.000Z"
+}
