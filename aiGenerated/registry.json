@@ -25,6 +25,10 @@
     "material_tsv_rewrite": {
       "label": "教材編輯／AI 修改 TSV",
       "status": "active"
+    },
+    "component_split": {
+      "label": "部件拆分",
+      "status": "active"
     }
   }
 }
