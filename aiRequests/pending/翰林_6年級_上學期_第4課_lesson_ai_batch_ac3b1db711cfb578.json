@@ -1,0 +1,1525 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "翰林_6年級_上學期_第4課_lesson_ai_batch_ac3b1db711cfb578",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "鰭",
+      "划",
+      "奧",
+      "仿",
+      "迫",
+      "蚊",
+      "膚",
+      "鋸",
+      "劃",
+      "擴",
+      "液",
+      "奈",
+      "構",
+      "鵰",
+      "霸",
+      "翹",
+      "垂"
+    ],
+    "itemCount": 73,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "翰林_6年級_上學期_第4課_listening_quiz_fe67b3455db8e795",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "chars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 17,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "翰林_6年級_上學期_第4課_homophone_compare_4daf19d4ca04594e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "chars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "翰林_6年級_上學期_第4課_fillblank_generate_acf005d9a8e3cb5e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "title": "第4課 全課填空",
+          "items": [
+            {
+              "char": "鰭",
+              "word": "鰭"
+            },
+            {
+              "char": "划",
+              "word": "划"
+            },
+            {
+              "char": "奧",
+              "word": "奧"
+            },
+            {
+              "char": "仿",
+              "word": "仿"
+            },
+            {
+              "char": "迫",
+              "word": "迫"
+            },
+            {
+              "char": "蚊",
+              "word": "蚊"
+            },
+            {
+              "char": "膚",
+              "word": "膚"
+            },
+            {
+              "char": "鋸",
+              "word": "鋸"
+            },
+            {
+              "char": "劃",
+              "word": "劃"
+            },
+            {
+              "char": "擴",
+              "word": "擴"
+            },
+            {
+              "char": "液",
+              "word": "液"
+            },
+            {
+              "char": "奈",
+              "word": "奈"
+            },
+            {
+              "char": "構",
+              "word": "構"
+            },
+            {
+              "char": "鵰",
+              "word": "鵰"
+            },
+            {
+              "char": "霸",
+              "word": "霸"
+            },
+            {
+              "char": "翹",
+              "word": "翹"
+            },
+            {
+              "char": "垂",
+              "word": "垂"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "翰林_6年級_上學期_第4課_material_tsv_generate_1485c4ee4dbfe3c3",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "materialType": "primary",
+          "chars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "翰林_6年級_上學期_第4課_material_tsv_generate_c79f9b282184bd9c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "materialType": "extra",
+          "chars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_95762f12bcea1e22",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "鰭",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_7e9ae8fcbd701f59",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "鰭",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_8b5fc7da78d4a21f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "鰭",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_5c73a61636991778",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "鰭",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_9c46b9498f161d44",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "划",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_d7d59c0f0414fc79",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "划",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_dbc93105ed2167b4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "划",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_14d4faf984b141f4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "划",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_b77113e7e1b1cc02",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "奧",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_0d6f3879c503327e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "奧",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_4e028bd3d3717cfb",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "奧",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_2b19d232f84890b1",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "奧",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_0c9d90736309e753",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "仿",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_cea758eb5ced4fb8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "仿",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_f91c4c06010f14d9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "仿",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_30729872e78c2775",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "仿",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_baacbfe8e31250ee",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "迫",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_6ad8f8062789644a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "迫",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_38b46381dba62a7d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "迫",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_5292858d0533b24a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "迫",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_1f3068ef16680a75",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "蚊",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_87d3a14e831d16c5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "蚊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_e7c2323f9ca7c098",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "蚊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_118a7cce5bb022c1",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "蚊",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_84ad40455bbb9b0d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "膚",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_6538c95f1073451d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "膚",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_ff400fe0538fb418",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "膚",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_8fe12c4663e467c7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "膚",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_8aff73cd8a69db36",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "鋸",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_dbae50ed005a1845",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "鋸",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_f883e24eeb505f8f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "鋸",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_05ff8971509632b7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "鋸",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_fc933cadb71c75c8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "劃",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_d92fb18b507c21d2",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "劃",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_b73f62f2c61ae0a1",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "劃",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_72c6d667bc8d4653",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "劃",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_d91618018eddfbdd",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "擴",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_3ae1af1b594812da",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "擴",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_c1071d38a5221049",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "擴",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_a7813dea6cb0feed",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "擴",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_d3941048364be9fd",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "液",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_49a77d9e263a44f2",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "液",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_7a960ba0c1eea90e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "液",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_3ba57e36ec884fc7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "液",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_6b6fdf5c41adc040",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "奈",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_048f336fc0e832ba",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "奈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_c29ef56a525ec43c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "奈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_9d36f634e62260f8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "奈",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_27a5a7e761c5443b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "構",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_bfed20d82feb0db7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "構",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_33fcb7cc28f45d3a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "構",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_c108414922674c5a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "構",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_7b3f9e267a5cf661",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "鵰",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_f3278046e0814147",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "鵰",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_1f12bec33fbf5555",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "鵰",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_c0e8283c4b86407b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "鵰",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_9b3b6dad1575a354",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "霸",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_684f0a7a86a768af",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "霸",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_3269a443f490c6b2",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "霸",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_18848dc76a1f8ed4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "霸",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_8703fa62aeb11e19",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "翹",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_35a36954d09e7244",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "翹",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_6b49d825bc804da2",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "翹",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_33ffadb0e6013627",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "翹",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_6年級_上學期_第4課_similar_shape_2c931776f5fd4d13",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "targetChar": "垂",
+          "lessonChars": [
+            "鰭",
+            "划",
+            "奧",
+            "仿",
+            "迫",
+            "蚊",
+            "膚",
+            "鋸",
+            "劃",
+            "擴",
+            "液",
+            "奈",
+            "構",
+            "鵰",
+            "霸",
+            "翹",
+            "垂"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_2e9cc83808bcf03b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "垂",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第4課_memory_strategy_cc8952f12a1015d4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "垂",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_51ee9650a499392e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "垂",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-03T17:08:26.822Z"
+}
