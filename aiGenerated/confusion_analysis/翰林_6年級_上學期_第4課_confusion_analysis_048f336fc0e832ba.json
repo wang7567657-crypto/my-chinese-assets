@@ -1,0 +1,41 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_048f336fc0e832ba",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "奈",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "奈",
+    "groups": {
+      "shape": [
+        {
+          "char": "示",
+          "why": "字形相近",
+          "difference": "比較「奈」與「示」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "宗",
+          "why": "字形相近",
+          "difference": "比較「奈」與「宗」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "祭",
+          "why": "字形相近",
+          "difference": "比較「奈」與「祭」的偏旁與關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "把「奈」放進「無奈」中記憶。"
+  },
+  "createdAt": "2026-09-04T02:18:00.000Z"
+}
