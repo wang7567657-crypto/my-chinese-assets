@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "翰林_6年級_上學期_第1課_lesson_ai_batch_6db2c7c3cf749bf9",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "itemCount": 22
+  },
+  "data": {
+    "status": "done",
+    "processedCount": 22,
+    "componentNote": "蝶、蛹部件候選保留 verified=false，待 c9s 實際筆畫資料核對。"
+  },
+  "createdAt": "2026-09-04T02:47:00.000Z"
+}
