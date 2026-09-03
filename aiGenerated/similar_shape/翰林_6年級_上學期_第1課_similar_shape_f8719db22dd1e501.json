@@ -1,0 +1,65 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第1課_similar_shape_f8719db22dd1e501",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "targetChar": "皺",
+    "lessonChars": [
+      "皺",
+      "晃",
+      "弄",
+      "摯",
+      "蝴",
+      "蝶",
+      "蛹",
+      "翼",
+      "註",
+      "儲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "皺",
+    "similarChars": [
+      {
+        "char": "鄒",
+        "similarity": "左側都使用相同的「芻」部件，外形很接近。",
+        "difference": "「皺」右邊是「皮」；「鄒」右邊是耳部（阝）。"
+      },
+      {
+        "char": "雛",
+        "similarity": "左側同樣是「芻」，整體左右結構相似。",
+        "difference": "「雛」右邊是「隹」；「皺」右邊是「皮」。"
+      },
+      {
+        "char": "縐",
+        "similarity": "都含有「芻」部件，筆畫密集程度相近。",
+        "difference": "「縐」左邊是糸部；「皺」右邊是「皮」。"
+      },
+      {
+        "char": "謅",
+        "similarity": "都含有「芻」部件，因此右側或主體輪廓接近。",
+        "difference": "「謅」左邊是言部；「皺」右邊是「皮」。"
+      },
+      {
+        "char": "趨",
+        "similarity": "右下含有「芻」，局部字形和「皺」很像。",
+        "difference": "「趨」左邊是走部，整體結構比「皺」更長。"
+      },
+      {
+        "char": "芻",
+        "similarity": "「芻」就是「皺」左邊的主要部件，局部幾乎完全相同。",
+        "difference": "「皺」比「芻」多了右邊的「皮」。"
+      }
+    ],
+    "teachingTip": "辨認「皺」時先找右邊的「皮」。如果右邊不是「皮」，就要再判斷是不是「鄒、雛」等字。"
+  },
+  "createdAt": "2026-09-03T01:52:28.399Z"
+}
