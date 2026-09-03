@@ -1,0 +1,9 @@
+{
+  "taskType":"confusion_analysis",
+  "requestId":"南一_1年級_上學期_首冊-統整_confusion_analysis_131ad60252e1813a",
+  "version":"1.0",
+  "source":"chatgpt",
+  "input":{"publisher":"南一","grade":"1年級","semester":"上學期","lesson":"首冊/統整","char":"九"},
+  "data":{"char":"九","groups":{"shape":[{"char":"力","why":"字形相近","difference":"注意筆畫方向與彎鉤位置"},{"char":"几","why":"字形相近","difference":"注意第二筆的形狀"}],"sound":[],"meaning":[],"component":[]},"tip":"先看整體輪廓，再比較關鍵筆畫。"},
+  "createdAt":"2026-09-04T01:25:00.000Z"
+}
