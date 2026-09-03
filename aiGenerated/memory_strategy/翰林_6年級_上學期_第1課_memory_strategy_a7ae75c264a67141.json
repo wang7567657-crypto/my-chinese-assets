@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第1課_memory_strategy_a7ae75c264a67141",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "摯",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "摯",
+    "components": [
+      "幸",
+      "丸",
+      "手"
+    ],
+    "association": "把「摯」拆成幸＋丸＋手，再連到「真摯」。",
+    "mnemonic": "看到幸和丸和手，想到「真摯」。",
+    "visualPrompt": "用「真摯」情境呈現「摯」的部件。",
+    "teachingTip": "先拆部件，再口說記憶句，最後遮字默寫。"
+  },
+  "createdAt": "2026-09-04T02:37:00.000Z"
+}
