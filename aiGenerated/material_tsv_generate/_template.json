@@ -1,0 +1,20 @@
+{
+  "taskType": "material_tsv_generate",
+  "requestId": "example_request_id",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "",
+    "grade": "",
+    "semester": "",
+    "lesson": "",
+    "materialType": "primary",
+    "chars": [],
+    "level": ""
+  },
+  "data": {
+    "materialType": "primary",
+    "tsv": ""
+  },
+  "createdAt": ""
+}
