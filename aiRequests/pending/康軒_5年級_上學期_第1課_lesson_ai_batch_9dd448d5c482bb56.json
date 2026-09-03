@@ -1,0 +1,1627 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "康軒_5年級_上學期_第1課_lesson_ai_batch_9dd448d5c482bb56",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "蚊",
+      "帳",
+      "洲",
+      "瘧",
+      "疾",
+      "死",
+      "叮",
+      "存",
+      "募",
+      "集",
+      "寄",
+      "贈",
+      "獎",
+      "狀",
+      "藏",
+      "誌",
+      "基",
+      "赴"
+    ],
+    "itemCount": 77,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "康軒_5年級_上學期_第1課_listening_quiz_b475353e82499abc",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 18,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "康軒_5年級_上學期_第1課_homophone_compare_89def4afca327d39",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "康軒_5年級_上學期_第1課_fillblank_generate_a7c5a296e6fdb9e1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "title": "第1課 全課填空",
+          "items": [
+            {
+              "char": "蚊",
+              "word": "蚊"
+            },
+            {
+              "char": "帳",
+              "word": "帳"
+            },
+            {
+              "char": "洲",
+              "word": "洲"
+            },
+            {
+              "char": "瘧",
+              "word": "瘧"
+            },
+            {
+              "char": "疾",
+              "word": "疾"
+            },
+            {
+              "char": "死",
+              "word": "死"
+            },
+            {
+              "char": "叮",
+              "word": "叮"
+            },
+            {
+              "char": "存",
+              "word": "存"
+            },
+            {
+              "char": "募",
+              "word": "募"
+            },
+            {
+              "char": "集",
+              "word": "集"
+            },
+            {
+              "char": "寄",
+              "word": "寄"
+            },
+            {
+              "char": "贈",
+              "word": "贈"
+            },
+            {
+              "char": "獎",
+              "word": "獎"
+            },
+            {
+              "char": "狀",
+              "word": "狀"
+            },
+            {
+              "char": "藏",
+              "word": "藏"
+            },
+            {
+              "char": "誌",
+              "word": "誌"
+            },
+            {
+              "char": "基",
+              "word": "基"
+            },
+            {
+              "char": "赴",
+              "word": "赴"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "康軒_5年級_上學期_第1課_material_tsv_generate_245cbf320fe97e70",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "primary",
+          "chars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "康軒_5年級_上學期_第1課_material_tsv_generate_62953840fbb0f33b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "extra",
+          "chars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_683f793052339e71",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "蚊",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_acc6771ebd58ff05",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "蚊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_9b798df87c6d8ede",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "蚊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_cbb4bb97bc147334",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "蚊",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_1a95b032cfdfe001",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "帳",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_035a655eadf0f9f1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "帳",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_8832bd2490c50110",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "帳",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_14ba89ca97b0f53b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "帳",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_40b350f1ec1b9427",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "洲",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_36bdbadc8a3ec428",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "洲",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_3406a3faf3e1190a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "洲",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_552a9d97937dbad3",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "洲",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_eccaa2bfe330db49",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "瘧",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_e33826b0bb3f564e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "瘧",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_ac9682ef60457e1b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "瘧",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_0376d80f2fff0c41",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "瘧",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_cfb102b058269e52",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "疾",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_67295b55d35d4825",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "疾",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_3dc885bcce3ea61d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "疾",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_e24ecadd0a8b7ca9",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "疾",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_6ae26ad48bca887a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "死",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_20a5030a4f3267e5",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "死",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_2c5d55b6e52b6d19",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "死",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_e5052055f49209fb",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "死",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_50a6ba75f70c8211",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "叮",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_bb3a2c9bdf8b2439",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "叮",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_e2cc85c0b458ac7a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "叮",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_16d5d72ffbed7113",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "叮",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_990cbdf21cc5efe9",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "存",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_a00f2ee07309f5ab",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "存",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_3a85a99a56586b25",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "存",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_f0ce1cbdc31c2536",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "存",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_2f4f40f777d4dd15",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "募",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_5bb1a328e6d32e8d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "募",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_d72f7e6b9ce07a99",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "募",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_daa8b8781759b5df",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "募",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_0add7a3d317671e8",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "集",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_4eb1bc0628635e09",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "集",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_da2832d824112808",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "集",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_2f92edb472424121",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "集",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_91c88afac69d3e56",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "寄",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_20de556d80d8fb54",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "寄",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_80324d92c0684fa0",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "寄",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_5069bcf87aedd2c1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "寄",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_daab5d6e6745fef8",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "贈",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_16b738d74b0f95da",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "贈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_57d8d54560284c7a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "贈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_980c6dd5974a93f2",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "贈",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_4a035d60fcf964e5",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "獎",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_52f4cbf74700c98c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "獎",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_5f11dc1f43767c6a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "獎",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_6d15dccdf686b506",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "獎",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_7e9ae9134ca8f972",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "狀",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_3b67a61991666d44",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "狀",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_f1b9e058ddd4da3a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "狀",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_7073bc75866ac21c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "狀",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_62665e2fa636ef20",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "藏",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_60318e8fd3f6c675",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "藏",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_8dd66f072b7fe036",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "藏",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_a8d1a2d84b50afee",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "藏",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_f094ee38abfdc52c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "誌",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_6a08e83e13bf4fe5",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "誌",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_5bf91aa34d13cf2c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "誌",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_c01f181e6d2fb57b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "誌",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_755c2ab9c7ce0987",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "基",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_81c8357a9c136e9b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "基",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_caa8fcd092428183",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "基",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_042353cc4a3b8dde",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "基",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_5年級_上學期_第1課_similar_shape_c157781f562dcc55",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "赴",
+          "lessonChars": [
+            "蚊",
+            "帳",
+            "洲",
+            "瘧",
+            "疾",
+            "死",
+            "叮",
+            "存",
+            "募",
+            "集",
+            "寄",
+            "贈",
+            "獎",
+            "狀",
+            "藏",
+            "誌",
+            "基",
+            "赴"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_2e5e801f48fec644",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "赴",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_56b8b1de4274b4e7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "赴",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第1課_component_split_d72a9c608dbefa14",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "赴",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-03T23:07:16.757Z"
+}
