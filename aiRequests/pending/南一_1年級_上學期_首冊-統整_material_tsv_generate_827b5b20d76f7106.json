@@ -1,0 +1,36 @@
+{
+  "taskType": "material_tsv_generate",
+  "requestId": "南一_1年級_上學期_首冊-統整_material_tsv_generate_827b5b20d76f7106",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "南一",
+    "grade": "1年級",
+    "semester": "上學期",
+    "lesson": "首冊/統整",
+    "materialType": "extra",
+    "chars": [
+      "一",
+      "二",
+      "三",
+      "四",
+      "五",
+      "六",
+      "七",
+      "八",
+      "九",
+      "十",
+      "日",
+      "月",
+      "山",
+      "木",
+      "水",
+      "人",
+      "手",
+      "門"
+    ],
+    "level": "國小中高年級",
+    "formatVersion": "tsv-v1"
+  },
+  "createdAt": "2026-09-03T16:50:41.592Z"
+}
