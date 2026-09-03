@@ -1,3 +1,237 @@
 {
-"taskType":"listening_quiz","requestId":"翰林_6年級_上學期_第2課_listening_quiz_d1257dbd2f5a6edb","version":"1.0","source":"chatgpt","input":{},"data":{"questions":[]},"createdAt":"2026-09-04T00:30:00.000Z"
+  "taskType": "listening_quiz",
+  "requestId": "翰林_6年級_上學期_第2課_listening_quiz_d1257dbd2f5a6edb",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "chars": [
+      "眶",
+      "固",
+      "執",
+      "辯",
+      "胞",
+      "胎",
+      "盼",
+      "郵",
+      "暈",
+      "稚",
+      "慘",
+      "憤",
+      "慨",
+      "狠",
+      "憂",
+      "涕",
+      "慰",
+      "寞"
+    ],
+    "count": 18,
+    "level": "國小中高年級"
+  },
+  "data": {
+    "questions": [
+      {
+        "char": "眶",
+        "zhuyin": "ㄎㄨㄤˋ",
+        "options": [
+          "眶",
+          "框",
+          "況",
+          "礦"
+        ],
+        "explanation": "「眶」讀ㄎㄨㄤˋ，例如眼眶。"
+      },
+      {
+        "char": "固",
+        "zhuyin": "ㄍㄨˋ",
+        "options": [
+          "固",
+          "故",
+          "顧",
+          "雇"
+        ],
+        "explanation": "「固」讀ㄍㄨˋ，例如牢固。"
+      },
+      {
+        "char": "執",
+        "zhuyin": "ㄓˊ",
+        "options": [
+          "執",
+          "直",
+          "值",
+          "植"
+        ],
+        "explanation": "「執」讀ㄓˊ，例如執著。"
+      },
+      {
+        "char": "辯",
+        "zhuyin": "ㄅㄧㄢˋ",
+        "options": [
+          "辯",
+          "辨",
+          "變",
+          "便"
+        ],
+        "explanation": "「辯」讀ㄅㄧㄢˋ，例如辯論。"
+      },
+      {
+        "char": "胞",
+        "zhuyin": "ㄅㄠ",
+        "options": [
+          "胞",
+          "包",
+          "苞",
+          "褒"
+        ],
+        "explanation": "「胞」讀ㄅㄠ，例如同胞。"
+      },
+      {
+        "char": "胎",
+        "zhuyin": "ㄊㄞ",
+        "options": [
+          "胎",
+          "台",
+          "抬",
+          "苔"
+        ],
+        "explanation": "「胎」讀ㄊㄞ，例如輪胎。"
+      },
+      {
+        "char": "盼",
+        "zhuyin": "ㄆㄢˋ",
+        "options": [
+          "盼",
+          "判",
+          "叛",
+          "畔"
+        ],
+        "explanation": "「盼」讀ㄆㄢˋ，例如盼望。"
+      },
+      {
+        "char": "郵",
+        "zhuyin": "ㄧㄡˊ",
+        "options": [
+          "郵",
+          "由",
+          "油",
+          "遊"
+        ],
+        "explanation": "「郵」讀ㄧㄡˊ，例如郵件。"
+      },
+      {
+        "char": "暈",
+        "zhuyin": "ㄩㄣ",
+        "options": [
+          "暈",
+          "雲",
+          "勻",
+          "昀"
+        ],
+        "explanation": "「暈」在「頭暈」中常讀ㄩㄣ。"
+      },
+      {
+        "char": "稚",
+        "zhuyin": "ㄓˋ",
+        "options": [
+          "稚",
+          "至",
+          "志",
+          "智"
+        ],
+        "explanation": "「稚」讀ㄓˋ，例如幼稚。"
+      },
+      {
+        "char": "慘",
+        "zhuyin": "ㄘㄢˇ",
+        "options": [
+          "慘",
+          "參",
+          "蠶",
+          "餐"
+        ],
+        "explanation": "「慘」讀ㄘㄢˇ，例如悲慘。"
+      },
+      {
+        "char": "憤",
+        "zhuyin": "ㄈㄣˋ",
+        "options": [
+          "憤",
+          "份",
+          "奮",
+          "忿"
+        ],
+        "explanation": "「憤」讀ㄈㄣˋ，例如憤怒。"
+      },
+      {
+        "char": "慨",
+        "zhuyin": "ㄎㄞˇ",
+        "options": [
+          "慨",
+          "凱",
+          "鎧",
+          "概"
+        ],
+        "explanation": "「慨」讀ㄎㄞˇ，例如感慨。"
+      },
+      {
+        "char": "狠",
+        "zhuyin": "ㄏㄣˇ",
+        "options": [
+          "狠",
+          "很",
+          "恨",
+          "痕"
+        ],
+        "explanation": "「狠」讀ㄏㄣˇ，例如狠心。"
+      },
+      {
+        "char": "憂",
+        "zhuyin": "ㄧㄡ",
+        "options": [
+          "憂",
+          "優",
+          "幽",
+          "悠"
+        ],
+        "explanation": "「憂」讀ㄧㄡ，例如憂心。"
+      },
+      {
+        "char": "涕",
+        "zhuyin": "ㄊㄧˋ",
+        "options": [
+          "涕",
+          "替",
+          "剃",
+          "梯"
+        ],
+        "explanation": "「涕」讀ㄊㄧˋ，例如鼻涕。"
+      },
+      {
+        "char": "慰",
+        "zhuyin": "ㄨㄟˋ",
+        "options": [
+          "慰",
+          "位",
+          "味",
+          "未"
+        ],
+        "explanation": "「慰」讀ㄨㄟˋ，例如安慰。"
+      },
+      {
+        "char": "寞",
+        "zhuyin": "ㄇㄛˋ",
+        "options": [
+          "寞",
+          "默",
+          "末",
+          "莫"
+        ],
+        "explanation": "「寞」讀ㄇㄛˋ，例如寂寞。"
+      }
+    ]
+  },
+  "createdAt": "2026-09-04T00:35:00.000Z"
 }
