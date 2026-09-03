@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第3課_memory_strategy_540363a68988e550",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "婆",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "婆",
+    "components": [
+      "波",
+      "女"
+    ],
+    "association": "先看到上面的「波」，再看到下面的「女」。",
+    "mnemonic": "波浪旁站著一位女長輩，就是「婆」。",
+    "visualPrompt": "一位慈祥老婆婆站在水波旁，畫面強調上方波、下方女的組字關係。",
+    "teachingTip": "先拆成「波＋女」，再從「老婆婆」這個熟悉詞語回想字形。"
+  },
+  "createdAt": "2026-09-04T01:06:00.000Z"
+}
