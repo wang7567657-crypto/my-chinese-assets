@@ -1,0 +1,41 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_bfed20d82feb0db7",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "構",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "構",
+    "groups": {
+      "shape": [
+        {
+          "char": "溝",
+          "why": "字形相近",
+          "difference": "比較「構」與「溝」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "購",
+          "why": "字形相近",
+          "difference": "比較「構」與「購」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "講",
+          "why": "字形相近",
+          "difference": "比較「構」與「講」的偏旁與關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "把「構」放進「結構」中記憶。"
+  },
+  "createdAt": "2026-09-04T02:18:00.000Z"
+}
