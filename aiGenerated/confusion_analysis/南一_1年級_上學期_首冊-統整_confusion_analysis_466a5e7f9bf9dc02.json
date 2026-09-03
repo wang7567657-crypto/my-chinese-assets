@@ -1,0 +1,9 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_1年級_上學期_首冊-統整_confusion_analysis_466a5e7f9bf9dc02",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {"publisher":"南一","grade":"1年級","semester":"上學期","lesson":"首冊/統整","char":"十","level":"國小中高年級"},
+  "data": {"char":"十","groups":{"shape":[{"char":"千","why":"字形相近","difference":"「千」上方多一撇。"},{"char":"土","why":"字形相近","difference":"「土」有兩橫，「十」只有一橫。"}],"sound":[],"meaning":[],"component":[]},"tip":"先數橫畫，再看上方有沒有撇。"},
+  "createdAt": "2026-09-04T02:50:00.000Z"
+}
