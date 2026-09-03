@@ -1,0 +1,17 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_5年級_上學期_第1課_component_split_552a9d97937dbad3",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "洲",
+    "strokeCount": 9,
+    "strokeSource": "c9s/zh-stroke-data",
+    "instruction": "請依台灣筆順資料的連續筆畫順序，判斷實際部件拆分。split 加總必須等於 strokeCount。回傳 structure、split、components、verified=true。"
+  },
+  "createdAt": "2026-09-03T23:07:06.071Z"
+}
