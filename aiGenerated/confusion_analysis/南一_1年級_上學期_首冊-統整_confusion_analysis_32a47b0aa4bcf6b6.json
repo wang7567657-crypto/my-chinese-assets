@@ -1,0 +1,9 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_1年級_上學期_首冊-統整_confusion_analysis_32a47b0aa4bcf6b6",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {"publisher":"南一","grade":"1年級","semester":"上學期","lesson":"首冊/統整","char":"山","level":"國小中高年級"},
+  "data": {"char":"山","groups":{"shape":[{"char":"出","why":"字形相近","difference":"「出」像兩個山形上下相接，筆畫較多。"},{"char":"凹","why":"外形相近","difference":"「凹」中間向下凹，「山」中間向上突出。"}],"sound":[],"meaning":[],"component":[]},"tip":"記住「山」中間最高，左右兩邊較低。"},
+  "createdAt": "2026-09-04T02:50:00.000Z"
+}
