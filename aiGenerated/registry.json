@@ -17,6 +17,14 @@
     "similar_shape": {
       "label": "形近字探索",
       "status": "active"
+    },
+    "material_tsv_generate": {
+      "label": "教材編輯／AI 生成 TSV",
+      "status": "active"
+    },
+    "material_tsv_rewrite": {
+      "label": "教材編輯／AI 修改 TSV",
+      "status": "active"
     }
   }
 }
