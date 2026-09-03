@@ -1,0 +1,310 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "翰林_6年級_上學期_第2課_fillblank_generate_ac6a0cb3eb3fdcda",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "chars": [
+      "眶",
+      "固",
+      "執",
+      "辯",
+      "胞",
+      "胎",
+      "盼",
+      "郵",
+      "暈",
+      "稚",
+      "慘",
+      "憤",
+      "慨",
+      "狠",
+      "憂",
+      "涕",
+      "慰",
+      "寞"
+    ],
+    "count": 18,
+    "level": "國小中高年級"
+  },
+  "data": {
+    "title": "第2課 全課填空",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "眶",
+        "word": "眼眶",
+        "sentence": "聽到感人的故事，她的眼眶泛著淚光。",
+        "answer": "眶",
+        "options": [
+          "眶",
+          "胎",
+          "稚",
+          "狠"
+        ],
+        "hint": "想一想「眼眶」要用哪個字。",
+        "explanation": "答案是「眶」，詞語是「眼眶」。"
+      },
+      {
+        "id": "q2",
+        "targetChar": "固",
+        "word": "牢固",
+        "sentence": "這座木橋修得十分牢固。",
+        "answer": "固",
+        "options": [
+          "固",
+          "盼",
+          "慘",
+          "憂"
+        ],
+        "hint": "想一想「牢固」要用哪個字。",
+        "explanation": "答案是「固」，詞語是「牢固」。"
+      },
+      {
+        "id": "q3",
+        "targetChar": "執",
+        "word": "執著",
+        "sentence": "他對夢想十分執著，從不輕易放棄。",
+        "answer": "執",
+        "options": [
+          "執",
+          "郵",
+          "憤",
+          "涕"
+        ],
+        "hint": "想一想「執著」要用哪個字。",
+        "explanation": "答案是「執」，詞語是「執著」。"
+      },
+      {
+        "id": "q4",
+        "targetChar": "辯",
+        "word": "辯論",
+        "sentence": "同學分組辯論，說明自己的觀點。",
+        "answer": "辯",
+        "options": [
+          "辯",
+          "暈",
+          "慨",
+          "慰"
+        ],
+        "hint": "想一想「辯論」要用哪個字。",
+        "explanation": "答案是「辯」，詞語是「辯論」。"
+      },
+      {
+        "id": "q5",
+        "targetChar": "胞",
+        "word": "同胞",
+        "sentence": "我們關心遭遇災害的同胞。",
+        "answer": "胞",
+        "options": [
+          "胞",
+          "稚",
+          "狠",
+          "寞"
+        ],
+        "hint": "想一想「同胞」要用哪個字。",
+        "explanation": "答案是「胞」，詞語是「同胞」。"
+      },
+      {
+        "id": "q6",
+        "targetChar": "胎",
+        "word": "輪胎",
+        "sentence": "爸爸檢查汽車輪胎的氣壓。",
+        "answer": "胎",
+        "options": [
+          "胎",
+          "慘",
+          "憂",
+          "眶"
+        ],
+        "hint": "想一想「輪胎」要用哪個字。",
+        "explanation": "答案是「胎」，詞語是「輪胎」。"
+      },
+      {
+        "id": "q7",
+        "targetChar": "盼",
+        "word": "盼望",
+        "sentence": "我盼望假日能和家人一起旅行。",
+        "answer": "盼",
+        "options": [
+          "盼",
+          "憤",
+          "涕",
+          "固"
+        ],
+        "hint": "想一想「盼望」要用哪個字。",
+        "explanation": "答案是「盼」，詞語是「盼望」。"
+      },
+      {
+        "id": "q8",
+        "targetChar": "郵",
+        "word": "郵件",
+        "sentence": "我每天查看電子郵件。",
+        "answer": "郵",
+        "options": [
+          "郵",
+          "慨",
+          "慰",
+          "執"
+        ],
+        "hint": "想一想「郵件」要用哪個字。",
+        "explanation": "答案是「郵」，詞語是「郵件」。"
+      },
+      {
+        "id": "q9",
+        "targetChar": "暈",
+        "word": "頭暈",
+        "sentence": "坐車太久，我有一點頭暈。",
+        "answer": "暈",
+        "options": [
+          "暈",
+          "狠",
+          "寞",
+          "辯"
+        ],
+        "hint": "想一想「頭暈」要用哪個字。",
+        "explanation": "答案是「暈」，詞語是「頭暈」。"
+      },
+      {
+        "id": "q10",
+        "targetChar": "稚",
+        "word": "幼稚",
+        "sentence": "弟弟的想法雖然幼稚，卻很有趣。",
+        "answer": "稚",
+        "options": [
+          "稚",
+          "憂",
+          "眶",
+          "胞"
+        ],
+        "hint": "想一想「幼稚」要用哪個字。",
+        "explanation": "答案是「稚」，詞語是「幼稚」。"
+      },
+      {
+        "id": "q11",
+        "targetChar": "慘",
+        "word": "悲慘",
+        "sentence": "故事中的人物遭遇十分悲慘。",
+        "answer": "慘",
+        "options": [
+          "慘",
+          "涕",
+          "固",
+          "胎"
+        ],
+        "hint": "想一想「悲慘」要用哪個字。",
+        "explanation": "答案是「慘」，詞語是「悲慘」。"
+      },
+      {
+        "id": "q12",
+        "targetChar": "憤",
+        "word": "憤怒",
+        "sentence": "看到不公平的事情，他感到憤怒。",
+        "answer": "憤",
+        "options": [
+          "憤",
+          "慰",
+          "執",
+          "盼"
+        ],
+        "hint": "想一想「憤怒」要用哪個字。",
+        "explanation": "答案是「憤」，詞語是「憤怒」。"
+      },
+      {
+        "id": "q13",
+        "targetChar": "慨",
+        "word": "感慨",
+        "sentence": "看到老照片，爺爺感慨時光過得真快。",
+        "answer": "慨",
+        "options": [
+          "慨",
+          "寞",
+          "辯",
+          "郵"
+        ],
+        "hint": "想一想「感慨」要用哪個字。",
+        "explanation": "答案是「慨」，詞語是「感慨」。"
+      },
+      {
+        "id": "q14",
+        "targetChar": "狠",
+        "word": "狠心",
+        "sentence": "他不忍心狠心丟下受傷的小動物。",
+        "answer": "狠",
+        "options": [
+          "狠",
+          "眶",
+          "胞",
+          "暈"
+        ],
+        "hint": "想一想「狠心」要用哪個字。",
+        "explanation": "答案是「狠」，詞語是「狠心」。"
+      },
+      {
+        "id": "q15",
+        "targetChar": "憂",
+        "word": "憂心",
+        "sentence": "父母很憂心孩子的安全。",
+        "answer": "憂",
+        "options": [
+          "憂",
+          "固",
+          "胎",
+          "稚"
+        ],
+        "hint": "想一想「憂心」要用哪個字。",
+        "explanation": "答案是「憂」，詞語是「憂心」。"
+      },
+      {
+        "id": "q16",
+        "targetChar": "涕",
+        "word": "鼻涕",
+        "sentence": "感冒時要用衛生紙擦鼻涕。",
+        "answer": "涕",
+        "options": [
+          "涕",
+          "執",
+          "盼",
+          "慘"
+        ],
+        "hint": "想一想「鼻涕」要用哪個字。",
+        "explanation": "答案是「涕」，詞語是「鼻涕」。"
+      },
+      {
+        "id": "q17",
+        "targetChar": "慰",
+        "word": "安慰",
+        "sentence": "朋友難過時，我輕聲安慰他。",
+        "answer": "慰",
+        "options": [
+          "慰",
+          "辯",
+          "郵",
+          "憤"
+        ],
+        "hint": "想一想「安慰」要用哪個字。",
+        "explanation": "答案是「慰」，詞語是「安慰」。"
+      },
+      {
+        "id": "q18",
+        "targetChar": "寞",
+        "word": "寂寞",
+        "sentence": "一個人在家時，他有些寂寞。",
+        "answer": "寞",
+        "options": [
+          "寞",
+          "胞",
+          "暈",
+          "慨"
+        ],
+        "hint": "想一想「寂寞」要用哪個字。",
+        "explanation": "答案是「寞」，詞語是「寂寞」。"
+      }
+    ]
+  },
+  "createdAt": "2026-09-04T00:55:00.000Z"
+}
