@@ -1,0 +1,46 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第4課_confusion_analysis_2e9cc83808bcf03b",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "垂",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "垂",
+    "groups": {
+      "shape": [
+        {
+          "char": "睡",
+          "why": "字形相近",
+          "difference": "比較「垂」與「睡」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "錘",
+          "why": "字形相近",
+          "difference": "比較「垂」與「錘」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "捶",
+          "why": "字形相近",
+          "difference": "比較「垂」與「捶」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "郵",
+          "why": "字形相近",
+          "difference": "比較「垂」與「郵」的偏旁與關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "把「垂」放進「垂下」中記憶。"
+  },
+  "createdAt": "2026-09-04T02:26:00.000Z"
+}
