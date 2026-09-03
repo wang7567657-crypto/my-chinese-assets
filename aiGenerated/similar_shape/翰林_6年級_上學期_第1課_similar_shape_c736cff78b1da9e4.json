@@ -1,0 +1,65 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第1課_similar_shape_c736cff78b1da9e4",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "targetChar": "註",
+    "lessonChars": [
+      "皺",
+      "晃",
+      "弄",
+      "摯",
+      "蝴",
+      "蝶",
+      "蛹",
+      "翼",
+      "註",
+      "儲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "註",
+    "similarChars": [
+      {
+        "char": "注",
+        "similarity": "右邊都是「主」，整體左右結構很像。",
+        "difference": "「注」左邊是水部；「註」左邊是言部。"
+      },
+      {
+        "char": "住",
+        "similarity": "右邊都是「主」，右半部完全相同。",
+        "difference": "「住」左邊是人部；「註」左邊是言部。"
+      },
+      {
+        "char": "柱",
+        "similarity": "右邊同樣是「主」，字形比例接近。",
+        "difference": "「柱」左邊是木部；「註」左邊是言部。"
+      },
+      {
+        "char": "駐",
+        "similarity": "右邊都是「主」，容易因右側相同而混淆。",
+        "difference": "「駐」左邊是馬部；「註」左邊是言部。"
+      },
+      {
+        "char": "炷",
+        "similarity": "右邊都是「主」，整體也是左右結構。",
+        "difference": "「炷」左邊是火部；「註」左邊是言部。"
+      },
+      {
+        "char": "拄",
+        "similarity": "右邊都是「主」，筆畫位置很接近。",
+        "difference": "「拄」左邊是手部；「註」左邊是言部。"
+      }
+    ],
+    "teachingTip": "「註」和文字、說明有關，所以左邊要找言部。看到右邊都是「主」時，先比較左邊偏旁，就能分清「注、住、柱、駐」。"
+  },
+  "createdAt": "2026-09-03T01:56:09.086Z"
+}
