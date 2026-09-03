@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第4課_memory_strategy_f883e24eeb505f8f",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "鋸",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鋸",
+    "components": [
+      "金",
+      "居"
+    ],
+    "association": "把「鋸」拆成金＋居，再連到「鋸子」。",
+    "mnemonic": "看到部件就想到「鋸子」。",
+    "visualPrompt": "用「鋸子」情境呈現「鋸」的部件。",
+    "teachingTip": "先拆部件、口說，再遮住生字默寫。"
+  },
+  "createdAt": "2026-09-04T02:12:00.000Z"
+}
