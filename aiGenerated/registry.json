@@ -29,6 +29,14 @@
     "component_split": {
       "label": "部件拆分",
       "status": "active"
+    },
+    "confusion_analysis": {
+      "label": "生字混淆分析",
+      "status": "active"
+    },
+    "memory_strategy": {
+      "label": "生字記憶策略",
+      "status": "active"
     }
   }
 }
