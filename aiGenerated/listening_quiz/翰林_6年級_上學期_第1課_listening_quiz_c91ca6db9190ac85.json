@@ -1,0 +1,141 @@
+{
+  "taskType": "listening_quiz",
+  "requestId": "翰林_6年級_上學期_第1課_listening_quiz_c91ca6db9190ac85",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "chars": [
+      "皺",
+      "晃",
+      "弄",
+      "摯",
+      "蝴",
+      "蝶",
+      "蛹",
+      "翼",
+      "註",
+      "儲"
+    ],
+    "count": 10,
+    "level": "國小中高年級"
+  },
+  "data": {
+    "questions": [
+      {
+        "char": "皺",
+        "zhuyin": "ㄓㄡˋ",
+        "options": [
+          "皺",
+          "摺",
+          "破",
+          "波"
+        ],
+        "explanation": "「皺」讀ㄓㄡˋ，例如皺紋。"
+      },
+      {
+        "char": "晃",
+        "zhuyin": "ㄏㄨㄤˋ",
+        "options": [
+          "晃",
+          "光",
+          "景",
+          "晨"
+        ],
+        "explanation": "「晃」在「搖晃」中讀ㄏㄨㄤˋ。"
+      },
+      {
+        "char": "弄",
+        "zhuyin": "ㄋㄨㄥˋ",
+        "options": [
+          "弄",
+          "農",
+          "算",
+          "要"
+        ],
+        "explanation": "「弄」讀ㄋㄨㄥˋ，例如弄清楚。"
+      },
+      {
+        "char": "摯",
+        "zhuyin": "ㄓˋ",
+        "options": [
+          "摯",
+          "至",
+          "志",
+          "質"
+        ],
+        "explanation": "「摯」讀ㄓˋ，例如真摯。"
+      },
+      {
+        "char": "蝴",
+        "zhuyin": "ㄏㄨˊ",
+        "options": [
+          "蝴",
+          "湖",
+          "糊",
+          "狐"
+        ],
+        "explanation": "「蝴」讀ㄏㄨˊ，常見於蝴蝶。"
+      },
+      {
+        "char": "蝶",
+        "zhuyin": "ㄉㄧㄝˊ",
+        "options": [
+          "蝶",
+          "碟",
+          "跌",
+          "疊"
+        ],
+        "explanation": "「蝶」讀ㄉㄧㄝˊ，例如蝴蝶。"
+      },
+      {
+        "char": "蛹",
+        "zhuyin": "ㄩㄥˇ",
+        "options": [
+          "蛹",
+          "泳",
+          "勇",
+          "永"
+        ],
+        "explanation": "「蛹」讀ㄩㄥˇ，是昆蟲成長的一個階段。"
+      },
+      {
+        "char": "翼",
+        "zhuyin": "ㄧˋ",
+        "options": [
+          "翼",
+          "意",
+          "易",
+          "義"
+        ],
+        "explanation": "「翼」讀ㄧˋ，例如羽翼。"
+      },
+      {
+        "char": "註",
+        "zhuyin": "ㄓㄨˋ",
+        "options": [
+          "註",
+          "住",
+          "柱",
+          "祝"
+        ],
+        "explanation": "「註」讀ㄓㄨˋ，例如註明。"
+      },
+      {
+        "char": "儲",
+        "zhuyin": "ㄔㄨˊ",
+        "options": [
+          "儲",
+          "除",
+          "廚",
+          "櫥"
+        ],
+        "explanation": "「儲」讀ㄔㄨˊ，例如儲存。"
+      }
+    ]
+  },
+  "createdAt": "2026-09-03T01:52:21.332Z"
+}
