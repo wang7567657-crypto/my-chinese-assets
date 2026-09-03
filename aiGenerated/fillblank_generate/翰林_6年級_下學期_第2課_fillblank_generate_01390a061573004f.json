@@ -1,0 +1,404 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "翰林_6年級_下學期_第2課_fillblank_generate_01390a061573004f",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "下學期",
+    "lesson": "第2課",
+    "title": "第2課 全課填空",
+    "items": [
+      {
+        "char": "疆",
+        "word": "疆"
+      },
+      {
+        "char": "港",
+        "word": "港"
+      },
+      {
+        "char": "摒",
+        "word": "摒"
+      },
+      {
+        "char": "諺",
+        "word": "諺"
+      },
+      {
+        "char": "罐",
+        "word": "罐"
+      },
+      {
+        "char": "驢",
+        "word": "驢"
+      },
+      {
+        "char": "馱",
+        "word": "馱"
+      },
+      {
+        "char": "衰",
+        "word": "衰"
+      },
+      {
+        "char": "盜",
+        "word": "盜"
+      },
+      {
+        "char": "頤",
+        "word": "頤"
+      },
+      {
+        "char": "怖",
+        "word": "怖"
+      },
+      {
+        "char": "嘶",
+        "word": "嘶"
+      },
+      {
+        "char": "啞",
+        "word": "啞"
+      },
+      {
+        "char": "嗓",
+        "word": "嗓"
+      },
+      {
+        "char": "嚥",
+        "word": "嚥"
+      },
+      {
+        "char": "爪",
+        "word": "爪"
+      },
+      {
+        "char": "梁",
+        "word": "梁"
+      },
+      {
+        "char": "喻",
+        "word": "喻"
+      },
+      {
+        "char": "惦",
+        "word": "惦"
+      },
+      {
+        "char": "初",
+        "word": "初"
+      }
+    ],
+    "level": "國小中高年級",
+    "sourceRequestId": "",
+    "autoLesson": true
+  },
+  "data": {
+    "title": "第2課 全課填空",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "疆",
+        "word": "邊疆",
+        "sentence": "古代人們常在邊疆設置防禦據點。",
+        "answer": "疆",
+        "options": [
+          "疆",
+          "諺",
+          "衰",
+          "嘶"
+        ],
+        "hint": "國家的邊界地區。",
+        "explanation": "「邊疆」指靠近國界的地方。"
+      },
+      {
+        "id": "q2",
+        "targetChar": "港",
+        "word": "港口",
+        "sentence": "貨輪慢慢駛進港口停靠。",
+        "answer": "港",
+        "options": [
+          "港",
+          "罐",
+          "盜",
+          "啞"
+        ],
+        "hint": "船隻停泊的地方。",
+        "explanation": "「港口」是船隻進出、停靠的地方。"
+      },
+      {
+        "id": "q3",
+        "targetChar": "摒",
+        "word": "摒除",
+        "sentence": "做決定前要摒除偏見，仔細思考。",
+        "answer": "摒",
+        "options": [
+          "摒",
+          "驢",
+          "頤",
+          "嗓"
+        ],
+        "hint": "排除、不讓它影響。",
+        "explanation": "「摒除」表示排除。"
+      },
+      {
+        "id": "q4",
+        "targetChar": "諺",
+        "word": "諺語",
+        "sentence": "老師用一句諺語提醒我們做事要有耐心。",
+        "answer": "諺",
+        "options": [
+          "諺",
+          "馱",
+          "怖",
+          "嚥"
+        ],
+        "hint": "民間流傳的固定語句。",
+        "explanation": "「諺語」是民間流傳、富含經驗的話。"
+      },
+      {
+        "id": "q5",
+        "targetChar": "罐",
+        "word": "罐子",
+        "sentence": "桌上有一個裝餅乾的玻璃罐子。",
+        "answer": "罐",
+        "options": [
+          "罐",
+          "衰",
+          "嘶",
+          "爪"
+        ],
+        "hint": "用來盛裝物品的容器。",
+        "explanation": "「罐子」是一種容器。"
+      },
+      {
+        "id": "q6",
+        "targetChar": "驢",
+        "word": "毛驢",
+        "sentence": "山路上有一頭毛驢慢慢前進。",
+        "answer": "驢",
+        "options": [
+          "驢",
+          "盜",
+          "啞",
+          "梁"
+        ],
+        "hint": "一種外形像馬的動物。",
+        "explanation": "「驢」是一種哺乳動物。"
+      },
+      {
+        "id": "q7",
+        "targetChar": "馱",
+        "word": "馱運",
+        "sentence": "驢子背著貨物，幫忙馱運到山上。",
+        "answer": "馱",
+        "options": [
+          "馱",
+          "頤",
+          "嗓",
+          "喻"
+        ],
+        "hint": "用背承載運送。",
+        "explanation": "「馱運」表示用背載著運送。"
+      },
+      {
+        "id": "q8",
+        "targetChar": "衰",
+        "word": "衰弱",
+        "sentence": "生病後，他的身體一度十分衰弱。",
+        "answer": "衰",
+        "options": [
+          "衰",
+          "怖",
+          "嚥",
+          "惦"
+        ],
+        "hint": "變得虛弱。",
+        "explanation": "「衰弱」表示力量減退。"
+      },
+      {
+        "id": "q9",
+        "targetChar": "盜",
+        "word": "盜賊",
+        "sentence": "故事中的盜賊最後被官府抓住。",
+        "answer": "盜",
+        "options": [
+          "盜",
+          "嘶",
+          "爪",
+          "初"
+        ],
+        "hint": "偷竊財物的人。",
+        "explanation": "「盜賊」指偷竊或搶奪的人。"
+      },
+      {
+        "id": "q10",
+        "targetChar": "頤",
+        "word": "頤養",
+        "sentence": "爺爺退休後住在鄉下頤養天年。",
+        "answer": "頤",
+        "options": [
+          "頤",
+          "啞",
+          "梁",
+          "疆"
+        ],
+        "hint": "保養、休養。",
+        "explanation": "「頤養」表示保養身心。"
+      },
+      {
+        "id": "q11",
+        "targetChar": "怖",
+        "word": "恐怖",
+        "sentence": "黑暗中突然傳來怪聲，讓人感到恐怖。",
+        "answer": "怖",
+        "options": [
+          "怖",
+          "嗓",
+          "喻",
+          "港"
+        ],
+        "hint": "令人害怕。",
+        "explanation": "「恐怖」表示非常可怕。"
+      },
+      {
+        "id": "q12",
+        "targetChar": "嘶",
+        "word": "嘶叫",
+        "sentence": "馬受到驚嚇後，抬頭大聲嘶叫。",
+        "answer": "嘶",
+        "options": [
+          "嘶",
+          "嚥",
+          "惦",
+          "摒"
+        ],
+        "hint": "馬等動物發出尖長聲音。",
+        "explanation": "「嘶叫」表示發出尖長的叫聲。"
+      },
+      {
+        "id": "q13",
+        "targetChar": "啞",
+        "word": "沙啞",
+        "sentence": "他感冒後聲音變得有些沙啞。",
+        "answer": "啞",
+        "options": [
+          "啞",
+          "爪",
+          "初",
+          "諺"
+        ],
+        "hint": "聲音不清亮。",
+        "explanation": "「沙啞」表示聲音低沉不清。"
+      },
+      {
+        "id": "q14",
+        "targetChar": "嗓",
+        "word": "嗓子",
+        "sentence": "唱歌前要先暖嗓子，保護喉嚨。",
+        "answer": "嗓",
+        "options": [
+          "嗓",
+          "梁",
+          "疆",
+          "罐"
+        ],
+        "hint": "口語中指喉嚨或嗓音。",
+        "explanation": "「嗓子」常指喉嚨或聲音。"
+      },
+      {
+        "id": "q15",
+        "targetChar": "嚥",
+        "word": "吞嚥",
+        "sentence": "吃東西時要細嚼慢嚥。",
+        "answer": "嚥",
+        "options": [
+          "嚥",
+          "喻",
+          "港",
+          "驢"
+        ],
+        "hint": "把食物從口中送入喉嚨。",
+        "explanation": "「吞嚥」表示把食物嚥下去。"
+      },
+      {
+        "id": "q16",
+        "targetChar": "爪",
+        "word": "爪子",
+        "sentence": "老鷹用銳利的爪子抓住獵物。",
+        "answer": "爪",
+        "options": [
+          "爪",
+          "惦",
+          "摒",
+          "馱"
+        ],
+        "hint": "動物腳趾前端的尖甲。",
+        "explanation": "「爪子」指動物的爪。"
+      },
+      {
+        "id": "q17",
+        "targetChar": "梁",
+        "word": "橋梁",
+        "sentence": "這座橋梁連接河流兩岸。",
+        "answer": "梁",
+        "options": [
+          "梁",
+          "初",
+          "諺",
+          "衰"
+        ],
+        "hint": "橋或建築中的橫向支撐物。",
+        "explanation": "「橋梁」是跨越障礙的通道。"
+      },
+      {
+        "id": "q18",
+        "targetChar": "喻",
+        "word": "比喻",
+        "sentence": "作者用比喻讓句子變得更生動。",
+        "answer": "喻",
+        "options": [
+          "喻",
+          "疆",
+          "罐",
+          "盜"
+        ],
+        "hint": "用相似事物來說明。",
+        "explanation": "「比喻」是一種修辭方式。"
+      },
+      {
+        "id": "q19",
+        "targetChar": "惦",
+        "word": "惦記",
+        "sentence": "奶奶常常惦記在外地工作的家人。",
+        "answer": "惦",
+        "options": [
+          "惦",
+          "港",
+          "驢",
+          "頤"
+        ],
+        "hint": "心裡一直掛念。",
+        "explanation": "「惦記」表示掛念。"
+      },
+      {
+        "id": "q20",
+        "targetChar": "初",
+        "word": "最初",
+        "sentence": "最初的計畫雖然簡單，後來逐漸完善。",
+        "answer": "初",
+        "options": [
+          "初",
+          "摒",
+          "馱",
+          "怖"
+        ],
+        "hint": "事情開始的時候。",
+        "explanation": "「最初」表示一開始。"
+      }
+    ]
+  },
+  "createdAt": "2026-09-03T15:50:00.000Z"
+}
