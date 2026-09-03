@@ -1,0 +1,24 @@
+{
+  "taskType": "component_split",
+  "requestId": "example_request_id",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "char": "連",
+    "strokeCount": 10,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "structure": "左下包圍",
+    "split": [
+      3,
+      7
+    ],
+    "components": [
+      "辶",
+      "車"
+    ],
+    "note": "split 依筆順連續分組"
+  },
+  "createdAt": ""
+}
