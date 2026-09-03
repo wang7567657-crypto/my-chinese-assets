@@ -1,0 +1,9 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_1年級_上學期_首冊-統整_confusion_analysis_133c08cf350d1cf4",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {"publisher":"南一","grade":"1年級","semester":"上學期","lesson":"首冊/統整","char":"二","level":"國小中高年級"},
+  "data": {"char":"二","groups":{"shape":[{"char":"三","why":"字形相近","difference":"「二」有兩畫，「三」有三畫。"},{"char":"工","why":"字形相近","difference":"「工」中間多一豎。"}],"sound":[],"meaning":[],"component":[]},"tip":"先數橫畫，再看中間有沒有直畫。"},
+  "createdAt": "2026-09-04T02:50:00.000Z"
+}
