@@ -1,0 +1,385 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "康軒_6年級_上學期_第1課_fillblank_generate_0d0c8cd8fa2f5a5b",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "title": "第1課 全課填空",
+    "items": [
+      {
+        "char": "級",
+        "word": "級"
+      },
+      {
+        "char": "軸",
+        "word": "軸"
+      },
+      {
+        "char": "奪",
+        "word": "奪"
+      },
+      {
+        "char": "屈",
+        "word": "屈"
+      },
+      {
+        "char": "偏",
+        "word": "偏"
+      },
+      {
+        "char": "搬",
+        "word": "搬"
+      },
+      {
+        "char": "恨",
+        "word": "恨"
+      },
+      {
+        "char": "抑",
+        "word": "抑"
+      },
+      {
+        "char": "拒",
+        "word": "拒"
+      },
+      {
+        "char": "尷",
+        "word": "尷"
+      },
+      {
+        "char": "尬",
+        "word": "尬"
+      },
+      {
+        "char": "悔",
+        "word": "悔"
+      },
+      {
+        "char": "拱",
+        "word": "拱"
+      },
+      {
+        "char": "距",
+        "word": "距"
+      },
+      {
+        "char": "默",
+        "word": "默"
+      },
+      {
+        "char": "鬥",
+        "word": "鬥"
+      },
+      {
+        "char": "扭",
+        "word": "扭"
+      },
+      {
+        "char": "猛",
+        "word": "猛"
+      },
+      {
+        "char": "愣",
+        "word": "愣"
+      }
+    ],
+    "level": "國小中高年級",
+    "sourceRequestId": "",
+    "autoLesson": true
+  },
+  "data": {
+    "title": "第1課 全課填空",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "級",
+        "word": "年級",
+        "sentence": "升上六年級後，我更懂得安排自己的學習時間。",
+        "answer": "級",
+        "options": [
+          "級",
+          "屈",
+          "抑",
+          "悔"
+        ],
+        "hint": "哪個字常和「年」組成學校階段？",
+        "explanation": "「年級」表示學校中依學年區分的層級。"
+      },
+      {
+        "id": "q2",
+        "targetChar": "軸",
+        "word": "車軸",
+        "sentence": "技師仔細檢查車軸，確認輪子能順利轉動。",
+        "answer": "軸",
+        "options": [
+          "軸",
+          "偏",
+          "拒",
+          "拱"
+        ],
+        "hint": "和輪子中心的轉動零件有關。",
+        "explanation": "「車軸」是支撐輪子轉動的軸。"
+      },
+      {
+        "id": "q3",
+        "targetChar": "奪",
+        "word": "奪冠",
+        "sentence": "選手努力練習，終於在比賽中奪冠。",
+        "answer": "奪",
+        "options": [
+          "奪",
+          "搬",
+          "尷",
+          "距"
+        ],
+        "hint": "句子在說取得第一名。",
+        "explanation": "「奪冠」表示贏得冠軍。"
+      },
+      {
+        "id": "q4",
+        "targetChar": "屈",
+        "word": "委屈",
+        "sentence": "他被誤會時覺得很委屈，但仍冷靜說明。",
+        "answer": "屈",
+        "options": [
+          "屈",
+          "恨",
+          "尬",
+          "默"
+        ],
+        "hint": "受到不公平對待時的感受。",
+        "explanation": "「委屈」表示受到不公平待遇而難過。"
+      },
+      {
+        "id": "q5",
+        "targetChar": "偏",
+        "word": "偏心",
+        "sentence": "老師處理事情要公平，不能偏心。",
+        "answer": "偏",
+        "options": [
+          "偏",
+          "抑",
+          "悔",
+          "鬥"
+        ],
+        "hint": "和不公平地偏向一方有關。",
+        "explanation": "「偏心」表示偏袒某一方。"
+      },
+      {
+        "id": "q6",
+        "targetChar": "搬",
+        "word": "搬家",
+        "sentence": "我們週末一起整理紙箱，準備搬家。",
+        "answer": "搬",
+        "options": [
+          "搬",
+          "拒",
+          "拱",
+          "扭"
+        ],
+        "hint": "把東西移到另一個地方。",
+        "explanation": "「搬家」表示遷移住處。"
+      },
+      {
+        "id": "q7",
+        "targetChar": "恨",
+        "word": "仇恨",
+        "sentence": "長久的仇恨只會讓彼此更加痛苦。",
+        "answer": "恨",
+        "options": [
+          "恨",
+          "尷",
+          "距",
+          "猛"
+        ],
+        "hint": "強烈的不滿與怨懟。",
+        "explanation": "「仇恨」表示深切的怨恨。"
+      },
+      {
+        "id": "q8",
+        "targetChar": "抑",
+        "word": "壓抑",
+        "sentence": "遇到難過的事，不必一直壓抑自己的情緒。",
+        "answer": "抑",
+        "options": [
+          "抑",
+          "尬",
+          "默",
+          "愣"
+        ],
+        "hint": "把情緒強壓下來。",
+        "explanation": "「壓抑」表示抑制而不讓表現出來。"
+      },
+      {
+        "id": "q9",
+        "targetChar": "拒",
+        "word": "拒絕",
+        "sentence": "面對不合理的要求，我們可以勇敢拒絕。",
+        "answer": "拒",
+        "options": [
+          "拒",
+          "悔",
+          "鬥",
+          "級"
+        ],
+        "hint": "表示不接受。",
+        "explanation": "「拒絕」就是不接受、不答應。"
+      },
+      {
+        "id": "q10",
+        "targetChar": "尷",
+        "word": "尷尬",
+        "sentence": "大家突然安靜下來，現場氣氛有些尷尬。",
+        "answer": "尷",
+        "options": [
+          "尷",
+          "拱",
+          "扭",
+          "軸"
+        ],
+        "hint": "常和「尬」合成一個詞。",
+        "explanation": "「尷尬」表示處境不自然或難為情。"
+      },
+      {
+        "id": "q11",
+        "targetChar": "尬",
+        "word": "尷尬",
+        "sentence": "他忘了同學的名字，場面一時十分尷尬。",
+        "answer": "尬",
+        "options": [
+          "尬",
+          "距",
+          "猛",
+          "奪"
+        ],
+        "hint": "前面常接「尷」。",
+        "explanation": "「尷尬」表示不自然、難為情。"
+      },
+      {
+        "id": "q12",
+        "targetChar": "悔",
+        "word": "後悔",
+        "sentence": "我沒有先想清楚就說出重話，事後非常後悔。",
+        "answer": "悔",
+        "options": [
+          "悔",
+          "默",
+          "愣",
+          "屈"
+        ],
+        "hint": "事情過後覺得不該那樣做。",
+        "explanation": "「後悔」表示事後懊惱。"
+      },
+      {
+        "id": "q13",
+        "targetChar": "拱",
+        "word": "拱門",
+        "sentence": "花園入口有一座漂亮的石造拱門。",
+        "answer": "拱",
+        "options": [
+          "拱",
+          "鬥",
+          "級",
+          "偏"
+        ],
+        "hint": "上方呈弧形的門。",
+        "explanation": "「拱門」是上方成弧形的門。"
+      },
+      {
+        "id": "q14",
+        "targetChar": "距",
+        "word": "距離",
+        "sentence": "兩地之間的距離不遠，走路就能到。",
+        "answer": "距",
+        "options": [
+          "距",
+          "扭",
+          "軸",
+          "搬"
+        ],
+        "hint": "表示兩處相隔多遠。",
+        "explanation": "「距離」表示相隔的長度或空間。"
+      },
+      {
+        "id": "q15",
+        "targetChar": "默",
+        "word": "沉默",
+        "sentence": "聽完消息後，他沉默了好一會兒。",
+        "answer": "默",
+        "options": [
+          "默",
+          "猛",
+          "奪",
+          "恨"
+        ],
+        "hint": "安靜而不說話。",
+        "explanation": "「沉默」表示不說話。"
+      },
+      {
+        "id": "q16",
+        "targetChar": "鬥",
+        "word": "奮鬥",
+        "sentence": "只要持續奮鬥，就有機會完成自己的目標。",
+        "answer": "鬥",
+        "options": [
+          "鬥",
+          "愣",
+          "屈",
+          "抑"
+        ],
+        "hint": "為目標努力不懈。",
+        "explanation": "「奮鬥」表示努力奮發。"
+      },
+      {
+        "id": "q17",
+        "targetChar": "扭",
+        "word": "扭轉",
+        "sentence": "球隊在最後一局扭轉局勢，反敗為勝。",
+        "answer": "扭",
+        "options": [
+          "扭",
+          "級",
+          "偏",
+          "拒"
+        ],
+        "hint": "把原來情勢轉變過來。",
+        "explanation": "「扭轉」表示使方向或情勢改變。"
+      },
+      {
+        "id": "q18",
+        "targetChar": "猛",
+        "word": "猛烈",
+        "sentence": "午後忽然下起猛烈的大雨。",
+        "answer": "猛",
+        "options": [
+          "猛",
+          "軸",
+          "搬",
+          "尷"
+        ],
+        "hint": "程度很強烈。",
+        "explanation": "「猛烈」表示強烈、激烈。"
+      },
+      {
+        "id": "q19",
+        "targetChar": "愣",
+        "word": "發愣",
+        "sentence": "聽到突如其來的消息，他站在原地發愣。",
+        "answer": "愣",
+        "options": [
+          "愣",
+          "奪",
+          "恨",
+          "尬"
+        ],
+        "hint": "一時呆住沒有反應。",
+        "explanation": "「發愣」表示因驚訝等原因而呆住。"
+      }
+    ]
+  },
+  "createdAt": "2026-09-03T15:50:00.000Z"
+}
