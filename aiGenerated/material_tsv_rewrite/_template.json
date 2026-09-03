@@ -1,0 +1,22 @@
+{
+  "taskType": "material_tsv_rewrite",
+  "requestId": "example_request_id",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "",
+    "grade": "",
+    "semester": "",
+    "lesson": "",
+    "materialType": "primary",
+    "currentTsv": "",
+    "command": "",
+    "level": ""
+  },
+  "data": {
+    "materialType": "primary",
+    "tsv": "",
+    "appliedCommand": ""
+  },
+  "createdAt": ""
+}
