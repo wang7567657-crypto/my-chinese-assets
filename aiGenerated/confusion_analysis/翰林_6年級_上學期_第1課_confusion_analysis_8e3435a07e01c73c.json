@@ -1,0 +1,41 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第1課_confusion_analysis_8e3435a07e01c73c",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "翼",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "翼",
+    "groups": {
+      "shape": [
+        {
+          "char": "冀",
+          "why": "字形相近",
+          "difference": "比較「翼」和「冀」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "異",
+          "why": "字形相近",
+          "difference": "比較「翼」和「異」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "翊",
+          "why": "字形相近",
+          "difference": "比較「翼」和「翊」的偏旁與關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "把「翼」放進「翅翼」中記憶。"
+  },
+  "createdAt": "2026-09-04T02:41:00.000Z"
+}
