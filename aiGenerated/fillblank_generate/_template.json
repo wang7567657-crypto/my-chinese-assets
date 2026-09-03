@@ -8,10 +8,25 @@
     "grade": "",
     "semester": "",
     "lesson": "",
+    "chars": [],
+    "count": 0,
+    "level": "",
     "sourceRequestId": ""
   },
   "data": {
-    "levels": []
+    "title": "",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "",
+        "word": "",
+        "sentence": "",
+        "answer": "",
+        "options": [],
+        "hint": "",
+        "explanation": ""
+      }
+    ]
   },
   "createdAt": ""
 }
