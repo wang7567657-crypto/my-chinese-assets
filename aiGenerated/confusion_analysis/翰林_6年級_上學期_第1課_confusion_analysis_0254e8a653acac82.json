@@ -1,0 +1,41 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第1課_confusion_analysis_0254e8a653acac82",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "蛹",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蛹",
+    "groups": {
+      "shape": [
+        {
+          "char": "桶",
+          "why": "字形相近",
+          "difference": "比較「蛹」和「桶」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "通",
+          "why": "字形相近",
+          "difference": "比較「蛹」和「通」的偏旁與關鍵筆畫。"
+        },
+        {
+          "char": "踊",
+          "why": "字形相近",
+          "difference": "比較「蛹」和「踊」的偏旁與關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "把「蛹」放進「蠶蛹」中記憶。"
+  },
+  "createdAt": "2026-09-04T02:39:00.000Z"
+}
