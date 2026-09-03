@@ -1,5 +1,34 @@
 {
   "version": "1.0",
   "description": "陽光智慧黑板部件拆分字典。只有 verified=true 的資料可用於教學分色與部件拼貼。",
-  "chars": {}
+  "chars": {
+    "皺": {
+      "split": [
+        10,
+        5
+      ],
+      "components": [
+        "芻",
+        "皮"
+      ],
+      "strokeCount": 15,
+      "structure": "左右",
+      "verified": true,
+      "source": "chatgpt_checked"
+    },
+    "晃": {
+      "split": [
+        4,
+        6
+      ],
+      "components": [
+        "日",
+        "光"
+      ],
+      "strokeCount": 10,
+      "structure": "上下",
+      "verified": true,
+      "source": "chatgpt_checked"
+    }
+  }
 }
