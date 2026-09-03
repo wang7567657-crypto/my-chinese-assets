@@ -1,0 +1,141 @@
+{
+  "taskType": "listening_quiz",
+  "requestId": "翰林_1年級_上學期_第1課_listening_quiz_2be219c168f7f888",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "1年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "chars": [
+      "起",
+      "走",
+      "你",
+      "在",
+      "左",
+      "我",
+      "右",
+      "和",
+      "向",
+      "前"
+    ],
+    "count": 10,
+    "level": "國小中高年級"
+  },
+  "data": {
+    "questions": [
+      {
+        "char": "起",
+        "zhuyin": "ㄑㄧˇ",
+        "options": [
+          "起",
+          "企",
+          "氣",
+          "汽"
+        ],
+        "explanation": "「起」讀ㄑㄧˇ，例如一起。"
+      },
+      {
+        "char": "走",
+        "zhuyin": "ㄗㄡˇ",
+        "options": [
+          "走",
+          "奏",
+          "足",
+          "左"
+        ],
+        "explanation": "「走」讀ㄗㄡˇ，例如走路。"
+      },
+      {
+        "char": "你",
+        "zhuyin": "ㄋㄧˇ",
+        "options": [
+          "你",
+          "泥",
+          "妮",
+          "我"
+        ],
+        "explanation": "「你」讀ㄋㄧˇ，是稱呼對方的字。"
+      },
+      {
+        "char": "在",
+        "zhuyin": "ㄗㄞˋ",
+        "options": [
+          "在",
+          "再",
+          "載",
+          "左"
+        ],
+        "explanation": "「在」讀ㄗㄞˋ，例如現在。"
+      },
+      {
+        "char": "左",
+        "zhuyin": "ㄗㄨㄛˇ",
+        "options": [
+          "左",
+          "走",
+          "作",
+          "坐"
+        ],
+        "explanation": "「左」讀ㄗㄨㄛˇ，例如左邊。"
+      },
+      {
+        "char": "我",
+        "zhuyin": "ㄨㄛˇ",
+        "options": [
+          "我",
+          "握",
+          "臥",
+          "你"
+        ],
+        "explanation": "「我」讀ㄨㄛˇ，表示自己。"
+      },
+      {
+        "char": "右",
+        "zhuyin": "ㄧㄡˋ",
+        "options": [
+          "右",
+          "又",
+          "有",
+          "友"
+        ],
+        "explanation": "「右」讀ㄧㄡˋ，例如右手。"
+      },
+      {
+        "char": "和",
+        "zhuyin": "ㄏㄜˊ",
+        "options": [
+          "和",
+          "河",
+          "合",
+          "何"
+        ],
+        "explanation": "「和」在「和平」中讀ㄏㄜˊ。"
+      },
+      {
+        "char": "向",
+        "zhuyin": "ㄒㄧㄤˋ",
+        "options": [
+          "向",
+          "像",
+          "象",
+          "相"
+        ],
+        "explanation": "「向」讀ㄒㄧㄤˋ，例如方向。"
+      },
+      {
+        "char": "前",
+        "zhuyin": "ㄑㄧㄢˊ",
+        "options": [
+          "前",
+          "錢",
+          "乾",
+          "千"
+        ],
+        "explanation": "「前」讀ㄑㄧㄢˊ，例如前面。"
+      }
+    ]
+  },
+  "createdAt": "2026-09-03T15:55:00.000Z"
+}
