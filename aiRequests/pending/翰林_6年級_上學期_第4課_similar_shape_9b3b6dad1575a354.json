@@ -1,0 +1,36 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第4課_similar_shape_9b3b6dad1575a354",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "霸",
+    "lessonChars": [
+      "鰭",
+      "划",
+      "奧",
+      "仿",
+      "迫",
+      "蚊",
+      "膚",
+      "鋸",
+      "劃",
+      "擴",
+      "液",
+      "奈",
+      "構",
+      "鵰",
+      "霸",
+      "翹",
+      "垂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "createdAt": "2026-09-03T16:54:07.575Z"
+}
