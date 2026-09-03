@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第3課_memory_strategy_7dc8bba22870d775",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "杏",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "杏",
+    "components": [
+      "木",
+      "口"
+    ],
+    "association": "上面是「木」，下面是「口」。",
+    "mnemonic": "樹木下面張開一個口，看到杏子想吃一口，就是「杏」。",
+    "visualPrompt": "一棵杏樹，下方用口形符號強調「木＋口」的字形結構。",
+    "teachingTip": "讓學生先指上方木、再指下方口，最後連回「杏樹、杏子」。"
+  },
+  "createdAt": "2026-09-04T01:06:00.000Z"
+}
