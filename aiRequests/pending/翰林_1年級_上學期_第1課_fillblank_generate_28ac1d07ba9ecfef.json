@@ -1,0 +1,59 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "翰林_1年級_上學期_第1課_fillblank_generate_28ac1d07ba9ecfef",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "1年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "title": "第1課 全課填空",
+    "items": [
+      {
+        "char": "起",
+        "word": "起"
+      },
+      {
+        "char": "走",
+        "word": "走"
+      },
+      {
+        "char": "你",
+        "word": "你"
+      },
+      {
+        "char": "在",
+        "word": "在"
+      },
+      {
+        "char": "左",
+        "word": "左"
+      },
+      {
+        "char": "我",
+        "word": "我"
+      },
+      {
+        "char": "右",
+        "word": "右"
+      },
+      {
+        "char": "和",
+        "word": "和"
+      },
+      {
+        "char": "向",
+        "word": "向"
+      },
+      {
+        "char": "前",
+        "word": "前"
+      }
+    ],
+    "level": "國小中高年級",
+    "sourceRequestId": "",
+    "autoLesson": true
+  },
+  "createdAt": "2026-09-03T15:39:37.645Z"
+}
