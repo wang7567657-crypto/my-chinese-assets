@@ -1,0 +1,37 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第2課_similar_shape_37dcd182cdb67330",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "targetChar": "胞",
+    "lessonChars": [
+      "眶",
+      "固",
+      "執",
+      "辯",
+      "胞",
+      "胎",
+      "盼",
+      "郵",
+      "暈",
+      "稚",
+      "慘",
+      "憤",
+      "慨",
+      "狠",
+      "憂",
+      "涕",
+      "慰",
+      "寞"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "createdAt": "2026-09-03T16:51:33.889Z"
+}
