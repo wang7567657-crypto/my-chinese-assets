@@ -1,0 +1,30 @@
+{
+  "taskType": "listening_quiz",
+  "requestId": "南一_1年級_上學期_首冊-統整_listening_quiz_cea53d9904d72489",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {"publisher":"南一","grade":"1年級","semester":"上學期","lesson":"首冊/統整","chars":["一","二","三","四","五","六","七","八","九","十","日","月","山","木","水","人","手","門"],"count":18,"level":"國小中高年級"},
+  "data": {
+    "questions": [
+      {"char":"一","zhuyin":"ㄧ","options":["一","二","十","七"],"explanation":"「一」讀ㄧ。"},
+      {"char":"二","zhuyin":"ㄦˋ","options":["二","三","五","八"],"explanation":"「二」讀ㄦˋ。"},
+      {"char":"三","zhuyin":"ㄙㄢ","options":["三","四","山","日"],"explanation":"「三」讀ㄙㄢ。"},
+      {"char":"四","zhuyin":"ㄙˋ","options":["四","五","日","門"],"explanation":"「四」讀ㄙˋ。"},
+      {"char":"五","zhuyin":"ㄨˇ","options":["五","六","木","水"],"explanation":"「五」讀ㄨˇ。"},
+      {"char":"六","zhuyin":"ㄌㄧㄡˋ","options":["六","七","八","人"],"explanation":"「六」讀ㄌㄧㄡˋ。"},
+      {"char":"七","zhuyin":"ㄑㄧ","options":["七","九","一","手"],"explanation":"「七」讀ㄑㄧ。"},
+      {"char":"八","zhuyin":"ㄅㄚ","options":["八","人","六","九"],"explanation":"「八」讀ㄅㄚ。"},
+      {"char":"九","zhuyin":"ㄐㄧㄡˇ","options":["九","七","八","十"],"explanation":"「九」讀ㄐㄧㄡˇ。"},
+      {"char":"十","zhuyin":"ㄕˊ","options":["十","一","七","手"],"explanation":"「十」讀ㄕˊ。"},
+      {"char":"日","zhuyin":"ㄖˋ","options":["日","月","目","四"],"explanation":"「日」讀ㄖˋ。"},
+      {"char":"月","zhuyin":"ㄩㄝˋ","options":["月","日","門","山"],"explanation":"「月」讀ㄩㄝˋ。"},
+      {"char":"山","zhuyin":"ㄕㄢ","options":["山","三","木","門"],"explanation":"「山」讀ㄕㄢ。"},
+      {"char":"木","zhuyin":"ㄇㄨˋ","options":["木","山","水","手"],"explanation":"「木」讀ㄇㄨˋ。"},
+      {"char":"水","zhuyin":"ㄕㄨㄟˇ","options":["水","木","人","山"],"explanation":"「水」讀ㄕㄨㄟˇ。"},
+      {"char":"人","zhuyin":"ㄖㄣˊ","options":["人","八","入","大"],"explanation":"「人」讀ㄖㄣˊ。"},
+      {"char":"手","zhuyin":"ㄕㄡˇ","options":["手","木","門","十"],"explanation":"「手」讀ㄕㄡˇ。"},
+      {"char":"門","zhuyin":"ㄇㄣˊ","options":["門","月","日","四"],"explanation":"「門」讀ㄇㄣˊ。"}
+    ]
+  },
+  "createdAt": "2026-09-04T02:50:00.000Z"
+}
