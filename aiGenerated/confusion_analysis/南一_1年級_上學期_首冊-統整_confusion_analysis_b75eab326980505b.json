@@ -1,0 +1,9 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_1年級_上學期_首冊-統整_confusion_analysis_b75eab326980505b",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {"publisher":"南一","grade":"1年級","semester":"上學期","lesson":"首冊/統整","char":"四","level":"國小中高年級"},
+  "data": {"char":"四","groups":{"shape":[{"char":"西","why":"外框和內部形狀相近","difference":"四裡面是兒的變形；西裡面像兩筆往內。"},{"char":"田","why":"都有外框","difference":"田裡面有十字；四沒有。"}],"sound":[],"meaning":[],"component":[]},"tip":"先看外框裡面：四不是十字，也不是西。"},
+  "createdAt": "2026-09-04T08:02:00+08:00"
+}
