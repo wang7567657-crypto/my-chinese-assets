@@ -1,0 +1,9 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_1年級_上學期_首冊-統整_confusion_analysis_fd88b78974d4b101",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {"publisher":"南一","grade":"1年級","semester":"上學期","lesson":"首冊/統整","char":"水","level":"國小中高年級"},
+  "data": {"char":"水","groups":{"shape":[{"char":"永","why":"字形部分相近","difference":"永的上方多一點，筆畫安排也不同。"},{"char":"冰","why":"都和水有關且字形相關","difference":"冰是兩點水加水的部分；水是獨立的字。"}],"sound":[],"meaning":[],"component":[]},"tip":"先看中間直鉤，再看左右兩邊的筆畫方向。"},
+  "createdAt": "2026-09-04T08:03:00+08:00"
+}
