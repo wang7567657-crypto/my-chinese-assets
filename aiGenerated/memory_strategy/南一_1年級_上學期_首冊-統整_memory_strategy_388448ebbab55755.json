@@ -1,0 +1,16 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_1年級_上學期_首冊-統整_memory_strategy_388448ebbab55755",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {"publisher":"南一","grade":"1年級","semester":"上學期","lesson":"首冊/統整","char":"木","level":"國小中高年級"},
+  "data": {
+    "char": "木",
+    "components": ["木"],
+    "association": "把「木」看成一棵樹：直的是樹幹，左右伸開的是樹枝。",
+    "mnemonic": "一根樹幹伸出兩邊樹枝，就是「木」。",
+    "visualPrompt": "畫一棵簡單的小樹，讓樹幹和樹枝位置對應「木」字。",
+    "teachingTip": "先看樹的樣子，再沿著樹幹和樹枝的方向比畫筆順。"
+  },
+  "createdAt": "2026-09-04T02:50:00.000Z"
+}
