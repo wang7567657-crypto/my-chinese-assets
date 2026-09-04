@@ -1,0 +1,9 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_1年級_上學期_首冊-統整_confusion_analysis_8a9f2228dd6646c5",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {"publisher":"南一","grade":"1年級","semester":"上學期","lesson":"首冊/統整","char":"一","level":"國小中高年級"},
+  "data": {"char":"一","groups":{"shape":[{"char":"二","why":"字形相近","difference":"一只有一橫；二有兩橫。"},{"char":"十","why":"都有橫畫","difference":"十多了一筆直畫。"}],"sound":[],"meaning":[],"component":[]},"tip":"先數有幾條橫畫，再看有沒有直畫。"},
+  "createdAt": "2026-09-04T08:01:00+08:00"
+}
