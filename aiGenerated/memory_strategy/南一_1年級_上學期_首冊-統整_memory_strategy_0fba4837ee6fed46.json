@@ -1,0 +1,16 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_1年級_上學期_首冊-統整_memory_strategy_0fba4837ee6fed46",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {"publisher":"南一","grade":"1年級","semester":"上學期","lesson":"首冊/統整","char":"山","level":"國小中高年級"},
+  "data": {
+    "char": "山",
+    "components": ["山"],
+    "association": "把「山」想成三座高低不同的山峰。",
+    "mnemonic": "中間高、兩邊低，像三座山峰，就是「山」。",
+    "visualPrompt": "畫三座簡單山峰，讓輪廓和「山」字相呼應。",
+    "teachingTip": "先用手指比出三座山峰，再看字形，最後遮住字自己寫。"
+  },
+  "createdAt": "2026-09-04T02:50:00.000Z"
+}
