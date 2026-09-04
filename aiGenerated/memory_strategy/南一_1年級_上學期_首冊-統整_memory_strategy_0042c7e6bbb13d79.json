@@ -1,0 +1,16 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_1年級_上學期_首冊-統整_memory_strategy_0042c7e6bbb13d79",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {"publisher":"南一","grade":"1年級","semester":"上學期","lesson":"首冊/統整","char":"門","level":"國小中高年級"},
+  "data": {
+    "char": "門",
+    "components": ["門"],
+    "association": "把「門」想成兩片門板，中間留一個可以進出的空間。",
+    "mnemonic": "兩邊像門框，中間可以走進去，就是「門」。",
+    "visualPrompt": "畫一扇打開的教室門，旁邊放大呈現「門」字輪廓。",
+    "teachingTip": "先用手比出門框，再看字、說記憶句，最後遮住字寫一次。"
+  },
+  "createdAt": "2026-09-04T02:50:00.000Z"
+}
