@@ -1,0 +1,28 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "南一_1年級_上學期_首冊-統整_fillblank_generate_51831e4984be9524",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {"publisher":"南一","grade":"1年級","semester":"上學期","lesson":"首冊/統整","title":"首冊/統整 全課填空","items":[{"char":"一","word":"一"},{"char":"二","word":"二"},{"char":"三","word":"三"},{"char":"四","word":"四"},{"char":"五","word":"五"},{"char":"六","word":"六"},{"char":"七","word":"七"},{"char":"八","word":"八"},{"char":"九","word":"九"},{"char":"十","word":"十"},{"char":"日","word":"日"},{"char":"月","word":"月"},{"char":"山","word":"山"},{"char":"木","word":"木"},{"char":"水","word":"水"},{"char":"人","word":"人"},{"char":"手","word":"手"},{"char":"門","word":"門"}],"level":"國小中高年級","sourceRequestId":"","autoLesson":true},
+  "data": {"title":"首冊/統整 全課填空","questions":[
+    {"id":"q1","targetChar":"一","word":"一","sentence":"桌上有＿＿本書。","answer":"一","options":["一","二","三","四"],"hint":"只有一本。","explanation":"答案是「一」。"},
+    {"id":"q2","targetChar":"二","word":"二","sentence":"我有＿＿枝鉛筆。","answer":"二","options":["二","一","三","五"],"hint":"比一多一。","explanation":"答案是「二」。"},
+    {"id":"q3","targetChar":"三","word":"三","sentence":"盤子裡有＿＿顆蘋果。","answer":"三","options":["三","二","四","六"],"hint":"比二多一。","explanation":"答案是「三」。"},
+    {"id":"q4","targetChar":"四","word":"四","sentence":"桌子有＿＿隻腳。","answer":"四","options":["四","三","五","八"],"hint":"一般桌子有四隻腳。","explanation":"答案是「四」。"},
+    {"id":"q5","targetChar":"五","word":"五","sentence":"一隻手有＿＿根手指。","answer":"五","options":["五","四","六","十"],"hint":"數一數一隻手的手指。","explanation":"答案是「五」。"},
+    {"id":"q6","targetChar":"六","word":"六","sentence":"盒子裡有＿＿顆球。","answer":"六","options":["六","五","七","九"],"hint":"比五多一。","explanation":"答案是「六」。"},
+    {"id":"q7","targetChar":"七","word":"七","sentence":"一星期有＿＿天。","answer":"七","options":["七","六","八","十"],"hint":"星期一到星期日。","explanation":"答案是「七」。"},
+    {"id":"q8","targetChar":"八","word":"八","sentence":"盤子裡有＿＿塊餅乾。","answer":"八","options":["八","七","九","六"],"hint":"比七多一。","explanation":"答案是「八」。"},
+    {"id":"q9","targetChar":"九","word":"九","sentence":"我數到＿＿，下一個就是十。","answer":"九","options":["九","八","十","七"],"hint":"十的前一個數。","explanation":"答案是「九」。"},
+    {"id":"q10","targetChar":"十","word":"十","sentence":"兩隻手共有＿＿根手指。","answer":"十","options":["十","九","八","五"],"hint":"五加五。","explanation":"答案是「十」。"},
+    {"id":"q11","targetChar":"日","word":"日","sentence":"太陽也可以用「＿＿」來表示。","answer":"日","options":["日","月","山","水"],"hint":"和太陽有關。","explanation":"答案是「日」。"},
+    {"id":"q12","targetChar":"月","word":"月","sentence":"晚上抬頭可以看到＿＿亮。","answer":"月","options":["月","日","木","門"],"hint":"晚上常看到月亮。","explanation":"答案是「月」。"},
+    {"id":"q13","targetChar":"山","word":"山","sentence":"我們爬上高高的＿＿。","answer":"山","options":["山","水","木","門"],"hint":"可以爬山。","explanation":"答案是「山」。"},
+    {"id":"q14","targetChar":"木","word":"木","sentence":"大樹和＿＿頭都有「木」。","answer":"木","options":["木","水","人","手"],"hint":"和樹木有關。","explanation":"答案是「木」。"},
+    {"id":"q15","targetChar":"水","word":"水","sentence":"口渴時，我會喝＿＿。","answer":"水","options":["水","木","山","日"],"hint":"喝水解渴。","explanation":"答案是「水」。"},
+    {"id":"q16","targetChar":"人","word":"人","sentence":"教室裡有很多＿＿。","answer":"人","options":["人","手","門","木"],"hint":"老師和學生都是人。","explanation":"答案是「人」。"},
+    {"id":"q17","targetChar":"手","word":"手","sentence":"我要用＿＿拿鉛筆。","answer":"手","options":["手","人","門","月"],"hint":"拿東西會用到手。","explanation":"答案是「手」。"},
+    {"id":"q18","targetChar":"門","word":"門","sentence":"進教室前，要先打開＿＿。","answer":"門","options":["門","手","木","山"],"hint":"進出教室會經過門。","explanation":"答案是「門」。"}
+  ]},
+  "createdAt": "2026-09-04T08:04:00+08:00"
+}
