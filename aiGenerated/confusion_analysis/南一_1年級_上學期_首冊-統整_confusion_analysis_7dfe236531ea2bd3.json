@@ -1,0 +1,9 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_1年級_上學期_首冊-統整_confusion_analysis_7dfe236531ea2bd3",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {"publisher":"南一","grade":"1年級","semester":"上學期","lesson":"首冊/統整","char":"八","level":"國小中高年級"},
+  "data": {"char":"八","groups":{"shape":[{"char":"人","why":"字形相近","difference":"八的兩筆向外張開；人的兩筆上方靠得較近。"},{"char":"入","why":"字形相近","difference":"入的撇捺交接位置和八不同。"}],"sound":[],"meaning":[],"component":[]},"tip":"先看兩筆有沒有分開，再比較撇、捺的方向。"},
+  "createdAt": "2026-09-04T08:00:00+08:00"
+}
