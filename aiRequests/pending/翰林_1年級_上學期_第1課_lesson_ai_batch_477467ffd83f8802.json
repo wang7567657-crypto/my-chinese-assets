@@ -1,0 +1,761 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "翰林_1年級_上學期_第1課_lesson_ai_batch_477467ffd83f8802",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "1年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "起",
+      "走",
+      "你",
+      "在",
+      "左",
+      "我",
+      "右",
+      "和",
+      "向",
+      "前"
+    ],
+    "itemCount": 42,
+    "items": [
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "翰林_1年級_上學期_第1課_material_tsv_generate_9242abc39045de53",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "primary",
+          "chars": [
+            "起",
+            "走",
+            "你",
+            "在",
+            "左",
+            "我",
+            "右",
+            "和",
+            "向",
+            "前"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "翰林_1年級_上學期_第1課_material_tsv_generate_2d0d4599407b5217",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "extra",
+          "chars": [
+            "起",
+            "走",
+            "你",
+            "在",
+            "左",
+            "我",
+            "右",
+            "和",
+            "向",
+            "前"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_1年級_上學期_第1課_similar_shape_ee47afc1eeae6624",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "起",
+          "lessonChars": [
+            "起",
+            "走",
+            "你",
+            "在",
+            "左",
+            "我",
+            "右",
+            "和",
+            "向",
+            "前"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_1年級_上學期_第1課_confusion_analysis_817aa9975b21e793",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "起",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_1年級_上學期_第1課_memory_strategy_1a4b8d1b84957644",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "起",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_1年級_上學期_第1課_component_split_12018237d629e6f9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "起",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_1年級_上學期_第1課_similar_shape_a93cd4f3fd037d9f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "走",
+          "lessonChars": [
+            "起",
+            "走",
+            "你",
+            "在",
+            "左",
+            "我",
+            "右",
+            "和",
+            "向",
+            "前"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_1年級_上學期_第1課_confusion_analysis_ac49dfe1ac158892",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "走",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_1年級_上學期_第1課_memory_strategy_e7c40a003d4dd970",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "走",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_1年級_上學期_第1課_component_split_b12b8a89eb09d9e0",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "走",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_1年級_上學期_第1課_similar_shape_5215449e7b4169c1",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "你",
+          "lessonChars": [
+            "起",
+            "走",
+            "你",
+            "在",
+            "左",
+            "我",
+            "右",
+            "和",
+            "向",
+            "前"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_1年級_上學期_第1課_confusion_analysis_8b31395bc35fb434",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "你",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_1年級_上學期_第1課_memory_strategy_463f11756d9da512",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "你",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_1年級_上學期_第1課_component_split_de6f0017d68819ed",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "你",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_1年級_上學期_第1課_similar_shape_3048534eba108f22",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "在",
+          "lessonChars": [
+            "起",
+            "走",
+            "你",
+            "在",
+            "左",
+            "我",
+            "右",
+            "和",
+            "向",
+            "前"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_1年級_上學期_第1課_confusion_analysis_d560cf5a28b5b3d8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "在",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_1年級_上學期_第1課_memory_strategy_b046874381644af9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "在",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_1年級_上學期_第1課_component_split_c413c0addc99f23e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "在",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_1年級_上學期_第1課_similar_shape_139e2cb383ecec88",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "左",
+          "lessonChars": [
+            "起",
+            "走",
+            "你",
+            "在",
+            "左",
+            "我",
+            "右",
+            "和",
+            "向",
+            "前"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_1年級_上學期_第1課_confusion_analysis_bad4a720828578e4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "左",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_1年級_上學期_第1課_memory_strategy_2f0043637dd71985",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "左",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_1年級_上學期_第1課_component_split_cafa96e065112972",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "左",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_1年級_上學期_第1課_similar_shape_7e71bf52a6885d02",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "我",
+          "lessonChars": [
+            "起",
+            "走",
+            "你",
+            "在",
+            "左",
+            "我",
+            "右",
+            "和",
+            "向",
+            "前"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_1年級_上學期_第1課_confusion_analysis_8eb06b337738fe50",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "我",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_1年級_上學期_第1課_memory_strategy_b2674de1e6ab9e41",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "我",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_1年級_上學期_第1課_component_split_41289772b502974f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "我",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_1年級_上學期_第1課_similar_shape_fb83adc5e835b1d5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "右",
+          "lessonChars": [
+            "起",
+            "走",
+            "你",
+            "在",
+            "左",
+            "我",
+            "右",
+            "和",
+            "向",
+            "前"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_1年級_上學期_第1課_confusion_analysis_1593b94dfc9017d5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "右",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_1年級_上學期_第1課_memory_strategy_4f25ef7822598e1a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "右",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_1年級_上學期_第1課_component_split_5bf1b7403e832ce9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "右",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_1年級_上學期_第1課_similar_shape_17218fd52711e0d1",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "和",
+          "lessonChars": [
+            "起",
+            "走",
+            "你",
+            "在",
+            "左",
+            "我",
+            "右",
+            "和",
+            "向",
+            "前"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_1年級_上學期_第1課_confusion_analysis_59c5a8b8a2a183b0",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "和",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_1年級_上學期_第1課_memory_strategy_7080e8ac88544799",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "和",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_1年級_上學期_第1課_component_split_80b797c8982616ca",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "和",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_1年級_上學期_第1課_similar_shape_6ce34f7ec1b5a193",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "向",
+          "lessonChars": [
+            "起",
+            "走",
+            "你",
+            "在",
+            "左",
+            "我",
+            "右",
+            "和",
+            "向",
+            "前"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_1年級_上學期_第1課_confusion_analysis_739f8d484a6ea2fd",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "向",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_1年級_上學期_第1課_memory_strategy_c3f2923c42a260d7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "向",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_1年級_上學期_第1課_component_split_14044b77e44479b5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "向",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_1年級_上學期_第1課_similar_shape_1f5d410ac2d1ecc8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "前",
+          "lessonChars": [
+            "起",
+            "走",
+            "你",
+            "在",
+            "左",
+            "我",
+            "右",
+            "和",
+            "向",
+            "前"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_1年級_上學期_第1課_confusion_analysis_4a51c79b1b1c1190",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "前",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_1年級_上學期_第1課_memory_strategy_c462635c188e8ae4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "前",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_1年級_上學期_第1課_component_split_5c9cabaaaed22ed0",
+        "input": {
+          "publisher": "翰林",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "前",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-07T06:10:12.109Z"
+}
