@@ -1,0 +1,852 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "翰林_6年級_上學期_第1課_lesson_ai_batch_b8f69c91625c8072",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "爽",
+      "塵",
+      "垢",
+      "鳳",
+      "頁",
+      "曝",
+      "跡",
+      "暈",
+      "涉",
+      "霾"
+    ],
+    "itemCount": 44,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "南一_6年級_上學期_第1課_listening_quiz_f22106f653636a96",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "爽",
+            "塵",
+            "垢",
+            "鳳",
+            "頁",
+            "曝",
+            "跡",
+            "暈",
+            "涉",
+            "霾"
+          ],
+          "count": 10,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "南一_6年級_上學期_第1課_homophone_compare_7ec27b119cfb74fc",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "爽",
+            "塵",
+            "垢",
+            "鳳",
+            "頁",
+            "曝",
+            "跡",
+            "暈",
+            "涉",
+            "霾"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "南一_6年級_上學期_第1課_fillblank_generate_691753319d5aa204",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "title": "第1課 全課填空",
+          "items": [
+            {
+              "char": "爽",
+              "word": "爽"
+            },
+            {
+              "char": "塵",
+              "word": "塵"
+            },
+            {
+              "char": "垢",
+              "word": "垢"
+            },
+            {
+              "char": "鳳",
+              "word": "鳳"
+            },
+            {
+              "char": "頁",
+              "word": "頁"
+            },
+            {
+              "char": "曝",
+              "word": "曝"
+            },
+            {
+              "char": "跡",
+              "word": "跡"
+            },
+            {
+              "char": "暈",
+              "word": "暈"
+            },
+            {
+              "char": "涉",
+              "word": "涉"
+            },
+            {
+              "char": "霾",
+              "word": "霾"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "南一_6年級_上學期_第1課_material_tsv_generate_cf2103f043888ea2",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "primary",
+          "chars": [
+            "爽",
+            "塵",
+            "垢",
+            "鳳",
+            "頁",
+            "曝",
+            "跡",
+            "暈",
+            "涉",
+            "霾"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "南一_6年級_上學期_第1課_material_tsv_generate_38f74e83d4f1fa69",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "extra",
+          "chars": [
+            "爽",
+            "塵",
+            "垢",
+            "鳳",
+            "頁",
+            "曝",
+            "跡",
+            "暈",
+            "涉",
+            "霾"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_6年級_上學期_第1課_similar_shape_7857908343e0c708",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "爽",
+          "lessonChars": [
+            "爽",
+            "塵",
+            "垢",
+            "鳳",
+            "頁",
+            "曝",
+            "跡",
+            "暈",
+            "涉",
+            "霾"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第1課_confusion_analysis_b8f5bece9084f4fe",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "爽",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_6年級_上學期_第1課_memory_strategy_ebc1bb9cf6628cb6",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "爽",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第1課_component_split_d5429909cad7b0ab",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "爽",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_6年級_上學期_第1課_similar_shape_3e2de32afb1a6059",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "塵",
+          "lessonChars": [
+            "爽",
+            "塵",
+            "垢",
+            "鳳",
+            "頁",
+            "曝",
+            "跡",
+            "暈",
+            "涉",
+            "霾"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第1課_confusion_analysis_78aa04f107840761",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "塵",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_6年級_上學期_第1課_memory_strategy_d1bed39d15f834e1",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "塵",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第1課_component_split_01339582ee203ab1",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "塵",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_6年級_上學期_第1課_similar_shape_b9402906bd80d389",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "垢",
+          "lessonChars": [
+            "爽",
+            "塵",
+            "垢",
+            "鳳",
+            "頁",
+            "曝",
+            "跡",
+            "暈",
+            "涉",
+            "霾"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第1課_confusion_analysis_3f6cb0ea58972a97",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "垢",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_6年級_上學期_第1課_memory_strategy_939a8d5a702aa725",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "垢",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第1課_component_split_04c7a4da17f9821f",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "垢",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_6年級_上學期_第1課_similar_shape_c021311999d0e391",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "鳳",
+          "lessonChars": [
+            "爽",
+            "塵",
+            "垢",
+            "鳳",
+            "頁",
+            "曝",
+            "跡",
+            "暈",
+            "涉",
+            "霾"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第1課_confusion_analysis_3cfb39e8ef362365",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "鳳",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_6年級_上學期_第1課_memory_strategy_c9b438a6c1d51e90",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "鳳",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第1課_component_split_ad3088f9fe0a42ba",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "鳳",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_6年級_上學期_第1課_similar_shape_cd6d6defaac1d3d7",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "頁",
+          "lessonChars": [
+            "爽",
+            "塵",
+            "垢",
+            "鳳",
+            "頁",
+            "曝",
+            "跡",
+            "暈",
+            "涉",
+            "霾"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第1課_confusion_analysis_fddff514161b8f3f",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "頁",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_6年級_上學期_第1課_memory_strategy_61f1c911b27e843a",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "頁",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第1課_component_split_6f51134cb07c8885",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "頁",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_6年級_上學期_第1課_similar_shape_04759be6eb98f90d",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "曝",
+          "lessonChars": [
+            "爽",
+            "塵",
+            "垢",
+            "鳳",
+            "頁",
+            "曝",
+            "跡",
+            "暈",
+            "涉",
+            "霾"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第1課_confusion_analysis_1345d35b97990b07",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "曝",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_6年級_上學期_第1課_memory_strategy_682cb158250ae345",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "曝",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第1課_component_split_edca302e1f0f85a1",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "曝",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_6年級_上學期_第1課_similar_shape_a717a02015608360",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "跡",
+          "lessonChars": [
+            "爽",
+            "塵",
+            "垢",
+            "鳳",
+            "頁",
+            "曝",
+            "跡",
+            "暈",
+            "涉",
+            "霾"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第1課_confusion_analysis_8d49b7020494b2ac",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "跡",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_6年級_上學期_第1課_memory_strategy_7031875603c43d18",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "跡",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第1課_component_split_43ed02f5207bd262",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "跡",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_6年級_上學期_第1課_similar_shape_89d7bcc6e0626af6",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "暈",
+          "lessonChars": [
+            "爽",
+            "塵",
+            "垢",
+            "鳳",
+            "頁",
+            "曝",
+            "跡",
+            "暈",
+            "涉",
+            "霾"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第1課_confusion_analysis_ec98a39ab85f9ab7",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "暈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_6年級_上學期_第1課_memory_strategy_404b18754a18cc77",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "暈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_6年級_上學期_第1課_similar_shape_2bcb7cff494594e9",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "涉",
+          "lessonChars": [
+            "爽",
+            "塵",
+            "垢",
+            "鳳",
+            "頁",
+            "曝",
+            "跡",
+            "暈",
+            "涉",
+            "霾"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第1課_confusion_analysis_33f769688a418e8f",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "涉",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_6年級_上學期_第1課_memory_strategy_65f6d8a7015d64b3",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "涉",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第1課_component_split_6b9346ad1970dfb0",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "涉",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_6年級_上學期_第1課_similar_shape_f7bf5c00ebfa64f7",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "霾",
+          "lessonChars": [
+            "爽",
+            "塵",
+            "垢",
+            "鳳",
+            "頁",
+            "曝",
+            "跡",
+            "暈",
+            "涉",
+            "霾"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第1課_confusion_analysis_10b274e15fe5f091",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "霾",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_6年級_上學期_第1課_memory_strategy_0671f6f8dd4de29d",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "霾",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第1課_component_split_5371ac947a782f29",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "霾",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-08T01:24:58.721Z"
+}
