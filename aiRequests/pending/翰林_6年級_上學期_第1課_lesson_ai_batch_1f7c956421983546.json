@@ -1,0 +1,1731 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "翰林_6年級_上學期_第1課_lesson_ai_batch_1f7c956421983546",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "堅",
+      "耐",
+      "勞",
+      "元",
+      "蝟",
+      "擁",
+      "繩",
+      "刷",
+      "膏",
+      "遭",
+      "係",
+      "充",
+      "供",
+      "凸",
+      "彼",
+      "協",
+      "融",
+      "洽",
+      "諦"
+    ],
+    "itemCount": 81,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "翰林_5年級_上學期_第1課_listening_quiz_4a3ac8db03a9b084",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 19,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "翰林_5年級_上學期_第1課_homophone_compare_a2e72fa9a0d4bed1",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "翰林_5年級_上學期_第1課_fillblank_generate_95d66e235e1c31f0",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "title": "第1課 全課填空",
+          "items": [
+            {
+              "char": "堅",
+              "word": "堅"
+            },
+            {
+              "char": "耐",
+              "word": "耐"
+            },
+            {
+              "char": "勞",
+              "word": "勞"
+            },
+            {
+              "char": "元",
+              "word": "元"
+            },
+            {
+              "char": "蝟",
+              "word": "蝟"
+            },
+            {
+              "char": "擁",
+              "word": "擁"
+            },
+            {
+              "char": "繩",
+              "word": "繩"
+            },
+            {
+              "char": "刷",
+              "word": "刷"
+            },
+            {
+              "char": "膏",
+              "word": "膏"
+            },
+            {
+              "char": "遭",
+              "word": "遭"
+            },
+            {
+              "char": "係",
+              "word": "係"
+            },
+            {
+              "char": "充",
+              "word": "充"
+            },
+            {
+              "char": "供",
+              "word": "供"
+            },
+            {
+              "char": "凸",
+              "word": "凸"
+            },
+            {
+              "char": "彼",
+              "word": "彼"
+            },
+            {
+              "char": "協",
+              "word": "協"
+            },
+            {
+              "char": "融",
+              "word": "融"
+            },
+            {
+              "char": "洽",
+              "word": "洽"
+            },
+            {
+              "char": "諦",
+              "word": "諦"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "翰林_5年級_上學期_第1課_material_tsv_generate_1ad80e5c5461d98c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "primary",
+          "chars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "翰林_5年級_上學期_第1課_material_tsv_generate_1a51debb37075b35",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "extra",
+          "chars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_521cd045569ed5a1",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "堅",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_e8516dec02336ae1",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "堅",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_a8902e23fcbcb154",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "堅",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_cedf9ac76974c585",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "堅",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_449e07ff5643a553",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "耐",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_8ca8a51a545c5605",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "耐",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_00bb8ba5f721de61",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "耐",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_f225c36d549bd491",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "耐",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_8e7bbde4c530295a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "勞",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_49add132990b72ec",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "勞",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_9f3ae1fc96d93c79",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "勞",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_acae99eff30cc880",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "勞",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_c4d89858d2ce7b05",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "元",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_852d34711ebb74f8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "元",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_58181a0ed3c48580",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "元",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_8a08f1255212390d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "元",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_cd38c25cee776663",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "蝟",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_190de3ab2c59a142",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "蝟",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_14c75198bcf49688",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "蝟",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_e2f09c62d3b990a6",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "蝟",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_e33e18677d6972e9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "擁",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_be63f5626965b2d3",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "擁",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_4166cdb31960d39b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "擁",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_e62cb8ef52ba7bf4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "擁",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_bf94216341e607d5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "繩",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_229a2735dec5b035",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "繩",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_4850c431fbbf0cfe",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "繩",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_3abf2778e38a4e12",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "繩",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_00e103e3775ef61f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "刷",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_630bcd2d750c2e1f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "刷",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_88d1dde7cf016c29",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "刷",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_961586d3afcedaf3",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "刷",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_3f0e497d9d6defb3",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "膏",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_746bb108922bf9fd",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "膏",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_bdedfe47d8e2530f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "膏",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_bd34bf77c2c93845",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "膏",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_d69a05e934991b2a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "遭",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_260ffe4ec4c3ceb9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "遭",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_2a52aa9f7133498e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "遭",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_33550b4e22b6a70c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "遭",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_761366dcf33e4b35",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "係",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_dfaf03772e2199cb",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "係",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_af1ce76d85f5b681",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "係",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_4fc8ecd04214662e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "係",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_0b63d7e9dbd5927e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "充",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_437f12de1f4f4dc2",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "充",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_a2c8dd9659e81daf",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "充",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_66641379ff6094a7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "充",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_242f19061eb9681f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "供",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_1ae1531d70ce656d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "供",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_748f5cfb9ae9dbba",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "供",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_41375fddc2d6ac84",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "供",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_5fe7cffec1d5a2ec",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "凸",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_7d9e23cbc7b04d41",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "凸",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_dfef31e3d4348c5b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "凸",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_2078dde1e19e9590",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "凸",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_e1c789caf0f02875",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "彼",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_fa4a808200128f05",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "彼",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_280c039a879d2e60",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "彼",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_ad0ae9717aa07a6c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "彼",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_d9eb55e2da95b32a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "協",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_9078e2a071655d43",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "協",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_b92d50c23179cd26",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "協",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_0d43b8429187e1e0",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "協",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_9878bfeca2666e9a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "融",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_c9c1ce17af5b2c60",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "融",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_c4b68b845610cb61",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "融",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_f7e2b456f228305a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "融",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_78d122baaba61966",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "洽",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_58d6df8a0526f1f5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "洽",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_55613e88407d17d6",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "洽",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_6cd52300f28efcad",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "洽",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第1課_similar_shape_86111f030646249b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "諦",
+          "lessonChars": [
+            "堅",
+            "耐",
+            "勞",
+            "元",
+            "蝟",
+            "擁",
+            "繩",
+            "刷",
+            "膏",
+            "遭",
+            "係",
+            "充",
+            "供",
+            "凸",
+            "彼",
+            "協",
+            "融",
+            "洽",
+            "諦"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第1課_confusion_analysis_d2192fe3fbd7c0b7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "諦",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第1課_memory_strategy_f9723220addfa92f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "諦",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第1課_component_split_d52ae7dcd2ff08e5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "諦",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-08T15:52:19.609Z"
+}
