@@ -1,0 +1,1137 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "康軒_3年級_上學期_第7課_lesson_ai_batch_ce1519d4df8a8f77",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "字",
+      "舟",
+      "灑",
+      "載",
+      "讓",
+      "愁",
+      "嘆",
+      "忌",
+      "妒",
+      "訣",
+      "似",
+      "練",
+      "習"
+    ],
+    "itemCount": 57,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "康軒_3年級_上學期_第1課_listening_quiz_22074b01cd6145b2",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "count": 13,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "康軒_3年級_上學期_第1課_homophone_compare_88cde71c63276124",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "康軒_3年級_上學期_第1課_fillblank_generate_02bc9cd0e746ec84",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "title": "第1課 全課填空",
+          "items": [
+            {
+              "char": "字",
+              "word": "字"
+            },
+            {
+              "char": "舟",
+              "word": "舟"
+            },
+            {
+              "char": "灑",
+              "word": "灑"
+            },
+            {
+              "char": "載",
+              "word": "載"
+            },
+            {
+              "char": "讓",
+              "word": "讓"
+            },
+            {
+              "char": "愁",
+              "word": "愁"
+            },
+            {
+              "char": "嘆",
+              "word": "嘆"
+            },
+            {
+              "char": "忌",
+              "word": "忌"
+            },
+            {
+              "char": "妒",
+              "word": "妒"
+            },
+            {
+              "char": "訣",
+              "word": "訣"
+            },
+            {
+              "char": "似",
+              "word": "似"
+            },
+            {
+              "char": "練",
+              "word": "練"
+            },
+            {
+              "char": "習",
+              "word": "習"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "康軒_3年級_上學期_第1課_material_tsv_generate_5e2cb668b71051c7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "primary",
+          "chars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "康軒_3年級_上學期_第1課_material_tsv_generate_d0af87bdba69d742",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "extra",
+          "chars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第1課_similar_shape_a8f4ab393dc8994b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "字",
+          "lessonChars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第1課_confusion_analysis_a034a667aaeb9a14",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "字",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第1課_memory_strategy_c57b96d0d132ff27",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "字",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第1課_component_split_8eb7daddcb8d5677",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "字",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第1課_similar_shape_6e38d4ed4c8a0cd8",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "舟",
+          "lessonChars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第1課_confusion_analysis_f8e3c55a2fd25ae4",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "舟",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第1課_memory_strategy_cec7d0b7aa1ad98b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "舟",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第1課_component_split_b13e70bc5782ccf2",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "舟",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第1課_similar_shape_0adf648a1224ae1a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "灑",
+          "lessonChars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第1課_confusion_analysis_869f79ef70fbe175",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "灑",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第1課_memory_strategy_7ba95021ee3abe44",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "灑",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第1課_component_split_8949e3e314230808",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "灑",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第1課_similar_shape_f95fbf80e6ecf295",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "載",
+          "lessonChars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第1課_confusion_analysis_3009c62bca049dd9",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "載",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第1課_memory_strategy_6abff91129c1a995",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "載",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第1課_component_split_9762e97d98ac56f5",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "載",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第1課_similar_shape_67b6f891197e340d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "讓",
+          "lessonChars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第1課_confusion_analysis_e2d6f72fb29f5a44",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "讓",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第1課_memory_strategy_09d946362d2f81fc",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "讓",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第1課_component_split_a163c4b663c497c9",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "讓",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第1課_similar_shape_3ebdd0f5ef40cdb6",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "愁",
+          "lessonChars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第1課_confusion_analysis_2b44d226e3490957",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "愁",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第1課_memory_strategy_3861a4d230f4ffb0",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "愁",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第1課_component_split_00c36dd81c3c8d61",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "愁",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第1課_similar_shape_3c47f2fc34537a8d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "嘆",
+          "lessonChars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第1課_confusion_analysis_a11c08a0bd0bae9d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "嘆",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第1課_memory_strategy_d2bd63d2ae55e03c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "嘆",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第1課_component_split_9d22076796fb6f80",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "嘆",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第1課_similar_shape_1e8a364aa597ac58",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "忌",
+          "lessonChars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第1課_confusion_analysis_b48e18f705bd1317",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "忌",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第1課_memory_strategy_24cab0708baf02ed",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "忌",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第1課_component_split_36bba9f0f4d3772f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "忌",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第1課_similar_shape_26edf7e4f5db9082",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "妒",
+          "lessonChars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第1課_confusion_analysis_d9d80a43a02bc3ae",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "妒",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第1課_memory_strategy_e9e23ab6c90378bb",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "妒",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第1課_component_split_763906d3aaab21d9",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "妒",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第1課_similar_shape_acee463e5923bee8",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "訣",
+          "lessonChars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第1課_confusion_analysis_c11a7c235766518b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "訣",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第1課_memory_strategy_aba3fd1359348f38",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "訣",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第1課_component_split_0a5bfcf131fc4334",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "訣",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第1課_similar_shape_ec137f8f61f67bb5",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "似",
+          "lessonChars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第1課_confusion_analysis_cb3b7d4ea6e5cea4",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "似",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第1課_memory_strategy_6f56adee676bee0e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "似",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第1課_component_split_3daa7be9fda2cda3",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "似",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第1課_similar_shape_2f048c504df49780",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "練",
+          "lessonChars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第1課_confusion_analysis_a58fd3c332d00bd7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "練",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第1課_memory_strategy_acf1527955253b55",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "練",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第1課_component_split_d63ae5ce227d08e1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "練",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第1課_similar_shape_510400a287ce84ca",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "習",
+          "lessonChars": [
+            "字",
+            "舟",
+            "灑",
+            "載",
+            "讓",
+            "愁",
+            "嘆",
+            "忌",
+            "妒",
+            "訣",
+            "似",
+            "練",
+            "習"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第1課_confusion_analysis_4b34f4c6c2c99dea",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "習",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第1課_memory_strategy_802c5d8dd4286a0f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "習",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第1課_component_split_618fc5fe36b1cc97",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "習",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-09T04:11:36.740Z"
+}
