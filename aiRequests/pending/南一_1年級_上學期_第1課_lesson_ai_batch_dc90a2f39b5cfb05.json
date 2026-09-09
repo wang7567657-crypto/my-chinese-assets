@@ -1,0 +1,1137 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "南一_1年級_上學期_第1課_lesson_ai_batch_dc90a2f39b5cfb05",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "南一",
+    "grade": "1年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "小",
+      "上",
+      "走",
+      "左",
+      "右",
+      "向",
+      "魚",
+      "也",
+      "來",
+      "加",
+      "船",
+      "前",
+      "油"
+    ],
+    "itemCount": 57,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "南一_1年級_上學期_第1課_listening_quiz_d09d5353b374c5a0",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "count": 13,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "南一_1年級_上學期_第1課_homophone_compare_9814ad701db55471",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "南一_1年級_上學期_第1課_fillblank_generate_2122aafbe20fa583",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "title": "第1課 全課填空",
+          "items": [
+            {
+              "char": "小",
+              "word": "小"
+            },
+            {
+              "char": "上",
+              "word": "上"
+            },
+            {
+              "char": "走",
+              "word": "走"
+            },
+            {
+              "char": "左",
+              "word": "左"
+            },
+            {
+              "char": "右",
+              "word": "右"
+            },
+            {
+              "char": "向",
+              "word": "向"
+            },
+            {
+              "char": "魚",
+              "word": "魚"
+            },
+            {
+              "char": "也",
+              "word": "也"
+            },
+            {
+              "char": "來",
+              "word": "來"
+            },
+            {
+              "char": "加",
+              "word": "加"
+            },
+            {
+              "char": "船",
+              "word": "船"
+            },
+            {
+              "char": "前",
+              "word": "前"
+            },
+            {
+              "char": "油",
+              "word": "油"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "南一_1年級_上學期_第1課_material_tsv_generate_e0760548f2b61c02",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "primary",
+          "chars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "南一_1年級_上學期_第1課_material_tsv_generate_e8d38ce9d83d172b",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "extra",
+          "chars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_1年級_上學期_第1課_similar_shape_702d34d4610a45dd",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "小",
+          "lessonChars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_1年級_上學期_第1課_confusion_analysis_f02ad53979e3976f",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "小",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_1年級_上學期_第1課_memory_strategy_5ddef26ccf9acd0f",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "小",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_1年級_上學期_第1課_component_split_36f48cedecda8085",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "小",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_1年級_上學期_第1課_similar_shape_2226f6094fa5f1c1",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "上",
+          "lessonChars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_1年級_上學期_第1課_confusion_analysis_8aa30b9b0f41845e",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "上",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_1年級_上學期_第1課_memory_strategy_f9732a9080689ebf",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "上",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_1年級_上學期_第1課_component_split_adf61864f73729c9",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "上",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_1年級_上學期_第1課_similar_shape_7b021582bf476a56",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "走",
+          "lessonChars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_1年級_上學期_第1課_confusion_analysis_315814215744b61c",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "走",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_1年級_上學期_第1課_memory_strategy_781060906d842a2e",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "走",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_1年級_上學期_第1課_component_split_8020865ac423f55c",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "走",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_1年級_上學期_第1課_similar_shape_f75d99fdc5ca2754",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "左",
+          "lessonChars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_1年級_上學期_第1課_confusion_analysis_bc83e8c8a559ef49",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "左",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_1年級_上學期_第1課_memory_strategy_902ba505609f3613",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "左",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_1年級_上學期_第1課_component_split_cd391055d221288e",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "左",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_1年級_上學期_第1課_similar_shape_a8fbb1797b21c0cc",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "右",
+          "lessonChars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_1年級_上學期_第1課_confusion_analysis_92ba2749e2fa8c20",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "右",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_1年級_上學期_第1課_memory_strategy_e14d582d212ae163",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "右",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_1年級_上學期_第1課_component_split_5c3f1a64c502de8a",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "右",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_1年級_上學期_第1課_similar_shape_e3b6a0959670d84e",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "向",
+          "lessonChars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_1年級_上學期_第1課_confusion_analysis_bcf29c89bf3b7bd0",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "向",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_1年級_上學期_第1課_memory_strategy_f4eb41e6091e5bb0",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "向",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_1年級_上學期_第1課_component_split_dc56c5a741b6821e",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "向",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_1年級_上學期_第1課_similar_shape_d8a472512d6e17ef",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "魚",
+          "lessonChars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_1年級_上學期_第1課_confusion_analysis_0fa3f9776a0d73de",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "魚",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_1年級_上學期_第1課_memory_strategy_60ea31c4595fefce",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "魚",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_1年級_上學期_第1課_component_split_e85ca0d42306d8f8",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "魚",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_1年級_上學期_第1課_similar_shape_c6f2018d08da2b72",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "也",
+          "lessonChars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_1年級_上學期_第1課_confusion_analysis_7239ebca2e44e318",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "也",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_1年級_上學期_第1課_memory_strategy_396ea889f30d4d41",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "也",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_1年級_上學期_第1課_component_split_17a12e4c544d8aab",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "也",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_1年級_上學期_第1課_similar_shape_74fbb42bc4fa5e23",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "來",
+          "lessonChars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_1年級_上學期_第1課_confusion_analysis_e613250059d6fe67",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "來",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_1年級_上學期_第1課_memory_strategy_2e9ecc578ce321f2",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "來",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_1年級_上學期_第1課_component_split_1cbe01edd5370897",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "來",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_1年級_上學期_第1課_similar_shape_b0698e75ebdecc72",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "加",
+          "lessonChars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_1年級_上學期_第1課_confusion_analysis_0c608086afb9496f",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "加",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_1年級_上學期_第1課_memory_strategy_4d2e2e33c0ff9eb8",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "加",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_1年級_上學期_第1課_component_split_2ead86bc70c81713",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "加",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_1年級_上學期_第1課_similar_shape_2d4a24107c3dd1e7",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "船",
+          "lessonChars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_1年級_上學期_第1課_confusion_analysis_28f3f01e17d9ac62",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "船",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_1年級_上學期_第1課_memory_strategy_9bed9c468972ccaf",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "船",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_1年級_上學期_第1課_component_split_83ab15e5895db098",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "船",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_1年級_上學期_第1課_similar_shape_81746be937c65865",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "前",
+          "lessonChars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_1年級_上學期_第1課_confusion_analysis_a93cb1d294cf1932",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "前",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_1年級_上學期_第1課_memory_strategy_9c465fc0fecb4b96",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "前",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_1年級_上學期_第1課_component_split_b4ab3bd893bdc82e",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "前",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_1年級_上學期_第1課_similar_shape_ce3e7617617a4f1f",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "油",
+          "lessonChars": [
+            "小",
+            "上",
+            "走",
+            "左",
+            "右",
+            "向",
+            "魚",
+            "也",
+            "來",
+            "加",
+            "船",
+            "前",
+            "油"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_1年級_上學期_第1課_confusion_analysis_14b9beb605c21ebd",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "油",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_1年級_上學期_第1課_memory_strategy_f5d897408a0465b3",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "油",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_1年級_上學期_第1課_component_split_e0d3cd3bdddd62fb",
+        "input": {
+          "publisher": "南一",
+          "grade": "1年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "油",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-09T03:18:39.791Z"
+}
