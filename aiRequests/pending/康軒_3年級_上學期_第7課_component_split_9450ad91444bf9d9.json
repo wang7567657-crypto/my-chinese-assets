@@ -1,0 +1,17 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_3年級_上學期_第7課_component_split_9450ad91444bf9d9",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "盪",
+    "strokeCount": 17,
+    "strokeSource": "c9s/zh-stroke-data",
+    "instruction": "請依台灣筆順資料的連續筆畫順序，判斷實際部件拆分。split 加總必須等於 strokeCount。回傳 structure、split、components、verified=true。"
+  },
+  "createdAt": "2026-09-09T04:12:09.608Z"
+}
