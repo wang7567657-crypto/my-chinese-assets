@@ -1,0 +1,1731 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "康軒_4年級_上學期_第1課_lesson_ai_batch_cc9f9e08ad2e166c",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ],
+    "itemCount": 81,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "南一_2年級_上學期_第1課_listening_quiz_d9d8c9f698ee0469",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 19,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "南一_2年級_上學期_第1課_homophone_compare_5b209c835e1b8ca8",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "南一_2年級_上學期_第1課_fillblank_generate_bd45371c161c8fe3",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "title": "第1課 全課填空",
+          "items": [
+            {
+              "char": "呼",
+              "word": "呼"
+            },
+            {
+              "char": "白",
+              "word": "白"
+            },
+            {
+              "char": "雲",
+              "word": "雲"
+            },
+            {
+              "char": "柔",
+              "word": "柔"
+            },
+            {
+              "char": "前",
+              "word": "前"
+            },
+            {
+              "char": "游",
+              "word": "游"
+            },
+            {
+              "char": "噴",
+              "word": "噴"
+            },
+            {
+              "char": "美",
+              "word": "美"
+            },
+            {
+              "char": "麗",
+              "word": "麗"
+            },
+            {
+              "char": "柱",
+              "word": "柱"
+            },
+            {
+              "char": "試",
+              "word": "試"
+            },
+            {
+              "char": "吸",
+              "word": "吸"
+            },
+            {
+              "char": "用",
+              "word": "用"
+            },
+            {
+              "char": "力",
+              "word": "力"
+            },
+            {
+              "char": "哇",
+              "word": "哇"
+            },
+            {
+              "char": "又",
+              "word": "又"
+            },
+            {
+              "char": "第",
+              "word": "第"
+            },
+            {
+              "char": "功",
+              "word": "功"
+            },
+            {
+              "char": "擠",
+              "word": "擠"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "南一_2年級_上學期_第1課_material_tsv_generate_e7b2c355192e752c",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "primary",
+          "chars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "南一_2年級_上學期_第1課_material_tsv_generate_eac324af5df8c813",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "extra",
+          "chars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_85db7a944048ea80",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "呼",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_88d68d1f0afe1997",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "呼",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_ebd9e92b705b6fa5",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "呼",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_e61b6ddd93a6c8cc",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "呼",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_1ea8e57a8c4b0987",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "白",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_6ecee7875afa6ff0",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "白",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_3671c20e5577ee8f",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "白",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_7031ae2f6f54c823",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "白",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_dc08124f27fbd036",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "雲",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_1c2364c8b4a2b401",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "雲",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_ce770bb423b48172",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "雲",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_abe0c62af159aee1",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "雲",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_8ec3e931a510351a",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "柔",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_d74900a2eb77cd25",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "柔",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_4a2d951299b3e74c",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "柔",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_903f40d50ef7f389",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "柔",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_808ce8d1365bab5e",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "前",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_e0da9cf195578705",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "前",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_f9e1b4bc44ce8cb5",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "前",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_9ef29cd9989b9681",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "前",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_9ed66f88337f24b2",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "游",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_7a45787ebac2efee",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "游",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_3f95178c8f5220a1",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "游",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_414c9f55e4a9f790",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "游",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_43df1672cd062077",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "噴",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_6ecaf6dc91f48278",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "噴",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_c43b84dcdd31b882",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "噴",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_f30ee87f6db2ed94",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "噴",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_14771f7eb77f8be4",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "美",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_919682549833ba60",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "美",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_49098e2c32378b85",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "美",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_ce2483cf8cbdfa95",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "美",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_0b765fbd7f4882b4",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "麗",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_c1f56a4cabe9a3ee",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "麗",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_96e191b91246e9dc",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "麗",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_efe297682b7da9ef",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "麗",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_d5776b5d870e9d36",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "柱",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_71a7fca3215846ea",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "柱",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_a799d9edcb6ff6d9",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "柱",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_96fac2a423ff9a19",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "柱",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_0fc9cc59840318ef",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "試",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_c20d2892ef3d6271",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "試",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_4dd2bb1e56cca0b0",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "試",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_8305f2530d31e466",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "試",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_ee83098006a5bdcc",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "吸",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_d7d579abd2a11ed3",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "吸",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_473f1ec6439d3edf",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "吸",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_0239374dfc59c1bc",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "吸",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_e1a534a9774f5dee",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "用",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_2782a546265fc99f",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "用",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_46875bb452fb180b",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "用",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_a9732a8af943cfb2",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "用",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_3e0d8037f944d321",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "力",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_ecdd438530509a2f",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "力",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_d1ebff91e3ec6c0e",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "力",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_cc230a89598a4684",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "力",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_da083720c374111e",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "哇",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_e1a66590bec9c2c8",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "哇",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_9777fc3a02804aab",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "哇",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_03330b30f9ef3f08",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "哇",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_a78c2f9f41a31e7a",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "又",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_8ca596bc355d4616",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "又",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_fe1c7c419084b8df",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "又",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_8109e6386670200c",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "又",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_2614c9207c5d7c01",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "第",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_e78b0da44dcd1b59",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "第",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_c3f646f091e0d9f0",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "第",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_43d8df1deb8caba6",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "第",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_4aeb93db493a5158",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "功",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_77b1e5c030c1014a",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "功",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_9328a0d83d84376e",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "功",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_0f6cca21b4e143cc",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "功",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "南一_2年級_上學期_第1課_similar_shape_6017d876dfaf8ea5",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "擠",
+          "lessonChars": [
+            "呼",
+            "白",
+            "雲",
+            "柔",
+            "前",
+            "游",
+            "噴",
+            "美",
+            "麗",
+            "柱",
+            "試",
+            "吸",
+            "用",
+            "力",
+            "哇",
+            "又",
+            "第",
+            "功",
+            "擠"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第1課_confusion_analysis_5ce3c66da50083fb",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "擠",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第1課_memory_strategy_a955c33b8ff28a17",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "擠",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "南一_2年級_上學期_第1課_component_split_65571017954ad9c9",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "擠",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-09T03:24:20.719Z"
+}
