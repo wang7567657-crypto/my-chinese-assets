@@ -1,0 +1,1731 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "翰林_5年級_上學期_第9課_lesson_ai_batch_b6081fefac80a77b",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "玻",
+      "璃",
+      "測",
+      "棲",
+      "覓",
+      "昆",
+      "誘",
+      "繡",
+      "尊",
+      "慮",
+      "側",
+      "褐",
+      "掀",
+      "暑",
+      "圃",
+      "籬",
+      "戀",
+      "捨",
+      "淋"
+    ],
+    "itemCount": 81,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "翰林_5年級_上學期_第9課_listening_quiz_94f1c2c75a44c562",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "chars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 19,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "翰林_5年級_上學期_第9課_homophone_compare_c385496c310e9d48",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "chars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "翰林_5年級_上學期_第9課_fillblank_generate_dcf98a03ec3ae28c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "title": "第9課 全課填空",
+          "items": [
+            {
+              "char": "玻",
+              "word": "玻"
+            },
+            {
+              "char": "璃",
+              "word": "璃"
+            },
+            {
+              "char": "測",
+              "word": "測"
+            },
+            {
+              "char": "棲",
+              "word": "棲"
+            },
+            {
+              "char": "覓",
+              "word": "覓"
+            },
+            {
+              "char": "昆",
+              "word": "昆"
+            },
+            {
+              "char": "誘",
+              "word": "誘"
+            },
+            {
+              "char": "繡",
+              "word": "繡"
+            },
+            {
+              "char": "尊",
+              "word": "尊"
+            },
+            {
+              "char": "慮",
+              "word": "慮"
+            },
+            {
+              "char": "側",
+              "word": "側"
+            },
+            {
+              "char": "褐",
+              "word": "褐"
+            },
+            {
+              "char": "掀",
+              "word": "掀"
+            },
+            {
+              "char": "暑",
+              "word": "暑"
+            },
+            {
+              "char": "圃",
+              "word": "圃"
+            },
+            {
+              "char": "籬",
+              "word": "籬"
+            },
+            {
+              "char": "戀",
+              "word": "戀"
+            },
+            {
+              "char": "捨",
+              "word": "捨"
+            },
+            {
+              "char": "淋",
+              "word": "淋"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "翰林_5年級_上學期_第9課_material_tsv_generate_05c1c45a4cb41819",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "materialType": "primary",
+          "chars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "翰林_5年級_上學期_第9課_material_tsv_generate_9b2c5d4dea313fbf",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "materialType": "extra",
+          "chars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_2d3be02c0d79f840",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "玻",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_b8522194474fb71a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "玻",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_a84793ef006560af",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "玻",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_c3969452c291d51b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "玻",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_4ca292e8909762bd",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "璃",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_5e5be3b7bca7b42a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "璃",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_406b6eaefa23bbe9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "璃",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_660e4872f95110b9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "璃",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_12a6faa50e2cef4d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "測",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_82b361bd0239c448",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "測",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_89ad42a2fa7da85a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "測",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_568a3d19c11d8388",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "測",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_a179c645b7001e0e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "棲",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_68b3a163b3b6f5b5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "棲",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_c758e3aa0aa27fb9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "棲",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_ced258eb94bdfa62",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "棲",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_cb732a42a5f7cba7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "覓",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_86ca5cd6d4ae1466",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "覓",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_6d9a9b82cf0c0e2e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "覓",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_925018e8cc9efc6e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "覓",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_e172e29f46e60c52",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "昆",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_d1817c8e3f4fa2b5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "昆",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_93fc167f4b00cf6c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "昆",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_df99d9b3c9ada9d2",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "昆",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_cb84673dfc914fad",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "誘",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_6e3fab7c874f3da9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "誘",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_36f6ea8f8617f315",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "誘",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_1e301e2ffee45adf",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "誘",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_6e54b6985d326779",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "繡",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_3eb3031a7b617ebe",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "繡",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_ecf07359266b0501",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "繡",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_7deb7c1bb489ffd3",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "繡",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_d645528832e4fea5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "尊",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_48aecb4688236b77",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "尊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_a4169d0bf5b879af",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "尊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_5325afdc3793a377",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "尊",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_9037654490d8fc4e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "慮",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_86b6aab5211d1aff",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "慮",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_a30bdb13539ca774",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "慮",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_8c61d1d11a0eaa38",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "慮",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_786f109d10bc91a5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "側",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_c5e818d771068d59",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "側",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_d75ede4449d20b67",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "側",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_37e7da874759d415",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "側",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_70078b6a49fb75ff",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "褐",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_2b4d4ae040369fc4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "褐",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_eeae82033f7059c3",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "褐",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_f568d1e4875e959c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "褐",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_7d7d305e7537e9f4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "掀",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_58e298128eaed080",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "掀",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_1ae7c16a26dfd0cc",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "掀",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_b8daea14bddc53c6",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "掀",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_665f4002538a2323",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "暑",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_a03a3ddd6ff0dfa7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "暑",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_f9221addfb8a5519",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "暑",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_c1f0aac23ab26c67",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "暑",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_711bf67557483ec4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "圃",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_b40b8fac844e76ce",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "圃",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_1281f5b598d718c2",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "圃",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_cbf99ff4b4b6bd76",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "圃",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_14b00f225d4c2ee8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "籬",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_2d73ddff4c4ebf31",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "籬",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_877dd73c4f8c4e31",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "籬",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_c9f57c7d5c410557",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "籬",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_c51c0f5c964cc6ad",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "戀",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_aebaa158189777d9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "戀",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_4593a6e57ccc00ad",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "戀",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_d4eb5f3400841f43",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "戀",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_c65395c718bf0787",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "捨",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_3416fae6d072f135",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "捨",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_b9be903f48766ef8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "捨",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_15a6474dbeb58ec0",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "捨",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_5年級_上學期_第9課_similar_shape_7c3d76b8011e75c5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "targetChar": "淋",
+          "lessonChars": [
+            "玻",
+            "璃",
+            "測",
+            "棲",
+            "覓",
+            "昆",
+            "誘",
+            "繡",
+            "尊",
+            "慮",
+            "側",
+            "褐",
+            "掀",
+            "暑",
+            "圃",
+            "籬",
+            "戀",
+            "捨",
+            "淋"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_5年級_上學期_第9課_confusion_analysis_17bec238c66de5b4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "淋",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_5年級_上學期_第9課_memory_strategy_58506ad56d000be9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "淋",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_5年級_上學期_第9課_component_split_de91e750a1321a97",
+        "input": {
+          "publisher": "翰林",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "char": "淋",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-09T02:46:54.336Z"
+}
