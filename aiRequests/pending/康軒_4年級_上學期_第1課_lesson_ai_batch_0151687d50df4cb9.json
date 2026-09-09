@@ -1,0 +1,1837 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "康軒_4年級_上學期_第1課_lesson_ai_batch_0151687d50df4cb9",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "itemCount": 85,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "康軒_2年級_上學期_第1課_listening_quiz_4b81fc7e134237df",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 20,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "康軒_2年級_上學期_第1課_homophone_compare_a3e9e8f2626bba60",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "康軒_2年級_上學期_第1課_fillblank_generate_c9e7a6ea6a550230",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "title": "第1課 全課填空",
+          "items": [
+            {
+              "char": "年",
+              "word": "年"
+            },
+            {
+              "char": "希",
+              "word": "希"
+            },
+            {
+              "char": "望",
+              "word": "望"
+            },
+            {
+              "char": "坐",
+              "word": "坐"
+            },
+            {
+              "char": "位",
+              "word": "位"
+            },
+            {
+              "char": "本",
+              "word": "本"
+            },
+            {
+              "char": "淡",
+              "word": "淡"
+            },
+            {
+              "char": "書",
+              "word": "書"
+            },
+            {
+              "char": "老",
+              "word": "老"
+            },
+            {
+              "char": "師",
+              "word": "師"
+            },
+            {
+              "char": "以",
+              "word": "以"
+            },
+            {
+              "char": "為",
+              "word": "為"
+            },
+            {
+              "char": "故",
+              "word": "故"
+            },
+            {
+              "char": "用",
+              "word": "用"
+            },
+            {
+              "char": "力",
+              "word": "力"
+            },
+            {
+              "char": "只",
+              "word": "只"
+            },
+            {
+              "char": "現",
+              "word": "現"
+            },
+            {
+              "char": "還",
+              "word": "還"
+            },
+            {
+              "char": "聲",
+              "word": "聲"
+            },
+            {
+              "char": "矮",
+              "word": "矮"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "康軒_2年級_上學期_第1課_material_tsv_generate_ba6cb00837013750",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "primary",
+          "chars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "康軒_2年級_上學期_第1課_material_tsv_generate_4ca91681cb13aa29",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "extra",
+          "chars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_27e815fd26cbd2b2",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "年",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_8e8e2f0e8fd9a8b8",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "年",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_c7841cc5df422b78",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "年",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_3a847891052daeb1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "年",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_ad4935a1ec773f84",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "希",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_3ee52f472cf89366",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "希",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_1c244370b8933da8",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "希",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_c0daf460d7e3da33",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "希",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_d67cfcc67139e59e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "望",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_c79980daa48115d9",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "望",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_742930da66942e70",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "望",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_dcae906ad2765b5c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "望",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_ab7bea7fc50777d8",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "坐",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_bdf1ee6a22cfc50b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "坐",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_3969e6217ce825a5",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "坐",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_e20b0021692e540a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "坐",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_7ae281bf4043ae5c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "位",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_7351780bf3f6bc2f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "位",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_1690fd7c83c3e834",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "位",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_b51c2ff9a0989b99",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "位",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_f382be2733d56ab2",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "本",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_a352094466dfdc71",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "本",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_fa298ae02edc8fea",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "本",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_b7c8b3780d48e346",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "本",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_702c7bbdbcd154a4",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "淡",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_bfc7e4ae08a5452c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "淡",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_38145ef83b9dcd13",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "淡",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_492c967a17fff842",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "淡",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_eddf767630556ac3",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "書",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_1192daf1c5132ca6",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "書",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_1d159b6472f82741",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "書",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_44c633cf189bb029",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "書",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_1f1f8a905ce702b8",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "老",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_88d685d9ce4d2207",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "老",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_561742d870738061",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "老",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_7ac40f20886d2ebf",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "老",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_a228971a5b69cf0e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "師",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_e8802df70d3fd38f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "師",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_3f79897057fa050c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "師",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_f210b50db995af9e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "師",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_4c62509811304d9d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "以",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_c0830d40698de0b9",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "以",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_a4943b224b797be7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "以",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_bf164708d715a67e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "以",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_b5ab369d7004e3e6",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "為",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_21ee07a5a7c47d41",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "為",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_31015b969169c3c4",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "為",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_368aeb518a4b566c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "為",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_d92890275ea6e0de",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "故",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_e77e2e8fd7e12f0b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "故",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_1c38dfb9deb41e1f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "故",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_f80d3adbb35614db",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "故",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_d6df20f5f58269bc",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "用",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_4151a75a084fd1e5",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "用",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_fcfa7a2905657716",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "用",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_136165badac0d363",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "用",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_09ee27cf8cb53d5d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "力",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_70621559dd993c16",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "力",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_660837e4482694cd",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "力",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_1e92ab8a71422ac2",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "力",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_f15491a8930ec3ee",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "只",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_39bbcf5ea3cee733",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "只",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_29261006dca1212f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "只",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_fb652d8ab670e92b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "只",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_e6f3c7376a4a6ead",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "現",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_79ffe04cf7c03fbe",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "現",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_935aed51516f2547",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "現",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_ab5e622611766e5b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "現",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_aff3a9ef15db3655",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "還",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_bfeac437e52c4776",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "還",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_aabce524f8a4c500",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "還",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_101803f82f91ad1d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "還",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_64e622e0309e1b5f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "聲",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_03a13189402d709d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "聲",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_c3e31d86d68e8121",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "聲",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_5a467bdea99844ab",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "聲",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_2年級_上學期_第1課_similar_shape_e379ee6a2ebbd4bf",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "矮",
+          "lessonChars": [
+            "年",
+            "希",
+            "望",
+            "坐",
+            "位",
+            "本",
+            "淡",
+            "書",
+            "老",
+            "師",
+            "以",
+            "為",
+            "故",
+            "用",
+            "力",
+            "只",
+            "現",
+            "還",
+            "聲",
+            "矮"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_e72ba2e5ae0fdd92",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "矮",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_e6c233899601df92",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "矮",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第1課_component_split_1c1dc762170dafff",
+        "input": {
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "矮",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-09T03:24:25.245Z"
+}
