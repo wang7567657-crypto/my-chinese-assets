@@ -1,0 +1,1571 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "康軒_6年級_上學期_第1課_lesson_ai_batch_3d1e118f56edda6b",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "級",
+      "軸",
+      "奪",
+      "屈",
+      "偏",
+      "搬",
+      "恨",
+      "抑",
+      "拒",
+      "尷",
+      "尬",
+      "悔",
+      "拱",
+      "距",
+      "默",
+      "鬥",
+      "扭",
+      "猛",
+      "愣"
+    ],
+    "itemCount": 78,
+    "items": [
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "康軒_6年級_上學期_第1課_material_tsv_generate_aa406b8d9d7fb4c9",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "primary",
+          "chars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "康軒_6年級_上學期_第1課_material_tsv_generate_9744a0aafe5da5b6",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "extra",
+          "chars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_d501908a70aeb43f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "級",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_83b0ed151c3dc056",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "級",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_7b075e181685bdba",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "級",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_3da211460b102b32",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "級",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_abbabffb2a2db2ec",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "軸",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_39757e5c66401c98",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "軸",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_9ef56691502a9eb1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "軸",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_19d7e5d87f6e137b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "軸",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_3364001541ac3e4d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "奪",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_72abb5dcae2a2579",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "奪",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_9d3b11c923ad349d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "奪",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_9159bd96cd169edf",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "奪",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_38a0dcb283cc31d6",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "屈",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_2c903fbc08748cb1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "屈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_df21df335398d978",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "屈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_69c538f9bcc495fe",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "屈",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_f3de0ba6b7bc4f3f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "偏",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_286ffdb7f33e93b0",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "偏",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_6cc1ccc5641e4484",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "偏",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_165e7401c4e2b93f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "偏",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_4413ba1ae92d7292",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "搬",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_15472d71cb16edc5",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "搬",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_d7fab40bab773046",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "搬",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_0f64c3cbf8dc3503",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "搬",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_eab71701c2e2b201",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "恨",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_884d0a848e9770f6",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "恨",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_ad5d59bd6bdae039",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "恨",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_7da78f5f85d03a7e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "恨",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_4dbcbb57e74273fd",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "抑",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_b895951390086b96",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "抑",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_ecf3d575108f767b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "抑",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_4e7fb97d38a93a21",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "抑",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_b041f85d569c8395",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "拒",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_4535226a6285c2a6",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "拒",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_28381224f66de87b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "拒",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_ccc32ba112b6a4db",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "拒",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_0beaf29eb1d427bc",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "尷",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_00a45d025aaf73d8",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "尷",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_450a50296fdb8d10",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "尷",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_c65cd2079f4833dc",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "尷",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_831e631c189c45ee",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "尬",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_e60bcddb920367f2",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "尬",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_a3005d9be8e7a0a0",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "尬",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_adee9d862561a167",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "尬",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_95496b005c09e260",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "悔",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_bb7e2daa5bc2caf5",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "悔",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_3668302b0ef99fb0",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "悔",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_bcdc5167c49a4b3c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "悔",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_c93bfe67e574a12f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "拱",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_c7ef049e345f20c7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "拱",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_a576fd222e376445",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "拱",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_f6d10fd71553b7e7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "拱",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_9dfb61696751f01c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "距",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_6fa702074aa7096a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "距",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_fb7ed99740d26317",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "距",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_d4fde5303f56b440",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "距",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_3a095b08bc5412c0",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "默",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_858fadb0188f61b0",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "默",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_1e1094e1f190a3b2",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "默",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_c8e12e44f71bfb6d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "默",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_6b0746df76ed61be",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "鬥",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_08fff7f64a41b16f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "鬥",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_5478c1b3551da9d2",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "鬥",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_274dfd6bd7611580",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "鬥",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_739b33dcd4876342",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "扭",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_1797ac0d370ce30f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "扭",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_3d4e6a17051d07df",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "扭",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_850c7ff008d4b5ac",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "扭",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_cbdb4cddbade9c5b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "猛",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_b617a8949f2b9f03",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "猛",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_07755b0ebeb73d9d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "猛",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_52588b36f79a257b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "猛",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第1課_similar_shape_3c8d62bec7e5d259",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "愣",
+          "lessonChars": [
+            "級",
+            "軸",
+            "奪",
+            "屈",
+            "偏",
+            "搬",
+            "恨",
+            "抑",
+            "拒",
+            "尷",
+            "尬",
+            "悔",
+            "拱",
+            "距",
+            "默",
+            "鬥",
+            "扭",
+            "猛",
+            "愣"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第1課_confusion_analysis_b69f3cf7eb9da590",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "愣",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第1課_memory_strategy_56918636cae5bb27",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "愣",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第1課_component_split_8b9da20934321a2d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "愣",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-09T05:27:20.075Z"
+}
