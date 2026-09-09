@@ -1,0 +1,1216 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "康軒_3年級_上學期_第7課_lesson_ai_batch_050465be7fef6e3f",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "統",
+      "商",
+      "阿",
+      "婆",
+      "鐵",
+      "硬",
+      "愈",
+      "嚼",
+      "蒼",
+      "坡",
+      "憶",
+      "夕",
+      "盪",
+      "網"
+    ],
+    "itemCount": 60,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "康軒_3年級_上學期_第7課_listening_quiz_125e3c2147721ea2",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "chars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 14,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "康軒_3年級_上學期_第7課_homophone_compare_423c753e66534732",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "chars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "康軒_3年級_上學期_第7課_fillblank_generate_011fe3705a1fe0bd",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "title": "第7課 全課填空",
+          "items": [
+            {
+              "char": "統",
+              "word": "統"
+            },
+            {
+              "char": "商",
+              "word": "商"
+            },
+            {
+              "char": "阿",
+              "word": "阿"
+            },
+            {
+              "char": "婆",
+              "word": "婆"
+            },
+            {
+              "char": "鐵",
+              "word": "鐵"
+            },
+            {
+              "char": "硬",
+              "word": "硬"
+            },
+            {
+              "char": "愈",
+              "word": "愈"
+            },
+            {
+              "char": "嚼",
+              "word": "嚼"
+            },
+            {
+              "char": "蒼",
+              "word": "蒼"
+            },
+            {
+              "char": "坡",
+              "word": "坡"
+            },
+            {
+              "char": "憶",
+              "word": "憶"
+            },
+            {
+              "char": "夕",
+              "word": "夕"
+            },
+            {
+              "char": "盪",
+              "word": "盪"
+            },
+            {
+              "char": "網",
+              "word": "網"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "康軒_3年級_上學期_第7課_material_tsv_generate_3252f459ace72783",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "materialType": "primary",
+          "chars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "康軒_3年級_上學期_第7課_material_tsv_generate_a1e5e1671f7eb94c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "materialType": "extra",
+          "chars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第7課_similar_shape_7212f5f766a57355",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "targetChar": "統",
+          "lessonChars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_f6c8a84589aa2cc1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "統",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第7課_memory_strategy_53ff7e7ed53c791e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "統",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第7課_component_split_e006c07fcb1173eb",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "統",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第7課_similar_shape_3f0d695a4a68645e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "targetChar": "商",
+          "lessonChars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_3242549cf8841228",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "商",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第7課_memory_strategy_5fabea4b3b89651b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "商",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第7課_component_split_2aa353eeacabfab4",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "商",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第7課_similar_shape_9205cb9153e0bbce",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "targetChar": "阿",
+          "lessonChars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_f8b4e842e76bf459",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "阿",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第7課_memory_strategy_7be68c2c05539f44",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "阿",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第7課_component_split_49224eaccc42a74b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "阿",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第7課_similar_shape_4e76ab1e9fdc06a3",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "targetChar": "婆",
+          "lessonChars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_0c1f4384fd9fac2a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "婆",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第7課_memory_strategy_fb92766417d97504",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "婆",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第7課_similar_shape_e426dccce95e8dc4",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "targetChar": "鐵",
+          "lessonChars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_49f7281a1232b66a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "鐵",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第7課_memory_strategy_c36de9cab71fa5d3",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "鐵",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第7課_component_split_d1837da1524c3dfd",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "鐵",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第7課_similar_shape_8125760f5fa7729c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "targetChar": "硬",
+          "lessonChars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_f9c6380d9eb34a26",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "硬",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第7課_memory_strategy_5e37ea84319ab1b9",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "硬",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第7課_component_split_f7cecb63b82a9ada",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "硬",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第7課_similar_shape_f66a114d4871a156",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "targetChar": "愈",
+          "lessonChars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_14dc6d8e2a34cd6d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "愈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第7課_memory_strategy_59b1c8f97f80938f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "愈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第7課_component_split_c8f18cf0116027fb",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "愈",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第7課_similar_shape_a187025cf46c74f1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "targetChar": "嚼",
+          "lessonChars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_e9561f308e67ce5e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "嚼",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第7課_memory_strategy_b6c0db0f5b446d3e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "嚼",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第7課_component_split_2bb01b37cd0d9d4f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "嚼",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第7課_similar_shape_d31589e09c5c654b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "targetChar": "蒼",
+          "lessonChars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_9cc5a084237c55f8",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "蒼",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第7課_memory_strategy_48b2a1bdb5c685cf",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "蒼",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第7課_component_split_fc36173ff30f8a13",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "蒼",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第7課_similar_shape_a1d19827944bbbdd",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "targetChar": "坡",
+          "lessonChars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_c31d22665f4d96dc",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "坡",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第7課_memory_strategy_1f4b8d1c3fa07cac",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "坡",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第7課_component_split_d63eb6386d8ffd41",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "坡",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第7課_similar_shape_8d905bd85e01e672",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "targetChar": "憶",
+          "lessonChars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_f45c46f1f961a28a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "憶",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第7課_memory_strategy_310c187fe48f1e57",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "憶",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第7課_component_split_b1958ba4348aa83f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "憶",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第7課_similar_shape_aa074dd66f3b7157",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "targetChar": "夕",
+          "lessonChars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_03857b71b7679c4c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "夕",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第7課_memory_strategy_506f11d879093d7f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "夕",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第7課_component_split_c5f17d16626a07c7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "夕",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第7課_similar_shape_5db1483cf3ee8d1a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "targetChar": "盪",
+          "lessonChars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_5b1e511e973bf6e1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "盪",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第7課_memory_strategy_475085e572084b79",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "盪",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第7課_component_split_9450ad91444bf9d9",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "盪",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_3年級_上學期_第7課_similar_shape_b26b6a49dae9556d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "targetChar": "網",
+          "lessonChars": [
+            "統",
+            "商",
+            "阿",
+            "婆",
+            "鐵",
+            "硬",
+            "愈",
+            "嚼",
+            "蒼",
+            "坡",
+            "憶",
+            "夕",
+            "盪",
+            "網"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_1519c77d51bd48fe",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "網",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_3年級_上學期_第7課_memory_strategy_c64c303aba956ae1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "網",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_3年級_上學期_第7課_component_split_eea7baa9f943baae",
+        "input": {
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "網",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-09T04:11:44.773Z"
+}
