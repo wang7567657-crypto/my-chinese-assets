@@ -1,0 +1,1231 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "翰林_4年級_上學期_第2課_lesson_ai_batch_c021e3ca5dad2e8b",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "島",
+      "唾",
+      "沫",
+      "忠",
+      "衛",
+      "寒",
+      "椰",
+      "隊",
+      "蕉",
+      "街",
+      "灣",
+      "甜",
+      "糖",
+      "童"
+    ],
+    "itemCount": 61,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "翰林_4年級_上學期_第1課_listening_quiz_fe986c0f0d101976",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 14,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "翰林_4年級_上學期_第1課_homophone_compare_dae3b3a003160766",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "chars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "翰林_4年級_上學期_第1課_fillblank_generate_188357169a55b3c1",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "title": "第1課 全課填空",
+          "items": [
+            {
+              "char": "島",
+              "word": "島"
+            },
+            {
+              "char": "唾",
+              "word": "唾"
+            },
+            {
+              "char": "沫",
+              "word": "沫"
+            },
+            {
+              "char": "忠",
+              "word": "忠"
+            },
+            {
+              "char": "衛",
+              "word": "衛"
+            },
+            {
+              "char": "寒",
+              "word": "寒"
+            },
+            {
+              "char": "椰",
+              "word": "椰"
+            },
+            {
+              "char": "隊",
+              "word": "隊"
+            },
+            {
+              "char": "蕉",
+              "word": "蕉"
+            },
+            {
+              "char": "街",
+              "word": "街"
+            },
+            {
+              "char": "灣",
+              "word": "灣"
+            },
+            {
+              "char": "甜",
+              "word": "甜"
+            },
+            {
+              "char": "糖",
+              "word": "糖"
+            },
+            {
+              "char": "童",
+              "word": "童"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "翰林_4年級_上學期_第1課_material_tsv_generate_959cec907309ab0d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "primary",
+          "chars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "翰林_4年級_上學期_第1課_material_tsv_generate_7b85ba168c3b3acc",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "materialType": "extra",
+          "chars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第1課_similar_shape_154682228be93436",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "島",
+          "lessonChars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_5ac5f2591c08e9a8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "島",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_1f628e355158866c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "島",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第1課_component_split_e1d87849c74ee416",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "島",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第1課_similar_shape_a6ba0b81944b8ed2",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "唾",
+          "lessonChars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_a9cb4a63fc88ab2f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "唾",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_ffccbf5fb06b555f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "唾",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第1課_component_split_5441f5b6ad714b8c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "唾",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第1課_similar_shape_9f4a7c6e16272e35",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "沫",
+          "lessonChars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_f9b3d168e447331a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "沫",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_7160f8f3ef8a418d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "沫",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第1課_component_split_627a87979139a95f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "沫",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第1課_similar_shape_eaae1436f66bb7a5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "忠",
+          "lessonChars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_b5df3c053ac97151",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "忠",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_428a7ab557f79e14",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "忠",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第1課_component_split_c4461a53341f510a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "忠",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第1課_similar_shape_624a8ea202552825",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "衛",
+          "lessonChars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_ad2af311f7228301",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "衛",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_08ddfc4d6c1d0846",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "衛",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第1課_component_split_0eac43cc8518155f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "衛",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第1課_similar_shape_a27ccf647039395a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "寒",
+          "lessonChars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_3055f7550bcbb54b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "寒",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_72aa76e04e0a398b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "寒",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第1課_component_split_96375456c7115358",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "寒",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第1課_similar_shape_8f2078b741e7a072",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "椰",
+          "lessonChars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_4c27d45a580acf1e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "椰",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_085442565bbf6076",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "椰",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第1課_component_split_aae9474f28a80e8b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "椰",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第1課_similar_shape_99552ce565d5978a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "隊",
+          "lessonChars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_d3b7488602263dd3",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "隊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_05515e6b503acffe",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "隊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第1課_component_split_eb9af19b288d814d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "隊",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第1課_similar_shape_5bcd1f9165671452",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "蕉",
+          "lessonChars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_d02f5a9cd7dafb1d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "蕉",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_2f0590b485ea8153",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "蕉",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第1課_component_split_393c906335425bbc",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "蕉",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第1課_similar_shape_7341ee1c71b2e3f1",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "街",
+          "lessonChars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_ca315ddc2d4e4c4d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "街",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_f279a9a6f8fabe99",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "街",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第1課_component_split_57bd02053c5b6cb8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "街",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第1課_similar_shape_eccfbbb35e2d878d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "灣",
+          "lessonChars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_1b026e60f989027f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "灣",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_4a6f50988ebb5bca",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "灣",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第1課_component_split_20d7b2bcc7586b9b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "灣",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第1課_similar_shape_40235c74cabe46eb",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "甜",
+          "lessonChars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_ab040d3b74f97032",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "甜",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_6a6a2987f59d6fd6",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "甜",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第1課_component_split_de4688763b704fd7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "甜",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第1課_similar_shape_f49af19f95fccb06",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "糖",
+          "lessonChars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_9bf37f0986001bdc",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "糖",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_fda400622f327794",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "糖",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第1課_component_split_e4ec58a4d65d4834",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "糖",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第1課_similar_shape_28c5269023236c8d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "targetChar": "童",
+          "lessonChars": [
+            "島",
+            "唾",
+            "沫",
+            "忠",
+            "衛",
+            "寒",
+            "椰",
+            "隊",
+            "蕉",
+            "街",
+            "灣",
+            "甜",
+            "糖",
+            "童"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_8d3a1acc68f33fea",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "童",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_2617507fdec10f48",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "童",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第1課_component_split_6fd123717df1371e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "童",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-10T06:31:09.675Z"
+}
