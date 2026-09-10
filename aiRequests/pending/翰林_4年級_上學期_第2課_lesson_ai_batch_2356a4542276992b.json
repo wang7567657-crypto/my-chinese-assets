@@ -1,0 +1,1327 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "翰林_4年級_上學期_第2課_lesson_ai_batch_2356a4542276992b",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "泉",
+      "抹",
+      "訝",
+      "牙",
+      "齒",
+      "架",
+      "速",
+      "彷",
+      "彿",
+      "汽",
+      "區",
+      "恐",
+      "陀",
+      "螺",
+      "聚"
+    ],
+    "itemCount": 65,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "翰林_4年級_上學期_第2課_listening_quiz_8bbdcb772fe10aa6",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "chars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 15,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "翰林_4年級_上學期_第2課_homophone_compare_1cf190e8e01821da",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "chars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "翰林_4年級_上學期_第2課_fillblank_generate_8ce96d857af66e40",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "title": "第2課 全課填空",
+          "items": [
+            {
+              "char": "泉",
+              "word": "泉"
+            },
+            {
+              "char": "抹",
+              "word": "抹"
+            },
+            {
+              "char": "訝",
+              "word": "訝"
+            },
+            {
+              "char": "牙",
+              "word": "牙"
+            },
+            {
+              "char": "齒",
+              "word": "齒"
+            },
+            {
+              "char": "架",
+              "word": "架"
+            },
+            {
+              "char": "速",
+              "word": "速"
+            },
+            {
+              "char": "彷",
+              "word": "彷"
+            },
+            {
+              "char": "彿",
+              "word": "彿"
+            },
+            {
+              "char": "汽",
+              "word": "汽"
+            },
+            {
+              "char": "區",
+              "word": "區"
+            },
+            {
+              "char": "恐",
+              "word": "恐"
+            },
+            {
+              "char": "陀",
+              "word": "陀"
+            },
+            {
+              "char": "螺",
+              "word": "螺"
+            },
+            {
+              "char": "聚",
+              "word": "聚"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "翰林_4年級_上學期_第2課_material_tsv_generate_ddfa787d33e0764a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "materialType": "primary",
+          "chars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "翰林_4年級_上學期_第2課_material_tsv_generate_ceba7c340afec27b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "materialType": "extra",
+          "chars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_c917c6d871795765",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "泉",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_33dce01caccc5c73",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "泉",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_2900b2ca739dee23",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "泉",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_85ddb770500f9fda",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "泉",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_6a50f69044d4c94d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "抹",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_ac8168ca72927d9b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "抹",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_01dcacf7ffb10f4a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "抹",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_c78360924dfa5566",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "抹",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_b8d4c77911e8d93d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "訝",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_fc380d93bd1d0fbf",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "訝",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_64fc9eb2ff3dc17b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "訝",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_67c96b07b78aa7b8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "訝",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_6db488ede90b185d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "牙",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_0d0cf2c379445aea",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "牙",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_13e33b6926107f96",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "牙",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_29dd77256313fb82",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "牙",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_9087648561075056",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "齒",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_8cdc1c9ccd2419d5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "齒",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_667f5feaddcf542c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "齒",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_d07941113789a5d6",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "齒",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_fc04e843bdb6aabf",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "架",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_81c26697d1daa624",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "架",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_4b59bbe750e343f2",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "架",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_cf4f8347543487ea",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "架",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_67bec64e063098bc",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "速",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_0b64fce96ca2feac",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "速",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_782379bd1c4dafdc",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "速",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_80cac8daa1dbe0ab",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "速",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_17b00c5aee8fdd5a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "彷",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_308d47a96f9ae517",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "彷",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_4d331636a5e729be",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "彷",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_4a84c64465511874",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "彷",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_b7e24588349eb5c4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "彿",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_6935c503adb5b3f9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "彿",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_ad7c850b09187e6d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "彿",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_9165cf2bebfcda7f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "彿",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_02b9fa75161025ae",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "汽",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_a0559ff79705b2fa",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "汽",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_63c72e56c7bc7c13",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "汽",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_9c14f11e12588d63",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "汽",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_d8f545a527096b16",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "區",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_8d273801e94dfccc",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "區",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_05eed7e4c1a2598e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "區",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_8e690a6d28df9f72",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "區",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_8f0dbfb95a9becce",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "恐",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_9083bb20bae1ae50",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "恐",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_4ebb5638c0971e97",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "恐",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_08ffae881fac392c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "恐",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_fb844fe257da6c59",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "陀",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_350c8d792e1663ce",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "陀",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_e95124a8fc9680f1",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "陀",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_fc6f0d8557d6f6d4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "陀",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_da92d572b1652769",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "螺",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_beca9c20bfed4ae0",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "螺",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_83da5955825cb864",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "螺",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_bae14feaa9b53ed7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "螺",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第2課_similar_shape_7d750dc3aaa9dcf4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "聚",
+          "lessonChars": [
+            "泉",
+            "抹",
+            "訝",
+            "牙",
+            "齒",
+            "架",
+            "速",
+            "彷",
+            "彿",
+            "汽",
+            "區",
+            "恐",
+            "陀",
+            "螺",
+            "聚"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第2課_confusion_analysis_2446b206a6eedb3f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "聚",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第2課_memory_strategy_15dea6e8e913b1ac",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "聚",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第2課_component_split_7162227c246a5ddf",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "聚",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-10T06:31:27.071Z"
+}
