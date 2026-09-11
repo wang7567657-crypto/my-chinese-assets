@@ -1,17 +1,17 @@
 [
   {
-    "word": "海島",
-    "meaning": "在大海中的島嶼。",
-    "en_prompt": "A beautiful tropical island in the middle of the blue ocean"
-  },
-  {
-    "word": "寶島",
-    "meaning": "形容像寶藏一樣珍貴的島嶼，也常用來稱呼臺灣。",
-    "en_prompt": "A lush green island full of natural resources and treasures"
-  },
-  {
     "word": "小島",
-    "meaning": "面積比較小的島嶼。",
-    "en_prompt": "A tiny small island with a coconut tree surrounded by clear sea water"
+    "meaning": "面積較小的島。",
+    "en_prompt": "A small green island in the middle of a blue ocean"
+  },
+  {
+    "word": "海島",
+    "meaning": "海洋中的島嶼。",
+    "en_prompt": "A tropical island with palm trees and a sandy beach"
+  },
+  {
+    "word": "島嶼",
+    "meaning": "島的總稱，指海洋中被水圍繞的小陸地。",
+    "en_prompt": "A group of beautiful islands scattered in the sea"
   }
 ]
