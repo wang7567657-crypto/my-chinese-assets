@@ -1,17 +1,17 @@
 [
   {
-    "word": "幼苗",
-    "meaning": "指剛從種子發芽，生長不久的小植物。",
-    "en_prompt": "a tiny green sprout growing out of the soil"
-  },
-  {
     "word": "樹苗",
-    "meaning": "指幼小的樹木，可以移植到土地裡生長。",
-    "en_prompt": "a young small tree sapling planted in the ground"
+    "meaning": "剛種植不久，幼小的小樹。",
+    "en_prompt": "A small young tree sapling growing in the soil"
   },
   {
     "word": "秧苗",
-    "meaning": "指在農田中準備插秧用的稻子幼苗。",
-    "en_prompt": "vibrant green rice seedlings in a sunny paddy field"
+    "meaning": "農作物（通常指稻米）的幼苗。",
+    "en_prompt": "Bright green young rice seedlings in a paddy field"
+  },
+  {
+    "word": "豆苗",
+    "meaning": "豆類種子發芽後長出的幼嫩莖葉。",
+    "en_prompt": "Fresh and tender green bean sprouts or pea shoots"
   }
 ]
