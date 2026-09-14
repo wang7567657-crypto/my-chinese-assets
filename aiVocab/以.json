@@ -1,17 +1,17 @@
 [
   {
-    "word": "所以",
-    "meaning": "表示因果關係中的結果。",
-    "en_prompt": "therefore"
-  },
-  {
-    "word": "可以",
-    "meaning": "表示許可、同意或能夠。",
-    "en_prompt": "can or may"
+    "word": "以上",
+    "meaning": "表示在某個數量或程度之上。",
+    "en_prompt": "above, more than"
   },
   {
     "word": "以前",
-    "meaning": "指過去或某個時間之前。",
-    "en_prompt": "before"
+    "meaning": "指過去的時間或某個時刻之前。",
+    "en_prompt": "before, past"
+  },
+  {
+    "word": "可以",
+    "meaning": "表示許可或具有某種能力。",
+    "en_prompt": "can, may"
   }
 ]
