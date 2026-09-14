@@ -1,17 +1,17 @@
 [
   {
     "word": "只有",
-    "meaning": "表示限定的範圍，沒有其他。",
+    "meaning": "僅僅有、除此之外沒有。",
     "en_prompt": "only"
   },
   {
-    "word": "只要",
-    "meaning": "表示充足的條件就可以。",
-    "en_prompt": "as long as"
+    "word": "只是",
+    "meaning": "不過是、僅僅是。",
+    "en_prompt": "just"
   },
   {
-    "word": "只是",
-    "meaning": "僅僅是，常用來解釋原因。",
-    "en_prompt": "just"
+    "word": "只要",
+    "meaning": "表示充足的條件限制。",
+    "en_prompt": "as long as"
   }
 ]
