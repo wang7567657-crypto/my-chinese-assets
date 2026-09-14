@@ -1,17 +1,17 @@
 [
   {
-    "word": "成為",
-    "meaning": "變成某種身分或狀態。",
-    "en_prompt": "to become"
-  },
-  {
-    "word": "為了",
-    "meaning": "表示行動的目的。",
-    "en_prompt": "for the sake of"
+    "word": "為什麼",
+    "meaning": "用來詢問原因或理由。",
+    "en_prompt": "why"
   },
   {
     "word": "行為",
-    "meaning": "舉止、表現出來的動作。",
+    "meaning": "人所表現出來的舉止行動。",
     "en_prompt": "behavior"
+  },
+  {
+    "word": "成為",
+    "meaning": "變成某種身分或是狀態。",
+    "en_prompt": "become"
   }
 ]
