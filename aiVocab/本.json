@@ -1,17 +1,17 @@
 [
   {
+    "word": "書本",
+    "meaning": "裝訂成冊的著作。",
+    "en_prompt": "books"
+  },
+  {
     "word": "本子",
-    "meaning": "用來寫字或紀錄的紙簿。",
+    "meaning": "用來記錄或練習的簿子。",
     "en_prompt": "notebook"
   },
   {
-    "word": "書本",
-    "meaning": "裝訂成冊的著作或讀物。",
-    "en_prompt": "book"
-  },
-  {
-    "word": "本來",
-    "meaning": "表示事物最初、原本的情況。",
-    "en_prompt": "originally"
+    "word": "原本",
+    "meaning": "事物最初的狀態或樣子。",
+    "en_prompt": "original"
   }
 ]
