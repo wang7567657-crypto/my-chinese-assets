@@ -1,17 +1,17 @@
 [
   {
     "word": "為什麼",
-    "meaning": "用來詢問原因或理由。",
+    "meaning": "詢問事情發生的原因。",
     "en_prompt": "why"
   },
   {
-    "word": "行為",
-    "meaning": "人所表現出來的舉止行動。",
-    "en_prompt": "behavior"
+    "word": "因為",
+    "meaning": "用來連接說明原因。",
+    "en_prompt": "because"
   },
   {
-    "word": "成為",
-    "meaning": "變成某種身分或是狀態。",
-    "en_prompt": "become"
+    "word": "行為",
+    "meaning": "指人所表現出的舉動。",
+    "en_prompt": "behavior"
   }
 ]
