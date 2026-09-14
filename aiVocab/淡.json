@@ -1,17 +1,17 @@
 [
   {
     "word": "淡水",
-    "meaning": "含鹽量極少的水。",
+    "meaning": "含鹽量極低的水，如河水。",
     "en_prompt": "freshwater"
-  },
-  {
-    "word": "清淡",
-    "meaning": "味道不濃或色彩不豔。",
-    "en_prompt": "light and mild"
   },
   {
     "word": "冷淡",
     "meaning": "態度不熱情、不親切。",
-    "en_prompt": "cold and indifferent"
+    "en_prompt": "indifferent"
+  },
+  {
+    "word": "清淡",
+    "meaning": "顏色或食物味道不濃郁。",
+    "en_prompt": "light (flavor/color)"
   }
 ]
