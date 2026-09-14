@@ -1,0 +1,1731 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "翰林_6年級_上學期_第2課_lesson_ai_batch_b609556a8cf5b4f3",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "粥",
+      "縷",
+      "碗",
+      "綢",
+      "繆",
+      "毋",
+      "掘",
+      "纏",
+      "縛",
+      "瓦",
+      "缶",
+      "蔬",
+      "饈",
+      "腹",
+      "惠",
+      "勿",
+      "凡",
+      "預",
+      "悲"
+    ],
+    "itemCount": 81,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "康軒_6年級_上學期_第2課_listening_quiz_b852ed791efbe3f0",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "chars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 19,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "康軒_6年級_上學期_第2課_homophone_compare_3f9730bce06091e4",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "chars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "康軒_6年級_上學期_第2課_fillblank_generate_350fdc4f2d6a8360",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "title": "第2課 全課填空",
+          "items": [
+            {
+              "char": "粥",
+              "word": "粥"
+            },
+            {
+              "char": "縷",
+              "word": "縷"
+            },
+            {
+              "char": "碗",
+              "word": "碗"
+            },
+            {
+              "char": "綢",
+              "word": "綢"
+            },
+            {
+              "char": "繆",
+              "word": "繆"
+            },
+            {
+              "char": "毋",
+              "word": "毋"
+            },
+            {
+              "char": "掘",
+              "word": "掘"
+            },
+            {
+              "char": "纏",
+              "word": "纏"
+            },
+            {
+              "char": "縛",
+              "word": "縛"
+            },
+            {
+              "char": "瓦",
+              "word": "瓦"
+            },
+            {
+              "char": "缶",
+              "word": "缶"
+            },
+            {
+              "char": "蔬",
+              "word": "蔬"
+            },
+            {
+              "char": "饈",
+              "word": "饈"
+            },
+            {
+              "char": "腹",
+              "word": "腹"
+            },
+            {
+              "char": "惠",
+              "word": "惠"
+            },
+            {
+              "char": "勿",
+              "word": "勿"
+            },
+            {
+              "char": "凡",
+              "word": "凡"
+            },
+            {
+              "char": "預",
+              "word": "預"
+            },
+            {
+              "char": "悲",
+              "word": "悲"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "康軒_6年級_上學期_第2課_material_tsv_generate_a88fe367858388ab",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "materialType": "primary",
+          "chars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "康軒_6年級_上學期_第2課_material_tsv_generate_abc5cee987205c8d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "materialType": "extra",
+          "chars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_fa215b435e5f9bcb",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "粥",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_62e42d0f195ed03b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "粥",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_529e0a3217a19c47",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "粥",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_915dd26c84824bc8",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "粥",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_15b42fef38172d46",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "縷",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_af752dd44c425112",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "縷",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_b2c0ec89135807c6",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "縷",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_82d8ed15b3b65683",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "縷",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_923039ec92597554",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "碗",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_1261bfee96fef34f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "碗",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_d04bee78263b8867",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "碗",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_9fd2f0dbf59e03d2",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "碗",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_26a2cdfa21fc3b2b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "綢",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_1a15d2f1ee7c4e83",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "綢",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_edfcb714ac114334",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "綢",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_c4f822d6ca626033",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "綢",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_403446e591ae4c48",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "繆",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_b9b80822b8b19962",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "繆",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_2c3b0a2087067a94",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "繆",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_421b8d9b35b14259",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "繆",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_91f00607372db524",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "毋",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_e1dc6817db7ca0c3",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "毋",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_bdc7ce47937b9fc6",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "毋",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_773d2d09742b1b9c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "毋",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_21c385ca9503e794",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "掘",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_a548d92ed66c8dc1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "掘",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_2b18f47fdcbd19d9",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "掘",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_ee8233d0bb96502e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "掘",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_60139629c380f7b4",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "纏",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_a5f31e1584523b18",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "纏",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_c895d1a0c7fd91c7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "纏",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_6f386e1373107a81",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "纏",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_90460788f03c119c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "縛",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_06dc3093024c107b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "縛",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_76a69648d9e026a1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "縛",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_287e3c73d0ad77ed",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "縛",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_d202e3219064f926",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "瓦",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_7be1d5c01b11e9e0",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "瓦",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_b46ae0aab9cd9b9e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "瓦",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_7e787c1095bb4f7e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "瓦",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_877d75c1b917ec1c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "缶",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_2244bb4d26792736",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "缶",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_362b15d86d72dd3b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "缶",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_869dbe69dd007555",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "缶",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_17c794db9fcd859b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "蔬",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_742c1465511b1970",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "蔬",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_dd5565b3327354eb",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "蔬",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_45d25e2f1193791d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "蔬",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_b9a7a3834e62b437",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "饈",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_adcea2a6c6d8cdd2",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "饈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_599ceaff1e885e53",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "饈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_6bef9fc4ed994265",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "饈",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_3120f57aca6efdce",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "腹",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_16134f5bfe467dd0",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "腹",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_2fc76670460ba30e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "腹",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_82d387842d095448",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "腹",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_56bbb81262488c96",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "惠",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_9101319b3d04ca0d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "惠",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_f084b1e41f9e3848",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "惠",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_892c925dcb1e557e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "惠",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_2f15a11b9dc738d7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "勿",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_3db3c568718abc30",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "勿",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_4ee37b84fa749f8d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "勿",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_7c48154626744dea",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "勿",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_21428e53b61889cb",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "凡",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_f5badd87a0d0fc80",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "凡",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_94cda0153e075627",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "凡",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_3451e1229d59f4d4",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "凡",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_0f25569391f0d2d6",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "預",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_d5f4cd743a478bd7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "預",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_003b7281149f5b3c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "預",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_0ca7b0e5be4120e9",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "預",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_6年級_上學期_第2課_similar_shape_6fa49aa7d8f9c272",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "targetChar": "悲",
+          "lessonChars": [
+            "粥",
+            "縷",
+            "碗",
+            "綢",
+            "繆",
+            "毋",
+            "掘",
+            "纏",
+            "縛",
+            "瓦",
+            "缶",
+            "蔬",
+            "饈",
+            "腹",
+            "惠",
+            "勿",
+            "凡",
+            "預",
+            "悲"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_6年級_上學期_第2課_confusion_analysis_2d01dab30be7e141",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "悲",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_6年級_上學期_第2課_memory_strategy_a48030292564c6f7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "悲",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_6年級_上學期_第2課_component_split_c058ecf0a00fa774",
+        "input": {
+          "publisher": "康軒",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "char": "悲",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-14T04:11:07.302Z"
+}
