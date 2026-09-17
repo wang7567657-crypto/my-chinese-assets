@@ -1,0 +1,1327 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "翰林_4年級_上學期_第3課_lesson_ai_batch_a356413b1a9c5a74",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "社",
+      "邀",
+      "與",
+      "遙",
+      "投",
+      "熟",
+      "巧",
+      "彈",
+      "曾",
+      "揮",
+      "彼",
+      "秒",
+      "喧",
+      "優",
+      "弧"
+    ],
+    "itemCount": 65,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "康軒_4年級_上學期_第3課_listening_quiz_7094f1f834f7a715",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "chars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 15,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "康軒_4年級_上學期_第3課_homophone_compare_ea3538b78440f4b4",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "chars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "康軒_4年級_上學期_第3課_fillblank_generate_2b07eb5ee8bac2f9",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "title": "第3課 全課填空",
+          "items": [
+            {
+              "char": "社",
+              "word": "社"
+            },
+            {
+              "char": "邀",
+              "word": "邀"
+            },
+            {
+              "char": "與",
+              "word": "與"
+            },
+            {
+              "char": "遙",
+              "word": "遙"
+            },
+            {
+              "char": "投",
+              "word": "投"
+            },
+            {
+              "char": "熟",
+              "word": "熟"
+            },
+            {
+              "char": "巧",
+              "word": "巧"
+            },
+            {
+              "char": "彈",
+              "word": "彈"
+            },
+            {
+              "char": "曾",
+              "word": "曾"
+            },
+            {
+              "char": "揮",
+              "word": "揮"
+            },
+            {
+              "char": "彼",
+              "word": "彼"
+            },
+            {
+              "char": "秒",
+              "word": "秒"
+            },
+            {
+              "char": "喧",
+              "word": "喧"
+            },
+            {
+              "char": "優",
+              "word": "優"
+            },
+            {
+              "char": "弧",
+              "word": "弧"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "康軒_4年級_上學期_第3課_material_tsv_generate_00fec996d0b81035",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "materialType": "primary",
+          "chars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "康軒_4年級_上學期_第3課_material_tsv_generate_4e162e1d832ac53b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "materialType": "extra",
+          "chars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_825a5dae0ac3ed9c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "社",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_04683a490e092923",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "社",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_ac5d372d0610ad9f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "社",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_953a707ca56095fd",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "社",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_58592d874caddd1b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "邀",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_30d79747fcae66c6",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "邀",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_8e20ef57b0d30e3f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "邀",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_c620f7f873c2b06b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "邀",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_af6f8732b8fca7f1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "與",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_725836581f354d65",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "與",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_d3524bc277b560aa",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "與",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_ab2f891fc665840a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "與",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_21a53d529404ac1c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "遙",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_4e3b9dcb9c24ca2e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "遙",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_464f9ef0975f0b2e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "遙",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_7a2f497ab7025ddf",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "遙",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_45143dac68da85b6",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "投",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_e24e3a37192babd4",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "投",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_57044acc39a25ca0",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "投",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_32e985b07d66b19f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "投",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_a710f812ea7352cb",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "熟",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_749525e911a4ee57",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "熟",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_e40ee515508ed7f4",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "熟",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_323505d38454fe4e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "熟",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_a9759f75221ef43f",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "巧",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_c9a93e55493df0e4",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "巧",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_4e2aabf0b7abd1b7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "巧",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_a7176fb09cb2867a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "巧",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_b1c70c351969be25",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "彈",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_728c0c3fa395b833",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "彈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_dbe520a7616cb2dc",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "彈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_8f8fee84f0defdbd",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "彈",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_78ba786563b7ad13",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "曾",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_d491c6f4d65b0db7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "曾",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_7b7ca7474b4da59e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "曾",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_71555e9a606a51d4",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "曾",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_eb151f8e6d4137ed",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "揮",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_3f5a225f3886ddd1",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "揮",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_5209a0764050e3af",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "揮",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_86f879b55d2f5778",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "揮",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_59d94f9167c80828",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "彼",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_009891a960f2ccef",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "彼",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_d09f612696fbb74c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "彼",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_4c5e3e9b19c95857",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "彼",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_dcc45880a5617912",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "秒",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_1189e8b27a12c253",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "秒",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_838b6dcf3fcc83ce",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "秒",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_457fc1b4fd676225",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "秒",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_7d32898612d2ad61",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "喧",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_15de489a9ef5ad18",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "喧",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_a174c7dac3ca899a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "喧",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_75757c538a6381de",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "喧",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_5e36dba371add77c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "優",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_24a9ab9e47995f96",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "優",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_625ce35ddd534f9e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "優",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_876da17a8ef9fde7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "優",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "康軒_4年級_上學期_第3課_similar_shape_1b8a5d7b1f64ef86",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "弧",
+          "lessonChars": [
+            "社",
+            "邀",
+            "與",
+            "遙",
+            "投",
+            "熟",
+            "巧",
+            "彈",
+            "曾",
+            "揮",
+            "彼",
+            "秒",
+            "喧",
+            "優",
+            "弧"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_a82ab97cd48a71d7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "弧",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第3課_memory_strategy_53f8def6fcd5c0f3",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "弧",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "康軒_4年級_上學期_第3課_component_split_37142ee743b4433e",
+        "input": {
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "弧",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-17T07:04:15.008Z"
+}
