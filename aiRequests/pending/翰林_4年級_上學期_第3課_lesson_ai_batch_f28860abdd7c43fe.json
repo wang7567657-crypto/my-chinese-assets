@@ -1,0 +1,1327 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "翰林_4年級_上學期_第3課_lesson_ai_batch_f28860abdd7c43fe",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "batchVersion": "lesson-batch-v1",
+    "chars": [
+      "鏡",
+      "軌",
+      "樓",
+      "與",
+      "耕",
+      "耘",
+      "蔬",
+      "鼓",
+      "腮",
+      "烤",
+      "柳",
+      "丁",
+      "粉",
+      "網",
+      "錄"
+    ],
+    "itemCount": 65,
+    "items": [
+      {
+        "group": "聽力",
+        "taskType": "listening_quiz",
+        "requestId": "翰林_4年級_上學期_第3課_listening_quiz_03cd94805c2349c0",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "chars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 15,
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "同音字",
+        "taskType": "homophone_compare",
+        "requestId": "翰林_4年級_上學期_第3課_homophone_compare_7b73d6952697ee35",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "chars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "填空",
+        "taskType": "fillblank_generate",
+        "requestId": "翰林_4年級_上學期_第3課_fillblank_generate_f297e50057213d90",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "title": "第3課 全課填空",
+          "items": [
+            {
+              "char": "鏡",
+              "word": "鏡"
+            },
+            {
+              "char": "軌",
+              "word": "軌"
+            },
+            {
+              "char": "樓",
+              "word": "樓"
+            },
+            {
+              "char": "與",
+              "word": "與"
+            },
+            {
+              "char": "耕",
+              "word": "耕"
+            },
+            {
+              "char": "耘",
+              "word": "耘"
+            },
+            {
+              "char": "蔬",
+              "word": "蔬"
+            },
+            {
+              "char": "鼓",
+              "word": "鼓"
+            },
+            {
+              "char": "腮",
+              "word": "腮"
+            },
+            {
+              "char": "烤",
+              "word": "烤"
+            },
+            {
+              "char": "柳",
+              "word": "柳"
+            },
+            {
+              "char": "丁",
+              "word": "丁"
+            },
+            {
+              "char": "粉",
+              "word": "粉"
+            },
+            {
+              "char": "網",
+              "word": "網"
+            },
+            {
+              "char": "錄",
+              "word": "錄"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      },
+      {
+        "group": "教材主表",
+        "taskType": "material_tsv_generate",
+        "requestId": "翰林_4年級_上學期_第3課_material_tsv_generate_6acf6a5321b85f1a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "materialType": "primary",
+          "chars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "教材延伸",
+        "taskType": "material_tsv_generate",
+        "requestId": "翰林_4年級_上學期_第3課_material_tsv_generate_9f2a733f8e67beaf",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "materialType": "extra",
+          "chars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "level": "國小中高年級",
+          "formatVersion": "tsv-v1"
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_eeeb22181a987005",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "鏡",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_cc5a2044f5987995",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "鏡",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_688658cc7c65d320",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "鏡",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_97b34537749cacd1",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "鏡",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_3b195cec88034964",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "軌",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_5ad3599751c193b7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "軌",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_fd01fb6ee12df340",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "軌",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_5168ae06b37f7ab9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "軌",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_ee56e1ba5a9883e6",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "樓",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_6110816a8e91381b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "樓",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_ea6371f70e0af335",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "樓",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_6c4c05a39c00e1e7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "樓",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_9293673828a6b6bc",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "與",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_d7236640cc35b435",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "與",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_74e286aaed439a0f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "與",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_1765b3eb3ae0c75a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "與",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_df5369c513746879",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "耕",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_935b2dd4bdf1ceee",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "耕",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_56f147bcfacdaa5a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "耕",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_3184404c3aa24e78",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "耕",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_951525c1a3c2a47c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "耘",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_201fb08282dae343",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "耘",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_0bd76daf8665d127",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "耘",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_061a1f591c678e27",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "耘",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_e9276c3c41831ed6",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "蔬",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_0afb862a5ba57cc9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "蔬",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_f7d0fb85d81c322e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "蔬",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_7299b4a9b1d1507d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "蔬",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_37e38b80b3494df7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "鼓",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_c31f53c59cbd390f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "鼓",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_713cbbd953be0e67",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "鼓",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_b1fe6515b5d44518",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "鼓",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_79542556fffa0c69",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "腮",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_d37211caab56d337",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "腮",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_7133a993c97a9729",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "腮",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_d714d844e6e9f92a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "腮",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_43646d20c5a45b32",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "烤",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_d2906306f98e9e3f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "烤",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_ff8f7da07133f3cd",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "烤",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_4005e2a69f365593",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "烤",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_a5a3d4721c622e11",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "柳",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_b312c742c97cd7ea",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "柳",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_54fc93ba57dab69f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "柳",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_bdccf960e471aa77",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "柳",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_191032ed302f5646",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "丁",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_863ce9a8c0d7968e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "丁",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_ce0d529d7792af44",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "丁",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_9ccfbaded93505bc",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "丁",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_c07c3fd59fcb8f91",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "粉",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_9df224d2d945b898",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "粉",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_4abdbd0a81b4cc11",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "粉",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_51197e0a5b8642e5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "粉",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_eece9feb7bf1ca28",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "網",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_63b31a673d7f6a73",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "網",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_2505231a0b6d65be",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "網",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_9365d2985585b578",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "網",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      },
+      {
+        "group": "形近字",
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第3課_similar_shape_76c73e88a3257388",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "targetChar": "錄",
+          "lessonChars": [
+            "鏡",
+            "軌",
+            "樓",
+            "與",
+            "耕",
+            "耘",
+            "蔬",
+            "鼓",
+            "腮",
+            "烤",
+            "柳",
+            "丁",
+            "粉",
+            "網",
+            "錄"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "易混淆",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第3課_confusion_analysis_151de91a1985c083",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "錄",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "記憶策略",
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第3課_memory_strategy_e2e8618c08ecd076",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "錄",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "group": "部件",
+        "taskType": "component_split",
+        "requestId": "翰林_4年級_上學期_第3課_component_split_660db3f04045adfb",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "char": "錄",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-09-17T07:04:27.803Z"
+}
