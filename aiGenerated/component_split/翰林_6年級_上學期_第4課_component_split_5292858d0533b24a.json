@@ -2,27 +2,49 @@
   "taskType": "component_split",
   "requestId": "翰林_6年級_上學期_第4課_component_split_5292858d0533b24a",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
-    "publisher": "翰林",
-    "grade": "6年級",
-    "semester": "上學期",
-    "lesson": "第4課",
+    "canonicalRequestId": "翰林_6年級_上學期_第4課_component_split_5292858d0533b24a",
     "char": "迫",
-    "strokeCount": null,
-    "strokeSource": "c9s/zh-stroke-data",
-    "needsStrokeCount": true
+    "grade": "6年級",
+    "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。",
+    "lesson": "第4課",
+    "publisher": "翰林",
+    "reviewOf": "翰林_6年級_上學期_第4課_component_split_5292858d0533b24a",
+    "reviewReason": "既有結果未通過驗證或筆畫數不符；請核對實際筆順並同步正式部件字典。",
+    "semester": "上學期",
+    "strokeCount": 9,
+    "strokeSource": "c9s/zh-stroke-data"
   },
   "data": {
-    "structure": "",
-    "split": [],
     "components": [
-      "辶",
-      "白"
+      "白",
+      "辶"
     ],
-    "strokeCount": null,
-    "verified": false,
-    "note": "尚未取得 c9s 實際筆畫數與筆順序列，暫不驗證。"
+    "note": "部首「辵」對應筆畫：6、7、8、9。",
+    "radical": "辵",
+    "radicalStrokeIndices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "radicalVerified": true,
+    "source": "c9s_strokes_reviewed",
+    "split": [
+      5,
+      4
+    ],
+    "strokeCount": 9,
+    "structure": "左下包圍",
+    "updatedAt": "2026-09-17T13:37:45.770Z",
+    "verification": {
+      "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。",
+      "sourceBlobSha": "2a0032ab7a8254844647bfa692dbbad9da8d001c",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/8feb.xml"
+    },
+    "verified": true
   },
-  "createdAt": "2026-09-04T02:06:00.000Z"
+  "updatedAt": "2026-09-17T13:38:13.097Z"
 }
