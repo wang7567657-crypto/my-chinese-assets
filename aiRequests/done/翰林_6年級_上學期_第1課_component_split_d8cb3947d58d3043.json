@@ -1,0 +1,34 @@
+{
+  "taskType": "component_split",
+  "requestId": "翰林_6年級_上學期_第1課_component_split_d8cb3947d58d3043",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "蛹",
+    "strokeCount": 13,
+    "strokeSource": "c9s/zh-stroke-data",
+    "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。"
+  },
+  "createdAt": "2026-09-17T12:58:33.894Z",
+  "completedAt": "2026-09-17T13:00:22.692Z",
+  "resultPath": "aiGenerated/component_split/翰林_6年級_上學期_第1課_component_split_d8cb3947d58d3043.json",
+  "verification": {
+    "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/86f9.xml",
+    "sourceBlobSha": "8a4de400fc1d8aa311aba509d0669fe8ca2f8828",
+    "strokeRanges": [
+      [
+        1,
+        6
+      ],
+      [
+        7,
+        13
+      ]
+    ],
+    "method": "核對13個Stroke節點的輪廓與軌跡，並以雙色實際渲染確認虫、甬連續分組。"
+  }
+}
