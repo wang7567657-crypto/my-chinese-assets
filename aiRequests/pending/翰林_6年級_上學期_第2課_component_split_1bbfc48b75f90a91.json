@@ -13,5 +13,9 @@
     "strokeSource": "c9s/zh-stroke-data",
     "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。"
   },
-  "createdAt": "2026-09-17T13:04:51.744Z"
+  "createdAt": "2026-09-17T13:04:51.744Z",
+  "reviewStatus": "blocked",
+  "reviewedAt": "2026-09-17T13:08:08.168Z",
+  "reviewReason": "non_contiguous_components",
+  "reviewNote": "已核對囗為第1、2、8筆，古為第3–7筆。現行分色器只支援連續split，無法把外框封口合回囗；需支援非連續筆畫分組後才能啟用，不使用[3,5]錯誤分色。"
 }
