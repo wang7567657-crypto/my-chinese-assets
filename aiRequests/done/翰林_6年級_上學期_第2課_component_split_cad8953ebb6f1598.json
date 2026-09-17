@@ -1,0 +1,23 @@
+{
+  "taskType": "component_split",
+  "requestId": "翰林_6年級_上學期_第2課_component_split_cad8953ebb6f1598",
+  "version": "1.0",
+  "status": "completed",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "寞",
+    "strokeCount": 15,
+    "strokeSource": "c9s/zh-stroke-data",
+    "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。"
+  },
+  "createdAt": "2026-09-17T13:05:13.995Z",
+  "reviewStatus": "resolved",
+  "reviewedAt": "2026-09-17T13:08:43.081Z",
+  "completedAt": "2026-09-17T13:54:27.244Z",
+  "resolution": "去除來源第8筆重複橫畫後為14畫；宀第1–3筆，莫第4–14筆。",
+  "resultPath": "aiGenerated/component_split/翰林_6年級_上學期_第2課_component_split_cad8953ebb6f1598.json",
+  "publishedSiteVersion": 18
+}
