@@ -581,6 +581,36 @@
         "method": "核對15個Stroke節點的輪廓與軌跡，並以三色實際渲染確認連續分組。"
       },
       "note": "第1–6筆為虫；第7–11筆為世；第12–15筆為木。6+5+4=15。舊結果的17畫為錯誤，已更正。"
+    },
+    "蛹": {
+      "structure": "左右",
+      "split": [
+        6,
+        7
+      ],
+      "components": [
+        "虫",
+        "甬"
+      ],
+      "strokeCount": 13,
+      "verified": true,
+      "source": "c9s_strokes_reviewed",
+      "verification": {
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/86f9.xml",
+        "sourceBlobSha": "8a4de400fc1d8aa311aba509d0669fe8ca2f8828",
+        "strokeRanges": [
+          [
+            1,
+            6
+          ],
+          [
+            7,
+            13
+          ]
+        ],
+        "method": "核對13個Stroke節點的輪廓與軌跡，並以雙色實際渲染確認虫、甬連續分組。"
+      },
+      "note": "第1–6筆為虫，第7–13筆為甬；6+7=13。"
     }
   }
 }
