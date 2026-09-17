@@ -833,6 +833,118 @@
       },
       "note": "部首「魚」對應筆畫：1、2、3、4、5、6、7、8、9、10、11。",
       "updatedAt": "2026-09-17T13:37:45.770Z"
+    },
+    "固": {
+      "components": [
+        "囗",
+        "古"
+      ],
+      "note": "囗使用第1、2、8筆，古使用第3–7筆；split只記各組數量，必須依strokeGroups取筆，禁止重排筆順。",
+      "radical": "囗",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        8
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "strokeCount": 8,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          8
+        ],
+        [
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "structure": "全包圍",
+      "verification": {
+        "method": "核對原始輪廓與軌跡、完整字與缺部件渲染，分成部首和其餘部分。",
+        "sourceBlobSha": "b53d5bb339cb6eb57bb70747f80e8b10c006e018",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/56fa.xml"
+      },
+      "verified": true
+    },
+    "寞": {
+      "components": [
+        "宀",
+        "莫"
+      ],
+      "note": "去除來源第8筆重複橫畫後為14畫；宀第1–3筆，莫第4–14筆。",
+      "radical": "宀",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        3,
+        11
+      ],
+      "strokeAssetPath": "strokes/5bde.xml",
+      "strokeAssetVersion": "radical-rest-v1",
+      "strokeCount": 14,
+      "structure": "上下",
+      "verification": {
+        "correctedCount": 14,
+        "method": "核對原始輪廓與軌跡、完整字與缺部件渲染，分成部首和其餘部分。",
+        "originalBlobSha": "4cc1403c2eb0fa932936229d159767dc8f809d03",
+        "originalCount": 15,
+        "reason": "原第8筆重覆草頭右側原第6筆，保留其餘14筆。",
+        "removedOriginalStrokeIndices": [
+          8
+        ],
+        "sourceBlobSha": "4cc1403c2eb0fa932936229d159767dc8f809d03",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5bde.xml"
+      },
+      "verified": true
+    },
+    "慰": {
+      "components": [
+        "尉",
+        "心"
+      ],
+      "note": "去除來源重複筆畫後為15畫；尉第1–11筆，心第12–15筆。",
+      "radical": "心",
+      "radicalStrokeIndices": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        11,
+        4
+      ],
+      "strokeAssetPath": "strokes/6170.xml",
+      "strokeAssetVersion": "radical-rest-v1",
+      "strokeCount": 15,
+      "structure": "上下",
+      "verification": {
+        "correctedCount": 15,
+        "method": "核對原始輪廓與軌跡、完整字與缺部件渲染，分成部首和其餘部分。",
+        "originalBlobSha": "5f7ab16697588254c42b6969ab4a0ab8f78418ba",
+        "originalCount": 18,
+        "reason": "原第16–18筆重覆心部第12–14筆，保留前15筆。",
+        "removedOriginalStrokeIndices": [
+          16,
+          17,
+          18
+        ],
+        "sourceBlobSha": "5f7ab16697588254c42b6969ab4a0ab8f78418ba",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6170.xml"
+      },
+      "verified": true
     }
   }
 }
