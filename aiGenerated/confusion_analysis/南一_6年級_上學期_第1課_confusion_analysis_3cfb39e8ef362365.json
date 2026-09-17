@@ -1,0 +1,58 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第1課_confusion_analysis_3cfb39e8ef362365",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "鳳",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鳳",
+    "groups": {
+      "shape": [
+        {
+          "char": "風",
+          "why": "字形或部件相近",
+          "difference": "比較「鳳」與「風」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "凰",
+          "why": "字形或部件相近",
+          "difference": "比較「鳳」與「凰」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "鳥",
+          "why": "字形或部件相近",
+          "difference": "比較「鳳」與「鳥」的部首、外框和關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [
+        {
+          "char": "鳳",
+          "why": "常用語詞是「鳳凰」",
+          "difference": "傳說中的神鳥。"
+        }
+      ],
+      "component": [
+        {
+          "char": "外框",
+          "why": "組字提示",
+          "difference": "辨認部件「外框」在字中的位置。"
+        },
+        {
+          "char": "鳥",
+          "why": "組字提示",
+          "difference": "辨認部件「鳥」在字中的位置。"
+        }
+      ]
+    },
+    "tip": "外框裡有鳥，記住鳳凰是神鳥。"
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

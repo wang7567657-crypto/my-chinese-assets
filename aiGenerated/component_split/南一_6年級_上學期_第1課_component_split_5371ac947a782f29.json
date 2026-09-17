@@ -1,0 +1,72 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_6年級_上學期_第1課_component_split_5371ac947a782f29",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "霾",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true
+  },
+  "data": {
+    "split": [
+      8,
+      14
+    ],
+    "components": [
+      "雨",
+      "其餘部分"
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    ],
+    "strokeCount": 22,
+    "structure": "上下",
+    "radical": "雨",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "verified": true,
+    "source": "chatgpt_checked_radical_rest",
+    "note": "依已核對的正式部件字典產生。"
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

@@ -1,0 +1,214 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "南一_6年級_上學期_第1課_fillblank_generate_691753319d5aa204",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "title": "第1課 全課填空",
+    "items": [
+      {
+        "char": "爽",
+        "word": "爽"
+      },
+      {
+        "char": "塵",
+        "word": "塵"
+      },
+      {
+        "char": "垢",
+        "word": "垢"
+      },
+      {
+        "char": "鳳",
+        "word": "鳳"
+      },
+      {
+        "char": "頁",
+        "word": "頁"
+      },
+      {
+        "char": "曝",
+        "word": "曝"
+      },
+      {
+        "char": "跡",
+        "word": "跡"
+      },
+      {
+        "char": "暈",
+        "word": "暈"
+      },
+      {
+        "char": "涉",
+        "word": "涉"
+      },
+      {
+        "char": "霾",
+        "word": "霾"
+      }
+    ],
+    "level": "國小中高年級",
+    "sourceRequestId": "",
+    "autoLesson": true
+  },
+  "data": {
+    "title": "第1課 全課填空",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "爽",
+        "word": "清爽",
+        "sentence": "雨後的空氣十分清爽。",
+        "answer": "爽",
+        "options": [
+          "爽",
+          "夾",
+          "來",
+          "夫"
+        ],
+        "hint": "感覺清新舒服。",
+        "explanation": "「清爽」：清新舒適。"
+      },
+      {
+        "id": "q2",
+        "targetChar": "塵",
+        "word": "灰塵",
+        "sentence": "我們用抹布擦去桌上的灰塵。",
+        "answer": "塵",
+        "options": [
+          "塵",
+          "鹿",
+          "麈",
+          "墨"
+        ],
+        "hint": "細小的土灰。",
+        "explanation": "「灰塵」：細小的土灰。"
+      },
+      {
+        "id": "q3",
+        "targetChar": "垢",
+        "word": "汙垢",
+        "sentence": "刷子可以清除磁磚上的汙垢。",
+        "answer": "垢",
+        "options": [
+          "垢",
+          "坵",
+          "坷",
+          "坂"
+        ],
+        "hint": "黏在物品上的髒東西。",
+        "explanation": "「汙垢」：附著在物體上的髒東西。"
+      },
+      {
+        "id": "q4",
+        "targetChar": "鳳",
+        "word": "鳳凰",
+        "sentence": "壁畫上有一隻美麗的鳳凰。",
+        "answer": "鳳",
+        "options": [
+          "鳳",
+          "風",
+          "凰",
+          "鳥"
+        ],
+        "hint": "傳說中的神鳥。",
+        "explanation": "「鳳凰」：傳說中的神鳥。"
+      },
+      {
+        "id": "q5",
+        "targetChar": "頁",
+        "word": "頁面",
+        "sentence": "請翻到課本的下一個頁面。",
+        "answer": "頁",
+        "options": [
+          "頁",
+          "貝",
+          "首",
+          "見"
+        ],
+        "hint": "書本的一面。",
+        "explanation": "「頁面」：書本或文件的一面。"
+      },
+      {
+        "id": "q6",
+        "targetChar": "曝",
+        "word": "曝曬",
+        "sentence": "棉被經過陽光曝曬後很乾爽。",
+        "answer": "曝",
+        "options": [
+          "曝",
+          "暴",
+          "爆",
+          "瀑"
+        ],
+        "hint": "放在強烈陽光下曬。",
+        "explanation": "「曝曬」：放在陽光下曬。"
+      },
+      {
+        "id": "q7",
+        "targetChar": "跡",
+        "word": "足跡",
+        "sentence": "沙灘上留下了一排足跡。",
+        "answer": "跡",
+        "options": [
+          "跡",
+          "蹟",
+          "亦",
+          "路"
+        ],
+        "hint": "腳走過留下的印記。",
+        "explanation": "「足跡」：走過後留下的痕跡。"
+      },
+      {
+        "id": "q8",
+        "targetChar": "暈",
+        "word": "暈眩",
+        "sentence": "他坐車時感到有些暈眩。",
+        "answer": "暈",
+        "options": [
+          "暈",
+          "軍",
+          "暉",
+          "揮"
+        ],
+        "hint": "頭昏、站不穩的感覺。",
+        "explanation": "「暈眩」：感到頭昏、站不穩。"
+      },
+      {
+        "id": "q9",
+        "targetChar": "涉",
+        "word": "涉及",
+        "sentence": "這個問題涉及許多不同的原因。",
+        "answer": "涉",
+        "options": [
+          "涉",
+          "步",
+          "頻",
+          "歲"
+        ],
+        "hint": "和某件事有關係。",
+        "explanation": "「涉及」：牽連到或關係到。"
+      },
+      {
+        "id": "q10",
+        "targetChar": "霾",
+        "word": "霧霾",
+        "sentence": "霧霾嚴重時要減少戶外活動。",
+        "answer": "霾",
+        "options": [
+          "霾",
+          "雷",
+          "雪",
+          "露"
+        ],
+        "hint": "讓空氣變混濁的現象。",
+        "explanation": "「霧霾」：空氣中懸浮微粒形成的混濁現象。"
+      }
+    ]
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

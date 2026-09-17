@@ -1,0 +1,53 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第1課_confusion_analysis_fddff514161b8f3f",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "頁",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "頁",
+    "groups": {
+      "shape": [
+        {
+          "char": "貝",
+          "why": "字形或部件相近",
+          "difference": "比較「頁」與「貝」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "首",
+          "why": "字形或部件相近",
+          "difference": "比較「頁」與「首」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "見",
+          "why": "字形或部件相近",
+          "difference": "比較「頁」與「見」的部首、外框和關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [
+        {
+          "char": "頁",
+          "why": "常用語詞是「頁面」",
+          "difference": "書本或文件的一面。"
+        }
+      ],
+      "component": [
+        {
+          "char": "頁（獨體）",
+          "why": "組字提示",
+          "difference": "辨認部件「頁（獨體）」在字中的位置。"
+        }
+      ]
+    },
+    "tip": "頁是獨體字，常和書頁、頁面有關。"
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

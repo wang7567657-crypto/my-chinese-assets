@@ -1,0 +1,58 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第1課_confusion_analysis_b8f5bece9084f4fe",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "爽",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "爽",
+    "groups": {
+      "shape": [
+        {
+          "char": "夾",
+          "why": "字形或部件相近",
+          "difference": "比較「爽」與「夾」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "來",
+          "why": "字形或部件相近",
+          "difference": "比較「爽」與「來」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "夫",
+          "why": "字形或部件相近",
+          "difference": "比較「爽」與「夫」的部首、外框和關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [
+        {
+          "char": "爽",
+          "why": "常用語詞是「清爽」",
+          "difference": "清新舒適。"
+        }
+      ],
+      "component": [
+        {
+          "char": "大",
+          "why": "組字提示",
+          "difference": "辨認部件「大」在字中的位置。"
+        },
+        {
+          "char": "四個叉形",
+          "why": "組字提示",
+          "difference": "辨認部件「四個叉形」在字中的位置。"
+        }
+      ]
+    },
+    "tip": "中間有四個交叉形，外側撇捺要伸展。"
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

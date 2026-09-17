@@ -1,0 +1,141 @@
+{
+  "taskType": "listening_quiz",
+  "requestId": "南一_6年級_上學期_第1課_listening_quiz_f22106f653636a96",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "chars": [
+      "爽",
+      "塵",
+      "垢",
+      "鳳",
+      "頁",
+      "曝",
+      "跡",
+      "暈",
+      "涉",
+      "霾"
+    ],
+    "count": 10,
+    "level": "國小中高年級"
+  },
+  "data": {
+    "questions": [
+      {
+        "char": "爽",
+        "zhuyin": "ㄕㄨㄤˇ",
+        "options": [
+          "爽",
+          "夾",
+          "來",
+          "夫"
+        ],
+        "explanation": "「爽」讀ㄕㄨㄤˇ，例如「清爽」。"
+      },
+      {
+        "char": "塵",
+        "zhuyin": "ㄔㄣˊ",
+        "options": [
+          "塵",
+          "鹿",
+          "麈",
+          "墨"
+        ],
+        "explanation": "「塵」讀ㄔㄣˊ，例如「灰塵」。"
+      },
+      {
+        "char": "垢",
+        "zhuyin": "ㄍㄡˋ",
+        "options": [
+          "垢",
+          "坵",
+          "坷",
+          "坂"
+        ],
+        "explanation": "「垢」讀ㄍㄡˋ，例如「汙垢」。"
+      },
+      {
+        "char": "鳳",
+        "zhuyin": "ㄈㄥˋ",
+        "options": [
+          "鳳",
+          "風",
+          "凰",
+          "鳥"
+        ],
+        "explanation": "「鳳」讀ㄈㄥˋ，例如「鳳凰」。"
+      },
+      {
+        "char": "頁",
+        "zhuyin": "ㄧㄝˋ",
+        "options": [
+          "頁",
+          "貝",
+          "首",
+          "見"
+        ],
+        "explanation": "「頁」讀ㄧㄝˋ，例如「頁面」。"
+      },
+      {
+        "char": "曝",
+        "zhuyin": "ㄆㄨˋ",
+        "options": [
+          "曝",
+          "暴",
+          "爆",
+          "瀑"
+        ],
+        "explanation": "「曝」讀ㄆㄨˋ，例如「曝曬」。"
+      },
+      {
+        "char": "跡",
+        "zhuyin": "ㄐㄧ",
+        "options": [
+          "跡",
+          "蹟",
+          "亦",
+          "路"
+        ],
+        "explanation": "「跡」讀ㄐㄧ，例如「足跡」。"
+      },
+      {
+        "char": "暈",
+        "zhuyin": "ㄩㄣ",
+        "options": [
+          "暈",
+          "軍",
+          "暉",
+          "揮"
+        ],
+        "explanation": "「暈」讀ㄩㄣ，例如「暈眩」。"
+      },
+      {
+        "char": "涉",
+        "zhuyin": "ㄕㄜˋ",
+        "options": [
+          "涉",
+          "步",
+          "頻",
+          "歲"
+        ],
+        "explanation": "「涉」讀ㄕㄜˋ，例如「涉及」。"
+      },
+      {
+        "char": "霾",
+        "zhuyin": "ㄇㄞˊ",
+        "options": [
+          "霾",
+          "雷",
+          "雪",
+          "露"
+        ],
+        "explanation": "「霾」讀ㄇㄞˊ，例如「霧霾」。"
+      }
+    ]
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

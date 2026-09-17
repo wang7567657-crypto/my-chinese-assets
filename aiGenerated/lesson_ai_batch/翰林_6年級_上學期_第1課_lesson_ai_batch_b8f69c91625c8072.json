@@ -1,0 +1,46 @@
+{
+  "taskType": "lesson_ai_batch",
+  "requestId": "翰林_6年級_上學期_第1課_lesson_ai_batch_b8f69c91625c8072",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "originalPublisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "itemCount": 44,
+    "chars": [
+      "爽",
+      "塵",
+      "垢",
+      "鳳",
+      "頁",
+      "曝",
+      "跡",
+      "暈",
+      "涉",
+      "霾"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "processedCount": 44,
+    "verifiedComponentChars": [
+      "塵",
+      "垢",
+      "鳳",
+      "曝",
+      "跡",
+      "暈",
+      "涉",
+      "霾"
+    ],
+    "reviewRequiredComponentChars": [
+      "爽",
+      "頁"
+    ],
+    "correctionNote": "外層標示翰林，但44個子項目均標示南一；依子項目與生字內容以南一六上第1課處理。爽、頁未強行拆字。"
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

@@ -1,0 +1,58 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第1課_confusion_analysis_1345d35b97990b07",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "曝",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "曝",
+    "groups": {
+      "shape": [
+        {
+          "char": "暴",
+          "why": "字形或部件相近",
+          "difference": "比較「曝」與「暴」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "爆",
+          "why": "字形或部件相近",
+          "difference": "比較「曝」與「爆」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "瀑",
+          "why": "字形或部件相近",
+          "difference": "比較「曝」與「瀑」的部首、外框和關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [
+        {
+          "char": "曝",
+          "why": "常用語詞是「曝曬」",
+          "difference": "放在陽光下曬。"
+        }
+      ],
+      "component": [
+        {
+          "char": "日",
+          "why": "組字提示",
+          "difference": "辨認部件「日」在字中的位置。"
+        },
+        {
+          "char": "暴",
+          "why": "組字提示",
+          "difference": "辨認部件「暴」在字中的位置。"
+        }
+      ]
+    },
+    "tip": "日字旁加暴，表示放在太陽下曝曬。"
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

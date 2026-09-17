@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第1課_memory_strategy_d1bed39d15f834e1",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "塵",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "塵",
+    "components": [
+      "鹿",
+      "土"
+    ],
+    "association": "把「塵」和「灰塵」連在一起記。",
+    "mnemonic": "鹿走在土上，揚起灰塵。",
+    "visualPrompt": "畫出「灰塵」的簡單情境，標出「塵」。",
+    "teachingTip": "先看部件、口說語詞，再遮住生字默寫。"
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

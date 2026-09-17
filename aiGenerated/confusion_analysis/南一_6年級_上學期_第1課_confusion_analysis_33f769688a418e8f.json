@@ -1,0 +1,58 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第1課_confusion_analysis_33f769688a418e8f",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "涉",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "涉",
+    "groups": {
+      "shape": [
+        {
+          "char": "步",
+          "why": "字形或部件相近",
+          "difference": "比較「涉」與「步」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "頻",
+          "why": "字形或部件相近",
+          "difference": "比較「涉」與「頻」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "歲",
+          "why": "字形或部件相近",
+          "difference": "比較「涉」與「歲」的部首、外框和關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [
+        {
+          "char": "涉",
+          "why": "常用語詞是「涉及」",
+          "difference": "牽連到或關係到。"
+        }
+      ],
+      "component": [
+        {
+          "char": "氵",
+          "why": "組字提示",
+          "difference": "辨認部件「氵」在字中的位置。"
+        },
+        {
+          "char": "步",
+          "why": "組字提示",
+          "difference": "辨認部件「步」在字中的位置。"
+        }
+      ]
+    },
+    "tip": "水旁加步，像一步步走過水面。"
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

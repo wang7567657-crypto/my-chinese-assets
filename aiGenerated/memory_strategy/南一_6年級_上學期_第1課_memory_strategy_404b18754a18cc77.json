@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第1課_memory_strategy_404b18754a18cc77",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "暈",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "暈",
+    "components": [
+      "日",
+      "冖",
+      "車"
+    ],
+    "association": "把「暈」和「暈眩」連在一起記。",
+    "mnemonic": "日下像有一輛車在轉，聯想到頭暈。",
+    "visualPrompt": "畫出「暈眩」的簡單情境，標出「暈」。",
+    "teachingTip": "先看部件、口說語詞，再遮住生字默寫。"
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

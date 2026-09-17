@@ -1,0 +1,63 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第1課_confusion_analysis_10b274e15fe5f091",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "霾",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "霾",
+    "groups": {
+      "shape": [
+        {
+          "char": "雷",
+          "why": "字形或部件相近",
+          "difference": "比較「霾」與「雷」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "雪",
+          "why": "字形或部件相近",
+          "difference": "比較「霾」與「雪」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "露",
+          "why": "字形或部件相近",
+          "difference": "比較「霾」與「露」的部首、外框和關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [
+        {
+          "char": "霾",
+          "why": "常用語詞是「霧霾」",
+          "difference": "空氣中懸浮微粒形成的混濁現象。"
+        }
+      ],
+      "component": [
+        {
+          "char": "雨",
+          "why": "組字提示",
+          "difference": "辨認部件「雨」在字中的位置。"
+        },
+        {
+          "char": "豸",
+          "why": "組字提示",
+          "difference": "辨認部件「豸」在字中的位置。"
+        },
+        {
+          "char": "里",
+          "why": "組字提示",
+          "difference": "辨認部件「里」在字中的位置。"
+        }
+      ]
+    },
+    "tip": "雨字頭下方筆畫密集，表示空氣灰濛濛。"
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

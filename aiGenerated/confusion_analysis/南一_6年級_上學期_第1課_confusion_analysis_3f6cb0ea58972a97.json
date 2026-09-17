@@ -1,0 +1,58 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第1課_confusion_analysis_3f6cb0ea58972a97",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "垢",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "垢",
+    "groups": {
+      "shape": [
+        {
+          "char": "坵",
+          "why": "字形或部件相近",
+          "difference": "比較「垢」與「坵」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "坷",
+          "why": "字形或部件相近",
+          "difference": "比較「垢」與「坷」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "坂",
+          "why": "字形或部件相近",
+          "difference": "比較「垢」與「坂」的部首、外框和關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [
+        {
+          "char": "垢",
+          "why": "常用語詞是「汙垢」",
+          "difference": "附著在物體上的髒東西。"
+        }
+      ],
+      "component": [
+        {
+          "char": "土",
+          "why": "組字提示",
+          "difference": "辨認部件「土」在字中的位置。"
+        },
+        {
+          "char": "后",
+          "why": "組字提示",
+          "difference": "辨認部件「后」在字中的位置。"
+        }
+      ]
+    },
+    "tip": "土字旁加上后，就是汙垢的垢。"
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

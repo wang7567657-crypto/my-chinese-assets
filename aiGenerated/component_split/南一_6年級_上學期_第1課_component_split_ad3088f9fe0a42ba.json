@@ -1,0 +1,67 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_6年級_上學期_第1課_component_split_ad3088f9fe0a42ba",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "鳳",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true
+  },
+  "data": {
+    "split": [
+      11,
+      3
+    ],
+    "components": [
+      "鳥",
+      "其餘部分"
+    ],
+    "strokeGroups": [
+      [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      [
+        1,
+        2,
+        3
+      ]
+    ],
+    "strokeCount": 14,
+    "structure": "半包圍",
+    "radical": "鳥",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "verified": true,
+    "source": "chatgpt_checked_radical_rest",
+    "note": "依已核對的正式部件字典產生。"
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

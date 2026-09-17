@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第1課_memory_strategy_0671f6f8dd4de29d",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "霾",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "霾",
+    "components": [
+      "雨",
+      "豸",
+      "里"
+    ],
+    "association": "把「霾」和「霧霾」連在一起記。",
+    "mnemonic": "雨字頭下方筆畫密集，表示空氣灰濛濛。",
+    "visualPrompt": "畫出「霧霾」的簡單情境，標出「霾」。",
+    "teachingTip": "先看部件、口說語詞，再遮住生字默寫。"
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}

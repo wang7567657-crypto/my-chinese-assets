@@ -1,0 +1,58 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第1課_confusion_analysis_8d49b7020494b2ac",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "跡",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "跡",
+    "groups": {
+      "shape": [
+        {
+          "char": "蹟",
+          "why": "字形或部件相近",
+          "difference": "比較「跡」與「蹟」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "亦",
+          "why": "字形或部件相近",
+          "difference": "比較「跡」與「亦」的部首、外框和關鍵筆畫。"
+        },
+        {
+          "char": "路",
+          "why": "字形或部件相近",
+          "difference": "比較「跡」與「路」的部首、外框和關鍵筆畫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [
+        {
+          "char": "跡",
+          "why": "常用語詞是「足跡」",
+          "difference": "走過後留下的痕跡。"
+        }
+      ],
+      "component": [
+        {
+          "char": "足",
+          "why": "組字提示",
+          "difference": "辨認部件「足」在字中的位置。"
+        },
+        {
+          "char": "亦",
+          "why": "組字提示",
+          "difference": "辨認部件「亦」在字中的位置。"
+        }
+      ]
+    },
+    "tip": "足字旁表示和腳走過的痕跡有關。"
+  },
+  "createdAt": "2026-09-17T15:54:11.675Z"
+}
