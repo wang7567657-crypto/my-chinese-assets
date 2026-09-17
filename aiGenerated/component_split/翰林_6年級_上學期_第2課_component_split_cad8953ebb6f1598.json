@@ -1,35 +1,55 @@
 {
   "taskType": "component_split",
   "requestId": "翰林_6年級_上學期_第2課_component_split_cad8953ebb6f1598",
-  "version": "1.0",
+  "version": "1.1",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
-    "char": "寞",
-    "grade": "6年級",
-    "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。",
-    "lesson": "第2課",
     "publisher": "翰林",
+    "grade": "6年級",
     "semester": "上學期",
+    "lesson": "第2課",
+    "char": "寞",
     "strokeCount": 15,
-    "strokeSource": "c9s/zh-stroke-data"
+    "strokeSource": "c9s/zh-stroke-data",
+    "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。"
   },
   "data": {
-    "verified": false,
-    "structure": "上下",
-    "split": [],
     "components": [
       "宀",
       "莫"
     ],
-    "strokeCount": 15,
-    "reviewReason": "source_duplicate_strokes",
-    "note": "來源第6筆與第8筆皆在草頭右側同一橫畫位置，軌跡高度重疊，疑似重複Stroke。需先校正來源，不把15個節點直接當成已驗證筆畫。",
+    "note": "去除來源第8筆重複橫畫後為14畫；宀第1–3筆，莫第4–14筆。",
+    "radical": "宀",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "radicalVerified": true,
     "source": "c9s_strokes_reviewed",
+    "split": [
+      3,
+      11
+    ],
+    "strokeAssetPath": "strokes/5bde.xml",
+    "strokeAssetVersion": "radical-rest-v1",
+    "strokeCount": 14,
+    "structure": "上下",
     "verification": {
-      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5bde.xml",
+      "correctedCount": 14,
+      "method": "核對原始輪廓與軌跡、完整字與缺部件渲染，分成部首和其餘部分。",
+      "originalBlobSha": "4cc1403c2eb0fa932936229d159767dc8f809d03",
+      "originalCount": 15,
+      "reason": "原第8筆重覆草頭右側原第6筆，保留其餘14筆。",
+      "removedOriginalStrokeIndices": [
+        8
+      ],
       "sourceBlobSha": "4cc1403c2eb0fa932936229d159767dc8f809d03",
-      "method": "逐筆核對Track與Outline，並渲染分色圖檢查分組及重複筆畫。"
-    }
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5bde.xml"
+    },
+    "verified": true
   },
-  "createdAt": "2026-09-17T13:07:36.581Z"
+  "updatedAt": "2026-09-17T13:53:47.126Z",
+  "requiresSiteVersion": 18
 }
