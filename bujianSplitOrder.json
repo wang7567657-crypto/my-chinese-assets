@@ -655,6 +655,184 @@
         "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6182.xml"
       },
       "verified": true
+    },
+    "蚊": {
+      "components": [
+        "虫",
+        "文"
+      ],
+      "radical": "虫",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "split": [
+        6,
+        4
+      ],
+      "structure": "左右",
+      "strokeCount": 10,
+      "verified": true,
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "verification": {
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/868a.xml",
+        "sourceBlobSha": "fda5f8f90bb314cf494de41cb94099c2cb41db42",
+        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。"
+      },
+      "note": "部首「虫」對應筆畫：1、2、3、4、5、6。",
+      "updatedAt": "2026-09-17T13:37:45.768Z"
+    },
+    "划": {
+      "components": [
+        "戈",
+        "刂"
+      ],
+      "radical": "刀",
+      "radicalStrokeIndices": [
+        5,
+        6
+      ],
+      "split": [
+        4,
+        2
+      ],
+      "structure": "左右",
+      "strokeCount": 6,
+      "verified": true,
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "verification": {
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5212.xml",
+        "sourceBlobSha": "558d8a0a9d5f1af9129cb00958f0db9db900f849",
+        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。"
+      },
+      "note": "部首「刀」對應筆畫：5、6。",
+      "updatedAt": "2026-09-17T13:37:45.768Z"
+    },
+    "奧": {
+      "components": [
+        "上部（其餘部分）",
+        "大"
+      ],
+      "radical": "大",
+      "radicalStrokeIndices": [
+        11,
+        12,
+        13
+      ],
+      "split": [
+        10,
+        3
+      ],
+      "structure": "上下",
+      "strokeCount": 13,
+      "verified": true,
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "verification": {
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5967.xml",
+        "sourceBlobSha": "228523206a52480ee32479a28a33232b63d4843e",
+        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。"
+      },
+      "note": "上部十筆為其餘部分，不另猜稱部件；下方大部為第11–13筆。",
+      "updatedAt": "2026-09-17T13:37:45.769Z"
+    },
+    "仿": {
+      "components": [
+        "亻",
+        "方"
+      ],
+      "radical": "人",
+      "radicalStrokeIndices": [
+        1,
+        2
+      ],
+      "split": [
+        2,
+        4
+      ],
+      "structure": "左右",
+      "strokeCount": 6,
+      "verified": true,
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "verification": {
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/4eff.xml",
+        "sourceBlobSha": "1b2616fca44ed9d5dff1adab3cfbd402e3995762",
+        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。"
+      },
+      "note": "部首「人」對應筆畫：1、2。",
+      "updatedAt": "2026-09-17T13:37:45.770Z"
+    },
+    "迫": {
+      "components": [
+        "白",
+        "辶"
+      ],
+      "radical": "辵",
+      "radicalStrokeIndices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "split": [
+        5,
+        4
+      ],
+      "structure": "左下包圍",
+      "strokeCount": 9,
+      "verified": true,
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "verification": {
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/8feb.xml",
+        "sourceBlobSha": "2a0032ab7a8254844647bfa692dbbad9da8d001c",
+        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。"
+      },
+      "note": "部首「辵」對應筆畫：6、7、8、9。",
+      "updatedAt": "2026-09-17T13:37:45.770Z"
+    },
+    "鰭": {
+      "components": [
+        "魚",
+        "耆"
+      ],
+      "radical": "魚",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "split": [
+        11,
+        10
+      ],
+      "structure": "左右",
+      "strokeCount": 21,
+      "verified": true,
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "verification": {
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/9c2d.xml",
+        "sourceBlobSha": "71ff0cbafcc513850c813ade3aba40c253826df9",
+        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。"
+      },
+      "note": "部首「魚」對應筆畫：1、2、3、4、5、6、7、8、9、10、11。",
+      "updatedAt": "2026-09-17T13:37:45.770Z"
     }
   }
 }
