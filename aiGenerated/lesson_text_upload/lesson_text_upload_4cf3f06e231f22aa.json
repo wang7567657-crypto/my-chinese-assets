@@ -2,7 +2,7 @@
   "taskType": "lesson_text_upload",
   "requestId": "lesson_text_upload_4cf3f06e231f22aa",
   "version": "1.0",
-  "status": "pending",
+  "source": "chatgpt",
   "input": {
     "publisher": "康軒",
     "grade": "5年級",
@@ -15,5 +15,12 @@
     "overwrite": true,
     "instruction": "核對版本、年級、學期、課次與檔名一致後，將 title 與 text 寫入指定 lessonText JSON；推送並確認可讀取後，再將待辦移至 done。"
   },
-  "createdAt": "2026-09-17T15:16:49.356Z"
+  "data": {
+    "status": "done",
+    "targetPath": "lessonText/康軒_5年級_上學期_第1課.json",
+    "lesson": "第1課",
+    "corrected": false,
+    "note": "版本、年級、學期、課次與檔名已核對。"
+  },
+  "createdAt": "2026-09-17T15:50:48.421Z"
 }
