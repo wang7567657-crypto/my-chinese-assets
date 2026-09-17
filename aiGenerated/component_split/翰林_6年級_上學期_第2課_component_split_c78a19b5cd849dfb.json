@@ -1,0 +1,41 @@
+{
+  "taskType": "component_split",
+  "requestId": "翰林_6年級_上學期_第2課_component_split_c78a19b5cd849dfb",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "char": "憂",
+    "grade": "6年級",
+    "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。",
+    "lesson": "第2課",
+    "publisher": "翰林",
+    "semester": "上學期",
+    "strokeCount": 15,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "verified": true,
+    "structure": "上下",
+    "split": [
+      6,
+      2,
+      4,
+      3
+    ],
+    "components": [
+      "上部六筆字形",
+      "冖",
+      "心",
+      "夂"
+    ],
+    "strokeCount": 15,
+    "note": "按實際連續筆順分區：上部六筆並非完整的「頁」字，不把它誤教為頁；第7–8筆為冖，第9–12筆為心，第13–15筆為夂。",
+    "source": "c9s_strokes_reviewed",
+    "verification": {
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6182.xml",
+      "sourceBlobSha": "b8beeca5e99062ae15cafdf29379e8365c0c0283",
+      "method": "逐筆核對Track與Outline，並渲染分色圖檢查分組及重複筆畫。"
+    }
+  },
+  "createdAt": "2026-09-17T13:07:36.581Z"
+}
