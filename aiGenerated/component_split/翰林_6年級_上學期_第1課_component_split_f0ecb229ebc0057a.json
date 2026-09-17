@@ -9,19 +9,46 @@
     "semester": "上學期",
     "lesson": "第1課",
     "char": "蝶",
-    "strokeCount": 17,
-    "strokeSource": "c9s/zh-stroke-data"
+    "strokeCount": 15,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": false
   },
   "data": {
-    "structure": "左右",
-    "split": [],
+    "structure": "左右（右部上下）",
+    "split": [
+      6,
+      5,
+      4
+    ],
     "components": [
       "虫",
-      "枼"
+      "世",
+      "木"
     ],
-    "strokeCount": 17,
-    "verified": false,
-    "note": "目前輸入的17畫與常見部件拆分筆畫數無法一致驗證，為避免教錯暫不寫入正式部件字典。"
+    "strokeCount": 15,
+    "verified": true,
+    "source": "c9s_strokes_reviewed",
+    "verification": {
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/8776.xml",
+      "sourceBlobSha": "f2e173123807fb19441f09e3a845bdb225f34d6a",
+      "strokeRanges": [
+        [
+          1,
+          6
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          12,
+          15
+        ]
+      ],
+      "method": "核對15個Stroke節點的輪廓與軌跡，並以三色實際渲染確認連續分組。"
+    },
+    "note": "第1–6筆為虫；第7–11筆為世；第12–15筆為木。6+5+4=15。舊結果的17畫為錯誤，已更正。"
   },
-  "createdAt": "2026-09-03T16:20:00.000Z"
+  "createdAt": "2026-09-03T16:20:00.000Z",
+  "updatedAt": "2026-09-17T12:54:39.614Z"
 }
