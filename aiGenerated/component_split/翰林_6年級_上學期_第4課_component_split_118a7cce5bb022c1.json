@@ -2,27 +2,51 @@
   "taskType": "component_split",
   "requestId": "翰林_6年級_上學期_第4課_component_split_118a7cce5bb022c1",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
-    "publisher": "翰林",
-    "grade": "6年級",
-    "semester": "上學期",
-    "lesson": "第4課",
+    "canonicalRequestId": "翰林_6年級_上學期_第4課_component_split_118a7cce5bb022c1",
     "char": "蚊",
-    "strokeCount": null,
-    "strokeSource": "c9s/zh-stroke-data",
-    "needsStrokeCount": true
+    "grade": "6年級",
+    "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。",
+    "lesson": "第4課",
+    "publisher": "翰林",
+    "reviewOf": "翰林_6年級_上學期_第4課_component_split_118a7cce5bb022c1",
+    "reviewReason": "既有結果未通過驗證或筆畫數不符；請核對實際筆順並同步正式部件字典。",
+    "semester": "上學期",
+    "strokeCount": 10,
+    "strokeSource": "c9s/zh-stroke-data"
   },
   "data": {
-    "structure": "",
-    "split": [],
     "components": [
       "虫",
       "文"
     ],
-    "strokeCount": null,
-    "verified": false,
-    "note": "尚未取得 c9s 實際筆畫數與筆順序列，暫不驗證。"
+    "note": "部首「虫」對應筆畫：1、2、3、4、5、6。",
+    "radical": "虫",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "radicalVerified": true,
+    "source": "c9s_strokes_reviewed",
+    "split": [
+      6,
+      4
+    ],
+    "strokeCount": 10,
+    "structure": "左右",
+    "updatedAt": "2026-09-17T13:37:45.768Z",
+    "verification": {
+      "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。",
+      "sourceBlobSha": "fda5f8f90bb314cf494de41cb94099c2cb41db42",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/868a.xml"
+    },
+    "verified": true
   },
-  "createdAt": "2026-09-04T02:08:00.000Z"
+  "updatedAt": "2026-09-17T13:38:04.821Z"
 }
