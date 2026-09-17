@@ -13,5 +13,9 @@
     "strokeSource": "c9s/zh-stroke-data",
     "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。"
   },
-  "createdAt": "2026-09-17T13:05:10.594Z"
+  "createdAt": "2026-09-17T13:05:10.594Z",
+  "reviewStatus": "blocked",
+  "reviewedAt": "2026-09-17T13:08:09.715Z",
+  "reviewReason": "source_duplicate_strokes",
+  "reviewNote": "來源有18個Stroke節點；第16–18筆軌跡與第12–14筆心部軌跡高度重疊，屬來源資料異常。保留未驗證，需先校正筆順來源，不能把18個節點當成18畫教學。"
 }
