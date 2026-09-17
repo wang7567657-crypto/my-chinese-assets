@@ -1,838 +1,86 @@
 {
-  "version": "1.0",
-  "description": "陽光智慧黑板部件拆分字典。只有 verified=true 的資料可用於教學分色與部件拼貼。",
   "chars": {
-    "皺": {
-      "split": [
-        10,
-        5
-      ],
-      "components": [
-        "芻",
-        "皮"
-      ],
-      "strokeCount": 15,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "晃": {
-      "split": [
-        4,
-        6
-      ],
-      "components": [
-        "日",
-        "光"
-      ],
-      "strokeCount": 10,
-      "structure": "上下",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "蝴": {
-      "split": [
-        6,
-        5,
-        4
-      ],
-      "components": [
-        "虫",
-        "古",
-        "月"
-      ],
-      "strokeCount": 15,
-      "structure": "左中右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "弄": {
-      "split": [
-        4,
-        3
-      ],
-      "components": [
-        "王",
-        "廾"
-      ],
-      "strokeCount": 7,
-      "structure": "上下",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "註": {
-      "split": [
-        7,
-        5
-      ],
-      "components": [
-        "言",
-        "主"
-      ],
-      "strokeCount": 12,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "儲": {
-      "split": [
-        2,
-        7,
-        8
-      ],
-      "components": [
-        "亻",
-        "言",
-        "者"
-      ],
-      "strokeCount": 17,
-      "structure": "左中右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "翼": {
-      "split": [
-        6,
-        5,
-        6
-      ],
-      "components": [
-        "羽",
-        "田",
-        "共"
-      ],
-      "strokeCount": 17,
-      "structure": "上下",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "摯": {
-      "split": [
-        8,
-        3,
-        4
-      ],
-      "components": [
-        "幸",
-        "丸",
-        "手"
-      ],
-      "strokeCount": 15,
-      "structure": "上下",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "眶": {
-      "split": [
-        5,
-        6
-      ],
-      "components": [
-        "目",
-        "匡"
-      ],
-      "strokeCount": 11,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "盼": {
-      "split": [
-        5,
-        4
-      ],
-      "components": [
-        "目",
-        "分"
-      ],
-      "strokeCount": 9,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "慨": {
-      "split": [
-        3,
-        9
-      ],
-      "components": [
-        "忄",
-        "既"
-      ],
-      "strokeCount": 12,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "慘": {
-      "split": [
-        3,
-        11
-      ],
-      "components": [
-        "忄",
-        "參"
-      ],
-      "strokeCount": 14,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "執": {
-      "split": [
-        8,
-        3
-      ],
-      "components": [
-        "幸",
-        "丸"
-      ],
-      "strokeCount": 11,
-      "structure": "上下",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "辯": {
-      "split": [
-        7,
-        7,
-        7
-      ],
-      "components": [
-        "辛",
-        "言",
-        "辛"
-      ],
-      "strokeCount": 21,
-      "structure": "左中右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "稚": {
-      "split": [
-        5,
-        8
-      ],
-      "components": [
-        "禾",
-        "隹"
-      ],
-      "strokeCount": 13,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "胎": {
-      "split": [
-        4,
-        5
-      ],
-      "components": [
-        "月",
-        "台"
-      ],
-      "strokeCount": 9,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "憤": {
-      "split": [
-        3,
-        12
-      ],
-      "components": [
-        "忄",
-        "賁"
-      ],
-      "strokeCount": 15,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "狠": {
-      "split": [
-        3,
-        6
-      ],
-      "components": [
-        "犭",
-        "艮"
-      ],
-      "strokeCount": 9,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "暈": {
-      "split": [
-        4,
-        2,
-        7
-      ],
-      "components": [
-        "日",
-        "冖",
-        "車"
-      ],
-      "strokeCount": 13,
-      "structure": "上下",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "胞": {
-      "split": [
-        4,
-        5
-      ],
-      "components": [
-        "月",
-        "包"
-      ],
-      "strokeCount": 9,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "涕": {
-      "split": [
-        3,
-        7
-      ],
-      "components": [
-        "氵",
-        "弟"
-      ],
-      "strokeCount": 10,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "婆": {
-      "split": [
-        8,
-        3
-      ],
-      "components": [
-        "波",
-        "女"
-      ],
-      "strokeCount": 11,
-      "structure": "上下",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "慧": {
-      "split": [
-        11,
-        4
-      ],
-      "components": [
-        "彗",
-        "心"
-      ],
-      "strokeCount": 15,
-      "structure": "上下",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "曰": {
-      "split": [
-        4
-      ],
-      "components": [
-        "曰"
-      ],
-      "strokeCount": 4,
-      "structure": "獨體",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "矣": {
-      "split": [
-        2,
-        5
-      ],
-      "components": [
-        "厶",
-        "矢"
-      ],
-      "strokeCount": 7,
-      "structure": "上下",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "鍊": {
-      "split": [
-        8,
-        9
-      ],
-      "components": [
-        "金",
-        "柬"
-      ],
-      "strokeCount": 17,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "辨": {
-      "split": [
-        7,
-        2,
-        7
-      ],
-      "components": [
-        "辛",
-        "刀",
-        "辛"
-      ],
-      "strokeCount": 16,
-      "structure": "左中右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "杏": {
-      "split": [
-        4,
-        3
-      ],
-      "components": [
-        "木",
-        "口"
-      ],
-      "strokeCount": 7,
-      "structure": "上下",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "舊": {
-      "split": [
-        4,
-        8,
-        6
-      ],
-      "components": [
-        "艹",
-        "隹",
-        "臼"
-      ],
-      "strokeCount": 18,
-      "structure": "上下",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "徒": {
-      "split": [
-        3,
-        7
-      ],
-      "components": [
-        "彳",
-        "走"
-      ],
-      "strokeCount": 10,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "撫": {
-      "split": [
-        3,
-        12
-      ],
-      "components": [
-        "扌",
-        "無"
-      ],
-      "strokeCount": 15,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "娑": {
-      "split": [
-        7,
-        3
-      ],
-      "components": [
-        "沙",
-        "女"
-      ],
-      "strokeCount": 10,
-      "structure": "上下",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "壇": {
-      "split": [
-        3,
-        13
-      ],
-      "components": [
-        "土",
-        "亶"
-      ],
-      "strokeCount": 16,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "惕": {
-      "split": [
-        3,
-        8
-      ],
-      "components": [
-        "忄",
-        "易"
-      ],
-      "strokeCount": 11,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "鏘": {
-      "split": [
-        8,
-        11
-      ],
-      "components": [
-        "金",
-        "將"
-      ],
-      "strokeCount": 19,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "鏗": {
-      "split": [
-        8,
-        11
-      ],
-      "components": [
-        "金",
-        "堅"
-      ],
-      "strokeCount": 19,
-      "structure": "左右",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "警": {
-      "split": [
-        13,
-        7
-      ],
-      "components": [
-        "敬",
-        "言"
-      ],
-      "strokeCount": 20,
-      "structure": "上下",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
     "亦": {
-      "split": [
-        6
-      ],
       "components": [
         "亦"
       ],
+      "source": "chatgpt_checked",
+      "split": [
+        6
+      ],
       "strokeCount": 6,
       "structure": "獨體",
-      "verified": true,
-      "source": "chatgpt_checked"
-    },
-    "蝶": {
-      "structure": "左右（右部上下）",
-      "split": [
-        6,
-        5,
-        4
-      ],
-      "components": [
-        "虫",
-        "世",
-        "木"
-      ],
-      "strokeCount": 15,
-      "verified": true,
-      "source": "c9s_strokes_reviewed",
-      "verification": {
-        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/8776.xml",
-        "sourceBlobSha": "f2e173123807fb19441f09e3a845bdb225f34d6a",
-        "strokeRanges": [
-          [
-            1,
-            6
-          ],
-          [
-            7,
-            11
-          ],
-          [
-            12,
-            15
-          ]
-        ],
-        "method": "核對15個Stroke節點的輪廓與軌跡，並以三色實際渲染確認連續分組。"
-      },
-      "note": "第1–6筆為虫；第7–11筆為世；第12–15筆為木。6+5+4=15。舊結果的17畫為錯誤，已更正。"
-    },
-    "蛹": {
-      "structure": "左右",
-      "split": [
-        6,
-        7
-      ],
-      "components": [
-        "虫",
-        "甬"
-      ],
-      "strokeCount": 13,
-      "verified": true,
-      "source": "c9s_strokes_reviewed",
-      "verification": {
-        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/86f9.xml",
-        "sourceBlobSha": "8a4de400fc1d8aa311aba509d0669fe8ca2f8828",
-        "strokeRanges": [
-          [
-            1,
-            6
-          ],
-          [
-            7,
-            13
-          ]
-        ],
-        "method": "核對13個Stroke節點的輪廓與軌跡，並以雙色實際渲染確認虫、甬連續分組。"
-      },
-      "note": "第1–6筆為虫，第7–13筆為甬；6+7=13。"
-    },
-    "郵": {
-      "components": [
-        "垂",
-        "阝（邑部）"
-      ],
-      "note": "依目前臺灣筆順來源，第1–9筆為垂，第10–12筆為右耳旁。",
-      "source": "c9s_strokes_reviewed",
-      "split": [
-        9,
-        3
-      ],
-      "strokeCount": 12,
-      "structure": "左右",
-      "verification": {
-        "method": "逐筆核對Track與Outline，並渲染分色圖檢查分組及重複筆畫。",
-        "sourceBlobSha": "26bdb54fe7f302d32d0a2884a130e8ac2f21fa79",
-        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/90f5.xml"
-      },
       "verified": true
-    },
-    "憂": {
-      "components": [
-        "上部六筆字形",
-        "冖",
-        "心",
-        "夂"
-      ],
-      "note": "按實際連續筆順分區：上部六筆並非完整的「頁」字，不把它誤教為頁；第7–8筆為冖，第9–12筆為心，第13–15筆為夂。",
-      "source": "c9s_strokes_reviewed",
-      "split": [
-        6,
-        2,
-        4,
-        3
-      ],
-      "strokeCount": 15,
-      "structure": "上下",
-      "verification": {
-        "method": "逐筆核對Track與Outline，並渲染分色圖檢查分組及重複筆畫。",
-        "sourceBlobSha": "b8beeca5e99062ae15cafdf29379e8365c0c0283",
-        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6182.xml"
-      },
-      "verified": true
-    },
-    "蚊": {
-      "components": [
-        "虫",
-        "文"
-      ],
-      "radical": "虫",
-      "radicalStrokeIndices": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6
-      ],
-      "split": [
-        6,
-        4
-      ],
-      "structure": "左右",
-      "strokeCount": 10,
-      "verified": true,
-      "radicalVerified": true,
-      "source": "c9s_strokes_reviewed",
-      "verification": {
-        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/868a.xml",
-        "sourceBlobSha": "fda5f8f90bb314cf494de41cb94099c2cb41db42",
-        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。"
-      },
-      "note": "部首「虫」對應筆畫：1、2、3、4、5、6。",
-      "updatedAt": "2026-09-17T13:37:45.768Z"
-    },
-    "划": {
-      "components": [
-        "戈",
-        "刂"
-      ],
-      "radical": "刀",
-      "radicalStrokeIndices": [
-        5,
-        6
-      ],
-      "split": [
-        4,
-        2
-      ],
-      "structure": "左右",
-      "strokeCount": 6,
-      "verified": true,
-      "radicalVerified": true,
-      "source": "c9s_strokes_reviewed",
-      "verification": {
-        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5212.xml",
-        "sourceBlobSha": "558d8a0a9d5f1af9129cb00958f0db9db900f849",
-        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。"
-      },
-      "note": "部首「刀」對應筆畫：5、6。",
-      "updatedAt": "2026-09-17T13:37:45.768Z"
-    },
-    "奧": {
-      "components": [
-        "上部（其餘部分）",
-        "大"
-      ],
-      "radical": "大",
-      "radicalStrokeIndices": [
-        11,
-        12,
-        13
-      ],
-      "split": [
-        10,
-        3
-      ],
-      "structure": "上下",
-      "strokeCount": 13,
-      "verified": true,
-      "radicalVerified": true,
-      "source": "c9s_strokes_reviewed",
-      "verification": {
-        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5967.xml",
-        "sourceBlobSha": "228523206a52480ee32479a28a33232b63d4843e",
-        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。"
-      },
-      "note": "上部十筆為其餘部分，不另猜稱部件；下方大部為第11–13筆。",
-      "updatedAt": "2026-09-17T13:37:45.769Z"
     },
     "仿": {
       "components": [
         "亻",
         "方"
       ],
+      "note": "部首「人」對應筆畫：1、2。",
       "radical": "人",
       "radicalStrokeIndices": [
         1,
         2
       ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
       "split": [
         2,
         4
       ],
-      "structure": "左右",
       "strokeCount": 6,
-      "verified": true,
-      "radicalVerified": true,
-      "source": "c9s_strokes_reviewed",
-      "verification": {
-        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/4eff.xml",
-        "sourceBlobSha": "1b2616fca44ed9d5dff1adab3cfbd402e3995762",
-        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。"
-      },
-      "note": "部首「人」對應筆畫：1、2。",
-      "updatedAt": "2026-09-17T13:37:45.770Z"
-    },
-    "迫": {
-      "components": [
-        "白",
-        "辶"
-      ],
-      "radical": "辵",
-      "radicalStrokeIndices": [
-        6,
-        7,
-        8,
-        9
-      ],
-      "split": [
-        5,
-        4
-      ],
-      "structure": "左下包圍",
-      "strokeCount": 9,
-      "verified": true,
-      "radicalVerified": true,
-      "source": "c9s_strokes_reviewed",
-      "verification": {
-        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/8feb.xml",
-        "sourceBlobSha": "2a0032ab7a8254844647bfa692dbbad9da8d001c",
-        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。"
-      },
-      "note": "部首「辵」對應筆畫：6、7、8、9。",
-      "updatedAt": "2026-09-17T13:37:45.770Z"
-    },
-    "鰭": {
-      "components": [
-        "魚",
-        "耆"
-      ],
-      "radical": "魚",
-      "radicalStrokeIndices": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
-      "split": [
-        11,
-        10
-      ],
       "structure": "左右",
-      "strokeCount": 21,
-      "verified": true,
+      "updatedAt": "2026-09-17T13:37:45.770Z",
+      "verification": {
+        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。",
+        "sourceBlobSha": "1b2616fca44ed9d5dff1adab3cfbd402e3995762",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/4eff.xml"
+      },
+      "verified": true
+    },
+    "儲": {
+      "components": [
+        "亻",
+        "言",
+        "者"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        2,
+        7,
+        8
+      ],
+      "strokeCount": 17,
+      "structure": "左中右",
+      "verified": true
+    },
+    "划": {
+      "components": [
+        "戈",
+        "刂"
+      ],
+      "note": "部首「刀」對應筆畫：5、6。",
+      "radical": "刀",
+      "radicalStrokeIndices": [
+        5,
+        6
+      ],
       "radicalVerified": true,
       "source": "c9s_strokes_reviewed",
+      "split": [
+        4,
+        2
+      ],
+      "strokeCount": 6,
+      "structure": "左右",
+      "updatedAt": "2026-09-17T13:37:45.768Z",
       "verification": {
-        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/9c2d.xml",
-        "sourceBlobSha": "71ff0cbafcc513850c813ade3aba40c253826df9",
-        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。"
+        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。",
+        "sourceBlobSha": "558d8a0a9d5f1af9129cb00958f0db9db900f849",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5212.xml"
       },
-      "note": "部首「魚」對應筆畫：1、2、3、4、5、6、7、8、9、10、11。",
-      "updatedAt": "2026-09-17T13:37:45.770Z"
+      "verified": true
     },
     "固": {
       "components": [
@@ -871,6 +119,90 @@
       },
       "verified": true
     },
+    "執": {
+      "components": [
+        "幸",
+        "丸"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        8,
+        3
+      ],
+      "strokeCount": 11,
+      "structure": "上下",
+      "verified": true
+    },
+    "壇": {
+      "components": [
+        "土",
+        "亶"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3,
+        13
+      ],
+      "strokeCount": 16,
+      "structure": "左右",
+      "verified": true
+    },
+    "奧": {
+      "components": [
+        "上部（其餘部分）",
+        "大"
+      ],
+      "note": "上部十筆為其餘部分，不另猜稱部件；下方大部為第11–13筆。",
+      "radical": "大",
+      "radicalStrokeIndices": [
+        11,
+        12,
+        13
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        10,
+        3
+      ],
+      "strokeCount": 13,
+      "structure": "上下",
+      "updatedAt": "2026-09-17T13:37:45.769Z",
+      "verification": {
+        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。",
+        "sourceBlobSha": "228523206a52480ee32479a28a33232b63d4843e",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5967.xml"
+      },
+      "verified": true
+    },
+    "娑": {
+      "components": [
+        "沙",
+        "女"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        7,
+        3
+      ],
+      "strokeCount": 10,
+      "structure": "上下",
+      "verified": true
+    },
+    "婆": {
+      "components": [
+        "波",
+        "女"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        8,
+        3
+      ],
+      "strokeCount": 11,
+      "structure": "上下",
+      "verified": true
+    },
     "寞": {
       "components": [
         "宀",
@@ -905,6 +237,90 @@
         "sourceBlobSha": "4cc1403c2eb0fa932936229d159767dc8f809d03",
         "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5bde.xml"
       },
+      "verified": true
+    },
+    "弄": {
+      "components": [
+        "王",
+        "廾"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        4,
+        3
+      ],
+      "strokeCount": 7,
+      "structure": "上下",
+      "verified": true
+    },
+    "徒": {
+      "components": [
+        "彳",
+        "走"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3,
+        7
+      ],
+      "strokeCount": 10,
+      "structure": "左右",
+      "verified": true
+    },
+    "惕": {
+      "components": [
+        "忄",
+        "易"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3,
+        8
+      ],
+      "strokeCount": 11,
+      "structure": "左右",
+      "verified": true
+    },
+    "慘": {
+      "components": [
+        "忄",
+        "參"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3,
+        11
+      ],
+      "strokeCount": 14,
+      "structure": "左右",
+      "verified": true
+    },
+    "慧": {
+      "components": [
+        "彗",
+        "心"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        11,
+        4
+      ],
+      "strokeCount": 15,
+      "structure": "上下",
+      "verified": true
+    },
+    "慨": {
+      "components": [
+        "忄",
+        "既"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3,
+        9
+      ],
+      "strokeCount": 12,
+      "structure": "左右",
       "verified": true
     },
     "慰": {
@@ -945,6 +361,2042 @@
         "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6170.xml"
       },
       "verified": true
+    },
+    "憂": {
+      "components": [
+        "上部六筆字形",
+        "冖",
+        "心",
+        "夂"
+      ],
+      "note": "按實際連續筆順分區：上部六筆並非完整的「頁」字，不把它誤教為頁；第7–8筆為冖，第9–12筆為心，第13–15筆為夂。",
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        6,
+        2,
+        4,
+        3
+      ],
+      "strokeCount": 15,
+      "structure": "上下",
+      "verification": {
+        "method": "逐筆核對Track與Outline，並渲染分色圖檢查分組及重複筆畫。",
+        "sourceBlobSha": "b8beeca5e99062ae15cafdf29379e8365c0c0283",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6182.xml"
+      },
+      "verified": true
+    },
+    "憤": {
+      "components": [
+        "忄",
+        "賁"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3,
+        12
+      ],
+      "strokeCount": 15,
+      "structure": "左右",
+      "verified": true
+    },
+    "摯": {
+      "components": [
+        "幸",
+        "丸",
+        "手"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        8,
+        3,
+        4
+      ],
+      "strokeCount": 15,
+      "structure": "上下",
+      "verified": true
+    },
+    "撫": {
+      "components": [
+        "扌",
+        "無"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3,
+        12
+      ],
+      "strokeCount": 15,
+      "structure": "左右",
+      "verified": true
+    },
+    "晃": {
+      "components": [
+        "日",
+        "光"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        4,
+        6
+      ],
+      "strokeCount": 10,
+      "structure": "上下",
+      "verified": true
+    },
+    "暈": {
+      "components": [
+        "日",
+        "冖",
+        "車"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        4,
+        2,
+        7
+      ],
+      "strokeCount": 13,
+      "structure": "上下",
+      "verified": true
+    },
+    "曰": {
+      "components": [
+        "曰"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        4
+      ],
+      "strokeCount": 4,
+      "structure": "獨體",
+      "verified": true
+    },
+    "杏": {
+      "components": [
+        "木",
+        "口"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        4,
+        3
+      ],
+      "strokeCount": 7,
+      "structure": "上下",
+      "verified": true
+    },
+    "涕": {
+      "components": [
+        "氵",
+        "弟"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3,
+        7
+      ],
+      "strokeCount": 10,
+      "structure": "左右",
+      "verified": true
+    },
+    "狠": {
+      "components": [
+        "犭",
+        "艮"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3,
+        6
+      ],
+      "strokeCount": 9,
+      "structure": "左右",
+      "verified": true
+    },
+    "皺": {
+      "components": [
+        "芻",
+        "皮"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        10,
+        5
+      ],
+      "strokeCount": 15,
+      "structure": "左右",
+      "verified": true
+    },
+    "盼": {
+      "components": [
+        "目",
+        "分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        5,
+        4
+      ],
+      "strokeCount": 9,
+      "structure": "左右",
+      "verified": true
+    },
+    "眶": {
+      "components": [
+        "目",
+        "匡"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        5,
+        6
+      ],
+      "strokeCount": 11,
+      "structure": "左右",
+      "verified": true
+    },
+    "矣": {
+      "components": [
+        "厶",
+        "矢"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        2,
+        5
+      ],
+      "strokeCount": 7,
+      "structure": "上下",
+      "verified": true
+    },
+    "稚": {
+      "components": [
+        "禾",
+        "隹"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        5,
+        8
+      ],
+      "strokeCount": 13,
+      "structure": "左右",
+      "verified": true
+    },
+    "翼": {
+      "components": [
+        "羽",
+        "田",
+        "共"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        6,
+        5,
+        6
+      ],
+      "strokeCount": 17,
+      "structure": "上下",
+      "verified": true
+    },
+    "胎": {
+      "components": [
+        "月",
+        "台"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        4,
+        5
+      ],
+      "strokeCount": 9,
+      "structure": "左右",
+      "verified": true
+    },
+    "胞": {
+      "components": [
+        "月",
+        "包"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        4,
+        5
+      ],
+      "strokeCount": 9,
+      "structure": "左右",
+      "verified": true
+    },
+    "舊": {
+      "components": [
+        "艹",
+        "隹",
+        "臼"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        4,
+        8,
+        6
+      ],
+      "strokeCount": 18,
+      "structure": "上下",
+      "verified": true
+    },
+    "蚊": {
+      "components": [
+        "虫",
+        "文"
+      ],
+      "note": "部首「虫」對應筆畫：1、2、3、4、5、6。",
+      "radical": "虫",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        6,
+        4
+      ],
+      "strokeCount": 10,
+      "structure": "左右",
+      "updatedAt": "2026-09-17T13:37:45.768Z",
+      "verification": {
+        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。",
+        "sourceBlobSha": "fda5f8f90bb314cf494de41cb94099c2cb41db42",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/868a.xml"
+      },
+      "verified": true
+    },
+    "蛹": {
+      "components": [
+        "虫",
+        "甬"
+      ],
+      "note": "第1–6筆為虫，第7–13筆為甬；6+7=13。",
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        6,
+        7
+      ],
+      "strokeCount": 13,
+      "structure": "左右",
+      "verification": {
+        "method": "核對13個Stroke節點的輪廓與軌跡，並以雙色實際渲染確認虫、甬連續分組。",
+        "sourceBlobSha": "8a4de400fc1d8aa311aba509d0669fe8ca2f8828",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/86f9.xml",
+        "strokeRanges": [
+          [
+            1,
+            6
+          ],
+          [
+            7,
+            13
+          ]
+        ]
+      },
+      "verified": true
+    },
+    "蝴": {
+      "components": [
+        "虫",
+        "古",
+        "月"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        6,
+        5,
+        4
+      ],
+      "strokeCount": 15,
+      "structure": "左中右",
+      "verified": true
+    },
+    "蝶": {
+      "components": [
+        "虫",
+        "世",
+        "木"
+      ],
+      "note": "第1–6筆為虫；第7–11筆為世；第12–15筆為木。6+5+4=15。舊結果的17畫為錯誤，已更正。",
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        6,
+        5,
+        4
+      ],
+      "strokeCount": 15,
+      "structure": "左右（右部上下）",
+      "verification": {
+        "method": "核對15個Stroke節點的輪廓與軌跡，並以三色實際渲染確認連續分組。",
+        "sourceBlobSha": "f2e173123807fb19441f09e3a845bdb225f34d6a",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/8776.xml",
+        "strokeRanges": [
+          [
+            1,
+            6
+          ],
+          [
+            7,
+            11
+          ],
+          [
+            12,
+            15
+          ]
+        ]
+      },
+      "verified": true
+    },
+    "註": {
+      "components": [
+        "言",
+        "主"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        7,
+        5
+      ],
+      "strokeCount": 12,
+      "structure": "左右",
+      "verified": true
+    },
+    "警": {
+      "components": [
+        "敬",
+        "言"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        13,
+        7
+      ],
+      "strokeCount": 20,
+      "structure": "上下",
+      "verified": true
+    },
+    "辨": {
+      "components": [
+        "辛",
+        "刀",
+        "辛"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        7,
+        2,
+        7
+      ],
+      "strokeCount": 16,
+      "structure": "左中右",
+      "verified": true
+    },
+    "辯": {
+      "components": [
+        "辛",
+        "言",
+        "辛"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        7,
+        7,
+        7
+      ],
+      "strokeCount": 21,
+      "structure": "左中右",
+      "verified": true
+    },
+    "迫": {
+      "components": [
+        "白",
+        "辶"
+      ],
+      "note": "部首「辵」對應筆畫：6、7、8、9。",
+      "radical": "辵",
+      "radicalStrokeIndices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        5,
+        4
+      ],
+      "strokeCount": 9,
+      "structure": "左下包圍",
+      "updatedAt": "2026-09-17T13:37:45.770Z",
+      "verification": {
+        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。",
+        "sourceBlobSha": "2a0032ab7a8254844647bfa692dbbad9da8d001c",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/8feb.xml"
+      },
+      "verified": true
+    },
+    "郵": {
+      "components": [
+        "垂",
+        "阝（邑部）"
+      ],
+      "note": "依目前臺灣筆順來源，第1–9筆為垂，第10–12筆為右耳旁。",
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        9,
+        3
+      ],
+      "strokeCount": 12,
+      "structure": "左右",
+      "verification": {
+        "method": "逐筆核對Track與Outline，並渲染分色圖檢查分組及重複筆畫。",
+        "sourceBlobSha": "26bdb54fe7f302d32d0a2884a130e8ac2f21fa79",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/90f5.xml"
+      },
+      "verified": true
+    },
+    "鍊": {
+      "components": [
+        "金",
+        "柬"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        8,
+        9
+      ],
+      "strokeCount": 17,
+      "structure": "左右",
+      "verified": true
+    },
+    "鏗": {
+      "components": [
+        "金",
+        "堅"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        8,
+        11
+      ],
+      "strokeCount": 19,
+      "structure": "左右",
+      "verified": true
+    },
+    "鏘": {
+      "components": [
+        "金",
+        "將"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        8,
+        11
+      ],
+      "strokeCount": 19,
+      "structure": "左右",
+      "verified": true
+    },
+    "鰭": {
+      "components": [
+        "魚",
+        "耆"
+      ],
+      "note": "部首「魚」對應筆畫：1、2、3、4、5、6、7、8、9、10、11。",
+      "radical": "魚",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        11,
+        10
+      ],
+      "strokeCount": 21,
+      "structure": "左右",
+      "updatedAt": "2026-09-17T13:37:45.770Z",
+      "verification": {
+        "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。",
+        "sourceBlobSha": "71ff0cbafcc513850c813ade3aba40c253826df9",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/9c2d.xml"
+      },
+      "verified": true
+    },
+    "你": {
+      "split": [
+        2,
+        5
+      ],
+      "components": [
+        "亻",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "strokeCount": 7,
+      "structure": "左右",
+      "radical": "亻",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "在": {
+      "split": [
+        3,
+        3
+      ],
+      "components": [
+        "土",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          4,
+          5,
+          6
+        ],
+        [
+          1,
+          2,
+          3
+        ]
+      ],
+      "strokeCount": 6,
+      "structure": "半包圍",
+      "radical": "土",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        4,
+        5,
+        6
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "跡": {
+      "split": [
+        7,
+        6
+      ],
+      "components": [
+        "足",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      ],
+      "strokeCount": 13,
+      "structure": "左右",
+      "radical": "足",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "偏": {
+      "split": [
+        2,
+        9
+      ],
+      "components": [
+        "亻",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "strokeCount": 11,
+      "structure": "左右",
+      "radical": "亻",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "左": {
+      "split": [
+        3,
+        2
+      ],
+      "components": [
+        "工",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          3,
+          4,
+          5
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "strokeCount": 5,
+      "structure": "半包圍",
+      "radical": "工",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        3,
+        4,
+        5
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "軸": {
+      "split": [
+        7,
+        5
+      ],
+      "components": [
+        "車",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      ],
+      "strokeCount": 12,
+      "structure": "左右",
+      "radical": "車",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "級": {
+      "split": [
+        6,
+        4
+      ],
+      "components": [
+        "糹",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        [
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "strokeCount": 10,
+      "structure": "左右",
+      "radical": "糹",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "屈": {
+      "split": [
+        3,
+        5
+      ],
+      "components": [
+        "尸",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      ],
+      "strokeCount": 8,
+      "structure": "半包圍",
+      "radical": "尸",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "右": {
+      "split": [
+        3,
+        2
+      ],
+      "components": [
+        "口",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          3,
+          4,
+          5
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "strokeCount": 5,
+      "structure": "半包圍",
+      "radical": "口",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        3,
+        4,
+        5
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "曝": {
+      "split": [
+        4,
+        15
+      ],
+      "components": [
+        "日",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      ],
+      "strokeCount": 19,
+      "structure": "左右",
+      "radical": "日",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "塵": {
+      "split": [
+        3,
+        11
+      ],
+      "components": [
+        "土",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          12,
+          13,
+          14
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "strokeCount": 14,
+      "structure": "上下",
+      "radical": "土",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        12,
+        13,
+        14
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "垢": {
+      "split": [
+        3,
+        6
+      ],
+      "components": [
+        "土",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "strokeCount": 9,
+      "structure": "左右",
+      "radical": "土",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "奪": {
+      "split": [
+        3,
+        11
+      ],
+      "components": [
+        "大",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      ],
+      "strokeCount": 14,
+      "structure": "上下",
+      "radical": "大",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "向": {
+      "split": [
+        3,
+        3
+      ],
+      "components": [
+        "口",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          4,
+          5,
+          6
+        ],
+        [
+          1,
+          2,
+          3
+        ]
+      ],
+      "strokeCount": 6,
+      "structure": "內外",
+      "radical": "口",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        4,
+        5,
+        6
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "和": {
+      "split": [
+        5,
+        3
+      ],
+      "components": [
+        "禾",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          6,
+          7,
+          8
+        ]
+      ],
+      "strokeCount": 8,
+      "structure": "左右",
+      "radical": "禾",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "鳳": {
+      "split": [
+        11,
+        3
+      ],
+      "components": [
+        "鳥",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        [
+          1,
+          2,
+          3
+        ]
+      ],
+      "strokeCount": 14,
+      "structure": "半包圍",
+      "radical": "鳥",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "起": {
+      "split": [
+        7,
+        3
+      ],
+      "components": [
+        "走",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          8,
+          9,
+          10
+        ]
+      ],
+      "strokeCount": 10,
+      "structure": "左下包圍",
+      "radical": "走",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "抑": {
+      "split": [
+        3,
+        4
+      ],
+      "components": [
+        "扌",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "strokeCount": 7,
+      "structure": "左右",
+      "radical": "扌",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "船": {
+      "split": [
+        6,
+        5
+      ],
+      "components": [
+        "舟",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "strokeCount": 11,
+      "structure": "左右",
+      "radical": "舟",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "默": {
+      "split": [
+        12,
+        4
+      ],
+      "components": [
+        "黑",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        [
+          13,
+          14,
+          15,
+          16
+        ]
+      ],
+      "strokeCount": 16,
+      "structure": "左右",
+      "radical": "黑",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "加": {
+      "split": [
+        2,
+        3
+      ],
+      "components": [
+        "力",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5
+        ]
+      ],
+      "strokeCount": 5,
+      "structure": "左右",
+      "radical": "力",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "猛": {
+      "split": [
+        3,
+        8
+      ],
+      "components": [
+        "犭",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "strokeCount": 11,
+      "structure": "左右",
+      "radical": "犭",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "扭": {
+      "split": [
+        3,
+        4
+      ],
+      "components": [
+        "扌",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "strokeCount": 7,
+      "structure": "左右",
+      "radical": "扌",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "油": {
+      "split": [
+        3,
+        5
+      ],
+      "components": [
+        "氵",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      ],
+      "strokeCount": 8,
+      "structure": "左右",
+      "radical": "氵",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "霾": {
+      "split": [
+        8,
+        14
+      ],
+      "components": [
+        "雨",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      ],
+      "strokeCount": 22,
+      "structure": "上下",
+      "radical": "雨",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "拱": {
+      "split": [
+        3,
+        6
+      ],
+      "components": [
+        "扌",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "strokeCount": 9,
+      "structure": "左右",
+      "radical": "扌",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "搬": {
+      "split": [
+        3,
+        10
+      ],
+      "components": [
+        "扌",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      ],
+      "strokeCount": 13,
+      "structure": "左中右",
+      "radical": "扌",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "愣": {
+      "split": [
+        3,
+        9
+      ],
+      "components": [
+        "忄",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      ],
+      "strokeCount": 12,
+      "structure": "左右",
+      "radical": "忄",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "尬": {
+      "split": [
+        3,
+        4
+      ],
+      "components": [
+        "尢",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "strokeCount": 7,
+      "structure": "半包圍",
+      "radical": "尢",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "拒": {
+      "split": [
+        3,
+        5
+      ],
+      "components": [
+        "扌",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      ],
+      "strokeCount": 8,
+      "structure": "左右",
+      "radical": "扌",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "悔": {
+      "split": [
+        3,
+        7
+      ],
+      "components": [
+        "忄",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "strokeCount": 10,
+      "structure": "左右",
+      "radical": "忄",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "尷": {
+      "split": [
+        3,
+        14
+      ],
+      "components": [
+        "尢",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      ],
+      "strokeCount": 17,
+      "structure": "半包圍",
+      "radical": "尢",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "恨": {
+      "split": [
+        3,
+        6
+      ],
+      "components": [
+        "忄",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "strokeCount": 9,
+      "structure": "左右",
+      "radical": "忄",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "涉": {
+      "split": [
+        3,
+        7
+      ],
+      "components": [
+        "氵",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "strokeCount": 10,
+      "structure": "左右",
+      "radical": "氵",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "距": {
+      "split": [
+        7,
+        5
+      ],
+      "components": [
+        "足",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      ],
+      "strokeCount": 12,
+      "structure": "左右",
+      "radical": "足",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "上": {
+      "split": [
+        1,
+        2
+      ],
+      "components": [
+        "一",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          3
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "strokeCount": 3,
+      "structure": "獨體",
+      "radical": "一",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        3
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "我": {
+      "split": [
+        4,
+        3
+      ],
+      "components": [
+        "戈",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          2,
+          5,
+          6,
+          7
+        ],
+        [
+          1,
+          3,
+          4
+        ]
+      ],
+      "strokeCount": 7,
+      "structure": "獨體交疊",
+      "radical": "戈",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        2,
+        5,
+        6,
+        7
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
+    },
+    "前": {
+      "split": [
+        2,
+        7
+      ],
+      "components": [
+        "刂",
+        "其餘部分"
+      ],
+      "strokeGroups": [
+        [
+          8,
+          9
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "strokeCount": 9,
+      "structure": "上下",
+      "radical": "刂",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        8,
+        9
+      ],
+      "verified": true,
+      "source": "chatgpt_checked_radical_rest"
     }
-  }
+  },
+  "description": "陽光智慧黑板部件拆分字典。只有 verified=true 的資料可用於教學分色與部件拼貼。",
+  "version": "1.0"
 }

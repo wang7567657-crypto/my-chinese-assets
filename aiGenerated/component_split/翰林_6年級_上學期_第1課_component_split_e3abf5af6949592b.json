@@ -1,6 +1,6 @@
 {
   "taskType": "component_split",
-  "requestId": "翰林_6年級_上學期_第1課_component_split_d8cb3947d58d3043",
+  "requestId": "翰林_6年級_上學期_第1課_component_split_e3abf5af6949592b",
   "version": "1.0",
   "source": "chatgpt",
   "input": {
@@ -8,50 +8,43 @@
     "grade": "6年級",
     "semester": "上學期",
     "lesson": "第1課",
-    "char": "蛹",
-    "strokeCount": 13,
+    "char": "恨",
+    "strokeCount": 9,
     "strokeSource": "c9s/zh-stroke-data + reviewed correction",
     "instruction": "請依台灣筆順資料的連續筆畫順序，判斷實際部件拆分。split 加總必須等於 strokeCount。回傳 structure、split、components、verified=true。"
   },
   "data": {
     "split": [
-      6,
-      7
+      3,
+      6
     ],
     "components": [
-      "虫",
+      "忄",
       "其餘部分"
     ],
     "strokeGroups": [
       [
         1,
         2,
-        3,
-        4,
-        5,
-        6
+        3
       ],
       [
+        4,
+        5,
+        6,
         7,
         8,
-        9,
-        10,
-        11,
-        12,
-        13
+        9
       ]
     ],
-    "strokeCount": 13,
+    "strokeCount": 9,
     "structure": "左右",
-    "radical": "虫",
+    "radical": "忄",
     "radicalVerified": true,
     "radicalStrokeIndices": [
       1,
       2,
-      3,
-      4,
-      5,
-      6
+      3
     ],
     "verified": true,
     "source": "chatgpt_checked_radical_rest",
