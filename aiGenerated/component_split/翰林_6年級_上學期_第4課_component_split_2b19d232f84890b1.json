@@ -1,0 +1,46 @@
+{
+  "taskType": "component_split",
+  "requestId": "翰林_6年級_上學期_第4課_component_split_2b19d232f84890b1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "奧",
+    "grade": "6年級",
+    "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。",
+    "lesson": "第4課",
+    "publisher": "翰林",
+    "semester": "上學期",
+    "strokeCount": 13,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "components": [
+      "上部（其餘部分）",
+      "大"
+    ],
+    "note": "上部十筆為其餘部分，不另猜稱部件；下方大部為第11–13筆。",
+    "radical": "大",
+    "radicalStrokeIndices": [
+      11,
+      12,
+      13
+    ],
+    "radicalVerified": true,
+    "source": "c9s_strokes_reviewed",
+    "split": [
+      10,
+      3
+    ],
+    "strokeCount": 13,
+    "structure": "上下",
+    "updatedAt": "2026-09-17T13:37:45.769Z",
+    "verification": {
+      "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。",
+      "sourceBlobSha": "228523206a52480ee32479a28a33232b63d4843e",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5967.xml"
+    },
+    "verified": true
+  },
+  "updatedAt": "2026-09-17T13:38:07.926Z"
+}
