@@ -1,0 +1,37 @@
+{
+  "taskType": "component_split",
+  "requestId": "翰林_6年級_上學期_第2課_component_split_766d8196f62c24a5",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "char": "郵",
+    "grade": "6年級",
+    "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。",
+    "lesson": "第2課",
+    "publisher": "翰林",
+    "semester": "上學期",
+    "strokeCount": 12,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "verified": true,
+    "structure": "左右",
+    "split": [
+      9,
+      3
+    ],
+    "components": [
+      "垂",
+      "阝（邑部）"
+    ],
+    "strokeCount": 12,
+    "note": "依目前臺灣筆順來源，第1–9筆為垂，第10–12筆為右耳旁。",
+    "source": "c9s_strokes_reviewed",
+    "verification": {
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/90f5.xml",
+      "sourceBlobSha": "26bdb54fe7f302d32d0a2884a130e8ac2f21fa79",
+      "method": "逐筆核對Track與Outline，並渲染分色圖檢查分組及重複筆畫。"
+    }
+  },
+  "createdAt": "2026-09-17T13:07:36.581Z"
+}
