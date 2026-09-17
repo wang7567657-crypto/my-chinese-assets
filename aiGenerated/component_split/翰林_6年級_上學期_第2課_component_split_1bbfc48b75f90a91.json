@@ -1,0 +1,49 @@
+{
+  "taskType": "component_split",
+  "requestId": "翰林_6年級_上學期_第2課_component_split_1bbfc48b75f90a91",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "char": "固",
+    "grade": "6年級",
+    "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。",
+    "lesson": "第2課",
+    "publisher": "翰林",
+    "semester": "上學期",
+    "strokeCount": 8,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "verified": false,
+    "structure": "全包圍",
+    "split": [],
+    "components": [
+      "囗",
+      "古"
+    ],
+    "strokeCount": 8,
+    "reviewReason": "non_contiguous_components",
+    "strokeGroups": [
+      [
+        1,
+        2,
+        8
+      ],
+      [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    ],
+    "note": "已核對囗為第1、2、8筆，古為第3–7筆。現行分色器只支援連續split，無法把外框封口合回囗；需支援非連續筆畫分組後才能啟用，不使用[3,5]錯誤分色。",
+    "source": "c9s_strokes_reviewed",
+    "verification": {
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/56fa.xml",
+      "sourceBlobSha": "b53d5bb339cb6eb57bb70747f80e8b10c006e018",
+      "method": "逐筆核對Track與Outline，並渲染分色圖檢查分組及重複筆畫。"
+    }
+  },
+  "createdAt": "2026-09-17T13:07:36.581Z"
+}
