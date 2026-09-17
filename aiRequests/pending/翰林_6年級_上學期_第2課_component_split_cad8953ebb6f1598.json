@@ -13,5 +13,9 @@
     "strokeSource": "c9s/zh-stroke-data",
     "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。"
   },
-  "createdAt": "2026-09-17T13:05:13.995Z"
+  "createdAt": "2026-09-17T13:05:13.995Z",
+  "reviewStatus": "blocked",
+  "reviewedAt": "2026-09-17T13:08:43.081Z",
+  "reviewReason": "source_duplicate_strokes",
+  "reviewNote": "來源第6筆與第8筆皆在草頭右側同一橫畫位置，軌跡高度重疊，疑似重複Stroke。需先校正來源，不把15個節點直接當成已驗證筆畫。"
 }
