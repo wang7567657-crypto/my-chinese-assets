@@ -611,6 +611,50 @@
         "method": "核對13個Stroke節點的輪廓與軌跡，並以雙色實際渲染確認虫、甬連續分組。"
       },
       "note": "第1–6筆為虫，第7–13筆為甬；6+7=13。"
+    },
+    "郵": {
+      "components": [
+        "垂",
+        "阝（邑部）"
+      ],
+      "note": "依目前臺灣筆順來源，第1–9筆為垂，第10–12筆為右耳旁。",
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        9,
+        3
+      ],
+      "strokeCount": 12,
+      "structure": "左右",
+      "verification": {
+        "method": "逐筆核對Track與Outline，並渲染分色圖檢查分組及重複筆畫。",
+        "sourceBlobSha": "26bdb54fe7f302d32d0a2884a130e8ac2f21fa79",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/90f5.xml"
+      },
+      "verified": true
+    },
+    "憂": {
+      "components": [
+        "上部六筆字形",
+        "冖",
+        "心",
+        "夂"
+      ],
+      "note": "按實際連續筆順分區：上部六筆並非完整的「頁」字，不把它誤教為頁；第7–8筆為冖，第9–12筆為心，第13–15筆為夂。",
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        6,
+        2,
+        4,
+        3
+      ],
+      "strokeCount": 15,
+      "structure": "上下",
+      "verification": {
+        "method": "逐筆核對Track與Outline，並渲染分色圖檢查分組及重複筆畫。",
+        "sourceBlobSha": "b8beeca5e99062ae15cafdf29379e8365c0c0283",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6182.xml"
+      },
+      "verified": true
     }
   }
 }
