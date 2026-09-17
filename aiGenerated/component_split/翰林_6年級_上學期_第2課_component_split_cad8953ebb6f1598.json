@@ -1,0 +1,35 @@
+{
+  "taskType": "component_split",
+  "requestId": "翰林_6年級_上學期_第2課_component_split_cad8953ebb6f1598",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "char": "寞",
+    "grade": "6年級",
+    "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。",
+    "lesson": "第2課",
+    "publisher": "翰林",
+    "semester": "上學期",
+    "strokeCount": 15,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "verified": false,
+    "structure": "上下",
+    "split": [],
+    "components": [
+      "宀",
+      "莫"
+    ],
+    "strokeCount": 15,
+    "reviewReason": "source_duplicate_strokes",
+    "note": "來源第6筆與第8筆皆在草頭右側同一橫畫位置，軌跡高度重疊，疑似重複Stroke。需先校正來源，不把15個節點直接當成已驗證筆畫。",
+    "source": "c9s_strokes_reviewed",
+    "verification": {
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5bde.xml",
+      "sourceBlobSha": "4cc1403c2eb0fa932936229d159767dc8f809d03",
+      "method": "逐筆核對Track與Outline，並渲染分色圖檢查分組及重複筆畫。"
+    }
+  },
+  "createdAt": "2026-09-17T13:07:36.581Z"
+}
