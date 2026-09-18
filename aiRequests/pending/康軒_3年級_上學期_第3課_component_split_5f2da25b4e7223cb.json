@@ -1,0 +1,17 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_3年級_上學期_第3課_component_split_5f2da25b4e7223cb",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "迷",
+    "strokeCount": 10,
+    "strokeSource": "c9s/zh-stroke-data",
+    "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+  },
+  "createdAt": "2026-09-18T01:41:19.307Z"
+}
