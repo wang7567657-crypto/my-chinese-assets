@@ -1,0 +1,66 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_3年級_上學期_第1課_component_split_7b211b73d737ccf9",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "雀",
+    "strokeCount": 11,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "components": [
+      "小",
+      "隹"
+    ],
+    "note": "上方第1–3筆為小，下方第4–11筆為隹（部首）；3+8=11。",
+    "radical": "隹",
+    "radicalStrokeIndices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "radicalVerified": true,
+    "source": "c9s_strokes_reviewed",
+    "split": [
+      3,
+      8
+    ],
+    "strokeCount": 11,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    ],
+    "structure": "上下",
+    "updatedAt": "2026-09-18T02:40:53.481Z",
+    "verification": {
+      "method": "逐筆核對 c9s 原始 Outline/Track；依小與隹分組，保留原筆順。",
+      "sourceBlobSha": "d1e9176bf325efe71ca1319cdbcdb6a394fd1866",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/96c0.xml"
+    },
+    "verified": true
+  },
+  "createdAt": "2026-09-18T02:40:53.481Z"
+}

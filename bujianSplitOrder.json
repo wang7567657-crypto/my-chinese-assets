@@ -2512,6 +2512,135 @@
         "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/7531.xml"
       },
       "verified": true
+    },
+    "化": {
+      "components": [
+        "亻",
+        "匕"
+      ],
+      "note": "第1–2筆為亻（部首人），第3–4筆為匕；2+2=4。",
+      "radical": "人",
+      "radicalStrokeIndices": [
+        1,
+        2
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        2,
+        2
+      ],
+      "strokeCount": 4,
+      "strokeGroups": [
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-18T02:40:53.481Z",
+      "verification": {
+        "method": "逐筆核對 c9s 原始 Outline/Track；依亻與匕分組，保留原筆順。",
+        "sourceBlobSha": "87324c075dca33ae963d3dab7007f4881f012e4f",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5316.xml"
+      },
+      "verified": true
+    },
+    "泥": {
+      "components": [
+        "氵",
+        "尼"
+      ],
+      "note": "第1–3筆為氵（部首水），第4–8筆為尼；3+5=8。",
+      "radical": "水",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        3,
+        5
+      ],
+      "strokeCount": 8,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-18T02:40:53.481Z",
+      "verification": {
+        "method": "逐筆核對 c9s 原始 Outline/Track；依氵與尼分組，保留原筆順。",
+        "sourceBlobSha": "a487100e04f77b7ed88ebf1303f336f10236ccf6",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6ce5.xml"
+      },
+      "verified": true
+    },
+    "雀": {
+      "components": [
+        "小",
+        "隹"
+      ],
+      "note": "上方第1–3筆為小，下方第4–11筆為隹（部首）；3+8=11。",
+      "radical": "隹",
+      "radicalStrokeIndices": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        3,
+        8
+      ],
+      "strokeCount": 11,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "structure": "上下",
+      "updatedAt": "2026-09-18T02:40:53.481Z",
+      "verification": {
+        "method": "逐筆核對 c9s 原始 Outline/Track；依小與隹分組，保留原筆順。",
+        "sourceBlobSha": "d1e9176bf325efe71ca1319cdbcdb6a394fd1866",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/96c0.xml"
+      },
+      "verified": true
     }
   },
   "description": "陽光智慧黑板部件拆分字典。只有 verified=true 的資料可用於教學分色與部件拼貼。",

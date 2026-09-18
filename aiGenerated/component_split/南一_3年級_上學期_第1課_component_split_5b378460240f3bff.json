@@ -1,0 +1,53 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_3年級_上學期_第1課_component_split_5b378460240f3bff",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "化",
+    "strokeCount": 4,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "components": [
+      "亻",
+      "匕"
+    ],
+    "note": "第1–2筆為亻（部首人），第3–4筆為匕；2+2=4。",
+    "radical": "人",
+    "radicalStrokeIndices": [
+      1,
+      2
+    ],
+    "radicalVerified": true,
+    "source": "c9s_strokes_reviewed",
+    "split": [
+      2,
+      2
+    ],
+    "strokeCount": 4,
+    "strokeGroups": [
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "structure": "左右",
+    "updatedAt": "2026-09-18T02:40:53.481Z",
+    "verification": {
+      "method": "逐筆核對 c9s 原始 Outline/Track；依亻與匕分組，保留原筆順。",
+      "sourceBlobSha": "87324c075dca33ae963d3dab7007f4881f012e4f",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5316.xml"
+    },
+    "verified": true
+  },
+  "createdAt": "2026-09-18T02:40:53.481Z"
+}
