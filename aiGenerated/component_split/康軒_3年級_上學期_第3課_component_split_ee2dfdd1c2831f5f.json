@@ -1,0 +1,53 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_3年級_上學期_第3課_component_split_ee2dfdd1c2831f5f",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "由",
+    "strokeCount": 5,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "components": [
+      "由"
+    ],
+    "note": "「由」為獨體字，不硬拆；部首為「田」，5筆皆屬完整字形。",
+    "radical": "田",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "radicalVerified": true,
+    "source": "c9s_strokes_reviewed",
+    "split": [
+      5
+    ],
+    "strokeCount": 5,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "structure": "獨體",
+    "updatedAt": "2026-09-18T01:52:39.308Z",
+    "verification": {
+      "method": "逐筆核對 c9s 原始 Outline/Track；確認共5筆。依獨體字規則保留完整字，不虛構拆分。",
+      "sourceBlobSha": "9ceb70db20d96d5e36d68c57aad348329be9ebae",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/7531.xml"
+    },
+    "verified": true
+  },
+  "createdAt": "2026-09-18T01:52:39.308Z"
+}

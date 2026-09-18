@@ -1,0 +1,51 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_3年級_上學期_第3課_component_split_b09e111e9ce273e4",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "失",
+    "strokeCount": 5,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "components": [
+      "失"
+    ],
+    "note": "「失」為獨體字，不硬拆成兩個字形部件；部首檢索歸「大」部，第3–5筆呈大部形體。",
+    "radical": "大",
+    "radicalStrokeIndices": [
+      3,
+      4,
+      5
+    ],
+    "radicalVerified": true,
+    "source": "c9s_strokes_reviewed",
+    "split": [
+      5
+    ],
+    "strokeCount": 5,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "structure": "獨體",
+    "updatedAt": "2026-09-18T01:52:39.308Z",
+    "verification": {
+      "method": "逐筆核對 c9s 原始 Outline/Track；確認共5筆。依獨體字規則保留完整字，不虛構拆分。",
+      "sourceBlobSha": "b5aa478ed56e97692eb806690d4aa2444e8381ee",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5931.xml"
+    },
+    "verified": true
+  },
+  "createdAt": "2026-09-18T01:52:39.308Z"
+}

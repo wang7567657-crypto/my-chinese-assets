@@ -1,0 +1,61 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_3年級_上學期_第3課_component_split_5f2da25b4e7223cb",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "迷",
+    "strokeCount": 10,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "components": [
+      "米",
+      "辶"
+    ],
+    "note": "米為第1–6筆；部首「辵」（辶）為第7–10筆。6+4=10，保留原筆順。",
+    "radical": "辵",
+    "radicalStrokeIndices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "radicalVerified": true,
+    "source": "c9s_strokes_reviewed",
+    "split": [
+      6,
+      4
+    ],
+    "strokeCount": 10,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      [
+        7,
+        8,
+        9,
+        10
+      ]
+    ],
+    "structure": "左下包圍",
+    "updatedAt": "2026-09-18T01:52:39.308Z",
+    "verification": {
+      "method": "逐筆核對 c9s 原始 Outline/Track；依米與辵分組，保留原字位置及原筆順。",
+      "sourceBlobSha": "c5c2c51225c1810ce198847ce51eb5166fdfac70",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/8ff7.xml"
+    },
+    "verified": true
+  },
+  "createdAt": "2026-09-18T01:52:39.308Z"
+}
