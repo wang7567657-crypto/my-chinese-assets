@@ -1,0 +1,61 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_5年級_上學期_第1課_component_split_14ba89ca97b0f53b",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "帳",
+    "strokeCount": 11,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "components": [
+      "巾",
+      "其餘部分"
+    ],
+    "note": "已核對 c9s 原始筆畫資料，共 11 畫；部首「巾」與其餘部分各自保留原字位置及原筆順。",
+    "radical": "巾",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "radicalVerified": true,
+    "source": "c9s_strokes_reviewed",
+    "split": [
+      3,
+      8
+    ],
+    "strokeCount": 11,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    ],
+    "structure": "左右",
+    "updatedAt": "2026-09-19T16:06:14.412Z",
+    "verification": {
+      "method": "逐筆核對 c9s 原始 Outline/Track；依部首與其餘部分分組，保留原字位置及原筆順。",
+      "sourceBlobSha": "890cde99c1e01f48a21dd3ee8c4d80bb86168ffe",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5e33.xml"
+    },
+    "verified": true
+  },
+  "createdAt": "2026-09-19T16:06:14.412Z"
+}
