@@ -1,0 +1,255 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_5年級_上學期_第1課_feature_ai_batch_56ec1ff45382d539",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 18,
+    "batchCharacters": [
+      "蚊",
+      "帳",
+      "洲",
+      "瘧",
+      "疾",
+      "死",
+      "叮",
+      "存",
+      "募",
+      "集",
+      "寄",
+      "贈",
+      "獎",
+      "狀",
+      "藏",
+      "誌",
+      "基",
+      "赴"
+    ],
+    "items": [
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_9b798df87c6d8ede",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "蚊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_8832bd2490c50110",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "帳",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_3406a3faf3e1190a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "洲",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_ac9682ef60457e1b",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "瘧",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_3dc885bcce3ea61d",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "疾",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_2c5d55b6e52b6d19",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "死",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_e2cc85c0b458ac7a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "叮",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_3a85a99a56586b25",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "存",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_d72f7e6b9ce07a99",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "募",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_da2832d824112808",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "集",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_80324d92c0684fa0",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "寄",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_57d8d54560284c7a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "贈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_5f11dc1f43767c6a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "獎",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_f1b9e058ddd4da3a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "狀",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_8dd66f072b7fe036",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "藏",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_5bf91aa34d13cf2c",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "誌",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_caa8fcd092428183",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "基",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_56b8b1de4274b4e7",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "赴",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
+  },
+  "createdAt": "2026-09-19T16:58:00.213Z"
+}
