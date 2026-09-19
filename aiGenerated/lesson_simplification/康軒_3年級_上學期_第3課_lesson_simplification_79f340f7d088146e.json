@@ -1,0 +1,191 @@
+{
+  "taskType": "lesson_simplification",
+  "requestId": "康軒_3年級_上學期_第3課_lesson_simplification_79f340f7d088146e",
+  "version": "2.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "createdAt": "2026-09-19T19:16:56Z",
+  "updatedAt": "2026-09-19T19:16:56Z",
+  "data": {
+    "title": "三、繞口令村",
+    "targetLevel": "國小三年級",
+    "preservedWords": [
+      "繞",
+      "由",
+      "迷",
+      "失",
+      "岸",
+      "撞",
+      "扶",
+      "急",
+      "店",
+      "機",
+      "料",
+      "實",
+      "留",
+      "觀",
+      "暴",
+      "闆",
+      "葡",
+      "萄"
+    ],
+    "keyPoints": [
+      "旅行家小金遇到暴風雨，迷失方向後來到一座陌生小島。",
+      "小金在島上遇見說話又急又快的孩子，也聽到交換紅花和黃花的繞口令。",
+      "餐館老闆用灰雞、飛機、柿子和桃子介紹村裡有趣的繞口令。",
+      "小金在繞口令村參觀並學習，了解練習繞口令能讓發音更清楚。"
+    ],
+    "paragraphs": [
+      {
+        "original": "我叫小金，是個旅行家。兩個多月前，由於突如其來的暴風雨，因此我的船在海上迷失了方向。風雨過後，船停在一座小島，這是一個我從來沒有到過的地方。",
+        "simplified": "我叫小金，是一位旅行家。兩個多月前，由於突然來了暴風雨，我的船在海上迷失方向。暴風雨過後，船停在一座陌生的小島。這是我從來沒有去過的地方。",
+        "preservedWords": ["由", "暴", "迷", "失"],
+        "questions": [
+          {
+            "question": "小金的船為什麼在海上迷失方向？",
+            "choices": ["遇到暴風雨", "船上沒有食物", "小金想找水果", "有人拿走地圖"],
+            "answerIndex": 0,
+            "explanation": "本段說突如其來的暴風雨讓小金的船迷失方向。"
+          },
+          {
+            "question": "風雨過後，小金的船停在哪裡？",
+            "choices": ["一座陌生的小島", "原來的港口", "一家餐館門口", "一座大城市"],
+            "answerIndex": 0,
+            "explanation": "風雨過後，船停在小金從來沒有到過的小島。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_3年級_上學期_第3課_lesson_simplification_79f340f7d088146e/paragraph-01.png",
+          "alt": "暴風雨過後，小金和木船停在陌生小島岸邊",
+          "prompt": "暴風雨剛停，小金的木船停靠在陌生小島岸邊，小金觀察島嶼。",
+          "styleKey": "tongue-twister-village-v1"
+        }
+      },
+      {
+        "original": "一上岸，一個小孩跑過來撞到了我，我趕緊扶著他問：「你還好嗎？你要去哪裡？」小孩說話又急又快：「小綠送紅花，小力送黃花，小綠想拿紅花換小力的黃花，小力想把黃花換小綠的紅花。他們正在送花，我也要去拿一朵花。」我還沒聽明白，小孩又跑走了。",
+        "simplified": "我一上岸，一個小孩跑過來撞到我。我趕緊扶著他，問他要去哪裡。小孩說話又急又快。他說小綠送紅花，小力送黃花。小綠想用紅花換黃花，小力想用黃花換紅花。小孩也要去拿一朵花。我還沒聽明白，他就跑走了。",
+        "preservedWords": ["岸", "撞", "扶", "急"],
+        "questions": [
+          {
+            "question": "小孩跑來撞到小金後，小金先做了什麼？",
+            "choices": ["扶著小孩並關心他", "拿走小孩的花", "立刻跑進店裡", "回到船上休息"],
+            "answerIndex": 0,
+            "explanation": "小金趕緊扶著小孩，問他還好嗎、要去哪裡。"
+          },
+          {
+            "question": "小綠想拿紅花換什麼？",
+            "choices": ["小力的黃花", "小力的紅花", "老闆的柿子", "小金的木船"],
+            "answerIndex": 0,
+            "explanation": "小孩說，小綠想拿紅花換小力的黃花。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_3年級_上學期_第3課_lesson_simplification_79f340f7d088146e/paragraph-02.png",
+          "alt": "小孩在岸邊撞到小金，小金趕緊扶住他",
+          "prompt": "匆忙的小孩在岸邊撞到小金，小金立刻扶住並關心他。",
+          "styleKey": "tongue-twister-village-v1"
+        }
+      },
+      {
+        "original": "走著走著，我看到一家店，牆上有隻「大公雞」，老闆熱情的說：「『抱著灰雞上飛機，飛機起飛，灰雞要飛。』我們用料實在，除了最好吃的『灰雞』，飯後還有水果。」",
+        "simplified": "我走進一家店。牆上畫著一隻大公雞。老闆熱情地招呼我。他念著：「抱著灰雞上飛機，飛機起飛，灰雞要飛。」老闆說，他們用料實在。店裡有好吃的灰雞，飯後還有水果。",
+        "preservedWords": ["店", "闆", "機", "料", "實"],
+        "questions": [
+          {
+            "question": "店裡的牆上畫著什麼？",
+            "choices": ["大公雞", "小猴子", "一艘船", "一朵紅花"],
+            "answerIndex": 0,
+            "explanation": "本段說店裡的牆上有一隻大公雞。"
+          },
+          {
+            "question": "老闆如何形容店裡使用的材料？",
+            "choices": ["用料實在", "非常便宜", "全部進口", "只有水果"],
+            "answerIndex": 0,
+            "explanation": "老闆說店裡用料實在。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_3年級_上學期_第3課_lesson_simplification_79f340f7d088146e/paragraph-03.png",
+          "alt": "餐館老闆在大公雞圖案旁熱情招呼小金",
+          "prompt": "餐館牆上有大公雞圖案，藍圍裙老闆熱情向小金介紹食物。",
+          "styleKey": "tongue-twister-village-v1"
+        }
+      },
+      {
+        "original": "「是什麼水果呢？」老闆笑咪咪的說：「今天有兩種，你喜歡『是柿子不是獅子，不是石子是柿子』的柿子，還是『風吹桃枝落桃子，桃枝落桃撞猴子』的桃子呢？這兩種都是我們繞口令村有名的水果。」",
+        "simplified": "我問老闆有什麼水果。老闆笑著說，今天有柿子和桃子。他念了柿子和桃子的繞口令。這兩種水果都很有名。原來，這個地方叫做繞口令村。",
+        "preservedWords": ["闆", "繞"],
+        "questions": [
+          {
+            "question": "老闆說今天有哪兩種水果？",
+            "choices": ["柿子和桃子", "蘋果和香蕉", "葡萄和西瓜", "梨子和橘子"],
+            "answerIndex": 0,
+            "explanation": "本段提到今天有柿子和桃子兩種水果。"
+          },
+          {
+            "question": "小金來到的地方叫什麼？",
+            "choices": ["繞口令村", "水果王國", "大公雞村", "紅花小島"],
+            "answerIndex": 0,
+            "explanation": "老闆說這兩種水果是繞口令村有名的水果。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_3年級_上學期_第3課_lesson_simplification_79f340f7d088146e/paragraph-04.png",
+          "alt": "老闆向小金展示柿子和桃子",
+          "prompt": "同一家餐館裡，老闆向小金展示一盤柿子和一盤桃子。",
+          "styleKey": "tongue-twister-village-v1"
+        }
+      },
+      {
+        "original": "原來，那個地方就叫「繞口令村」。我在那裡停留十多天，參觀很多地方，也學會了好幾個有趣的繞口令，直到現在，我還常常想起那裡呢！",
+        "simplified": "那個地方叫做繞口令村。我在那裡停留十多天。我參觀了很多地方，也學會好幾個有趣的繞口令。直到現在，我還常常想起那裡。",
+        "preservedWords": ["繞", "留", "觀"],
+        "questions": [
+          {
+            "question": "小金在繞口令村停留多久？",
+            "choices": ["十多天", "一天", "一個月", "一年"],
+            "answerIndex": 0,
+            "explanation": "本段說小金在那裡停留十多天。"
+          },
+          {
+            "question": "小金在村裡學會了什麼？",
+            "choices": ["好幾個繞口令", "造一艘新船", "種紅花和黃花", "做柿子蛋糕"],
+            "answerIndex": 0,
+            "explanation": "小金參觀很多地方，也學會好幾個有趣的繞口令。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_3年級_上學期_第3課_lesson_simplification_79f340f7d088146e/paragraph-05.png",
+          "alt": "小金和村民、孩子一起練習繞口令",
+          "prompt": "小金在溫暖的村莊街道上，和村民及孩子愉快練習發音。",
+          "styleKey": "tongue-twister-village-v1"
+        }
+      },
+      {
+        "original": "朵朵對我說\n繞口令是運用字音相近的詞語寫成。練習繞口令，可以讓我們的發音變得更清楚，也可以體會語文的樂趣。",
+        "simplified": "繞口令會使用字音相近的詞語。練習繞口令，可以讓我們的發音更清楚。我們也能從中感受語文的樂趣。",
+        "preservedWords": ["繞"],
+        "questions": [
+          {
+            "question": "繞口令運用哪一種詞語寫成？",
+            "choices": ["字音相近的詞語", "意思完全相反的詞語", "只有數字的詞語", "外國語的詞語"],
+            "answerIndex": 0,
+            "explanation": "補充說明指出，繞口令運用字音相近的詞語寫成。"
+          },
+          {
+            "question": "練習繞口令有什麼好處？",
+            "choices": ["讓發音更清楚並感受語文樂趣", "讓跑步速度變快", "讓船不再迷路", "讓水果變得更多"],
+            "answerIndex": 0,
+            "explanation": "練習繞口令能讓發音更清楚，也能體會語文的樂趣。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_3年級_上學期_第3課_lesson_simplification_79f340f7d088146e/paragraph-06.png",
+          "alt": "朵朵和小金在教室裡觀察嘴形並練習清楚發音",
+          "prompt": "明亮教室裡，朵朵和小金面向彼此觀察嘴形、輪流練習清楚發音。",
+          "styleKey": "tongue-twister-village-v1"
+        }
+      }
+    ]
+  }
+}
