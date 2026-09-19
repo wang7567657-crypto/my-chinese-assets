@@ -1,0 +1,62 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_5年級_上學期_第1課_component_split_e24ecadd0a8b7ca9",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "疾",
+    "strokeCount": 10,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "components": [
+      "疒",
+      "其餘部分"
+    ],
+    "note": "已核對 c9s 原始筆畫資料，共 10 畫；部首「疒」與其餘部分各自保留原字位置及原筆順。",
+    "radical": "疒",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "radicalVerified": true,
+    "source": "c9s_strokes_reviewed",
+    "split": [
+      5,
+      5
+    ],
+    "strokeCount": 10,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ],
+    "structure": "左上包圍",
+    "updatedAt": "2026-09-19T16:06:14.412Z",
+    "verification": {
+      "method": "逐筆核對 c9s 原始 Outline/Track；依部首與其餘部分分組，保留原字位置及原筆順。",
+      "sourceBlobSha": "62ffaa46c6ef5184ab3b60007c3165516f6fa3ee",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/75be.xml"
+    },
+    "verified": true
+  },
+  "createdAt": "2026-09-19T16:06:14.412Z"
+}
