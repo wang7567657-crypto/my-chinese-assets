@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_3a85a99a56586b25",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "存"
+  },
+  "data": {
+    "char": "存",
+    "components": [
+      "𠂇",
+      "丨",
+      "子"
+    ],
+    "association": "把東西好好保存，就像把孩子安全留下來。",
+    "mnemonic": "上方和直筆先寫好，下面放一個「子」，合成「存」。",
+    "visualPrompt": "畫一個孩子被安全保護、留下來。",
+    "teachingTip": "注意第三筆豎要穿到適當位置，再完成下面的子。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

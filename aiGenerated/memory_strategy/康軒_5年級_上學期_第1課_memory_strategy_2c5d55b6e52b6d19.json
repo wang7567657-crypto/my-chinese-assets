@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_2c5d55b6e52b6d19",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "死"
+  },
+  "data": {
+    "char": "死",
+    "components": [
+      "歹",
+      "匕"
+    ],
+    "association": "「死」可先看左邊的歹，再看右邊像匕的部分。",
+    "mnemonic": "左「歹」右「匕」，兩邊靠緊，記住「死」。",
+    "visualPrompt": "用兩種顏色標出歹與匕。",
+    "teachingTip": "先辨左右兩部分，再注意最後兩筆的位置，不要寫成「列」。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

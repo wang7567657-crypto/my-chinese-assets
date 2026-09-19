@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_e2cc85c0b458ac7a",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "叮"
+  },
+  "data": {
+    "char": "叮",
+    "components": [
+      "口",
+      "丁"
+    ],
+    "association": "蚊子叮人會讓人忍不住用口叫一聲。",
+    "mnemonic": "一個「口」加一個「丁」，就是「叮」。",
+    "visualPrompt": "畫嘴巴說「叮」，旁邊放一個丁字。",
+    "teachingTip": "和「盯」比較：叮是口部，盯是目部。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

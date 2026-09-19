@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_5bf91aa34d13cf2c",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "誌"
+  },
+  "data": {
+    "char": "誌",
+    "components": [
+      "言",
+      "志"
+    ],
+    "association": "雜誌用文字記錄內容，所以左邊有言。",
+    "mnemonic": "「言」加「志」：把心中的志向用文字記下來。",
+    "visualPrompt": "畫一本雜誌，封面標出言與志。",
+    "teachingTip": "和「誌、志」連結：誌多了言部，表示文字記錄。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_3dc885bcce3ea61d",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "疾"
+  },
+  "data": {
+    "char": "疾",
+    "components": [
+      "疒",
+      "矢"
+    ],
+    "association": "「疾」和疾病有關，外面是病部。",
+    "mnemonic": "病部「疒」裡有一支快箭「矢」，箭很快，所以「疾」也有快速的意思。",
+    "visualPrompt": "畫一支箭快速穿過病部框。",
+    "teachingTip": "分兩步寫：先疒、再矢，並口說「疾病、疾走」。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_ac9682ef60457e1b",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "瘧"
+  },
+  "data": {
+    "char": "瘧",
+    "components": [
+      "疒",
+      "虐"
+    ],
+    "association": "瘧疾是一種疾病，所以外面有病部「疒」。",
+    "mnemonic": "病部包著「虐」，記成會讓人反覆不舒服的「瘧」。",
+    "visualPrompt": "畫病床旁一隻蚊子，框出疒。",
+    "teachingTip": "先認病部，再讀「虐」的字形；不要把外框寫成廣部。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

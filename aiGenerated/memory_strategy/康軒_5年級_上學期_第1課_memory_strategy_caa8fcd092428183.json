@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_caa8fcd092428183",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "基"
+  },
+  "data": {
+    "char": "基",
+    "components": [
+      "其",
+      "土"
+    ],
+    "association": "地基在土地上，所以「基」下面有土。",
+    "mnemonic": "「其」放在「土」上，穩穩站好就是「基」。",
+    "visualPrompt": "畫一棟房子立在土做的地基上。",
+    "teachingTip": "先寫其再寫土，注意最下面不是王；口說「基礎」。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_57d8d54560284c7a",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "贈"
+  },
+  "data": {
+    "char": "贈",
+    "components": [
+      "貝",
+      "曾"
+    ],
+    "association": "古代貝和財物有關，把財物送給別人就是贈。",
+    "mnemonic": "左邊「貝」、右邊「曾」，合起來是「贈」。",
+    "visualPrompt": "畫一份禮物從貝旁送到別人手中。",
+    "teachingTip": "和「增」比較：贈是貝部，和財物、贈送有關。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

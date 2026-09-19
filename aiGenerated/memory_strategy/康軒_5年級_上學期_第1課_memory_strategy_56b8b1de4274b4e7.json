@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_56b8b1de4274b4e7",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "赴"
+  },
+  "data": {
+    "char": "赴",
+    "components": [
+      "走",
+      "卜"
+    ],
+    "association": "趕赴目的地需要走過去，所以左邊是走。",
+    "mnemonic": "「走」加「卜」，快步前往就是「赴」。",
+    "visualPrompt": "畫一個人沿箭頭趕赴目的地。",
+    "teachingTip": "和「趕」一起辨認走部；右邊只寫卜，不要多一橫。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

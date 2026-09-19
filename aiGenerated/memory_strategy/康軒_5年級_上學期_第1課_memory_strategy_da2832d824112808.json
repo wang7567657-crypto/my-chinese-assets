@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_da2832d824112808",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "集"
+  },
+  "data": {
+    "char": "集",
+    "components": [
+      "隹",
+      "木"
+    ],
+    "association": "許多鳥停在樹木上，就是聚集。",
+    "mnemonic": "上面一隻鳥「隹」，下面一棵「木」，合起來是「集」。",
+    "visualPrompt": "畫幾隻鳥停在一棵樹上。",
+    "teachingTip": "先認上方隹不是住，再寫下方木；口說「集合」。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

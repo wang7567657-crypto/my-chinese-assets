@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_d72f7e6b9ce07a99",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "募"
+  },
+  "data": {
+    "char": "募",
+    "components": [
+      "莫",
+      "力"
+    ],
+    "association": "募集需要大家出力，所以「募」下面有力。",
+    "mnemonic": "「莫」在上、「力」在下，大家出力來募集。",
+    "visualPrompt": "畫大家把力量集中到募款箱。",
+    "teachingTip": "和「幕、墓、慕」比較；看到下方力就想到募集。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

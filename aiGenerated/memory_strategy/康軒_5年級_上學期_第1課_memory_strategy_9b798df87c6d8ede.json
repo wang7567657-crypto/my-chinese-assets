@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_9b798df87c6d8ede",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "蚊"
+  },
+  "data": {
+    "char": "蚊",
+    "components": [
+      "虫",
+      "文"
+    ],
+    "association": "看到「蚊」就想到會叮人的小蟲。",
+    "mnemonic": "小蟲旁邊有個「文」，合起來就是「蚊」。",
+    "visualPrompt": "畫一隻蚊子停在「文」字旁。",
+    "teachingTip": "先圈出虫部，再用「小蟲＋文」口說一次後默寫。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

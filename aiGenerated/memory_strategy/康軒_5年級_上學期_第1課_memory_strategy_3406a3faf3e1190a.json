@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_3406a3faf3e1190a",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "洲"
+  },
+  "data": {
+    "char": "洲",
+    "components": [
+      "氵",
+      "州"
+    ],
+    "association": "洲是水中的大片陸地，所以左邊有三點水。",
+    "mnemonic": "三點水加上「州」，就是水邊的「洲」。",
+    "visualPrompt": "畫三道水流包圍一塊洲。",
+    "teachingTip": "先寫氵，再寫州；用「亞洲、非洲」各說一個詞。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

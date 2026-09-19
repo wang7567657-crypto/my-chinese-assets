@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_8dd66f072b7fe036",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "藏"
+  },
+  "data": {
+    "char": "藏",
+    "components": [
+      "艹",
+      "臧"
+    ],
+    "association": "把東西藏在草叢裡，所以最上面有艹。",
+    "mnemonic": "草字頭下面放「臧」，東西藏得看不見。",
+    "visualPrompt": "畫物品躲在草叢下面。",
+    "teachingTip": "先抓艹＋臧的大結構，再分段書寫，避免漏筆。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

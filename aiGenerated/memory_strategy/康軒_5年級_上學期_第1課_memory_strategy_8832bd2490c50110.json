@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_8832bd2490c50110",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "帳"
+  },
+  "data": {
+    "char": "帳",
+    "components": [
+      "巾",
+      "長"
+    ],
+    "association": "蚊帳是用長長的布巾圍起來的。",
+    "mnemonic": "「巾」是布，「長」表示長長的布，記成「帳」。",
+    "visualPrompt": "畫一塊長布圍成蚊帳，標出巾、長。",
+    "teachingTip": "和「張」比較：帳是巾部，常和布製物品有關。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

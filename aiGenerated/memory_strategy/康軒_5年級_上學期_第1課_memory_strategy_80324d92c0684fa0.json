@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_80324d92c0684fa0",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "寄"
+  },
+  "data": {
+    "char": "寄",
+    "components": [
+      "宀",
+      "奇"
+    ],
+    "association": "寄東西前，包裹先放在屋子裡。",
+    "mnemonic": "屋頂「宀」下面放「奇」，就是「寄」。",
+    "visualPrompt": "畫屋頂下放著一個要寄出的包裹。",
+    "teachingTip": "先寫宀再寫奇，並用「寄信、寄送」造詞。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

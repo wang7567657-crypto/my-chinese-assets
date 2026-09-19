@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_5f11dc1f43767c6a",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "獎"
+  },
+  "data": {
+    "char": "獎",
+    "components": [
+      "將",
+      "大"
+    ],
+    "association": "得到大大的肯定，就會獲得獎勵。",
+    "mnemonic": "上面「將」、下面「大」，記成「大大的獎」。",
+    "visualPrompt": "畫一面大獎牌，將字放在上方。",
+    "teachingTip": "注意下方是大，不要漏掉最後一捺；口說「獎狀」。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}

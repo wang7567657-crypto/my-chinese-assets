@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第1課_memory_strategy_f1b9e058ddd4da3a",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級",
+    "char": "狀"
+  },
+  "data": {
+    "char": "狀",
+    "components": [
+      "爿",
+      "犬"
+    ],
+    "association": "「狀」右邊是犬，像在描述動物的樣子。",
+    "mnemonic": "左邊爿、右邊犬，合起來表示樣子或情形。",
+    "visualPrompt": "用兩色標出左爿右犬，旁邊畫獎狀。",
+    "teachingTip": "和「壯」比較：狀右邊是犬，獎狀的狀要寫犬。"
+  },
+  "createdAt": "2026-09-19T17:00:10.569Z"
+}
