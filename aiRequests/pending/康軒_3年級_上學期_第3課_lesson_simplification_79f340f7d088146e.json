@@ -1,0 +1,42 @@
+{
+  "taskType": "lesson_simplification",
+  "requestId": "康軒_3年級_上學期_第3課_lesson_simplification_79f340f7d088146e",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "featureName": "課文簡化",
+    "scope": "whole_lesson",
+    "itemCount": 6,
+    "targetLevel": "國小三年級",
+    "simplificationLevel": "standard",
+    "preserveWords": [
+      "繞",
+      "由",
+      "迷",
+      "失",
+      "岸",
+      "撞",
+      "扶",
+      "急",
+      "店",
+      "機",
+      "料",
+      "實",
+      "留",
+      "觀",
+      "暴",
+      "闆",
+      "葡",
+      "萄"
+    ],
+    "sourceText": "我叫小金，是個旅行家。兩個多月前，由於突如其來的暴風雨，因此我的船在海上迷失了方向。風雨過後，船停在一座小島，這是一個我從來沒有到過的地方。\n一上岸，一個小孩跑過來撞到了我，我趕緊扶著他問：「你還好嗎？你要去哪裡？」小孩說話又急又快：「小綠送紅花，小力送黃花，小綠想拿紅花換小力的黃花，小力想把黃花換小綠的紅花。他們正在送花，我也要去拿一朵花。」我還沒聽明白，小孩又跑走了。\n走著走著，我看到一家店，牆上有隻「大公雞」，老闆熱情的說：「『抱著灰雞上飛機，飛機起飛，灰雞要飛。』我們用料實在，除了最好吃的『灰雞』，飯後還有水果。」「是什麼水果呢？」老闆笑咪咪的說：「今天有兩種，你喜歡『是柿子不是獅子，不是石子是柿子』的柿子，還是『風吹桃枝落桃子，桃枝落桃撞猴子』的桃子呢？這兩種都是我們繞口令村有名的水果。」\n原來，那個地方就叫「繞口令村」。我在那裡停留十多天，參觀很多地方，也學會了好幾個有趣的繞口令，直到現在，我還常常想起那裡呢！\n\n朵朵對我說\n繞口令是運用字音相近的詞語寫成。練習繞口令，可以讓我們的發音變得更清楚，也可以體會語文的樂趣。",
+    "outputVersion": "2.0",
+    "illustrationStyle": "臺灣國小教材風格、柔和清楚、低視覺負擔、同一課人物造型與配色完全一致、圖片內不放文字",
+    "instruction": "請把整篇課文合併處理，不可逐字或逐段拆成多筆待辦。保留原意、事件順序、人名地名與 preserveWords；把長句改成短句，一句只表達一個重點。每段產生2題只根據該段作答的四選一精讀題，選項清楚且只有一個正確答案。每段產生1張無文字插圖，整課使用一致人物設定、畫風與配色，圖片請存入 aiLessonSimplification/{requestId}/paragraph-01.png 等路徑。回傳 JSON：title、targetLevel、preservedWords、keyPoints、paragraphs；paragraphs 每項必須含 original、simplified、preservedWords、questions（2題，每題含 question、choices、answerIndex〔從0開始〕、explanation）、illustration（含 imageUrl、alt、prompt、styleKey）。不得新增原文沒有的事實。"
+  },
+  "createdAt": "2026-09-19T19:09:36.963Z"
+}
