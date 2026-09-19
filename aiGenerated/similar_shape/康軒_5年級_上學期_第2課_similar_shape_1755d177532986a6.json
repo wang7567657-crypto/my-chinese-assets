@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第2課_similar_shape_1755d177532986a6",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "lessonChars": [
+      "德",
+      "乎",
+      "血",
+      "攝",
+      "颱",
+      "錄",
+      "哀",
+      "巒",
+      "縱",
+      "臍",
+      "禍",
+      "殘",
+      "檳",
+      "榔",
+      "降",
+      "鏟",
+      "汙",
+      "斷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "targetChar": "縱"
+  },
+  "data": {
+    "targetChar": "縱",
+    "similarChars": [
+      {
+        "char": "從",
+        "similarity": "縱的右半就是「從」，主要輪廓相同。",
+        "difference": "從沒有左邊的糹；縱多了糸部。"
+      },
+      {
+        "char": "蹤",
+        "similarity": "右邊都含「從」，都是左右結構。",
+        "difference": "蹤左邊是足；縱左邊是糹。"
+      },
+      {
+        "char": "樅",
+        "similarity": "右邊都含「從」。",
+        "difference": "樅左邊是木；縱左邊是糹。"
+      },
+      {
+        "char": "蓯",
+        "similarity": "都含「從」，下半筆畫相同。",
+        "difference": "蓯上面是艹；縱左邊是糹。"
+      },
+      {
+        "char": "聳",
+        "similarity": "都含「從」，筆畫密集區相近。",
+        "difference": "聳是從在上、耳在下；縱是糹在左、從在右。"
+      },
+      {
+        "char": "慫",
+        "similarity": "都含「從」，上半輪廓相同。",
+        "difference": "慫是從在上、心在下；縱是左右結構。"
+      }
+    ],
+    "teachingTip": "右邊認「從」，左邊看是不是糹；糹加從才是縱。"
+  },
+  "createdAt": "2026-09-19T17:11:36.607Z"
+}

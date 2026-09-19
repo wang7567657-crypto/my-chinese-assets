@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第2課_similar_shape_50e968a18d7b5261",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "lessonChars": [
+      "德",
+      "乎",
+      "血",
+      "攝",
+      "颱",
+      "錄",
+      "哀",
+      "巒",
+      "縱",
+      "臍",
+      "禍",
+      "殘",
+      "檳",
+      "榔",
+      "降",
+      "鏟",
+      "汙",
+      "斷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "targetChar": "禍"
+  },
+  "data": {
+    "targetChar": "禍",
+    "similarChars": [
+      {
+        "char": "鍋",
+        "similarity": "右邊都含「咼」，整體輪廓非常接近。",
+        "difference": "鍋左邊是金；禍左邊是礻。"
+      },
+      {
+        "char": "蝸",
+        "similarity": "右邊都含「咼」。",
+        "difference": "蝸左邊是虫；禍左邊是礻。"
+      },
+      {
+        "char": "窩",
+        "similarity": "都含「咼」，右下輪廓相同。",
+        "difference": "窩上面是宀；禍左邊是礻。"
+      },
+      {
+        "char": "過",
+        "similarity": "都含「咼」。",
+        "difference": "過外面有辶；禍左邊是礻。"
+      },
+      {
+        "char": "渦",
+        "similarity": "右邊都含「咼」，都是左右結構。",
+        "difference": "渦左邊是氵；禍左邊是礻。"
+      },
+      {
+        "char": "萵",
+        "similarity": "都含「咼」。",
+        "difference": "萵上面是艹；禍左邊是礻。"
+      }
+    ],
+    "teachingTip": "先認右邊「咼」，再看左邊；礻加咼是禍。"
+  },
+  "createdAt": "2026-09-19T17:11:36.607Z"
+}

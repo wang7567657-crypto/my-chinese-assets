@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第2課_similar_shape_dff2913501dfa71e",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "lessonChars": [
+      "德",
+      "乎",
+      "血",
+      "攝",
+      "颱",
+      "錄",
+      "哀",
+      "巒",
+      "縱",
+      "臍",
+      "禍",
+      "殘",
+      "檳",
+      "榔",
+      "降",
+      "鏟",
+      "汙",
+      "斷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "targetChar": "檳"
+  },
+  "data": {
+    "targetChar": "檳",
+    "similarChars": [
+      {
+        "char": "賓",
+        "similarity": "檳的右半就是「賓」，筆畫完全相同。",
+        "difference": "賓沒有左邊的木；檳多了木部。"
+      },
+      {
+        "char": "濱",
+        "similarity": "右邊都含「賓」。",
+        "difference": "濱左邊是氵；檳左邊是木。"
+      },
+      {
+        "char": "繽",
+        "similarity": "右邊都含「賓」，都是左右結構。",
+        "difference": "繽左邊是糹；檳左邊是木。"
+      },
+      {
+        "char": "嬪",
+        "similarity": "右邊都含「賓」。",
+        "difference": "嬪左邊是女；檳左邊是木。"
+      },
+      {
+        "char": "殯",
+        "similarity": "右邊都含「賓」。",
+        "difference": "殯左邊是歹；檳左邊是木。"
+      },
+      {
+        "char": "擯",
+        "similarity": "右邊都含「賓」。",
+        "difference": "擯左邊是扌；檳左邊是木。"
+      }
+    ],
+    "teachingTip": "先認右邊的「賓」，再看左邊是不是木；木加賓是檳。"
+  },
+  "createdAt": "2026-09-19T17:11:36.607Z"
+}

@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第2課_similar_shape_59ca0857c77c46ed",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "lessonChars": [
+      "德",
+      "乎",
+      "血",
+      "攝",
+      "颱",
+      "錄",
+      "哀",
+      "巒",
+      "縱",
+      "臍",
+      "禍",
+      "殘",
+      "檳",
+      "榔",
+      "降",
+      "鏟",
+      "汙",
+      "斷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "targetChar": "鏟"
+  },
+  "data": {
+    "targetChar": "鏟",
+    "similarChars": [
+      {
+        "char": "產",
+        "similarity": "鏟的右半就是「產」，筆畫完全相同。",
+        "difference": "產沒有左邊的金；鏟多了金部。"
+      },
+      {
+        "char": "剷",
+        "similarity": "都完整含有「產」。",
+        "difference": "剷右邊是刂；鏟左邊是金。"
+      },
+      {
+        "char": "薩",
+        "similarity": "都含有產形部件，右下輪廓接近。",
+        "difference": "薩上面有艹、左側有阝；鏟左邊是金。"
+      },
+      {
+        "char": "顏",
+        "similarity": "上半彥形與產的上半相近，整體筆畫密集。",
+        "difference": "顏右邊是頁；鏟左邊是金、右邊是產。"
+      },
+      {
+        "char": "彥",
+        "similarity": "與產的上半和撇畫排列接近。",
+        "difference": "彥下面是多撇；產下面有生。"
+      },
+      {
+        "char": "諺",
+        "similarity": "右邊是彥，和產的外形很接近。",
+        "difference": "諺左邊是言、右邊是彥；鏟左邊是金、右邊是產。"
+      }
+    ],
+    "teachingTip": "先認右邊的「產」，再看左邊；金部加產是鏟。"
+  },
+  "createdAt": "2026-09-19T17:11:36.607Z"
+}

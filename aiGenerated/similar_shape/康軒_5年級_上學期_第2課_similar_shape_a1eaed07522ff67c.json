@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第2課_similar_shape_a1eaed07522ff67c",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "lessonChars": [
+      "德",
+      "乎",
+      "血",
+      "攝",
+      "颱",
+      "錄",
+      "哀",
+      "巒",
+      "縱",
+      "臍",
+      "禍",
+      "殘",
+      "檳",
+      "榔",
+      "降",
+      "鏟",
+      "汙",
+      "斷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "targetChar": "血"
+  },
+  "data": {
+    "targetChar": "血",
+    "similarChars": [
+      {
+        "char": "皿",
+        "similarity": "下半外框與內部直畫很接近。",
+        "difference": "皿沒有最上方的撇；血比皿多一個撇形起筆。"
+      },
+      {
+        "char": "舟",
+        "similarity": "都有狹長外框，內部也有短畫。",
+        "difference": "舟內有點、提等斜向筆畫；血下方較像皿。"
+      },
+      {
+        "char": "自",
+        "similarity": "都有上方小撇與直立方框。",
+        "difference": "自的框內有兩條橫畫；血的下方開展成皿形。"
+      },
+      {
+        "char": "白",
+        "similarity": "都有撇加方框的輪廓。",
+        "difference": "白框內只有一橫；血底部較寬並有內部直畫。"
+      },
+      {
+        "char": "而",
+        "similarity": "都有上橫、外框和內部直畫。",
+        "difference": "而以橫起筆、下方分腿；血以撇起筆、底部封橫。"
+      },
+      {
+        "char": "向",
+        "similarity": "都有撇與外框，整體輪廓接近。",
+        "difference": "向的框內是口；血的框內是兩條直畫。"
+      }
+    ],
+    "teachingTip": "血的第一筆是撇，下面像皿；先確認頂端是否多出一撇。"
+  },
+  "createdAt": "2026-09-19T17:11:36.607Z"
+}

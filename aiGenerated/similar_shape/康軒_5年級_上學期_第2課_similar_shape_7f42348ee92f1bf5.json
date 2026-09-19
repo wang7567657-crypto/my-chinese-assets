@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第2課_similar_shape_7f42348ee92f1bf5",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "lessonChars": [
+      "德",
+      "乎",
+      "血",
+      "攝",
+      "颱",
+      "錄",
+      "哀",
+      "巒",
+      "縱",
+      "臍",
+      "禍",
+      "殘",
+      "檳",
+      "榔",
+      "降",
+      "鏟",
+      "汙",
+      "斷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "targetChar": "汙"
+  },
+  "data": {
+    "targetChar": "汙",
+    "similarChars": [
+      {
+        "char": "汗",
+        "similarity": "都有氵，右邊也都是少筆畫的橫豎結構。",
+        "difference": "汗右邊是干；汙右邊是于，末筆帶鉤。"
+      },
+      {
+        "char": "污",
+        "similarity": "都有氵，整體只差右半的細小筆形。",
+        "difference": "污右邊是亏形；汙右邊是于。"
+      },
+      {
+        "char": "汪",
+        "similarity": "都有氵，右邊都是橫豎組成。",
+        "difference": "汪右邊是王，有三橫；汙右邊是于。"
+      },
+      {
+        "char": "江",
+        "similarity": "都有氵，右半輪廓簡單。",
+        "difference": "江右邊是工，上下兩橫；汙右邊是于。"
+      },
+      {
+        "char": "汀",
+        "similarity": "都有氵，右邊都有豎鉤。",
+        "difference": "汀右邊是丁；汙右邊的于多一橫。"
+      },
+      {
+        "char": "沂",
+        "similarity": "都有氵，都是左右結構。",
+        "difference": "沂右邊是斤，筆畫較多；汙右邊是于。"
+      }
+    ],
+    "teachingTip": "先看左邊三點水，再看右邊是「于」；不要把橫豎位置看成干、工或王。"
+  },
+  "createdAt": "2026-09-19T17:11:36.607Z"
+}

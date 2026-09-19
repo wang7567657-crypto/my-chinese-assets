@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第2課_similar_shape_6dd1064de1048f8b",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "lessonChars": [
+      "德",
+      "乎",
+      "血",
+      "攝",
+      "颱",
+      "錄",
+      "哀",
+      "巒",
+      "縱",
+      "臍",
+      "禍",
+      "殘",
+      "檳",
+      "榔",
+      "降",
+      "鏟",
+      "汙",
+      "斷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "targetChar": "攝"
+  },
+  "data": {
+    "targetChar": "攝",
+    "similarChars": [
+      {
+        "char": "聶",
+        "similarity": "右半的「聶」與攝完全相同。",
+        "difference": "聶沒有左邊的扌；攝多了手部。"
+      },
+      {
+        "char": "躡",
+        "similarity": "都含三個耳組成的「聶」，右半完全相同。",
+        "difference": "躡左邊是足；攝左邊是扌。"
+      },
+      {
+        "char": "鑷",
+        "similarity": "都含「聶」，整體都是左右結構。",
+        "difference": "鑷左邊是金；攝左邊是扌。"
+      },
+      {
+        "char": "懾",
+        "similarity": "都含「聶」，右側筆畫密集。",
+        "difference": "懾左邊是忄；攝左邊是扌。"
+      },
+      {
+        "char": "囁",
+        "similarity": "都含「聶」，右半輪廓相同。",
+        "difference": "囁左邊是口；攝左邊是扌。"
+      },
+      {
+        "char": "顳",
+        "similarity": "都含「聶」，都是高密度的左右字形。",
+        "difference": "顳右邊多頁；攝左邊是扌，排列方向不同。"
+      }
+    ],
+    "teachingTip": "先認右邊三個「耳」組成的聶，再用左邊部首判斷是哪個字。"
+  },
+  "createdAt": "2026-09-19T17:11:36.607Z"
+}

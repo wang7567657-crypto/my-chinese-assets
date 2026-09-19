@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第2課_similar_shape_854136ae97709ba3",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "lessonChars": [
+      "德",
+      "乎",
+      "血",
+      "攝",
+      "颱",
+      "錄",
+      "哀",
+      "巒",
+      "縱",
+      "臍",
+      "禍",
+      "殘",
+      "檳",
+      "榔",
+      "降",
+      "鏟",
+      "汙",
+      "斷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "targetChar": "哀"
+  },
+  "data": {
+    "targetChar": "哀",
+    "similarChars": [
+      {
+        "char": "衰",
+        "similarity": "都有衣形外框，整體上窄下寬。",
+        "difference": "衰中間有一與口形交疊；哀中間是清楚的口。"
+      },
+      {
+        "char": "衷",
+        "similarity": "都有衣形包住中間部件。",
+        "difference": "衷中間是中；哀中間是口。"
+      },
+      {
+        "char": "衣",
+        "similarity": "哀的外圍就是衣形，頂部和下方撇捺相近。",
+        "difference": "衣中間沒有口；哀比衣多了口。"
+      },
+      {
+        "char": "裏",
+        "similarity": "都有衣形包住中間部件。",
+        "difference": "裏中間是里；哀中間是口。"
+      },
+      {
+        "char": "袞",
+        "similarity": "都有上中下結構與衣形下半。",
+        "difference": "袞中間不是口，筆畫較多；哀中間是口。"
+      },
+      {
+        "char": "裹",
+        "similarity": "都有衣形包覆的外觀。",
+        "difference": "裹中間是果；哀中間是口。"
+      }
+    ],
+    "teachingTip": "哀是衣形中包著「口」；先找中間是不是口，再看上下衣形。"
+  },
+  "createdAt": "2026-09-19T17:11:36.607Z"
+}

@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第2課_similar_shape_e0525b3b8805b93f",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "lessonChars": [
+      "德",
+      "乎",
+      "血",
+      "攝",
+      "颱",
+      "錄",
+      "哀",
+      "巒",
+      "縱",
+      "臍",
+      "禍",
+      "殘",
+      "檳",
+      "榔",
+      "降",
+      "鏟",
+      "汙",
+      "斷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "targetChar": "颱"
+  },
+  "data": {
+    "targetChar": "颱",
+    "similarChars": [
+      {
+        "char": "風",
+        "similarity": "颱完整含有風部，主要外框相同。",
+        "difference": "風沒有右邊的台；颱是風加台。"
+      },
+      {
+        "char": "颳",
+        "similarity": "都有風部，左側外框與內部虫形相同。",
+        "difference": "颳右邊是舌；颱右邊是台。"
+      },
+      {
+        "char": "颶",
+        "similarity": "都有風部，整體左側輪廓相同。",
+        "difference": "颶右邊是具；颱右邊是台。"
+      },
+      {
+        "char": "颼",
+        "similarity": "都有風部，左側結構一致。",
+        "difference": "颼右邊是叟；颱右邊是台。"
+      },
+      {
+        "char": "飄",
+        "similarity": "都有完整的風部，筆畫密度相近。",
+        "difference": "飄的風在右、票在左；颱的風在左、台在右。"
+      },
+      {
+        "char": "颯",
+        "similarity": "都有風部，都是左右結構。",
+        "difference": "颯左邊是立、風在右；颱的風在左、台在右。"
+      }
+    ],
+    "teachingTip": "先找風部，再確認風旁搭配的是「台」，就是颱風的颱。"
+  },
+  "createdAt": "2026-09-19T17:11:36.607Z"
+}
