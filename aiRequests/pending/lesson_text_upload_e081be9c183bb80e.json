@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_e081be9c183bb80e",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "title": "一、字的小旅行",
+    "text": "爺爺教我寫心字：\n「心是一葉舟，\n細雨灑輕舟，\n一點落舟前，\n一點落舟中，\n一點落舟後。」\n心的小船輕輕走，\n小船上要載什麼呢？\n\n只載自己好不好？\n不好，不好！\n一下變成息，愛休息。\n小船停下不航行。\n一下變成忌，愛忌妒。\n快樂消失太可惜。\n\n心的小船上，\n還是讓我載著你，\n讓你變成您，\n一起去看美麗新世界！\n\n朵朵對我說\n    爺爺的話，是過去人們教孩子寫「心」字的口訣。「心」字中間那筆看似一條小舟，在「心的小船」加上不同的字，就能變出有趣的新字。我們一起練習看看吧！",
+    "fileName": "康軒_3年級_上學期_第1課.json",
+    "targetPath": "lessonText/康軒_3年級_上學期_第1課.json",
+    "overwrite": true,
+    "instruction": "核對版本、年級、學期、課次與檔名一致後，將 title 與 text 寫入指定 lessonText JSON；推送並確認可讀取後，再將待辦移至 done。"
+  },
+  "createdAt": "2026-09-19T18:40:43.880Z"
+}
