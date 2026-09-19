@@ -1,0 +1,50 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_5年級_上學期_第2課_component_split_5bd6c8a469bb8241",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "strokeSource": "c9s/zh-stroke-data",
+    "char": "乎",
+    "strokeCount": 5,
+    "needsStrokeCount": false
+  },
+  "data": {
+    "components": [
+      "乎"
+    ],
+    "note": "「乎」為獨體字，共 5 畫，不硬拆成兩個字形部件；部首檢索歸「丿」部。",
+    "radical": "丿",
+    "radicalStrokeIndices": [
+      1
+    ],
+    "radicalVerified": true,
+    "source": "c9s_strokes_reviewed",
+    "split": [
+      5
+    ],
+    "strokeCount": 5,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "structure": "獨體",
+    "updatedAt": "2026-09-19T17:06:32.875Z",
+    "verification": {
+      "method": "核對 c9s XML 筆畫數與臺灣常用部首；依獨體字規則保留完整字，不虛構拆分。",
+      "sourceBlobSha": "473ab466cf7167ba581afff0ef51660916d53877",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/4e4e.xml"
+    },
+    "verified": true
+  },
+  "createdAt": "2026-09-19T17:06:32.875Z"
+}

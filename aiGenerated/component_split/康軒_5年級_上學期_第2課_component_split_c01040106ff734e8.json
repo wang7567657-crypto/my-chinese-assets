@@ -1,0 +1,60 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_5年級_上學期_第2課_component_split_c01040106ff734e8",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "strokeSource": "c9s/zh-stroke-data",
+    "char": "哀",
+    "strokeCount": 9,
+    "needsStrokeCount": false
+  },
+  "data": {
+    "components": [
+      "口",
+      "其餘部分"
+    ],
+    "note": "已核對 c9s 原始筆畫資料，共 9 畫；部首「口」與其餘部分各自保留原字位置及原筆順。",
+    "radical": "口",
+    "radicalStrokeIndices": [
+      3,
+      4,
+      5
+    ],
+    "radicalVerified": true,
+    "source": "c9s_strokes_reviewed",
+    "split": [
+      3,
+      6
+    ],
+    "strokeCount": 9,
+    "strokeGroups": [
+      [
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        6,
+        7,
+        8,
+        9
+      ]
+    ],
+    "structure": "上中下",
+    "updatedAt": "2026-09-19T17:06:32.875Z",
+    "verification": {
+      "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+      "sourceBlobSha": "4ffc41539edee41de96371aff2e812474e6168ac",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/54c0.xml"
+    },
+    "verified": true
+  },
+  "createdAt": "2026-09-19T17:06:32.875Z"
+}

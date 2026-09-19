@@ -1,0 +1,56 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_5年級_上學期_第2課_component_split_86020aa332609897",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "strokeSource": "c9s/zh-stroke-data",
+    "char": "血",
+    "strokeCount": 6,
+    "needsStrokeCount": false
+  },
+  "data": {
+    "components": [
+      "血"
+    ],
+    "note": "「血」為獨體字，共 6 畫，不硬拆成兩個字形部件；部首檢索歸「血」部。",
+    "radical": "血",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "radicalVerified": true,
+    "source": "c9s_strokes_reviewed",
+    "split": [
+      6
+    ],
+    "strokeCount": 6,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    ],
+    "structure": "獨體",
+    "updatedAt": "2026-09-19T17:06:32.875Z",
+    "verification": {
+      "method": "核對 c9s XML 筆畫數與臺灣常用部首；依獨體字規則保留完整字，不虛構拆分。",
+      "sourceBlobSha": "894e359a1634f8b03a49da8b595b205fe490ec3c",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/8840.xml"
+    },
+    "verified": true
+  },
+  "createdAt": "2026-09-19T17:06:32.875Z"
+}

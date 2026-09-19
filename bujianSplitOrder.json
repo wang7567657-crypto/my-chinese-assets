@@ -2825,6 +2825,887 @@
         "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/75be.xml"
       },
       "verified": true
+    },
+    "德": {
+      "components": [
+        "彳",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 15 畫；部首「彳」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "彳",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        3,
+        12
+      ],
+      "strokeCount": 15,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "cfdf7ce4514de965b370e0c6ffd951c56e4d4b1c",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5fb7.xml"
+      },
+      "verified": true
+    },
+    "乎": {
+      "components": [
+        "乎"
+      ],
+      "note": "「乎」為獨體字，共 5 畫，不硬拆成兩個字形部件；部首檢索歸「丿」部。",
+      "radical": "丿",
+      "radicalStrokeIndices": [
+        1
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        5
+      ],
+      "strokeCount": 5,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "structure": "獨體",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數與臺灣常用部首；依獨體字規則保留完整字，不虛構拆分。",
+        "sourceBlobSha": "473ab466cf7167ba581afff0ef51660916d53877",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/4e4e.xml"
+      },
+      "verified": true
+    },
+    "血": {
+      "components": [
+        "血"
+      ],
+      "note": "「血」為獨體字，共 6 畫，不硬拆成兩個字形部件；部首檢索歸「血」部。",
+      "radical": "血",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        6
+      ],
+      "strokeCount": 6,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      ],
+      "structure": "獨體",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數與臺灣常用部首；依獨體字規則保留完整字，不虛構拆分。",
+        "sourceBlobSha": "894e359a1634f8b03a49da8b595b205fe490ec3c",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/8840.xml"
+      },
+      "verified": true
+    },
+    "攝": {
+      "components": [
+        "扌",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 21 畫；部首「手」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "手",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        3,
+        18
+      ],
+      "strokeCount": 21,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "51589ba9699a86eed876f9d210ccf431b403bb99",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/651d.xml"
+      },
+      "verified": true
+    },
+    "颱": {
+      "components": [
+        "風",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 14 畫；部首「風」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "風",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        9,
+        5
+      ],
+      "strokeCount": 14,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        [
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "868100a61616dc8b5c2dcd7c50045483f53f66e3",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/98b1.xml"
+      },
+      "verified": true
+    },
+    "錄": {
+      "components": [
+        "金",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 16 畫；部首「金」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "金",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        8,
+        8
+      ],
+      "strokeCount": 16,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "ec2838487b56743821d88f71d73d82a97b414851",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/9304.xml"
+      },
+      "verified": true
+    },
+    "哀": {
+      "components": [
+        "口",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 9 畫；部首「口」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "口",
+      "radicalStrokeIndices": [
+        3,
+        4,
+        5
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        3,
+        6
+      ],
+      "strokeCount": 9,
+      "strokeGroups": [
+        [
+          3,
+          4,
+          5
+        ],
+        [
+          1,
+          2,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "structure": "上中下",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "4ffc41539edee41de96371aff2e812474e6168ac",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/54c0.xml"
+      },
+      "verified": true
+    },
+    "巒": {
+      "components": [
+        "山",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 22 畫；部首「山」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "山",
+      "radicalStrokeIndices": [
+        20,
+        21,
+        22
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        3,
+        19
+      ],
+      "strokeCount": 22,
+      "strokeGroups": [
+        [
+          20,
+          21,
+          22
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      ],
+      "structure": "上下",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "03f038642a40bca0b5fc4bc3cbfc7729bad6c0a1",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5dd2.xml"
+      },
+      "verified": true
+    },
+    "縱": {
+      "components": [
+        "糹",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 17 畫；部首「糸」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "糸",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        6,
+        11
+      ],
+      "strokeCount": 17,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "aa34c888a6e291928e80607dbcaa888585b661c8",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/7e31.xml"
+      },
+      "verified": true
+    },
+    "臍": {
+      "components": [
+        "月",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 18 畫；部首「肉」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "肉",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        4,
+        14
+      ],
+      "strokeCount": 18,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "615f945197f617af007a374e380b4385c970b642",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/81cd.xml"
+      },
+      "verified": true
+    },
+    "禍": {
+      "components": [
+        "礻",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 13 畫；部首「示」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "示",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        4,
+        9
+      ],
+      "strokeCount": 13,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "9221e9bcdf3c5c258fde2da831fc9e2c4c670166",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/798d.xml"
+      },
+      "verified": true
+    },
+    "殘": {
+      "components": [
+        "歹",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 12 畫；部首「歹」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "歹",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        4,
+        8
+      ],
+      "strokeCount": 12,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "16b09e831aa23420e7405a370d0c9e4fe5e8df76",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6b98.xml"
+      },
+      "verified": true
+    },
+    "檳": {
+      "components": [
+        "木",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 18 畫；部首「木」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "木",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        4,
+        14
+      ],
+      "strokeCount": 18,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "233f91de029b8a8f5c97e7de95851065a3d7a582",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6ab3.xml"
+      },
+      "verified": true
+    },
+    "榔": {
+      "components": [
+        "木",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 13 畫；部首「木」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "木",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        4,
+        9
+      ],
+      "strokeCount": 13,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "2d2de60f6f486794f655b0a1bf1cbd6daadb3c62",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6994.xml"
+      },
+      "verified": true
+    },
+    "降": {
+      "components": [
+        "阝",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 9 畫；部首「阜」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "阜",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        3,
+        6
+      ],
+      "strokeCount": 9,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "f16c62871861b889d2306af4ff8306e1698f4846",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/964d.xml"
+      },
+      "verified": true
+    },
+    "鏟": {
+      "components": [
+        "金",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 19 畫；部首「金」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "金",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        8,
+        11
+      ],
+      "strokeCount": 19,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "8b8316e6c466bb0bd7fe8e78fd2089f6e97e7d8f",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/93df.xml"
+      },
+      "verified": true
+    },
+    "汙": {
+      "components": [
+        "氵",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 6 畫；部首「水」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "水",
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        3,
+        3
+      ],
+      "strokeCount": 6,
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "cdcd4d75bb3af2824c06b9fc9f3d04551e0bb75e",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6c59.xml"
+      },
+      "verified": true
+    },
+    "斷": {
+      "components": [
+        "斤",
+        "其餘部分"
+      ],
+      "note": "已核對 c9s 原始筆畫資料，共 18 畫；部首「斤」與其餘部分各自保留原字位置及原筆順。",
+      "radical": "斤",
+      "radicalStrokeIndices": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "radicalVerified": true,
+      "source": "c9s_strokes_reviewed",
+      "split": [
+        4,
+        14
+      ],
+      "strokeCount": 18,
+      "strokeGroups": [
+        [
+          15,
+          16,
+          17,
+          18
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      ],
+      "structure": "左右",
+      "updatedAt": "2026-09-19T17:06:32.875Z",
+      "verification": {
+        "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+        "sourceBlobSha": "8848d37438e8e5acf76021d5362b2669d14897a7",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/65b7.xml"
+      },
+      "verified": true
     }
   },
   "description": "陽光智慧黑板部件拆分字典。只有 verified=true 的資料可用於教學分色與部件拼貼。",
