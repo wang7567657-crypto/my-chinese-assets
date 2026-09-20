@@ -1,0 +1,150 @@
+{
+  "taskType": "lesson_simplification",
+  "requestId": "翰林_6年級_上學期_第1課_lesson_simplification_02d41cc9bd746c0e",
+  "version": "2.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "createdAt": "2026-09-20T14:03:06Z",
+  "updatedAt": "2026-09-20T14:03:06Z",
+  "data": {
+    "title": "一、遇見自己",
+    "targetLevel": "國小六年級",
+    "preservedWords": [
+      "皺",
+      "晃",
+      "弄",
+      "摯",
+      "蝴",
+      "蝶",
+      "蛹",
+      "翼",
+      "註",
+      "儲"
+    ],
+    "keyPoints": [
+      "詩人在池水的倒影中看見自己，也感受到家人、師長和同學對自己的關心。",
+      "詩人向小魚、蝴蝶和陽光提問，思考友情、夢想，以及自己的優點和缺點。",
+      "詩人決定用誠懇與光明面對自己，並把美好的畫面送給未來的自己。"
+    ],
+    "paragraphs": [
+      {
+        "original": "風揚起池水的漣漪\n我遇見皺巴巴的自己\n葉縫裡透出的小眼睛\n有如家人和師長同學\n好奇看著波光裡的自己\n等風停時搖晃的表情\n會扮鬼臉還是笑咪咪",
+        "simplified": "風吹動池水，水面出現漣漪。\n我在水中看見皺巴巴、搖晃的自己。\n葉縫像一雙雙小眼睛。\n它們像家人、師長和同學，好奇地看著我。\n等風停下來，我想知道水中的自己，會扮鬼臉，還是笑咪咪。",
+        "preservedWords": [
+          "皺",
+          "晃"
+        ],
+        "questions": [
+          {
+            "question": "葉縫裡的小眼睛讓作者想到哪些人？",
+            "choices": [
+              "家人、師長和同學",
+              "池塘裡的小魚",
+              "自由飛翔的蝴蝶",
+              "未來長大的自己"
+            ],
+            "answerIndex": 0,
+            "explanation": "本段把葉縫裡的小眼睛比作家人、師長和同學，好奇地看著作者。"
+          },
+          {
+            "question": "等風停下來，作者想知道水中的自己會有什麼表情？",
+            "choices": [
+              "扮鬼臉或笑咪咪",
+              "難過地流眼淚",
+              "閉著眼睛睡覺",
+              "生氣地皺著眉頭"
+            ],
+            "answerIndex": 0,
+            "explanation": "原文問水中的自己會扮鬼臉，還是笑咪咪。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第1課_lesson_simplification_02d41cc9bd746c0e/paragraph-01.png",
+          "alt": "學生在池塘邊看著被漣漪搖晃的自己倒影",
+          "prompt": "短黑髮、青綠上衣的六年級學生在池塘旁，看著被漣漪弄皺並搖晃的自己倒影，葉縫像好奇的小眼睛。",
+          "styleKey": "meet-yourself-v1"
+        }
+      },
+      {
+        "original": "覓食的小魚呀請問你\n熱情卻愛捉弄人的笑容\n能不能找到真摯的友情\n自由自在的蝴蝶呀請問你\n想學習又貪玩的心情\n能不能破蛹飛起張開夢想的彩翼\n耀眼的陽光呀請問你\n明亮的優點和陰暗的缺點\n是天註定或由我決定",
+        "simplified": "我問正在覓食的小魚：\n我雖然熱情，卻也愛捉弄別人，能不能得到真摯的友情？\n我問自由飛翔的蝴蝶：\n我想學習，卻也貪玩，能不能破蛹而出，張開夢想的彩翼？\n我再問耀眼的陽光：\n我的優點和缺點，是天註定的，還是由我自己決定？",
+        "preservedWords": [
+          "弄",
+          "摯",
+          "蝴",
+          "蝶",
+          "蛹",
+          "翼",
+          "註"
+        ],
+        "questions": [
+          {
+            "question": "作者為什麼向小魚詢問友情？",
+            "choices": [
+              "他熱情，卻也會捉弄別人",
+              "他不知道小魚住在哪裡",
+              "他想請小魚一起捉蝴蝶",
+              "他希望小魚幫忙找到食物"
+            ],
+            "answerIndex": 0,
+            "explanation": "作者想知道熱情卻愛捉弄人的自己，能不能找到真摯的友情。"
+          },
+          {
+            "question": "作者向陽光詢問什麼？",
+            "choices": [
+              "優點和缺點由誰決定",
+              "蝴蝶會飛到哪裡",
+              "小魚喜歡吃什麼",
+              "池水何時停止搖晃"
+            ],
+            "answerIndex": 0,
+            "explanation": "作者向陽光詢問，自己的優點和缺點是天註定，還是由自己決定。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第1課_lesson_simplification_02d41cc9bd746c0e/paragraph-02.png",
+          "alt": "學生看著覓食小魚與剛展開翅膀的蝴蝶",
+          "prompt": "同一位學生在池塘旁看著覓食小魚、蛹和展開彩翼的蝴蝶，思考友情、夢想、優點與缺點。",
+          "styleKey": "meet-yourself-v1"
+        }
+      },
+      {
+        "original": "摘一片雪白的雲\n擦亮誠懇的心靈\n迎向太陽把幽暗抹成光明\n哇噴泉的彩虹成微笑倒影\n快儲存成動畫\n寄給未來的自己",
+        "simplified": "我摘下一片雪白的雲，想把誠懇的心擦亮。\n我迎向太陽，把心中的幽暗變成光明。\n噴泉的彩虹像微笑的倒影。\n我要把這個畫面儲存成動畫，寄給未來的自己。",
+        "preservedWords": [
+          "儲"
+        ],
+        "questions": [
+          {
+            "question": "作者想用雪白的雲擦亮什麼？",
+            "choices": [
+              "誠懇的心靈",
+              "池塘的水面",
+              "蝴蝶的彩翼",
+              "家人的眼睛"
+            ],
+            "answerIndex": 0,
+            "explanation": "本段寫作者摘一片雪白的雲，擦亮誠懇的心靈。"
+          },
+          {
+            "question": "作者想把噴泉和彩虹的畫面怎麼處理？",
+            "choices": [
+              "儲存成動畫，寄給未來的自己",
+              "畫成圖畫，送給池塘的小魚",
+              "拍成照片，交給老師評分",
+              "寫成卡片，寄給家人和同學"
+            ],
+            "answerIndex": 0,
+            "explanation": "作者要把噴泉彩虹的微笑倒影儲存成動畫，寄給未來的自己。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第1課_lesson_simplification_02d41cc9bd746c0e/paragraph-03.png",
+          "alt": "學生用平板記錄噴泉彩虹與微笑般的倒影",
+          "prompt": "同一位學生迎向陽光，在噴泉旁用平板記錄彩虹與微笑般的倒影，準備送給未來的自己。",
+          "styleKey": "meet-yourself-v1"
+        }
+      }
+    ]
+  }
+}
