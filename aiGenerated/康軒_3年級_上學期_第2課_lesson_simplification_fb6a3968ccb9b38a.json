@@ -1,0 +1,95 @@
+{
+  "requestId": "康軒_3年級_上學期_第2課_lesson_simplification_fb6a3968ccb9b38a",
+  "taskType": "lesson_simplification",
+  "status": "completed",
+  "title": "第2課 歪打正著／忙中有錯",
+  "publisher": "康軒",
+  "grade": "3年級",
+  "semester": "上學期",
+  "lesson": "第2課",
+  "targetLevel": "國小三年級",
+  "simplificationLevel": "standard",
+  "simplificationLevelLabel": "標準簡化",
+  "illustrationSetKey": "康軒_3年級_上學期_第2課_lesson-images_9559d7c6178eed34",
+  "illustrationSourceRequestId": "康軒_3年級_上學期_第2課_lesson_simplification_fb6a3968ccb9b38a",
+  "preservedWords": ["名", "窗", "戶", "板", "答", "案", "專", "穫", "已", "傘", "喊", "章", "詞", "語", "歪", "霧", "晃", "亂"],
+  "keyPoints": [
+    "以樂上課看窗外，被老師問『霧裡看花』的意思。",
+    "以樂回答『看不清楚』，剛好說對詞語意思，但仍要專心上課。",
+    "王叔叔太累，在公車上睡著，醒來後忙亂中拿錯雨傘。",
+    "四字詞語能讓文章更精采、生動。"
+  ],
+  "paragraphs": [
+    {
+      "original": "歪打正著\n以樂最近經常看著窗戶外面，因為那裡有棵大樹，常常有小鳥飛過去。有一次上課，老師發現他正看著外面，就對他說：「以樂，請你說一說『霧裡看花』是什麼意思？」",
+      "simplified": "以樂上課時，常看著窗戶外的大樹和小鳥。老師發現後，點名問他：「霧裡看花是什麼意思？」",
+      "preservedWords": ["名", "窗", "戶", "霧", "歪"],
+      "questions": [
+        {"question": "以樂上課時常看哪裡？", "choices": ["窗戶外面", "教室門口", "自己的書包", "老師的桌子"], "answerIndex": 0, "explanation": "文中說以樂常看窗戶外的大樹和小鳥。"},
+        {"question": "老師問以樂哪一個詞語的意思？", "choices": ["一馬當先", "霧裡看花", "手忙腳亂", "歪打正著"], "answerIndex": 1, "explanation": "老師問的是「霧裡看花」。"}
+      ],
+      "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_3年級_上學期_第2課_lesson-images_9559d7c6178eed34/paragraph-01.jpg", "alt": "以樂上課看窗外，老師正在提問", "prompt": "以樂在教室看窗外大樹與小鳥，老師溫和提問", "styleKey": "taiwan-elementary-soft-v1"}
+    },
+    {
+      "original": "聽到老師點名叫他，以樂緊張的站起來，雖然他張大了眼睛看著黑板，可是怎麼也找不到答案。最後只好不好意思的低著頭，小聲的說：「我……我……看不清楚。」",
+      "simplified": "以樂突然被點名，很緊張。他站起來看著黑板，還是找不到答案，只好低著頭說：「我看不清楚。」",
+      "preservedWords": ["名", "板", "答", "案"],
+      "questions": [
+        {"question": "以樂被點名後有什麼感覺？", "choices": ["開心", "生氣", "緊張", "無聊"], "answerIndex": 2, "explanation": "以樂突然被點名，所以很緊張。"},
+        {"question": "以樂最後說了什麼？", "choices": ["我看不清楚", "我不想回答", "我想去外面", "我已經寫完"], "answerIndex": 0, "explanation": "他找不到答案，低頭說「我看不清楚」。"}
+      ],
+      "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_3年級_上學期_第2課_lesson-images_9559d7c6178eed34/paragraph-02.jpg", "alt": "以樂緊張站起來，最後不好意思低頭", "prompt": "以樂被點名後緊張，看黑板找不到答案並低頭", "styleKey": "taiwan-elementary-soft-v1"}
+    },
+    {
+      "original": "老師說：「這次你說對了，不過，你老是看窗外是不行的，上課要專心一點，才能有收穫。」",
+      "simplified": "老師說，以樂剛好答對了。「霧裡看花」就是看不清楚。不過，上課還是要專心，才能有收穫。",
+      "preservedWords": ["答", "專", "穫", "霧"],
+      "questions": [
+        {"question": "「霧裡看花」是什麼意思？", "choices": ["看得很清楚", "看不清楚", "看見很多花", "在霧裡跑步"], "answerIndex": 1, "explanation": "「霧裡看花」表示看得不清楚。"},
+        {"question": "老師提醒以樂上課要怎麼做？", "choices": ["一直看窗外", "趴著睡覺", "專心學習", "大聲說話"], "answerIndex": 2, "explanation": "專心上課，才能有收穫。"}
+      ],
+      "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_3年級_上學期_第2課_lesson-images_9559d7c6178eed34/paragraph-03.jpg", "alt": "老師溫和提醒以樂要專心上課", "prompt": "老師溫和提醒以樂專心，以樂理解地聽著", "styleKey": "taiwan-elementary-soft-v1"}
+    },
+    {
+      "original": "忙中有錯\n有一天下著大雨，王叔叔加班到很晚才下班，他一坐上公車，就趕緊找位子坐下。",
+      "simplified": "有一天下大雨，王叔叔加班到很晚。他上了公車，趕快找位子坐下。",
+      "preservedWords": [],
+      "questions": [
+        {"question": "王叔叔下班時，天氣怎麼樣？", "choices": ["下大雨", "出大太陽", "下雪", "起大霧"], "answerIndex": 0, "explanation": "那一天正在下大雨。"},
+        {"question": "王叔叔上公車後先做什麼？", "choices": ["找位子坐下", "打電話", "吃晚餐", "打開雨傘"], "answerIndex": 0, "explanation": "他趕快找位子坐下。"}
+      ],
+      "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_3年級_上學期_第2課_lesson-images_9559d7c6178eed34/paragraph-04.jpg", "alt": "下雨的晚上，疲累的王叔叔坐上公車", "prompt": "雨夜公車內，疲累的王叔叔找到座位", "styleKey": "taiwan-elementary-soft-v1"}
+    },
+    {
+      "original": "因為太累了，他一下子就睡著，還夢見自己參加短跑比賽。一馬當先的他，眼看著終點就在眼前……。這時，車子突然一陣晃動，當他驚醒時，發現已經到站了。",
+      "simplified": "王叔叔太累，很快就睡著了。他夢見自己參加短跑，跑在最前面。車子突然晃動，他醒來時，公車已經到站了。",
+      "preservedWords": ["已", "晃"],
+      "questions": [
+        {"question": "王叔叔夢見自己參加什麼比賽？", "choices": ["游泳", "短跑", "跳高", "籃球"], "answerIndex": 1, "explanation": "他夢見自己參加短跑比賽。"},
+        {"question": "王叔叔醒來時，公車怎麼了？", "choices": ["剛要出發", "還在等紅燈", "已經到站", "開回公司"], "answerIndex": 2, "explanation": "車子晃動後他醒來，發現已經到站。"}
+      ],
+      "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_3年級_上學期_第2課_lesson-images_9559d7c6178eed34/paragraph-05.jpg", "alt": "王叔叔在公車上睡著，夢見自己參加短跑", "prompt": "王叔叔在雨夜公車睡著，夢見短跑領先", "styleKey": "taiwan-elementary-soft-v1"}
+    },
+    {
+      "original": "王叔叔手忙腳亂，慌慌張張的抓起雨傘，飛也似的下車，沒想到有一位先生跟在後面，一邊追一邊大聲喊叫：「那是我的雨傘，快還來！」",
+      "simplified": "王叔叔怕來不及下車，手忙腳亂地抓起一把雨傘。他跑下車後，有一位先生追著喊：「那是我的雨傘！」原來王叔叔拿錯了。",
+      "preservedWords": ["傘", "喊", "亂"],
+      "questions": [
+        {"question": "王叔叔為什麼手忙腳亂？", "choices": ["怕來不及下車", "找不到座位", "忘了帶錢", "想參加比賽"], "answerIndex": 0, "explanation": "他醒來時已經到站，怕來不及下車。"},
+        {"question": "後面的先生為什麼追王叔叔？", "choices": ["要和他比賽", "要提醒他拿錯雨傘", "要請他回公司", "要問公車路線"], "answerIndex": 1, "explanation": "王叔叔慌亂中拿了別人的雨傘。"}
+      ],
+      "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_3年級_上學期_第2課_lesson-images_9559d7c6178eed34/paragraph-06.jpg", "alt": "王叔叔拿錯雨傘，另一位先生追出公車提醒他", "prompt": "雨夜公車站，王叔叔拿錯雨傘，失主追來提醒", "styleKey": "taiwan-elementary-soft-v1"}
+    },
+    {
+      "original": "朵朵對我說\n文章中的四字詞語大有妙用，可以讓文章讀起來更精采、生動。找一找，課文中有哪些四字詞語？你知道它們的意思嗎？",
+      "simplified": "課文用了許多四字詞語。這些詞語可以讓文章更精采、更生動。我們可以找出這些詞語，再了解它們的意思。",
+      "preservedWords": ["章", "詞", "語"],
+      "questions": [
+        {"question": "四字詞語可以讓文章變得怎麼樣？", "choices": ["更精采、生動", "更模糊", "更短", "更安靜"], "answerIndex": 0, "explanation": "四字詞語能讓文章更精采、更生動。"},
+        {"question": "讀完課文後，可以怎麼學四字詞語？", "choices": ["把它們全部刪掉", "找出詞語並了解意思", "只看第一個字", "不需要知道意思"], "answerIndex": 1, "explanation": "可以先找出四字詞語，再了解它們的意思。"}
+      ],
+      "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_3年級_上學期_第2課_lesson-images_9559d7c6178eed34/paragraph-07.jpg", "alt": "學生看著故事圖卡，理解四字詞語能讓文章更生動", "prompt": "學生閱讀兩張故事圖卡，發現四字詞語的作用", "styleKey": "taiwan-elementary-soft-v1"}
+    }
+  ],
+  "completedAt": "2026-09-20T15:55:00.000Z"
+}
