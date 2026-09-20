@@ -1,0 +1,524 @@
+{
+  "taskType": "lesson_simplification",
+  "requestId": "翰林_6年級_上學期_第2課_lesson_simplification_3e0cb58fb9eb8d7a",
+  "version": "2.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "createdAt": "2026-09-20T14:28:17Z",
+  "updatedAt": "2026-09-20T14:28:17Z",
+  "data": {
+    "title": "二、為什麼大家不理我？",
+    "targetLevel": "國小六年級",
+    "preservedWords": [
+      "眶",
+      "固",
+      "執",
+      "辯",
+      "胞",
+      "胎",
+      "盼",
+      "郵",
+      "暈",
+      "稚",
+      "慘",
+      "憤",
+      "慨",
+      "狠",
+      "憂",
+      "涕",
+      "慰",
+      "寞"
+    ],
+    "keyPoints": [
+      "櫻櫻因被同學冷落而難過，爸爸用自己的童年經驗回應她。",
+      "爸爸小時候被好友許達三冷淡對待，感到害怕、憤慨與孤獨。",
+      "許達三後來說明，因母親住院開刀而擔憂，才沒有熱心回應。",
+      "爸爸發現自己只關心自己的感受，學會理解別人也可能有難處。",
+      "面對冷落時，可以放寬心、不害怕，並主動慰問與關心別人。"
+    ],
+    "paragraphs": [
+      {
+        "original": "櫻櫻：\n我問妳心裡有什麼難題，妳紅著眼眶反問我說：「為什麼大家不理我？」我知道，妳說的是在學校裡被同學冷落了。",
+        "simplified": "櫻櫻：\n我問妳心裡有什麼難題。\n妳紅著眼眶問我：「為什麼大家不理我？」\n我知道，妳在學校被同學冷落，所以很難過。",
+        "preservedWords": [
+          "眶"
+        ],
+        "questions": [
+          {
+            "question": "櫻櫻在學校遇到什麼問題？",
+            "choices": [
+              "被同學冷落",
+              "忘記帶課本",
+              "考試沒有寫完",
+              "和老師爭辯"
+            ],
+            "answerIndex": 0,
+            "explanation": "本段說櫻櫻在學校被同學冷落。"
+          },
+          {
+            "question": "櫻櫻紅著眼眶問爸爸什麼？",
+            "choices": [
+              "為什麼大家不理我",
+              "為什麼今天要上課",
+              "為什麼不能看郵票",
+              "為什麼要自己回家"
+            ],
+            "answerIndex": 0,
+            "explanation": "櫻櫻反問爸爸：「為什麼大家不理我？」"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第2課_lesson_simplification_3e0cb58fb9eb8d7a/paragraph-01.png",
+          "alt": "爸爸在家中關心眼眶微紅的櫻櫻",
+          "prompt": "爸爸溫柔傾聽眼眶微紅的櫻櫻說自己被同學冷落。",
+          "styleKey": "why-ignore-me-v1"
+        }
+      },
+      {
+        "original": "我小時候在學校裡也遇到過這種事情，我心裡也難過極了。那時我最好的同學是跟我同桌的許達三，他人很聰明，不固執，口才也很好。我們兩個長得一樣高，功課也都不錯。跟同學辯論時，他一定站在我這一邊。只要我們聯手，班上就沒有人能說得過我們。同學喊我們「雙胞胎」，這是我認為最得意的一件事。想想看，我們多神氣！",
+        "simplified": "我小時候在學校也遇過同樣的事。\n我最好的同學是許達三。\n他很聰明，不固執，口才也很好。\n我們一樣高，功課都不錯。\n和同學辯論時，他總是站在我這邊。\n我們聯手時，班上沒有人說得過我們。\n同學叫我們「雙胞胎」，我覺得非常得意。",
+        "preservedWords": [
+          "固",
+          "執",
+          "辯",
+          "胞",
+          "胎"
+        ],
+        "questions": [
+          {
+            "question": "許達三有哪些特點？",
+            "choices": [
+              "聰明、不固執、口才好",
+              "安靜、固執、不愛說話",
+              "功課不好、常常遲到",
+              "喜歡一個人、不參加辯論"
+            ],
+            "answerIndex": 0,
+            "explanation": "本段形容許達三聰明、不固執，而且口才很好。"
+          },
+          {
+            "question": "同學為什麼叫他們「雙胞胎」？",
+            "choices": [
+              "兩人一樣高、功課好，又常站在同一邊",
+              "兩人穿著完全一樣的衣服",
+              "兩人是同一天出生的兄弟",
+              "兩人都不喜歡和同學說話"
+            ],
+            "answerIndex": 0,
+            "explanation": "兩人一樣高、功課都好，辯論時又會聯手，所以得到這個稱呼。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第2課_lesson_simplification_3e0cb58fb9eb8d7a/paragraph-02.png",
+          "alt": "兩位好友在教室並肩討論與合作",
+          "prompt": "青綠上衣男孩和橘色上衣許達三在教室並肩討論，展現好友情誼。",
+          "styleKey": "why-ignore-me-v1"
+        }
+      },
+      {
+        "original": "我每天熱切的盼望上學，有一大半原因是為了能跟許達三在一起。有天早晨，我上學去，心情很好，書包裡帶著一套新買的郵票，準備在教室裡拿出來，第一個就是讓許達三欣賞，然後聽他大聲稱讚，吸引同學圍過來看。",
+        "simplified": "我每天熱切盼望上學。\n大部分原因，是我想和許達三在一起。\n有一天早上，我帶著一套新買的郵票到學校。\n我想先讓許達三欣賞。\n我也期待他大聲稱讚，吸引同學一起來看。",
+        "preservedWords": [
+          "盼",
+          "郵"
+        ],
+        "questions": [
+          {
+            "question": "作者為什麼熱切盼望上學？",
+            "choices": [
+              "想和許達三在一起",
+              "想早點離開教室",
+              "想向老師請假",
+              "想一個人看電影"
+            ],
+            "answerIndex": 0,
+            "explanation": "作者盼望上學，有一大半原因是想和許達三在一起。"
+          },
+          {
+            "question": "作者帶了什麼到學校？",
+            "choices": [
+              "一套新買的郵票",
+              "一盒彩色鉛筆",
+              "一本新的故事書",
+              "一張電影票"
+            ],
+            "answerIndex": 0,
+            "explanation": "作者在書包裡帶著一套新買的郵票。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第2課_lesson_simplification_3e0cb58fb9eb8d7a/paragraph-03.png",
+          "alt": "男孩開心拿郵票冊給好友欣賞",
+          "prompt": "青綠上衣男孩開心拿出新郵票冊，期待先給許達三欣賞。",
+          "styleKey": "why-ignore-me-v1"
+        }
+      },
+      {
+        "original": "我一進教室，喊了一聲：「許達三，看郵票！」他沒有理我。我走到他身邊，又說了一遍。他很冷淡的看了我一眼，說：「不想看。」這是從來沒有發生過的事情。我心裡一涼，就像忽然要暈倒的樣子。有種孤零零的感覺，爬上我的心頭。我很害怕，像在幼稚園沒準備好就溜下了滑梯，不知道會掉落在什麼地方。又像小時候跟母親去電影院，壯著膽子自己上廁所，回來的時候，在黑暗的大廳裡，竟找不到母親是坐在哪一個角落。",
+        "simplified": "我進教室後，喊許達三來看郵票。\n他沒有理我。\n我走到他身邊，再說一次。\n他冷淡地看我，只說不想看。\n這件事以前從沒發生過。\n我的心一涼，像快要暈倒。\n孤單和害怕突然出現。\n那感覺像在幼稚園沒準備好就滑下滑梯，也像在黑暗的電影院找不到母親。",
+        "preservedWords": [
+          "暈",
+          "稚"
+        ],
+        "questions": [
+          {
+            "question": "許達三看到郵票時有什麼反應？",
+            "choices": [
+              "冷淡地說不想看",
+              "開心地大聲稱讚",
+              "請全班一起欣賞",
+              "立刻拿出自己的郵票"
+            ],
+            "answerIndex": 0,
+            "explanation": "許達三冷淡地看了作者一眼，說不想看。"
+          },
+          {
+            "question": "許達三的反應讓作者有什麼感受？",
+            "choices": [
+              "心涼、孤單又害怕",
+              "安心而且很得意",
+              "興奮得想大笑",
+              "放鬆得想睡覺"
+            ],
+            "answerIndex": 0,
+            "explanation": "作者覺得心裡一涼，像要暈倒，並感到孤單和害怕。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第2課_lesson_simplification_3e0cb58fb9eb8d7a/paragraph-04.png",
+          "alt": "好友移開視線，男孩拿著郵票冊愣住",
+          "prompt": "許達三冷淡移開視線，青綠上衣男孩拿著郵票冊感到孤單和害怕。",
+          "styleKey": "why-ignore-me-v1"
+        }
+      },
+      {
+        "original": "我雖然已經上了高年級，卻難過得想哭。我完全不知道該怎麼辦。我的臉色一定很慘白，很難看。過了一會兒，那一陣害怕總算過去了，這才慢慢感覺憤慨。「不看就不看。」我說。可是他不再理我。",
+        "simplified": "我已經是高年級學生，卻難過得想哭。\n我不知道該怎麼辦，臉色一定很慘白。\n過了一會兒，害怕慢慢過去。\n我開始感到憤慨。\n我生氣地說：「不看就不看。」\n可是許達三還是不理我。",
+        "preservedWords": [
+          "慘",
+          "憤",
+          "慨"
+        ],
+        "questions": [
+          {
+            "question": "作者難過時，覺得自己的臉色怎麼樣？",
+            "choices": [
+              "慘白又難看",
+              "紅潤又有精神",
+              "因運動而發紅",
+              "完全沒有變化"
+            ],
+            "answerIndex": 0,
+            "explanation": "作者覺得自己的臉色一定很慘白、很難看。"
+          },
+          {
+            "question": "害怕過去後，作者出現什麼情緒？",
+            "choices": [
+              "憤慨",
+              "興奮",
+              "安心",
+              "羨慕"
+            ],
+            "answerIndex": 0,
+            "explanation": "害怕慢慢過去後，作者開始感覺憤慨。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第2課_lesson_simplification_3e0cb58fb9eb8d7a/paragraph-05.png",
+          "alt": "男孩難過含淚，情緒慢慢轉為憤慨",
+          "prompt": "青綠上衣男孩在座位旁含淚握拳，許達三仍沉默不理他。",
+          "styleKey": "why-ignore-me-v1"
+        }
+      },
+      {
+        "original": "陳文虎平常也很想跟許達三做朋友，這時他走了過來，低聲跟許達三說：「出去走走。」許達三就這麼站起來跟他走了。這叫我怎麼能忍受。",
+        "simplified": "陳文虎平常也想和許達三做朋友。\n他走過來，低聲請許達三出去走走。\n許達三馬上站起來，跟著陳文虎離開。\n我看著他們走掉，心裡非常難受。",
+        "preservedWords": [],
+        "questions": [
+          {
+            "question": "誰邀請許達三出去走走？",
+            "choices": [
+              "陳文虎",
+              "老師",
+              "作者的爺爺",
+              "櫻櫻"
+            ],
+            "answerIndex": 0,
+            "explanation": "陳文虎走過來，低聲請許達三出去走走。"
+          },
+          {
+            "question": "許達三跟陳文虎離開後，作者有什麼感受？",
+            "choices": [
+              "非常難受",
+              "非常得意",
+              "十分輕鬆",
+              "感到好笑"
+            ],
+            "answerIndex": 0,
+            "explanation": "作者看著兩人離開，覺得難以忍受、非常難受。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第2課_lesson_simplification_3e0cb58fb9eb8d7a/paragraph-06.png",
+          "alt": "許達三跟陳文虎離開，男孩被留在座位旁",
+          "prompt": "陳文虎邀許達三走出教室，青綠上衣男孩難過地看著他們離開。",
+          "styleKey": "why-ignore-me-v1"
+        }
+      },
+      {
+        "original": "「以後誰也別理誰好了！」我狠狠的對自己說。其實，我心裡還有另外一個聲音跟我說：「回家去吧！學校沒有意思。現在就回家去吧！」當然，這是不可以的。",
+        "simplified": "我狠狠地告訴自己，以後彼此都不要理對方。\n可是心裡另一個聲音叫我回家。\n我覺得學校沒有意思，想立刻離開。\n但是我知道，現在不能自己回家。",
+        "preservedWords": [
+          "狠"
+        ],
+        "questions": [
+          {
+            "question": "作者生氣時，對自己說了什麼？",
+            "choices": [
+              "以後彼此都不要理對方",
+              "明天要送許達三禮物",
+              "下課要和大家一起玩",
+              "回家後要整理郵票"
+            ],
+            "answerIndex": 0,
+            "explanation": "作者狠狠地對自己說，以後誰也別理誰。"
+          },
+          {
+            "question": "作者雖然想回家，但知道什麼？",
+            "choices": [
+              "不能擅自離開學校",
+              "書包還在家裡",
+              "爺爺正在教室外等他",
+              "許達三也要一起回家"
+            ],
+            "answerIndex": 0,
+            "explanation": "作者心裡想回家，但知道現在離開學校是不可以的。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第2課_lesson_simplification_3e0cb58fb9eb8d7a/paragraph-07.png",
+          "alt": "男孩站在教室門口，想回家又停下腳步",
+          "prompt": "青綠上衣男孩背著書包站在教室門口，望向校門卻克制自己不離開。",
+          "styleKey": "why-ignore-me-v1"
+        }
+      },
+      {
+        "original": "為了出氣，我故意去找別的同學說話。我不習慣跟他們在一起說話，我說的話他們也不喜歡聽，有幾個還揮手叫我走開。",
+        "simplified": "為了出氣，我故意找其他同學說話。\n我不習慣和他們聊天。\n他們也不喜歡聽我說的話。\n有幾個同學還揮手叫我走開。\n我因此更加孤單。",
+        "preservedWords": [],
+        "questions": [
+          {
+            "question": "作者為什麼故意找其他同學說話？",
+            "choices": [
+              "想出氣",
+              "想借郵票",
+              "想練習辯論",
+              "想請他們送自己回家"
+            ],
+            "answerIndex": 0,
+            "explanation": "作者為了出氣，故意去找其他同學說話。"
+          },
+          {
+            "question": "其他同學有什麼反應？",
+            "choices": [
+              "有些人揮手叫作者走開",
+              "大家都圍過來稱讚作者",
+              "立刻邀作者加入遊戲",
+              "請作者教他們看郵票"
+            ],
+            "answerIndex": 0,
+            "explanation": "同學不喜歡聽作者說話，有幾個還揮手叫他走開。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第2課_lesson_simplification_3e0cb58fb9eb8d7a/paragraph-08.png",
+          "alt": "男孩想加入同學談話，卻被溫和拒絕",
+          "prompt": "青綠上衣男孩想加入同學談話，一位同學用手勢表示現在不方便。",
+          "styleKey": "why-ignore-me-v1"
+        }
+      },
+      {
+        "original": "我感覺到真正的孤獨了。不管是誰，遇到像我一樣的情形，一定也會覺得自己孤單可憐。那天放學，我一個人獨自回家，想起這事，就掉了眼淚。妳爺爺來問我什麼事，我的回答正好跟妳一樣：「為什麼大家不理我？」",
+        "simplified": "我感到真正的孤獨。\n遇到同樣情況的人，也會覺得自己孤單又可憐。\n那天放學，我獨自走回家。\n想到早上的事，我掉下眼淚。\n爺爺問我發生什麼事。\n我回答：「為什麼大家不理我？」",
+        "preservedWords": [],
+        "questions": [
+          {
+            "question": "那天放學，作者怎麼回家？",
+            "choices": [
+              "一個人獨自回家",
+              "和許達三一起回家",
+              "由老師開車送回家",
+              "和全班同學一起走"
+            ],
+            "answerIndex": 0,
+            "explanation": "那天放學，作者一個人獨自回家。"
+          },
+          {
+            "question": "爺爺詢問時，作者怎麼回答？",
+            "choices": [
+              "為什麼大家不理我",
+              "我忘了帶郵票回家",
+              "我今天辯論輸了",
+              "我在教室跌倒了"
+            ],
+            "answerIndex": 0,
+            "explanation": "作者回答爺爺的話，正好和櫻櫻一樣。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第2課_lesson_simplification_3e0cb58fb9eb8d7a/paragraph-09.png",
+          "alt": "男孩放學流淚，爺爺在家門前關心他",
+          "prompt": "青綠上衣男孩獨自放學回家流淚，爺爺在家門前溫柔關心。",
+          "styleKey": "why-ignore-me-v1"
+        }
+      },
+      {
+        "original": "為什麼？第二天上學我就知道了。是許達三自己告訴我的：「昨天我母親在醫院裡開刀，我很擔憂，心情不好，對不起。」",
+        "simplified": "第二天上學，我終於知道原因。\n許達三告訴我，他的母親前一天在醫院開刀。\n他非常擔憂，所以心情不好。\n他也為昨天的冷淡向我道歉。",
+        "preservedWords": [
+          "憂"
+        ],
+        "questions": [
+          {
+            "question": "許達三前一天為什麼心情不好？",
+            "choices": [
+              "母親在醫院開刀",
+              "他弄丟了郵票",
+              "他和陳文虎辯論輸了",
+              "他不想再來上學"
+            ],
+            "answerIndex": 0,
+            "explanation": "許達三的母親在醫院開刀，他因此很擔憂。"
+          },
+          {
+            "question": "作者什麼時候知道許達三冷淡的原因？",
+            "choices": [
+              "第二天上學時",
+              "當天放學以前",
+              "帶郵票進教室以前",
+              "回家向爺爺說完後立刻"
+            ],
+            "answerIndex": 0,
+            "explanation": "第二天上學，許達三親自告訴作者原因。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第2課_lesson_simplification_3e0cb58fb9eb8d7a/paragraph-10.png",
+          "alt": "許達三誠懇說明原因，男孩專心聆聽",
+          "prompt": "橘色上衣許達三擔憂地道歉，青綠上衣男孩專心聽他說明。",
+          "styleKey": "why-ignore-me-v1"
+        }
+      },
+      {
+        "original": "聽了許達三的話之後，我哭了，也笑了，還流了鼻涕。我多自私啊！只曉得關心自己，不知道去關心別人。只知道別人應該對我熱心，根本不知道別人對我也會有熱心不起來的時候。",
+        "simplified": "聽完許達三的話，我又哭又笑，還流了鼻涕。\n我發現自己太自私。\n我只注意自己的感受，沒有想到關心朋友。\n我以為別人應該一直對我熱心。\n其實，每個人都有心情不好、沒有力氣熱情回應的時候。",
+        "preservedWords": [
+          "涕"
+        ],
+        "questions": [
+          {
+            "question": "作者聽完後，發現自己有什麼問題？",
+            "choices": [
+              "只注意自己的感受，沒有關心朋友",
+              "不應該帶郵票到學校",
+              "不應該和同學一起辯論",
+              "不應該向爺爺說心事"
+            ],
+            "answerIndex": 0,
+            "explanation": "作者發現自己只關心自己，沒有想到許達三也可能有難處。"
+          },
+          {
+            "question": "作者後來明白別人也可能怎麼樣？",
+            "choices": [
+              "有心情不好、無法熱心回應的時候",
+              "每天都應該開心地稱讚他",
+              "永遠只和一個人做朋友",
+              "知道所有人的郵票收藏"
+            ],
+            "answerIndex": 0,
+            "explanation": "作者明白別人也會有熱心不起來的時候。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第2課_lesson_simplification_3e0cb58fb9eb8d7a/paragraph-11.png",
+          "alt": "兩位男孩互相理解並恢復友誼",
+          "prompt": "青綠上衣男孩含淚微笑，和橘色上衣許達三互相理解並和好。",
+          "styleKey": "why-ignore-me-v1"
+        }
+      },
+      {
+        "original": "一個人不能老等著享受別人對他的歡迎，應該想想別人不是專為妳一個人活著的。如果別人冷落了妳，總是有原因的。妳應該先學習不害怕，因為這並沒有什麼可怕。妳沒有認識妳的朋友以前，妳沒有走進一個新環境以前，不也是單獨一個人嗎？在別人冷落妳的時候，其他的環境裡不是還有許多人深深愛著妳嗎？",
+        "simplified": "一個人不能一直等別人歡迎自己。\n我們要明白，別人不是只為自己而活。\n別人冷落我們，可能有他的原因。\n遇到這種情況，要先學習不害怕。\n在認識朋友或進入新環境以前，我們本來也是一個人。\n即使有人暫時冷落我們，在其他地方仍有許多人深深愛著我們。",
+        "preservedWords": [],
+        "questions": [
+          {
+            "question": "別人冷落我們時，應該先怎麼做？",
+            "choices": [
+              "學習不害怕，想想對方可能有原因",
+              "立刻離開學校回家",
+              "要求所有人向自己道歉",
+              "永遠不再和任何人說話"
+            ],
+            "answerIndex": 0,
+            "explanation": "爸爸提醒櫻櫻先學習不害怕，並想到別人冷落她可能有原因。"
+          },
+          {
+            "question": "有人暫時冷落我們時，還可以記得什麼？",
+            "choices": [
+              "其他地方仍有人深深愛著自己",
+              "沒有人願意再關心自己",
+              "只有最好的朋友才重要",
+              "一定是自己做錯所有事情"
+            ],
+            "answerIndex": 0,
+            "explanation": "本段提醒櫻櫻，其他環境裡仍有許多人深深愛著她。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第2課_lesson_simplification_3e0cb58fb9eb8d7a/paragraph-12.png",
+          "alt": "爸爸提醒櫻櫻放寬心，櫻櫻逐漸安心",
+          "prompt": "爸爸在家中用溫和手勢開導櫻櫻，提醒她仍被許多人愛著。",
+          "styleKey": "why-ignore-me-v1"
+        }
+      },
+      {
+        "original": "把心放寬，不要計較，並且學習去慰問別人。也許妳是太怕寂寞了，不要怕，堅強的人都有不怕寂寞的特質。堅強的人最能吸引人，不怕寂寞，也不會寂寞。\n爸爸",
+        "simplified": "把心放寬，不要一直計較。\n也要學習主動慰問別人。\n也許妳只是太害怕寂寞。\n不要怕，要讓自己更堅強。\n堅強的人不怕寂寞，也最能吸引別人。\n爸爸",
+        "preservedWords": [
+          "慰",
+          "寞"
+        ],
+        "questions": [
+          {
+            "question": "爸爸建議櫻櫻主動學習做什麼？",
+            "choices": [
+              "慰問別人",
+              "和別人辯論",
+              "展示新郵票",
+              "擅自離開學校"
+            ],
+            "answerIndex": 0,
+            "explanation": "爸爸建議櫻櫻放寬心，並學習去慰問別人。"
+          },
+          {
+            "question": "爸爸認為堅強的人有什麼特質？",
+            "choices": [
+              "不怕寂寞，也能吸引別人",
+              "永遠不需要朋友",
+              "遇到問題立刻回家",
+              "只等待別人來歡迎"
+            ],
+            "answerIndex": 0,
+            "explanation": "爸爸說，堅強的人不怕寂寞，也最能吸引人。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第2課_lesson_simplification_3e0cb58fb9eb8d7a/paragraph-13.png",
+          "alt": "櫻櫻主動慰問獨自坐著的同學",
+          "prompt": "櫻櫻在學校主動關心一位獨自坐著的同學，展現勇敢與溫暖。",
+          "styleKey": "why-ignore-me-v1"
+        }
+      }
+    ]
+  }
+}
