@@ -1,0 +1,255 @@
+{
+  "requestId": "南一_2年級_上學期_第3課_lesson_simplification_f5c9fc1e3ba4d66c",
+  "taskType": "lesson_simplification",
+  "status": "completed",
+  "publisher": "南一",
+  "grade": "2年級",
+  "semester": "上學期",
+  "lesson": "第3課",
+  "title": "第3課 勇氣樹",
+  "targetLevel": "國小二年級",
+  "simplificationLevel": "standard",
+  "simplificationLevelLabel": "標準簡化",
+  "illustrationSetKey": "南一_2年級_上學期_第3課_lesson-images_2f3507c871bab15e",
+  "illustrationSourceRequestId": "",
+  "preservedWords": [
+    "勇",
+    "教",
+    "室",
+    "棵",
+    "葉",
+    "克",
+    "服",
+    "害",
+    "怕",
+    "努",
+    "完",
+    "事",
+    "倒",
+    "時",
+    "黑",
+    "低",
+    "聲",
+    "故",
+    "跌",
+    "騎"
+  ],
+  "keyPoints": [
+    "勇氣樹記錄大家勇敢完成的事。",
+    "奇奇、小青和小雨都克服了自己的害怕。",
+    "每個人都可以挑戰一件需要勇氣的事。"
+  ],
+  "paragraphs": [
+    {
+      "original": "教室裡有一棵「勇氣樹」，樹上貼滿了葉子，葉子上寫著大家克服了害怕，努力完成的事。",
+      "simplified": "教室裡有一棵「勇氣樹」。樹上貼滿葉子。葉子上寫著大家克服害怕、努力完成的事。",
+      "preservedWords": [
+        "勇",
+        "教",
+        "室",
+        "棵",
+        "葉",
+        "克",
+        "服",
+        "害",
+        "怕",
+        "努",
+        "完",
+        "事"
+      ],
+      "questions": [
+        {
+          "question": "勇氣樹放在哪裡？",
+          "choices": [
+            "教室裡",
+            "操場上",
+            "家裡",
+            "公園裡"
+          ],
+          "answerIndex": 0,
+          "explanation": "課文說，教室裡有一棵勇氣樹。"
+        },
+        {
+          "question": "葉子上寫著什麼？",
+          "choices": [
+            "大家勇敢完成的事",
+            "今天的午餐",
+            "老師出的作業",
+            "同學的名字"
+          ],
+          "answerIndex": 0,
+          "explanation": "葉子上寫著大家克服害怕、努力完成的事。"
+        }
+      ],
+      "illustration": {
+        "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/南一_2年級_上學期_第3課_lesson-images_2f3507c871bab15e/paragraph-01.jpg",
+        "alt": "四位學生站在教室的勇氣樹前，看著滿樹的彩色葉子",
+        "prompt": "教室牆上有一棵貼滿空白彩色葉子的勇氣樹，四位學生開心觀看",
+        "styleKey": "taiwan-elementary-soft-v1"
+      }
+    },
+    {
+      "original": "奇奇在葉子上寫：「我不怕跌倒，騎車時，不用爸爸跟在後面跑。」",
+      "simplified": "奇奇在葉子上寫：「我不怕跌倒。騎車時，不用爸爸跟在後面跑。」",
+      "preservedWords": [
+        "葉",
+        "怕",
+        "跌",
+        "倒",
+        "騎",
+        "時"
+      ],
+      "questions": [
+        {
+          "question": "奇奇不怕什麼？",
+          "choices": [
+            "跌倒",
+            "天黑",
+            "苦瓜",
+            "說故事"
+          ],
+          "answerIndex": 0,
+          "explanation": "奇奇寫著，他不怕跌倒。"
+        },
+        {
+          "question": "奇奇騎車時，不用誰跟在後面？",
+          "choices": [
+            "爸爸",
+            "媽媽",
+            "老師",
+            "同學"
+          ],
+          "answerIndex": 0,
+          "explanation": "奇奇騎車時，不用爸爸跟在後面跑。"
+        }
+      ],
+      "illustration": {
+        "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/南一_2年級_上學期_第3課_lesson-images_2f3507c871bab15e/paragraph-02.jpg",
+        "alt": "奇奇戴著安全帽自己騎自行車，爸爸在後方揮手",
+        "prompt": "奇奇戴安全帽獨立騎自行車，爸爸留在遠處微笑揮手",
+        "styleKey": "taiwan-elementary-soft-v1"
+      }
+    },
+    {
+      "original": "怕黑的小青寫：「我一個人睡覺，不用媽媽陪。」",
+      "simplified": "怕黑的小青在葉子上寫：「我可以一個人睡覺，不用媽媽陪。」",
+      "preservedWords": [
+        "怕",
+        "黑",
+        "葉"
+      ],
+      "questions": [
+        {
+          "question": "小青原來怕什麼？",
+          "choices": [
+            "黑暗",
+            "騎車",
+            "苦瓜",
+            "上學"
+          ],
+          "answerIndex": 0,
+          "explanation": "課文說，小青怕黑。"
+        },
+        {
+          "question": "小青可以自己做什麼？",
+          "choices": [
+            "一個人睡覺",
+            "一個人騎車",
+            "一個人煮飯",
+            "一個人上課"
+          ],
+          "answerIndex": 0,
+          "explanation": "小青可以一個人睡覺，不用媽媽陪。"
+        }
+      ],
+      "illustration": {
+        "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/南一_2年級_上學期_第3課_lesson-images_2f3507c871bab15e/paragraph-03.jpg",
+        "alt": "小青在有小夜燈的房間裡安心地自己睡覺",
+        "prompt": "夜晚，小青在溫暖小夜燈旁安心地一個人睡覺",
+        "styleKey": "taiwan-elementary-soft-v1"
+      }
+    },
+    {
+      "original": "勇氣樹上，還有一片葉子是小雨寫的。那天早上，小雨頭低低的，小聲的說著故事。一說完，大家都為她拍手，小雨紅著臉說：「謝謝，我的故事說完了。」",
+      "simplified": "勇氣樹上還有一片小雨寫的葉子。那天早上，小雨低著頭，小聲說故事。故事說完後，大家為她拍手。小雨紅著臉說：「謝謝，我的故事說完了。」",
+      "preservedWords": [
+        "勇",
+        "葉",
+        "低",
+        "聲",
+        "故",
+        "事",
+        "完"
+      ],
+      "questions": [
+        {
+          "question": "小雨怎麼說故事？",
+          "choices": [
+            "低著頭，小聲說",
+            "跑來跑去說",
+            "大哭著說",
+            "躺在地上說"
+          ],
+          "answerIndex": 0,
+          "explanation": "小雨低著頭，小聲說故事。"
+        },
+        {
+          "question": "小雨說完後，大家怎麼做？",
+          "choices": [
+            "為她拍手",
+            "離開教室",
+            "一起睡覺",
+            "騎車回家"
+          ],
+          "answerIndex": 0,
+          "explanation": "故事說完後，大家為小雨拍手。"
+        }
+      ],
+      "illustration": {
+        "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/南一_2年級_上學期_第3課_lesson-images_2f3507c871bab15e/paragraph-04.jpg",
+        "alt": "小雨在教室前說完故事，三位同學為她拍手",
+        "prompt": "小雨在勇氣樹前完成說故事，熟悉的三位同學溫暖鼓掌",
+        "styleKey": "taiwan-elementary-soft-v1"
+      }
+    },
+    {
+      "original": "下次，我要試著吃苦瓜，再把葉子貼在勇氣樹上。",
+      "simplified": "下次，我要試著吃苦瓜。試過以後，再把葉子貼在勇氣樹上。",
+      "preservedWords": [
+        "葉",
+        "勇"
+      ],
+      "questions": [
+        {
+          "question": "下次，我要試著吃什麼？",
+          "choices": [
+            "苦瓜",
+            "蘋果",
+            "蛋糕",
+            "餅乾"
+          ],
+          "answerIndex": 0,
+          "explanation": "我要試著吃苦瓜。"
+        },
+        {
+          "question": "試過苦瓜後，我要做什麼？",
+          "choices": [
+            "把葉子貼在勇氣樹上",
+            "把葉子丟掉",
+            "去公園騎車",
+            "回房間睡覺"
+          ],
+          "answerIndex": 0,
+          "explanation": "試過以後，我要把葉子貼在勇氣樹上。"
+        }
+      ],
+      "illustration": {
+        "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/南一_2年級_上學期_第3課_lesson-images_2f3507c871bab15e/paragraph-05.jpg",
+        "alt": "穿橘色衣服的孩子鼓起勇氣品嘗一小片苦瓜",
+        "prompt": "孩子在教室裡勇敢試吃一小片苦瓜，桌上放著空白葉子卡",
+        "styleKey": "taiwan-elementary-soft-v1"
+      }
+    }
+  ],
+  "completedAt": "2026-09-21T14:56:26.541Z"
+}
