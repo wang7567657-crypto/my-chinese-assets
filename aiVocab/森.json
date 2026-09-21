@@ -1,17 +1,17 @@
 [
   {
     "word": "森林",
-    "meaning": "樹木密集生長的大片土地。",
-    "en_prompt": "A lush green forest with many tall trees and sunlight."
+    "meaning": "有很多樹木聚集在一起的地方。",
+    "en_prompt": "A lush green forest with many tall trees"
+  },
+  {
+    "word": "森林公園",
+    "meaning": "城市中種植許多樹木，供人散步休息的大型公園。",
+    "en_prompt": "A large public forest park with walking paths"
   },
   {
     "word": "陰森",
-    "meaning": "形容環境幽暗、寒冷，讓人感到有些害怕。",
-    "en_prompt": "A dark, spooky, and misty forest at night."
-  },
-  {
-    "word": "森嚴",
-    "meaning": "形容非常嚴肅，或是防衛非常周密。",
-    "en_prompt": "A solemn castle with high walls and tight security."
+    "meaning": "形容地方昏暗、冷清，讓人感到害怕的樣子。",
+    "en_prompt": "A dark, spooky and mysterious forest"
   }
 ]
