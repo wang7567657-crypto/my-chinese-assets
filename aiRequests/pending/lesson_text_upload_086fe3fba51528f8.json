@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_086fe3fba51528f8",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "南一",
+    "grade": "1年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "title": "比一比",
+    "text": "門裡門外，\n比一比，\n有什麼不同？\n早上晚上，\n比一比，\n有什麼不同？\n上山山上，\n比一比，\n有什麼不同？\n王子的王，\n主人的主，\n比一比，\n又有什麼不同？",
+    "fileName": "南一_1年級_上學期_第5課.json",
+    "targetPath": "lessonText/南一_1年級_上學期_第5課.json",
+    "overwrite": false,
+    "instruction": "這是 Word 批次匯入的正式課文。只在目標檔案不存在時新增；若 GitHub 已有同一課檔案，必須略過且不得覆蓋。"
+  },
+  "createdAt": "2026-09-22T17:00:05.000Z"
+}
