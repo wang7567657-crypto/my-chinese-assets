@@ -1,0 +1,387 @@
+{
+  "requestId": "康軒_5年級_上學期_第3課_lesson_simplification_d0670d892b3a9e2d",
+  "taskType": "lesson_simplification",
+  "status": "completed",
+  "title": "第3課 攀岩高手",
+  "publisher": "康軒",
+  "grade": "5年級",
+  "semester": "上學期",
+  "lesson": "第3課",
+  "targetLevel": "國小五年級",
+  "simplificationLevel": "standard",
+  "simplificationLevelLabel": "標準簡化",
+  "illustrationSetKey": "康軒_5年級_上學期_第3課_lesson-images_dcae546da369b3a1",
+  "illustrationSourceRequestId": "",
+  "preservedWords": [
+    "峭",
+    "勁",
+    "聳",
+    "飢",
+    "隱",
+    "扯",
+    "銳",
+    "箭",
+    "韌",
+    "虯",
+    "鬚",
+    "茂",
+    "止",
+    "蔓",
+    "藉",
+    "豐",
+    "挫",
+    "折"
+  ],
+  "keyPoints": [
+    "爬牆虎用吸盤和虯鬚抓住牆面，不斷向上生長。",
+    "露珠與陽光幫助它獲得水分和養分。",
+    "風雨雖然阻擋它，它仍勇敢前進。",
+    "詩的最後才揭曉攀岩高手是爬牆虎。",
+    "爬牆虎象徵遇到挫折仍堅持追求夢想。"
+  ],
+  "paragraphs": [
+    {
+      "original": "攀爬，在陡峭的岩壁上，不斷向上，向上。",
+      "simplified": "爬牆虎在陡峭的岩壁上，不停往上爬。",
+      "preservedWords": [
+        "峭"
+      ],
+      "questions": [
+        {
+          "question": "爬牆虎在哪裡攀爬？",
+          "choices": [
+            "陡峭的岩壁",
+            "平坦的操場",
+            "寬廣的海面",
+            "安靜的教室"
+          ],
+          "answerIndex": 0,
+          "explanation": "它在陡峭的岩壁上攀爬。"
+        },
+        {
+          "question": "爬牆虎前進的方向是什麼？",
+          "choices": [
+            "向下",
+            "向左",
+            "向上",
+            "向後"
+          ],
+          "answerIndex": 2,
+          "explanation": "課文說它不停向上。"
+        }
+      ],
+      "illustration": {
+        "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第3課_lesson-images_dcae546da369b3a1/paragraph-01.png",
+        "alt": "爬牆虎攀上陡峭岩壁",
+        "prompt": "爬牆虎攀上陡峭岩壁，臺灣國小教材插圖，柔和清楚，圖片內不放文字",
+        "styleKey": "taiwan-elementary-soft-v1"
+      }
+    },
+    {
+      "original": "強勁的吸盤，是我精密的裝備；高聳的雲端，是我唯一的目標。",
+      "simplified": "它用強勁的吸盤抓住牆面。高聳的雲端是它努力前往的目標。",
+      "preservedWords": [
+        "勁",
+        "聳"
+      ],
+      "questions": [
+        {
+          "question": "爬牆虎用什麼抓住牆面？",
+          "choices": [
+            "翅膀",
+            "吸盤",
+            "牙齒",
+            "花朵"
+          ],
+          "answerIndex": 1,
+          "explanation": "強勁的吸盤是它的裝備。"
+        },
+        {
+          "question": "它想往哪裡前進？",
+          "choices": [
+            "高聳的雲端",
+            "地下洞穴",
+            "河流下游",
+            "教室門口"
+          ],
+          "answerIndex": 0,
+          "explanation": "雲端是它的目標。"
+        }
+      ],
+      "illustration": {
+        "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第3課_lesson-images_dcae546da369b3a1/paragraph-02.png",
+        "alt": "藤蔓在風雨中緊抓牆面",
+        "prompt": "藤蔓在風雨中緊抓牆面，臺灣國小教材插圖，柔和清楚，圖片內不放文字",
+        "styleKey": "taiwan-elementary-soft-v1"
+      }
+    },
+    {
+      "original": "向上攀爬。口渴了，有黑夜冰鎮的露珠涼水解渴；肚子餓了，有陽光炒熟的金色麵條充飢。",
+      "simplified": "爬牆虎口渴時，喝葉子上的露珠；需要養分時，就利用陽光製造食物。",
+      "preservedWords": [
+        "飢"
+      ],
+      "questions": [
+        {
+          "question": "爬牆虎口渴時喝什麼？",
+          "choices": [
+            "露珠",
+            "果汁",
+            "海水",
+            "熱湯"
+          ],
+          "answerIndex": 0,
+          "explanation": "葉子上的露珠能幫它解渴。"
+        },
+        {
+          "question": "它利用什麼製造食物？",
+          "choices": [
+            "月光",
+            "陽光",
+            "風聲",
+            "石頭"
+          ],
+          "answerIndex": 1,
+          "explanation": "植物利用陽光製造養分。"
+        }
+      ],
+      "illustration": {
+        "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第3課_lesson-images_dcae546da369b3a1/paragraph-03.png",
+        "alt": "晨露與陽光滋養綠藤",
+        "prompt": "晨露與陽光滋養綠藤，臺灣國小教材插圖，柔和清楚，圖片內不放文字",
+        "styleKey": "taiwan-elementary-soft-v1"
+      }
+    },
+    {
+      "original": "攀爬向上。風來了，它們用隱形的繩索反覆扯我的後腿；雨來了，它們用尖銳的冷箭一再刺我的全身。",
+      "simplified": "風像繩子拉住它，雨像冷箭打在它身上。就算遇到風雨，它仍繼續往上爬。",
+      "preservedWords": [
+        "隱",
+        "扯",
+        "銳",
+        "箭"
+      ],
+      "questions": [
+        {
+          "question": "風在詩中像什麼？",
+          "choices": [
+            "溫暖的棉被",
+            "隱形的繩索",
+            "明亮的燈",
+            "柔軟的枕頭"
+          ],
+          "answerIndex": 1,
+          "explanation": "風像繩索拉住它。"
+        },
+        {
+          "question": "遇到風雨時，它怎麼做？",
+          "choices": [
+            "停止生長",
+            "躲進屋裡",
+            "繼續往上爬",
+            "離開石牆"
+          ],
+          "answerIndex": 2,
+          "explanation": "它沒有放棄，仍向上攀爬。"
+        }
+      ],
+      "illustration": {
+        "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第3課_lesson-images_dcae546da369b3a1/paragraph-04.png",
+        "alt": "雨後藤蔓迎向曙光",
+        "prompt": "雨後藤蔓迎向曙光，臺灣國小教材插圖，柔和清楚，圖片內不放文字",
+        "styleKey": "taiwan-elementary-soft-v1"
+      }
+    },
+    {
+      "original": "我盡心伸長堅韌的虯鬚，我盡力展開繁茂的綠葉，勇敢迎向永不休止的光明與盼望。",
+      "simplified": "它伸出堅韌的虯鬚，也長出繁茂的綠葉，勇敢迎向陽光與希望。",
+      "preservedWords": [
+        "韌",
+        "虯",
+        "鬚",
+        "茂",
+        "止"
+      ],
+      "questions": [
+        {
+          "question": "爬牆虎伸出什麼？",
+          "choices": [
+            "堅韌的虯鬚",
+            "尖銳的牙齒",
+            "長長的尾巴",
+            "透明的翅膀"
+          ],
+          "answerIndex": 0,
+          "explanation": "它伸出堅韌的虯鬚。"
+        },
+        {
+          "question": "它勇敢迎向什麼？",
+          "choices": [
+            "黑暗與害怕",
+            "光明與盼望",
+            "寒冷與飢餓",
+            "失敗與退縮"
+          ],
+          "answerIndex": 1,
+          "explanation": "詩中寫它迎向光明與盼望。"
+        }
+      ],
+      "illustration": {
+        "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第3課_lesson-images_dcae546da369b3a1/paragraph-05.png",
+        "alt": "藤蔓吸盤緊抓石牆",
+        "prompt": "藤蔓吸盤緊抓石牆，臺灣國小教材插圖，柔和清楚，圖片內不放文字",
+        "styleKey": "taiwan-elementary-soft-v1"
+      }
+    },
+    {
+      "original": "我是，不斷往上蔓生的爬牆虎。",
+      "simplified": "原來，這位不斷向上攀爬的高手，就是爬牆虎。",
+      "preservedWords": [
+        "蔓"
+      ],
+      "questions": [
+        {
+          "question": "攀岩高手真正是誰？",
+          "choices": [
+            "少年",
+            "爬牆虎",
+            "登山客",
+            "小鳥"
+          ],
+          "answerIndex": 1,
+          "explanation": "最後揭曉主角是爬牆虎。"
+        },
+        {
+          "question": "爬牆虎怎麼生長？",
+          "choices": [
+            "不斷往上蔓生",
+            "只往地下生長",
+            "停在原地",
+            "隨風飛走"
+          ],
+          "answerIndex": 0,
+          "explanation": "它不斷往上蔓生。"
+        }
+      ],
+      "illustration": {
+        "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第3課_lesson-images_dcae546da369b3a1/paragraph-06.png",
+        "alt": "少年仰望向陽生長的藤蔓",
+        "prompt": "少年仰望向陽生長的藤蔓，臺灣國小教材插圖，柔和清楚，圖片內不放文字",
+        "styleKey": "taiwan-elementary-soft-v1"
+      }
+    },
+    {
+      "original": "這首詩的詩名是〈攀岩高手〉，讓人想到身手靈活的攀岩者。不過，這是真正的答案嗎？",
+      "simplified": "看到〈攀岩高手〉這個題目，讀者可能先想到真正的攀岩者。詩人故意保留答案，引起好奇。",
+      "preservedWords": [],
+      "questions": [
+        {
+          "question": "題目最先讓人想到誰？",
+          "choices": [
+            "靈活的攀岩者",
+            "農夫",
+            "老師",
+            "廚師"
+          ],
+          "answerIndex": 0,
+          "explanation": "題目容易讓人想到攀岩者。"
+        },
+        {
+          "question": "詩人為什麼先不說答案？",
+          "choices": [
+            "忘記答案",
+            "引起讀者好奇",
+            "不認識植物",
+            "想改寫題目"
+          ],
+          "answerIndex": 1,
+          "explanation": "保留答案能讓讀者猜測。"
+        }
+      ],
+      "illustration": {
+        "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第3課_lesson-images_dcae546da369b3a1/paragraph-07.png",
+        "alt": "藤蔓向著光明持續成長",
+        "prompt": "藤蔓向著光明持續成長，臺灣國小教材插圖，柔和清楚，圖片內不放文字",
+        "styleKey": "taiwan-elementary-soft-v1"
+      }
+    },
+    {
+      "original": "詩中先寫攀岩高手向上攀爬，再介紹裝備和目標，讓讀者猜他是誰。接著寫他用露珠和陽光解渴充飢。即使遇到風雨，他仍勇敢向上。最後從虯鬚和綠葉揭曉他是爬牆虎。",
+      "simplified": "詩人先寫攀爬、裝備和目標，再寫露珠、陽光與風雨。虯鬚和綠葉是線索，最後才揭曉主角是爬牆虎。",
+      "preservedWords": [
+        "虯",
+        "鬚"
+      ],
+      "questions": [
+        {
+          "question": "哪一項是主角身分的線索？",
+          "choices": [
+            "虯鬚和綠葉",
+            "書包和鉛筆",
+            "船和海浪",
+            "球和球棒"
+          ],
+          "answerIndex": 0,
+          "explanation": "虯鬚和綠葉暗示它是植物。"
+        },
+        {
+          "question": "詩人何時揭曉答案？",
+          "choices": [
+            "一開始",
+            "介紹題目前",
+            "最後",
+            "完全沒有"
+          ],
+          "answerIndex": 2,
+          "explanation": "詩的最後才公布主角。"
+        }
+      ],
+      "illustration": {
+        "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第3課_lesson-images_dcae546da369b3a1/paragraph-08.png",
+        "alt": "石牆上的爬牆虎展開綠葉",
+        "prompt": "石牆上的爬牆虎展開綠葉，臺灣國小教材插圖，柔和清楚，圖片內不放文字",
+        "styleKey": "taiwan-elementary-soft-v1"
+      }
+    },
+    {
+      "original": "詩人用豐富想像，把植物和人類的生存法則連在一起。追求夢想時，即使遇到挫折，也要像爬牆虎一樣堅強，一步步朝目標前進。",
+      "simplified": "詩人把爬牆虎努力生長的樣子，比作人追求夢想。遇到挫折時，我們也要有堅強的生命力，一步一步前進。",
+      "preservedWords": [
+        "藉",
+        "豐",
+        "挫",
+        "折"
+      ],
+      "questions": [
+        {
+          "question": "爬牆虎象徵什麼精神？",
+          "choices": [
+            "遇到困難就放棄",
+            "堅強地追求目標",
+            "只等待別人幫助",
+            "避免所有挑戰"
+          ],
+          "answerIndex": 1,
+          "explanation": "它象徵遇到挫折仍向目標前進。"
+        },
+        {
+          "question": "這首詩想提醒我們什麼？",
+          "choices": [
+            "一步步朝夢想前進",
+            "永遠不要訂目標",
+            "遇到風雨就停止",
+            "只注意結果"
+          ],
+          "answerIndex": 0,
+          "explanation": "追求夢想要堅持並逐步前進。"
+        }
+      ],
+      "illustration": {
+        "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第3課_lesson-images_dcae546da369b3a1/paragraph-09.png",
+        "alt": "藤蔓在石牆留下向上攀爬的影子",
+        "prompt": "藤蔓在石牆留下向上攀爬的影子，臺灣國小教材插圖，柔和清楚，圖片內不放文字",
+        "styleKey": "taiwan-elementary-soft-v1"
+      }
+    }
+  ]
+}
