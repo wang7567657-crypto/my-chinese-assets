@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_616921a13760bcc4",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "title": "玉山之歌　路寒袖",
+    "text": "太平洋的微笑，\n淺淺一彎，\n就靜止了。\n玉山，\n站在笑意的最深處。\n大大的闊葉輕搖，\n在山腳下喊熱搧風；\n細細的針葉密密，\n在山頭上縫著暖衣。\n古道彎彎的牽起古今，\n訴說島嶼的故事。\n峰頂的氣象站\n站得好高好高，\n領受太平洋第一道吹拂而來的風。\n頑皮的風\n吹奏著多變的樂曲，\n從山頂\n一路\n滑溜而下。\n每一條溪，\n各自盤坐在綠意之間\n聆聽，翻唱\n玉山之歌。",
+    "fileName": "南一_4年級_上學期_第4課.json",
+    "targetPath": "lessonText/南一_4年級_上學期_第4課.json",
+    "overwrite": true,
+    "instruction": "這是使用者逐課勾選確認的課文更新。覆蓋前先把目前 JSON 完整保存到 lessonTextHistory 對應課次的時間戳版本，再更新正式檔；確認正式檔與備份都可讀取後，再將待辦移至 done。"
+  },
+  "createdAt": "2026-09-22T17:23:28.139Z"
+}
