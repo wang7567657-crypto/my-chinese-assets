@@ -61,23 +61,23 @@
         {
           "question": "勇氣樹放在哪裡？",
           "choices": [
+            "家裡",
             "教室裡",
             "操場上",
-            "家裡",
             "公園裡"
           ],
-          "answerIndex": 0,
+          "answerIndex": 1,
           "explanation": "課文說，教室裡有一棵勇氣樹。"
         },
         {
           "question": "葉子上寫著什麼？",
           "choices": [
-            "大家勇敢完成的事",
-            "今天的午餐",
             "老師出的作業",
-            "同學的名字"
+            "同學的名字",
+            "大家勇敢完成的事",
+            "今天的午餐"
           ],
-          "answerIndex": 0,
+          "answerIndex": 2,
           "explanation": "葉子上寫著大家克服害怕、努力完成的事。"
         }
       ],
@@ -104,9 +104,9 @@
           "question": "奇奇不怕什麼？",
           "choices": [
             "跌倒",
+            "說故事",
             "天黑",
-            "苦瓜",
-            "說故事"
+            "苦瓜"
           ],
           "answerIndex": 0,
           "explanation": "奇奇寫著，他不怕跌倒。"
@@ -114,12 +114,12 @@
         {
           "question": "奇奇騎車時，不用誰跟在後面？",
           "choices": [
+            "同學",
             "爸爸",
-            "媽媽",
             "老師",
-            "同學"
+            "媽媽"
           ],
-          "answerIndex": 0,
+          "answerIndex": 1,
           "explanation": "奇奇騎車時，不用爸爸跟在後面跑。"
         }
       ],
@@ -142,21 +142,21 @@
         {
           "question": "小青原來怕什麼？",
           "choices": [
-            "黑暗",
             "騎車",
             "苦瓜",
-            "上學"
+            "上學",
+            "黑暗"
           ],
-          "answerIndex": 0,
+          "answerIndex": 3,
           "explanation": "課文說，小青怕黑。"
         },
         {
           "question": "小青可以自己做什麼？",
           "choices": [
             "一個人睡覺",
-            "一個人騎車",
+            "一個人上課",
             "一個人煮飯",
-            "一個人上課"
+            "一個人騎車"
           ],
           "answerIndex": 0,
           "explanation": "小青可以一個人睡覺，不用媽媽陪。"
@@ -185,23 +185,23 @@
         {
           "question": "小雨怎麼說故事？",
           "choices": [
-            "低著頭，小聲說",
             "跑來跑去說",
-            "大哭著說",
-            "躺在地上說"
+            "躺在地上說",
+            "低著頭，小聲說",
+            "大哭著說"
           ],
-          "answerIndex": 0,
+          "answerIndex": 2,
           "explanation": "小雨低著頭，小聲說故事。"
         },
         {
           "question": "小雨說完後，大家怎麼做？",
           "choices": [
-            "為她拍手",
-            "離開教室",
+            "騎車回家",
             "一起睡覺",
-            "騎車回家"
+            "為她拍手",
+            "離開教室"
           ],
-          "answerIndex": 0,
+          "answerIndex": 2,
           "explanation": "故事說完後，大家為小雨拍手。"
         }
       ],
@@ -223,23 +223,23 @@
         {
           "question": "下次，我要試著吃什麼？",
           "choices": [
-            "苦瓜",
             "蘋果",
+            "餅乾",
             "蛋糕",
-            "餅乾"
+            "苦瓜"
           ],
-          "answerIndex": 0,
+          "answerIndex": 3,
           "explanation": "我要試著吃苦瓜。"
         },
         {
           "question": "試過苦瓜後，我要做什麼？",
           "choices": [
-            "把葉子貼在勇氣樹上",
             "把葉子丟掉",
+            "回房間睡覺",
             "去公園騎車",
-            "回房間睡覺"
+            "把葉子貼在勇氣樹上"
           ],
-          "answerIndex": 0,
+          "answerIndex": 3,
           "explanation": "試過以後，我要把葉子貼在勇氣樹上。"
         }
       ],
@@ -251,5 +251,12 @@
       }
     }
   ],
-  "completedAt": "2026-09-21T14:56:26.541Z"
+  "completedAt": "2026-09-21T14:56:26.541Z",
+  "answerPositionPolicy": {
+    "strategy": "balanced_shuffle",
+    "positionsUseAllFour": true,
+    "maxCountDifference": 1,
+    "maxConsecutiveSame": 2
+  },
+  "answerPositionsRebalancedAt": "2026-09-22T01:11:39.722Z"
 }

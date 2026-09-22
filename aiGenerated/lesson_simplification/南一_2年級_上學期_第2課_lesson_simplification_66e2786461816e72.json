@@ -27,23 +27,23 @@
         {
           "question": "房門上貼著什麼？",
           "choices": [
-            "一大張白紙",
             "一張照片",
-            "一幅地圖",
-            "一件衣服"
+            "一大張白紙",
+            "一件衣服",
+            "一幅地圖"
           ],
-          "answerIndex": 0,
+          "answerIndex": 1,
           "explanation": "房門上貼著一大張白紙。"
         },
         {
           "question": "這張紙是什麼顏色？",
           "choices": [
-            "紅色",
-            "藍色",
+            "黑色",
             "白色",
-            "黑色"
+            "紅色",
+            "藍色"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "課文說，房門上貼的是白紙。"
         }
       ],
@@ -63,9 +63,9 @@
           "question": "白紙上的線看起來像什麼？",
           "choices": [
             "長長的梯子",
+            "圓圓的氣球",
             "高高的大樹",
-            "彎彎的小河",
-            "圓圓的氣球"
+            "彎彎的小河"
           ],
           "answerIndex": 0,
           "explanation": "一條又一條的線，看起來像長長的梯子。"
@@ -73,12 +73,12 @@
         {
           "question": "這些身高線是誰的？",
           "choices": [
+            "老師的",
             "全班同學的",
             "家人的",
-            "老師的",
             "鄰居的"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "媽媽說，這是家人的身高線。"
         }
       ],
@@ -98,9 +98,9 @@
           "question": "我在哪一天量身高？",
           "choices": [
             "生日那天",
+            "旅行那天",
             "開學那天",
-            "下雨那天",
-            "旅行那天"
+            "下雨那天"
           ],
           "answerIndex": 0,
           "explanation": "生日那天，我站到身高線前量身高。"
@@ -108,12 +108,12 @@
         {
           "question": "爸爸沿著哪裡畫線？",
           "choices": [
-            "我的手指",
             "我的腳底",
-            "我的頭頂",
-            "我的肩膀"
+            "我的手指",
+            "我的肩膀",
+            "我的頭頂"
           ],
-          "answerIndex": 2,
+          "answerIndex": 3,
           "explanation": "爸爸沿著我的頭頂，在紙上畫線。"
         }
       ],
@@ -132,23 +132,23 @@
         {
           "question": "我向上爬了幾格？",
           "choices": [
-            "一格",
+            "四格",
             "兩格",
             "三格",
-            "四格"
+            "一格"
           ],
-          "answerIndex": 0,
+          "answerIndex": 3,
           "explanation": "我在身高線上又向上爬了一格。"
         },
         {
           "question": "我想知道什麼？",
           "choices": [
-            "哪一天會爬到最高",
-            "哪一天可以出門",
+            "哪一天要上學",
             "哪一天會下雨",
-            "哪一天要上學"
+            "哪一天會爬到最高",
+            "哪一天可以出門"
           ],
-          "answerIndex": 0,
+          "answerIndex": 2,
           "explanation": "我想知道，哪一天才會爬到最高。"
         }
       ],
@@ -160,5 +160,12 @@
       }
     }
   ],
-  "completedAt": "2026-09-21T14:42:04.170Z"
+  "completedAt": "2026-09-21T14:42:04.170Z",
+  "answerPositionPolicy": {
+    "strategy": "balanced_shuffle",
+    "positionsUseAllFour": true,
+    "maxCountDifference": 1,
+    "maxConsecutiveSame": 2
+  },
+  "answerPositionsRebalancedAt": "2026-09-22T01:11:38.468Z"
 }
