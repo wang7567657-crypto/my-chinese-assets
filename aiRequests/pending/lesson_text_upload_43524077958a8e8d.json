@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_43524077958a8e8d",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "南一",
+    "grade": "1年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "title": "秋千",
+    "text": "秋千，秋千，和我玩。\n上\n上\n上\n陪我上高山。\n下\n下\n下\n陪我到大海。\n秋千，秋千，我的好朋友，\n秋千，秋千，我們一起玩。",
+    "fileName": "南一_1年級_上學期_第3課.json",
+    "targetPath": "lessonText/南一_1年級_上學期_第3課.json",
+    "overwrite": false,
+    "instruction": "這是 Word 批次匯入的正式課文。只在目標檔案不存在時新增；若 GitHub 已有同一課檔案，必須略過且不得覆蓋。"
+  },
+  "createdAt": "2026-09-22T16:59:59.954Z"
+}
