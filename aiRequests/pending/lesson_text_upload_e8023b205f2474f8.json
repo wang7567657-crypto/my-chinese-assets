@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_e8023b205f2474f8",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "title": "一起做早餐",
+    "text": "今天我們都起得很早，全家要一起做早餐。\n爸爸把蛋煎成圓圓的「太陽」，媽媽把番茄切成紅紅的「輪子」，看起來真有趣！我和弟弟是小幫手，我們先把起司、番茄片和蛋夾在吐司中，做成四四方方的小城堡，接著用番茄醬在吐司上畫出笑臉。媽媽笑著說：「這張笑臉就像是我們開心的臉！」\n這是第一次全家一起做早餐，我們享受了快樂的時光。下一次，要一起做什麼呢？",
+    "fileName": "康軒_2年級_上學期_第2課.json",
+    "targetPath": "lessonText/康軒_2年級_上學期_第2課.json",
+    "overwrite": false,
+    "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
+  },
+  "createdAt": "2026-09-22T17:42:29.700Z"
+}
