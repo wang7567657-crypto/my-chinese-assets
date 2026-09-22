@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_95bd333173b63919",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "title": "走過小巷",
+    "text": "我靜靜的走過小巷，\n王叔叔家的牆上，\n多了一隻小花貓，\n正在享受溫暖的陽光。\n我輕輕的走過小巷，\n張媽媽屋前的樹上，\n紅紅的花朵是捧花，\n蝴蝶忙著娶新娘。\n我慢慢的走過小巷，\n秋風也很忙，\n拿著紅黃彩筆跑上跑下，\n要為巷子打扮新的模樣。\n我慢慢的走過小巷，\n輕輕的、靜靜的。\n每天每天，\n都會有一點點不一樣。\n一天比一天，\n我越來越喜歡這個美麗的地方。",
+    "fileName": "康軒_2年級_上學期_第3課.json",
+    "targetPath": "lessonText/康軒_2年級_上學期_第3課.json",
+    "overwrite": false,
+    "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
+  },
+  "createdAt": "2026-09-22T17:42:31.660Z"
+}
