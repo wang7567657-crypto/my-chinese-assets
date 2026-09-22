@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_61864fd7162a633b",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "title": "運動會",
+    "text": "青天高，白雲飄，\n運動大會正熱鬧！\n大會舞，跳哇跳，\n心情跟著往上跳，\n笑容也在臉上跳哇跳！\n跑步比賽比誰快，\n汗水也要來比賽，\n看誰跑得比風快？\n兩人三腳比什麼？\n比同心，比協力，\n歡樂笑聲也來比一比！\n拔河比力氣，\n一會兒拉過來，\n一會兒拉過去，\n看看最後誰第一？\n我的力氣小，\n跑不快，跳不高，\n不過我的聲音可不小！\n「加油！加油！」\n你聽，你聽，\n我的聲音比天高！",
+    "fileName": "康軒_2年級_上學期_第4課.json",
+    "targetPath": "lessonText/康軒_2年級_上學期_第4課.json",
+    "overwrite": false,
+    "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
+  },
+  "createdAt": "2026-09-22T17:42:33.714Z"
+}
