@@ -2,7 +2,7 @@
   "taskType": "lesson_text_upload",
   "requestId": "lesson_text_upload_320b54d702480dda",
   "version": "1.0",
-  "status": "pending",
+  "status": "done",
   "input": {
     "publisher": "南一",
     "grade": "4年級",
@@ -15,5 +15,11 @@
     "overwrite": true,
     "instruction": "這是使用者逐課勾選確認的課文更新。覆蓋前先把目前 JSON 完整保存到 lessonTextHistory 對應課次的時間戳版本，再更新正式檔；確認正式檔與備份都可讀取後，再將待辦移至 done。"
   },
-  "createdAt": "2026-09-22T17:23:43.549Z"
+  "createdAt": "2026-09-22T17:23:43.549Z",
+  "processedAt": "2026-09-22T17:26:15.895Z",
+  "output": {
+    "targetPath": "lessonText/南一_4年級_上學期_第11課.json",
+    "backupPath": "lessonTextHistory/南一_4年級_上學期_第11課/20260922T172343549Z.json",
+    "action": "updated"
+  }
 }
