@@ -2,7 +2,7 @@
   "taskType": "lesson_text_upload",
   "requestId": "lesson_text_upload_95bd333173b63919",
   "version": "1.0",
-  "status": "pending",
+  "status": "done",
   "input": {
     "publisher": "康軒",
     "grade": "2年級",
@@ -15,5 +15,11 @@
     "overwrite": false,
     "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
   },
-  "createdAt": "2026-09-22T17:42:31.660Z"
+  "createdAt": "2026-09-22T17:42:31.660Z",
+  "processedAt": "2026-09-22T17:43:46.655Z",
+  "output": {
+    "targetPath": "lessonText/康軒_2年級_上學期_第3課.json",
+    "backupPath": null,
+    "action": "created"
+  }
 }
