@@ -5,7 +5,7 @@
   "status": "completed",
   "source": "chatgpt",
   "createdAt": "2026-09-20T15:36:00Z",
-  "updatedAt": "2026-09-20T15:36:00Z",
+  "updatedAt": "2026-09-22T01:41:57.663Z",
   "data": {
     "title": "四、向大自然學習",
     "targetLevel": "國小六年級",
@@ -13,7 +13,25 @@
     "simplificationLevelLabel": "高度簡化",
     "illustrationSetKey": "翰林_6年級_上學期_第4課_lesson-images_c512ce7ab07cba68",
     "illustrationSourceRequestId": "翰林_6年級_上學期_第4課_lesson_simplification_208e74e75f0af020",
-    "preservedWords": ["鰭", "划", "奧", "仿", "迫", "蚊", "膚", "鋸", "劃", "擴", "液", "奈", "構", "鵰", "霸", "翹", "垂"],
+    "preservedWords": [
+      "鰭",
+      "划",
+      "奧",
+      "仿",
+      "迫",
+      "蚊",
+      "膚",
+      "鋸",
+      "劃",
+      "擴",
+      "液",
+      "奈",
+      "構",
+      "鵰",
+      "霸",
+      "翹",
+      "垂"
+    ],
     "keyPoints": [
       "人類觀察大自然，從生物身上學習解決問題的方法。",
       "蚊子的口針啟發人類做出比較不痛的針頭。",
@@ -25,53 +43,209 @@
       {
         "original": "鳥兒拍拍翅膀，乘著風就飛上天；魚兒擺擺鰭，划著水就游到海底；小種子沒有腳，卻可以依附在動物的毛皮上跟著牠們去旅行，大自然處處充滿奧妙。國際知名仿生學大師珍妮．班亞斯表示：「我們正和一群天才生活在地球上，而它們總是知道如何從容不迫的活下來！」數千年來，人類正是從觀察、研究珍妮．班亞斯口中的「天才」得到靈感，從而激發出無限的創意與發明。",
         "simplified": "鳥兒用翅膀飛。\n魚用鰭划水。\n小種子附在動物的毛皮上旅行。\n大自然有許多奧妙。\n生物能從容不迫地生活，也就是遇到事情不慌張。\n人類觀察生物，學習牠們的做法。\n這種方法叫做仿生。",
-        "preservedWords": ["鰭", "划", "奧", "仿", "迫"],
-        "questions": [
-          {"question": "魚用什麼划水？", "choices": ["翅膀", "鰭", "毛皮", "種子"], "answerIndex": 1, "explanation": "易讀版寫著：魚用鰭划水。"},
-          {"question": "人類如何得到仿生的點子？", "choices": ["觀察生物", "關上眼睛", "只看電視", "停止研究"], "answerIndex": 0, "explanation": "人類觀察生物，學習牠們的做法。"}
+        "preservedWords": [
+          "鰭",
+          "划",
+          "奧",
+          "仿",
+          "迫"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第4課_lesson_simplification_208e74e75f0af020/paragraph-01.png", "alt": "學生觀察飛鳥、游魚與附在動物毛皮上的種子", "prompt": "沿用同一課第1段插圖", "styleKey": "biomimicry-nature-v1"}
+        "questions": [
+          {
+            "question": "魚用什麼划水？",
+            "choices": [
+              "鰭",
+              "種子",
+              "翅膀",
+              "毛皮"
+            ],
+            "answerIndex": 0,
+            "explanation": "易讀版寫著：魚用鰭划水。"
+          },
+          {
+            "question": "人類如何得到仿生的點子？",
+            "choices": [
+              "停止研究",
+              "關上眼睛",
+              "只看電視",
+              "觀察生物"
+            ],
+            "answerIndex": 3,
+            "explanation": "人類觀察生物，學習牠們的做法。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第4課_lesson_simplification_208e74e75f0af020/paragraph-01.png",
+          "alt": "學生觀察飛鳥、游魚與附在動物毛皮上的種子",
+          "prompt": "沿用同一課第1段插圖",
+          "styleKey": "biomimicry-nature-v1"
+        }
       },
       {
         "original": "蚊子叮人不會痛\n打針的疼痛令人害怕，因此人們總是想盡辦法要減少注射時的不適感，以往的研發多是將針頭變得更尖細、更平滑，只不過針頭刺入皮膚時，仍舊會引起疼痛。然而，人們被蚊子叮咬時，卻往往沒有感覺！原來，蚊子的口針是由六根小針組成的，當牠要吸血時，會先用最外側的兩根鋸齒狀刺針劃破皮膚，減少接觸神經的面積，而降低了疼痛；另外兩根針則負責撐開皮膚，露出空隙；再用一根針注入讓血管擴張的物質，保持血液流動；最後才伸出一根吸管，插入血管內吸血。日本的研究人員仿照蚊子的口針，研發無痛針頭，讓時常需要抽血的患者不必再受那麼多皮肉之苦。",
         "simplified": "蚊子的嘴裡有六根小針。\n兩根像鋸齒的針先劃開皮膚。\n另外兩根針把皮膚撐開。\n一根針讓血管擴張，血液可以流動。\n最後一根針負責吸血。\n研究人員仿照這種構造，做出比較不痛的針頭。",
-        "preservedWords": ["蚊", "膚", "鋸", "劃", "擴", "液", "構", "仿"],
-        "questions": [
-          {"question": "蚊子的嘴裡有幾根小針？", "choices": ["兩根", "四根", "六根", "八根"], "answerIndex": 2, "explanation": "蚊子的嘴裡有六根小針。"},
-          {"question": "研究人員從蚊子身上學到什麼？", "choices": ["做不易髒的玻璃", "做比較不痛的針頭", "做飛機座位", "種蓮花"], "answerIndex": 1, "explanation": "研究人員仿照蚊子的口針，做出比較不痛的針頭。"}
+        "preservedWords": [
+          "蚊",
+          "膚",
+          "鋸",
+          "劃",
+          "擴",
+          "液",
+          "構",
+          "仿"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第4課_lesson_simplification_208e74e75f0af020/paragraph-02.png", "alt": "研究人員觀察蚊子口針並研發細小的無痛針頭", "prompt": "沿用同一課第2段插圖", "styleKey": "biomimicry-nature-v1"}
+        "questions": [
+          {
+            "question": "蚊子的嘴裡有幾根小針？",
+            "choices": [
+              "兩根",
+              "六根",
+              "四根",
+              "八根"
+            ],
+            "answerIndex": 1,
+            "explanation": "蚊子的嘴裡有六根小針。"
+          },
+          {
+            "question": "研究人員從蚊子身上學到什麼？",
+            "choices": [
+              "種蓮花",
+              "做比較不痛的針頭",
+              "做飛機座位",
+              "做不易髒的玻璃"
+            ],
+            "answerIndex": 1,
+            "explanation": "研究人員仿照蚊子的口針，做出比較不痛的針頭。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第4課_lesson_simplification_208e74e75f0af020/paragraph-02.png",
+          "alt": "研究人員觀察蚊子口針並研發細小的無痛針頭",
+          "prompt": "沿用同一課第2段插圖",
+          "styleKey": "biomimicry-nature-v1"
+        }
       },
       {
         "original": "蓮葉淋雨不會溼\n蓮花的葉子不怕被水淋溼，葉子可以聚集水滴變成圓滾滾的水珠，是因為葉子的表面上有一粒粒超級細微的奈米結構，讓水珠在葉片上滾動，不會使葉片淋溼，還能藉此帶走表面的灰塵。人們根據這種原理，開發出具有奈米特性的材料，像是使用奈米材料處理過的馬桶，表面會形成不易附著髒汙的保護層，只要用清水沖一沖，馬桶就清潔溜溜了；還有汽車的玻璃經過奈米材料處理後，灰塵不會附著在光滑的表面，一遇到下雨，水滴可以輕易的將灰塵帶走，玻璃就能維持光亮如新。",
         "simplified": "蓮葉表面有很小的奈米結構。\n水會變成水珠，在葉子上滾動。\n水珠也會帶走灰塵。\n人類學習這種構造，做出不容易沾髒的材料。\n這種材料可以用在馬桶和汽車玻璃上。",
-        "preservedWords": ["奈", "構"],
-        "questions": [
-          {"question": "水珠在蓮葉上滾動時，會帶走什麼？", "choices": ["灰塵", "花朵", "魚", "機翼"], "answerIndex": 0, "explanation": "水珠會帶走蓮葉上的灰塵。"},
-          {"question": "人類用蓮葉的原理做出什麼？", "choices": ["容易沾髒的材料", "不容易沾髒的材料", "會飛的種子", "六根小針"], "answerIndex": 1, "explanation": "人類做出不容易沾髒的材料。"}
+        "preservedWords": [
+          "奈",
+          "構"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第4課_lesson_simplification_208e74e75f0af020/paragraph-03.png", "alt": "蓮葉水珠滾動帶走灰塵，並應用在馬桶與汽車玻璃", "prompt": "沿用同一課第3段插圖", "styleKey": "biomimicry-nature-v1"}
+        "questions": [
+          {
+            "question": "水珠在蓮葉上滾動時，會帶走什麼？",
+            "choices": [
+              "灰塵",
+              "機翼",
+              "花朵",
+              "魚"
+            ],
+            "answerIndex": 0,
+            "explanation": "水珠會帶走蓮葉上的灰塵。"
+          },
+          {
+            "question": "人類用蓮葉的原理做出什麼？",
+            "choices": [
+              "容易沾髒的材料",
+              "會飛的種子",
+              "不容易沾髒的材料",
+              "六根小針"
+            ],
+            "answerIndex": 2,
+            "explanation": "人類做出不容易沾髒的材料。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第4課_lesson_simplification_208e74e75f0af020/paragraph-03.png",
+          "alt": "蓮葉水珠滾動帶走灰塵，並應用在馬桶與汽車玻璃",
+          "prompt": "沿用同一課第3段插圖",
+          "styleKey": "biomimicry-nature-v1"
+        }
       },
       {
         "original": "向草原鵰學飛行\nA380空中巴士是巨無霸客機，最高可容納八百多個座位，但在進行飛行測試時並不順利。因為當氣流通過傳統設計的機翼尾端時，會產生螺旋狀的氣旋，降低上升力。如果要飛得起來，必須增加機翼長度，但是這樣會超過機場的安全規定。於是，飛機工程師從草原鵰身上得到了靈感。草原鵰的翅膀末端羽毛會向上翹起，降低向上飛時的阻力，用最短的翅膀，發揮最大的上升力。A380仿效草原鵰改良機翼尾端，做出垂直的突起，如此一來不僅符合機場對於機翼長度的安全標準，更讓八百多位旅客能一起翱翔天際。",
         "simplified": "A380 是巨無霸客機，也就是很大的飛機。\n它原來的機翼不容易讓飛機上升。\n工程師觀察草原鵰。\n草原鵰的翼端羽毛會向上翹。\n工程師仿照這個特點，在機翼尾端做出垂直突起。\n改良後，飛機可以安全飛行。",
-        "preservedWords": ["鵰", "霸", "翹", "垂", "仿"],
-        "questions": [
-          {"question": "工程師觀察哪一種鳥？", "choices": ["麻雀", "草原鵰", "燕子", "企鵝"], "answerIndex": 1, "explanation": "工程師觀察草原鵰。"},
-          {"question": "工程師如何改良機翼？", "choices": ["把機翼拆掉", "把座位拿掉", "在機翼尾端做出垂直突起", "在機翼上放水珠"], "answerIndex": 2, "explanation": "工程師在機翼尾端做出垂直突起。"}
+        "preservedWords": [
+          "鵰",
+          "霸",
+          "翹",
+          "垂",
+          "仿"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第4課_lesson_simplification_208e74e75f0af020/paragraph-04.png", "alt": "草原鵰上翹的翼端羽毛與飛機垂直翼尖的比較", "prompt": "沿用同一課第4段插圖", "styleKey": "biomimicry-nature-v1"}
+        "questions": [
+          {
+            "question": "工程師觀察哪一種鳥？",
+            "choices": [
+              "草原鵰",
+              "企鵝",
+              "燕子",
+              "麻雀"
+            ],
+            "answerIndex": 0,
+            "explanation": "工程師觀察草原鵰。"
+          },
+          {
+            "question": "工程師如何改良機翼？",
+            "choices": [
+              "在機翼上放水珠",
+              "把座位拿掉",
+              "在機翼尾端做出垂直突起",
+              "把機翼拆掉"
+            ],
+            "answerIndex": 2,
+            "explanation": "工程師在機翼尾端做出垂直突起。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第4課_lesson_simplification_208e74e75f0af020/paragraph-04.png",
+          "alt": "草原鵰上翹的翼端羽毛與飛機垂直翼尖的比較",
+          "prompt": "沿用同一課第4段插圖",
+          "styleKey": "biomimicry-nature-v1"
+        }
       },
       {
         "original": "仔細觀察這些大自然設計的作品後，我們可以研發或改良各種產品，進而改善生活品質。若是未來遇到難解的問題，別忘了試著向擁有數十億年智慧的大自然請教，也許讓生活更美好的解答，就在它們身上。",
         "simplified": "大自然有很多好方法。\n人類可以仔細觀察大自然。\n我們可以學習生物的做法，改良生活用品。\n遇到難題時，也可以向大自然學習。",
         "preservedWords": [],
         "questions": [
-          {"question": "人類可以向誰學習？", "choices": ["大自然", "玩具", "電視", "課桌椅"], "answerIndex": 0, "explanation": "人類可以向大自然學習。"},
-          {"question": "觀察大自然可以幫助我們做什麼？", "choices": ["忘記問題", "改良生活用品", "停止學習", "讓灰塵變多"], "answerIndex": 1, "explanation": "我們可以學習生物的做法，改良生活用品。"}
+          {
+            "question": "人類可以向誰學習？",
+            "choices": [
+              "電視",
+              "玩具",
+              "課桌椅",
+              "大自然"
+            ],
+            "answerIndex": 3,
+            "explanation": "人類可以向大自然學習。"
+          },
+          {
+            "question": "觀察大自然可以幫助我們做什麼？",
+            "choices": [
+              "讓灰塵變多",
+              "改良生活用品",
+              "停止學習",
+              "忘記問題"
+            ],
+            "answerIndex": 1,
+            "explanation": "我們可以學習生物的做法，改良生活用品。"
+          }
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第4課_lesson_simplification_208e74e75f0af020/paragraph-05.png", "alt": "學生觀察自然並思考如何改善生活", "prompt": "沿用同一課第5段插圖", "styleKey": "biomimicry-nature-v1"}
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第4課_lesson_simplification_208e74e75f0af020/paragraph-05.png",
+          "alt": "學生觀察自然並思考如何改善生活",
+          "prompt": "沿用同一課第5段插圖",
+          "styleKey": "biomimicry-nature-v1"
+        }
       }
     ]
-  }
+  },
+  "answerPositionPolicy": {
+    "strategy": "balanced_shuffle",
+    "positionsUseAllFour": true,
+    "maxCountDifference": 1,
+    "maxConsecutiveSame": 2
+  },
+  "answerPositionsRebalancedAt": "2026-09-22T01:41:57.663Z"
 }

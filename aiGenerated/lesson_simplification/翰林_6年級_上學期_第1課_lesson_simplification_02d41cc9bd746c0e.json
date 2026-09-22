@@ -5,7 +5,7 @@
   "status": "completed",
   "source": "chatgpt",
   "createdAt": "2026-09-20T14:03:06Z",
-  "updatedAt": "2026-09-20T14:03:06Z",
+  "updatedAt": "2026-09-22T01:41:57.663Z",
   "data": {
     "title": "一、遇見自己",
     "targetLevel": "國小六年級",
@@ -38,23 +38,23 @@
           {
             "question": "葉縫裡的小眼睛讓作者想到哪些人？",
             "choices": [
-              "家人、師長和同學",
               "池塘裡的小魚",
               "自由飛翔的蝴蝶",
-              "未來長大的自己"
+              "未來長大的自己",
+              "家人、師長和同學"
             ],
-            "answerIndex": 0,
+            "answerIndex": 3,
             "explanation": "本段把葉縫裡的小眼睛比作家人、師長和同學，好奇地看著作者。"
           },
           {
             "question": "等風停下來，作者想知道水中的自己會有什麼表情？",
             "choices": [
+              "生氣地皺著眉頭",
               "扮鬼臉或笑咪咪",
-              "難過地流眼淚",
               "閉著眼睛睡覺",
-              "生氣地皺著眉頭"
+              "難過地流眼淚"
             ],
-            "answerIndex": 0,
+            "answerIndex": 1,
             "explanation": "原文問水中的自己會扮鬼臉，還是笑咪咪。"
           }
         ],
@@ -81,21 +81,21 @@
           {
             "question": "作者為什麼向小魚詢問友情？",
             "choices": [
+              "他希望小魚幫忙找到食物",
               "他熱情，卻也會捉弄別人",
-              "他不知道小魚住在哪裡",
               "他想請小魚一起捉蝴蝶",
-              "他希望小魚幫忙找到食物"
+              "他不知道小魚住在哪裡"
             ],
-            "answerIndex": 0,
+            "answerIndex": 1,
             "explanation": "作者想知道熱情卻愛捉弄人的自己，能不能找到真摯的友情。"
           },
           {
             "question": "作者向陽光詢問什麼？",
             "choices": [
               "優點和缺點由誰決定",
+              "池水何時停止搖晃",
               "蝴蝶會飛到哪裡",
-              "小魚喜歡吃什麼",
-              "池水何時停止搖晃"
+              "小魚喜歡吃什麼"
             ],
             "answerIndex": 0,
             "explanation": "作者向陽光詢問，自己的優點和缺點是天註定，還是由自己決定。"
@@ -118,12 +118,12 @@
           {
             "question": "作者想用雪白的雲擦亮什麼？",
             "choices": [
-              "誠懇的心靈",
-              "池塘的水面",
               "蝴蝶的彩翼",
+              "池塘的水面",
+              "誠懇的心靈",
               "家人的眼睛"
             ],
-            "answerIndex": 0,
+            "answerIndex": 2,
             "explanation": "本段寫作者摘一片雪白的雲，擦亮誠懇的心靈。"
           },
           {
@@ -146,5 +146,12 @@
         }
       }
     ]
-  }
+  },
+  "answerPositionPolicy": {
+    "strategy": "balanced_shuffle",
+    "positionsUseAllFour": true,
+    "maxCountDifference": 1,
+    "maxConsecutiveSame": 2
+  },
+  "answerPositionsRebalancedAt": "2026-09-22T01:41:57.663Z"
 }

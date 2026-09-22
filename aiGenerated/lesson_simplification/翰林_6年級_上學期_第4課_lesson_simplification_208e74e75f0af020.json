@@ -5,7 +5,7 @@
   "status": "completed",
   "source": "chatgpt",
   "createdAt": "2026-09-20T15:03:56Z",
-  "updatedAt": "2026-09-20T15:03:56Z",
+  "updatedAt": "2026-09-22T01:41:57.663Z",
   "data": {
     "title": "四、向大自然學習",
     "targetLevel": "國小六年級",
@@ -50,9 +50,9 @@
           {
             "question": "小種子沒有腳，如何到別的地方旅行？",
             "choices": [
-              "乘著飛機",
-              "附在動物的毛皮上",
               "躲在魚的鰭裡",
+              "附在動物的毛皮上",
+              "乘著飛機",
               "自己長出翅膀"
             ],
             "answerIndex": 1,
@@ -61,12 +61,12 @@
           {
             "question": "人類如何從大自然得到發明的靈感？",
             "choices": [
-              "只靠想像，不必觀察",
-              "把所有生物帶回家",
               "觀察並研究生物的生存方法",
+              "把所有生物帶回家",
+              "只靠想像，不必觀察",
               "要求動物教人類說話"
             ],
-            "answerIndex": 2,
+            "answerIndex": 0,
             "explanation": "人類從觀察、研究生物的特點與生存方法中得到靈感。"
           }
         ],
@@ -95,22 +95,22 @@
             "question": "蚊子的口針由幾根小針組成？",
             "choices": [
               "兩根",
+              "八根",
               "四根",
-              "六根",
-              "八根"
+              "六根"
             ],
-            "answerIndex": 2,
+            "answerIndex": 3,
             "explanation": "原文指出，蚊子的口針由六根小針組成。"
           },
           {
             "question": "日本研究人員從蚊子的口針得到什麼成果？",
             "choices": [
-              "研發無痛針頭",
               "製作奈米馬桶",
-              "改良飛機機翼",
-              "發明新的玻璃"
+              "發明新的玻璃",
+              "研發無痛針頭",
+              "改良飛機機翼"
             ],
-            "answerIndex": 0,
+            "answerIndex": 2,
             "explanation": "研究人員仿照蚊子的口針，研發出無痛針頭。"
           }
         ],
@@ -132,23 +132,23 @@
           {
             "question": "蓮葉上的水珠為什麼容易滾動？",
             "choices": [
-              "葉子裡有吸管",
               "葉面有細小的奈米結構",
               "葉子會不停搖動",
+              "葉子裡有吸管",
               "灰塵會推動水珠"
             ],
-            "answerIndex": 1,
+            "answerIndex": 0,
             "explanation": "蓮葉表面的細小奈米結構，讓水珠能在葉面滾動。"
           },
           {
             "question": "水珠在蓮葉上滾動時，還能帶走什麼？",
             "choices": [
-              "花瓣",
               "葉脈",
               "灰塵",
-              "種子"
+              "種子",
+              "花瓣"
             ],
-            "answerIndex": 2,
+            "answerIndex": 1,
             "explanation": "滾動的水珠能帶走蓮葉表面的灰塵。"
           }
         ],
@@ -174,22 +174,22 @@
             "question": "傳統機翼尾端產生氣旋時，會造成什麼影響？",
             "choices": [
               "座位變少",
+              "旅客增加",
               "機翼變短",
-              "上升力降低",
-              "旅客增加"
+              "上升力降低"
             ],
-            "answerIndex": 2,
+            "answerIndex": 3,
             "explanation": "氣流在傳統機翼尾端形成氣旋，會降低飛機的上升力。"
           },
           {
             "question": "A380 如何仿效草原鵰改良機翼？",
             "choices": [
+              "在機翼上裝奈米玻璃",
               "在機翼尾端做出垂直突起",
               "把機翼完全拆掉",
-              "在機翼上裝奈米玻璃",
               "把機翼做成鋸齒狀"
             ],
-            "answerIndex": 0,
+            "answerIndex": 1,
             "explanation": "A380 模仿草原鵰上翹的翼端羽毛，在機翼尾端做出垂直突起。"
           }
         ],
@@ -209,22 +209,22 @@
             "question": "觀察大自然的設計，可以幫助人類做什麼？",
             "choices": [
               "讓所有動物搬進城市",
+              "只模仿動物的外表",
               "研發或改良各種產品",
-              "停止研究新的問題",
-              "只模仿動物的外表"
+              "停止研究新的問題"
             ],
-            "answerIndex": 1,
+            "answerIndex": 2,
             "explanation": "原文指出，觀察自然能幫助我們研發或改良產品。"
           },
           {
             "question": "未來遇到難解的問題時，作者建議怎麼做？",
             "choices": [
-              "放棄尋找答案",
-              "只使用舊的方法",
               "向大自然請教",
-              "等待別人完成"
+              "等待別人完成",
+              "放棄尋找答案",
+              "只使用舊的方法"
             ],
-            "answerIndex": 2,
+            "answerIndex": 0,
             "explanation": "作者建議遇到難題時，試著觀察並向大自然學習。"
           }
         ],
@@ -236,5 +236,12 @@
         }
       }
     ]
-  }
+  },
+  "answerPositionPolicy": {
+    "strategy": "balanced_shuffle",
+    "positionsUseAllFour": true,
+    "maxCountDifference": 1,
+    "maxConsecutiveSame": 2
+  },
+  "answerPositionsRebalancedAt": "2026-09-22T01:41:57.663Z"
 }

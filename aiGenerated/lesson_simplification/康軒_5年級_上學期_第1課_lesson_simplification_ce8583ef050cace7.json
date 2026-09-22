@@ -5,11 +5,30 @@
   "status": "completed",
   "source": "chatgpt",
   "createdAt": "2026-09-20T03:20:00.000Z",
-  "updatedAt": "2026-09-20T03:20:00.000Z",
+  "updatedAt": "2026-09-22T01:41:57.663Z",
   "data": {
     "title": "蚊帳大使",
     "targetLevel": "國小五年級",
-    "preservedWords": ["蚊", "帳", "洲", "瘧", "疾", "死", "叮", "存", "募", "集", "寄", "贈", "獎", "狀", "藏", "誌", "基", "赴"],
+    "preservedWords": [
+      "蚊",
+      "帳",
+      "洲",
+      "瘧",
+      "疾",
+      "死",
+      "叮",
+      "存",
+      "募",
+      "集",
+      "寄",
+      "贈",
+      "獎",
+      "狀",
+      "藏",
+      "誌",
+      "基",
+      "赴"
+    ],
     "keyPoints": [
       "五歲的凱瑟琳知道非洲兒童受到瘧疾威脅後，決定存錢買蚊帳幫助他們。",
       "她用義賣、獎狀、演講和寫信等方法，邀請更多人一起捐贈蚊帳。",
@@ -20,123 +39,501 @@
       {
         "original": "西元二○一八年六月，被封為「蚊帳大使」的美國女孩——凱瑟琳，來到臺灣發表演講，讓我們看見她努力實現夢想，以小小的手幫助了許多受苦的孩子。",
         "simplified": "西元二○一八年六月，美國女孩凱瑟琳來到臺灣演講。大家稱她為「蚊帳大使」。她從小努力實現夢想，幫助許多受苦的孩子。",
-        "preservedWords": ["蚊", "帳"],
-        "questions": [
-          {"question": "凱瑟琳在西元二○一八年六月來到哪裡演講？", "choices": ["臺灣", "非洲", "英國", "加拿大"], "answerIndex": 0, "explanation": "本段說凱瑟琳來到臺灣發表演講。"},
-          {"question": "大家給凱瑟琳什麼稱號？", "choices": ["和平大使", "蚊帳大使", "閱讀大使", "運動大使"], "answerIndex": 1, "explanation": "本段稱凱瑟琳為「蚊帳大使」。"}
+        "preservedWords": [
+          "蚊",
+          "帳"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-01.png", "alt": "凱瑟琳在臺灣向學生演講", "prompt": "凱瑟琳在臺灣校園禮堂分享她幫助非洲孩子的故事", "styleKey": "mosquito-ambassador-v1"}
+        "questions": [
+          {
+            "question": "凱瑟琳在西元二○一八年六月來到哪裡演講？",
+            "choices": [
+              "英國",
+              "加拿大",
+              "非洲",
+              "臺灣"
+            ],
+            "answerIndex": 3,
+            "explanation": "本段說凱瑟琳來到臺灣發表演講。"
+          },
+          {
+            "question": "大家給凱瑟琳什麼稱號？",
+            "choices": [
+              "和平大使",
+              "閱讀大使",
+              "運動大使",
+              "蚊帳大使"
+            ],
+            "answerIndex": 3,
+            "explanation": "本段稱凱瑟琳為「蚊帳大使」。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-01.png",
+          "alt": "凱瑟琳在臺灣向學生演講",
+          "prompt": "凱瑟琳在臺灣校園禮堂分享她幫助非洲孩子的故事",
+          "styleKey": "mosquito-ambassador-v1"
+        }
       },
       {
         "original": "西元二○○六年，五歲的凱瑟琳得知在非洲平均每三十秒，就有一個小孩因為感染瘧疾而去世時，不禁想到家中三歲的弟弟。面對任何一個小孩死去，她都覺得很難過。她一臉驚慌失措的對媽媽說：「我們需要做點什麼！」",
         "simplified": "西元二○○六年，五歲的凱瑟琳知道了一件可怕的事。非洲平均每三十秒，就有一個孩子因為瘧疾去世。她想到三歲的弟弟，心裡非常難過。她急著告訴媽媽：「我們需要做點什麼！」",
-        "preservedWords": ["洲", "瘧", "疾", "死"],
-        "questions": [
-          {"question": "凱瑟琳知道非洲的孩子因為什麼疾病去世？", "choices": ["流行性感冒", "瘧疾", "近視", "牙痛"], "answerIndex": 1, "explanation": "本段指出孩子因感染瘧疾而去世。"},
-          {"question": "凱瑟琳知道這件事後，對媽媽說了什麼？", "choices": ["我想去玩。", "我們需要做點什麼！", "我想買新玩具。", "明天再說吧。"], "answerIndex": 1, "explanation": "她很難過，也想立刻採取行動。"}
+        "preservedWords": [
+          "洲",
+          "瘧",
+          "疾",
+          "死"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-02.png", "alt": "凱瑟琳難過地和媽媽談起非洲孩子", "prompt": "五歲的凱瑟琳想到非洲孩子與自己的弟弟，著急地和媽媽說話", "styleKey": "mosquito-ambassador-v1"}
+        "questions": [
+          {
+            "question": "凱瑟琳知道非洲的孩子因為什麼疾病去世？",
+            "choices": [
+              "流行性感冒",
+              "瘧疾",
+              "牙痛",
+              "近視"
+            ],
+            "answerIndex": 1,
+            "explanation": "本段指出孩子因感染瘧疾而去世。"
+          },
+          {
+            "question": "凱瑟琳知道這件事後，對媽媽說了什麼？",
+            "choices": [
+              "明天再說吧。",
+              "我想去玩。",
+              "我想買新玩具。",
+              "我們需要做點什麼！"
+            ],
+            "answerIndex": 3,
+            "explanation": "她很難過，也想立刻採取行動。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-02.png",
+          "alt": "凱瑟琳難過地和媽媽談起非洲孩子",
+          "prompt": "五歲的凱瑟琳想到非洲孩子與自己的弟弟，著急地和媽媽說話",
+          "styleKey": "mosquito-ambassador-v1"
+        }
       },
       {
         "original": "媽媽告訴凱瑟琳，非洲的蚊子很多，而瘧疾是經由蚊子傳染的，有一種用除蟲藥水處理過的蚊帳，可以保護人類不被蚊子叮，但這種蚊帳對當地居民來說太貴了，他們買不起。凱瑟琳一聽，決定將學校的點心費和買玩具的錢存下來買蚊帳，媽媽也非常認同她的想法，鼓勵她付出行動。",
         "simplified": "媽媽告訴凱瑟琳，瘧疾會經由蚊子傳染。用除蟲藥水處理過的蚊帳，可以保護人不被蚊子叮。可是這種蚊帳太貴，許多非洲居民買不起。凱瑟琳決定存下點心費和買玩具的錢，用來買蚊帳。媽媽支持她，也鼓勵她開始行動。",
-        "preservedWords": ["蚊", "帳", "瘧", "疾", "叮", "存"],
-        "questions": [
-          {"question": "處理過的蚊帳可以怎麼保護人？", "choices": ["讓房間變亮", "讓人不被蚊子叮", "讓衣服變乾", "讓食物變多"], "answerIndex": 1, "explanation": "蚊帳可以阻擋蚊子，降低感染瘧疾的風險。"},
-          {"question": "凱瑟琳決定怎麼籌錢買蚊帳？", "choices": ["向同學借錢", "賣掉家裡的家具", "存下點心費和買玩具的錢", "請媽媽全部付錢"], "answerIndex": 2, "explanation": "她決定把自己的點心費和玩具錢存下來。"}
+        "preservedWords": [
+          "蚊",
+          "帳",
+          "瘧",
+          "疾",
+          "叮",
+          "存"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-03.png", "alt": "媽媽向凱瑟琳說明蚊子、瘧疾和蚊帳", "prompt": "媽媽用簡單圖示向凱瑟琳解釋蚊子傳播瘧疾與蚊帳的保護作用", "styleKey": "mosquito-ambassador-v1"}
+        "questions": [
+          {
+            "question": "處理過的蚊帳可以怎麼保護人？",
+            "choices": [
+              "讓衣服變乾",
+              "讓食物變多",
+              "讓人不被蚊子叮",
+              "讓房間變亮"
+            ],
+            "answerIndex": 2,
+            "explanation": "蚊帳可以阻擋蚊子，降低感染瘧疾的風險。"
+          },
+          {
+            "question": "凱瑟琳決定怎麼籌錢買蚊帳？",
+            "choices": [
+              "請媽媽全部付錢",
+              "存下點心費和買玩具的錢",
+              "賣掉家裡的家具",
+              "向同學借錢"
+            ],
+            "answerIndex": 1,
+            "explanation": "她決定把自己的點心費和玩具錢存下來。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-03.png",
+          "alt": "媽媽向凱瑟琳說明蚊子、瘧疾和蚊帳",
+          "prompt": "媽媽用簡單圖示向凱瑟琳解釋蚊子傳播瘧疾與蚊帳的保護作用",
+          "styleKey": "mosquito-ambassador-v1"
+        }
       },
       {
         "original": "凱瑟琳和媽媽買了一頂大蚊帳，找到只要蚊帳協會──專門為非洲孩子募集蚊帳的團體，把蚊帳寄過去。不久，凱瑟琳收到協會寄來的信，感謝她的付出，同時也提到她是目前年紀最小的捐贈人。讀著這封回信，凱瑟琳沒有露出笑容，她說：「我們只捐了一頂蚊帳，雖然這個三十秒，沒有孩子死去，可是下一個三十秒，還是有人會死。」",
         "simplified": "凱瑟琳和媽媽買了一頂大蚊帳，寄給「只要蚊帳協會」。這個團體專門為非洲孩子募集蚊帳。協會回信感謝她，還說她是年紀最小的捐贈人。可是凱瑟琳沒有因此滿足。她知道一頂蚊帳還不夠，仍有很多孩子需要幫助。",
-        "preservedWords": ["蚊", "帳", "募", "集", "寄", "贈", "死"],
-        "questions": [
-          {"question": "凱瑟琳把蚊帳寄給哪一個團體？", "choices": ["只要蚊帳協會", "學校家長會", "足球協會", "圖書館"], "answerIndex": 0, "explanation": "她把蚊帳寄給專門募集蚊帳的「只要蚊帳協會」。"},
-          {"question": "凱瑟琳收到感謝信後，為什麼沒有露出笑容？", "choices": ["她不喜歡收信", "她覺得一頂蚊帳還不夠", "她想把蚊帳拿回來", "她忘了寄信"], "answerIndex": 1, "explanation": "她想到下一個三十秒仍可能有孩子去世。"}
+        "preservedWords": [
+          "蚊",
+          "帳",
+          "募",
+          "集",
+          "寄",
+          "贈",
+          "死"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-04.png", "alt": "凱瑟琳和媽媽寄出蚊帳並收到回信", "prompt": "凱瑟琳和媽媽整理要寄出的蚊帳，之後凱瑟琳讀著回信認真思考", "styleKey": "mosquito-ambassador-v1"}
+        "questions": [
+          {
+            "question": "凱瑟琳把蚊帳寄給哪一個團體？",
+            "choices": [
+              "學校家長會",
+              "足球協會",
+              "圖書館",
+              "只要蚊帳協會"
+            ],
+            "answerIndex": 3,
+            "explanation": "她把蚊帳寄給專門募集蚊帳的「只要蚊帳協會」。"
+          },
+          {
+            "question": "凱瑟琳收到感謝信後，為什麼沒有露出笑容？",
+            "choices": [
+              "她不喜歡收信",
+              "她忘了寄信",
+              "她想把蚊帳拿回來",
+              "她覺得一頂蚊帳還不夠"
+            ],
+            "answerIndex": 3,
+            "explanation": "她想到下一個三十秒仍可能有孩子去世。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-04.png",
+          "alt": "凱瑟琳和媽媽寄出蚊帳並收到回信",
+          "prompt": "凱瑟琳和媽媽整理要寄出的蚊帳，之後凱瑟琳讀著回信認真思考",
+          "styleKey": "mosquito-ambassador-v1"
+        }
       },
       {
         "original": "凱瑟琳知道還有很多人需要蚊帳，她和媽媽在二手市場義賣，希望能存更多的錢買蚊帳。她還自己設計獎狀，人們只要捐贈一頂蚊帳的錢，就可以得到一張獎狀。每張獎狀都是由她聚精會神、一筆一畫的寫下：「以你的名義，我們買下一頂蚊帳，送給非洲的孩子。」",
         "simplified": "凱瑟琳知道還有很多人需要蚊帳。她和媽媽到二手市場義賣，希望存更多錢買蚊帳。她也自己設計獎狀。只要有人捐出一頂蚊帳的錢，就能得到一張她親手寫的獎狀。",
-        "preservedWords": ["蚊", "帳", "存", "贈", "獎", "狀", "洲"],
-        "questions": [
-          {"question": "凱瑟琳和媽媽為什麼到二手市場義賣？", "choices": ["想買新衣服", "想存錢買更多蚊帳", "想參加比賽", "想開一家商店"], "answerIndex": 1, "explanation": "她們義賣是為了籌更多錢買蚊帳。"},
-          {"question": "捐出一頂蚊帳的錢，可以得到什麼？", "choices": ["一張獎狀", "一顆足球", "一本雜誌", "一個玩具"], "answerIndex": 0, "explanation": "凱瑟琳會送給捐贈人一張親手寫的獎狀。"}
+        "preservedWords": [
+          "蚊",
+          "帳",
+          "存",
+          "贈",
+          "獎",
+          "狀",
+          "洲"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-05.png", "alt": "凱瑟琳在二手市場義賣並製作獎狀", "prompt": "凱瑟琳和媽媽在二手市場義賣，凱瑟琳專心製作感謝捐贈人的獎狀", "styleKey": "mosquito-ambassador-v1"}
+        "questions": [
+          {
+            "question": "凱瑟琳和媽媽為什麼到二手市場義賣？",
+            "choices": [
+              "想開一家商店",
+              "想存錢買更多蚊帳",
+              "想買新衣服",
+              "想參加比賽"
+            ],
+            "answerIndex": 1,
+            "explanation": "她們義賣是為了籌更多錢買蚊帳。"
+          },
+          {
+            "question": "捐出一頂蚊帳的錢，可以得到什麼？",
+            "choices": [
+              "一張獎狀",
+              "一本雜誌",
+              "一個玩具",
+              "一顆足球"
+            ],
+            "answerIndex": 0,
+            "explanation": "凱瑟琳會送給捐贈人一張親手寫的獎狀。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-05.png",
+          "alt": "凱瑟琳在二手市場義賣並製作獎狀",
+          "prompt": "凱瑟琳和媽媽在二手市場義賣，凱瑟琳專心製作感謝捐贈人的獎狀",
+          "styleKey": "mosquito-ambassador-v1"
+        }
       },
       {
         "original": "人們被她的真誠打動，帶著孩子加入買蚊帳或做獎狀的行列。社區的教堂也請她去演講，她讓大家明白蚊帳是保護傘，守護了非洲孩子的生命，許多人紛紛響應。她喜不自禁，開始到各地演講，四處募捐。",
         "simplified": "人們被凱瑟琳的真誠感動。許多大人帶著孩子一起買蚊帳、做獎狀。社區教堂也邀請她演講。她告訴大家，蚊帳像保護傘，可以守護非洲孩子的生命。越來越多人響應，她也開始到各地演講和募捐。",
-        "preservedWords": ["蚊", "帳", "獎", "狀", "洲", "募"],
-        "questions": [
-          {"question": "凱瑟琳把蚊帳比喻成什麼？", "choices": ["保護傘", "玩具箱", "大書包", "交通工具"], "answerIndex": 0, "explanation": "她說蚊帳像保護傘，能守護孩子的生命。"},
-          {"question": "許多人響應後，凱瑟琳又開始做什麼？", "choices": ["停止募捐", "到各地演講和募捐", "只在家裡休息", "改賣玩具"], "answerIndex": 1, "explanation": "她開始到各地演講，四處募捐。"}
+        "preservedWords": [
+          "蚊",
+          "帳",
+          "獎",
+          "狀",
+          "洲",
+          "募"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-06.png", "alt": "凱瑟琳在社區教堂演講，大家一起製作獎狀", "prompt": "凱瑟琳在社區教堂解說蚊帳的保護作用，大人和孩子一起響應", "styleKey": "mosquito-ambassador-v1"}
+        "questions": [
+          {
+            "question": "凱瑟琳把蚊帳比喻成什麼？",
+            "choices": [
+              "玩具箱",
+              "大書包",
+              "保護傘",
+              "交通工具"
+            ],
+            "answerIndex": 2,
+            "explanation": "她說蚊帳像保護傘，能守護孩子的生命。"
+          },
+          {
+            "question": "許多人響應後，凱瑟琳又開始做什麼？",
+            "choices": [
+              "只在家裡休息",
+              "改賣玩具",
+              "到各地演講和募捐",
+              "停止募捐"
+            ],
+            "answerIndex": 2,
+            "explanation": "她開始到各地演講，四處募捐。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-06.png",
+          "alt": "凱瑟琳在社區教堂演講，大家一起製作獎狀",
+          "prompt": "凱瑟琳在社區教堂解說蚊帳的保護作用，大人和孩子一起響應",
+          "styleKey": "mosquito-ambassador-v1"
+        }
       },
       {
         "original": "有一天，凱瑟琳看見足球明星貝克漢為只要蚊帳協會拍的廣告，她立刻寄一封信和獎狀給他，表示感謝。貝克漢不但收藏這張珍貴的獎狀，還把獎狀的圖片貼到個人網站，引起世人的關注。",
         "simplified": "有一天，凱瑟琳看到足球明星貝克漢為協會拍的廣告。她立刻寄信和獎狀給他，謝謝他的幫助。貝克漢珍藏這張獎狀，還把照片放到自己的網站。這件事吸引了全世界的注意。",
-        "preservedWords": ["蚊", "帳", "寄", "獎", "狀", "藏"],
-        "questions": [
-          {"question": "凱瑟琳為什麼寄信和獎狀給貝克漢？", "choices": ["邀請他踢球", "感謝他替協會拍廣告", "請他買玩具", "向他借足球"], "answerIndex": 1, "explanation": "她想感謝貝克漢幫協會拍廣告。"},
-          {"question": "貝克漢怎麼讓更多人看見這張獎狀？", "choices": ["放進抽屜", "寄回給凱瑟琳", "把圖片貼到個人網站", "帶到足球場丟掉"], "answerIndex": 2, "explanation": "他把獎狀圖片放上個人網站，引起世人注意。"}
+        "preservedWords": [
+          "蚊",
+          "帳",
+          "寄",
+          "獎",
+          "狀",
+          "藏"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-07.png", "alt": "凱瑟琳寫信感謝足球明星貝克漢", "prompt": "凱瑟琳看見足球明星為蚊帳公益拍廣告後，製作信件與獎狀表示感謝", "styleKey": "mosquito-ambassador-v1"}
+        "questions": [
+          {
+            "question": "凱瑟琳為什麼寄信和獎狀給貝克漢？",
+            "choices": [
+              "感謝他替協會拍廣告",
+              "向他借足球",
+              "邀請他踢球",
+              "請他買玩具"
+            ],
+            "answerIndex": 0,
+            "explanation": "她想感謝貝克漢幫協會拍廣告。"
+          },
+          {
+            "question": "貝克漢怎麼讓更多人看見這張獎狀？",
+            "choices": [
+              "放進抽屜",
+              "寄回給凱瑟琳",
+              "把圖片貼到個人網站",
+              "帶到足球場丟掉"
+            ],
+            "answerIndex": 2,
+            "explanation": "他把獎狀圖片放上個人網站，引起世人注意。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-07.png",
+          "alt": "凱瑟琳寫信感謝足球明星貝克漢",
+          "prompt": "凱瑟琳看見足球明星為蚊帳公益拍廣告後，製作信件與獎狀表示感謝",
+          "styleKey": "mosquito-ambassador-v1"
+        }
       },
       {
         "original": "西元二○○七年六月，凱瑟琳收到一封來自非洲的信，信裡寫著：「謝謝你送的蚊帳，我們看了你的照片，都覺得你很美！」這封信給了凱瑟琳極大的鼓舞，於是，她和同伴精心製作了一百張獎狀並附上信件，寄給富比士雜誌中所列的全球富豪，其中一張信寫著：",
         "simplified": "西元二○○七年六月，凱瑟琳收到一封非洲寄來的信。信中的孩子謝謝她送蚊帳，也稱讚她的照片。這封信給她很大的鼓勵。於是，她和同伴仔細做了一百張獎狀，再附上信件，寄給《富比士》雜誌列出的全球富豪。",
-        "preservedWords": ["洲", "寄", "蚊", "帳", "獎", "狀", "誌"],
-        "questions": [
-          {"question": "來自非洲的信帶給凱瑟琳什麼影響？", "choices": ["讓她很生氣", "給她很大的鼓舞", "讓她決定停止", "讓她忘記蚊帳"], "answerIndex": 1, "explanation": "這封信給了她極大的鼓舞。"},
-          {"question": "凱瑟琳和同伴後來製作了多少張獎狀？", "choices": ["十張", "五十張", "一百張", "三百張"], "answerIndex": 2, "explanation": "本段說他們精心製作了一百張獎狀。"}
+        "preservedWords": [
+          "洲",
+          "寄",
+          "蚊",
+          "帳",
+          "獎",
+          "狀",
+          "誌"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-08.png", "alt": "凱瑟琳收到非洲來信後，和同伴製作許多獎狀", "prompt": "凱瑟琳收到非洲孩子的感謝信，受到鼓勵後和同伴一起製作一百張獎狀", "styleKey": "mosquito-ambassador-v1"}
+        "questions": [
+          {
+            "question": "來自非洲的信帶給凱瑟琳什麼影響？",
+            "choices": [
+              "給她很大的鼓舞",
+              "讓她很生氣",
+              "讓她決定停止",
+              "讓她忘記蚊帳"
+            ],
+            "answerIndex": 0,
+            "explanation": "這封信給了她極大的鼓舞。"
+          },
+          {
+            "question": "凱瑟琳和同伴後來製作了多少張獎狀？",
+            "choices": [
+              "十張",
+              "一百張",
+              "五十張",
+              "三百張"
+            ],
+            "answerIndex": 1,
+            "explanation": "本段說他們精心製作了一百張獎狀。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-08.png",
+          "alt": "凱瑟琳收到非洲來信後，和同伴製作許多獎狀",
+          "prompt": "凱瑟琳收到非洲孩子的感謝信，受到鼓勵後和同伴一起製作一百張獎狀",
+          "styleKey": "mosquito-ambassador-v1"
+        }
       },
       {
         "original": "親愛的比爾．蓋茲先生：",
         "simplified": "其中一封信，是寫給比爾．蓋茲先生的。凱瑟琳在信的開頭，親切地向他問候。",
         "preservedWords": [],
         "questions": [
-          {"question": "這封信是寫給誰的？", "choices": ["貝克漢", "比爾．蓋茲", "凱瑟琳的弟弟", "教堂的人"], "answerIndex": 1, "explanation": "信的開頭寫著「親愛的比爾．蓋茲先生」。"},
-          {"question": "「親愛的比爾．蓋茲先生」在信中有什麼作用？", "choices": ["向收信人問候", "說明寄件地址", "列出捐款數字", "結束整封信"], "answerIndex": 0, "explanation": "這是書信開頭對收信人的稱呼與問候。"}
+          {
+            "question": "這封信是寫給誰的？",
+            "choices": [
+              "比爾．蓋茲",
+              "凱瑟琳的弟弟",
+              "教堂的人",
+              "貝克漢"
+            ],
+            "answerIndex": 0,
+            "explanation": "信的開頭寫著「親愛的比爾．蓋茲先生」。"
+          },
+          {
+            "question": "「親愛的比爾．蓋茲先生」在信中有什麼作用？",
+            "choices": [
+              "說明寄件地址",
+              "向收信人問候",
+              "結束整封信",
+              "列出捐款數字"
+            ],
+            "answerIndex": 1,
+            "explanation": "這是書信開頭對收信人的稱呼與問候。"
+          }
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-09.png", "alt": "凱瑟琳專心寫信給比爾．蓋茲", "prompt": "凱瑟琳坐在書桌前，專心寫一封要寄給比爾蓋茲的信", "styleKey": "mosquito-ambassador-v1"}
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-09.png",
+          "alt": "凱瑟琳專心寫信給比爾．蓋茲",
+          "prompt": "凱瑟琳坐在書桌前，專心寫一封要寄給比爾蓋茲的信",
+          "styleKey": "mosquito-ambassador-v1"
+        }
       },
       {
         "original": "如果沒有蚊帳，非洲的小孩會因為瘧疾而死掉。他們沒有錢買蚊帳，可是我聽說錢都在你那裡……。",
         "simplified": "凱瑟琳在信中說，非洲孩子需要蚊帳保護自己。沒有蚊帳，他們可能因為瘧疾去世。可是許多家庭沒有錢買蚊帳。她用孩子真誠、直接的話，請比爾．蓋茲關心這件事。",
-        "preservedWords": ["蚊", "帳", "洲", "瘧", "疾", "死"],
-        "questions": [
-          {"question": "非洲孩子為什麼需要蚊帳？", "choices": ["避免感染瘧疾", "裝飾房間", "收藏玩具", "參加比賽"], "answerIndex": 0, "explanation": "信中說沒有蚊帳，孩子可能因瘧疾去世。"},
-          {"question": "許多家庭遇到什麼困難？", "choices": ["找不到學校", "沒有錢買蚊帳", "不會寫信", "沒有足球"], "answerIndex": 1, "explanation": "本段明確說他們沒有錢買蚊帳。"}
+        "preservedWords": [
+          "蚊",
+          "帳",
+          "洲",
+          "瘧",
+          "疾",
+          "死"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-10.png", "alt": "凱瑟琳在信中想著需要蚊帳保護的非洲孩子", "prompt": "凱瑟琳寫信時想到非洲孩子需要蚊帳，而許多家庭買不起", "styleKey": "mosquito-ambassador-v1"}
+        "questions": [
+          {
+            "question": "非洲孩子為什麼需要蚊帳？",
+            "choices": [
+              "避免感染瘧疾",
+              "收藏玩具",
+              "參加比賽",
+              "裝飾房間"
+            ],
+            "answerIndex": 0,
+            "explanation": "信中說沒有蚊帳，孩子可能因瘧疾去世。"
+          },
+          {
+            "question": "許多家庭遇到什麼困難？",
+            "choices": [
+              "沒有足球",
+              "沒有錢買蚊帳",
+              "找不到學校",
+              "不會寫信"
+            ],
+            "answerIndex": 1,
+            "explanation": "本段明確說他們沒有錢買蚊帳。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-10.png",
+          "alt": "凱瑟琳在信中想著需要蚊帳保護的非洲孩子",
+          "prompt": "凱瑟琳寫信時想到非洲孩子需要蚊帳，而許多家庭買不起",
+          "styleKey": "mosquito-ambassador-v1"
+        }
       },
       {
         "original": "比爾．蓋茲深受感動，幾個月後，蓋茲基金會宣布捐助三百萬美元給只要蚊帳協會，響應「捐一頂蚊帳，救一條生命」的活動。",
         "simplified": "比爾．蓋茲看完信後，深受感動。幾個月後，蓋茲基金會宣布捐出三百萬美元給「只要蚊帳協會」。他們用實際行動響應「捐一頂蚊帳，救一條生命」的活動。",
-        "preservedWords": ["基", "捐", "贈", "蚊", "帳"],
-        "questions": [
-          {"question": "蓋茲基金會捐出多少錢？", "choices": ["三萬美元", "三十萬美元", "三百萬美元", "三千萬美元"], "answerIndex": 2, "explanation": "本段說基金會捐助三百萬美元。"},
-          {"question": "這筆錢捐給哪個團體？", "choices": ["只要蚊帳協會", "富比士雜誌", "足球隊", "凱瑟琳的學校"], "answerIndex": 0, "explanation": "蓋茲基金會把錢捐給「只要蚊帳協會」。"}
+        "preservedWords": [
+          "基",
+          "捐",
+          "贈",
+          "蚊",
+          "帳"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-11.png", "alt": "蓋茲基金會用捐款支持蚊帳行動", "prompt": "基金會代表宣布捐款支持蚊帳協會，周圍有裝著蚊帳的物資箱", "styleKey": "mosquito-ambassador-v1"}
+        "questions": [
+          {
+            "question": "蓋茲基金會捐出多少錢？",
+            "choices": [
+              "三萬美元",
+              "三千萬美元",
+              "三十萬美元",
+              "三百萬美元"
+            ],
+            "answerIndex": 3,
+            "explanation": "本段說基金會捐助三百萬美元。"
+          },
+          {
+            "question": "這筆錢捐給哪個團體？",
+            "choices": [
+              "只要蚊帳協會",
+              "凱瑟琳的學校",
+              "富比士雜誌",
+              "足球隊"
+            ],
+            "answerIndex": 0,
+            "explanation": "蓋茲基金會把錢捐給「只要蚊帳協會」。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-11.png",
+          "alt": "蓋茲基金會用捐款支持蚊帳行動",
+          "prompt": "基金會代表宣布捐款支持蚊帳協會，周圍有裝著蚊帳的物資箱",
+          "styleKey": "mosquito-ambassador-v1"
+        }
       },
       {
         "original": "凱瑟琳一步步讓夢想成真，這股夢想的力量如雪球般愈滾愈大，不僅讓孩子救了孩子，把不可能化為可能，更使成千上萬的非洲兒童遠離瘧疾。凱瑟琳相信年紀小也能做善事，只要全力以赴，就能擁夢飛翔，改變世界。",
         "simplified": "凱瑟琳一步一步實現夢想。她的行動像越滾越大的雪球，吸引更多人一起幫忙。孩子也能幫助孩子，讓不可能變成可能。她的努力使許多非洲兒童遠離瘧疾。她相信，年紀小也能做善事；只要全力以赴，就有機會改變世界。",
-        "preservedWords": ["洲", "瘧", "疾", "赴"],
-        "questions": [
-          {"question": "文中把夢想的力量比喻成什麼？", "choices": ["越滾越大的雪球", "慢慢消失的泡泡", "停在原地的石頭", "關起來的門"], "answerIndex": 0, "explanation": "本段說夢想的力量如雪球般愈滾愈大。"},
-          {"question": "凱瑟琳相信年紀小的人也能怎麼做？", "choices": ["只能等待大人", "做善事並努力改變世界", "不用付出行動", "只要想像就會成功"], "answerIndex": 1, "explanation": "她相信年紀小也能做善事，只要全力以赴就可能改變世界。"}
+        "preservedWords": [
+          "洲",
+          "瘧",
+          "疾",
+          "赴"
         ],
-        "illustration": {"imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-12.png", "alt": "凱瑟琳與許多孩子一起讓蚊帳幫助傳向世界", "prompt": "以地球為背景，凱瑟琳的行動連結不同地方的孩子，象徵小小力量改變世界", "styleKey": "mosquito-ambassador-v1"}
+        "questions": [
+          {
+            "question": "文中把夢想的力量比喻成什麼？",
+            "choices": [
+              "停在原地的石頭",
+              "關起來的門",
+              "越滾越大的雪球",
+              "慢慢消失的泡泡"
+            ],
+            "answerIndex": 2,
+            "explanation": "本段說夢想的力量如雪球般愈滾愈大。"
+          },
+          {
+            "question": "凱瑟琳相信年紀小的人也能怎麼做？",
+            "choices": [
+              "只要想像就會成功",
+              "不用付出行動",
+              "做善事並努力改變世界",
+              "只能等待大人"
+            ],
+            "answerIndex": 2,
+            "explanation": "她相信年紀小也能做善事，只要全力以赴就可能改變世界。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/康軒_5年級_上學期_第1課_lesson_simplification_ce8583ef050cace7/paragraph-12.png",
+          "alt": "凱瑟琳與許多孩子一起讓蚊帳幫助傳向世界",
+          "prompt": "以地球為背景，凱瑟琳的行動連結不同地方的孩子，象徵小小力量改變世界",
+          "styleKey": "mosquito-ambassador-v1"
+        }
       }
     ]
-  }
+  },
+  "answerPositionPolicy": {
+    "strategy": "balanced_shuffle",
+    "positionsUseAllFour": true,
+    "maxCountDifference": 1,
+    "maxConsecutiveSame": 2
+  },
+  "answerPositionsRebalancedAt": "2026-09-22T01:41:57.663Z"
 }
