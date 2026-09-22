@@ -4,5 +4,18 @@
   "version": "1.0",
   "status": "pending",
   "input": {},
-  "createdAt": ""
+  "createdAt": "",
+  "qualityRules": {
+    "lesson_simplification": {
+      "multipleChoice": {
+        "choiceCount": 4,
+        "correctAnswerDistribution": "balanced_random",
+        "useAllPositions": true,
+        "maxCountDifference": 1,
+        "maxConsecutiveSamePosition": 2,
+        "avoidFixedPattern": true,
+        "instruction": "四個正確答案位置必須平均打散；同一位置不可連續超過2題；不得把正確答案固定放在第一個，也不得使用容易猜出的固定循環。"
+      }
+    }
+  }
 }
