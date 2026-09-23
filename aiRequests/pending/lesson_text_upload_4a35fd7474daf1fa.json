@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_4a35fd7474daf1fa",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "title": "水草下的呱呱　林哲璋",
+    "text": "水草下的我啊！呱呱！\n只聞聲不見影。呱呱！\n你來猜一猜，\n我是蝦蟆還是青蛙？\n呱呱！呱呱！\n水草上的你呀！呱呱！\n請別再靠近我。呱呱！\n我擔心你\n不只想看還想要抓。\n呱呱！呱呱！\n如果你乖乖的，\n不要動，不要抓，\n說不定我會\n輕輕跳上你的腦袋瓜，\n證明你\n頂呱呱！",
+    "fileName": "翰林_2年級_上學期_第4課.json",
+    "targetPath": "lessonText/翰林_2年級_上學期_第4課.json",
+    "overwrite": false,
+    "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
+  },
+  "createdAt": "2026-09-23T03:22:53.742Z"
+}
