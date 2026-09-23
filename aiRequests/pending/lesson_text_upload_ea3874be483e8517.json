@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_ea3874be483e8517",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "title": "風的味道　賴伊麗",
+    "text": "風到處流浪\n沒有人知道他去過什麼地方\n只有\n我知道\n風的身上\n有淡淡的鹹味\n我知道\n他剛從蔚藍的大海回航\n風的身上\n有冰涼的雪花\n我知道\n他乘著雪橇由山坡滑下\n風的身上\n有清新的草香\n我知道\n他剛剛在原野上快樂的打滾\n閉上眼睛深呼吸\n風去過什麼地方\n欣賞過哪些美景\n別想瞞得了我\n第參單元：走進大自然",
+    "fileName": "翰林_3年級_上學期_第7課.json",
+    "targetPath": "lessonText/翰林_3年級_上學期_第7課.json",
+    "overwrite": false,
+    "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
+  },
+  "createdAt": "2026-09-23T03:20:06.145Z"
+}
