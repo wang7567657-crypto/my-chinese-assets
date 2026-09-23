@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_06e6483a1197e802",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "title": "好味道　周姚萍",
+    "text": "好涼啊！\n好涼啊！\n媽媽給小黃瓜沖澡，\n等在後面的紅蘿蔔，\n急著想玩水。\n好暖哪！\n好暖哪！\n爸爸幫米粒泡澡，\n送進發熱的浴室，\n顆顆蒸得白又胖。\n點名了！\n點名了！\n我來點點名。\n海苔、米飯搶先到，\n蛋皮、蔬菜接著來，\n食材通通在一起。\n捲哪捲！\n捲哪捲！\n我們細心的捲哪捲。\n把全家人緊緊黏在一起。\n淡淡的香氣飄出來，\n這是我最愛的味道。",
+    "fileName": "翰林_2年級_上學期_第9課.json",
+    "targetPath": "lessonText/翰林_2年級_上學期_第9課.json",
+    "overwrite": false,
+    "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
+  },
+  "createdAt": "2026-09-23T03:23:05.087Z"
+}
