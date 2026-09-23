@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_27a025ae24c3a597",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "title": "奇怪的門 林世仁",
+    "text": "這扇門，好奇怪！\n只要進去，就有怪事。\n人走進去，\n閃一下就不見。\n月亮一進去，\n立刻閒得發慌。\n馬跑進去，\n闖來闖去闖不出來。\n你注意聽，仔細看，\n耳朵走進門，\n變成主播，\n播報大新聞。\n太陽想進門，\n用力擠呀擠，\n竟然卡在門中間。\n嘴巴靠近大門口，\n好奇的問東問西：\n「裡頭到底有什麼？」\n我來猜猜，\n裡頭一定住著大妖怪！",
+    "fileName": "翰林_2年級_上學期_第11課.json",
+    "targetPath": "lessonText/翰林_2年級_上學期_第11課.json",
+    "overwrite": false,
+    "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
+  },
+  "createdAt": "2026-09-23T03:23:08.747Z"
+}
