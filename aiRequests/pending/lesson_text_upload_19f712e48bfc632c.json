@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_19f712e48bfc632c",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "title": "我的心情 游珮芸",
+    "text": "害怕的時候，\n心裡颳起冷冷的風，\n我好想躲起來。\n生氣的時候，\n心裡一會兒閃電，\n一會兒打雷，\n我好想叫出來。\n難過的時候，\n心裡烏雲密布，\n下起傾盆大雨，\n我忍不住哭出來。\n開心的時候，\n心裡充滿溫暖的陽光，\n我忍不住笑出來。\n我的心情像天氣，\n會颳風，會打雷，\n也會下雨，\n但是，雨後放晴，\n會出現美麗的彩虹。",
+    "fileName": "翰林_2年級_上學期_第1課.json",
+    "targetPath": "lessonText/翰林_2年級_上學期_第1課.json",
+    "overwrite": false,
+    "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
+  },
+  "createdAt": "2026-09-23T03:22:47.553Z"
+}
