@@ -2,7 +2,7 @@
   "taskType": "lesson_text_upload",
   "requestId": "lesson_text_upload_abcd3eb964a6ec57",
   "version": "1.0",
-  "status": "pending",
+  "status": "done",
   "input": {
     "publisher": "翰林",
     "grade": "4年級",
@@ -15,5 +15,11 @@
     "overwrite": false,
     "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
   },
-  "createdAt": "2026-09-23T03:16:06.413Z"
+  "createdAt": "2026-09-23T03:16:06.413Z",
+  "processedAt": "2026-09-23T03:16:48.500Z",
+  "output": {
+    "targetPath": "lessonText/翰林_4年級_上學期_第4課.json",
+    "action": "created",
+    "removedSupplementalCharacters": 11
+  }
 }
