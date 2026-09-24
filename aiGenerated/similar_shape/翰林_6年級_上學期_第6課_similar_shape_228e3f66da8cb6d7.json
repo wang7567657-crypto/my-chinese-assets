@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第6課_similar_shape_228e3f66da8cb6d7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "判",
+    "lessonChars": [
+      "嘲",
+      "詼",
+      "僵",
+      "侃",
+      "競",
+      "醜",
+      "哄",
+      "判",
+      "諷",
+      "丐",
+      "貶",
+      "捏",
+      "吻",
+      "坦",
+      "魅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "判",
+    "similarChars": [
+      {
+        "char": "叛",
+        "similarity": "左邊同有半形",
+        "difference": "叛右邊是反；判右邊是刂"
+      },
+      {
+        "char": "胖",
+        "similarity": "左邊不同，右邊同有半形",
+        "difference": "胖左邊是月；判右邊是刂"
+      },
+      {
+        "char": "拌",
+        "similarity": "都看得到半形",
+        "difference": "拌左邊是扌；判右邊是刂"
+      },
+      {
+        "char": "伴",
+        "similarity": "都看得到半形",
+        "difference": "伴左邊是亻；判右邊是刂"
+      },
+      {
+        "char": "畔",
+        "similarity": "都看得到半形",
+        "difference": "畔左邊是田；判右邊是刂"
+      },
+      {
+        "char": "半",
+        "similarity": "都保留半形筆畫",
+        "difference": "判比半多了右邊的刂"
+      }
+    ],
+    "teachingTip": "「判」請先看主要部件，再比較左右或上下的位置。"
+  },
+  "createdAt": "2026-09-24T16:43:06.651Z"
+}

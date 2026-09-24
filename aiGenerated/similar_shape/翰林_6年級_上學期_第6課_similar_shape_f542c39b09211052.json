@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第6課_similar_shape_f542c39b09211052",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "捏",
+    "lessonChars": [
+      "嘲",
+      "詼",
+      "僵",
+      "侃",
+      "競",
+      "醜",
+      "哄",
+      "判",
+      "諷",
+      "丐",
+      "貶",
+      "捏",
+      "吻",
+      "坦",
+      "魅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "捏",
+    "similarChars": [
+      {
+        "char": "涅",
+        "similarity": "右邊同有日與土形",
+        "difference": "涅左邊是氵；捏左邊是扌"
+      },
+      {
+        "char": "捍",
+        "similarity": "都有扌，右上有日形",
+        "difference": "捍右下是干；捏右下是土"
+      },
+      {
+        "char": "提",
+        "similarity": "都有扌，右上有日形",
+        "difference": "提右下是疋形；捏右下是土"
+      },
+      {
+        "char": "拈",
+        "similarity": "都有扌，右邊上下排列",
+        "difference": "拈右邊是占；捏右邊是日與土"
+      },
+      {
+        "char": "捻",
+        "similarity": "都有扌和密集右部",
+        "difference": "捻右邊是念；捏右邊是日與土"
+      },
+      {
+        "char": "埋",
+        "similarity": "右部筆畫有日與土形的密集輪廓",
+        "difference": "埋左邊是土、右邊是里；捏左邊是扌、右邊是日與土"
+      }
+    ],
+    "teachingTip": "「捏」請先看主要部件，再比較左右或上下的位置。"
+  },
+  "createdAt": "2026-09-24T16:43:06.651Z"
+}

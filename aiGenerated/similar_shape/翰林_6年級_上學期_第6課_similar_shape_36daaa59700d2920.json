@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第6課_similar_shape_36daaa59700d2920",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "哄",
+    "lessonChars": [
+      "嘲",
+      "詼",
+      "僵",
+      "侃",
+      "競",
+      "醜",
+      "哄",
+      "判",
+      "諷",
+      "丐",
+      "貶",
+      "捏",
+      "吻",
+      "坦",
+      "魅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "哄",
+    "similarChars": [
+      {
+        "char": "洪",
+        "similarity": "右邊同為共",
+        "difference": "洪左邊是氵；哄左邊是口"
+      },
+      {
+        "char": "烘",
+        "similarity": "右邊同為共",
+        "difference": "烘左邊是火；哄左邊是口"
+      },
+      {
+        "char": "拱",
+        "similarity": "右邊同為共",
+        "difference": "拱左邊是扌；哄左邊是口"
+      },
+      {
+        "char": "供",
+        "similarity": "右邊同為共",
+        "difference": "供左邊是亻；哄左邊是口"
+      },
+      {
+        "char": "共",
+        "similarity": "右邊同為共",
+        "difference": "哄比共多了左邊的口"
+      },
+      {
+        "char": "哩",
+        "similarity": "都有口字旁，右部是方正的多筆畫字",
+        "difference": "哩右邊是里；哄右邊是共"
+      }
+    ],
+    "teachingTip": "「哄」請先看主要部件，再比較左右或上下的位置。"
+  },
+  "createdAt": "2026-09-24T16:43:06.651Z"
+}

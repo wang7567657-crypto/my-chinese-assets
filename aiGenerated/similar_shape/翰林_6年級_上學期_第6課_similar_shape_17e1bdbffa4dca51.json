@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第6課_similar_shape_17e1bdbffa4dca51",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "丐",
+    "lessonChars": [
+      "嘲",
+      "詼",
+      "僵",
+      "侃",
+      "競",
+      "醜",
+      "哄",
+      "判",
+      "諷",
+      "丐",
+      "貶",
+      "捏",
+      "吻",
+      "坦",
+      "魅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "丐",
+    "similarChars": [
+      {
+        "char": "丏",
+        "similarity": "上面都有一橫，下面線條接近",
+        "difference": "丏下方多了封閉的折筆；丐下方較簡"
+      },
+      {
+        "char": "乞",
+        "similarity": "都只有少量橫折與彎鉤",
+        "difference": "乞上面有撇；丐上面是一橫"
+      },
+      {
+        "char": "互",
+        "similarity": "上方都是橫筆，下方有彎折",
+        "difference": "互下方有另一橫；丐末筆向右彎"
+      },
+      {
+        "char": "巧",
+        "similarity": "右半部有橫折鉤形",
+        "difference": "巧左邊有工；丐沒有工"
+      },
+      {
+        "char": "予",
+        "similarity": "都由少量橫折鉤筆畫組成",
+        "difference": "予上方有轉折；丐上面是一橫"
+      },
+      {
+        "char": "兮",
+        "similarity": "下方都有彎鉤",
+        "difference": "兮上面是八形；丐上面有長橫"
+      }
+    ],
+    "teachingTip": "「丐」請先看主要部件，再比較左右或上下的位置。"
+  },
+  "createdAt": "2026-09-24T16:43:06.651Z"
+}

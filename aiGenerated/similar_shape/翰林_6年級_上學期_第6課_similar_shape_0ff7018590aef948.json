@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第6課_similar_shape_0ff7018590aef948",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "吻",
+    "lessonChars": [
+      "嘲",
+      "詼",
+      "僵",
+      "侃",
+      "競",
+      "醜",
+      "哄",
+      "判",
+      "諷",
+      "丐",
+      "貶",
+      "捏",
+      "吻",
+      "坦",
+      "魅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "吻",
+    "similarChars": [
+      {
+        "char": "勿",
+        "similarity": "右邊同為勿",
+        "difference": "吻比勿多了左邊的口"
+      },
+      {
+        "char": "物",
+        "similarity": "右邊同為勿",
+        "difference": "物左邊是牛；吻左邊是口"
+      },
+      {
+        "char": "忽",
+        "similarity": "上方同為勿",
+        "difference": "忽下方多了心；吻左邊多了口"
+      },
+      {
+        "char": "刎",
+        "similarity": "左邊同為勿",
+        "difference": "刎右邊是刂；吻左邊是口"
+      },
+      {
+        "char": "匆",
+        "similarity": "上方與勿的筆形接近",
+        "difference": "匆內部多了一點；吻左邊有口"
+      },
+      {
+        "char": "吩",
+        "similarity": "都有口字旁，右部撇筆多",
+        "difference": "吩右邊是分；吻右邊是勿"
+      }
+    ],
+    "teachingTip": "「吻」請先看主要部件，再比較左右或上下的位置。"
+  },
+  "createdAt": "2026-09-24T16:43:06.651Z"
+}
