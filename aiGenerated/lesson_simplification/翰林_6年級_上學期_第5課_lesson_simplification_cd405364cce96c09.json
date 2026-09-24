@@ -1,0 +1,457 @@
+{
+  "taskType": "lesson_simplification",
+  "requestId": "翰林_6年級_上學期_第5課_lesson_simplification_cd405364cce96c09",
+  "version": "2.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "createdAt": "2026-09-24T16:50:59.661Z",
+  "updatedAt": "2026-09-24T16:50:59.661Z",
+  "data": {
+    "title": "觀樹與種樹",
+    "targetLevel": "國小六年級",
+    "simplificationLevel": "high",
+    "simplificationLevelLabel": "高度簡化",
+    "illustrationSetKey": "翰林_6年級_上學期_第5課_lesson-images_e5f37163fb2aa8a3",
+    "illustrationSourceRequestId": "",
+    "preservedWords": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "keyPoints": [
+      "施工路旁的大樹讓作者平靜。",
+      "樹的不同樣子讓作者喜愛觀察。",
+      "可靠的朋友像樹一樣給人安心。",
+      "種樹和關心別人，都能把好處留給後來的人。",
+      "閱讀與寫作也是接受並分享美好事物。"
+    ],
+    "paragraphs": [
+      {
+        "original": "",
+        "simplified": "（一）觀樹\n那段路正在施工。晴天有灰塵，雨天道路泥濘，滿是泥巴。車子走走停停。每天早上，我經過那裡都得等一會兒。",
+        "preservedWords": [
+          "施",
+          "濘"
+        ],
+        "questions": [
+          {
+            "question": "晴天時，施工的路上有什麼？",
+            "choices": [
+              "花香",
+              "灰塵",
+              "水果",
+              "積雪"
+            ],
+            "answerIndex": 1,
+            "explanation": "晴天有很多灰塵，雨天滿是泥巴。"
+          },
+          {
+            "question": "車子在那條路上怎麼走？",
+            "choices": [
+              "一直快速前進",
+              "都停在家裡",
+              "都倒退走",
+              "走走停停"
+            ],
+            "answerIndex": 3,
+            "explanation": "車子走走停停。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第5課_lesson-images_e5f37163fb2aa8a3/paragraph-01.jpg",
+          "alt": "施工的道路與通勤者",
+          "prompt": "依本段原文繪製、臺灣國小教材風格、無文字",
+          "styleKey": "hanlin-tree-story-v1"
+        }
+      },
+      {
+        "original": "",
+        "simplified": "我趕著上班時，很討厭那條路。有一天，我從車窗看見一株美麗的樹。霎時，我急躁的心安靜下來。",
+        "preservedWords": [
+          "躁",
+          "霎"
+        ],
+        "questions": [
+          {
+            "question": "我在哪裡看見美麗的樹？",
+            "choices": [
+              "車窗外",
+              "教室裡",
+              "書本上",
+              "餐桌旁"
+            ],
+            "answerIndex": 0,
+            "explanation": "undefined。"
+          },
+          {
+            "question": "我看見樹後，心情怎麼變？",
+            "choices": [
+              "更生氣",
+              "更害怕",
+              "慢慢安靜下來",
+              "馬上想睡覺"
+            ],
+            "answerIndex": 2,
+            "explanation": "我看著樹，急躁的心慢慢安靜下來。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第5課_lesson-images_e5f37163fb2aa8a3/paragraph-02.jpg",
+          "alt": "車窗外的樹使人平靜",
+          "prompt": "依本段原文繪製、臺灣國小教材風格、無文字",
+          "styleKey": "hanlin-tree-story-v1"
+        }
+      },
+      {
+        "original": "",
+        "simplified": "那株樹已經在路邊長了很多年。樹幹彎曲，樹枝伸展。深淺不同的綠葉形成一大片樹冠。",
+        "preservedWords": [
+          "幹"
+        ],
+        "questions": [
+          {
+            "question": "樹幹是什麼樣子？",
+            "choices": [
+              "筆直的",
+              "彎曲的",
+              "透明的",
+              "方形的"
+            ],
+            "answerIndex": 1,
+            "explanation": "undefined。"
+          },
+          {
+            "question": "哪些部分形成一大片樹冠？",
+            "choices": [
+              "花盆",
+              "路燈",
+              "車子",
+              "深淺不同的綠葉"
+            ],
+            "answerIndex": 3,
+            "explanation": "深淺不同的綠葉形成一大片樹冠。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第5課_lesson-images_e5f37163fb2aa8a3/paragraph-03.jpg",
+          "alt": "彎曲樹幹與綠色樹冠",
+          "prompt": "依本段原文繪製、臺灣國小教材風格、無文字",
+          "styleKey": "hanlin-tree-story-v1"
+        }
+      },
+      {
+        "original": "",
+        "simplified": "我很喜歡樹。和朋友上山時，朋友看花，我看樹。同一株樹，每次看都有不同的樣子。花的美麗卻比較短暫。",
+        "preservedWords": [],
+        "questions": [
+          {
+            "question": "朋友上山時看什麼？",
+            "choices": [
+              "花",
+              "汽車",
+              "書本",
+              "泥巴"
+            ],
+            "answerIndex": 0,
+            "explanation": "和朋友上山時，朋友看花，我看樹。"
+          },
+          {
+            "question": "我為什麼喜歡看同一株樹？",
+            "choices": [
+              "樹會唱歌",
+              "樹會搬家",
+              "每次看都有不同的樣子",
+              "樹會變成花"
+            ],
+            "answerIndex": 2,
+            "explanation": "同一株樹，每次看都有不同的樣子。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第5課_lesson-images_e5f37163fb2aa8a3/paragraph-04.jpg",
+          "alt": "山上看樹與看花的朋友",
+          "prompt": "依本段原文繪製、臺灣國小教材風格、無文字",
+          "styleKey": "hanlin-tree-story-v1"
+        }
+      },
+      {
+        "original": "",
+        "simplified": "有些朋友像樹。他們話不多，我成功時也不一定來道賀。但我失意時，他們會陪伴我、替我遮去煩惱，給我信心。他們像樹幹一樣可靠，讓我感到踏實、穩重。",
+        "preservedWords": [
+          "幹",
+          "賀",
+          "遮",
+          "踏",
+          "穩"
+        ],
+        "questions": [
+          {
+            "question": "像樹的朋友讓我有什麼感覺？",
+            "choices": [
+              "害怕",
+              "安心",
+              "疲倦",
+              "飢餓"
+            ],
+            "answerIndex": 1,
+            "explanation": "他們平常話不多，卻讓人安心。"
+          },
+          {
+            "question": "我失意時，朋友會怎麼做？",
+            "choices": [
+              "躲起來",
+              "和我比賽",
+              "砍掉樹",
+              "陪伴我、給我信心"
+            ],
+            "answerIndex": 3,
+            "explanation": "undefined。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第5課_lesson-images_e5f37163fb2aa8a3/paragraph-05.jpg",
+          "alt": "像大樹般可靠的朋友",
+          "prompt": "依本段原文繪製、臺灣國小教材風格、無文字",
+          "styleKey": "hanlin-tree-story-v1"
+        }
+      },
+      {
+        "original": "",
+        "simplified": "我很慶幸施工沒有砍掉那株樹。每天早上看見它，我依稀覺得它像在向我道早安，像一位好朋友。",
+        "preservedWords": [
+          "施",
+          "稀"
+        ],
+        "questions": [
+          {
+            "question": "施工時，那株樹怎麼了？",
+            "choices": [
+              "沒有被砍掉",
+              "被搬進教室",
+              "開滿黃花",
+              "變成小苗"
+            ],
+            "answerIndex": 0,
+            "explanation": "道路施工時，那株樹沒有被砍掉，我很高興。"
+          },
+          {
+            "question": "我覺得那株樹像誰？",
+            "choices": [
+              "醫生",
+              "司機",
+              "一直陪伴的好朋友",
+              "新老師"
+            ],
+            "answerIndex": 2,
+            "explanation": "undefined。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第5課_lesson-images_e5f37163fb2aa8a3/paragraph-06.jpg",
+          "alt": "清晨路邊仍在的樹",
+          "prompt": "依本段原文繪製、臺灣國小教材風格、無文字",
+          "styleKey": "hanlin-tree-story-v1"
+        }
+      },
+      {
+        "original": "",
+        "simplified": "（二）種樹\n種樹很好。樹在春天開花，在秋天結果。",
+        "preservedWords": [],
+        "questions": [
+          {
+            "question": "樹在什麼季節開花？",
+            "choices": [
+              "冬天",
+              "夏天",
+              "春天",
+              "全年每天"
+            ],
+            "answerIndex": 2,
+            "explanation": "樹在春天開花，在秋天結果。"
+          },
+          {
+            "question": "樹在秋天會怎樣？",
+            "choices": [
+              "變成車子",
+              "搬到教室",
+              "長出椅子",
+              "結果"
+            ],
+            "answerIndex": 3,
+            "explanation": "樹在春天開花，在秋天結果。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第5課_lesson-images_e5f37163fb2aa8a3/paragraph-07.jpg",
+          "alt": "春天開花與秋天結果的樹",
+          "prompt": "依本段原文繪製、臺灣國小教材風格、無文字",
+          "styleKey": "hanlin-tree-story-v1"
+        }
+      },
+      {
+        "original": "",
+        "simplified": "我記得小學校園裡有一株樹。春天，樹開出黃白色的花，花香飄到我的衣襟。小時候，我只想知道那是什麼樹。現在我想知道是誰種的，可是樹已經不見了。",
+        "preservedWords": [
+          "襟"
+        ],
+        "questions": [
+          {
+            "question": "小學校園的樹開什麼顏色的花？",
+            "choices": [
+              "黃白色",
+              "深藍色",
+              "黑色",
+              "紫黑色"
+            ],
+            "answerIndex": 0,
+            "explanation": "春天，樹開出黃白色的花。"
+          },
+          {
+            "question": "現在我想知道什麼？",
+            "choices": [
+              "花能不能說話",
+              "是誰種了那株樹",
+              "樹會不會開車",
+              "誰帶來杏仁酥"
+            ],
+            "answerIndex": 1,
+            "explanation": "undefined。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第5課_lesson-images_e5f37163fb2aa8a3/paragraph-08.jpg",
+          "alt": "小學校園裡的黃白色花樹",
+          "prompt": "依本段原文繪製、臺灣國小教材風格、無文字",
+          "styleKey": "hanlin-tree-story-v1"
+        }
+      },
+      {
+        "original": "",
+        "simplified": "種樹的人可能只想得到樹蔭，卻也讓別人開心。我的朋友知道我愛吃杏仁酥，常帶給我。我後來才知道，她也感受到我對她的關心。關心別人會帶來意想不到的快樂。",
+        "preservedWords": [
+          "仁",
+          "酥"
+        ],
+        "questions": [
+          {
+            "question": "朋友常帶什麼給我？",
+            "choices": [
+              "雨傘",
+              "新書",
+              "飛機模型",
+              "杏仁酥"
+            ],
+            "answerIndex": 3,
+            "explanation": "我的朋友知道我愛吃杏仁酥，常帶給我。"
+          },
+          {
+            "question": "朋友為什麼對我好？",
+            "choices": [
+              "我要求她送禮物",
+              "她不認識我",
+              "她也感受到我的關心",
+              "她想借汽車"
+            ],
+            "answerIndex": 2,
+            "explanation": "undefined。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第5課_lesson-images_e5f37163fb2aa8a3/paragraph-09.jpg",
+          "alt": "朋友送杏仁酥表達關心",
+          "prompt": "依本段原文繪製、臺灣國小教材風格、無文字",
+          "styleKey": "hanlin-tree-story-v1"
+        }
+      },
+      {
+        "original": "",
+        "simplified": "我喜歡讀書，從作者的文字中學到道理。我也喜歡寫作，希望分享美好的事物。這像栽樹，把好處留給後來的人。",
+        "preservedWords": [
+          "栽"
+        ],
+        "questions": [
+          {
+            "question": "我從哪裡學到作者的道理？",
+            "choices": [
+              "書本的文字",
+              "汽車的輪子",
+              "施工的泥巴",
+              "樹上的果實"
+            ],
+            "answerIndex": 0,
+            "explanation": "undefined。"
+          },
+          {
+            "question": "我寫作是想做什麼？",
+            "choices": [
+              "讓路變泥濘",
+              "分享美好的事物",
+              "把樹砍掉",
+              "忘記朋友"
+            ],
+            "answerIndex": 1,
+            "explanation": "undefined。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第5課_lesson-images_e5f37163fb2aa8a3/paragraph-10.jpg",
+          "alt": "在樹下閱讀與寫作",
+          "prompt": "依本段原文繪製、臺灣國小教材風格、無文字",
+          "styleKey": "hanlin-tree-story-v1"
+        }
+      },
+      {
+        "original": "",
+        "simplified": "種樹需要一個人接著一個人去做。我們受到樹蔭的庇護，享受別人帶來的好處，也可以想想自己能為別人做什麼。這樣，就像再栽一株新苗，把善意傳下去。",
+        "preservedWords": [
+          "庇",
+          "栽"
+        ],
+        "questions": [
+          {
+            "question": "種樹需要怎麼做？",
+            "choices": [
+              "只讓一個人做",
+              "完全不必做",
+              "一個人接著一個人做",
+              "只在雨天做"
+            ],
+            "answerIndex": 2,
+            "explanation": "undefined。"
+          },
+          {
+            "question": "享受別人的好處後，我們可以想什麼？",
+            "choices": [
+              "怎麼讓人失望",
+              "怎麼停止閱讀",
+              "怎麼把樹藏起來",
+              "自己能為別人做什麼"
+            ],
+            "answerIndex": 3,
+            "explanation": "我們享受別人帶來的好處，也可以想想自己能為別人做什麼。"
+          }
+        ],
+        "illustration": {
+          "imageUrl": "https://raw.githubusercontent.com/wang7567657-crypto/my-chinese-assets/main/aiLessonSimplification/翰林_6年級_上學期_第5課_lesson-images_e5f37163fb2aa8a3/paragraph-11.jpg",
+          "alt": "大家接力種下一株新樹",
+          "prompt": "依本段原文繪製、臺灣國小教材風格、無文字",
+          "styleKey": "hanlin-tree-story-v1"
+        }
+      }
+    ]
+  }
+}
