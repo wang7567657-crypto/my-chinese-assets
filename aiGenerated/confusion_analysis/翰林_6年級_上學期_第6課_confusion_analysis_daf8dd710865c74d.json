@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第6課_confusion_analysis_daf8dd710865c74d",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "哄",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "哄",
+    "groups": {
+      "shape": [
+        {
+          "char": "洪",
+          "why": "右邊同為「共」",
+          "difference": "哄左邊是口；洪左邊是三點水。"
+        },
+        {
+          "char": "烘",
+          "why": "右邊同為「共」",
+          "difference": "哄是口字旁；烘是火字旁，常見於「烘乾」。"
+        }
+      ],
+      "sound": [],
+      "meaning": [
+        {
+          "char": "騙",
+          "why": "「哄騙」和「欺騙」都可能使人相信不實的話",
+          "difference": "哄可指用話安撫，也可指哄騙；騙強調欺瞞。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "先看左邊部首：用話哄人是口，烘乾是火，洪水是水。"
+  },
+  "createdAt": "2026-09-24T17:00:36.184Z"
+}

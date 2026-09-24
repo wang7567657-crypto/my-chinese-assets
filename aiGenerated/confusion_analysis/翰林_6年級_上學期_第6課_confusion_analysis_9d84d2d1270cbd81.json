@@ -1,0 +1,48 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第6課_confusion_analysis_9d84d2d1270cbd81",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "判",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "判",
+    "groups": {
+      "shape": [
+        {
+          "char": "叛",
+          "why": "左邊都見「半」",
+          "difference": "判右邊是立刀旁；叛右邊是反。"
+        },
+        {
+          "char": "剖",
+          "why": "右邊同是立刀旁",
+          "difference": "判左邊是半；剖左邊是咅。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "盼",
+          "why": "都讀ㄆㄢˋ",
+          "difference": "判斷用立刀旁；盼望用目字旁。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "斷",
+          "why": "都可指根據線索作出判定",
+          "difference": "判斷是形成看法；切斷是使東西分開。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "判斷的判右邊是立刀旁；盼望的盼左邊是目。"
+  },
+  "createdAt": "2026-09-24T17:00:36.184Z"
+}

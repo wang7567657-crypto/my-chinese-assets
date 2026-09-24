@@ -1,0 +1,48 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第6課_confusion_analysis_3892a5a9ae03528c",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "競",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "競",
+    "groups": {
+      "shape": [
+        {
+          "char": "竟",
+          "why": "上半都有立，下方有兒的形狀",
+          "difference": "競左右並列兩個部分；竟只有一個部分。"
+        },
+        {
+          "char": "鏡",
+          "why": "右邊是「竟」，上方也有立",
+          "difference": "鏡左邊是金字旁；競沒有金字旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "靜",
+          "why": "都讀ㄐㄧㄥˋ",
+          "difference": "競爭是比高下；安靜是沒有吵鬧。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "賽",
+          "why": "「競賽」和「比賽」都指較量",
+          "difference": "競是爭取勝出；賽可指比賽活動。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "競爭的競左右有兩個相近的部分，別寫成「竟」。"
+  },
+  "createdAt": "2026-09-24T17:00:36.184Z"
+}
