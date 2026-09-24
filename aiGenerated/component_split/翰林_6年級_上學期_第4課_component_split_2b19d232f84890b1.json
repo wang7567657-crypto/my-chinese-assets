@@ -5,21 +5,22 @@
   "status": "completed",
   "source": "chatgpt",
   "input": {
-    "char": "奧",
-    "grade": "6年級",
-    "instruction": "僅處理此單字；依臺灣實際筆順核對連續部件分組。未核實不得標為 verified=true。",
-    "lesson": "第4課",
     "publisher": "翰林",
+    "grade": "6年級",
     "semester": "上學期",
-    "strokeCount": 13,
-    "strokeSource": "c9s/zh-stroke-data"
+    "lesson": "第4課",
+    "char": "奧",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
   },
   "data": {
     "components": [
       "上部（其餘部分）",
       "大"
     ],
-    "note": "上部十筆為其餘部分，不另猜稱部件；下方大部為第11–13筆。",
+    "note": "上部十筆為其餘部分，不另猜稱部件；下方大部為第11–13筆。 原已核對筆順，沿用先前驗證結果。",
     "radical": "大",
     "radicalStrokeIndices": [
       11,
@@ -34,13 +35,31 @@
     ],
     "strokeCount": 13,
     "structure": "上下",
-    "updatedAt": "2026-09-17T13:37:45.769Z",
     "verification": {
       "method": "逐筆核對原始 Outline/Track 並渲染兩色檢查；分為部首與其餘部分，保留原筆順。",
       "sourceBlobSha": "228523206a52480ee32479a28a33232b63d4843e",
       "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5967.xml"
     },
-    "verified": true
+    "verified": true,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      [
+        11,
+        12,
+        13
+      ]
+    ]
   },
-  "updatedAt": "2026-09-17T13:38:07.926Z"
+  "createdAt": "2026-09-24T17:30:22.188Z"
 }
