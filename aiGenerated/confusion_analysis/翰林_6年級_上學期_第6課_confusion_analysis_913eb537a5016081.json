@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第6課_confusion_analysis_913eb537a5016081",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "捏",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "捏",
+    "groups": {
+      "shape": [
+        {
+          "char": "涅",
+          "why": "右邊同為「圼」",
+          "difference": "捏左邊是提手旁；涅左邊是三點水。"
+        },
+        {
+          "char": "握",
+          "why": "左邊同為提手旁",
+          "difference": "捏右邊是圼；握右邊是屋。"
+        }
+      ],
+      "sound": [],
+      "meaning": [
+        {
+          "char": "握",
+          "why": "都與手的動作有關",
+          "difference": "捏是用手指夾住或揉塑；握是用手掌抓住。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "捏東西用手，左邊是提手旁；不要看成三點水。"
+  },
+  "createdAt": "2026-09-24T17:00:36.184Z"
+}

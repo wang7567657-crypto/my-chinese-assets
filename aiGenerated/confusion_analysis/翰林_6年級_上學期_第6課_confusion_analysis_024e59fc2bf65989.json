@@ -1,0 +1,48 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第6課_confusion_analysis_024e59fc2bf65989",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "魅",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "魅",
+    "groups": {
+      "shape": [
+        {
+          "char": "魁",
+          "why": "左邊都有鬼，整體筆畫多",
+          "difference": "魅右邊是未；魁右邊是斗。"
+        },
+        {
+          "char": "魂",
+          "why": "都含鬼部件",
+          "difference": "魅右邊是未；魂的鬼在右邊。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "妹",
+          "why": "都讀ㄇㄟˋ",
+          "difference": "魅力的魅左邊是鬼；妹妹的妹左邊是女。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "迷",
+          "why": "「魅力」和「迷人」都能說有吸引力",
+          "difference": "魅力是吸引人的特質；迷人是使人喜歡的樣子。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "魅右邊是「未」，不是「末」；左邊有鬼。"
+  },
+  "createdAt": "2026-09-24T17:00:36.184Z"
+}

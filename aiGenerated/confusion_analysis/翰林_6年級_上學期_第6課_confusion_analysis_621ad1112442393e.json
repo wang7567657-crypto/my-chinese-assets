@@ -1,0 +1,48 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第6課_confusion_analysis_621ad1112442393e",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "吻",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "吻",
+    "groups": {
+      "shape": [
+        {
+          "char": "勿",
+          "why": "吻的右邊是「勿」",
+          "difference": "勿沒有口字旁；親吻的吻要有口。"
+        },
+        {
+          "char": "物",
+          "why": "右邊也有「勿」",
+          "difference": "物左邊是牛字旁；吻左邊是口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "穩",
+          "why": "都讀ㄨㄣˇ",
+          "difference": "親吻是口的動作；穩定的穩有禾字旁。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "親",
+          "why": "「親吻」和「親近」都可表達親密",
+          "difference": "吻是具體的嘴部動作；親近指關係接近。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "親吻的吻有口字旁，右邊是勿。"
+  },
+  "createdAt": "2026-09-24T17:00:36.184Z"
+}

@@ -1,0 +1,48 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第6課_confusion_analysis_15714b7c14ab13bf",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "詼",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "詼",
+    "groups": {
+      "shape": [
+        {
+          "char": "恢",
+          "why": "右邊都有「灰」",
+          "difference": "詼是言字旁；恢是豎心旁，常見於「恢復」。"
+        },
+        {
+          "char": "灰",
+          "why": "右邊保留完整的「灰」",
+          "difference": "灰沒有言字旁；詼諧的詼要有言字旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "揮",
+          "why": "都讀ㄏㄨㄟ",
+          "difference": "詼諧是有趣；揮手是手的動作。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "幽",
+          "why": "「詼諧」和「幽默」都形容有趣",
+          "difference": "詼諧多形容言語風趣；幽默也可形容人的特質。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "詼諧和說話有關，左邊是言字旁。"
+  },
+  "createdAt": "2026-09-24T17:00:36.184Z"
+}

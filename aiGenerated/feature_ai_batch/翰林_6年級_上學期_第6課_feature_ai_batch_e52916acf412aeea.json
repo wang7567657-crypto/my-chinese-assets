@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_6年級_上學期_第6課_feature_ai_batch_e52916acf412aeea",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 15,
+    "batchCharacters": [
+      "嘲",
+      "詼",
+      "僵",
+      "侃",
+      "競",
+      "醜",
+      "哄",
+      "判",
+      "諷",
+      "丐",
+      "貶",
+      "捏",
+      "吻",
+      "坦",
+      "魅"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_02d33bce2bcc4709.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_15714b7c14ab13bf.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_9cedde897a9016e6.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_4e0e7f39eb78baff.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_3892a5a9ae03528c.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_9be295d74b971c51.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_daf8dd710865c74d.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_9d84d2d1270cbd81.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_cd4450d47a67658d.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_1ccb707de9397a99.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_791768fa8369576d.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_913eb537a5016081.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_621ad1112442393e.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_390f7ce36d6d6585.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第6課_confusion_analysis_024e59fc2bf65989.json"
+    ]
+  },
+  "createdAt": "2026-09-24T16:57:48.199Z"
+}

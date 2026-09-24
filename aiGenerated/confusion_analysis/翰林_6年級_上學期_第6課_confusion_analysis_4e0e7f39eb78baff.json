@@ -1,0 +1,48 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第6課_confusion_analysis_4e0e7f39eb78baff",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "侃",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "侃",
+    "groups": {
+      "shape": [
+        {
+          "char": "侶",
+          "why": "都有人字旁，右邊有口",
+          "difference": "侃右下像川；侶的右邊是呂。"
+        },
+        {
+          "char": "保",
+          "why": "都有單人旁和口",
+          "difference": "保右下是木；侃右下是川。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "砍",
+          "why": "都讀ㄎㄢˇ",
+          "difference": "侃侃而談是從容說話；砍樹的砍有石字旁。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "談",
+          "why": "都與說話有關",
+          "difference": "侃侃而談強調說話從容；談是交談。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "「侃侃而談」讀ㄎㄢˇ，侃左邊是單人旁。"
+  },
+  "createdAt": "2026-09-24T17:00:36.184Z"
+}

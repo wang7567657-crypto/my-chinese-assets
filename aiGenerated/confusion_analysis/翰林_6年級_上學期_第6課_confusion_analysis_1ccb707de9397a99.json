@@ -1,0 +1,48 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第6課_confusion_analysis_1ccb707de9397a99",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "丐",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "丐",
+    "groups": {
+      "shape": [
+        {
+          "char": "乞",
+          "why": "筆畫少，字形容易看錯",
+          "difference": "丐上方有橫畫與下方折筆；乞上方是撇和橫。"
+        },
+        {
+          "char": "巧",
+          "why": "右邊都見彎折的筆畫",
+          "difference": "巧左邊是工；丐沒有工字旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "概",
+          "why": "都讀ㄍㄞˋ",
+          "difference": "乞丐的丐筆畫少；大概的概左邊是木。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "乞",
+          "why": "「乞丐」一詞常一起出現",
+          "difference": "乞是請求、討要；丐在「乞丐」中指以乞討維生的人。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "「乞丐」是兩個不同的字，丐不要寫成乞。"
+  },
+  "createdAt": "2026-09-24T17:00:36.184Z"
+}

@@ -1,0 +1,48 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第6課_confusion_analysis_cd4450d47a67658d",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "諷",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "諷",
+    "groups": {
+      "shape": [
+        {
+          "char": "風",
+          "why": "右邊完整保留「風」",
+          "difference": "諷多了左邊言字旁，和說話有關。"
+        },
+        {
+          "char": "楓",
+          "why": "右邊同為風",
+          "difference": "諷左邊是言字旁；楓左邊是木字旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鳳",
+          "why": "都讀ㄈㄥˋ",
+          "difference": "諷刺是用話批評；鳳凰是一種傳說中的鳥。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "嘲",
+          "why": "「諷刺」和「嘲笑」都可能讓人難受",
+          "difference": "諷刺常以反話批評；嘲笑偏向取笑。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "諷刺是言語表達，左邊要寫言字旁。"
+  },
+  "createdAt": "2026-09-24T17:00:36.184Z"
+}

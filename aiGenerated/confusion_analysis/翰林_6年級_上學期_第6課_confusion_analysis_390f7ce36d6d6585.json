@@ -1,0 +1,48 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第6課_confusion_analysis_390f7ce36d6d6585",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "坦",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "坦",
+    "groups": {
+      "shape": [
+        {
+          "char": "但",
+          "why": "右邊同為「旦」",
+          "difference": "坦左邊是土字旁；但左邊是單人旁。"
+        },
+        {
+          "char": "垣",
+          "why": "左邊同為土字旁",
+          "difference": "坦右邊是旦；垣右邊是亘。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "忐",
+          "why": "都讀ㄊㄢˇ",
+          "difference": "坦白的坦左邊是土；忐忑的忐下方是心。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "平",
+          "why": "「平坦」和「平整」都可形容地面",
+          "difference": "平坦強調沒有明顯高低；平整強調表面整齊。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "平坦的坦左邊是土；但是的但左邊是人。"
+  },
+  "createdAt": "2026-09-24T17:00:36.184Z"
+}

@@ -1,0 +1,48 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第6課_confusion_analysis_791768fa8369576d",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "貶",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "貶",
+    "groups": {
+      "shape": [
+        {
+          "char": "眨",
+          "why": "右邊同為「乏」",
+          "difference": "貶左邊是貝；眨左邊是目。"
+        },
+        {
+          "char": "販",
+          "why": "左邊同是貝字旁",
+          "difference": "貶右邊是乏；販右邊是反。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "扁",
+          "why": "都讀ㄅㄧㄢˇ",
+          "difference": "貶低用貝字旁；扁平的扁沒有貝。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "低",
+          "why": "「貶低」和「降低」都有使位置變低的意思",
+          "difference": "貶低常指降低評價；降低可指高度、價格或程度。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "貶低與評價有關，左邊要寫貝字旁。"
+  },
+  "createdAt": "2026-09-24T17:00:36.184Z"
+}

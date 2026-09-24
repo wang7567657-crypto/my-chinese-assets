@@ -1,0 +1,48 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第6課_confusion_analysis_02d33bce2bcc4709",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "嘲",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "嘲",
+    "groups": {
+      "shape": [
+        {
+          "char": "潮",
+          "why": "都有「朝」",
+          "difference": "潮左邊是三點水，表示水；嘲左邊是口，表示言語。"
+        },
+        {
+          "char": "朝",
+          "why": "嘲的右邊就是「朝」",
+          "difference": "朝沒有左邊的口；「嘲笑」要加口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "朝",
+          "why": "「朝」可讀ㄔㄠˊ，和「嘲」同音",
+          "difference": "朝代用「朝」；嘲笑用「嘲」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "諷",
+          "why": "都可能指用話語取笑或批評",
+          "difference": "嘲笑偏向譏笑；諷刺常用反話表達批評。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "先看左邊的口，再看詞語是在說嘲笑還是朝代。"
+  },
+  "createdAt": "2026-09-24T17:00:36.184Z"
+}
