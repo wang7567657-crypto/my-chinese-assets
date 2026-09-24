@@ -1,0 +1,293 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_6年級_上學期_第4課_feature_ai_batch_fd1df65258826e64",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "featureTaskType": "component_split",
+    "featureName": "部件拆分",
+    "itemCount": 17,
+    "batchCharacters": [
+      "鰭",
+      "划",
+      "奧",
+      "仿",
+      "迫",
+      "蚊",
+      "膚",
+      "鋸",
+      "劃",
+      "擴",
+      "液",
+      "奈",
+      "構",
+      "鵰",
+      "霸",
+      "翹",
+      "垂"
+    ],
+    "items": [
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_5c73a61636991778",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "鰭",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_14d4faf984b141f4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "划",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_2b19d232f84890b1",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "奧",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_30729872e78c2775",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "仿",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_5292858d0533b24a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "迫",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_118a7cce5bb022c1",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "蚊",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_8fe12c4663e467c7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "膚",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_05ff8971509632b7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "鋸",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_72c6d667bc8d4653",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "劃",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_a7813dea6cb0feed",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "擴",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_3ba57e36ec884fc7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "液",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_9d36f634e62260f8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "奈",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_c108414922674c5a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "構",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_c0e8283c4b86407b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "鵰",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_18848dc76a1f8ed4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "霸",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_33ffadb0e6013627",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "翹",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "翰林_6年級_上學期_第4課_component_split_51ee9650a499392e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "垂",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+        }
+      }
+    ],
+    "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
+  },
+  "createdAt": "2026-09-24T17:27:39.113Z"
+}
