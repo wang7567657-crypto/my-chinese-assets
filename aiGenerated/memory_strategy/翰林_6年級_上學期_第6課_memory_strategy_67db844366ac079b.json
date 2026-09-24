@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第6課_memory_strategy_67db844366ac079b",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "侃",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "侃",
+    "components": [
+      "亻",
+      "口",
+      "川"
+    ],
+    "association": "一個人用口連續說話，右下的川幫助記住字形。",
+    "mnemonic": "一個人開口說不停，亻、口、川組成侃。",
+    "visualPrompt": "畫一人輕鬆交談，字旁以顏色標出亻、口、川，保持三部件原位置。",
+    "teachingTip": "讓學生說「侃侃而談」，指左邊亻、右上口與右下川後再寫。"
+  },
+  "createdAt": "2026-09-24T17:05:56.731Z"
+}

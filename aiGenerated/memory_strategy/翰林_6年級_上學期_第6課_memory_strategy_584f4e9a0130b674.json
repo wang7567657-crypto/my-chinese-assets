@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第6課_memory_strategy_584f4e9a0130b674",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "競",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "競",
+    "components": [
+      "立",
+      "兄"
+    ],
+    "association": "把字看成左右兩位參賽者並排競爭，記住兩邊的結構。",
+    "mnemonic": "兩邊並排比高下，就是競爭的競。",
+    "visualPrompt": "畫兩位參賽者左右站立，旁邊放大完整的「競」字，標出左右並列結構。",
+    "teachingTip": "先看左右各一部分，再與只有單一部分的「竟」比較。"
+  },
+  "createdAt": "2026-09-24T17:05:56.731Z"
+}

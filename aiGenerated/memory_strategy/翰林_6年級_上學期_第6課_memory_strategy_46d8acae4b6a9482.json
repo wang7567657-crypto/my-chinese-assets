@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第6課_memory_strategy_46d8acae4b6a9482",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "吻",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "吻",
+    "components": [
+      "口",
+      "勿"
+    ],
+    "association": "用嘴巴親吻；口在左，勿在右，別把口漏掉。",
+    "mnemonic": "口加勿，親吻的吻。",
+    "visualPrompt": "畫簡潔嘴部符號作提示，旁邊放大字形，標出左口右勿。",
+    "teachingTip": "比較勿、物與吻的左部，說出親吻與口有關後練寫。"
+  },
+  "createdAt": "2026-09-24T17:05:56.731Z"
+}

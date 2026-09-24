@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第6課_memory_strategy_7d909ecfcbd0b433",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "諷",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "諷",
+    "components": [
+      "言",
+      "風"
+    ],
+    "association": "風裡傳來說話聲；左邊言表示用言語，右邊風保留原形。",
+    "mnemonic": "言加風，用話語諷刺。",
+    "visualPrompt": "畫風中出現對話框作提示，放大字形標出左言右風，不遮住筆畫。",
+    "teachingTip": "比較諷刺與楓樹的部首，提醒諷刺用話說，左邊是言。"
+  },
+  "createdAt": "2026-09-24T17:05:56.731Z"
+}

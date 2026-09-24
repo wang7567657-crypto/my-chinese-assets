@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第6課_memory_strategy_9ce4c4df33733f7f",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "捏",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "捏",
+    "components": [
+      "扌",
+      "日",
+      "土"
+    ],
+    "association": "用手指捏黏土；左邊是手，右邊可從上方日、下方土觀察。",
+    "mnemonic": "手旁邊有日和土，用手捏土。",
+    "visualPrompt": "畫手指揉捏黏土，旁邊完整顯示捏，標出扌與右側日、土的位置。",
+    "teachingTip": "請學生做捏的動作，說出提手旁，再遮住字寫「捏」。"
+  },
+  "createdAt": "2026-09-24T17:05:56.731Z"
+}
