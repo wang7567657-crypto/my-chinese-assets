@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第6課_memory_strategy_0a3b5450631dd709",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "僵",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "僵",
+    "components": [
+      "亻",
+      "畺"
+    ],
+    "association": "一個人身體硬得動不了；左邊的人與僵硬的意思連起來。",
+    "mnemonic": "人站得直直硬硬，單人旁加畺是僵。",
+    "visualPrompt": "畫人僵直站立在「僵」字旁，放大標示亻與右部的三層橫畫。",
+    "teachingTip": "先找單人旁，再觀察右側橫畫層次；與邊疆的疆並排辨字。"
+  },
+  "createdAt": "2026-09-24T17:05:56.731Z"
+}
