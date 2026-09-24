@@ -1,0 +1,43 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_4年級_上學期_第4課_similar_shape_0ee3c783c516552d",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "義",
+    "lessonChars": [
+      "兄",
+      "翔",
+      "鷹",
+      "論",
+      "控",
+      "制",
+      "命",
+      "義",
+      "標",
+      "良",
+      "研",
+      "靈",
+      "升",
+      "紀",
+      "碑"
+    ]
+  },
+  "data": {
+    "targetChar": "義",
+    "similarChars": [
+      "儀",
+      "議",
+      "犧",
+      "蟻",
+      "羲",
+      "美"
+    ],
+    "teachingTip": "義上方有羊、下方有我；儀、議、犧、蟻在義的左邊另加部件，羲、美則要比下半部。"
+  },
+  "createdAt": "2026-09-24T18:01:53.494Z"
+}

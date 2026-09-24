@@ -1,0 +1,43 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_4年級_上學期_第4課_similar_shape_c717b53205395e85",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "紀",
+    "lessonChars": [
+      "兄",
+      "翔",
+      "鷹",
+      "論",
+      "控",
+      "制",
+      "命",
+      "義",
+      "標",
+      "良",
+      "研",
+      "靈",
+      "升",
+      "紀",
+      "碑"
+    ]
+  },
+  "data": {
+    "targetChar": "紀",
+    "similarChars": [
+      "記",
+      "杞",
+      "忌",
+      "己",
+      "紐",
+      "級"
+    ],
+    "teachingTip": "紀左邊是糸、右邊是己；記、杞換了左邊，紐、級雖有糸，右邊卻不是己。"
+  },
+  "createdAt": "2026-09-24T18:01:53.494Z"
+}
