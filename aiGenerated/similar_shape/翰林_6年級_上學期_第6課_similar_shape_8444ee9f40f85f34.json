@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第6課_similar_shape_8444ee9f40f85f34",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "侃",
+    "lessonChars": [
+      "嘲",
+      "詼",
+      "僵",
+      "侃",
+      "競",
+      "醜",
+      "哄",
+      "判",
+      "諷",
+      "丐",
+      "貶",
+      "捏",
+      "吻",
+      "坦",
+      "魅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "侃",
+    "similarChars": [
+      {
+        "char": "倪",
+        "similarity": "都有亻，右邊有較多短筆畫",
+        "difference": "倪右邊是兒形；侃右邊是口與川形"
+      },
+      {
+        "char": "侶",
+        "similarity": "都有亻，右上都有口形",
+        "difference": "侶右邊是呂；侃右邊下方是川形"
+      },
+      {
+        "char": "俁",
+        "similarity": "都有亻，右上都有口形",
+        "difference": "俁右下是吳形；侃右下是川形"
+      },
+      {
+        "char": "保",
+        "similarity": "都有亻，右上都有口",
+        "difference": "保右下是木；侃右下是川形"
+      },
+      {
+        "char": "促",
+        "similarity": "都有亻，右上都有口",
+        "difference": "促右下是足；侃右下是川形"
+      },
+      {
+        "char": "侗",
+        "similarity": "都有亻和右側口形",
+        "difference": "侗右邊是同；侃右下是川形"
+      }
+    ],
+    "teachingTip": "「侃」請先看主要部件，再比較左右或上下的位置。"
+  },
+  "createdAt": "2026-09-24T16:43:06.651Z"
+}

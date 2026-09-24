@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第6課_similar_shape_f1f11645a35ec350",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "嘲",
+    "lessonChars": [
+      "嘲",
+      "詼",
+      "僵",
+      "侃",
+      "競",
+      "醜",
+      "哄",
+      "判",
+      "諷",
+      "丐",
+      "貶",
+      "捏",
+      "吻",
+      "坦",
+      "魅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "嘲",
+    "similarChars": [
+      {
+        "char": "潮",
+        "similarity": "右邊同為朝",
+        "difference": "左邊是氵；嘲左邊是口"
+      },
+      {
+        "char": "朝",
+        "similarity": "保留朝的完整字形",
+        "difference": "嘲比朝多了左邊的口"
+      },
+      {
+        "char": "廟",
+        "similarity": "都看得到朝",
+        "difference": "廟外面是广；嘲左邊是口"
+      },
+      {
+        "char": "謿",
+        "similarity": "右邊同為朝",
+        "difference": "謿左邊是言；嘲左邊是口"
+      },
+      {
+        "char": "嘈",
+        "similarity": "都有口字旁，右邊筆畫密集",
+        "difference": "嘈右邊是曹；嘲右邊是朝"
+      },
+      {
+        "char": "嘟",
+        "similarity": "都有口字旁和較大的右部",
+        "difference": "嘟右邊是都；嘲右邊是朝"
+      }
+    ],
+    "teachingTip": "「嘲」請先看主要部件，再比較左右或上下的位置。"
+  },
+  "createdAt": "2026-09-24T16:43:06.651Z"
+}

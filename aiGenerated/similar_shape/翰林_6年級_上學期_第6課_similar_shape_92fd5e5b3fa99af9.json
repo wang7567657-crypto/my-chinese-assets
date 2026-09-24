@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第6課_similar_shape_92fd5e5b3fa99af9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "諷",
+    "lessonChars": [
+      "嘲",
+      "詼",
+      "僵",
+      "侃",
+      "競",
+      "醜",
+      "哄",
+      "判",
+      "諷",
+      "丐",
+      "貶",
+      "捏",
+      "吻",
+      "坦",
+      "魅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "諷",
+    "similarChars": [
+      {
+        "char": "風",
+        "similarity": "右邊同為風",
+        "difference": "諷比風多了左邊的言"
+      },
+      {
+        "char": "楓",
+        "similarity": "右邊同為風",
+        "difference": "楓左邊是木；諷左邊是言"
+      },
+      {
+        "char": "瘋",
+        "similarity": "都包含風",
+        "difference": "瘋外面是疒；諷左邊是言"
+      },
+      {
+        "char": "颱",
+        "similarity": "左邊同為風",
+        "difference": "颱右邊是台；諷左邊是言"
+      },
+      {
+        "char": "颯",
+        "similarity": "右邊同為風",
+        "difference": "颯左邊是立；諷左邊是言"
+      },
+      {
+        "char": "調",
+        "similarity": "都有言字旁，右部有外框",
+        "difference": "調右邊是周；諷右邊是風"
+      }
+    ],
+    "teachingTip": "「諷」請先看主要部件，再比較左右或上下的位置。"
+  },
+  "createdAt": "2026-09-24T16:43:06.651Z"
+}

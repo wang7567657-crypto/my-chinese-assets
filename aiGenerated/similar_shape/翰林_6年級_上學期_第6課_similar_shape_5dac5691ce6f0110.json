@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第6課_similar_shape_5dac5691ce6f0110",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "坦",
+    "lessonChars": [
+      "嘲",
+      "詼",
+      "僵",
+      "侃",
+      "競",
+      "醜",
+      "哄",
+      "判",
+      "諷",
+      "丐",
+      "貶",
+      "捏",
+      "吻",
+      "坦",
+      "魅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "坦",
+    "similarChars": [
+      {
+        "char": "但",
+        "similarity": "右邊同為旦",
+        "difference": "但左邊是亻；坦左邊是土"
+      },
+      {
+        "char": "袒",
+        "similarity": "右邊同為旦",
+        "difference": "袒左邊是衤；坦左邊是土"
+      },
+      {
+        "char": "旦",
+        "similarity": "右邊同為旦",
+        "difference": "坦比旦多了左邊的土"
+      },
+      {
+        "char": "疸",
+        "similarity": "都包含旦",
+        "difference": "疸外面是疒；坦左邊是土"
+      },
+      {
+        "char": "查",
+        "similarity": "下方同為旦形",
+        "difference": "查上方是木；坦左邊是土"
+      },
+      {
+        "char": "垣",
+        "similarity": "都有土字旁，右邊含日形",
+        "difference": "垣右邊是亘；坦右邊是旦"
+      }
+    ],
+    "teachingTip": "「坦」請先看主要部件，再比較左右或上下的位置。"
+  },
+  "createdAt": "2026-09-24T16:43:06.651Z"
+}
