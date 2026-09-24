@@ -1,0 +1,43 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_4年級_上學期_第4課_similar_shape_a6bca2bca0671d5c",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "命",
+    "lessonChars": [
+      "兄",
+      "翔",
+      "鷹",
+      "論",
+      "控",
+      "制",
+      "命",
+      "義",
+      "標",
+      "良",
+      "研",
+      "靈",
+      "升",
+      "紀",
+      "碑"
+    ]
+  },
+  "data": {
+    "targetChar": "命",
+    "similarChars": [
+      "令",
+      "合",
+      "含",
+      "倉",
+      "會",
+      "盒"
+    ],
+    "teachingTip": "觀察人字頭下面：命有口和右下方的卩；令、合、含、倉、會、盒的下半部都不同。"
+  },
+  "createdAt": "2026-09-24T18:01:53.494Z"
+}

@@ -1,0 +1,43 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_4年級_上學期_第4課_similar_shape_5a64d9e24f773c79",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "翔",
+    "lessonChars": [
+      "兄",
+      "翔",
+      "鷹",
+      "論",
+      "控",
+      "制",
+      "命",
+      "義",
+      "標",
+      "良",
+      "研",
+      "靈",
+      "升",
+      "紀",
+      "碑"
+    ]
+  },
+  "data": {
+    "targetChar": "翔",
+    "similarChars": [
+      "翊",
+      "翎",
+      "翅",
+      "翰",
+      "羚",
+      "詳"
+    ],
+    "teachingTip": "把「翔」分成左羊、右羽；前三個主要換左邊，羚、詳則保留羊而更換另一側。"
+  },
+  "createdAt": "2026-09-24T18:01:53.494Z"
+}
