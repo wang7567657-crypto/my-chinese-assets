@@ -1,0 +1,47 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第4課_similar_shape_c6be2380852b3ee2",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "穗",
+    "lessonChars": [
+      "恆",
+      "澄",
+      "穗",
+      "養",
+      "源",
+      "藝",
+      "樸",
+      "堆",
+      "撿",
+      "巾",
+      "痠",
+      "素",
+      "尊",
+      "嚴",
+      "勞",
+      "怨",
+      "慷",
+      "慨",
+      "滋"
+    ]
+  },
+  "data": {
+    "targetChar": "穗",
+    "similarChars": [
+      "惠",
+      "蕙",
+      "慧",
+      "穩",
+      "積",
+      "穎"
+    ],
+    "teachingTip": "穗左邊是禾、右邊是惠；蕙多了草字頭，穩、積也有禾，但右邊不是惠。"
+  },
+  "createdAt": "2026-09-25T14:43:00.878Z"
+}

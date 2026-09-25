@@ -1,0 +1,47 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第4課_similar_shape_390f6326e1af9c11",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "怨",
+    "lessonChars": [
+      "恆",
+      "澄",
+      "穗",
+      "養",
+      "源",
+      "藝",
+      "樸",
+      "堆",
+      "撿",
+      "巾",
+      "痠",
+      "素",
+      "尊",
+      "嚴",
+      "勞",
+      "怨",
+      "慷",
+      "慨",
+      "滋"
+    ]
+  },
+  "data": {
+    "targetChar": "怨",
+    "similarChars": [
+      "苑",
+      "鴛",
+      "宛",
+      "惋",
+      "怒",
+      "怠"
+    ],
+    "teachingTip": "怨下方是心；苑、鴛、宛、惋有相近的上半部，怒、怠雖有心，上方不同。"
+  },
+  "createdAt": "2026-09-25T14:43:00.878Z"
+}

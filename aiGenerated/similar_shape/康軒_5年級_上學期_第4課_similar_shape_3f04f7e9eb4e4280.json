@@ -1,0 +1,47 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第4課_similar_shape_3f04f7e9eb4e4280",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "勞",
+    "lessonChars": [
+      "恆",
+      "澄",
+      "穗",
+      "養",
+      "源",
+      "藝",
+      "樸",
+      "堆",
+      "撿",
+      "巾",
+      "痠",
+      "素",
+      "尊",
+      "嚴",
+      "勞",
+      "怨",
+      "慷",
+      "慨",
+      "滋"
+    ]
+  },
+  "data": {
+    "targetChar": "勞",
+    "similarChars": [
+      "撈",
+      "癆",
+      "嘮",
+      "榮",
+      "螢",
+      "營"
+    ],
+    "teachingTip": "勞上方是兩個火加冖、下方是力；榮、螢、營上方相近，但最下方不同。"
+  },
+  "createdAt": "2026-09-25T14:43:00.878Z"
+}

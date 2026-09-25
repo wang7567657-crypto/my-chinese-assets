@@ -1,0 +1,47 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第4課_similar_shape_d7281f1c0dfec614",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "養",
+    "lessonChars": [
+      "恆",
+      "澄",
+      "穗",
+      "養",
+      "源",
+      "藝",
+      "樸",
+      "堆",
+      "撿",
+      "巾",
+      "痠",
+      "素",
+      "尊",
+      "嚴",
+      "勞",
+      "怨",
+      "慷",
+      "慨",
+      "滋"
+    ]
+  },
+  "data": {
+    "targetChar": "養",
+    "similarChars": [
+      "癢",
+      "樣",
+      "漾",
+      "義",
+      "美",
+      "饗"
+    ],
+    "teachingTip": "養上方像羊、下方有食的字形；癢裡面有養，樣、漾則在右邊保留相近的羊形。"
+  },
+  "createdAt": "2026-09-25T14:43:00.878Z"
+}

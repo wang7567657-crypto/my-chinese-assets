@@ -1,0 +1,47 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第4課_similar_shape_0a36cbf507e46c9b",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "慨",
+    "lessonChars": [
+      "恆",
+      "澄",
+      "穗",
+      "養",
+      "源",
+      "藝",
+      "樸",
+      "堆",
+      "撿",
+      "巾",
+      "痠",
+      "素",
+      "尊",
+      "嚴",
+      "勞",
+      "怨",
+      "慷",
+      "慨",
+      "滋"
+    ]
+  },
+  "data": {
+    "targetChar": "慨",
+    "similarChars": [
+      "概",
+      "溉",
+      "暨",
+      "既",
+      "慷",
+      "愧"
+    ],
+    "teachingTip": "慨左邊是心字旁、右邊是既；概、溉更換左邊，慷、愧雖有心字旁，右邊不同。"
+  },
+  "createdAt": "2026-09-25T14:43:00.878Z"
+}
