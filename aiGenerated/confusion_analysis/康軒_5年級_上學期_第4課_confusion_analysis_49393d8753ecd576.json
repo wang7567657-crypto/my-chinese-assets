@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_49393d8753ecd576",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "素",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "素",
+    "groups": {
+      "shape": [
+        {
+          "char": "索",
+          "why": "下方同有糸的輪廓",
+          "difference": "素上方像龶；索中間有冖"
+        },
+        {
+          "char": "累",
+          "why": "下方同有糸",
+          "difference": "素上方不像田；累上方是田"
+        }
+      ],
+      "sound": [
+        {
+          "char": "訴",
+          "why": "同讀ㄙㄨˋ",
+          "difference": "訴左邊是言字旁；素下面有糸"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "樸",
+          "why": "樸素一詞都指不華麗",
+          "difference": "樸左邊是木；素下面是糸"
+        }
+      ],
+      "component": [
+        {
+          "char": "紫",
+          "why": "下方同有糸",
+          "difference": "素上方不同於紫的此"
+        }
+      ]
+    },
+    "tip": "素的下半部是糸，不要看成索的冖或累的田。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

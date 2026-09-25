@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_c36d2b6d43a44fe9",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "尊",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "尊",
+    "groups": {
+      "shape": [
+        {
+          "char": "奠",
+          "why": "上半部輪廓相近",
+          "difference": "尊下方是寸；奠下方是大"
+        },
+        {
+          "char": "酋",
+          "why": "與尊的上半部相近",
+          "difference": "尊下方多寸"
+        }
+      ],
+      "sound": [
+        {
+          "char": "遵",
+          "why": "同讀ㄗㄨㄣ",
+          "difference": "遵外面多走之旁；尊沒有"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "敬",
+          "why": "尊敬意思相近",
+          "difference": "尊下方是寸；敬右邊有攵"
+        }
+      ],
+      "component": [
+        {
+          "char": "樽",
+          "why": "右邊含尊",
+          "difference": "樽左邊多木，常指酒器"
+        }
+      ]
+    },
+    "tip": "尊下方是寸；奠下方是大。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

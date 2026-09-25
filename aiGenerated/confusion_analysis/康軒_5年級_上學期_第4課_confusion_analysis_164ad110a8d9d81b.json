@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_164ad110a8d9d81b",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "藝",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "藝",
+    "groups": {
+      "shape": [
+        {
+          "char": "熱",
+          "why": "中段輪廓接近",
+          "difference": "藝上方有草字頭、下方是云；熱下方是四點"
+        },
+        {
+          "char": "勢",
+          "why": "中間筆畫相近",
+          "difference": "藝上方有草字頭；勢下方是力"
+        }
+      ],
+      "sound": [
+        {
+          "char": "意",
+          "why": "同讀ㄧˋ",
+          "difference": "意上方是音、下方是心；藝上方是草字頭"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "技",
+          "why": "技藝相關",
+          "difference": "技左邊是提手旁；藝上方是草字頭"
+        }
+      ],
+      "component": [
+        {
+          "char": "蘇",
+          "why": "同有草字頭",
+          "difference": "藝與蘇的草字頭下面完全不同"
+        }
+      ]
+    },
+    "tip": "藝上方有草字頭；熱下面是四點，勢下面是力。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

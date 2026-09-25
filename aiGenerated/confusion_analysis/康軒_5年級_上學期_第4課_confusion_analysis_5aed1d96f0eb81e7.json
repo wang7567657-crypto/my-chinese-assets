@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_5aed1d96f0eb81e7",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "嚴",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "嚴",
+    "groups": {
+      "shape": [
+        {
+          "char": "儼",
+          "why": "右邊含嚴",
+          "difference": "儼左邊多單人旁"
+        },
+        {
+          "char": "器",
+          "why": "上方都有口形、字體輪廓密集",
+          "difference": "嚴上方有兩個口；器有四個口"
+        }
+      ],
+      "sound": [
+        {
+          "char": "言",
+          "why": "同讀ㄧㄢˊ",
+          "difference": "言的筆畫較少，嚴上方有兩個口"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "肅",
+          "why": "嚴肅意思相近",
+          "difference": "肅字中間是密集的直畫，嚴上方有兩個口"
+        }
+      ],
+      "component": [
+        {
+          "char": "巖",
+          "why": "右邊含嚴",
+          "difference": "巖左邊多山字旁"
+        }
+      ]
+    },
+    "tip": "嚴上面有兩個口，儼還多一個人字旁。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

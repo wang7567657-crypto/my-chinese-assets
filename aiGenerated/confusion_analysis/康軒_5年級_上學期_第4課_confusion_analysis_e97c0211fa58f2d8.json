@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_e97c0211fa58f2d8",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "撿",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "撿",
+    "groups": {
+      "shape": [
+        {
+          "char": "檢",
+          "why": "右邊的字形相同",
+          "difference": "撿左邊是手，用手撿；檢左邊是木，常見於檢查"
+        },
+        {
+          "char": "儉",
+          "why": "右邊的字形相同",
+          "difference": "撿左邊是手；儉左邊是人"
+        }
+      ],
+      "sound": [
+        {
+          "char": "簡",
+          "why": "同讀ㄐㄧㄢˇ",
+          "difference": "簡上面是竹字頭；撿左邊是提手旁"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "拾",
+          "why": "撿拾意思相關",
+          "difference": "拾左邊也是提手旁，右邊是合；撿右邊不同"
+        }
+      ],
+      "component": [
+        {
+          "char": "臉",
+          "why": "右邊的字形相同",
+          "difference": "臉左邊是月；撿左邊是提手旁"
+        }
+      ]
+    },
+    "tip": "撿東西要動手；檢查的檢左邊是木。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

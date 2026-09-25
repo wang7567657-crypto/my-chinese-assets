@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_4dec4b379e05f9bc",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "勞",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "勞",
+    "groups": {
+      "shape": [
+        {
+          "char": "榮",
+          "why": "上半部有相近的兩火與冖",
+          "difference": "勞下方是力；榮下方是木"
+        },
+        {
+          "char": "營",
+          "why": "上半部輪廓相近",
+          "difference": "勞下方是力；營下方還有兩個口"
+        }
+      ],
+      "sound": [
+        {
+          "char": "牢",
+          "why": "同讀ㄌㄠˊ",
+          "difference": "牢上方是宀、下方是牛；勞下方是力"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "勤",
+          "why": "勤勞意思相關",
+          "difference": "勞上方有兩火；勤的下方結構不同"
+        }
+      ],
+      "component": [
+        {
+          "char": "撈",
+          "why": "右邊含勞的字形",
+          "difference": "撈左邊多提手旁"
+        }
+      ]
+    },
+    "tip": "勞下方是力；榮下方是木。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

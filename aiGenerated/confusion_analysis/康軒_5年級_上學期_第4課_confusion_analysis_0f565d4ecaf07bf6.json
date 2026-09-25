@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_0f565d4ecaf07bf6",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "源",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "源",
+    "groups": {
+      "shape": [
+        {
+          "char": "原",
+          "why": "源的右半部",
+          "difference": "源左邊多三點水"
+        },
+        {
+          "char": "湲",
+          "why": "左邊同有三點水，右邊輪廓相近",
+          "difference": "源右邊是原；湲右邊是爰"
+        }
+      ],
+      "sound": [
+        {
+          "char": "園",
+          "why": "同讀ㄩㄢˊ",
+          "difference": "園外面有大方框；源左邊是三點水"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "根",
+          "why": "根源的意義相關",
+          "difference": "根左邊是木；源左邊是水"
+        }
+      ],
+      "component": [
+        {
+          "char": "願",
+          "why": "左邊含原",
+          "difference": "源是水加原；願還有頁"
+        }
+      ]
+    },
+    "tip": "源＝三點水加原，河水的源頭和水有關。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

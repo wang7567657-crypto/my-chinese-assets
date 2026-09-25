@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_cf20174d788eb288",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "堆",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "堆",
+    "groups": {
+      "shape": [
+        {
+          "char": "推",
+          "why": "右邊同有隹",
+          "difference": "堆左邊是土；推左邊是提手旁"
+        },
+        {
+          "char": "唯",
+          "why": "右邊同有隹",
+          "difference": "堆左邊是土；唯左邊是口"
+        }
+      ],
+      "sound": [
+        {
+          "char": "對",
+          "why": "同是ㄉㄨㄟ，聲調不同",
+          "difference": "堆讀第一聲，對讀第四聲，寫法也不同"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "疊",
+          "why": "堆疊意思相關",
+          "difference": "堆左邊是土；疊上方有三個田"
+        }
+      ],
+      "component": [
+        {
+          "char": "維",
+          "why": "右邊同有隹",
+          "difference": "維左邊是糸；堆左邊是土"
+        }
+      ]
+    },
+    "tip": "堆東西用土字旁，推東西用提手旁。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

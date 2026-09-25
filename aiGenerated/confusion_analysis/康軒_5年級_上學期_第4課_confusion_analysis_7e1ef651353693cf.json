@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_7e1ef651353693cf",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "巾",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "巾",
+    "groups": {
+      "shape": [
+        {
+          "char": "市",
+          "why": "下方同有巾的輪廓",
+          "difference": "市上方多亠，巾只有三筆"
+        },
+        {
+          "char": "布",
+          "why": "下方同有巾的輪廓",
+          "difference": "布左上方另有撇和橫"
+        }
+      ],
+      "sound": [
+        {
+          "char": "金",
+          "why": "同讀ㄐㄧㄣ",
+          "difference": "金有金字形；巾只有三筆"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "帕",
+          "why": "巾與手帕都指布製物",
+          "difference": "帕左邊有巾，右邊另有白"
+        }
+      ],
+      "component": [
+        {
+          "char": "帽",
+          "why": "左邊同有巾",
+          "difference": "帽右邊多冒；巾本身只有三筆"
+        }
+      ]
+    },
+    "tip": "巾只有三筆；市的上方還有亠。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

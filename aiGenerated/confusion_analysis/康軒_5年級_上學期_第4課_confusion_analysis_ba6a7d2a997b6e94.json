@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_ba6a7d2a997b6e94",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "怨",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "怨",
+    "groups": {
+      "shape": [
+        {
+          "char": "宛",
+          "why": "上半部輪廓相近",
+          "difference": "怨下方是心；宛上方是宀"
+        },
+        {
+          "char": "鴛",
+          "why": "左上方字形相近",
+          "difference": "怨下方是心；鴛右下方是鳥"
+        }
+      ],
+      "sound": [
+        {
+          "char": "願",
+          "why": "同讀ㄩㄢˋ",
+          "difference": "怨下方是心；願右邊是頁"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "恨",
+          "why": "怨恨意思相關",
+          "difference": "恨左邊是心字旁；怨的心在下面"
+        }
+      ],
+      "component": [
+        {
+          "char": "苑",
+          "why": "上半部同有夗",
+          "difference": "苑上面多草字頭，怨下方是心"
+        }
+      ]
+    },
+    "tip": "怨的心在下方，願的右邊是頁。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_3810ab2c5d6d7b49",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "滋",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "滋",
+    "groups": {
+      "shape": [
+        {
+          "char": "慈",
+          "why": "右側與下方部分字形相近",
+          "difference": "滋左邊是三點水；慈下方是心"
+        },
+        {
+          "char": "磁",
+          "why": "右側同有茲的字形",
+          "difference": "滋左邊是三點水；磁左邊是石"
+        }
+      ],
+      "sound": [
+        {
+          "char": "資",
+          "why": "同讀ㄗ",
+          "difference": "資下方是貝；滋左邊是三點水"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "養",
+          "why": "滋養意思相關",
+          "difference": "滋左邊是三點水；養下方有食形"
+        }
+      ],
+      "component": [
+        {
+          "char": "孳",
+          "why": "上方同有茲",
+          "difference": "孳下方是子，滋左邊是三點水"
+        }
+      ]
+    },
+    "tip": "滋是水加茲；慈下面是心，磁左邊是石。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}
