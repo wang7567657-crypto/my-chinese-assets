@@ -1,0 +1,47 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第4課_similar_shape_2c2364a6a812bbf0",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "素",
+    "lessonChars": [
+      "恆",
+      "澄",
+      "穗",
+      "養",
+      "源",
+      "藝",
+      "樸",
+      "堆",
+      "撿",
+      "巾",
+      "痠",
+      "素",
+      "尊",
+      "嚴",
+      "勞",
+      "怨",
+      "慷",
+      "慨",
+      "滋"
+    ]
+  },
+  "data": {
+    "targetChar": "素",
+    "similarChars": [
+      "索",
+      "累",
+      "紫",
+      "青",
+      "責",
+      "縣"
+    ],
+    "teachingTip": "素下方是糸；索、累、紫的下方也像糸，青、責上半部相近，下面不同。"
+  },
+  "createdAt": "2026-09-25T14:43:00.878Z"
+}

@@ -1,0 +1,47 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第4課_similar_shape_a093a931bcd21e96",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "澄",
+    "lessonChars": [
+      "恆",
+      "澄",
+      "穗",
+      "養",
+      "源",
+      "藝",
+      "樸",
+      "堆",
+      "撿",
+      "巾",
+      "痠",
+      "素",
+      "尊",
+      "嚴",
+      "勞",
+      "怨",
+      "慷",
+      "慨",
+      "滋"
+    ]
+  },
+  "data": {
+    "targetChar": "澄",
+    "similarChars": [
+      "登",
+      "橙",
+      "燈",
+      "證",
+      "澈",
+      "潑"
+    ],
+    "teachingTip": "澄左邊是三點水、右邊是登；橙、燈、證換了左邊，澈、潑雖都有三點水，右邊不同。"
+  },
+  "createdAt": "2026-09-25T14:43:00.878Z"
+}

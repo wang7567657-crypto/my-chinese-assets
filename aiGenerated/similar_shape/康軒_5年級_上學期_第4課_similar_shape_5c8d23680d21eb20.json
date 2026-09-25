@@ -1,0 +1,47 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第4課_similar_shape_5c8d23680d21eb20",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "滋",
+    "lessonChars": [
+      "恆",
+      "澄",
+      "穗",
+      "養",
+      "源",
+      "藝",
+      "樸",
+      "堆",
+      "撿",
+      "巾",
+      "痠",
+      "素",
+      "尊",
+      "嚴",
+      "勞",
+      "怨",
+      "慷",
+      "慨",
+      "滋"
+    ]
+  },
+  "data": {
+    "targetChar": "滋",
+    "similarChars": [
+      "慈",
+      "磁",
+      "孳",
+      "茲",
+      "嗞",
+      "濕"
+    ],
+    "teachingTip": "滋左邊是三點水、右邊是茲；慈、磁、孳、嗞保留茲，濕雖也有三點水，右邊不同。"
+  },
+  "createdAt": "2026-09-25T14:43:00.878Z"
+}

@@ -1,0 +1,47 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第4課_similar_shape_316c6377eacd161f",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "嚴",
+    "lessonChars": [
+      "恆",
+      "澄",
+      "穗",
+      "養",
+      "源",
+      "藝",
+      "樸",
+      "堆",
+      "撿",
+      "巾",
+      "痠",
+      "素",
+      "尊",
+      "嚴",
+      "勞",
+      "怨",
+      "慷",
+      "慨",
+      "滋"
+    ]
+  },
+  "data": {
+    "targetChar": "嚴",
+    "similarChars": [
+      "儼",
+      "巖",
+      "器",
+      "嚇",
+      "敢",
+      "喦"
+    ],
+    "teachingTip": "嚴上方有兩個口；儼、巖保留整個嚴，器、喦有更多口，嚇的右半部不同。"
+  },
+  "createdAt": "2026-09-25T14:43:00.878Z"
+}
