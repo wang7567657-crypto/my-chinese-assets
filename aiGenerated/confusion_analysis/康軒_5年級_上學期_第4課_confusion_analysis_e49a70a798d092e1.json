@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_e49a70a798d092e1",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "痠",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "痠",
+    "groups": {
+      "shape": [
+        {
+          "char": "痕",
+          "why": "外面同有病字旁",
+          "difference": "痠裡面是夋，痕裡面是艮"
+        },
+        {
+          "char": "疼",
+          "why": "外面同有病字旁",
+          "difference": "痠裡面是夋，疼裡面是冬"
+        }
+      ],
+      "sound": [
+        {
+          "char": "酸",
+          "why": "同讀ㄙㄨㄢ",
+          "difference": "痠左邊是病字旁，多用於身體痠；酸左邊是酉，也可指酸味"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "痛",
+          "why": "痠痛都描述身體不舒服",
+          "difference": "痛與痠程度、感覺不同；痛裡面是甬"
+        }
+      ],
+      "component": [
+        {
+          "char": "俊",
+          "why": "右邊同有夋的字形",
+          "difference": "俊左邊是人，痠外面是病字旁"
+        }
+      ]
+    },
+    "tip": "身體痠用病字旁；酸味的酸左邊是酉。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

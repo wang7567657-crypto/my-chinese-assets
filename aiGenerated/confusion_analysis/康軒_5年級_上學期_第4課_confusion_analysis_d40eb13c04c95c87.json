@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_d40eb13c04c95c87",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "澄",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "澄",
+    "groups": {
+      "shape": [
+        {
+          "char": "澈",
+          "why": "左邊同是三點水",
+          "difference": "澄右邊像登；澈右邊含育與攵"
+        },
+        {
+          "char": "橙",
+          "why": "右邊同有登",
+          "difference": "澄左邊是水，橙左邊是木"
+        }
+      ],
+      "sound": [
+        {
+          "char": "誠",
+          "why": "同讀ㄔㄥˊ",
+          "difference": "誠左邊是言字旁，寫誠實；澄是三點水"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "清",
+          "why": "澄清與清楚意思接近",
+          "difference": "澄有三點水和登；清右邊是青"
+        }
+      ],
+      "component": [
+        {
+          "char": "登",
+          "why": "和澄的右半邊相同",
+          "difference": "澄左邊另有三點水"
+        }
+      ]
+    },
+    "tip": "看左邊：澄是三點水，橙是木字旁。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

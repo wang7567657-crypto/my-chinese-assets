@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_884620fbe705ff44",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "養",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "養",
+    "groups": {
+      "shape": [
+        {
+          "char": "癢",
+          "why": "內部保留養",
+          "difference": "癢在外面多病字旁，表示身體發癢"
+        },
+        {
+          "char": "漾",
+          "why": "上方有相近的羊形",
+          "difference": "漾左邊是三點水；養下方有食形"
+        }
+      ],
+      "sound": [
+        {
+          "char": "仰",
+          "why": "同讀ㄧㄤˇ",
+          "difference": "仰左邊是人字旁，養的字形較多筆"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "育",
+          "why": "養育的意義相關",
+          "difference": "養著重照料；育著重培育"
+        }
+      ],
+      "component": [
+        {
+          "char": "食",
+          "why": "養下半部有食的字形",
+          "difference": "養上半部另有羊形"
+        }
+      ]
+    },
+    "tip": "養的下方像食；癢外面有病字旁。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

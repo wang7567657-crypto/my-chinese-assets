@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_76055827b234d748",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "恆",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "恆",
+    "groups": {
+      "shape": [
+        {
+          "char": "恨",
+          "why": "同是心字旁，右側輪廓相近",
+          "difference": "恆右側有橫畫；恨右邊是艮，下面收筆不同"
+        },
+        {
+          "char": "怛",
+          "why": "同是心字旁",
+          "difference": "怛右邊是旦，注意日形與下方一橫"
+        }
+      ],
+      "sound": [
+        {
+          "char": "衡",
+          "why": "讀音同為ㄏㄥˊ",
+          "difference": "衡中間有行字形，恆左邊是心字旁"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "久",
+          "why": "恆久與長久意思相關",
+          "difference": "久指時間長，恆強調持續不變"
+        }
+      ],
+      "component": [
+        {
+          "char": "亙",
+          "why": "和恆的右側字形相連",
+          "difference": "恆在左側另有心字旁"
+        }
+      ]
+    },
+    "tip": "比較心字旁與右半邊，勿把恆寫成恨。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

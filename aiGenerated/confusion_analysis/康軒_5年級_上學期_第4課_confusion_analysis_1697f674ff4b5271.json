@@ -1,0 +1,48 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_1697f674ff4b5271",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "穗",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "穗",
+    "groups": {
+      "shape": [
+        {
+          "char": "惠",
+          "why": "穗右邊的字形",
+          "difference": "穗左邊多禾"
+        },
+        {
+          "char": "穩",
+          "why": "左邊同有禾",
+          "difference": "穗右邊是惠；穩右邊的筆畫構造不同"
+        }
+      ],
+      "sound": [
+        {
+          "char": "歲",
+          "why": "同讀ㄙㄨㄟˋ",
+          "difference": "穗有禾字旁，歲沒有"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "蕙",
+          "why": "右邊同有惠",
+          "difference": "穗左邊是禾；蕙上面是草字頭"
+        }
+      ]
+    },
+    "tip": "穗可先分成禾與惠，再看稻穗的穗左邊是禾。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}

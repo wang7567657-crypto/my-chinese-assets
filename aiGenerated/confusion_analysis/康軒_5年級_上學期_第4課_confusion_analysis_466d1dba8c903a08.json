@@ -1,0 +1,48 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第4課_confusion_analysis_466d1dba8c903a08",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "慷",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "慷",
+    "groups": {
+      "shape": [
+        {
+          "char": "慨",
+          "why": "左邊同是心字旁",
+          "difference": "慷右邊是康；慨右邊是既"
+        },
+        {
+          "char": "慵",
+          "why": "左邊同是心字旁且右邊有廣形",
+          "difference": "慷右邊是康；慵右邊是庸"
+        }
+      ],
+      "sound": [
+        {
+          "char": "康",
+          "why": "同讀ㄎㄤ",
+          "difference": "慷左邊多心字旁"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "糠",
+          "why": "右邊同有康",
+          "difference": "糠左邊是米；慷左邊是心字旁"
+        }
+      ]
+    },
+    "tip": "慷是心字旁加康，慨是心字旁加既。"
+  },
+  "createdAt": "2026-09-25T14:49:56.312Z"
+}
