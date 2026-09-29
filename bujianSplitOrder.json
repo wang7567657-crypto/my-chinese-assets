@@ -4245,6 +4245,827 @@
         "method": "核對原始 XML 筆畫數、位置和筆順，按實際字形分組。",
         "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5782.xml"
       }
+    },
+    "塊": {
+      "structure": "左右",
+      "split": [
+        3,
+        10
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      ],
+      "components": [
+        "土",
+        "鬼"
+      ],
+      "strokeCount": 13,
+      "radical": "土",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 13 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/584a.xml"
+      }
+    },
+    "圓": {
+      "structure": "全包圍",
+      "split": [
+        3,
+        10
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          13
+        ],
+        [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      ],
+      "components": [
+        "囗",
+        "員"
+      ],
+      "strokeCount": 13,
+      "radical": "囗",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        13
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 13 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5713.xml"
+      }
+    },
+    "形": {
+      "structure": "左右",
+      "split": [
+        4,
+        3
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7
+        ]
+      ],
+      "components": [
+        "开",
+        "彡"
+      ],
+      "strokeCount": 7,
+      "radical": "彡",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        5,
+        6,
+        7
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 7 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5f62.xml"
+      }
+    },
+    "芝": {
+      "structure": "上下",
+      "split": [
+        4,
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8
+        ]
+      ],
+      "components": [
+        "艹",
+        "之"
+      ],
+      "strokeCount": 8,
+      "radical": "艸",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 8 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/829d.xml"
+      }
+    },
+    "麻": {
+      "structure": "半包圍",
+      "split": [
+        3,
+        4,
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "广",
+        "木（左）",
+        "木（右）"
+      ],
+      "strokeCount": 11,
+      "radical": "麻",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "「麻」的檢字部首即全字；教學部件可分廣字頭與左右木形，缺部件學習單不挖掉整字。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/9ebb.xml"
+      }
+    },
+    "餅": {
+      "structure": "左右",
+      "split": [
+        8,
+        6
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      ],
+      "components": [
+        "飠",
+        "并"
+      ],
+      "strokeCount": 14,
+      "radical": "食",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "以原始 XML 14 筆為準；現有 charInfo 筆數欄位異常，待另行校正。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/9905.xml"
+      }
+    },
+    "咬": {
+      "structure": "左右",
+      "split": [
+        3,
+        6
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "components": [
+        "口",
+        "交"
+      ],
+      "strokeCount": 9,
+      "radical": "口",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 9 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/54ac.xml"
+      }
+    },
+    "飯": {
+      "structure": "左右",
+      "split": [
+        8,
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          9,
+          10,
+          11,
+          12
+        ]
+      ],
+      "components": [
+        "飠",
+        "反"
+      ],
+      "strokeCount": 12,
+      "radical": "食",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 12 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/98ef.xml"
+      }
+    },
+    "做": {
+      "structure": "左右",
+      "split": [
+        2,
+        5,
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "亻",
+        "古",
+        "攵"
+      ],
+      "strokeCount": 11,
+      "radical": "人",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 11 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/505a.xml"
+      }
+    },
+    "課": {
+      "structure": "左右",
+      "split": [
+        7,
+        8
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      ],
+      "components": [
+        "訁",
+        "果"
+      ],
+      "strokeCount": 15,
+      "radical": "言",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 15 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/8ab2.xml"
+      }
+    },
+    "洗": {
+      "structure": "左右",
+      "split": [
+        3,
+        6
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "components": [
+        "氵",
+        "先"
+      ],
+      "strokeCount": 9,
+      "radical": "水",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 9 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6d17.xml"
+      }
+    },
+    "澡": {
+      "structure": "左右",
+      "split": [
+        3,
+        13
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      ],
+      "components": [
+        "氵",
+        "喿"
+      ],
+      "strokeCount": 16,
+      "radical": "水",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 16 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6fa1.xml"
+      }
+    },
+    "拾": {
+      "structure": "左右",
+      "split": [
+        3,
+        6
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "components": [
+        "扌",
+        "合"
+      ],
+      "strokeCount": 9,
+      "radical": "手",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 9 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/62fe.xml"
+      }
+    },
+    "整": {
+      "structure": "上下",
+      "split": [
+        7,
+        4,
+        5
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          8,
+          9,
+          10,
+          11
+        ],
+        [
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      ],
+      "components": [
+        "束",
+        "攵",
+        "正"
+      ],
+      "strokeCount": 16,
+      "radical": "攴",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 16 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6574.xml"
+      }
+    },
+    "包": {
+      "structure": "半包圍",
+      "split": [
+        2,
+        3
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5
+        ]
+      ],
+      "components": [
+        "勹",
+        "巳"
+      ],
+      "strokeCount": 5,
+      "radical": "勹",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 5 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5305.xml"
+      }
+    },
+    "遊": {
+      "structure": "半包圍",
+      "split": [
+        9,
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        [
+          10,
+          11,
+          12,
+          13
+        ]
+      ],
+      "components": [
+        "斿",
+        "辶"
+      ],
+      "strokeCount": 13,
+      "radical": "辵",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 13 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/904a.xml"
+      }
+    },
+    "戲": {
+      "structure": "左右",
+      "split": [
+        13,
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        [
+          14,
+          15,
+          16,
+          17
+        ]
+      ],
+      "components": [
+        "左側其餘部分",
+        "戈"
+      ],
+      "strokeCount": 17,
+      "radical": "戈",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 17 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6232.xml"
+      }
+    },
+    "剩": {
+      "structure": "左右",
+      "split": [
+        10,
+        2
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        [
+          11,
+          12
+        ]
+      ],
+      "components": [
+        "乘",
+        "刂"
+      ],
+      "strokeCount": 12,
+      "radical": "刀",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        11,
+        12
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依原始 XML 的 12 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+      "verification": {
+        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5269.xml"
+      }
     }
   },
   "description": "陽光智慧黑板部件拆分字典。只有 verified=true 的資料可用於教學分色與部件拼貼。",
