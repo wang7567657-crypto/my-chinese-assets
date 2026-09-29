@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第1課_confusion_analysis_b5e497cae51c529f",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "摯",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "摯",
+    "groups": {
+      "shape": [
+        {
+          "char": "墊",
+          "why": "上半部同有執",
+          "difference": "摯下方是手；墊下方是土"
+        },
+        {
+          "char": "贄",
+          "why": "上半部同有執",
+          "difference": "摯下方是手；贄下方是貝"
+        }
+      ],
+      "sound": [
+        {
+          "char": "至",
+          "why": "同讀ㄓˋ",
+          "difference": "摯下方有手；至沒有手"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "誠",
+          "why": "都與真心待人有關",
+          "difference": "摯下方是手；誠左邊是言"
+        }
+      ],
+      "component": [
+        {
+          "char": "手",
+          "why": "摯下方是手",
+          "difference": "手上面沒有執"
+        }
+      ]
+    },
+    "tip": "摯＝執＋手；「誠摯」表示真誠。"
+  },
+  "createdAt": "2026-09-29T17:13:50.481Z"
+}
