@@ -10,9 +10,12 @@
     "semester": "上學期",
     "lesson": "第3課",
     "char": "虯",
-    "strokeCount": null,
     "strokeSource": "c9s/zh-stroke-data",
-    "needsStrokeCount": true,
+    "strokeCount": null,
+    "radical": "虫",
+    "needsRadicalMapping": true,
+    "purpose": "missing_component_worksheet",
+    "issue": "筆畫資料載入失敗，請重新檢查",
     "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
   },
   "data": {
@@ -45,11 +48,11 @@
     "radicalStrokeIndices": [],
     "source": "教育部國字標準字體筆順學習網",
     "verified": false,
-    "note": "教育部可確認虫部、8畫；指定的 c9s/zh-stroke-data 筆順 XML 缺漏。筆順分組僅依字形暫列，尚未逐筆核對，不可標驗證。",
+    "note": "教育部確認虫部、部首外二畫、共八畫；指定 c9s 資料缺漏，未逐筆核對原字筆畫位置，分組僅暫列，不作已驗證的部首筆畫對應。",
     "verification": {
-      "method": "教育部確認部首與總筆數；c9s 指定來源缺檔，待補逐筆位置。",
+      "method": "教育部確認部首與總筆數；c9s 指定來源缺檔，尚無可供逐筆核對的 XML。",
       "sourceUrl": "https://stroke-order.learningweb.moe.edu.tw/dictView.jsp?ID=34415"
     }
   },
-  "createdAt": "2026-09-29T02:03:23.480Z"
+  "createdAt": "2026-09-29T08:13:36.627Z"
 }
