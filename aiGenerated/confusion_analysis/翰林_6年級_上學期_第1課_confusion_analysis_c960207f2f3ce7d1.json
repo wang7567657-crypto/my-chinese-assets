@@ -1,0 +1,43 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第1課_confusion_analysis_c960207f2f3ce7d1",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "弄",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "弄",
+    "groups": {
+      "shape": [
+        {
+          "char": "弈",
+          "why": "下方同有廾",
+          "difference": "弄上面是王；弈上面是亦"
+        }
+      ],
+      "sound": [],
+      "meaning": [
+        {
+          "char": "玩",
+          "why": "都能說拿著東西玩",
+          "difference": "弄上面是王、下面是廾；玩左邊有王字旁"
+        }
+      ],
+      "component": [
+        {
+          "char": "王",
+          "why": "弄上面是王",
+          "difference": "王下面沒有廾"
+        }
+      ]
+    },
+    "tip": "弄＝王＋廾；「弄錯」的弄讀ㄋㄨㄥˋ。"
+  },
+  "createdAt": "2026-09-29T17:13:50.481Z"
+}

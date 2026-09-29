@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第1課_confusion_analysis_60ea4c1fac1de4d2",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "蝶",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蝶",
+    "groups": {
+      "shape": [
+        {
+          "char": "碟",
+          "why": "右邊同有枼",
+          "difference": "蝶左邊是虫；碟左邊是石"
+        },
+        {
+          "char": "諜",
+          "why": "右邊同有枼",
+          "difference": "蝶左邊是虫；諜左邊是言"
+        }
+      ],
+      "sound": [
+        {
+          "char": "碟",
+          "why": "同讀ㄉㄧㄝˊ",
+          "difference": "蝶是虫字旁；碟是石字旁"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蛾",
+          "why": "都是有翅膀的昆蟲，容易把名稱混用",
+          "difference": "蝶左邊是虫、右邊是枼；蛾右邊是我"
+        }
+      ],
+      "component": [
+        {
+          "char": "枼",
+          "why": "蝶右邊是枼",
+          "difference": "枼沒有左邊的虫"
+        }
+      ]
+    },
+    "tip": "蝶＝虫＋枼；「蝴蝶」的蝶有虫字旁。"
+  },
+  "createdAt": "2026-09-29T17:13:50.481Z"
+}

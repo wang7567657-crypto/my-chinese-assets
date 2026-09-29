@@ -1,0 +1,48 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第1課_confusion_analysis_cbbbb24f31210244",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "蝴",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蝴",
+    "groups": {
+      "shape": [
+        {
+          "char": "湖",
+          "why": "右邊同有胡",
+          "difference": "蝴左邊是虫；湖左邊是氵"
+        },
+        {
+          "char": "瑚",
+          "why": "右邊同有胡",
+          "difference": "蝴左邊是虫；瑚左邊是王"
+        }
+      ],
+      "sound": [
+        {
+          "char": "胡",
+          "why": "同讀ㄏㄨˊ",
+          "difference": "蝴多了虫字旁，是昆蟲相關的字"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "胡",
+          "why": "蝴右邊是胡",
+          "difference": "胡沒有左邊的虫"
+        }
+      ]
+    },
+    "tip": "蝴＝虫＋胡；蝴蝶是昆蟲。"
+  },
+  "createdAt": "2026-09-29T17:13:50.481Z"
+}
