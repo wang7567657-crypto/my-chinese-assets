@@ -1,17 +1,17 @@
 [
   {
     "word": "哪裡",
-    "meaning": "用來詢問地點或方位。",
-    "en_prompt": "A curious child looking at a map with a question mark"
+    "meaning": "用來詢問地方、位置或方位。",
+    "en_prompt": "A person looking at a map with a question mark, searching for a location"
   },
   {
     "word": "哪個",
-    "meaning": "用來在多個事物中，詢問其中某一個。",
-    "en_prompt": "A person choosing between a red apple and a green apple"
+    "meaning": "在多個事物中進行選擇，詢問是其中哪一個。",
+    "en_prompt": "A child choosing one toy out of three different colored options"
   },
   {
-    "word": "那些",
-    "meaning": "用來詢問群體中不特定數量的多個人或事物。",
-    "en_prompt": "A group of various colorful toys on the floor"
+    "word": "哪邊",
+    "meaning": "用來詢問方向，或是指某一個側邊。",
+    "en_prompt": "A crossroad signpost with arrows pointing in multiple directions"
   }
 ]
