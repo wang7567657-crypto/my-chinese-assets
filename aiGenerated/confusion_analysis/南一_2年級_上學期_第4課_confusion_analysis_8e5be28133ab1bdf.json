@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_8e5be28133ab1bdf",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "塊",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "塊",
+    "groups": {
+      "shape": [
+        {
+          "char": "愧",
+          "why": "右邊同有鬼",
+          "difference": "塊左邊是土；愧左邊是心"
+        },
+        {
+          "char": "傀",
+          "why": "右邊同有鬼",
+          "difference": "塊左邊是土；傀左邊是人"
+        }
+      ],
+      "sound": [
+        {
+          "char": "快",
+          "why": "同讀ㄎㄨㄞˋ",
+          "difference": "塊有土字旁，快有心字旁"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "片",
+          "why": "都可用來表示分出的一部分",
+          "difference": "一塊餅用塊；一片葉子用片"
+        }
+      ],
+      "component": [
+        {
+          "char": "鬼",
+          "why": "塊含鬼這個部件",
+          "difference": "鬼單獨成字時沒有左邊的土"
+        }
+      ]
+    },
+    "tip": "塊＝土＋鬼；一塊餅的塊要有土字旁。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}

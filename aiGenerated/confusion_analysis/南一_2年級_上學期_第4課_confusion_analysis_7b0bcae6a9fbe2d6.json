@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_7b0bcae6a9fbe2d6",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "洗",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "洗",
+    "groups": {
+      "shape": [
+        {
+          "char": "先",
+          "why": "洗右邊是先",
+          "difference": "洗左邊多三點水"
+        },
+        {
+          "char": "銑",
+          "why": "右邊同有先",
+          "difference": "洗左邊是水；銑左邊是金"
+        }
+      ],
+      "sound": [
+        {
+          "char": "喜",
+          "why": "同讀ㄒㄧˇ",
+          "difference": "洗左邊有三點水；喜沒有"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "清",
+          "why": "都和清潔有關",
+          "difference": "洗是用水清潔的動作；清可形容乾淨"
+        }
+      ],
+      "component": [
+        {
+          "char": "先",
+          "why": "洗右邊是先",
+          "difference": "先沒有左邊的三點水"
+        }
+      ]
+    },
+    "tip": "洗＝氵＋先；洗手用水，別漏三點水。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}

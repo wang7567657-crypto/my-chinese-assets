@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_5c9d2ba662e9e0af",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "做",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "做",
+    "groups": {
+      "shape": [
+        {
+          "char": "作",
+          "why": "同有亻，右側輪廓相近",
+          "difference": "做右邊有古和攵；作右邊是乍"
+        },
+        {
+          "char": "故",
+          "why": "都含古和攵",
+          "difference": "做左邊多一個人字旁"
+        }
+      ],
+      "sound": [
+        {
+          "char": "作",
+          "why": "做、作在做事與工作中都讀ㄗㄨㄛˋ",
+          "difference": "做有人字旁加古、攵；作右邊是乍"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "作",
+          "why": "都可能用於表示進行事情",
+          "difference": "做功課用做；作業的作用作"
+        }
+      ],
+      "component": [
+        {
+          "char": "故",
+          "why": "做右邊就是故",
+          "difference": "故沒有左邊的人字旁"
+        }
+      ]
+    },
+    "tip": "做＝亻＋故；做事的做左邊有人字旁。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}

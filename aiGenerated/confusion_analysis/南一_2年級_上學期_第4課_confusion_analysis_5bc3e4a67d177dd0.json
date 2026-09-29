@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_5bc3e4a67d177dd0",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "戲",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "戲",
+    "groups": {
+      "shape": [
+        {
+          "char": "戰",
+          "why": "右邊都有戈",
+          "difference": "戲左邊的筆畫與戰左邊不同"
+        },
+        {
+          "char": "識",
+          "why": "右側都有戈形的筆畫",
+          "difference": "戲左邊不是言字旁；識左邊是言"
+        }
+      ],
+      "sound": [
+        {
+          "char": "細",
+          "why": "同讀ㄒㄧˋ",
+          "difference": "戲右邊有戈；細左邊是糸"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "玩",
+          "why": "遊戲和玩都與活動娛樂有關",
+          "difference": "戲右邊有戈；玩左邊是王"
+        }
+      ],
+      "component": [
+        {
+          "char": "戈",
+          "why": "戲右邊有戈",
+          "difference": "戈單獨成字沒有戲左邊的部分"
+        }
+      ]
+    },
+    "tip": "遊戲的戲右側有戈；識字的識左邊有言。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}

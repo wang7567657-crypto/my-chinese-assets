@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_29e76cc477aa7040",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "包",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "包",
+    "groups": {
+      "shape": [
+        {
+          "char": "抱",
+          "why": "右邊同有包",
+          "difference": "抱左邊多提手旁"
+        },
+        {
+          "char": "泡",
+          "why": "右邊同有包",
+          "difference": "泡左邊多三點水"
+        }
+      ],
+      "sound": [
+        {
+          "char": "胞",
+          "why": "同讀ㄅㄠ",
+          "difference": "包沒有部首月；胞左邊有月"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "袋",
+          "why": "包、袋都可以裝東西",
+          "difference": "包本身也可表示包裹；袋下方是衣"
+        }
+      ],
+      "component": [
+        {
+          "char": "飽",
+          "why": "飽右邊含包",
+          "difference": "包沒有左邊的食字旁"
+        }
+      ]
+    },
+    "tip": "包本身是基本字；抱、泡、跑多了不同的左邊。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}

@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_ba127b86384cd1d2",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "芝",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "芝",
+    "groups": {
+      "shape": [
+        {
+          "char": "之",
+          "why": "芝下方是之",
+          "difference": "芝上方多草字頭"
+        },
+        {
+          "char": "芒",
+          "why": "同有草字頭",
+          "difference": "芝下方是之；芒下方是亡"
+        }
+      ],
+      "sound": [
+        {
+          "char": "知",
+          "why": "同讀ㄓ",
+          "difference": "芝有草字頭；知右邊是口"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "菇",
+          "why": "芝可指靈芝，菇也是菌類",
+          "difference": "芝下方是之；菇下方是姑"
+        }
+      ],
+      "component": [
+        {
+          "char": "之",
+          "why": "芝由草字頭加之組成",
+          "difference": "之沒有草字頭"
+        }
+      ]
+    },
+    "tip": "芝＝艹＋之；靈芝的芝有草字頭。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}

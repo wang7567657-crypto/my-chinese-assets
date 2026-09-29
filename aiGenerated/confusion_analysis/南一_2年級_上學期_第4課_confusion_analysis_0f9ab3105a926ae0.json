@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_0f9ab3105a926ae0",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "餅",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "餅",
+    "groups": {
+      "shape": [
+        {
+          "char": "拼",
+          "why": "右邊同有并",
+          "difference": "餅左邊是食；拼左邊是手"
+        },
+        {
+          "char": "飯",
+          "why": "左邊同是食字旁",
+          "difference": "餅右邊是并；飯右邊是反"
+        }
+      ],
+      "sound": [
+        {
+          "char": "丙",
+          "why": "同讀ㄅㄧㄥˇ",
+          "difference": "餅有食字旁；丙沒有"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "糕",
+          "why": "餅、糕都是食物",
+          "difference": "餅左邊是食；糕左邊是米"
+        }
+      ],
+      "component": [
+        {
+          "char": "并",
+          "why": "餅右邊是并",
+          "difference": "并沒有左邊的食字旁"
+        }
+      ]
+    },
+    "tip": "餅＝食字旁＋并；食物用餅。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}

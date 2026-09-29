@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_d67552cc6fe746b8",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "整",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "整",
+    "groups": {
+      "shape": [
+        {
+          "char": "敕",
+          "why": "上方同有束和攵",
+          "difference": "整下方多正"
+        },
+        {
+          "char": "政",
+          "why": "都有正和攵",
+          "difference": "整的正放在下方，上方還有束"
+        }
+      ],
+      "sound": [
+        {
+          "char": "拯",
+          "why": "同讀ㄓㄥˇ",
+          "difference": "整下方是正；拯左邊是手"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "齊",
+          "why": "整齊一詞中都表示有條理",
+          "difference": "整下方是正；齊筆畫結構不同"
+        }
+      ],
+      "component": [
+        {
+          "char": "正",
+          "why": "整下方是正",
+          "difference": "正沒有上方的束和攵"
+        }
+      ]
+    },
+    "tip": "整上面束、攵，下面正；整理好要整齊。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}
