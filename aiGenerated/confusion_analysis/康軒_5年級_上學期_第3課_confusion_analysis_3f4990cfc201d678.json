@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_3f4990cfc201d678",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "聳",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "聳",
+    "groups": {
+      "shape": [
+        {
+          "char": "慫",
+          "why": "上方同是從",
+          "difference": "聳下方是耳；慫下方是心"
+        },
+        {
+          "char": "茸",
+          "why": "下方也含耳",
+          "difference": "聳上方是從；茸上方是草字頭"
+        }
+      ],
+      "sound": [
+        {
+          "char": "慫",
+          "why": "同讀ㄙㄨㄥˇ",
+          "difference": "聳下方是耳；慫下方是心"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "高",
+          "why": "聳立常形容高高站立",
+          "difference": "聳下方有耳；高的外形不同"
+        }
+      ],
+      "component": [
+        {
+          "char": "耳",
+          "why": "聳下方是耳",
+          "difference": "耳沒有上方的從"
+        }
+      ]
+    },
+    "tip": "聳＝從在上、耳在下；耳朵聳起。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

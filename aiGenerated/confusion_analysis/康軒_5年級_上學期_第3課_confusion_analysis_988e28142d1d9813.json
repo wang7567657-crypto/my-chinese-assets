@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_988e28142d1d9813",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "藉",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "藉",
+    "groups": {
+      "shape": [
+        {
+          "char": "籍",
+          "why": "下方同有耤",
+          "difference": "藉上方是草；籍上方是竹"
+        },
+        {
+          "char": "藕",
+          "why": "同有草字頭與耒形",
+          "difference": "藉下方含昔；藕下方含禺"
+        }
+      ],
+      "sound": [
+        {
+          "char": "借",
+          "why": "藉在「藉由」讀ㄐㄧㄝˋ，借也讀ㄐㄧㄝˋ",
+          "difference": "藉上方是草字頭；借左邊是人"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "墊",
+          "why": "藉可表示鋪墊；與墊相關",
+          "difference": "藉上方是草；墊下方是土"
+        }
+      ],
+      "component": [
+        {
+          "char": "籍",
+          "why": "藉與籍下方同含耤",
+          "difference": "藉上方是草字頭；籍上方是竹字頭"
+        }
+      ]
+    },
+    "tip": "藉上艹、下耤；和書籍的籍分開。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

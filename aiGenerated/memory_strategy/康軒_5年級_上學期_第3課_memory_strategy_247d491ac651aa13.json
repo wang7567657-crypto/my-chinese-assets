@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第3課_memory_strategy_247d491ac651aa13",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "飢",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "飢",
+    "components": [
+      "飠",
+      "几"
+    ],
+    "association": "肚子餓想吃東西，左邊食字旁提醒飢餓。",
+    "mnemonic": "左食右几，肚子飢。",
+    "visualPrompt": "畫孩子肚子咕嚕叫，字形旁標飠與几。",
+    "teachingTip": "飢右邊是几，饑右邊筆畫更多。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

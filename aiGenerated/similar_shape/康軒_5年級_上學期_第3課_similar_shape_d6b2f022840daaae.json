@@ -1,0 +1,49 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第3課_similar_shape_d6b2f022840daaae",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "豐",
+    "lessonChars": [
+      "峭",
+      "勁",
+      "聳",
+      "飢",
+      "隱",
+      "扯",
+      "銳",
+      "箭",
+      "韌",
+      "虯",
+      "鬚",
+      "茂",
+      "止",
+      "蔓",
+      "藉",
+      "豐",
+      "挫",
+      "折"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "豐",
+    "similarChars": [
+      "豊",
+      "禮",
+      "體",
+      "艷",
+      "澧",
+      "豉"
+    ],
+    "teachingTip": "豐下方有豆，上方筆畫繁多；禮、體、艷、澧都含豐或相近部分，豉則同有豆旁。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

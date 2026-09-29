@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_8d134654d5baf61d",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "扯",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "扯",
+    "groups": {
+      "shape": [
+        {
+          "char": "址",
+          "why": "右邊同是止",
+          "difference": "扯左邊是手；址左邊是土"
+        },
+        {
+          "char": "趾",
+          "why": "右邊同是止",
+          "difference": "扯左邊是手；趾左邊是足"
+        }
+      ],
+      "sound": [
+        {
+          "char": "車",
+          "why": "聲母韻母接近，扯讀ㄔㄜˇ、車讀ㄔㄜ",
+          "difference": "扯多提手旁，且有第三聲"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "拉",
+          "why": "扯與拉都表示用手牽動",
+          "difference": "扯右邊是止；拉右邊是立"
+        }
+      ],
+      "component": [
+        {
+          "char": "止",
+          "why": "扯右邊是止",
+          "difference": "止沒有左邊的提手旁"
+        }
+      ]
+    },
+    "tip": "扯＝手＋止；用手扯住。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

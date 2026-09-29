@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_a857af081eacf549",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "箭",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "箭",
+    "groups": {
+      "shape": [
+        {
+          "char": "前",
+          "why": "箭下方是前",
+          "difference": "箭上方多竹字頭"
+        },
+        {
+          "char": "煎",
+          "why": "都含前",
+          "difference": "箭上方是竹；煎下方是四點火"
+        }
+      ],
+      "sound": [
+        {
+          "char": "建",
+          "why": "同讀ㄐㄧㄢˋ",
+          "difference": "箭上方是竹字頭；建右邊有廴"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "矢",
+          "why": "矢也可指箭",
+          "difference": "箭上方是竹字頭；矢沒有"
+        }
+      ],
+      "component": [
+        {
+          "char": "前",
+          "why": "箭下方是前",
+          "difference": "前沒有上方的竹字頭"
+        }
+      ]
+    },
+    "tip": "箭＝竹字頭＋前；看上面六筆。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

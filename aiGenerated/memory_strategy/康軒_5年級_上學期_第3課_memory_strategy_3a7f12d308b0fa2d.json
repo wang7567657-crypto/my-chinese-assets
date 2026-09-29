@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第3課_memory_strategy_3a7f12d308b0fa2d",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "折",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "折",
+    "components": [
+      "扌",
+      "斤"
+    ],
+    "association": "左邊用手，右邊是斤，聯想把紙對折。",
+    "mnemonic": "手加斤，紙對折。",
+    "visualPrompt": "畫雙手對折一張紙，旁邊標扌與斤。",
+    "teachingTip": "折右邊是斤；拆右邊多一點成斥。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_645047e07d6e5c95",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "韌",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "韌",
+    "groups": {
+      "shape": [
+        {
+          "char": "認",
+          "why": "右邊同有刃",
+          "difference": "韌左邊是韋；認左邊是言"
+        },
+        {
+          "char": "軔",
+          "why": "右邊同有刃",
+          "difference": "韌左邊是韋；軔左邊是車"
+        }
+      ],
+      "sound": [
+        {
+          "char": "任",
+          "why": "同讀ㄖㄣˋ",
+          "difference": "韌左邊是韋、右邊是刃；任左邊是人"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "堅",
+          "why": "韌和堅都可形容不易破壞",
+          "difference": "韌左邊是韋；堅下方是土"
+        }
+      ],
+      "component": [
+        {
+          "char": "刃",
+          "why": "韌右邊是刃",
+          "difference": "刃沒有左邊的韋"
+        }
+      ]
+    },
+    "tip": "韌＝韋＋刃；有韌性的材料不易斷。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_941b26ee11486bbb",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "虯",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "虯",
+    "groups": {
+      "shape": [
+        {
+          "char": "糾",
+          "why": "右邊同有丩形",
+          "difference": "虯左邊是虫；糾左邊是糸"
+        },
+        {
+          "char": "蚯",
+          "why": "左邊同是虫",
+          "difference": "虯右邊是丩形；蚯右邊是丘"
+        }
+      ],
+      "sound": [
+        {
+          "char": "球",
+          "why": "同讀ㄑㄧㄡˊ",
+          "difference": "虯左邊是虫；球左邊是王"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "龍",
+          "why": "虯是傳說中的龍類",
+          "difference": "虯有虫旁；龍筆畫較多"
+        }
+      ],
+      "component": [
+        {
+          "char": "叫",
+          "why": "叫右邊也有丩形",
+          "difference": "虯左邊是虫；叫左邊是口"
+        }
+      ]
+    },
+    "tip": "虯左虫右丩；筆順來源缺檔，字形辨認可先練。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

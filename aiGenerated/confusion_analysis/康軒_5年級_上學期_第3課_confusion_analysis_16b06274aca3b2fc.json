@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_16b06274aca3b2fc",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "挫",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "挫",
+    "groups": {
+      "shape": [
+        {
+          "char": "坐",
+          "why": "挫右邊是坐",
+          "difference": "挫左邊多提手旁"
+        },
+        {
+          "char": "銼",
+          "why": "右邊同是坐",
+          "difference": "挫左邊是手；銼左邊是金"
+        }
+      ],
+      "sound": [
+        {
+          "char": "措",
+          "why": "同讀ㄘㄨㄛˋ",
+          "difference": "挫右邊是坐；措右邊是昔"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "敗",
+          "why": "挫敗都表示受阻或失利",
+          "difference": "挫左邊是手；敗右邊是攵"
+        }
+      ],
+      "component": [
+        {
+          "char": "坐",
+          "why": "挫右邊是坐",
+          "difference": "坐沒有左邊的提手旁"
+        }
+      ]
+    },
+    "tip": "挫＝扌＋坐；挫折的挫左邊是手。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

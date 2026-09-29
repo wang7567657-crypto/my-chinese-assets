@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第3課_memory_strategy_1393fac0023994e4",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "虯",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "虯",
+    "components": [
+      "虫",
+      "丩"
+    ],
+    "association": "左邊是虫，右邊是丩形，聯想彎曲的虯龍。",
+    "mnemonic": "左虫右丩，虯龍彎彎。",
+    "visualPrompt": "畫一條彎曲的小龍，旁邊清楚標出虫和丩形。",
+    "teachingTip": "此處是記字聯想；部件逐筆驗證仍缺原始筆順檔。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_712241a42fa75a46",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "銳",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "銳",
+    "groups": {
+      "shape": [
+        {
+          "char": "悅",
+          "why": "右邊同有兌",
+          "difference": "銳左邊是金；悅左邊是心"
+        },
+        {
+          "char": "脫",
+          "why": "右邊同有兌",
+          "difference": "銳左邊是金；脫左邊是月"
+        }
+      ],
+      "sound": [
+        {
+          "char": "瑞",
+          "why": "同讀ㄖㄨㄟˋ",
+          "difference": "銳左邊是金字旁；瑞左邊是王"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "尖",
+          "why": "尖銳都可形容尖端",
+          "difference": "銳有金字旁；尖上方是小"
+        }
+      ],
+      "component": [
+        {
+          "char": "兌",
+          "why": "銳右邊是兌",
+          "difference": "兌沒有左邊的金字旁"
+        }
+      ]
+    },
+    "tip": "銳左釒右兌；尖銳的金屬尖端。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_862725025a520c7f",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "勁",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "勁",
+    "groups": {
+      "shape": [
+        {
+          "char": "頸",
+          "why": "左邊同有巠",
+          "difference": "勁右邊是力；頸右邊是頁"
+        },
+        {
+          "char": "徑",
+          "why": "右邊同有巠",
+          "difference": "勁左邊是巠、右邊是力；徑左邊是彳"
+        }
+      ],
+      "sound": [
+        {
+          "char": "競",
+          "why": "同讀ㄐㄧㄥˋ",
+          "difference": "勁右邊有力；競下方有兩個儿形"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "強",
+          "why": "都有有力的意思",
+          "difference": "勁右邊是力；強左邊是弓"
+        }
+      ],
+      "component": [
+        {
+          "char": "巠",
+          "why": "勁左邊是巠",
+          "difference": "巠沒有右邊的力"
+        }
+      ]
+    },
+    "tip": "勁＝巠＋力；幹勁的勁有力。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

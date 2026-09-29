@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第3課_memory_strategy_a34f779d058b5acc",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "銳",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "銳",
+    "components": [
+      "釒",
+      "兌"
+    ],
+    "association": "尖銳的金屬工具，左邊是金字旁，右邊兌。",
+    "mnemonic": "金加兌，尖而銳。",
+    "visualPrompt": "畫鉛筆尖和金屬尖端，旁邊以兩色標釒與兌。",
+    "teachingTip": "觀察銳和悅、說的左邊不同。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

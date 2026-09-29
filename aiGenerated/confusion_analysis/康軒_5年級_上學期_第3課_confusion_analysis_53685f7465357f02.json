@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_53685f7465357f02",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "折",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "折",
+    "groups": {
+      "shape": [
+        {
+          "char": "拆",
+          "why": "左邊同有手，右邊筆畫相近",
+          "difference": "折右邊是斤；拆右邊是斥"
+        },
+        {
+          "char": "逝",
+          "why": "逝內部含折",
+          "difference": "逝外側多走之旁"
+        }
+      ],
+      "sound": [
+        {
+          "char": "哲",
+          "why": "同讀ㄓㄜˊ",
+          "difference": "折左邊是手；哲下方有口"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "彎",
+          "why": "折彎都與方向改變有關",
+          "difference": "折右邊是斤；彎上方筆畫多"
+        }
+      ],
+      "component": [
+        {
+          "char": "斤",
+          "why": "折右邊是斤",
+          "difference": "斤沒有左邊的提手旁"
+        }
+      ]
+    },
+    "tip": "折＝扌＋斤；拆右邊多一點。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}
