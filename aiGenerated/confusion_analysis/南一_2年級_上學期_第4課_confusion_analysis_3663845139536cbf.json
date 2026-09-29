@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_3663845139536cbf",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "澡",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "澡",
+    "groups": {
+      "shape": [
+        {
+          "char": "燥",
+          "why": "右邊同是喿",
+          "difference": "澡左邊是水；燥左邊是火"
+        },
+        {
+          "char": "噪",
+          "why": "右邊同是喿",
+          "difference": "澡左邊是水；噪左邊是口"
+        }
+      ],
+      "sound": [
+        {
+          "char": "早",
+          "why": "同讀ㄗㄠˇ",
+          "difference": "澡左邊是水，右邊有三個口和木"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "浴",
+          "why": "都表示洗澡相關動作",
+          "difference": "澡左邊是水、右邊是喿；浴右邊是谷"
+        }
+      ],
+      "component": [
+        {
+          "char": "藻",
+          "why": "藻含澡的形旁與聲旁",
+          "difference": "澡是三點水加喿；藻上方多草字頭"
+        }
+      ]
+    },
+    "tip": "澡左水右喿；洗澡用水，乾燥的燥左邊是火。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}

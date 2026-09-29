@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_768c193d07258ce9",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "形",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "形",
+    "groups": {
+      "shape": [
+        {
+          "char": "刑",
+          "why": "左邊相近",
+          "difference": "形右邊是彡；刑右邊是刂"
+        },
+        {
+          "char": "型",
+          "why": "上半部近似刑、形",
+          "difference": "形右邊有三撇；型下方有土"
+        }
+      ],
+      "sound": [
+        {
+          "char": "型",
+          "why": "同讀ㄒㄧㄥˊ",
+          "difference": "形表示形狀；型下方有土，常用於模型"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "樣",
+          "why": "形狀和樣子意思相近",
+          "difference": "形是形狀；樣左邊有木"
+        }
+      ],
+      "component": [
+        {
+          "char": "彡",
+          "why": "形右邊有三撇彡",
+          "difference": "彡只有三撇，不含形左邊的部分"
+        }
+      ]
+    },
+    "tip": "形右邊三撇彡；刑右邊立刀刂。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}

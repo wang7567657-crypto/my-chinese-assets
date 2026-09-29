@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_1f41296270504a0d",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "麻",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "麻",
+    "groups": {
+      "shape": [
+        {
+          "char": "磨",
+          "why": "上方含麻",
+          "difference": "磨下方多石"
+        },
+        {
+          "char": "摩",
+          "why": "上方含麻",
+          "difference": "摩下方多手"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蟆",
+          "why": "麻和蟆在「蛤蟆」中同讀ㄇㄚˊ",
+          "difference": "麻有廣字頭；蟆左邊是虫"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "棉",
+          "why": "麻與棉都可指纖維材料",
+          "difference": "麻有廣字頭；棉左邊是木"
+        }
+      ],
+      "component": [
+        {
+          "char": "魔",
+          "why": "魔字含麻",
+          "difference": "麻不含魔下方的鬼"
+        }
+      ]
+    },
+    "tip": "麻有廣字頭，裡面兩個木形；磨多石，摩多手。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}

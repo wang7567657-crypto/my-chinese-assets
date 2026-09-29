@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_3bf941fde2bae0fb",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "拾",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "拾",
+    "groups": {
+      "shape": [
+        {
+          "char": "恰",
+          "why": "右邊同是合",
+          "difference": "拾左邊是手；恰左邊是心"
+        },
+        {
+          "char": "給",
+          "why": "右邊同是合",
+          "difference": "拾左邊是手；給左邊是糸"
+        }
+      ],
+      "sound": [
+        {
+          "char": "時",
+          "why": "同讀ㄕˊ",
+          "difference": "拾左邊是提手旁；時左邊是日"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "撿",
+          "why": "都有從地上拿起物品的意思",
+          "difference": "拾右邊是合；撿右邊筆畫更多"
+        }
+      ],
+      "component": [
+        {
+          "char": "合",
+          "why": "拾右邊是合",
+          "difference": "合沒有左邊的提手旁"
+        }
+      ]
+    },
+    "tip": "拾＝扌＋合；拾起東西要用手。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}

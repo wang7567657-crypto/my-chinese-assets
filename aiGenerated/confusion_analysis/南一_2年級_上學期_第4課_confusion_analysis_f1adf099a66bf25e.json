@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_f1adf099a66bf25e",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "咬",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "咬",
+    "groups": {
+      "shape": [
+        {
+          "char": "校",
+          "why": "右邊同有交",
+          "difference": "咬左邊是口；校左邊是木"
+        },
+        {
+          "char": "餃",
+          "why": "右邊同有交",
+          "difference": "咬左邊是口；餃左邊是食"
+        }
+      ],
+      "sound": [
+        {
+          "char": "舀",
+          "why": "同讀ㄧㄠˇ",
+          "difference": "咬左邊有口；舀是上下結構"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "啃",
+          "why": "都表示用牙齒咬",
+          "difference": "咬右邊是交；啃右邊是肯"
+        }
+      ],
+      "component": [
+        {
+          "char": "交",
+          "why": "咬右邊是交",
+          "difference": "交沒有左邊的口"
+        }
+      ]
+    },
+    "tip": "咬＝口＋交；用嘴咬，左邊找口。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}

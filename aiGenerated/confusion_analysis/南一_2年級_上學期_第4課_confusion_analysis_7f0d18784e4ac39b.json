@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_7f0d18784e4ac39b",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "飯",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "飯",
+    "groups": {
+      "shape": [
+        {
+          "char": "販",
+          "why": "右邊同有反",
+          "difference": "飯左邊是食；販左邊是貝"
+        },
+        {
+          "char": "餅",
+          "why": "左邊同是食字旁",
+          "difference": "飯右邊是反；餅右邊是并"
+        }
+      ],
+      "sound": [
+        {
+          "char": "犯",
+          "why": "同讀ㄈㄢˋ",
+          "difference": "飯左邊是食；犯左邊是犬"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "餐",
+          "why": "都和吃一頓飯有關",
+          "difference": "飯可指食物；餐可指一頓飲食"
+        }
+      ],
+      "component": [
+        {
+          "char": "反",
+          "why": "飯右邊是反",
+          "difference": "反沒有左邊的食字旁"
+        }
+      ]
+    },
+    "tip": "飯＝食字旁＋反；吃飯的飯有食字旁。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}

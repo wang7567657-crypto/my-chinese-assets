@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第4課_confusion_analysis_9283d1bfb6ceda72",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "課",
+    "groups": {
+      "shape": [
+        {
+          "char": "棵",
+          "why": "右邊同有果",
+          "difference": "課左邊是言；棵左邊是木"
+        },
+        {
+          "char": "顆",
+          "why": "都含果",
+          "difference": "課左邊是言；顆右邊是頁"
+        }
+      ],
+      "sound": [
+        {
+          "char": "克",
+          "why": "同讀ㄎㄜˋ",
+          "difference": "課有言字旁；克沒有"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "堂",
+          "why": "都可用來說一節教學活動",
+          "difference": "一堂課中，堂是量詞，課是教學內容"
+        }
+      ],
+      "component": [
+        {
+          "char": "果",
+          "why": "課右邊是果",
+          "difference": "果沒有左邊的言字旁"
+        }
+      ]
+    },
+    "tip": "課＝言字旁＋果；上課的課先看左邊。"
+  },
+  "createdAt": "2026-09-29T01:35:23.651Z"
+}
