@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第4課_memory_strategy_22378a26d8fd7860",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "戲",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "戲",
+    "components": [
+      "虍",
+      "豆",
+      "戈"
+    ],
+    "association": "把戲字右邊的戈圈出來，想起遊戲規則中的小旗。",
+    "mnemonic": "右邊找戈，遊戲的戲。",
+    "visualPrompt": "畫孩子玩遊戲，旁邊放大戲字右側的戈。",
+    "teachingTip": "戲左側筆畫多，可先找右邊戈，再觀察全字。"
+  },
+  "createdAt": "2026-09-29T01:37:24.225Z"
+}

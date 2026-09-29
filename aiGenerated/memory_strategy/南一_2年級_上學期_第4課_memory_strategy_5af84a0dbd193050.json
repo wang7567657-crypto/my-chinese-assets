@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第4課_memory_strategy_5af84a0dbd193050",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "課",
+    "components": [
+      "訁",
+      "果"
+    ],
+    "association": "課堂上說話、學習，左邊言字旁，右邊果。",
+    "mnemonic": "言加果，上好課。",
+    "visualPrompt": "畫老師在課堂教學，旁邊標出訁與果。",
+    "teachingTip": "比較課和棵：言字旁與木字旁。"
+  },
+  "createdAt": "2026-09-29T01:37:24.225Z"
+}

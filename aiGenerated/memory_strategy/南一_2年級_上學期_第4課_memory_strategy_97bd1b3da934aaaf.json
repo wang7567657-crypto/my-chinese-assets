@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第4課_memory_strategy_97bd1b3da934aaaf",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "洗",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "洗",
+    "components": [
+      "氵",
+      "先"
+    ],
+    "association": "先把手放進水裡洗，左邊三點水，右邊先。",
+    "mnemonic": "水加先，先洗手。",
+    "visualPrompt": "畫水龍頭下洗手，旁邊標氵與先。",
+    "teachingTip": "先找三點水，再從左到右寫。"
+  },
+  "createdAt": "2026-09-29T01:37:24.225Z"
+}
