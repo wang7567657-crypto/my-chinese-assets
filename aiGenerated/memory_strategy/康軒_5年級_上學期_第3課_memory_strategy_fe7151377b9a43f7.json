@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第3課_memory_strategy_fe7151377b9a43f7",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "藉",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "藉",
+    "components": [
+      "艹",
+      "耤"
+    ],
+    "association": "草字頭在上面，下面筆畫較多，想到借草墊地的藉。",
+    "mnemonic": "草頭在上，藉字別忘。",
+    "visualPrompt": "畫草鋪在地上，旁邊以分層色塊標出藉的上下部件。",
+    "teachingTip": "比較藉和籍：上方草字頭與竹字頭不同。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

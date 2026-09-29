@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_24946a2a335c1a9f",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "蔓",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蔓",
+    "groups": {
+      "shape": [
+        {
+          "char": "漫",
+          "why": "右邊同有曼",
+          "difference": "蔓上方是草；漫左邊是水"
+        },
+        {
+          "char": "慢",
+          "why": "右邊同有曼",
+          "difference": "蔓上方是草；慢左邊是心"
+        }
+      ],
+      "sound": [
+        {
+          "char": "慢",
+          "why": "同讀ㄇㄢˋ",
+          "difference": "蔓上方是草字頭；慢左邊是心"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "藤",
+          "why": "藤蔓都可指攀爬植物的莖",
+          "difference": "蔓下方是曼；藤下方筆畫更多"
+        }
+      ],
+      "component": [
+        {
+          "char": "曼",
+          "why": "蔓下方是曼",
+          "difference": "曼沒有上方的草字頭"
+        }
+      ]
+    },
+    "tip": "蔓＝艹＋曼；藤蔓向上攀。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

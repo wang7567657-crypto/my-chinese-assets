@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第3課_memory_strategy_7e0ad50688c04990",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "聳",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "聳",
+    "components": [
+      "從",
+      "耳"
+    ],
+    "association": "從站在耳上面，聯想耳朵豎起來聽。",
+    "mnemonic": "上從下耳，耳朵聳起。",
+    "visualPrompt": "畫一對聳起的耳朵，旁邊分層標從與耳。",
+    "teachingTip": "先分上下兩層，再寫下面的耳。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

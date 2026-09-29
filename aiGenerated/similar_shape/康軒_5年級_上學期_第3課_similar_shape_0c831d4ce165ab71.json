@@ -1,0 +1,49 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第3課_similar_shape_0c831d4ce165ab71",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "扯",
+    "lessonChars": [
+      "峭",
+      "勁",
+      "聳",
+      "飢",
+      "隱",
+      "扯",
+      "銳",
+      "箭",
+      "韌",
+      "虯",
+      "鬚",
+      "茂",
+      "止",
+      "蔓",
+      "藉",
+      "豐",
+      "挫",
+      "折"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "扯",
+    "similarChars": [
+      "止",
+      "址",
+      "趾",
+      "沚",
+      "芷",
+      "齒"
+    ],
+    "teachingTip": "扯左邊是提手旁，右邊是止；址、趾、沚換了左邊，芷上面是草字頭。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

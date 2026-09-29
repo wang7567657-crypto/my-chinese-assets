@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第3課_memory_strategy_ea305ba9bf89fde8",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "隱",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "隱",
+    "components": [
+      "阝",
+      "右側其餘部分"
+    ],
+    "association": "想像東西藏在山坡後面看不見；左側先找阝。",
+    "mnemonic": "左阝，右藏心，隱起來。",
+    "visualPrompt": "畫小動物躲在山坡後，放大隱左側阝與右下心。",
+    "teachingTip": "先圈左阝，再觀察右下的心；聯想不作字源。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

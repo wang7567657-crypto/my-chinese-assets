@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第3課_memory_strategy_e82bc86ed5d3de29",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "勁",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "勁",
+    "components": [
+      "巠",
+      "力"
+    ],
+    "association": "右邊有力，想到用力向前的勁。",
+    "mnemonic": "巠加力，幹勁足。",
+    "visualPrompt": "畫孩子用力拉繩，旁邊放大勁的力字旁。",
+    "teachingTip": "先找右側的力，再與頸的頁區分。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

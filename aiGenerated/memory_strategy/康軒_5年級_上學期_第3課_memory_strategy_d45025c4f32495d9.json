@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第3課_memory_strategy_d45025c4f32495d9",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "扯",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "扯",
+    "components": [
+      "扌",
+      "止"
+    ],
+    "association": "手伸出去扯住繩子，左邊提手旁，右邊止。",
+    "mnemonic": "手加止，扯住繩。",
+    "visualPrompt": "畫一隻手拉住繩子，旁邊標扌和止。",
+    "teachingTip": "比較扯與址：手旁和土旁。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_a2e02a588ff061ab",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "茂",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "茂",
+    "groups": {
+      "shape": [
+        {
+          "char": "戊",
+          "why": "茂下方是戊",
+          "difference": "茂上方多草字頭"
+        },
+        {
+          "char": "蔑",
+          "why": "同有草字頭及戈形筆畫",
+          "difference": "茂下方是戊；蔑下方筆畫較多"
+        }
+      ],
+      "sound": [
+        {
+          "char": "貿",
+          "why": "同讀ㄇㄠˋ",
+          "difference": "茂上方是草字頭；貿下方是貝"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "盛",
+          "why": "茂盛都形容草木長得好",
+          "difference": "茂有草字頭；盛下方是皿"
+        }
+      ],
+      "component": [
+        {
+          "char": "戊",
+          "why": "茂下方是戊",
+          "difference": "戊沒有上方的草字頭"
+        }
+      ]
+    },
+    "tip": "茂＝艹＋戊；草木茂盛。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

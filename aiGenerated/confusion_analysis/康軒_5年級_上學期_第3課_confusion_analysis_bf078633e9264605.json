@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_bf078633e9264605",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "飢",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "飢",
+    "groups": {
+      "shape": [
+        {
+          "char": "肌",
+          "why": "右邊同有几",
+          "difference": "飢左邊是食；肌左邊是月"
+        },
+        {
+          "char": "饑",
+          "why": "左邊同有食字旁",
+          "difference": "飢右邊是几；饑右邊是幾"
+        }
+      ],
+      "sound": [
+        {
+          "char": "基",
+          "why": "同讀ㄐㄧ",
+          "difference": "飢有食字旁；基下方是土"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "餓",
+          "why": "都表示想吃東西",
+          "difference": "飢左邊是食；餓右邊是我"
+        }
+      ],
+      "component": [
+        {
+          "char": "几",
+          "why": "飢右邊是几",
+          "difference": "几沒有左邊的食字旁"
+        }
+      ]
+    },
+    "tip": "飢左食右几；飢餓想吃飯。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

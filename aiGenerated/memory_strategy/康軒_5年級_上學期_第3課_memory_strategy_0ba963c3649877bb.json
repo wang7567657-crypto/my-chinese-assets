@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第3課_memory_strategy_0ba963c3649877bb",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "峭",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "峭",
+    "components": [
+      "山",
+      "肖"
+    ],
+    "association": "山旁加肖，想起高高陡陡的山壁。",
+    "mnemonic": "山邊肖，山壁峭。",
+    "visualPrompt": "畫一座陡峭山壁，用兩色標出峭的山與肖。",
+    "teachingTip": "和悄比較：峭左山，悄左心。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

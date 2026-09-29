@@ -1,0 +1,25 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第3課_memory_strategy_8afcaebd827881f3",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "止",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "止",
+    "components": [
+      "止"
+    ],
+    "association": "想像腳步停在停止線前，整個字一起記。",
+    "mnemonic": "走到線前，停一止。",
+    "visualPrompt": "畫腳步停在地面的線前，旁邊大字呈現止的四筆。",
+    "teachingTip": "止是獨體四畫，不為了拆分硬切成兩塊。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

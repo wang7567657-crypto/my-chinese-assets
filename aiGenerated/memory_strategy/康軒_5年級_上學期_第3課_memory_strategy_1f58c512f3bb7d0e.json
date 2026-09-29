@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第3課_memory_strategy_1f58c512f3bb7d0e",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "韌",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "韌",
+    "components": [
+      "韋",
+      "刃"
+    ],
+    "association": "韋加刃，聯想材料有韌性、不容易斷。",
+    "mnemonic": "左韋右刃，韌不易斷。",
+    "visualPrompt": "畫一根彎曲卻沒有斷的繩子，旁邊標韋與刃。",
+    "teachingTip": "右邊是刃，注意那一點的位置。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_71b3b3d8ca7da9d3",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "鬚",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鬚",
+    "groups": {
+      "shape": [
+        {
+          "char": "須",
+          "why": "鬚下方是須",
+          "difference": "鬚上方多髟"
+        },
+        {
+          "char": "髮",
+          "why": "同有髟",
+          "difference": "鬚下方是須；髮下方不同"
+        }
+      ],
+      "sound": [
+        {
+          "char": "需",
+          "why": "同讀ㄒㄩ",
+          "difference": "鬚上方有髟；需上方有雨"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "鬍",
+          "why": "鬍鬚都與臉上的毛有關",
+          "difference": "鬚下方是須；鬍下方是胡"
+        }
+      ],
+      "component": [
+        {
+          "char": "須",
+          "why": "鬚下方是須",
+          "difference": "須沒有上面的髟"
+        }
+      ]
+    },
+    "tip": "鬚＝髟＋須；多了上面的髮字頭。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

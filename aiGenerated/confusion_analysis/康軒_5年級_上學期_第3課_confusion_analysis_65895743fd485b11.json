@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_65895743fd485b11",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "止",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "止",
+    "groups": {
+      "shape": [
+        {
+          "char": "正",
+          "why": "正上方比止多一橫",
+          "difference": "止是四畫的獨體字"
+        },
+        {
+          "char": "步",
+          "why": "上方含止形",
+          "difference": "止沒有步下方的部分"
+        }
+      ],
+      "sound": [
+        {
+          "char": "只",
+          "why": "同讀ㄓˇ",
+          "difference": "止表示停止；只的上方有口"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "停",
+          "why": "停止與停下意思相近",
+          "difference": "止是獨體；停左邊是人"
+        }
+      ],
+      "component": [
+        {
+          "char": "址",
+          "why": "址右邊含止",
+          "difference": "止獨立成字沒有土字旁"
+        }
+      ]
+    },
+    "tip": "止四畫獨體；正上方多一橫。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

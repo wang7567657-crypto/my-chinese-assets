@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_8a474775569cbfcd",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "豐",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "豐",
+    "groups": {
+      "shape": [
+        {
+          "char": "豊",
+          "why": "整體輪廓與下方豆相近",
+          "difference": "豐的上半部筆畫與豊不同"
+        },
+        {
+          "char": "艷",
+          "why": "左半含豐",
+          "difference": "豐沒有艷右側的色"
+        }
+      ],
+      "sound": [
+        {
+          "char": "風",
+          "why": "同讀ㄈㄥ",
+          "difference": "豐下方有豆；風外圍像几"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "富",
+          "why": "豐富都表示充足",
+          "difference": "豐下方是豆；富上方是宀"
+        }
+      ],
+      "component": [
+        {
+          "char": "禮",
+          "why": "禮右邊有豊形",
+          "difference": "豐整字上方筆畫較多；禮左邊還有示字旁"
+        }
+      ]
+    },
+    "tip": "豐下方是豆；上方依筆順看清。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

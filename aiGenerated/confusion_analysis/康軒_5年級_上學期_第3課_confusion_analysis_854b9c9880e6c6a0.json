@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_854b9c9880e6c6a0",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "隱",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "隱",
+    "groups": {
+      "shape": [
+        {
+          "char": "穩",
+          "why": "右側上半部與心形相近",
+          "difference": "隱左邊是阝；穩左邊是禾"
+        },
+        {
+          "char": "癮",
+          "why": "內部含隱的右側",
+          "difference": "隱左邊有阝；癮外面是病字頭"
+        }
+      ],
+      "sound": [
+        {
+          "char": "引",
+          "why": "同讀ㄧㄣˇ",
+          "difference": "隱左邊有阝、右下有心；引只有弓與直畫"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "藏",
+          "why": "隱藏表示不讓人看見",
+          "difference": "隱左邊是阝；藏上方是草字頭"
+        }
+      ],
+      "component": [
+        {
+          "char": "癮",
+          "why": "癮裡面含隱形",
+          "difference": "癮外面多病字頭；隱沒有"
+        }
+      ]
+    },
+    "tip": "隱左阝、右下心；和穩的禾字旁分清。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}

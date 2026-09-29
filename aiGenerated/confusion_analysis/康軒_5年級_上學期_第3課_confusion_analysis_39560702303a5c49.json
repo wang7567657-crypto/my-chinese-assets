@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第3課_confusion_analysis_39560702303a5c49",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "峭",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "峭",
+    "groups": {
+      "shape": [
+        {
+          "char": "悄",
+          "why": "右邊同有肖",
+          "difference": "峭左邊是山；悄左邊是心"
+        },
+        {
+          "char": "梢",
+          "why": "右邊同有肖",
+          "difference": "峭左邊是山；梢左邊是木"
+        }
+      ],
+      "sound": [
+        {
+          "char": "俏",
+          "why": "同讀ㄑㄧㄠˋ",
+          "difference": "峭是山字旁；俏是人字旁"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "陡",
+          "why": "都能形容山坡很斜",
+          "difference": "峭有山字旁；陡有阝"
+        }
+      ],
+      "component": [
+        {
+          "char": "肖",
+          "why": "峭右邊是肖",
+          "difference": "肖沒有左邊的山"
+        }
+      ]
+    },
+    "tip": "峭＝山＋肖；峭壁與山有關。"
+  },
+  "createdAt": "2026-09-29T02:09:32.675Z"
+}
