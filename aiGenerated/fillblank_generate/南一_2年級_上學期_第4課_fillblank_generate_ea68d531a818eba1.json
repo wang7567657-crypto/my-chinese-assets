@@ -1,0 +1,386 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "南一_2年級_上學期_第4課_fillblank_generate_ea68d531a818eba1",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "title": "第4課 全課填空",
+    "items": [
+      {
+        "char": "塊",
+        "word": "塊"
+      },
+      {
+        "char": "圓",
+        "word": "圓"
+      },
+      {
+        "char": "形",
+        "word": "形"
+      },
+      {
+        "char": "芝",
+        "word": "芝"
+      },
+      {
+        "char": "麻",
+        "word": "麻"
+      },
+      {
+        "char": "餅",
+        "word": "餅"
+      },
+      {
+        "char": "咬",
+        "word": "咬"
+      },
+      {
+        "char": "飯",
+        "word": "飯"
+      },
+      {
+        "char": "做",
+        "word": "做"
+      },
+      {
+        "char": "課",
+        "word": "課"
+      },
+      {
+        "char": "洗",
+        "word": "洗"
+      },
+      {
+        "char": "澡",
+        "word": "澡"
+      },
+      {
+        "char": "拾",
+        "word": "拾"
+      },
+      {
+        "char": "整",
+        "word": "整"
+      },
+      {
+        "char": "包",
+        "word": "包"
+      },
+      {
+        "char": "遊",
+        "word": "遊"
+      },
+      {
+        "char": "戲",
+        "word": "戲"
+      },
+      {
+        "char": "剩",
+        "word": "剩"
+      }
+    ],
+    "level": "國小中高年級",
+    "autoLesson": true,
+    "chars": [
+      "塊",
+      "圓",
+      "形",
+      "芝",
+      "麻",
+      "餅",
+      "咬",
+      "飯",
+      "做",
+      "課",
+      "洗",
+      "澡",
+      "拾",
+      "整",
+      "包",
+      "遊",
+      "戲",
+      "剩"
+    ],
+    "count": 18
+  },
+  "data": {
+    "title": "第4課 全課填空",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "塊",
+        "word": "塊",
+        "sentence": "桌上有一＿＿方形積木。",
+        "answer": "塊",
+        "options": [
+          "塊",
+          "片",
+          "顆",
+          "張"
+        ],
+        "hint": "方形積木是一個有厚度的小物件。",
+        "explanation": "「一塊積木」的量詞用塊。"
+      },
+      {
+        "id": "q2",
+        "targetChar": "圓",
+        "word": "圓",
+        "sentence": "這個盤子沒有角，是＿＿形的。",
+        "answer": "圓",
+        "options": [
+          "圓",
+          "園",
+          "員",
+          "團"
+        ],
+        "hint": "要選表示形狀的字。",
+        "explanation": "「圓形」表示沒有角的形狀；園是公園的園。"
+      },
+      {
+        "id": "q3",
+        "targetChar": "形",
+        "word": "形",
+        "sentence": "這片葉子的外＿＿像一顆愛心。",
+        "answer": "形",
+        "options": [
+          "形",
+          "型",
+          "刑",
+          "彩"
+        ],
+        "hint": "描述物品外表的樣子。",
+        "explanation": "「外形」是外表的形狀，形右邊是三撇。"
+      },
+      {
+        "id": "q4",
+        "targetChar": "芝",
+        "word": "芝",
+        "sentence": "餅乾上撒滿了香香的＿＿麻。",
+        "answer": "芝",
+        "options": [
+          "芝",
+          "之",
+          "知",
+          "支"
+        ],
+        "hint": "這是一種小小的種子。",
+        "explanation": "「芝麻」的芝，上面有草字頭。"
+      },
+      {
+        "id": "q5",
+        "targetChar": "麻",
+        "word": "麻",
+        "sentence": "烤餅上有香香的芝＿＿。",
+        "answer": "麻",
+        "options": [
+          "麻",
+          "磨",
+          "魔",
+          "摩"
+        ],
+        "hint": "和前面的芝組成食物名稱。",
+        "explanation": "「芝麻」的麻有廣字頭。"
+      },
+      {
+        "id": "q6",
+        "targetChar": "餅",
+        "word": "餅",
+        "sentence": "我們把剛烤好的＿＿乾分給同學。",
+        "answer": "餅",
+        "options": [
+          "餅",
+          "飯",
+          "飲",
+          "館"
+        ],
+        "hint": "這是一種香脆的點心。",
+        "explanation": "「餅乾」的餅是食字旁加并。"
+      },
+      {
+        "id": "q7",
+        "targetChar": "咬",
+        "word": "咬",
+        "sentence": "小狗用牙齒輕輕＿＿住玩具。",
+        "answer": "咬",
+        "options": [
+          "咬",
+          "校",
+          "餃",
+          "較"
+        ],
+        "hint": "要用嘴巴和牙齒做的動作。",
+        "explanation": "「咬住」的咬左邊是口字旁。"
+      },
+      {
+        "id": "q8",
+        "targetChar": "飯",
+        "word": "飯",
+        "sentence": "午餐有白＿＿、青菜和湯。",
+        "answer": "飯",
+        "options": [
+          "飯",
+          "販",
+          "板",
+          "反"
+        ],
+        "hint": "用米煮成的食物。",
+        "explanation": "「白飯」的飯左邊是食字旁。"
+      },
+      {
+        "id": "q9",
+        "targetChar": "做",
+        "word": "做",
+        "sentence": "我們一起＿＿卡片送給老師。",
+        "answer": "做",
+        "options": [
+          "做",
+          "作",
+          "坐",
+          "故"
+        ],
+        "hint": "動手製作卡片。",
+        "explanation": "「做卡片」的做左邊有人字旁，右邊是故。"
+      },
+      {
+        "id": "q10",
+        "targetChar": "課",
+        "word": "課",
+        "sentence": "鈴聲響了，大家回教室上＿＿。",
+        "answer": "課",
+        "options": [
+          "課",
+          "棵",
+          "顆",
+          "果"
+        ],
+        "hint": "跟學校學習有關。",
+        "explanation": "「上課」的課左邊是言字旁。"
+      },
+      {
+        "id": "q11",
+        "targetChar": "洗",
+        "word": "洗",
+        "sentence": "吃飯前，要用肥皂＿＿手。",
+        "answer": "洗",
+        "options": [
+          "洗",
+          "先",
+          "選",
+          "洸"
+        ],
+        "hint": "用水把手清潔乾淨。",
+        "explanation": "「洗手」的洗左邊是三點水。"
+      },
+      {
+        "id": "q12",
+        "targetChar": "澡",
+        "word": "澡",
+        "sentence": "運動流汗後，我回家洗＿＿。",
+        "answer": "澡",
+        "options": [
+          "澡",
+          "燥",
+          "噪",
+          "躁"
+        ],
+        "hint": "用水清洗身體。",
+        "explanation": "「洗澡」的澡左邊是三點水；燥左邊是火。"
+      },
+      {
+        "id": "q13",
+        "targetChar": "拾",
+        "word": "拾",
+        "sentence": "他把地上的紙屑＿＿起來。",
+        "answer": "拾",
+        "options": [
+          "拾",
+          "給",
+          "恰",
+          "洽"
+        ],
+        "hint": "用手把地上的東西拿起來。",
+        "explanation": "「拾起」的拾左邊是提手旁，右邊是合。"
+      },
+      {
+        "id": "q14",
+        "targetChar": "整",
+        "word": "整",
+        "sentence": "請把散亂的書本＿＿理好。",
+        "answer": "整",
+        "options": [
+          "整",
+          "正",
+          "政",
+          "症"
+        ],
+        "hint": "把東西收得有條理。",
+        "explanation": "「整理」的整下方是正，上方還有束和攵。"
+      },
+      {
+        "id": "q15",
+        "targetChar": "包",
+        "word": "包",
+        "sentence": "我把課本放進書＿＿裡。",
+        "answer": "包",
+        "options": [
+          "包",
+          "抱",
+          "泡",
+          "飽"
+        ],
+        "hint": "裝課本的袋子。",
+        "explanation": "「書包」的包沒有另外加人、手或水的部首。"
+      },
+      {
+        "id": "q16",
+        "targetChar": "遊",
+        "word": "遊",
+        "sentence": "下課時，我們一起玩＿＿戲。",
+        "answer": "遊",
+        "options": [
+          "遊",
+          "游",
+          "油",
+          "郵"
+        ],
+        "hint": "這個字外側有走之旁。",
+        "explanation": "「遊戲」的遊有辶；游泳的游有三點水。"
+      },
+      {
+        "id": "q17",
+        "targetChar": "戲",
+        "word": "戲",
+        "sentence": "我們在操場玩遊＿＿。",
+        "answer": "戲",
+        "options": [
+          "戲",
+          "識",
+          "織",
+          "職"
+        ],
+        "hint": "與前面的遊組成活動名稱。",
+        "explanation": "「遊戲」的戲右側有戈。"
+      },
+      {
+        "id": "q18",
+        "targetChar": "剩",
+        "word": "剩",
+        "sentence": "大家分完點心，只＿＿下一塊餅乾。",
+        "answer": "剩",
+        "options": [
+          "剩",
+          "乘",
+          "勝",
+          "盛"
+        ],
+        "hint": "分過之後還留下。",
+        "explanation": "「剩下」的剩右邊有立刀。"
+      }
+    ]
+  },
+  "createdAt": "2026-09-29T01:49:46.260Z"
+}
