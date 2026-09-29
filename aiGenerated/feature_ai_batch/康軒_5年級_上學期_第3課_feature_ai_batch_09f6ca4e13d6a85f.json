@@ -1,0 +1,65 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_5年級_上學期_第3課_feature_ai_batch_09f6ca4e13d6a85f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "featureTaskType": "component_split",
+    "featureName": "部件拆分",
+    "itemCount": 18,
+    "batchCharacters": [
+      "峭",
+      "勁",
+      "聳",
+      "飢",
+      "隱",
+      "扯",
+      "銳",
+      "箭",
+      "韌",
+      "虯",
+      "鬚",
+      "茂",
+      "止",
+      "蔓",
+      "藉",
+      "豐",
+      "挫",
+      "折"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 18,
+    "verifiedCount": 17,
+    "unverifiedCharacters": [
+      "虯"
+    ],
+    "resultPaths": [
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_29a2063083bf0c4e.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_f5e8598d899318d4.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_df22cff14c10ab79.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_4fe6e58014775d93.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_efdc51f2499f2091.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_c7ab35378cddc888.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_80a78eb2aaf617e1.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_2cf0a9137c89f73d.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_8ae0458523c1385b.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_d18e6fb1e13d5af5.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_59351e202b6bec87.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_8f429a5c0a0421c5.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_2578586fbc5023a6.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_d839c4d6ec7af211.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_ac0acce0f1858973.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_af806d0ee8793130.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_6262cfcfd47cd049.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_8de8184cd12d7147.json"
+    ]
+  },
+  "createdAt": "2026-09-29T02:03:23.480Z"
+}
