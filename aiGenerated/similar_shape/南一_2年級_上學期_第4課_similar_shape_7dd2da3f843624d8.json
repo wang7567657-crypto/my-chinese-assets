@@ -1,0 +1,49 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第4課_similar_shape_7dd2da3f843624d8",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "餅",
+    "lessonChars": [
+      "塊",
+      "圓",
+      "形",
+      "芝",
+      "麻",
+      "餅",
+      "咬",
+      "飯",
+      "做",
+      "課",
+      "洗",
+      "澡",
+      "拾",
+      "整",
+      "包",
+      "遊",
+      "戲",
+      "剩"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "餅",
+    "similarChars": [
+      "拼",
+      "併",
+      "屏",
+      "瓶",
+      "飯",
+      "餃"
+    ],
+    "teachingTip": "餅左邊是食字旁飠，右邊是并；拼、併、瓶也含并，飯、餃則同有食字旁。"
+  },
+  "createdAt": "2026-09-29T01:32:08.512Z"
+}

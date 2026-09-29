@@ -1,0 +1,49 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第4課_similar_shape_4cffff905e9ade16",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "課",
+    "lessonChars": [
+      "塊",
+      "圓",
+      "形",
+      "芝",
+      "麻",
+      "餅",
+      "咬",
+      "飯",
+      "做",
+      "課",
+      "洗",
+      "澡",
+      "拾",
+      "整",
+      "包",
+      "遊",
+      "戲",
+      "剩"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "課",
+    "similarChars": [
+      "果",
+      "棵",
+      "顆",
+      "裸",
+      "稞",
+      "踝"
+    ],
+    "teachingTip": "課左邊是言字旁訁，右邊是果；棵、顆、裸、稞、踝的果旁相同，辨認另一邊。"
+  },
+  "createdAt": "2026-09-29T01:32:08.512Z"
+}
