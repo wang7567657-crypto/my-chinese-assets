@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第4課_memory_strategy_c4a66b0d4719cf31",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "餅",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "餅",
+    "components": [
+      "飠",
+      "并"
+    ],
+    "association": "餅是食物，左邊食字旁，右邊并。",
+    "mnemonic": "食字旁加并，香香的餅。",
+    "visualPrompt": "畫一盤芝麻餅，旁邊放大飠與并。",
+    "teachingTip": "用餅、飯比較同一個食字旁。"
+  },
+  "createdAt": "2026-09-29T01:37:24.225Z"
+}

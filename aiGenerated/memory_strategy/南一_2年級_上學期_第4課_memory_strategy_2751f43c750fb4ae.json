@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第4課_memory_strategy_2751f43c750fb4ae",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "咬",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "咬",
+    "components": [
+      "口",
+      "交"
+    ],
+    "association": "嘴巴的口在左邊，右邊放交，就想起咬一口。",
+    "mnemonic": "口加交，咬一口。",
+    "visualPrompt": "畫孩子咬一口餅，旁邊標示口與交。",
+    "teachingTip": "口字旁代表用嘴的動作，和餃的食字旁區分。"
+  },
+  "createdAt": "2026-09-29T01:37:24.225Z"
+}

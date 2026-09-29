@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第4課_memory_strategy_7b0a6bfa28b53e62",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "形",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "形",
+    "components": [
+      "开",
+      "彡"
+    ],
+    "association": "右邊三撇像畫出物品的線條，提醒我們看形狀。",
+    "mnemonic": "右邊三撇，畫出形狀。",
+    "visualPrompt": "畫不同形狀的積木，將形字右側三撇放大。",
+    "teachingTip": "用手指數右側三撇，和刑的刂比較。"
+  },
+  "createdAt": "2026-09-29T01:37:24.225Z"
+}

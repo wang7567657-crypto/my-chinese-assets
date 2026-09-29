@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第4課_memory_strategy_6a3023e2b4c670dc",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "澡",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "澡",
+    "components": [
+      "氵",
+      "喿"
+    ],
+    "association": "洗澡要用水，左邊三點水，右邊有三個口和木。",
+    "mnemonic": "三點水加喿，洗澡用水。",
+    "visualPrompt": "畫浴室洗澡場景，旁邊標三點水與喿的三個口。",
+    "teachingTip": "比較澡與燥：水和火的位置不同。"
+  },
+  "createdAt": "2026-09-29T01:37:24.225Z"
+}

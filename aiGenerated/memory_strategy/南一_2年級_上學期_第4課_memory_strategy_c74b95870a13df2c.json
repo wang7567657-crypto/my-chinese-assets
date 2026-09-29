@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第4課_memory_strategy_c74b95870a13df2c",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "塊",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "塊",
+    "components": [
+      "土",
+      "鬼"
+    ],
+    "association": "把土放在左邊，右邊放鬼，就像一塊泥土旁站著小鬼。",
+    "mnemonic": "土加鬼，記住一塊。",
+    "visualPrompt": "畫一塊泥土和一個可愛小鬼，旁邊清楚標出土與鬼。",
+    "teachingTip": "先圈出土字旁，再說一塊餅並寫塊。"
+  },
+  "createdAt": "2026-09-29T01:37:24.225Z"
+}

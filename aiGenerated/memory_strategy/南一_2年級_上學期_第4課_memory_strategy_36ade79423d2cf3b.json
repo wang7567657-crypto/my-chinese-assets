@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第4課_memory_strategy_36ade79423d2cf3b",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "芝",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "芝",
+    "components": [
+      "艹",
+      "之"
+    ],
+    "association": "靈芝像從草叢長出，上面草字頭，下面是之。",
+    "mnemonic": "草頭加之，靈芝的芝。",
+    "visualPrompt": "畫一朵靈芝從草叢長出，旁邊標艹與之。",
+    "teachingTip": "先寫艹，再寫之。"
+  },
+  "createdAt": "2026-09-29T01:37:24.225Z"
+}

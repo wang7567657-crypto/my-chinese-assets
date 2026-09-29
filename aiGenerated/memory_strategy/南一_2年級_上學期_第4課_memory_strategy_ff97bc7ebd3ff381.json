@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第4課_memory_strategy_ff97bc7ebd3ff381",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "整",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "整",
+    "components": [
+      "束",
+      "攵",
+      "正"
+    ],
+    "association": "把一束東西整理好，上方有束和攵，下方站得正。",
+    "mnemonic": "上束攵，下是正，整理整齊。",
+    "visualPrompt": "畫孩子把一束物品排整齊，旁邊分層標出整字。",
+    "teachingTip": "按上、下兩層觀察，別漏下方的正。"
+  },
+  "createdAt": "2026-09-29T01:37:24.225Z"
+}

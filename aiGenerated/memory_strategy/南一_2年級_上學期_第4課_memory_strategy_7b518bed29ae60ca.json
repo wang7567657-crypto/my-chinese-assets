@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第4課_memory_strategy_7b518bed29ae60ca",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "剩",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "剩",
+    "components": [
+      "乘",
+      "刂"
+    ],
+    "association": "乘字旁邊多一把立刀，像把餅切完後剩下一小塊。",
+    "mnemonic": "乘加立刀，剩下一塊。",
+    "visualPrompt": "畫切過的餅剩一塊，旁邊標乘與刂。",
+    "teachingTip": "把剩和乘並排，圈出多的立刀。"
+  },
+  "createdAt": "2026-09-29T01:37:24.225Z"
+}

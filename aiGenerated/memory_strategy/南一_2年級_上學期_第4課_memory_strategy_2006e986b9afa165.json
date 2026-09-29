@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第4課_memory_strategy_2006e986b9afa165",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "拾",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "拾",
+    "components": [
+      "扌",
+      "合"
+    ],
+    "association": "手伸出去拾起東西，左邊提手旁，右邊合。",
+    "mnemonic": "手加合，拾起來。",
+    "visualPrompt": "畫一隻手拾起地上的紙，旁邊標扌與合。",
+    "teachingTip": "先找扌，再和合字組合。"
+  },
+  "createdAt": "2026-09-29T01:37:24.225Z"
+}

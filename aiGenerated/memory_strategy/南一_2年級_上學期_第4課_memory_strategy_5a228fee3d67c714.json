@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第4課_memory_strategy_5a228fee3d67c714",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "遊",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "遊",
+    "components": [
+      "辶",
+      "斿"
+    ],
+    "association": "走之旁像出門走路，走出去遊玩。",
+    "mnemonic": "走之旁在外，出門遊一遊。",
+    "visualPrompt": "畫孩子沿小路遊玩，旁邊突出遊字外側的辶。",
+    "teachingTip": "遊有辶，游泳的游有氵。"
+  },
+  "createdAt": "2026-09-29T01:37:24.225Z"
+}
