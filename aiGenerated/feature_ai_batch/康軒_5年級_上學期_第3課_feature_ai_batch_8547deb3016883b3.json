@@ -2,7 +2,8 @@
   "taskType": "feature_ai_batch",
   "requestId": "康軒_5年級_上學期_第3課_feature_ai_batch_8547deb3016883b3",
   "version": "1.0",
-  "status": "pending",
+  "status": "completed",
+  "source": "chatgpt",
   "input": {
     "publisher": "康軒",
     "grade": "5年級",
@@ -55,5 +56,17 @@
     ],
     "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
   },
-  "createdAt": "2026-09-29T08:12:06.291Z"
+  "data": {
+    "status": "done",
+    "completedCount": 2,
+    "verifiedCount": 1,
+    "unverifiedCharacters": [
+      "虯"
+    ],
+    "resultPaths": [
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_d18e6fb1e13d5af5.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第3課_component_split_2578586fbc5023a6.json"
+    ]
+  },
+  "createdAt": "2026-09-29T08:13:36.627Z"
 }
