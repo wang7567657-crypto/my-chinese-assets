@@ -1,17 +1,17 @@
 [
   {
+    "word": "那裡",
+    "meaning": "指距離說話的人比較遠的地方。",
+    "en_prompt": "A person pointing towards a distant location"
+  },
+  {
     "word": "那個",
-    "meaning": "用來指稱特定的一個東西、人或事情。",
+    "meaning": "指稱距離自己比較遠的人、事或物。",
     "en_prompt": "A child pointing at a specific toy on a high shelf"
   },
   {
-    "word": "那裡",
-    "meaning": "指距離說話的人比較遠的地方。",
-    "en_prompt": "A small house far away on top of a green hill"
-  },
-  {
-    "word": "那些",
-    "meaning": "用來指稱距離較遠的多個事物或人。",
-    "en_prompt": "A group of many colorful birds flying far away in the blue sky"
+    "word": "那邊",
+    "meaning": "指遠處的方向或位置。",
+    "en_prompt": "A signpost pointing to a direction far away in a park"
   }
 ]
