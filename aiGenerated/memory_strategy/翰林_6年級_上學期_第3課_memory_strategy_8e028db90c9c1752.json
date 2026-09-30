@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第3課_memory_strategy_8e028db90c9c1752",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "鍊",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鍊",
+    "components": [
+      "金",
+      "柬"
+    ],
+    "association": "鍛鍊的鍊左邊金、右邊柬，與火旁的煉不同。",
+    "mnemonic": "金加柬，鍛鍊的鍊。",
+    "visualPrompt": "畫鍛鍊器材，標出金、柬。",
+    "teachingTip": "和煉、鏈並排比較偏旁與右部。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

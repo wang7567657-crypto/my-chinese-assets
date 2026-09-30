@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第3課_confusion_analysis_188f1a9a1b35425b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "杏",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "杏",
+    "groups": {
+      "shape": [
+        {
+          "char": "呆",
+          "why": "木與口上下排列",
+          "difference": "杏上木下口；呆上口下木。"
+        },
+        {
+          "char": "杳",
+          "why": "上方同有木",
+          "difference": "杏下方是口；杳下方是日。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "先辨認「杏」的木在上、口在下，再用語詞確認意思。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

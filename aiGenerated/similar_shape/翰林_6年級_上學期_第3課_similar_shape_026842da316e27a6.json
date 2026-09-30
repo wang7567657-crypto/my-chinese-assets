@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第3課_similar_shape_026842da316e27a6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "鏘",
+    "lessonChars": [
+      "杏",
+      "婆",
+      "娑",
+      "鏗",
+      "鏘",
+      "撫",
+      "壇",
+      "徒",
+      "鍊",
+      "曰",
+      "矣",
+      "舊",
+      "焉",
+      "亦",
+      "辨",
+      "警",
+      "惕",
+      "慧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "鏘",
+    "similarChars": [
+      {
+        "char": "將",
+        "similarity": "與「鏘」有相近的部件、筆畫或排列",
+        "difference": "「將」沒有左邊的金字旁；「鏘」要看左金右將。"
+      },
+      {
+        "char": "鏗",
+        "similarity": "與「鏘」有相近的部件、筆畫或排列",
+        "difference": "「鏗」右邊是堅；「鏘」要看左金右將。"
+      },
+      {
+        "char": "鏹",
+        "similarity": "與「鏘」有相近的部件、筆畫或排列",
+        "difference": "「鏹」右邊是強；「鏘」要看左金右將。"
+      },
+      {
+        "char": "鏟",
+        "similarity": "與「鏘」有相近的部件、筆畫或排列",
+        "difference": "「鏟」右邊是產；「鏘」要看左金右將。"
+      },
+      {
+        "char": "鏤",
+        "similarity": "與「鏘」有相近的部件、筆畫或排列",
+        "difference": "「鏤」右邊是婁；「鏘」要看左金右將。"
+      },
+      {
+        "char": "錚",
+        "similarity": "與「鏘」有相近的部件、筆畫或排列",
+        "difference": "「錚」右邊是爭；「鏘」要看左金右將。"
+      }
+    ],
+    "teachingTip": "先看「鏘」的左金右將，再從六個字中找不同的位置或偏旁。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

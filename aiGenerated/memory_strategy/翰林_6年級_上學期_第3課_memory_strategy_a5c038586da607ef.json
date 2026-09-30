@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第3課_memory_strategy_a5c038586da607ef",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "鏗",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鏗",
+    "components": [
+      "金",
+      "堅"
+    ],
+    "association": "堅硬物敲擊發出鏗鏘聲，左邊是金、右邊是堅。",
+    "mnemonic": "金加堅，鏗鏘聲。",
+    "visualPrompt": "畫金屬相碰，標出金、堅左右部件。",
+    "teachingTip": "圈出金字旁，再比較鏗與鏘的右半。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

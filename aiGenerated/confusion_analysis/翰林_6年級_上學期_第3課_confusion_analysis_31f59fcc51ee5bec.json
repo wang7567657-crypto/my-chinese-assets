@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第3課_confusion_analysis_31f59fcc51ee5bec",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "焉",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "焉",
+    "groups": {
+      "shape": [
+        {
+          "char": "烏",
+          "why": "下方都有點畫",
+          "difference": "焉上方有正形；烏的上方不同。"
+        },
+        {
+          "char": "為",
+          "why": "下方都有四點",
+          "difference": "焉上方有正形；為的上方筆畫不同。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "先辨認「焉」的上方正形、下方四點，再用語詞確認意思。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

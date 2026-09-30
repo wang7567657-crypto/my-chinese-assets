@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第3課_memory_strategy_52b3dbba18890d04",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "撫",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "撫",
+    "components": [
+      "扌",
+      "無"
+    ],
+    "association": "用手輕輕撫摸，所以左邊是扌，右邊是無。",
+    "mnemonic": "手加無，輕輕撫。",
+    "visualPrompt": "畫一隻手輕撫物品，對照扌與無。",
+    "teachingTip": "先圈扌，再與艹字頭的蕪比較。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

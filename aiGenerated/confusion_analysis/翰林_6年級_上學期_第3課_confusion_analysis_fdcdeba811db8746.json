@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第3課_confusion_analysis_fdcdeba811db8746",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "舊",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "舊",
+    "groups": {
+      "shape": [
+        {
+          "char": "舅",
+          "why": "下方同有臼",
+          "difference": "舊上方有艹與隹；舅下方是男。"
+        },
+        {
+          "char": "臼",
+          "why": "下方同有臼",
+          "difference": "舊上面另有艹與隹。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "先辨認「舊」的上艹、中隹、下臼，再用語詞確認意思。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

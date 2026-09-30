@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第3課_memory_strategy_1ba66324cb81b278",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "壇",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "壇",
+    "components": [
+      "土",
+      "亶"
+    ],
+    "association": "講壇常是站立的平台，左邊土、右邊亶。",
+    "mnemonic": "土加亶，站上講壇。",
+    "visualPrompt": "畫一座講壇，標出土與亶。",
+    "teachingTip": "與檀並排，比較左邊土和木。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

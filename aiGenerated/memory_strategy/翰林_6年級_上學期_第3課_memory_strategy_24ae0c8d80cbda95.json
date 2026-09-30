@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第3課_memory_strategy_24ae0c8d80cbda95",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "鏘",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鏘",
+    "components": [
+      "金",
+      "將"
+    ],
+    "association": "金屬敲擊會發出鏘聲，左邊金、右邊將。",
+    "mnemonic": "金加將，鏗鏘響。",
+    "visualPrompt": "畫兩件金屬相碰，標出金和將。",
+    "teachingTip": "與鏗並排，辨認右邊是將或堅。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

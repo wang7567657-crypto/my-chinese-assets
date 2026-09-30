@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第3課_confusion_analysis_646af0ed70761261",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "徒",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "徒",
+    "groups": {
+      "shape": [
+        {
+          "char": "陡",
+          "why": "右邊同有走",
+          "difference": "徒左邊是彳；陡左邊是阝。"
+        },
+        {
+          "char": "徙",
+          "why": "左邊同為彳",
+          "difference": "徒右邊是走；徙右邊筆畫更多。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "先辨認「徒」的左彳右走，再用語詞確認意思。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

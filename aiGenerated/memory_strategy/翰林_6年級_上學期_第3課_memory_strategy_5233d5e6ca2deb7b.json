@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第3課_memory_strategy_5233d5e6ca2deb7b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "警",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "警",
+    "components": [
+      "敬",
+      "言"
+    ],
+    "association": "警告用言語提醒，上敬下言。",
+    "mnemonic": "敬下有言，是警告的警。",
+    "visualPrompt": "畫警察提醒行人的情境，標出敬和言。",
+    "teachingTip": "與驚比較下方是言還是馬。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

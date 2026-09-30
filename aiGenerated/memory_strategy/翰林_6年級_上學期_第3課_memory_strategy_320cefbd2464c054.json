@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第3課_memory_strategy_320cefbd2464c054",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "惕",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "惕",
+    "components": [
+      "忄",
+      "易"
+    ],
+    "association": "警惕是心裡留意，左邊忄，右邊易。",
+    "mnemonic": "心加易，保持警惕。",
+    "visualPrompt": "畫一顆注意訊號的心，標出忄與易。",
+    "teachingTip": "先找忄，再與足旁的踢比較。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

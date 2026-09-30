@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第3課_confusion_analysis_ff303a3b5dace9ff",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "婆",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "婆",
+    "groups": {
+      "shape": [
+        {
+          "char": "波",
+          "why": "上方有波形",
+          "difference": "婆下方有女；波只有氵與皮。"
+        },
+        {
+          "char": "娑",
+          "why": "都由水旁的字加女組成",
+          "difference": "婆上方是波；娑上方是沙。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "先辨認「婆」的波在上、女在下，再用語詞確認意思。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

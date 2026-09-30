@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第3課_similar_shape_16525fe924458a41",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "鍊",
+    "lessonChars": [
+      "杏",
+      "婆",
+      "娑",
+      "鏗",
+      "鏘",
+      "撫",
+      "壇",
+      "徒",
+      "鍊",
+      "曰",
+      "矣",
+      "舊",
+      "焉",
+      "亦",
+      "辨",
+      "警",
+      "惕",
+      "慧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "鍊",
+    "similarChars": [
+      {
+        "char": "鏈",
+        "similarity": "與「鍊」有相近的部件、筆畫或排列",
+        "difference": "「鏈」右邊是連、外面有辶；「鍊」要看左金右柬。"
+      },
+      {
+        "char": "煉",
+        "similarity": "與「鍊」有相近的部件、筆畫或排列",
+        "difference": "「煉」左邊是火；「鍊」要看左金右柬。"
+      },
+      {
+        "char": "練",
+        "similarity": "與「鍊」有相近的部件、筆畫或排列",
+        "difference": "「練」左邊是糸；「鍊」要看左金右柬。"
+      },
+      {
+        "char": "揀",
+        "similarity": "與「鍊」有相近的部件、筆畫或排列",
+        "difference": "「揀」左邊是扌；「鍊」要看左金右柬。"
+      },
+      {
+        "char": "柬",
+        "similarity": "與「鍊」有相近的部件、筆畫或排列",
+        "difference": "「柬」只有柬；「鍊」要看左金右柬。"
+      },
+      {
+        "char": "錯",
+        "similarity": "與「鍊」有相近的部件、筆畫或排列",
+        "difference": "「錯」右邊是昔；「鍊」要看左金右柬。"
+      }
+    ],
+    "teachingTip": "先看「鍊」的左金右柬，再從六個字中找不同的位置或偏旁。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

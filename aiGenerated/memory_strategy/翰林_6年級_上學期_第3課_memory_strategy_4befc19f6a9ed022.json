@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第3課_memory_strategy_4befc19f6a9ed022",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "矣",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "矣",
+    "components": [
+      "厶",
+      "矢"
+    ],
+    "association": "上面厶、下面矢，古文句末常見「矣」。",
+    "mnemonic": "厶上矢下，足矣的矣。",
+    "visualPrompt": "畫古文句尾的標記，突出厶和矢。",
+    "teachingTip": "圈出上方厶，再讀「足矣」。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

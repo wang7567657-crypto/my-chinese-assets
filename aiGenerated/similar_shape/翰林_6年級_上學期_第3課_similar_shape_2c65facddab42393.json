@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第3課_similar_shape_2c65facddab42393",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "鏗",
+    "lessonChars": [
+      "杏",
+      "婆",
+      "娑",
+      "鏗",
+      "鏘",
+      "撫",
+      "壇",
+      "徒",
+      "鍊",
+      "曰",
+      "矣",
+      "舊",
+      "焉",
+      "亦",
+      "辨",
+      "警",
+      "惕",
+      "慧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "鏗",
+    "similarChars": [
+      {
+        "char": "堅",
+        "similarity": "與「鏗」有相近的部件、筆畫或排列",
+        "difference": "「堅」沒有左邊的金字旁；「鏗」要看左金右堅。"
+      },
+      {
+        "char": "鋻",
+        "similarity": "與「鏗」有相近的部件、筆畫或排列",
+        "difference": "「鋻」金在下方；「鏗」要看左金右堅。"
+      },
+      {
+        "char": "鏨",
+        "similarity": "與「鏗」有相近的部件、筆畫或排列",
+        "difference": "「鏨」金在下方、上方是斬；「鏗」要看左金右堅。"
+      },
+      {
+        "char": "鏘",
+        "similarity": "與「鏗」有相近的部件、筆畫或排列",
+        "difference": "「鏘」右邊是將；「鏗」要看左金右堅。"
+      },
+      {
+        "char": "鑑",
+        "similarity": "與「鏗」有相近的部件、筆畫或排列",
+        "difference": "「鑑」右邊是監；「鏗」要看左金右堅。"
+      },
+      {
+        "char": "鏽",
+        "similarity": "與「鏗」有相近的部件、筆畫或排列",
+        "difference": "「鏽」右邊是肅；「鏗」要看左金右堅。"
+      }
+    ],
+    "teachingTip": "先看「鏗」的左金右堅，再從六個字中找不同的位置或偏旁。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}
