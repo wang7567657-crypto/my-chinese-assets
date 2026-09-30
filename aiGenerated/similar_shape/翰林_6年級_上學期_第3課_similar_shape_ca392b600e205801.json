@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第3課_similar_shape_ca392b600e205801",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "慧",
+    "lessonChars": [
+      "杏",
+      "婆",
+      "娑",
+      "鏗",
+      "鏘",
+      "撫",
+      "壇",
+      "徒",
+      "鍊",
+      "曰",
+      "矣",
+      "舊",
+      "焉",
+      "亦",
+      "辨",
+      "警",
+      "惕",
+      "慧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "慧",
+    "similarChars": [
+      {
+        "char": "彗",
+        "similarity": "與「慧」有相近的部件、筆畫或排列",
+        "difference": "「彗」沒有下方的心；「慧」要看上彗下心。"
+      },
+      {
+        "char": "惠",
+        "similarity": "與「慧」有相近的部件、筆畫或排列",
+        "difference": "「惠」上方是專形；「慧」要看上彗下心。"
+      },
+      {
+        "char": "蕙",
+        "similarity": "與「慧」有相近的部件、筆畫或排列",
+        "difference": "「蕙」上方多了艹；「慧」要看上彗下心。"
+      },
+      {
+        "char": "憓",
+        "similarity": "與「慧」有相近的部件、筆畫或排列",
+        "difference": "「憓」左邊有忄；「慧」要看上彗下心。"
+      },
+      {
+        "char": "彙",
+        "similarity": "與「慧」有相近的部件、筆畫或排列",
+        "difference": "「彙」中間是果；「慧」要看上彗下心。"
+      },
+      {
+        "char": "態",
+        "similarity": "與「慧」有相近的部件、筆畫或排列",
+        "difference": "「態」上方是能形；「慧」要看上彗下心。"
+      }
+    ],
+    "teachingTip": "先看「慧」的上彗下心，再從六個字中找不同的位置或偏旁。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

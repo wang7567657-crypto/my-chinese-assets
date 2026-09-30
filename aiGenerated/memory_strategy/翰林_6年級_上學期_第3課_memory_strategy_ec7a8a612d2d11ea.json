@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第3課_memory_strategy_ec7a8a612d2d11ea",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "徒",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "徒",
+    "components": [
+      "彳",
+      "走"
+    ],
+    "association": "徒步是用腳走，左邊彳、右邊走。",
+    "mnemonic": "彳加走，徒步走。",
+    "visualPrompt": "畫行走的腳步，標出彳與走。",
+    "teachingTip": "與陡比較左邊的彳和阝。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

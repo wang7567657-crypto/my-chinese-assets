@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第3課_similar_shape_920c3ededf7b2e3c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "曰",
+    "lessonChars": [
+      "杏",
+      "婆",
+      "娑",
+      "鏗",
+      "鏘",
+      "撫",
+      "壇",
+      "徒",
+      "鍊",
+      "曰",
+      "矣",
+      "舊",
+      "焉",
+      "亦",
+      "辨",
+      "警",
+      "惕",
+      "慧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "曰",
+    "similarChars": [
+      {
+        "char": "日",
+        "similarity": "與「曰」有相近的部件、筆畫或排列",
+        "difference": "「日」外框較高、裡面一橫；「曰」要看外框扁寬、內有一橫。"
+      },
+      {
+        "char": "目",
+        "similarity": "與「曰」有相近的部件、筆畫或排列",
+        "difference": "「目」裡面有兩橫；「曰」要看外框扁寬、內有一橫。"
+      },
+      {
+        "char": "白",
+        "similarity": "與「曰」有相近的部件、筆畫或排列",
+        "difference": "「白」上方多了一撇；「曰」要看外框扁寬、內有一橫。"
+      },
+      {
+        "char": "旦",
+        "similarity": "與「曰」有相近的部件、筆畫或排列",
+        "difference": "「旦」下方多了一橫；「曰」要看外框扁寬、內有一橫。"
+      },
+      {
+        "char": "由",
+        "similarity": "與「曰」有相近的部件、筆畫或排列",
+        "difference": "「由」中間一豎穿出上框；「曰」要看外框扁寬、內有一橫。"
+      },
+      {
+        "char": "田",
+        "similarity": "與「曰」有相近的部件、筆畫或排列",
+        "difference": "「田」中間一豎穿出下框；「曰」要看外框扁寬、內有一橫。"
+      }
+    ],
+    "teachingTip": "先看「曰」的外框扁寬、內有一橫，再從六個字中找不同的位置或偏旁。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

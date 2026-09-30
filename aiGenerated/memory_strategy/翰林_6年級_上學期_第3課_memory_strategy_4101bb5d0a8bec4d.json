@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第3課_memory_strategy_4101bb5d0a8bec4d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "辨",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "辨",
+    "components": [
+      "辛形",
+      "刀形",
+      "辛形"
+    ],
+    "association": "分辨要看清差別；辨中間不是言或糸。",
+    "mnemonic": "兩辛夾刀，分辨的辨。",
+    "visualPrompt": "畫兩張相似卡讓學生分辨，圈中間刀形。",
+    "teachingTip": "把辨、辯、辮並列，只圈中間部件。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

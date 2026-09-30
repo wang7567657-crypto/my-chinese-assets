@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第3課_similar_shape_7cad82c56e26ac5c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "撫",
+    "lessonChars": [
+      "杏",
+      "婆",
+      "娑",
+      "鏗",
+      "鏘",
+      "撫",
+      "壇",
+      "徒",
+      "鍊",
+      "曰",
+      "矣",
+      "舊",
+      "焉",
+      "亦",
+      "辨",
+      "警",
+      "惕",
+      "慧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "撫",
+    "similarChars": [
+      {
+        "char": "無",
+        "similarity": "與「撫」有相近的部件、筆畫或排列",
+        "difference": "「無」沒有扌；「撫」要看左扌右無。"
+      },
+      {
+        "char": "舞",
+        "similarity": "與「撫」有相近的部件、筆畫或排列",
+        "difference": "「舞」上方多了舛形；「撫」要看左扌右無。"
+      },
+      {
+        "char": "蕪",
+        "similarity": "與「撫」有相近的部件、筆畫或排列",
+        "difference": "「蕪」上方是艹；「撫」要看左扌右無。"
+      },
+      {
+        "char": "憮",
+        "similarity": "與「撫」有相近的部件、筆畫或排列",
+        "difference": "「憮」左邊是忄；「撫」要看左扌右無。"
+      },
+      {
+        "char": "廡",
+        "similarity": "與「撫」有相近的部件、筆畫或排列",
+        "difference": "「廡」外面有广；「撫」要看左扌右無。"
+      },
+      {
+        "char": "摀",
+        "similarity": "與「撫」有相近的部件、筆畫或排列",
+        "difference": "「摀」右邊是烏；「撫」要看左扌右無。"
+      }
+    ],
+    "teachingTip": "先看「撫」的左扌右無，再從六個字中找不同的位置或偏旁。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

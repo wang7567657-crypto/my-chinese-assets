@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第3課_confusion_analysis_f96a7f5c2391c7e1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "亦",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "亦",
+    "groups": {
+      "shape": [
+        {
+          "char": "赤",
+          "why": "都有上下展開的筆畫",
+          "difference": "亦上方是亠；赤上方是土形。"
+        },
+        {
+          "char": "奕",
+          "why": "下方同有亦形",
+          "difference": "奕下面多了大；亦沒有。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "先辨認「亦」的亠在上、下方兩側有筆畫，再用語詞確認意思。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

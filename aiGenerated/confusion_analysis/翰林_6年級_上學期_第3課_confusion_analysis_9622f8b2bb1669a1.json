@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第3課_confusion_analysis_9622f8b2bb1669a1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "辨",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "辨",
+    "groups": {
+      "shape": [
+        {
+          "char": "辯",
+          "why": "兩邊都是辛形",
+          "difference": "辨中間是刀形，指分辨；辯中間有言，指辯論。"
+        },
+        {
+          "char": "辮",
+          "why": "兩邊都是辛形",
+          "difference": "辮中間有糸，指辮子；辨中間不是糸。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "先辨認「辨」的兩邊辛形、中間刀形，再用語詞確認意思。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

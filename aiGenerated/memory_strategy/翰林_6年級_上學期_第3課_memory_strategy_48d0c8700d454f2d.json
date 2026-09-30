@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第3課_memory_strategy_48d0c8700d454f2d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "曰",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "曰",
+    "components": [
+      "曰"
+    ],
+    "association": "扁寬的曰像一張嘴在說話，常用於古文的「子曰」。",
+    "mnemonic": "扁框一橫，子曰的曰。",
+    "visualPrompt": "畫一張說話的嘴，旁邊放正確字形曰。",
+    "teachingTip": "與日並排，辨認外框寬高。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

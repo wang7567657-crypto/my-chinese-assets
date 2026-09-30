@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第3課_confusion_analysis_971f50bd5c527941",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "撫",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "撫",
+    "groups": {
+      "shape": [
+        {
+          "char": "蕪",
+          "why": "右邊同有無形",
+          "difference": "撫左邊是扌；蕪上方是艹。"
+        },
+        {
+          "char": "舞",
+          "why": "同有無形",
+          "difference": "舞下方另有舛形，撫左邊有扌。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "先辨認「撫」的左扌右無，再用語詞確認意思。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}

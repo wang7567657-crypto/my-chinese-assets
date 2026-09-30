@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第3課_similar_shape_4ff622ecaf4104ed",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "舊",
+    "lessonChars": [
+      "杏",
+      "婆",
+      "娑",
+      "鏗",
+      "鏘",
+      "撫",
+      "壇",
+      "徒",
+      "鍊",
+      "曰",
+      "矣",
+      "舊",
+      "焉",
+      "亦",
+      "辨",
+      "警",
+      "惕",
+      "慧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "舊",
+    "similarChars": [
+      {
+        "char": "舅",
+        "similarity": "與「舊」有相近的部件、筆畫或排列",
+        "difference": "「舅」下方是男；「舊」要看上艹、中隹、下臼。"
+      },
+      {
+        "char": "臼",
+        "similarity": "與「舊」有相近的部件、筆畫或排列",
+        "difference": "「臼」只有臼；「舊」要看上艹、中隹、下臼。"
+      },
+      {
+        "char": "萑",
+        "similarity": "與「舊」有相近的部件、筆畫或排列",
+        "difference": "「萑」沒有下方的臼；「舊」要看上艹、中隹、下臼。"
+      },
+      {
+        "char": "蕉",
+        "similarity": "與「舊」有相近的部件、筆畫或排列",
+        "difference": "「蕉」下方是灬；「舊」要看上艹、中隹、下臼。"
+      },
+      {
+        "char": "隼",
+        "similarity": "與「舊」有相近的部件、筆畫或排列",
+        "difference": "「隼」下方是十；「舊」要看上艹、中隹、下臼。"
+      },
+      {
+        "char": "準",
+        "similarity": "與「舊」有相近的部件、筆畫或排列",
+        "difference": "「準」上方是氵；「舊」要看上艹、中隹、下臼。"
+      }
+    ],
+    "teachingTip": "先看「舊」的上艹、中隹、下臼，再從六個字中找不同的位置或偏旁。"
+  },
+  "createdAt": "2026-09-30T09:48:53.202Z"
+}
