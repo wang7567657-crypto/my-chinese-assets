@@ -1,17 +1,17 @@
 [
   {
     "word": "這裡",
-    "meaning": "指靠近自己、說話者所在的地方。",
-    "en_prompt": "A child pointing to the ground at their feet, representing here"
+    "meaning": "指說話的人所在地點，就在目前這個地方。",
+    "en_prompt": "A child pointing to the ground where they are standing."
   },
   {
     "word": "這個",
-    "meaning": "用來指稱離自己比較近的一個東西或一個人。",
-    "en_prompt": "A hand pointing at a single red apple on a desk"
+    "meaning": "用來指稱身邊或是剛才提到的特定某樣東西。",
+    "en_prompt": "A finger pointing at a specific apple on a table."
   },
   {
-    "word": "這些",
-    "meaning": "用來指稱靠近自己的兩個以上的東西或人。",
-    "en_prompt": "A small pile of several colorful building blocks"
+    "word": "這樣",
+    "meaning": "指這種樣子、方法或是目前的程度。",
+    "en_prompt": "A teacher showing a student how to hold a pencil correctly."
   }
 ]
