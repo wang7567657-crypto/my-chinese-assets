@@ -1,0 +1,63 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_2年級_上學期_第1課_feature_ai_batch_20ff6aa5cf7bc23b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "component_split",
+    "featureName": "部件拆分",
+    "itemCount": 19,
+    "batchCharacters": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_e61b6ddd93a6c8cc.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_7031ae2f6f54c823.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_abe0c62af159aee1.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_903f40d50ef7f389.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_9ef29cd9989b9681.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_414c9f55e4a9f790.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_f30ee87f6db2ed94.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_ce2483cf8cbdfa95.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_efe297682b7da9ef.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_96fac2a423ff9a19.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_8305f2530d31e466.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_0239374dfc59c1bc.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_a9732a8af943cfb2.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_cc230a89598a4684.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_03330b30f9ef3f08.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_8109e6386670200c.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_43d8df1deb8caba6.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_0f6cca21b4e143cc.json",
+      "aiGenerated/component_split/南一_2年級_上學期_第1課_component_split_65571017954ad9c9.json"
+    ]
+  },
+  "createdAt": "2026-09-30T09:20:17.466Z"
+}
