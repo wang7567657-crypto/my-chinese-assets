@@ -2,6 +2,7 @@
   "taskType": "fillblank_generate",
   "requestId": "翰林_6年級_上學期_第4課_fillblank_generate_acf005d9a8e3cb5e",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
     "publisher": "翰林",
@@ -80,6 +81,7 @@
       }
     ],
     "level": "國小中高年級",
+    "sourceRequestId": "",
     "autoLesson": true
   },
   "data": {
@@ -89,258 +91,258 @@
         "id": "q1",
         "targetChar": "鰭",
         "word": "魚鰭",
-        "sentence": "請選出適合「魚鰭」的生字。",
+        "sentence": "小魚擺動魚□，在水中轉彎。",
         "answer": "鰭",
         "options": [
           "鰭",
+          "鵰",
           "蚊",
-          "擴",
-          "鵰"
+          "膚"
         ],
-        "hint": "想一想「魚鰭」。",
-        "explanation": "答案是「鰭」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「魚鰭」的「鰭」應填在空格中。"
       },
       {
         "id": "q2",
         "targetChar": "划",
-        "word": "划船",
-        "sentence": "請選出適合「划船」的生字。",
+        "word": "划龍舟",
+        "sentence": "端午節時，隊員一起□龍舟。",
         "answer": "划",
         "options": [
           "划",
-          "膚",
-          "液",
-          "霸"
+          "劃",
+          "仿",
+          "垂"
         ],
-        "hint": "想一想「划船」。",
-        "explanation": "答案是「划」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「划龍舟」的「划」應填在空格中。"
       },
       {
         "id": "q3",
         "targetChar": "奧",
         "word": "奧祕",
-        "sentence": "請選出適合「奧祕」的生字。",
+        "sentence": "老師帶我們探索宇宙的□祕。",
         "answer": "奧",
         "options": [
           "奧",
-          "鋸",
           "奈",
-          "翹"
+          "構",
+          "霸"
         ],
-        "hint": "想一想「奧祕」。",
-        "explanation": "答案是「奧」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「奧祕」的「奧」應填在空格中。"
       },
       {
         "id": "q4",
         "targetChar": "仿",
         "word": "模仿",
-        "sentence": "請選出適合「模仿」的生字。",
+        "sentence": "妹妹模□小鳥飛翔的動作。",
         "answer": "仿",
         "options": [
           "仿",
-          "劃",
-          "構",
-          "垂"
+          "迫",
+          "奧",
+          "翹"
         ],
-        "hint": "想一想「模仿」。",
-        "explanation": "答案是「仿」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「模仿」的「仿」應填在空格中。"
       },
       {
         "id": "q5",
         "targetChar": "迫",
-        "word": "壓迫",
-        "sentence": "請選出適合「壓迫」的生字。",
+        "word": "迫近",
+        "sentence": "比賽日期□近，大家加緊練習。",
         "answer": "迫",
         "options": [
           "迫",
+          "仿",
           "擴",
-          "鵰",
-          "鰭"
+          "液"
         ],
-        "hint": "想一想「壓迫」。",
-        "explanation": "答案是「迫」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「迫近」的「迫」應填在空格中。"
       },
       {
         "id": "q6",
         "targetChar": "蚊",
-        "word": "蚊子",
-        "sentence": "請選出適合「蚊子」的生字。",
+        "word": "蚊帳",
+        "sentence": "睡前拉好□帳，就能擋住小蟲。",
         "answer": "蚊",
         "options": [
           "蚊",
-          "液",
-          "霸",
-          "划"
+          "鰭",
+          "鵰",
+          "鋸"
         ],
-        "hint": "想一想「蚊子」。",
-        "explanation": "答案是「蚊」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「蚊帳」的「蚊」應填在空格中。"
       },
       {
         "id": "q7",
         "targetChar": "膚",
         "word": "皮膚",
-        "sentence": "請選出適合「皮膚」的生字。",
+        "sentence": "天冷時，我的皮□容易乾燥。",
         "answer": "膚",
         "options": [
           "膚",
-          "奈",
-          "翹",
-          "奧"
+          "蚊",
+          "液",
+          "構"
         ],
-        "hint": "想一想「皮膚」。",
-        "explanation": "答案是「膚」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「皮膚」的「膚」應填在空格中。"
       },
       {
         "id": "q8",
         "targetChar": "鋸",
         "word": "鋸子",
-        "sentence": "請選出適合「鋸子」的生字。",
+        "sentence": "木工師傅用□子切開木板。",
         "answer": "鋸",
         "options": [
           "鋸",
-          "構",
-          "垂",
-          "仿"
+          "劃",
+          "擴",
+          "鰭"
         ],
-        "hint": "想一想「鋸子」。",
-        "explanation": "答案是「鋸」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「鋸子」的「鋸」應填在空格中。"
       },
       {
         "id": "q9",
         "targetChar": "劃",
         "word": "劃分",
-        "sentence": "請選出適合「劃分」的生字。",
+        "sentence": "老師把操場□分成三個活動區。",
         "answer": "劃",
         "options": [
           "劃",
-          "鵰",
-          "鰭",
-          "迫"
+          "划",
+          "鋸",
+          "構"
         ],
-        "hint": "想一想「劃分」。",
-        "explanation": "答案是「劃」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「劃分」的「劃」應填在空格中。"
       },
       {
         "id": "q10",
         "targetChar": "擴",
-        "word": "擴大",
-        "sentence": "請選出適合「擴大」的生字。",
+        "word": "擴充",
+        "sentence": "圖書館添購新書，□充館藏。",
         "answer": "擴",
         "options": [
           "擴",
-          "霸",
-          "划",
-          "蚊"
+          "仿",
+          "迫",
+          "霸"
         ],
-        "hint": "想一想「擴大」。",
-        "explanation": "答案是「擴」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「擴充」的「擴」應填在空格中。"
       },
       {
         "id": "q11",
         "targetChar": "液",
-        "word": "液體",
-        "sentence": "請選出適合「液體」的生字。",
+        "word": "汁液",
+        "sentence": "切開番茄後，汁□流到了盤子上。",
         "answer": "液",
         "options": [
           "液",
-          "翹",
-          "奧",
-          "膚"
+          "膚",
+          "蚊",
+          "垂"
         ],
-        "hint": "想一想「液體」。",
-        "explanation": "答案是「液」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「汁液」的「液」應填在空格中。"
       },
       {
         "id": "q12",
         "targetChar": "奈",
         "word": "無奈",
-        "sentence": "請選出適合「無奈」的生字。",
+        "sentence": "大雨讓我們取消野餐，大家感到無□。",
         "answer": "奈",
         "options": [
           "奈",
-          "垂",
-          "仿",
-          "鋸"
+          "奧",
+          "霸",
+          "構"
         ],
-        "hint": "想一想「無奈」。",
-        "explanation": "答案是「奈」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「無奈」的「奈」應填在空格中。"
       },
       {
         "id": "q13",
         "targetChar": "構",
         "word": "結構",
-        "sentence": "請選出適合「結構」的生字。",
+        "sentence": "這座橋的結□很穩固。",
         "answer": "構",
         "options": [
           "構",
-          "鰭",
-          "迫",
-          "劃"
+          "擴",
+          "鋸",
+          "仿"
         ],
-        "hint": "想一想「結構」。",
-        "explanation": "答案是「構」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「結構」的「構」應填在空格中。"
       },
       {
         "id": "q14",
         "targetChar": "鵰",
-        "word": "大鵰",
-        "sentence": "請選出適合「大鵰」的生字。",
+        "word": "金鵰",
+        "sentence": "鳥類圖鑑裡有一隻金□。",
         "answer": "鵰",
         "options": [
           "鵰",
-          "划",
+          "鰭",
           "蚊",
-          "擴"
+          "霸"
         ],
-        "hint": "想一想「大鵰」。",
-        "explanation": "答案是「鵰」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「金鵰」的「鵰」應填在空格中。"
       },
       {
         "id": "q15",
         "targetChar": "霸",
         "word": "霸主",
-        "sentence": "請選出適合「霸主」的生字。",
+        "sentence": "這支球隊連續奪冠，成為聯賽□主。",
         "answer": "霸",
         "options": [
           "霸",
           "奧",
-          "膚",
-          "液"
+          "迫",
+          "翹"
         ],
-        "hint": "想一想「霸主」。",
-        "explanation": "答案是「霸」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「霸主」的「霸」應填在空格中。"
       },
       {
         "id": "q16",
         "targetChar": "翹",
         "word": "翹起",
-        "sentence": "請選出適合「翹起」的生字。",
+        "sentence": "小狗把尾巴□起，開心地跑過來。",
         "answer": "翹",
         "options": [
           "翹",
-          "仿",
-          "鋸",
-          "奈"
+          "垂",
+          "划",
+          "膚"
         ],
-        "hint": "想一想「翹起」。",
-        "explanation": "答案是「翹」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「翹起」的「翹」應填在空格中。"
       },
       {
         "id": "q17",
         "targetChar": "垂",
         "word": "垂下",
-        "sentence": "請選出適合「垂下」的生字。",
+        "sentence": "柳樹的枝條□下，隨風搖動。",
         "answer": "垂",
         "options": [
           "垂",
-          "迫",
-          "劃",
-          "構"
+          "翹",
+          "擴",
+          "鰭"
         ],
-        "hint": "想一想「垂下」。",
-        "explanation": "答案是「垂」。"
+        "hint": "留意空格前後的詞語。",
+        "explanation": "「垂下」的「垂」應填在空格中。"
       }
     ]
   },
-  "createdAt": "2026-09-04T01:58:00.000Z"
+  "createdAt": "2026-09-30T10:35:29.492Z"
 }
