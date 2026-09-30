@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第2課_confusion_analysis_9c7c20393458eada",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "慨",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "慨",
+    "groups": {
+      "shape": [
+        {
+          "char": "概",
+          "why": "右邊同為既",
+          "difference": "慨是忄，如感慨；概是木字旁，如大概"
+        },
+        {
+          "char": "溉",
+          "why": "右邊同為既",
+          "difference": "溉是氵，常見於灌溉"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "感慨是心情，左邊忄。先看關鍵部件，再用語詞確認意思。"
+  },
+  "createdAt": "2026-09-30T09:06:07.547Z"
+}

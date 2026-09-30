@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第2課_similar_shape_5d2084e3426dcfd9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "targetChar": "稚",
+    "lessonChars": [
+      "眶",
+      "固",
+      "執",
+      "辯",
+      "胞",
+      "胎",
+      "盼",
+      "郵",
+      "暈",
+      "稚",
+      "慘",
+      "憤",
+      "慨",
+      "狠",
+      "憂",
+      "涕",
+      "慰",
+      "寞"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "稚",
+    "similarChars": [
+      {
+        "char": "推",
+        "similarity": "與「稚」有相近的隹部件或排列",
+        "difference": "「推」左邊是扌；「稚」要認出左邊禾、右邊隹。"
+      },
+      {
+        "char": "唯",
+        "similarity": "與「稚」有相近的隹部件或排列",
+        "difference": "「唯」左邊是口；「稚」要認出左邊禾、右邊隹。"
+      },
+      {
+        "char": "維",
+        "similarity": "與「稚」有相近的隹部件或排列",
+        "difference": "「維」左邊是糸；「稚」要認出左邊禾、右邊隹。"
+      },
+      {
+        "char": "誰",
+        "similarity": "與「稚」有相近的隹部件或排列",
+        "difference": "「誰」左邊是言；「稚」要認出左邊禾、右邊隹。"
+      },
+      {
+        "char": "錐",
+        "similarity": "兩字的部分筆畫或整體輪廓相近，需看部件位置",
+        "difference": "「錐」左邊是金；「稚」要認出左邊禾、右邊隹。"
+      },
+      {
+        "char": "雌",
+        "similarity": "兩字的部分筆畫或整體輪廓相近，需看部件位置",
+        "difference": "「雌」左邊是此；「稚」要認出左邊禾、右邊隹。"
+      }
+    ],
+    "teachingTip": "幼稚的稚左邊是禾。先圈關鍵部件，再從六字中找出不同的偏旁或位置。"
+  },
+  "createdAt": "2026-09-30T09:06:07.547Z"
+}

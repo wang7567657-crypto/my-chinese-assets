@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第2課_confusion_analysis_ec5c6d3e9cc27e9b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "暈",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "暈",
+    "groups": {
+      "shape": [
+        {
+          "char": "暉",
+          "why": "同有日與軍形",
+          "difference": "暈下方是軍；暉左邊是日、右邊是軍"
+        },
+        {
+          "char": "運",
+          "why": "同有軍",
+          "difference": "運外面有辶，指運送"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "暈車的暈是上日下軍。先看關鍵部件，再用語詞確認意思。"
+  },
+  "createdAt": "2026-09-30T09:06:07.547Z"
+}

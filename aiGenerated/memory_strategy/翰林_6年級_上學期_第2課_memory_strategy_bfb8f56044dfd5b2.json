@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第2課_memory_strategy_bfb8f56044dfd5b2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "郵",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "郵",
+    "components": [
+      "垂",
+      "阝"
+    ],
+    "association": "左邊垂，右邊阝；寫郵件時別把右邊漏掉。",
+    "mnemonic": "垂旁加阝，是郵件的郵。",
+    "visualPrompt": "畫一張簡單的字形提示圖，突出「郵」的垂、阝，旁邊用「垂旁加阝，是郵件的郵。」提醒，不改寫字形。",
+    "teachingTip": "沿著左右部件描一次，與只有垂的字比較。"
+  },
+  "createdAt": "2026-09-30T09:06:07.547Z"
+}

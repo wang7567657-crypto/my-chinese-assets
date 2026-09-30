@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第2課_confusion_analysis_9cab7772b1a315b5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "眶",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "眶",
+    "groups": {
+      "shape": [
+        {
+          "char": "框",
+          "why": "同有匡形，容易看錯偏旁",
+          "difference": "眶是目字旁，指眼眶；框是木字旁，指外框"
+        },
+        {
+          "char": "筐",
+          "why": "同有匡形",
+          "difference": "筐上方是竹字頭，指竹筐"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "眼眶的眶是目字旁。先看關鍵部件，再用語詞確認意思。"
+  },
+  "createdAt": "2026-09-30T09:06:07.547Z"
+}

@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第2課_confusion_analysis_aeea1e35475d3e22",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "寞",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "寞",
+    "groups": {
+      "shape": [
+        {
+          "char": "漠",
+          "why": "右邊同為莫",
+          "difference": "寞上方是宀，如寂寞；漠左邊是氵，如沙漠"
+        },
+        {
+          "char": "摸",
+          "why": "右邊同為莫",
+          "difference": "摸左邊是扌，是手的動作"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "寂寞的寞上方有宀。先看關鍵部件，再用語詞確認意思。"
+  },
+  "createdAt": "2026-09-30T09:06:07.547Z"
+}

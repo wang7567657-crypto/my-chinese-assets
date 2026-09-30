@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第2課_memory_strategy_4cdc1ab941136456",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "眶",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "眶",
+    "components": [
+      "目",
+      "匡"
+    ],
+    "association": "眼睛的目旁邊有個方框，框住眼睛周圍，就是眼眶。",
+    "mnemonic": "目加匡，眼眶在眼旁。",
+    "visualPrompt": "畫一張簡單的字形提示圖，突出「眶」的目、匡，旁邊用「目加匡，眼眶在眼旁。」提醒，不改寫字形。",
+    "teachingTip": "圈出目與匡，再指自己的眼眶。"
+  },
+  "createdAt": "2026-09-30T09:06:07.547Z"
+}

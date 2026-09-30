@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第2課_confusion_analysis_926cd0ecf2dc6708",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "盼",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "盼",
+    "groups": {
+      "shape": [
+        {
+          "char": "扮",
+          "why": "右邊同為分",
+          "difference": "盼左邊是目，指期待；扮左邊是扌，指打扮"
+        },
+        {
+          "char": "份",
+          "why": "右邊同為分",
+          "difference": "份左邊是亻，指一份"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "盼望要用眼睛看，是目字旁。先看關鍵部件，再用語詞確認意思。"
+  },
+  "createdAt": "2026-09-30T09:06:07.547Z"
+}

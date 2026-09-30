@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第2課_memory_strategy_f7e8e69216db31a8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "暈",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "暈",
+    "components": [
+      "日",
+      "冖",
+      "車"
+    ],
+    "association": "太陽日照得頭昏，下方像車，想到坐車暈車。",
+    "mnemonic": "日照車上，暈車頭昏。",
+    "visualPrompt": "畫一張簡單的字形提示圖，突出「暈」的日、冖、車，旁邊用「日照車上，暈車頭昏。」提醒，不改寫字形。",
+    "teachingTip": "先找最上方的日，再比較暉的左右排列。"
+  },
+  "createdAt": "2026-09-30T09:06:07.547Z"
+}

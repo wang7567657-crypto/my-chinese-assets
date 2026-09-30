@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第2課_memory_strategy_a8dd34ef5aecaec6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "慘",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "慘",
+    "components": [
+      "忄",
+      "參"
+    ],
+    "association": "看到悲慘的事心裡難過，所以左邊是忄，右邊參。",
+    "mnemonic": "心加參，悲慘心難受。",
+    "visualPrompt": "畫一張簡單的字形提示圖，突出「慘」的忄、參，旁邊用「心加參，悲慘心難受。」提醒，不改寫字形。",
+    "teachingTip": "把慘和滲並排，指出心和水的不同。"
+  },
+  "createdAt": "2026-09-30T09:06:07.547Z"
+}

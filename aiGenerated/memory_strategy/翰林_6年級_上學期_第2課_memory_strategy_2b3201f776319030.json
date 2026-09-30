@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第2課_memory_strategy_2b3201f776319030",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "辯",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "辯",
+    "components": [
+      "辛形",
+      "言",
+      "辛形"
+    ],
+    "association": "兩邊像辛，中間有言；用語言討論，就是辯論。",
+    "mnemonic": "兩辛夾言，開口辯論。",
+    "visualPrompt": "畫一張簡單的字形提示圖，突出「辯」的辛形、言、辛形，旁邊用「兩辛夾言，開口辯論。」提醒，不改寫字形。",
+    "teachingTip": "用彩筆圈中間的言，和辨、辮並排比較。"
+  },
+  "createdAt": "2026-09-30T09:06:07.547Z"
+}
