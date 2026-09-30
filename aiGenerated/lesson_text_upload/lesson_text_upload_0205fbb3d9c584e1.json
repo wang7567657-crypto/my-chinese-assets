@@ -2,7 +2,8 @@
   "taskType": "lesson_text_upload",
   "requestId": "lesson_text_upload_0205fbb3d9c584e1",
   "version": "1.0",
-  "status": "pending",
+  "status": "completed",
+  "source": "chatgpt",
   "input": {
     "publisher": "康軒",
     "grade": "5年級",
@@ -15,5 +16,12 @@
     "overwrite": false,
     "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
   },
-  "createdAt": "2026-09-30T12:56:59.013Z"
+  "data": {
+    "status": "done",
+    "targetPath": "lessonText/康軒_5年級_上學期_第9課.json",
+    "lesson": "第9課",
+    "corrected": false,
+    "note": "核對課次與檔名一致，目標不存在時新增，原文未修改。"
+  },
+  "createdAt": "2026-09-30T12:58:53.374Z"
 }
