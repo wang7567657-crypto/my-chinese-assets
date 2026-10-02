@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_aef5e176bd53057a",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "title": "狐狸的故事",
+    "text": "萬里無雲好天氣，\n大小狐狸兩兄弟，\n坐在樹下說祕密。\n狐狸大哥進園裡，\n葡香氣直入鼻，\n抓呀！還差一點力，\n跳哇！加上高飛踢。\n四腳朝天就落地，\n全身滿滿都是泥，\n沒法只好就放棄，\n告訴自己別在意：\n「酸葡哇！酸葡！\n沒有什麼了不起！」\n狐狸小弟沒力氣，\n見了烏鴉心歡喜，\n肉塊就在他嘴裡，\n左思右想找妙計。\n狐狸說：\n「烏鴉呀！烏鴉呀！\n您真強壯又美麗，\n歌聲必定無人比！」\n烏鴉聽了心歡喜，\n開口一唱肉落地，\n才知不妙來不及。\n大小狐狸兩兄弟，\n祕密都在故事裡。",
+    "fileName": "康軒_3年級_上學期_第10課.json",
+    "targetPath": "lessonText/康軒_3年級_上學期_第10課.json",
+    "overwrite": false,
+    "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
+  },
+  "createdAt": "2026-10-02T17:27:18.922Z"
+}
