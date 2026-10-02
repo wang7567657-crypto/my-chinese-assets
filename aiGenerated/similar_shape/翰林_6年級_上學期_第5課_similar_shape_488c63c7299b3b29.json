@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_488c63c7299b3b29",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "幹",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "幹",
+    "similarChars": [
+      {
+        "char": "乾",
+        "similarity": "左邊部件相同",
+        "difference": "幹右下是干；乾右下是乙。"
+      },
+      {
+        "char": "韓",
+        "similarity": "左邊部件相同",
+        "difference": "幹右是人加干；韓右是韋。"
+      },
+      {
+        "char": "翰",
+        "similarity": "左邊部件相同",
+        "difference": "幹右下是干；翰右下是羽。"
+      },
+      {
+        "char": "斡",
+        "similarity": "左邊部件相同",
+        "difference": "幹右下是干；斡右下是斗，較少使用。"
+      },
+      {
+        "char": "朝",
+        "similarity": "左邊部件相同",
+        "difference": "幹右是人加干；朝右是月。"
+      },
+      {
+        "char": "榦",
+        "similarity": "左邊及右上人相同",
+        "difference": "幹右下是干；榦右下是木，較少使用。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。先和乾、翰比較右下；這是記字聯想，不是字源說明。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

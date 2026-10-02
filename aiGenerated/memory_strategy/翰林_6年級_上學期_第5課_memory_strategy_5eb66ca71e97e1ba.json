@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第5課_memory_strategy_5eb66ca71e97e1ba",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "穩",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "穩",
+    "components": [
+      "禾",
+      "右側爫、工、彐、心"
+    ],
+    "association": "雙手穩穩端著碗，心裡慢慢數步伐。",
+    "mnemonic": "左邊禾，右邊心在底；上面三層別忘記。",
+    "visualPrompt": "原字分色，右側由上到下框爫、工、彐、心；旁邊畫端碗走路的人。",
+    "teachingTip": "右邊較複雜，先指認四層再寫；不要直接用隱的阝。 聯想圖放在字旁，國字保留原字形與筆畫。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

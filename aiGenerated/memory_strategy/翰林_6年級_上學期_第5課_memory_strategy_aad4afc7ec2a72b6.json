@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第5課_memory_strategy_aad4afc7ec2a72b6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "霎",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "霎",
+    "components": [
+      "雨",
+      "妾"
+    ],
+    "association": "雨忽然落下，一霎那就發生。",
+    "mnemonic": "雨在上，妾在下，霎時記住一瞬間。",
+    "visualPrompt": "保留雨上妾下的字形；旁邊畫突然落下的雨滴及短短時間箭頭。",
+    "teachingTip": "妾由立與女組成，不要把下半寫成相或每。 聯想圖放在字旁，國字保留原字形與筆畫。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

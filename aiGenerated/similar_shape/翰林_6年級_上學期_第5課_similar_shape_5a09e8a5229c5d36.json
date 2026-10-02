@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_5a09e8a5229c5d36",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "施",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "施",
+    "similarChars": [
+      {
+        "char": "拖",
+        "similarity": "右邊都有也",
+        "difference": "施左有方與右上短撇、橫；拖左是扌，右是也。"
+      },
+      {
+        "char": "池",
+        "similarity": "都有也的字形",
+        "difference": "施有方及右上短撇、橫；池左是氵。"
+      },
+      {
+        "char": "他",
+        "similarity": "都有也的字形",
+        "difference": "他左是亻；施左是方，右上另有短撇、橫。"
+      },
+      {
+        "char": "旅",
+        "similarity": "左方與右上短撇、橫相同",
+        "difference": "旅右下不是也；施右下是也。"
+      },
+      {
+        "char": "旋",
+        "similarity": "左方與右上短撇、橫相同",
+        "difference": "旋右下是疋；施右下是也。"
+      },
+      {
+        "char": "旗",
+        "similarity": "左方與右上短撇、橫相同",
+        "difference": "旗右下是其；施右下是也。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。與拖比較，施左邊是方，右上還有兩筆。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第5課_memory_strategy_14abf841eca80ff4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "賀",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "賀",
+    "components": [
+      "加",
+      "貝"
+    ],
+    "association": "向朋友道賀，送上祝福。",
+    "mnemonic": "上面加，下面貝，祝賀朋友真可貴。",
+    "visualPrompt": "保持加上貝下；旁邊畫祝賀卡片，卡片不要取代任何筆畫。",
+    "teachingTip": "先認上面加，再認下面貝；不要把貝寫成木。 聯想圖放在字旁，國字保留原字形與筆畫。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

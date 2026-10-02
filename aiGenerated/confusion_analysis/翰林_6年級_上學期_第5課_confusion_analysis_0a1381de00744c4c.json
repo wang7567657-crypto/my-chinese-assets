@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_0a1381de00744c4c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "酥",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "酥",
+    "groups": {
+      "shape": [
+        {
+          "char": "酪",
+          "why": "左邊同為酉",
+          "difference": "酥右是禾；酪右是各。"
+        },
+        {
+          "char": "酬",
+          "why": "左邊同為酉",
+          "difference": "酥右是禾；酬右是州。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蘇",
+          "why": "讀音相同或接近：ㄙㄨ",
+          "difference": "酥脆用酥；甦醒也可寫蘇醒。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "脆",
+          "why": "都可描述食物口感",
+          "difference": "酥偏鬆而易碎；脆偏硬挺、容易折斷。"
+        }
+      ],
+      "component": [
+        {
+          "char": "酢",
+          "why": "左邊同為酉",
+          "difference": "酥右是禾；酢右是乍，較少使用。"
+        }
+      ]
+    },
+    "tip": "酉裡面有橫筆，別寫成西；右邊是禾，不是各。 先說語詞，再比較字形、讀音和意思。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

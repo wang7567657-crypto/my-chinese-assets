@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_02092a8b82866e80",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "庇",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "庇",
+    "similarChars": [
+      {
+        "char": "屁",
+        "similarity": "內部同為比",
+        "difference": "庇外是广，有一點；屁外是尸，沒有那一點。"
+      },
+      {
+        "char": "比",
+        "similarity": "內部部件相同",
+        "difference": "庇在比外加广；比沒有广。"
+      },
+      {
+        "char": "庀",
+        "similarity": "外部同為广，裡面都有匕形",
+        "difference": "庇裡面是比；庀裡面只有匕，較少使用。"
+      },
+      {
+        "char": "批",
+        "similarity": "都有比",
+        "difference": "庇外是广；批左是扌。"
+      },
+      {
+        "char": "毗",
+        "similarity": "都有比",
+        "difference": "庇外是广；毗左是田。"
+      },
+      {
+        "char": "庖",
+        "similarity": "外部同為广",
+        "difference": "庇裡面是比；庖裡面是包。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。庇讀ㄅㄧˋ；上面有點，是广，不是尸。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

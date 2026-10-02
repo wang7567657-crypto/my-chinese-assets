@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_2943017e6fab38b2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "栽",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "栽",
+    "groups": {
+      "shape": [
+        {
+          "char": "裁",
+          "why": "外圍部件相同",
+          "difference": "栽裡面是木；裁裡面是衣。"
+        },
+        {
+          "char": "載",
+          "why": "外圍部件相同",
+          "difference": "栽裡面是木；載裡面是車。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "災",
+          "why": "讀音相同或接近：ㄗㄞ",
+          "difference": "栽是種植；災是災害。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "種",
+          "why": "都可指栽植",
+          "difference": "栽常用栽樹；種植的種讀ㄓㄨㄥˋ，種類的種讀ㄓㄨㄥˇ。"
+        }
+      ],
+      "component": [
+        {
+          "char": "哉",
+          "why": "外圍部件相同",
+          "difference": "栽裡面是木；哉裡面是口。"
+        }
+      ]
+    },
+    "tip": "木在字內，四筆完整；與載的車、裁的衣比較。 先說語詞，再比較字形、讀音和意思。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

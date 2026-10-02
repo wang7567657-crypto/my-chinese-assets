@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第5課_memory_strategy_7ff0084981558513",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "濘",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "濘",
+    "components": [
+      "氵",
+      "寧"
+    ],
+    "association": "雨後泥路有水，走路要小心。",
+    "mnemonic": "泥濘有水三點旁，右邊寧字寫完整。",
+    "visualPrompt": "左氵用藍色，右寧用另一色；旁邊畫雨後泥路與鞋印。",
+    "teachingTip": "右邊依宀、心、皿、丁觀察；不要漏寫心。 聯想圖放在字旁，國字保留原字形與筆畫。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

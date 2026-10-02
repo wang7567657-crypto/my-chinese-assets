@@ -2,7 +2,7 @@
   "taskType": "feature_ai_batch",
   "requestId": "翰林_6年級_上學期_第5課_feature_ai_batch_801e0a8a5553cdec",
   "version": "1.0",
-  "status": "pending",
+  "status": "done",
   "input": {
     "publisher": "翰林",
     "grade": "6年級",
@@ -595,5 +595,29 @@
     ],
     "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
   },
-  "createdAt": "2026-10-02T21:12:53.359Z"
+  "createdAt": "2026-10-02T21:12:53.359Z",
+  "processedAt": "2026-10-02T21:17:37.631Z",
+  "output": {
+    "status": "done",
+    "completedCount": 17,
+    "resultPaths": [
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_5a09e8a5229c5d36.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_b425691130f6fe93.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_fe7d87e5823bcb5b.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_5c208a78c3fa769b.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_488c63c7299b3b29.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_ec224f6f87fe78e0.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_0273dabaf915bcb8.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_bd6e46b22085f9a4.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_8d2255903274b523.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_0a55625a02e26670.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_4f8adf0e521f7058.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_8f73eed71dcf8237.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_e501345b746e439d.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_981c9413318a8e81.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_b319643a6778b4dd.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_02092a8b82866e80.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_e0ca95d4a61f8cf5.json"
+    ]
+  }
 }

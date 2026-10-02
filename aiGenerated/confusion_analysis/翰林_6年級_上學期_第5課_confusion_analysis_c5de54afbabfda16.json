@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_c5de54afbabfda16",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "霎",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "霎",
+    "groups": {
+      "shape": [
+        {
+          "char": "妾",
+          "why": "下方同為妾",
+          "difference": "霎在妾上加雨；妾沒有雨。"
+        },
+        {
+          "char": "霜",
+          "why": "上方同為雨",
+          "difference": "霎下是妾；霜下是相。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "煞",
+          "why": "讀音相同或接近：ㄕㄚˋ",
+          "difference": "霎時指很短的時間；煞費苦心的煞讀四聲，煞車的煞則讀一聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "瞬",
+          "why": "都可表示短時間",
+          "difference": "霎常用霎時；瞬常用瞬間，不可交換組詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "霉",
+          "why": "上方同為雨",
+          "difference": "霎下是妾；霉下是每。"
+        }
+      ]
+    },
+    "tip": "妾由立與女組成，不要把下半寫成相或每。 先說語詞，再比較字形、讀音和意思。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

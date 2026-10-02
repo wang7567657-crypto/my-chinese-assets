@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第5課_memory_strategy_262945578eae405c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "踏",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "踏",
+    "components": [
+      "足",
+      "沓"
+    ],
+    "association": "用腳踏過淺水，留下腳印。",
+    "mnemonic": "足在左，水日右；踏出腳步向前走。",
+    "visualPrompt": "左足、右上水、右下日分色；旁邊畫腳踩淺水的腳印。",
+    "teachingTip": "右下是日；與蹈右下臼、蹋右下羽比較。 聯想圖放在字旁，國字保留原字形與筆畫。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

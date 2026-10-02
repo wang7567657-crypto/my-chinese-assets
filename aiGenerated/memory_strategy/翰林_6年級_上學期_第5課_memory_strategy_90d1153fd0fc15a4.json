@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第5課_memory_strategy_90d1153fd0fc15a4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "遮",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "遮",
+    "components": [
+      "庶",
+      "辶"
+    ],
+    "association": "走在太陽下，用傘遮住陽光。",
+    "mnemonic": "庶在裡，辶在外，遮住陽光好涼快。",
+    "visualPrompt": "庶與辶分色，保留原位置；旁邊畫撐傘遮陽的人。",
+    "teachingTip": "庶下方是四點灬，外面才是辶。 聯想圖放在字旁，國字保留原字形與筆畫。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

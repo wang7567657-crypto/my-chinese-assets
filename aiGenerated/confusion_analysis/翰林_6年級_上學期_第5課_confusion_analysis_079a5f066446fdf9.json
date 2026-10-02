@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_079a5f066446fdf9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "踏",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "踏",
+    "groups": {
+      "shape": [
+        {
+          "char": "蹈",
+          "why": "左邊同為足，右下都有日或臼的框形",
+          "difference": "踏右是水加日；蹈右是爫加臼。"
+        },
+        {
+          "char": "蹋",
+          "why": "左邊同為足，右上都有日",
+          "difference": "踏右上是水、下是日；蹋右上是日、下是羽。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "榻",
+          "why": "讀音相同或接近：ㄊㄚˋ",
+          "difference": "踏是用腳踩；榻是床或坐臥用具。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "踩",
+          "why": "都與腳的動作有關",
+          "difference": "踏可用踏步、踏上；踩可用踩水、踩到。"
+        }
+      ],
+      "component": [
+        {
+          "char": "沓",
+          "why": "右邊部件相同",
+          "difference": "踏在沓左加足；沓沒有足。"
+        }
+      ]
+    },
+    "tip": "右下是日；與蹈右下臼、蹋右下羽比較。 先說語詞，再比較字形、讀音和意思。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

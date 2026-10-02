@@ -1,0 +1,49 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_226f68f9d1ba7c7d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "襟",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "襟",
+    "groups": {
+      "shape": [
+        {
+          "char": "禁",
+          "why": "右邊部件相同",
+          "difference": "襟在禁左加衤；禁沒有衤。"
+        },
+        {
+          "char": "噤",
+          "why": "右邊同為禁",
+          "difference": "襟左是衤；噤左是口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "今",
+          "why": "讀音相同或接近：ㄐㄧㄣ",
+          "difference": "衣襟用襟；今天用今。禁令的禁讀ㄐㄧㄣˋ，聲調不同。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "淋",
+          "why": "右上都有林",
+          "difference": "襟左是衤、右是禁；淋左是氵、右是林。"
+        }
+      ]
+    },
+    "tip": "衤是衣旁，不是礻；右下是示，不是木。 先說語詞，再比較字形、讀音和意思。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

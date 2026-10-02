@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_4f8adf0e521f7058",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "穩",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "穩",
+    "similarChars": [
+      {
+        "char": "隱",
+        "similarity": "右邊部件相同",
+        "difference": "穩左是禾；隱左是阝。"
+      },
+      {
+        "char": "穗",
+        "similarity": "左邊同為禾，右下都有心",
+        "difference": "穩右上有爫、工、彐；穗右是惠。"
+      },
+      {
+        "char": "稻",
+        "similarity": "左邊同為禾，右上都有爫",
+        "difference": "穩右下有工、彐、心；稻右下是臼。"
+      },
+      {
+        "char": "稔",
+        "similarity": "左邊同為禾，右下都有心",
+        "difference": "穩右是爫、工、彐、心；稔右是念。"
+      },
+      {
+        "char": "愁",
+        "similarity": "都有禾與心",
+        "difference": "穩是左右排列；愁上是秋，下是心。"
+      },
+      {
+        "char": "稱",
+        "similarity": "左邊同為禾，右上都有爫",
+        "difference": "穩右下是工、彐、心；稱右下是冉。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。右邊較複雜，先指認四層再寫；不要直接用隱的阝。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

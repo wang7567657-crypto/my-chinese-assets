@@ -1,15 +1,15 @@
 {
   "taskType": "feature_ai_batch",
-  "requestId": "翰林_6年級_上學期_第5課_feature_ai_batch_be92ebbc7ff50480",
+  "requestId": "翰林_6年級_上學期_第5課_feature_ai_batch_5819a44f72610fb7",
   "version": "1.0",
-  "status": "pending",
+  "status": "done",
   "input": {
     "publisher": "翰林",
     "grade": "6年級",
     "semester": "上學期",
     "lesson": "第5課",
-    "featureTaskType": "memory_strategy",
-    "featureName": "記憶策略",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
     "itemCount": 17,
     "batchCharacters": [
       "施",
@@ -32,8 +32,8 @@
     ],
     "items": [
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_a19daff6cb4538c3",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_542b9cb912b32e6e",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -44,8 +44,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_7ff0084981558513",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_57ecc4ed278068bd",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -56,8 +56,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_70a9090bb2a4889b",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_d7902057d99231d0",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -68,8 +68,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_aad4afc7ec2a72b6",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_c5de54afbabfda16",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -80,8 +80,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_71145446cfffc16e",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_e45b288ee34780f9",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -92,8 +92,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_df96f2457b3b1cd2",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_4548db0c92b8f443",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -104,8 +104,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_14abf841eca80ff4",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_099efd4591945f00",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -116,8 +116,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_90d1153fd0fc15a4",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_3752e799bbb211c0",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -128,8 +128,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_f191718311aae076",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_6bf6579e403c0f9f",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -140,8 +140,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_262945578eae405c",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_079a5f066446fdf9",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -152,8 +152,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_5eb66ca71e97e1ba",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_e2fac01bf7b94d81",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -164,8 +164,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_b63da229e6ff847b",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_52d91ecdabe7d365",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -176,8 +176,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_335328f3ffb63f48",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_226f68f9d1ba7c7d",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -188,8 +188,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_7e8d2969b94f781d",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_0fbf3f665a20d1e1",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -200,8 +200,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_19c284b7c7cba45c",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_0a1381de00744c4c",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -212,8 +212,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_6ff6ce8a1f0b6302",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_0993d891421fa993",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -224,8 +224,8 @@
         }
       },
       {
-        "taskType": "memory_strategy",
-        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_bb7fb5ea6e4324e9",
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_2943017e6fab38b2",
         "input": {
           "publisher": "翰林",
           "grade": "6年級",
@@ -238,5 +238,29 @@
     ],
     "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
   },
-  "createdAt": "2026-10-02T21:13:00.232Z"
+  "createdAt": "2026-10-02T21:12:56.131Z",
+  "processedAt": "2026-10-02T21:17:37.631Z",
+  "output": {
+    "status": "done",
+    "completedCount": 17,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_542b9cb912b32e6e.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_57ecc4ed278068bd.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_d7902057d99231d0.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_c5de54afbabfda16.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_e45b288ee34780f9.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_4548db0c92b8f443.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_099efd4591945f00.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_3752e799bbb211c0.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_6bf6579e403c0f9f.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_079a5f066446fdf9.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_e2fac01bf7b94d81.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_52d91ecdabe7d365.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_226f68f9d1ba7c7d.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_0fbf3f665a20d1e1.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_0a1381de00744c4c.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_0993d891421fa993.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第5課_confusion_analysis_2943017e6fab38b2.json"
+    ]
+  }
 }
