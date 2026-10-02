@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_3752e799bbb211c0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "遮",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "遮",
+    "groups": {
+      "shape": [
+        {
+          "char": "庶",
+          "why": "都有庶",
+          "difference": "遮在庶外加辶；庶沒有辶。"
+        },
+        {
+          "char": "蔗",
+          "why": "都有庶",
+          "difference": "遮外是辶；蔗上是艹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "折",
+          "why": "讀音相同或接近：ㄓㄜ／ㄓㄜˊ",
+          "difference": "遮住的遮讀一聲；折紙的折讀二聲，聲調不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "擋",
+          "why": "都有阻住的意思",
+          "difference": "遮常用遮陽、遮住；擋可用擋路、阻擋。"
+        }
+      ],
+      "component": [
+        {
+          "char": "摭",
+          "why": "都有庶",
+          "difference": "遮外是辶；摭左是扌，較少使用。"
+        }
+      ]
+    },
+    "tip": "庶下方是四點灬，外面才是辶。 先說語詞，再比較字形、讀音和意思。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

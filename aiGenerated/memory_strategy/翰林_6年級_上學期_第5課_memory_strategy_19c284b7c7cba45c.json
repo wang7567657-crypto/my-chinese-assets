@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第5課_memory_strategy_19c284b7c7cba45c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "酥",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "酥",
+    "components": [
+      "酉",
+      "禾"
+    ],
+    "association": "咬一口酥餅，外皮鬆鬆脆脆。",
+    "mnemonic": "酉在左，禾在右；酥餅一口脆又鬆。",
+    "visualPrompt": "原字酉與禾分色；旁邊畫碎屑鬆散的酥餅。",
+    "teachingTip": "酉裡面有橫筆，別寫成西；右邊是禾，不是各。 聯想圖放在字旁，國字保留原字形與筆畫。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

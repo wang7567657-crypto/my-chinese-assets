@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_b319643a6778b4dd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "酥",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "酥",
+    "similarChars": [
+      {
+        "char": "酪",
+        "similarity": "左邊同為酉",
+        "difference": "酥右是禾；酪右是各。"
+      },
+      {
+        "char": "酬",
+        "similarity": "左邊同為酉",
+        "difference": "酥右是禾；酬右是州。"
+      },
+      {
+        "char": "酢",
+        "similarity": "左邊同為酉",
+        "difference": "酥右是禾；酢右是乍，較少使用。"
+      },
+      {
+        "char": "酣",
+        "similarity": "左邊同為酉",
+        "difference": "酥右是禾；酣右是甘。"
+      },
+      {
+        "char": "醋",
+        "similarity": "左邊同為酉",
+        "difference": "酥右是禾；醋右是昔。"
+      },
+      {
+        "char": "酤",
+        "similarity": "左邊同為酉",
+        "difference": "酥右是禾；酤右是古，較少使用。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。酉裡面有橫筆，別寫成西；右邊是禾，不是各。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

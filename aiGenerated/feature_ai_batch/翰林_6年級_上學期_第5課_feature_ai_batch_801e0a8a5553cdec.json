@@ -1,0 +1,59 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_6年級_上學期_第5課_feature_ai_batch_801e0a8a5553cdec",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 17,
+    "batchCharacters": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 17,
+    "resultPaths": [
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_5a09e8a5229c5d36.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_b425691130f6fe93.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_fe7d87e5823bcb5b.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_5c208a78c3fa769b.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_488c63c7299b3b29.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_ec224f6f87fe78e0.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_0273dabaf915bcb8.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_bd6e46b22085f9a4.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_8d2255903274b523.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_0a55625a02e26670.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_4f8adf0e521f7058.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_8f73eed71dcf8237.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_e501345b746e439d.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_981c9413318a8e81.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_b319643a6778b4dd.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_02092a8b82866e80.json",
+      "aiGenerated/similar_shape/翰林_6年級_上學期_第5課_similar_shape_e0ca95d4a61f8cf5.json"
+    ]
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

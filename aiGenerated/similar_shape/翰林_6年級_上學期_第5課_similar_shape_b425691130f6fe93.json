@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_b425691130f6fe93",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "濘",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "濘",
+    "similarChars": [
+      {
+        "char": "檸",
+        "similarity": "右邊同為寧",
+        "difference": "濘左是氵；檸左是木。"
+      },
+      {
+        "char": "獰",
+        "similarity": "右邊同為寧",
+        "difference": "濘左是氵；獰左是犭。"
+      },
+      {
+        "char": "寧",
+        "similarity": "都有完整的寧",
+        "difference": "濘在寧左加氵；寧沒有氵。"
+      },
+      {
+        "char": "擰",
+        "similarity": "右邊同為寧",
+        "difference": "濘左是氵；擰左是扌。"
+      },
+      {
+        "char": "濱",
+        "similarity": "同為氵加上方有宀的部件",
+        "difference": "濘右是寧，底下丁；濱右是賓，底下貝。"
+      },
+      {
+        "char": "演",
+        "similarity": "同為氵加上方有宀的部件",
+        "difference": "濘右是寧；演右是寅，底下八。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。右邊依宀、心、皿、丁觀察；不要漏寫心。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

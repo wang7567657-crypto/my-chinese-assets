@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_0993d891421fa993",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "庇",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "庇",
+    "groups": {
+      "shape": [
+        {
+          "char": "屁",
+          "why": "內部同為比",
+          "difference": "庇外是广，有一點；屁外是尸，沒有那一點。"
+        },
+        {
+          "char": "比",
+          "why": "內部部件相同",
+          "difference": "庇在比外加广；比沒有广。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "必",
+          "why": "讀音相同或接近：ㄅㄧˋ",
+          "difference": "庇是保護；必是一定。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "護",
+          "why": "都與保護有關",
+          "difference": "庇常用庇護、包庇；護可用保護、護理。"
+        }
+      ],
+      "component": [
+        {
+          "char": "庀",
+          "why": "外部同為广，裡面都有匕形",
+          "difference": "庇裡面是比；庀裡面只有匕，較少使用。"
+        }
+      ]
+    },
+    "tip": "庇讀ㄅㄧˋ；上面有點，是广，不是尸。 先說語詞，再比較字形、讀音和意思。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

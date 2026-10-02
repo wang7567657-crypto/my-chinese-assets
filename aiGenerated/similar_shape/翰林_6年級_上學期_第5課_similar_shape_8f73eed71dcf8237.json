@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_8f73eed71dcf8237",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "稀",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "稀",
+    "similarChars": [
+      {
+        "char": "希",
+        "similarity": "右邊部件相同",
+        "difference": "稀在希左加禾；希沒有禾。"
+      },
+      {
+        "char": "晞",
+        "similarity": "右邊同為希",
+        "difference": "稀左是禾；晞左是日，較少使用。"
+      },
+      {
+        "char": "唏",
+        "similarity": "右邊同為希",
+        "difference": "稀左是禾；唏左是口。"
+      },
+      {
+        "char": "浠",
+        "similarity": "右邊同為希",
+        "difference": "稀左是禾；浠左是氵，較少使用。"
+      },
+      {
+        "char": "烯",
+        "similarity": "右邊同為希",
+        "difference": "稀左是禾；烯左是火，常見於化學名稱。"
+      },
+      {
+        "char": "稠",
+        "similarity": "左邊同為禾",
+        "difference": "稀右是希；稠右是周。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。右邊希上有交叉筆畫，下有布；與稠右邊周比較。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

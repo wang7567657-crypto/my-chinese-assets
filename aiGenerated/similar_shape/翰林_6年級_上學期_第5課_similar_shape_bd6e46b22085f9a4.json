@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_bd6e46b22085f9a4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "遮",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "遮",
+    "similarChars": [
+      {
+        "char": "庶",
+        "similarity": "都有庶",
+        "difference": "遮在庶外加辶；庶沒有辶。"
+      },
+      {
+        "char": "蔗",
+        "similarity": "都有庶",
+        "difference": "遮外是辶；蔗上是艹。"
+      },
+      {
+        "char": "摭",
+        "similarity": "都有庶",
+        "difference": "遮外是辶；摭左是扌，較少使用。"
+      },
+      {
+        "char": "渡",
+        "similarity": "右上都有广形",
+        "difference": "遮裡面是庶且外有辶；渡右是度且左有氵。"
+      },
+      {
+        "char": "度",
+        "similarity": "都有广及中間橫豎部件",
+        "difference": "遮裡面是庶，底下灬；度底下是又。"
+      },
+      {
+        "char": "席",
+        "similarity": "都有广及中間橫豎部件",
+        "difference": "遮裡面底下灬，外有辶；席底下是巾。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。庶下方是四點灬，外面才是辶。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

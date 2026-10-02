@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_e0ca95d4a61f8cf5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "栽",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "栽",
+    "similarChars": [
+      {
+        "char": "裁",
+        "similarity": "外圍部件相同",
+        "difference": "栽裡面是木；裁裡面是衣。"
+      },
+      {
+        "char": "載",
+        "similarity": "外圍部件相同",
+        "difference": "栽裡面是木；載裡面是車。"
+      },
+      {
+        "char": "哉",
+        "similarity": "外圍部件相同",
+        "difference": "栽裡面是木；哉裡面是口。"
+      },
+      {
+        "char": "截",
+        "similarity": "外圍部件相同",
+        "difference": "栽裡面是木；截裡面是隹。"
+      },
+      {
+        "char": "戴",
+        "similarity": "外圍部件相同",
+        "difference": "栽裡面是木；戴裡面是田加共。"
+      },
+      {
+        "char": "找",
+        "similarity": "都有戈形筆畫",
+        "difference": "栽還有上方十形與內部木；找左是扌，右是戈。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。木在字內，四筆完整；與載的車、裁的衣比較。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

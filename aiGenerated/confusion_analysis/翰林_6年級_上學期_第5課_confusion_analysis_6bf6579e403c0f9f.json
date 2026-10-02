@@ -1,0 +1,49 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_6bf6579e403c0f9f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "雋",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "雋",
+    "groups": {
+      "shape": [
+        {
+          "char": "隽",
+          "why": "上方同為隹",
+          "difference": "雋下方是四筆凹形部件；隽下方是乃，屬字形辨識比較。"
+        },
+        {
+          "char": "隹",
+          "why": "上方完全相同",
+          "difference": "雋下方另有四筆部件；隹沒有下方部件。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "卷",
+          "why": "讀音相同或接近：ㄐㄩㄢˋ",
+          "difference": "雋永的雋讀ㄐㄩㄢˋ；考卷的卷也讀ㄐㄩㄢˋ。雋才的雋另讀ㄐㄩㄣˋ。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "集",
+          "why": "上方同為隹",
+          "difference": "雋下方是凹形部件；集下方是木。"
+        }
+      ]
+    },
+    "tip": "雋永讀ㄐㄩㄢˋ ㄩㄥˇ；下方不是乃，不要照隽的形狀寫。 先說語詞，再比較字形、讀音和意思。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

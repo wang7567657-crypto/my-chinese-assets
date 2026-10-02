@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第5課_memory_strategy_335328f3ffb63f48",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "襟",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "襟",
+    "components": [
+      "衤",
+      "禁"
+    ],
+    "association": "衣服胸前是衣襟，談心胸可以說胸襟。",
+    "mnemonic": "衣字旁，右邊禁；兩木下面示，衣襟記在心。",
+    "visualPrompt": "左衤分色，右林與示分色；旁邊畫衣服前襟。",
+    "teachingTip": "衤是衣旁，不是礻；右下是示，不是木。 聯想圖放在字旁，國字保留原字形與筆畫。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

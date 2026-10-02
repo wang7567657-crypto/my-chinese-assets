@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_ec224f6f87fe78e0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "典",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "典",
+    "similarChars": [
+      {
+        "char": "曲",
+        "similarity": "上半輪廓相近",
+        "difference": "典下方多一撇、一點；曲沒有下方八。"
+      },
+      {
+        "char": "冊",
+        "similarity": "上半直筆與橫筆輪廓相近",
+        "difference": "典有下方八；冊沒有八，內部橫筆也不同。"
+      },
+      {
+        "char": "興",
+        "similarity": "下方都有八，上方橫直筆多",
+        "difference": "典上半較簡單；興上半有兩側臼形及中間部件。"
+      },
+      {
+        "char": "其",
+        "similarity": "下方都有八",
+        "difference": "典上半有外框及兩內豎；其上半是橫豎組合，沒有同樣外框。"
+      },
+      {
+        "char": "具",
+        "similarity": "下方都有八",
+        "difference": "典上半有兩內豎；具上半是目。"
+      },
+      {
+        "char": "真",
+        "similarity": "下方都有八",
+        "difference": "典上半是曲形；真上半有十與目形。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。典共8畫；用典與曲比較，下方多一撇、一點。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

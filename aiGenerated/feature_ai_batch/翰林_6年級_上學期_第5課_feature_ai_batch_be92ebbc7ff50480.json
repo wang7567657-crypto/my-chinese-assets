@@ -1,0 +1,59 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_6年級_上學期_第5課_feature_ai_batch_be92ebbc7ff50480",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 17,
+    "batchCharacters": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 17,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_a19daff6cb4538c3.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_7ff0084981558513.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_70a9090bb2a4889b.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_aad4afc7ec2a72b6.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_71145446cfffc16e.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_df96f2457b3b1cd2.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_14abf841eca80ff4.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_90d1153fd0fc15a4.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_f191718311aae076.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_262945578eae405c.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_5eb66ca71e97e1ba.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_b63da229e6ff847b.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_335328f3ffb63f48.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_7e8d2969b94f781d.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_19c284b7c7cba45c.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_6ff6ce8a1f0b6302.json",
+      "aiGenerated/memory_strategy/翰林_6年級_上學期_第5課_memory_strategy_bb7fb5ea6e4324e9.json"
+    ]
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_0fbf3f665a20d1e1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "仁",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "仁",
+    "groups": {
+      "shape": [
+        {
+          "char": "任",
+          "why": "左邊同為亻，右邊都有橫筆",
+          "difference": "仁右是二；任右是壬，有中間豎筆。"
+        },
+        {
+          "char": "仟",
+          "why": "左邊同為亻",
+          "difference": "仁右是二；仟右是千，多撇與豎。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "人",
+          "why": "讀音相同或接近：ㄖㄣˊ",
+          "difference": "仁是仁愛；人指人類或一個人。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "善",
+          "why": "都與待人友善有關",
+          "difference": "仁常用仁愛；善常用善良，語詞不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "什",
+          "why": "左邊同為亻",
+          "difference": "仁右是二；什右是十。"
+        }
+      ]
+    },
+    "tip": "這是記字聯想；二只有兩橫，不能加中間豎變成任。 先說語詞，再比較字形、讀音和意思。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

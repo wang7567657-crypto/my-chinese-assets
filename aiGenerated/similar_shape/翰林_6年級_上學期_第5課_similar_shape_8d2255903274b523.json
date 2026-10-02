@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_8d2255903274b523",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "雋",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "雋",
+    "similarChars": [
+      {
+        "char": "隽",
+        "similarity": "上方同為隹",
+        "difference": "雋下方是四筆凹形部件；隽下方是乃，屬字形辨識比較。"
+      },
+      {
+        "char": "隹",
+        "similarity": "上方完全相同",
+        "difference": "雋下方另有四筆部件；隹沒有下方部件。"
+      },
+      {
+        "char": "集",
+        "similarity": "上方同為隹",
+        "difference": "雋下方是凹形部件；集下方是木。"
+      },
+      {
+        "char": "售",
+        "similarity": "上方同為隹",
+        "difference": "雋下方是凹形部件；售下方是口。"
+      },
+      {
+        "char": "焦",
+        "similarity": "上方同為隹",
+        "difference": "雋下方是凹形部件；焦下方是灬。"
+      },
+      {
+        "char": "雔",
+        "similarity": "上方同為隹",
+        "difference": "雋下方是凹形部件；雔下方又是隹，較少使用。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。雋永讀ㄐㄩㄢˋ ㄩㄥˇ；下方不是乃，不要照隽的形狀寫。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

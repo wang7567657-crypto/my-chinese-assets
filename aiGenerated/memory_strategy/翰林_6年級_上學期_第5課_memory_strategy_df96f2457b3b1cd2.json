@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第5課_memory_strategy_df96f2457b3b1cd2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "典",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "典",
+    "components": [
+      "上半曲形",
+      "下方八"
+    ],
+    "association": "把字典放在架子上，兩腳像下方八。",
+    "mnemonic": "典字上面看曲形，下面八字別漏掉。",
+    "visualPrompt": "原字上半與下方八分色；旁邊畫一本字典放在兩腳書架上。",
+    "teachingTip": "典共8畫；用典與曲比較，下方多一撇、一點。 聯想圖放在字旁，國字保留原字形與筆畫。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

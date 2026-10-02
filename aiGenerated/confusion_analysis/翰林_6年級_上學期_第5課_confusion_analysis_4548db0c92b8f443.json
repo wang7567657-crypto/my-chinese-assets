@@ -1,0 +1,49 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_4548db0c92b8f443",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "典",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "典",
+    "groups": {
+      "shape": [
+        {
+          "char": "曲",
+          "why": "上半輪廓相近",
+          "difference": "典下方多一撇、一點；曲沒有下方八。"
+        },
+        {
+          "char": "冊",
+          "why": "上半直筆與橫筆輪廓相近",
+          "difference": "典有下方八；冊沒有八，內部橫筆也不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "點",
+          "why": "讀音相同或接近：ㄉㄧㄢˇ",
+          "difference": "字典用典；點頭、圓點用點。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "興",
+          "why": "下方都有八，上方橫直筆多",
+          "difference": "典上半較簡單；興上半有兩側臼形及中間部件。"
+        }
+      ]
+    },
+    "tip": "典共8畫；用典與曲比較，下方多一撇、一點。 先說語詞，再比較字形、讀音和意思。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

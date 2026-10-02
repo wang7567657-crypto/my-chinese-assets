@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_57ecc4ed278068bd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "濘",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "濘",
+    "groups": {
+      "shape": [
+        {
+          "char": "檸",
+          "why": "右邊同為寧",
+          "difference": "濘左是氵；檸左是木。"
+        },
+        {
+          "char": "獰",
+          "why": "右邊同為寧",
+          "difference": "濘左是氵；獰左是犭。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "寧",
+          "why": "讀音相同或接近：ㄋㄧㄥˋ",
+          "difference": "泥濘的濘讀四聲；寧可的寧也讀四聲，安寧的寧讀二聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "泥",
+          "why": "都與泥土有關",
+          "difference": "泥是泥土；濘用在泥濘，指水土混雜、黏溼。"
+        }
+      ],
+      "component": [
+        {
+          "char": "寧",
+          "why": "都有完整的寧",
+          "difference": "濘在寧左加氵；寧沒有氵。"
+        }
+      ]
+    },
+    "tip": "右邊依宀、心、皿、丁觀察；不要漏寫心。 先說語詞，再比較字形、讀音和意思。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

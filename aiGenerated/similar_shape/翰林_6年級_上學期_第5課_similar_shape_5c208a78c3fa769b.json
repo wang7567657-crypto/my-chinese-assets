@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_5c208a78c3fa769b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "霎",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "霎",
+    "similarChars": [
+      {
+        "char": "妾",
+        "similarity": "下方同為妾",
+        "difference": "霎在妾上加雨；妾沒有雨。"
+      },
+      {
+        "char": "霜",
+        "similarity": "上方同為雨",
+        "difference": "霎下是妾；霜下是相。"
+      },
+      {
+        "char": "霉",
+        "similarity": "上方同為雨",
+        "difference": "霎下是妾；霉下是每。"
+      },
+      {
+        "char": "霧",
+        "similarity": "上方同為雨",
+        "difference": "霎下是妾；霧下是務。"
+      },
+      {
+        "char": "雯",
+        "similarity": "上方同為雨",
+        "difference": "霎下是妾；雯下是文。"
+      },
+      {
+        "char": "雷",
+        "similarity": "上方同為雨",
+        "difference": "霎下是妾；雷下是田。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。妾由立與女組成，不要把下半寫成相或每。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

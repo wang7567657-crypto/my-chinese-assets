@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_542b9cb912b32e6e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "施",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "施",
+    "groups": {
+      "shape": [
+        {
+          "char": "拖",
+          "why": "右邊都有也",
+          "difference": "施左有方與右上短撇、橫；拖左是扌，右是也。"
+        },
+        {
+          "char": "池",
+          "why": "都有也的字形",
+          "difference": "施有方及右上短撇、橫；池左是氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "詩",
+          "why": "讀音相同或接近：ㄕ",
+          "difference": "施予是給予或實行；詩是詩歌。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "給",
+          "why": "施予與給予都與送出有關",
+          "difference": "施可搭配施予、施行；給常搭配給我、給予。"
+        }
+      ],
+      "component": [
+        {
+          "char": "他",
+          "why": "都有也的字形",
+          "difference": "他左是亻；施左是方，右上另有短撇、橫。"
+        }
+      ]
+    },
+    "tip": "與拖比較，施左邊是方，右上還有兩筆。 先說語詞，再比較字形、讀音和意思。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

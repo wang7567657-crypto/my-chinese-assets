@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_981c9413318a8e81",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "仁",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "仁",
+    "similarChars": [
+      {
+        "char": "任",
+        "similarity": "左邊同為亻，右邊都有橫筆",
+        "difference": "仁右是二；任右是壬，有中間豎筆。"
+      },
+      {
+        "char": "仟",
+        "similarity": "左邊同為亻",
+        "difference": "仁右是二；仟右是千，多撇與豎。"
+      },
+      {
+        "char": "什",
+        "similarity": "左邊同為亻",
+        "difference": "仁右是二；什右是十。"
+      },
+      {
+        "char": "仕",
+        "similarity": "左邊同為亻",
+        "difference": "仁右是二；仕右是士。"
+      },
+      {
+        "char": "二",
+        "similarity": "右邊部件相同",
+        "difference": "仁在二左加亻；二沒有亻。"
+      },
+      {
+        "char": "佞",
+        "similarity": "左邊同為亻，右上都有二",
+        "difference": "仁右只有二；佞右下另有女，較少使用。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。這是記字聯想；二只有兩橫，不能加中間豎變成任。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

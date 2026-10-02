@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_e501345b746e439d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "襟",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "襟",
+    "similarChars": [
+      {
+        "char": "禁",
+        "similarity": "右邊部件相同",
+        "difference": "襟在禁左加衤；禁沒有衤。"
+      },
+      {
+        "char": "噤",
+        "similarity": "右邊同為禁",
+        "difference": "襟左是衤；噤左是口。"
+      },
+      {
+        "char": "淋",
+        "similarity": "右上都有林",
+        "difference": "襟左是衤、右是禁；淋左是氵、右是林。"
+      },
+      {
+        "char": "森",
+        "similarity": "都有兩個並排的木",
+        "difference": "襟右是林加示；森是上木、下林，沒有衤。"
+      },
+      {
+        "char": "裘",
+        "similarity": "都有衣形筆畫",
+        "difference": "襟左是衤、右是禁；裘上是求、下是衣。"
+      },
+      {
+        "char": "衿",
+        "similarity": "左邊同為衤",
+        "difference": "襟右是禁；衿右是今，較少使用。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。衤是衣旁，不是礻；右下是示，不是木。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

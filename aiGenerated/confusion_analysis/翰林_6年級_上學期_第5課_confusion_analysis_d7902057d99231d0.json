@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第5課_confusion_analysis_d7902057d99231d0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "躁",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "躁",
+    "groups": {
+      "shape": [
+        {
+          "char": "燥",
+          "why": "右邊同為喿",
+          "difference": "躁左是足；燥左是火。"
+        },
+        {
+          "char": "噪",
+          "why": "右邊同為喿",
+          "difference": "躁左是足；噪左是口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "燥",
+          "why": "讀音相同或接近：ㄗㄠˋ",
+          "difference": "急躁指心情不安；乾燥指缺少水分。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "急",
+          "why": "都可能形容急切",
+          "difference": "急可指時間緊迫；躁常形容情緒不安，如急躁。"
+        }
+      ],
+      "component": [
+        {
+          "char": "澡",
+          "why": "右邊同為喿",
+          "difference": "躁左是足；澡左是氵。"
+        }
+      ]
+    },
+    "tip": "和燥、噪、澡比較左邊；右邊三個口、下面木。 先說語詞，再比較字形、讀音和意思。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}

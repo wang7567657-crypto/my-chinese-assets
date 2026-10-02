@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第5課_similar_shape_0a55625a02e26670",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "踏",
+    "lessonChars": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "踏",
+    "similarChars": [
+      {
+        "char": "蹈",
+        "similarity": "左邊同為足，右下都有日或臼的框形",
+        "difference": "踏右是水加日；蹈右是爫加臼。"
+      },
+      {
+        "char": "蹋",
+        "similarity": "左邊同為足，右上都有日",
+        "difference": "踏右上是水、下是日；蹋右上是日、下是羽。"
+      },
+      {
+        "char": "沓",
+        "similarity": "右邊部件相同",
+        "difference": "踏在沓左加足；沓沒有足。"
+      },
+      {
+        "char": "踢",
+        "similarity": "左邊同為足，右邊有日",
+        "difference": "踏右是水加日；踢右是易。"
+      },
+      {
+        "char": "跑",
+        "similarity": "左邊同為足",
+        "difference": "踏右是沓；跑右是包。"
+      },
+      {
+        "char": "踝",
+        "similarity": "左邊同為足，右邊有框形",
+        "difference": "踏右是沓；踝右是果。"
+      }
+    ],
+    "teachingTip": "先比共同部件，再圈出不同的位置。右下是日；與蹈右下臼、蹋右下羽比較。 較少用字只作字形比較，先練常用字。"
+  },
+  "createdAt": "2026-10-02T21:17:37.631Z"
+}
