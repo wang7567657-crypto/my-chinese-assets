@@ -1,0 +1,242 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_6年級_上學期_第5課_feature_ai_batch_be92ebbc7ff50480",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 17,
+    "batchCharacters": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "items": [
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_a19daff6cb4538c3",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "施",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_7ff0084981558513",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "濘",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_70a9090bb2a4889b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "躁",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_aad4afc7ec2a72b6",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "霎",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_71145446cfffc16e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "幹",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_df96f2457b3b1cd2",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "典",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_14abf841eca80ff4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "賀",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_90d1153fd0fc15a4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "遮",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_f191718311aae076",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "雋",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_262945578eae405c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "踏",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_5eb66ca71e97e1ba",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "穩",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_b63da229e6ff847b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "稀",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_335328f3ffb63f48",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "襟",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_7e8d2969b94f781d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "仁",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_19c284b7c7cba45c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "酥",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_6ff6ce8a1f0b6302",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "庇",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_6年級_上學期_第5課_memory_strategy_bb7fb5ea6e4324e9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "栽",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
+  },
+  "createdAt": "2026-10-02T21:13:00.232Z"
+}
