@@ -1,0 +1,58 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_2年級_上學期_第5課_component_split_e24696986984e2f4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "此",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      4,
+      2
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4
+      ],
+      [
+        5,
+        6
+      ]
+    ],
+    "components": [
+      "止",
+      "匕"
+    ],
+    "strokeCount": 6,
+    "radical": "止",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+    "verification": {
+      "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。另以兩色渲染逐字檢查部首和其餘筆畫。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6b64.xml"
+    }
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

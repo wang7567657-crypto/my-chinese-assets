@@ -1,0 +1,77 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第5課_similar_shape_faa82fdc06e8126f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "此",
+    "lessonChars": [
+      "蟲",
+      "森",
+      "動",
+      "物",
+      "王",
+      "坐",
+      "午",
+      "停",
+      "座",
+      "急",
+      "百",
+      "科",
+      "全",
+      "原",
+      "從",
+      "此",
+      "管",
+      "種",
+      "橋",
+      "圖",
+      "館"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "此",
+    "similarChars": [
+      {
+        "char": "比",
+        "similarity": "都有匕形",
+        "difference": "比左邊也是匕形；此左邊是止。"
+      },
+      {
+        "char": "止",
+        "similarity": "都有止部件",
+        "difference": "此右邊多匕。"
+      },
+      {
+        "char": "些",
+        "similarity": "都有此部件",
+        "difference": "些下面多二。"
+      },
+      {
+        "char": "柴",
+        "similarity": "都有此部件",
+        "difference": "柴下面多木。"
+      },
+      {
+        "char": "紫",
+        "similarity": "都有此部件",
+        "difference": "紫下面多糸。"
+      },
+      {
+        "char": "北",
+        "similarity": "兩側都像直立的筆畫組",
+        "difference": "北左邊不是止；此左邊有止的四筆。"
+      }
+    ],
+    "teachingTip": "先比較「此」和「比」：比左邊也是匕形；此左邊是止。其他字可由老師選兩個逐一比較。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

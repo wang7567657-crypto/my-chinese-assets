@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_f4c463dd156e4de9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "停",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "停",
+    "groups": {
+      "shape": [
+        {
+          "char": "亭",
+          "why": "都有亭部件",
+          "difference": "停左邊多亻。"
+        },
+        {
+          "char": "婷",
+          "why": "右邊都是亭",
+          "difference": "婷左邊是女；停左邊是亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "庭",
+          "why": "停、庭都讀ㄊㄧㄥˊ。",
+          "difference": "停下用停；庭院用庭。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "止",
+          "why": "都有不再繼續的意思。",
+          "difference": "停止常連用；停車用停，不寫止車。"
+        }
+      ],
+      "component": [
+        {
+          "char": "亭",
+          "why": "都有亭部件",
+          "difference": "停左邊多亻。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。停左邊多亻。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

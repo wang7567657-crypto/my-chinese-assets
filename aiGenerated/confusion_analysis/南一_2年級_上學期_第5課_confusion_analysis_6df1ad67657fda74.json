@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_6df1ad67657fda74",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "王",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "王",
+    "groups": {
+      "shape": [
+        {
+          "char": "玉",
+          "why": "都有三橫一豎",
+          "difference": "玉右下多一點。"
+        },
+        {
+          "char": "主",
+          "why": "都有三橫一豎",
+          "difference": "主上方多一點。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "亡",
+          "why": "王、亡都讀ㄨㄤˊ。",
+          "difference": "國王用王；死亡用亡。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "帝",
+          "why": "都可與統治者有關。",
+          "difference": "國王用王；皇帝用帝。"
+        }
+      ],
+      "component": [
+        {
+          "char": "玉",
+          "why": "都有三橫一豎",
+          "difference": "玉右下多一點。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。玉右下多一點。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

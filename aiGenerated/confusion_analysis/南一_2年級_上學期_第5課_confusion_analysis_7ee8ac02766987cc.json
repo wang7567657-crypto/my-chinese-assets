@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_7ee8ac02766987cc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "蟲",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蟲",
+    "groups": {
+      "shape": [
+        {
+          "char": "虫",
+          "why": "有相同的虫形",
+          "difference": "蟲有三個虫；虫只有一個。"
+        },
+        {
+          "char": "蠢",
+          "why": "下方都有兩個虫",
+          "difference": "蠢上面是春；蟲上面是虫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "崇",
+          "why": "蟲、崇都讀ㄔㄨㄥˊ。",
+          "difference": "小書蟲用蟲；崇拜用崇。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "獸",
+          "why": "都可能與動物有關。",
+          "difference": "書蟲用蟲；野獸用獸，不是同一類名稱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "虫",
+          "why": "有相同的虫形",
+          "difference": "蟲有三個虫；虫只有一個。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。蟲有三個虫；虫只有一個。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

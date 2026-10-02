@@ -1,0 +1,77 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第5課_similar_shape_a6571e5aeaf0d059",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "座",
+    "lessonChars": [
+      "蟲",
+      "森",
+      "動",
+      "物",
+      "王",
+      "坐",
+      "午",
+      "停",
+      "座",
+      "急",
+      "百",
+      "科",
+      "全",
+      "原",
+      "從",
+      "此",
+      "管",
+      "種",
+      "橋",
+      "圖",
+      "館"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "座",
+    "similarChars": [
+      {
+        "char": "坐",
+        "similarity": "都有坐部件",
+        "difference": "座外面多广。"
+      },
+      {
+        "char": "庄",
+        "similarity": "都有广與土",
+        "difference": "座裡面還有兩個人形；庄只有土。"
+      },
+      {
+        "char": "店",
+        "similarity": "外面都是广",
+        "difference": "店裡面是占；座裡面是坐。"
+      },
+      {
+        "char": "府",
+        "similarity": "外面都是广",
+        "difference": "府裡面是付；座裡面是坐。"
+      },
+      {
+        "char": "庭",
+        "similarity": "外面都是广",
+        "difference": "庭裡面是廷；座裡面是坐。"
+      },
+      {
+        "char": "庫",
+        "similarity": "外面都是广",
+        "difference": "庫裡面是車；座裡面是坐。"
+      }
+    ],
+    "teachingTip": "先比較「座」和「坐」：座外面多广。其他字可由老師選兩個逐一比較。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

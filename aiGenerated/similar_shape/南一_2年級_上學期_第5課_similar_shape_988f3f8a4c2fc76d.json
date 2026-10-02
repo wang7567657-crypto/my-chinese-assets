@@ -1,0 +1,77 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第5課_similar_shape_988f3f8a4c2fc76d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "管",
+    "lessonChars": [
+      "蟲",
+      "森",
+      "動",
+      "物",
+      "王",
+      "坐",
+      "午",
+      "停",
+      "座",
+      "急",
+      "百",
+      "科",
+      "全",
+      "原",
+      "從",
+      "此",
+      "管",
+      "種",
+      "橋",
+      "圖",
+      "館"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "管",
+    "similarChars": [
+      {
+        "char": "官",
+        "similarity": "下方都是官",
+        "difference": "管上方多⺮。"
+      },
+      {
+        "char": "館",
+        "similarity": "都有官部件",
+        "difference": "館左邊是飠；管上方是⺮。"
+      },
+      {
+        "char": "筒",
+        "similarity": "上方都是⺮，下方都有框形",
+        "difference": "筒下面是同；管下面是官。"
+      },
+      {
+        "char": "菅",
+        "similarity": "下方都是官",
+        "difference": "菅上方是艹；管上方是⺮。"
+      },
+      {
+        "char": "箝",
+        "similarity": "上方都是⺮",
+        "difference": "箝下方是扌與甘；管下方是官。"
+      },
+      {
+        "char": "筆",
+        "similarity": "上方都是⺮",
+        "difference": "筆下面是聿；管下面是官。"
+      }
+    ],
+    "teachingTip": "先比較「管」和「官」：管上方多⺮。其他字可由老師選兩個逐一比較。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

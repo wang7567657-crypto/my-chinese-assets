@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_f479c4a4b6dd1c64",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "管",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "管",
+    "groups": {
+      "shape": [
+        {
+          "char": "官",
+          "why": "下方都是官",
+          "difference": "管上方多⺮。"
+        },
+        {
+          "char": "館",
+          "why": "都有官部件",
+          "difference": "館左邊是飠；管上方是⺮。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "館",
+          "why": "管、館都讀ㄍㄨㄢˇ。",
+          "difference": "管理用管；圖書館用館。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "理",
+          "why": "都出現在處理事情的詞語中。",
+          "difference": "管理常連用，管與理不能省略或互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "官",
+          "why": "下方都是官",
+          "difference": "管上方多⺮。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。管上方多⺮。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

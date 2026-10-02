@@ -1,0 +1,49 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_5e3167fd0f040229",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "科",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "科",
+    "groups": {
+      "shape": [
+        {
+          "char": "料",
+          "why": "右邊都是斗",
+          "difference": "料左邊是米；科左邊是禾。"
+        },
+        {
+          "char": "斜",
+          "why": "右邊都是斗",
+          "difference": "斜左邊是余；科左邊是禾。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "顆",
+          "why": "科、顆都讀ㄎㄜ。",
+          "difference": "科學用科；一顆球用顆。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "料",
+          "why": "右邊都是斗",
+          "difference": "料左邊是米；科左邊是禾。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。料左邊是米；科左邊是禾。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

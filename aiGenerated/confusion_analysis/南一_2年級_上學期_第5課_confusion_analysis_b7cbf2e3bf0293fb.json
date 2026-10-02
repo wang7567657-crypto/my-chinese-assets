@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_b7cbf2e3bf0293fb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "物",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "物",
+    "groups": {
+      "shape": [
+        {
+          "char": "勿",
+          "why": "都有勿部件",
+          "difference": "物左邊多一個牜。"
+        },
+        {
+          "char": "牠",
+          "why": "左邊都是牜",
+          "difference": "牠右邊是也；物右邊是勿。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "務",
+          "why": "物、務都讀ㄨˋ。",
+          "difference": "動物用物；服務用務。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "品",
+          "why": "都可以指東西。",
+          "difference": "物品常連用，但動物不能改成動品。"
+        }
+      ],
+      "component": [
+        {
+          "char": "勿",
+          "why": "都有勿部件",
+          "difference": "物左邊多一個牜。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。物左邊多一個牜。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

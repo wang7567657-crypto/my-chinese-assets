@@ -1,0 +1,49 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_a99bad343635d397",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "午",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "午",
+    "groups": {
+      "shape": [
+        {
+          "char": "牛",
+          "why": "筆畫輪廓很接近",
+          "difference": "牛的豎向上穿過上方橫；午的豎從下方橫附近向下。"
+        },
+        {
+          "char": "干",
+          "why": "都有兩橫一豎",
+          "difference": "午左上多一撇。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "五",
+          "why": "午、五都讀ㄨˇ。",
+          "difference": "中午用午；數字五用五。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "牛",
+          "why": "筆畫輪廓很接近",
+          "difference": "牛的豎向上穿過上方橫；午的豎從下方橫附近向下。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。牛的豎向上穿過上方橫；午的豎從下方橫附近向下。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

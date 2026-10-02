@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_be04ddc282260876",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "急",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "急",
+    "groups": {
+      "shape": [
+        {
+          "char": "忌",
+          "why": "下面都是心",
+          "difference": "忌上面是己；急上面有刀形和彐形。"
+        },
+        {
+          "char": "怠",
+          "why": "下面都是心",
+          "difference": "怠上面是台；急上面不是台。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "集",
+          "why": "急、集都讀ㄐㄧˊ。",
+          "difference": "著急用急；集合用集。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "快",
+          "why": "都可能用在趕時間的情境。",
+          "difference": "急表示急切；快表示速度，不能直接互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "忌",
+          "why": "下面都是心",
+          "difference": "忌上面是己；急上面有刀形和彐形。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。忌上面是己；急上面有刀形和彐形。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

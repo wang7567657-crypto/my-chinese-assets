@@ -1,0 +1,77 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第5課_similar_shape_d8b7eaafc033ef03",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "王",
+    "lessonChars": [
+      "蟲",
+      "森",
+      "動",
+      "物",
+      "王",
+      "坐",
+      "午",
+      "停",
+      "座",
+      "急",
+      "百",
+      "科",
+      "全",
+      "原",
+      "從",
+      "此",
+      "管",
+      "種",
+      "橋",
+      "圖",
+      "館"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "王",
+    "similarChars": [
+      {
+        "char": "玉",
+        "similarity": "都有三橫一豎",
+        "difference": "玉右下多一點。"
+      },
+      {
+        "char": "主",
+        "similarity": "都有三橫一豎",
+        "difference": "主上方多一點。"
+      },
+      {
+        "char": "壬",
+        "similarity": "都有三橫與中間一豎",
+        "difference": "壬最上面是一撇；王最上面是一橫。"
+      },
+      {
+        "char": "土",
+        "similarity": "都有橫豎相交",
+        "difference": "王有三橫；土有兩橫。"
+      },
+      {
+        "char": "士",
+        "similarity": "都有橫豎相交",
+        "difference": "王多一橫；士上橫長、下橫短。"
+      },
+      {
+        "char": "五",
+        "similarity": "輪廓都有橫線與中間筆畫",
+        "difference": "王中間是一豎；五中間有轉折。"
+      }
+    ],
+    "teachingTip": "先比較「王」和「玉」：玉右下多一點。其他字可由老師選兩個逐一比較。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

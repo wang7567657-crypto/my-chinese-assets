@@ -1,0 +1,77 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第5課_similar_shape_f96eda2ff32331ed",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "物",
+    "lessonChars": [
+      "蟲",
+      "森",
+      "動",
+      "物",
+      "王",
+      "坐",
+      "午",
+      "停",
+      "座",
+      "急",
+      "百",
+      "科",
+      "全",
+      "原",
+      "從",
+      "此",
+      "管",
+      "種",
+      "橋",
+      "圖",
+      "館"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "物",
+    "similarChars": [
+      {
+        "char": "勿",
+        "similarity": "都有勿部件",
+        "difference": "物左邊多一個牜。"
+      },
+      {
+        "char": "牠",
+        "similarity": "左邊都是牜",
+        "difference": "牠右邊是也；物右邊是勿。"
+      },
+      {
+        "char": "牧",
+        "similarity": "左邊都是牜",
+        "difference": "牧右邊是攵；物右邊是勿。"
+      },
+      {
+        "char": "吻",
+        "similarity": "右邊都是勿",
+        "difference": "吻左邊是口；物左邊是牜。"
+      },
+      {
+        "char": "惚",
+        "similarity": "右側都能看到勿",
+        "difference": "惚左邊是忄，勿下面還有心；物沒有心。"
+      },
+      {
+        "char": "牛",
+        "similarity": "都有牛形部件",
+        "difference": "物的牛形在左邊，右邊還有勿；牛單獨成字。"
+      }
+    ],
+    "teachingTip": "先比較「物」和「勿」：物左邊多一個牜。其他字可由老師選兩個逐一比較。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

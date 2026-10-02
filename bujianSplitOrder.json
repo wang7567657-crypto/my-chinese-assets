@@ -6672,6 +6672,929 @@
         "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/64e0.xml"
       },
       "updatedAt": "2026-09-30T09:20:17.466Z"
+    },
+    "蟲": {
+      "structure": "品字",
+      "split": [
+        6,
+        12
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      ],
+      "components": [
+        "虫",
+        "其餘兩個虫"
+      ],
+      "strokeCount": 18,
+      "radical": "虫",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/87f2.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.258Z"
+    },
+    "森": {
+      "structure": "品字",
+      "split": [
+        4,
+        8
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      ],
+      "components": [
+        "木",
+        "其餘兩個木"
+      ],
+      "strokeCount": 12,
+      "radical": "木",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/68ee.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "動": {
+      "structure": "左右",
+      "split": [
+        2,
+        9
+      ],
+      "strokeGroups": [
+        [
+          10,
+          11
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "components": [
+        "力",
+        "重"
+      ],
+      "strokeCount": 11,
+      "radical": "力",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        10,
+        11
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/52d5.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "物": {
+      "structure": "左右",
+      "split": [
+        4,
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8
+        ]
+      ],
+      "components": [
+        "牜",
+        "勿"
+      ],
+      "strokeCount": 8,
+      "radical": "牛",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7269.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "王": {
+      "structure": "獨體",
+      "split": [
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "components": [
+        "王"
+      ],
+      "strokeCount": 4,
+      "radical": "玉",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "獨體字，保留完整字形，不硬拆；字典部首為玉。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/738b.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "坐": {
+      "structure": "上下",
+      "split": [
+        3,
+        4
+      ],
+      "strokeGroups": [
+        [
+          5,
+          6,
+          7
+        ],
+        [
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "components": [
+        "土",
+        "其餘部分"
+      ],
+      "strokeCount": 7,
+      "radical": "土",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        5,
+        6,
+        7
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5750.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "午": {
+      "structure": "獨體",
+      "split": [
+        2,
+        2
+      ],
+      "strokeGroups": [
+        [
+          3,
+          4
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "components": [
+        "十",
+        "其餘部分"
+      ],
+      "strokeCount": 4,
+      "radical": "十",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "僅以部首十與其餘筆畫分組，不另猜部件名稱。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5348.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "停": {
+      "structure": "左右",
+      "split": [
+        2,
+        9
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "亻",
+        "亭"
+      ],
+      "strokeCount": 11,
+      "radical": "人",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/505c.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "座": {
+      "structure": "半包圍",
+      "split": [
+        3,
+        7
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "components": [
+        "广",
+        "坐"
+      ],
+      "strokeCount": 10,
+      "radical": "广",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5ea7.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "急": {
+      "structure": "上下",
+      "split": [
+        4,
+        5
+      ],
+      "strokeGroups": [
+        [
+          6,
+          7,
+          8,
+          9
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "components": [
+        "心",
+        "其餘部分"
+      ],
+      "strokeCount": 9,
+      "radical": "心",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6025.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "百": {
+      "structure": "上下",
+      "split": [
+        5,
+        1
+      ],
+      "strokeGroups": [
+        [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        [
+          1
+        ]
+      ],
+      "components": [
+        "白",
+        "一"
+      ],
+      "strokeCount": 6,
+      "radical": "白",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/767e.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "科": {
+      "structure": "左右",
+      "split": [
+        5,
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "components": [
+        "禾",
+        "斗"
+      ],
+      "strokeCount": 9,
+      "radical": "禾",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/79d1.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "全": {
+      "structure": "上下",
+      "split": [
+        2,
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5,
+          6
+        ]
+      ],
+      "components": [
+        "入",
+        "王"
+      ],
+      "strokeCount": 6,
+      "radical": "入",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5168.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "原": {
+      "structure": "半包圍",
+      "split": [
+        2,
+        8
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "components": [
+        "厂",
+        "其餘部分"
+      ],
+      "strokeCount": 10,
+      "radical": "厂",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/539f.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "從": {
+      "structure": "左右",
+      "split": [
+        3,
+        8
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "彳",
+        "其餘部分"
+      ],
+      "strokeCount": 11,
+      "radical": "彳",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5f9e.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "此": {
+      "structure": "左右",
+      "split": [
+        4,
+        2
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6
+        ]
+      ],
+      "components": [
+        "止",
+        "匕"
+      ],
+      "strokeCount": 6,
+      "radical": "止",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6b64.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "管": {
+      "structure": "上下",
+      "split": [
+        6,
+        8
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      ],
+      "components": [
+        "⺮",
+        "官"
+      ],
+      "strokeCount": 14,
+      "radical": "竹",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7ba1.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "種": {
+      "structure": "左右",
+      "split": [
+        5,
+        9
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      ],
+      "components": [
+        "禾",
+        "重"
+      ],
+      "strokeCount": 14,
+      "radical": "禾",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7a2e.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "橋": {
+      "structure": "左右",
+      "split": [
+        4,
+        12
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      ],
+      "components": [
+        "木",
+        "喬"
+      ],
+      "strokeCount": 16,
+      "radical": "木",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6a4b.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "圖": {
+      "structure": "全包圍",
+      "split": [
+        3,
+        11
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          14
+        ],
+        [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      ],
+      "components": [
+        "囗",
+        "其餘部分"
+      ],
+      "strokeCount": 14,
+      "radical": "囗",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        14
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5716.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
+    },
+    "館": {
+      "structure": "左右",
+      "split": [
+        8,
+        8
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      ],
+      "components": [
+        "飠",
+        "官"
+      ],
+      "strokeCount": 16,
+      "radical": "食",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "依部首及其餘筆畫分組，保留原字位置與原筆順。",
+      "verification": {
+        "method": "核對 XML 筆畫數、原筆順軌跡與部首位置；檢查 Outline 無重複，分組完整且無重複筆畫。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/9928.xml"
+      },
+      "updatedAt": "2026-10-02T15:42:15.259Z"
     }
   },
   "description": "陽光智慧黑板部件拆分字典。只有 verified=true 的資料可用於教學分色與部件拼貼。",

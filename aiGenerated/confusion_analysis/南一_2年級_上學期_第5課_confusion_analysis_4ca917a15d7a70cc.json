@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_4ca917a15d7a70cc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "座",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "座",
+    "groups": {
+      "shape": [
+        {
+          "char": "坐",
+          "why": "都有坐部件",
+          "difference": "座外面多广。"
+        },
+        {
+          "char": "庄",
+          "why": "都有广與土",
+          "difference": "座裡面還有兩個人形；庄只有土。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "做",
+          "why": "座、做都讀ㄗㄨㄛˋ。",
+          "difference": "座位用座；做事用做。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "坐",
+          "why": "都與座位或姿勢有關。",
+          "difference": "一個座位用座；坐在椅子上用坐。"
+        }
+      ],
+      "component": [
+        {
+          "char": "坐",
+          "why": "都有坐部件",
+          "difference": "座外面多广。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。座外面多广。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

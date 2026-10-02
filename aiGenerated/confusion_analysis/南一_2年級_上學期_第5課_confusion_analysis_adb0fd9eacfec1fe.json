@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_adb0fd9eacfec1fe",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "從",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "從",
+    "groups": {
+      "shape": [
+        {
+          "char": "徒",
+          "why": "左邊都是彳",
+          "difference": "徒右邊是走；從右上有兩個人形。"
+        },
+        {
+          "char": "徐",
+          "why": "左邊都是彳",
+          "difference": "徐右邊是余；從右邊不是余。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "叢",
+          "why": "從、叢都讀ㄘㄨㄥˊ。",
+          "difference": "從前用從；草叢用叢。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "由",
+          "why": "都能出現在表示起點的句子。",
+          "difference": "從這裡出發用從；由我帶路用由，仍要看句子。"
+        }
+      ],
+      "component": [
+        {
+          "char": "徒",
+          "why": "左邊都是彳",
+          "difference": "徒右邊是走；從右上有兩個人形。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。徒右邊是走；從右上有兩個人形。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}
