@@ -2,7 +2,8 @@
   "taskType": "lesson_text_upload",
   "requestId": "lesson_text_upload_a2d641f0c8c2b4a3",
   "version": "1.0",
-  "status": "pending",
+  "status": "completed",
+  "source": "chatgpt",
   "input": {
     "publisher": "康軒",
     "grade": "3年級",
@@ -15,5 +16,14 @@
     "overwrite": true,
     "instruction": "這是使用者逐課勾選確認的課文更新。覆蓋前先把目前 JSON 完整保存到 lessonTextHistory 對應課次的時間戳版本，再更新正式檔；確認正式檔與備份都可讀取後，再將待辦移至 done。"
   },
-  "createdAt": "2026-10-02T17:27:47.442Z"
+  "data": {
+    "status": "done",
+    "targetPath": "lessonText/康軒_3年級_上學期_第1課.json",
+    "lesson": "第1課",
+    "corrected": false,
+    "action": "updated",
+    "historyPath": "lessonTextHistory/康軒_3年級_上學期_第1課/2026-10-02T17-30-14-427Z.json",
+    "note": "保留匯入的完整標題與原文。"
+  },
+  "createdAt": "2026-10-02T17:30:14.427Z"
 }

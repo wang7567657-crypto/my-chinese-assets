@@ -2,7 +2,7 @@
   "taskType": "lesson_text_upload",
   "requestId": "lesson_text_upload_aef5e176bd53057a",
   "version": "1.0",
-  "status": "pending",
+  "status": "done",
   "input": {
     "publisher": "康軒",
     "grade": "3年級",
@@ -15,5 +15,14 @@
     "overwrite": false,
     "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
   },
-  "createdAt": "2026-10-02T17:27:18.922Z"
+  "createdAt": "2026-10-02T17:27:18.922Z",
+  "processedAt": "2026-10-02T17:30:14.427Z",
+  "output": {
+    "status": "done",
+    "targetPath": "lessonText/康軒_3年級_上學期_第10課.json",
+    "lesson": "第10課",
+    "corrected": false,
+    "action": "created",
+    "note": "保留匯入的完整標題與原文。"
+  }
 }
