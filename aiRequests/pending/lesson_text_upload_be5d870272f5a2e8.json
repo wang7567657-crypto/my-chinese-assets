@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_be5d870272f5a2e8",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "1年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "title": "這是誰的",
+    "text": "一二三，\n這是我的。\n四五六，\n這是你的。\n七八九，\n這是他的。\n分好了，\n啊！\n多了一個，\n這是誰的？",
+    "fileName": "康軒_1年級_上學期_第2課.json",
+    "targetPath": "lessonText/康軒_1年級_上學期_第2課.json",
+    "overwrite": false,
+    "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
+  },
+  "createdAt": "2026-10-02T19:11:34.237Z"
+}
