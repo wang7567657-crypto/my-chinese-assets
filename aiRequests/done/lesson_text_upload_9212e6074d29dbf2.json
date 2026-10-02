@@ -1,0 +1,28 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_9212e6074d29dbf2",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "1年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "title": "秋千",
+    "text": "秋千，秋千，和我玩。\n上\n上\n上\n陪我上高山。\n下\n下\n下\n陪我到大海。\n秋千，秋千，我的好朋友，\n秋千，秋千，我們一起玩。",
+    "fileName": "康軒_1年級_上學期_第3課.json",
+    "targetPath": "lessonText/康軒_1年級_上學期_第3課.json",
+    "overwrite": false,
+    "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
+  },
+  "createdAt": "2026-10-02T19:11:36.374Z",
+  "processedAt": "2026-10-02T19:12:17.705Z",
+  "output": {
+    "status": "done",
+    "targetPath": "lessonText/康軒_1年級_上學期_第3課.json",
+    "lesson": "第3課",
+    "corrected": false,
+    "action": "created",
+    "note": "目標不存在，新增並保留匯入的完整標題與原文。"
+  }
+}
