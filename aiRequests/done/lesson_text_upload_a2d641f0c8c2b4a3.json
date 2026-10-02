@@ -1,0 +1,29 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_a2d641f0c8c2b4a3",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "title": "字的小旅行",
+    "text": "爺爺教我寫心字：\n「心是一葉舟，\n細雨灑輕舟，\n一點落舟前，\n一點落舟中，\n一點落舟後。」\n心的小船輕輕走，\n小船上要載什麼呢？\n只載自己好不好？\n不好，不好！\n一下變成息，愛休息。\n小船停下不航行。\n一下變成忌，愛忌妒。\n快樂消失太可惜。\n心的小船上，\n還是讓我載著你，\n讓你變成您，\n一起去看美麗新世界！\n朵朵對我說\n爺爺的話，是過去人們教孩子寫「心」字的口訣。「心」字中間那筆看似一條小舟，在「心的小船」加上不同的字，就能變出有趣的新字。我們一起練習看看吧！",
+    "fileName": "康軒_3年級_上學期_第1課.json",
+    "targetPath": "lessonText/康軒_3年級_上學期_第1課.json",
+    "overwrite": true,
+    "instruction": "這是使用者逐課勾選確認的課文更新。覆蓋前先把目前 JSON 完整保存到 lessonTextHistory 對應課次的時間戳版本，再更新正式檔；確認正式檔與備份都可讀取後，再將待辦移至 done。"
+  },
+  "createdAt": "2026-10-02T17:27:47.442Z",
+  "processedAt": "2026-10-02T17:30:14.427Z",
+  "output": {
+    "status": "done",
+    "targetPath": "lessonText/康軒_3年級_上學期_第1課.json",
+    "lesson": "第1課",
+    "corrected": false,
+    "action": "updated",
+    "historyPath": "lessonTextHistory/康軒_3年級_上學期_第1課/2026-10-02T17-30-14-427Z.json",
+    "note": "保留匯入的完整標題與原文。"
+  }
+}
