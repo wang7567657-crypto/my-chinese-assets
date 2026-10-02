@@ -1,17 +1,17 @@
 [
   {
-    "word": "泉水",
-    "meaning": "從地下自然流出來的水。",
-    "en_prompt": "Clear natural spring water flowing from a rock"
-  },
-  {
     "word": "溫泉",
-    "meaning": "從地下湧出的熱水，泡在裡面很舒服。",
-    "en_prompt": "A steaming outdoor hot spring pool surrounded by stones"
+    "meaning": "從地下自然流出且溫度較高的水，人們喜歡在冬天去泡。",
+    "en_prompt": "A relaxing natural hot spring surrounded by rocks and steam"
   },
   {
     "word": "噴泉",
-    "meaning": "利用壓力讓水往上噴出的裝飾性水柱。",
-    "en_prompt": "A beautiful decorative water fountain in a public park"
+    "meaning": "在公園或廣場中，利用壓力將水往上噴出的裝飾設施。",
+    "en_prompt": "A beautiful water fountain spraying high in a sunny park"
+  },
+  {
+    "word": "泉水",
+    "meaning": "從地底下自然流出來，非常清澈乾淨的水。",
+    "en_prompt": "Clear fresh spring water flowing out from a mountain rock"
   }
 ]
