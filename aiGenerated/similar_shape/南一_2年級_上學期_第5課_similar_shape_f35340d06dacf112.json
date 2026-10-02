@@ -1,0 +1,77 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第5課_similar_shape_f35340d06dacf112",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "森",
+    "lessonChars": [
+      "蟲",
+      "森",
+      "動",
+      "物",
+      "王",
+      "坐",
+      "午",
+      "停",
+      "座",
+      "急",
+      "百",
+      "科",
+      "全",
+      "原",
+      "從",
+      "此",
+      "管",
+      "種",
+      "橋",
+      "圖",
+      "館"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "森",
+    "similarChars": [
+      {
+        "char": "林",
+        "similarity": "都有並排的木",
+        "difference": "森上方多一個木。"
+      },
+      {
+        "char": "木",
+        "similarity": "都有木形",
+        "difference": "森有三個木；木只有一個。"
+      },
+      {
+        "char": "禁",
+        "similarity": "都有兩個並排的木",
+        "difference": "禁下方是示；森另外一個木在上方。"
+      },
+      {
+        "char": "焚",
+        "similarity": "都有兩個並排的木",
+        "difference": "焚下方是火；森上方是木。"
+      },
+      {
+        "char": "楚",
+        "similarity": "上方或下方有兩個木",
+        "difference": "楚下方不是木；森由三個木排列而成。"
+      },
+      {
+        "char": "淋",
+        "similarity": "都有林部件",
+        "difference": "淋左邊是氵；森上方是木。"
+      }
+    ],
+    "teachingTip": "先比較「森」和「林」：森上方多一個木。其他字可由老師選兩個逐一比較。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

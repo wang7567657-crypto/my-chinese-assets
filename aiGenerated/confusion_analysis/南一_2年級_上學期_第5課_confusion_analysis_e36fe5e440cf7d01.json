@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_e36fe5e440cf7d01",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "圖",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "圖",
+    "groups": {
+      "shape": [
+        {
+          "char": "圓",
+          "why": "外面都是囗",
+          "difference": "圓裡面是員；圖裡面上方有口形，下方有回形。"
+        },
+        {
+          "char": "團",
+          "why": "外面都是囗",
+          "difference": "團裡面是專；圖裡面不是專。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "途",
+          "why": "圖、途都讀ㄊㄨˊ。",
+          "difference": "圖片用圖；路途用途。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "畫",
+          "why": "都可與圖像有關。",
+          "difference": "圖片用圖；畫畫用畫，不直接互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "圓",
+          "why": "外面都是囗",
+          "difference": "圓裡面是員；圖裡面上方有口形，下方有回形。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。圓裡面是員；圖裡面上方有口形，下方有回形。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

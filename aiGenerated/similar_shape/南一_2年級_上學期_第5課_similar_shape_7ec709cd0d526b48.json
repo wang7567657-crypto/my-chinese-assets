@@ -1,0 +1,77 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第5課_similar_shape_7ec709cd0d526b48",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "急",
+    "lessonChars": [
+      "蟲",
+      "森",
+      "動",
+      "物",
+      "王",
+      "坐",
+      "午",
+      "停",
+      "座",
+      "急",
+      "百",
+      "科",
+      "全",
+      "原",
+      "從",
+      "此",
+      "管",
+      "種",
+      "橋",
+      "圖",
+      "館"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "急",
+    "similarChars": [
+      {
+        "char": "忌",
+        "similarity": "下面都是心",
+        "difference": "忌上面是己；急上面有刀形和彐形。"
+      },
+      {
+        "char": "怠",
+        "similarity": "下面都是心",
+        "difference": "怠上面是台；急上面不是台。"
+      },
+      {
+        "char": "忽",
+        "similarity": "下面都是心",
+        "difference": "忽上面是勿；急上面沒有勿的兩撇。"
+      },
+      {
+        "char": "怎",
+        "similarity": "下面都是心",
+        "difference": "怎上面是乍；急上面是另一種形狀。"
+      },
+      {
+        "char": "思",
+        "similarity": "下面都是心",
+        "difference": "思上面是田；急上面不是田。"
+      },
+      {
+        "char": "穩",
+        "similarity": "右下都能看到心與彐形",
+        "difference": "穩左邊有禾，右上有爫與工；急沒有這些部件。"
+      }
+    ],
+    "teachingTip": "先比較「急」和「忌」：忌上面是己；急上面有刀形和彐形。其他字可由老師選兩個逐一比較。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

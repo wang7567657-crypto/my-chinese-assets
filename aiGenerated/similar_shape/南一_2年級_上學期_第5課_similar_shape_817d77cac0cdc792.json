@@ -1,0 +1,77 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第5課_similar_shape_817d77cac0cdc792",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "種",
+    "lessonChars": [
+      "蟲",
+      "森",
+      "動",
+      "物",
+      "王",
+      "坐",
+      "午",
+      "停",
+      "座",
+      "急",
+      "百",
+      "科",
+      "全",
+      "原",
+      "從",
+      "此",
+      "管",
+      "種",
+      "橋",
+      "圖",
+      "館"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "種",
+    "similarChars": [
+      {
+        "char": "動",
+        "similarity": "都有重部件",
+        "difference": "動的力在右邊；種的禾在左邊。"
+      },
+      {
+        "char": "重",
+        "similarity": "都有重部件",
+        "difference": "種左邊多禾。"
+      },
+      {
+        "char": "腫",
+        "similarity": "右邊都是重",
+        "difference": "腫左邊是月；種左邊是禾。"
+      },
+      {
+        "char": "鍾",
+        "similarity": "右邊都是重",
+        "difference": "鍾左邊是金；種左邊是禾。"
+      },
+      {
+        "char": "鐘",
+        "similarity": "右邊都有密集橫線",
+        "difference": "鐘右邊是童，上方有立；種右邊是重。"
+      },
+      {
+        "char": "董",
+        "similarity": "都有重部件",
+        "difference": "董上方是艹；種左邊是禾。"
+      }
+    ],
+    "teachingTip": "先比較「種」和「動」：動的力在右邊；種的禾在左邊。其他字可由老師選兩個逐一比較。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

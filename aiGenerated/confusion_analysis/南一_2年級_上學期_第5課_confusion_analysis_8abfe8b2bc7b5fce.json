@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_8abfe8b2bc7b5fce",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "種",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "種",
+    "groups": {
+      "shape": [
+        {
+          "char": "動",
+          "why": "都有重部件",
+          "difference": "動的力在右邊；種的禾在左邊。"
+        },
+        {
+          "char": "重",
+          "why": "都有重部件",
+          "difference": "種左邊多禾。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "腫",
+          "why": "種類、種子的種與腫都讀ㄓㄨㄥˇ；種植的種讀ㄓㄨㄥˋ。",
+          "difference": "種類用種；腫起來用腫。"
+        },
+        {
+          "char": "眾",
+          "why": "種植的種和眾都讀ㄓㄨㄥˋ。",
+          "difference": "種樹用種；觀眾用眾。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "類",
+          "why": "都能用於分類的詞語。",
+          "difference": "種類常連用；種子用種，不能改成類子。"
+        }
+      ],
+      "component": [
+        {
+          "char": "動",
+          "why": "都有重部件",
+          "difference": "動的力在右邊；種的禾在左邊。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。動的力在右邊；種的禾在左邊。「種類」讀ㄓㄨㄥˇ，「種植」讀ㄓㄨㄥˋ。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

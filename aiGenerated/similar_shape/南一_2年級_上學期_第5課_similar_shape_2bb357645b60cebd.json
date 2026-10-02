@@ -1,0 +1,77 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第5課_similar_shape_2bb357645b60cebd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "停",
+    "lessonChars": [
+      "蟲",
+      "森",
+      "動",
+      "物",
+      "王",
+      "坐",
+      "午",
+      "停",
+      "座",
+      "急",
+      "百",
+      "科",
+      "全",
+      "原",
+      "從",
+      "此",
+      "管",
+      "種",
+      "橋",
+      "圖",
+      "館"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "停",
+    "similarChars": [
+      {
+        "char": "亭",
+        "similarity": "都有亭部件",
+        "difference": "停左邊多亻。"
+      },
+      {
+        "char": "婷",
+        "similarity": "右邊都是亭",
+        "difference": "婷左邊是女；停左邊是亻。"
+      },
+      {
+        "char": "訂",
+        "similarity": "都有丁形",
+        "difference": "訂左邊是言、右邊只有丁；停右邊的亭上方還有亠、口、冖。"
+      },
+      {
+        "char": "高",
+        "similarity": "上方都有亠與口",
+        "difference": "高下方是冂和口；停有亻，亭下方是丁。"
+      },
+      {
+        "char": "亮",
+        "similarity": "上方都有亠、口與冖",
+        "difference": "亮下面是儿；停右邊下面是丁。"
+      },
+      {
+        "char": "享",
+        "similarity": "上方都有亠與口",
+        "difference": "享下面是子；停右邊下面是冖和丁。"
+      }
+    ],
+    "teachingTip": "先比較「停」和「亭」：停左邊多亻。其他字可由老師選兩個逐一比較。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

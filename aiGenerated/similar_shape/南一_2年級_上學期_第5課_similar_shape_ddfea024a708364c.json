@@ -1,0 +1,77 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第5課_similar_shape_ddfea024a708364c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "圖",
+    "lessonChars": [
+      "蟲",
+      "森",
+      "動",
+      "物",
+      "王",
+      "坐",
+      "午",
+      "停",
+      "座",
+      "急",
+      "百",
+      "科",
+      "全",
+      "原",
+      "從",
+      "此",
+      "管",
+      "種",
+      "橋",
+      "圖",
+      "館"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "圖",
+    "similarChars": [
+      {
+        "char": "圓",
+        "similarity": "外面都是囗",
+        "difference": "圓裡面是員；圖裡面上方有口形，下方有回形。"
+      },
+      {
+        "char": "團",
+        "similarity": "外面都是囗",
+        "difference": "團裡面是專；圖裡面不是專。"
+      },
+      {
+        "char": "國",
+        "similarity": "外面都是囗",
+        "difference": "國裡面是或；圖裡面沒有戈。"
+      },
+      {
+        "char": "回",
+        "similarity": "都有套著口形的框",
+        "difference": "回裡面只有一個口；圖內部筆畫較多。"
+      },
+      {
+        "char": "園",
+        "similarity": "外面都是囗",
+        "difference": "園裡面是袁；圖裡面不是袁。"
+      },
+      {
+        "char": "圍",
+        "similarity": "外面都是囗",
+        "difference": "圍裡面是韋；圖裡面不是韋。"
+      }
+    ],
+    "teachingTip": "先比較「圖」和「圓」：圓裡面是員；圖裡面上方有口形，下方有回形。其他字可由老師選兩個逐一比較。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

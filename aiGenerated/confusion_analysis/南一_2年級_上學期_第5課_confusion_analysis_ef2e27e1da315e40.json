@@ -1,0 +1,49 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_ef2e27e1da315e40",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "百",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "百",
+    "groups": {
+      "shape": [
+        {
+          "char": "白",
+          "why": "下方都有白形",
+          "difference": "百上方多一橫。"
+        },
+        {
+          "char": "日",
+          "why": "都有方框與裡面的橫",
+          "difference": "百上方有長橫與一撇；日沒有。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "擺",
+          "why": "百、擺都讀ㄅㄞˇ。",
+          "difference": "一百用百；擺放用擺。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "白",
+          "why": "下方都有白形",
+          "difference": "百上方多一橫。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。百上方多一橫。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

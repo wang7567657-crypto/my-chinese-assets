@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_1756729f9502058c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "此",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "此",
+    "groups": {
+      "shape": [
+        {
+          "char": "比",
+          "why": "都有匕形",
+          "difference": "比左邊也是匕形；此左邊是止。"
+        },
+        {
+          "char": "止",
+          "why": "都有止部件",
+          "difference": "此右邊多匕。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "齒",
+          "why": "此讀ㄘˇ；齒讀ㄔˇ，聲母不同。",
+          "difference": "此處用此；牙齒用齒。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "這",
+          "why": "都有指示的用法。",
+          "difference": "此處相當於這裡；固定詞到此為止用此。"
+        }
+      ],
+      "component": [
+        {
+          "char": "比",
+          "why": "都有匕形",
+          "difference": "比左邊也是匕形；此左邊是止。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。比左邊也是匕形；此左邊是止。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

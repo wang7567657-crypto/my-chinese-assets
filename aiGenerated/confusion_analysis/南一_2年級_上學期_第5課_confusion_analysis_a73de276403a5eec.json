@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_a73de276403a5eec",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "動",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "動",
+    "groups": {
+      "shape": [
+        {
+          "char": "重",
+          "why": "都有重部件",
+          "difference": "動右邊多一個力。"
+        },
+        {
+          "char": "勳",
+          "why": "右邊都是力",
+          "difference": "勳左邊是熏，下方有四點；動左邊是重。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "洞",
+          "why": "動、洞都讀ㄉㄨㄥˋ。",
+          "difference": "活動用動；山洞用洞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "行",
+          "why": "都可表示動作。",
+          "difference": "活動用動；行走用行，要看整個詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "重",
+          "why": "都有重部件",
+          "difference": "動右邊多一個力。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。動右邊多一個力。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

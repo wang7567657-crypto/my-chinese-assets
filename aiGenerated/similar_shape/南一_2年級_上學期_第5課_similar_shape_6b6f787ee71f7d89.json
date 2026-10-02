@@ -1,0 +1,77 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第5課_similar_shape_6b6f787ee71f7d89",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "動",
+    "lessonChars": [
+      "蟲",
+      "森",
+      "動",
+      "物",
+      "王",
+      "坐",
+      "午",
+      "停",
+      "座",
+      "急",
+      "百",
+      "科",
+      "全",
+      "原",
+      "從",
+      "此",
+      "管",
+      "種",
+      "橋",
+      "圖",
+      "館"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "動",
+    "similarChars": [
+      {
+        "char": "重",
+        "similarity": "都有重部件",
+        "difference": "動右邊多一個力。"
+      },
+      {
+        "char": "勳",
+        "similarity": "右邊都是力",
+        "difference": "勳左邊是熏，下方有四點；動左邊是重。"
+      },
+      {
+        "char": "種",
+        "similarity": "都有重部件",
+        "difference": "種左邊是禾；動的力在右邊。"
+      },
+      {
+        "char": "董",
+        "similarity": "都有重部件",
+        "difference": "董上方是艹；動右邊是力。"
+      },
+      {
+        "char": "童",
+        "similarity": "下方輪廓都有里形",
+        "difference": "童上方是立；動左邊是重，右邊有力。"
+      },
+      {
+        "char": "慟",
+        "similarity": "都有動部件",
+        "difference": "慟左邊多忄。"
+      }
+    ],
+    "teachingTip": "先比較「動」和「重」：動右邊多一個力。其他字可由老師選兩個逐一比較。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

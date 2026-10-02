@@ -1,0 +1,77 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第5課_similar_shape_6b0ede01d355da59",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "館",
+    "lessonChars": [
+      "蟲",
+      "森",
+      "動",
+      "物",
+      "王",
+      "坐",
+      "午",
+      "停",
+      "座",
+      "急",
+      "百",
+      "科",
+      "全",
+      "原",
+      "從",
+      "此",
+      "管",
+      "種",
+      "橋",
+      "圖",
+      "館"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "館",
+    "similarChars": [
+      {
+        "char": "管",
+        "similarity": "都有官部件",
+        "difference": "管上方是⺮；館左邊是飠。"
+      },
+      {
+        "char": "官",
+        "similarity": "都有官部件",
+        "difference": "館左邊多飠。"
+      },
+      {
+        "char": "棺",
+        "similarity": "右邊都是官",
+        "difference": "棺左邊是木；館左邊是飠。"
+      },
+      {
+        "char": "菅",
+        "similarity": "都有官部件",
+        "difference": "菅上方是艹；館左邊是飠。"
+      },
+      {
+        "char": "飯",
+        "similarity": "左邊都是飠",
+        "difference": "飯右邊是反；館右邊是官。"
+      },
+      {
+        "char": "飲",
+        "similarity": "左邊都是飠",
+        "difference": "飲右邊是欠；館右邊是官。"
+      }
+    ],
+    "teachingTip": "先比較「館」和「管」：管上方是⺮；館左邊是飠。其他字可由老師選兩個逐一比較。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

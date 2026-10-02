@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_f94516c56843a375",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "全",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "全",
+    "groups": {
+      "shape": [
+        {
+          "char": "金",
+          "why": "上方都有覆蓋下面的撇捺",
+          "difference": "金下方有兩點；全下方是王。"
+        },
+        {
+          "char": "王",
+          "why": "下方都有王形",
+          "difference": "全上方多入形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "泉",
+          "why": "全、泉都讀ㄑㄩㄢˊ。",
+          "difference": "全部用全；泉水用泉。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "都",
+          "why": "都可能表示沒有例外。",
+          "difference": "全部用全；大家都來用都。"
+        }
+      ],
+      "component": [
+        {
+          "char": "金",
+          "why": "上方都有覆蓋下面的撇捺",
+          "difference": "金下方有兩點；全下方是王。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。金下方有兩點；全下方是王。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

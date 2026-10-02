@@ -1,0 +1,77 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第5課_similar_shape_7f6a70ab2e05a16f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "原",
+    "lessonChars": [
+      "蟲",
+      "森",
+      "動",
+      "物",
+      "王",
+      "坐",
+      "午",
+      "停",
+      "座",
+      "急",
+      "百",
+      "科",
+      "全",
+      "原",
+      "從",
+      "此",
+      "管",
+      "種",
+      "橋",
+      "圖",
+      "館"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "原",
+    "similarChars": [
+      {
+        "char": "源",
+        "similarity": "都有原部件",
+        "difference": "源左邊多氵。"
+      },
+      {
+        "char": "願",
+        "similarity": "都有原部件",
+        "difference": "願右邊多頁。"
+      },
+      {
+        "char": "愿",
+        "similarity": "都有原部件",
+        "difference": "愿下方多心。"
+      },
+      {
+        "char": "泉",
+        "similarity": "裡面都有白形",
+        "difference": "泉下方是水且沒有厂；原有厂，下方是小形。"
+      },
+      {
+        "char": "厚",
+        "similarity": "外面都是厂",
+        "difference": "厚裡面是日與子；原裡面是白與小形。"
+      },
+      {
+        "char": "白",
+        "similarity": "都有白形部件",
+        "difference": "原外面有厂，白下面還有小形。"
+      }
+    ],
+    "teachingTip": "先比較「原」和「源」：源左邊多氵。其他字可由老師選兩個逐一比較。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

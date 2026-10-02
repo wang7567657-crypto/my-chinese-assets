@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_22ca798a422af54b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "森",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "森",
+    "groups": {
+      "shape": [
+        {
+          "char": "林",
+          "why": "都有並排的木",
+          "difference": "森上方多一個木。"
+        },
+        {
+          "char": "木",
+          "why": "都有木形",
+          "difference": "森有三個木；木只有一個。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "深",
+          "why": "森讀ㄙㄣ；深讀ㄕㄣ，聲母不同。",
+          "difference": "森林用森；深淺用深。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "林",
+          "why": "都與樹木聚在一起有關。",
+          "difference": "森林常連用，但森有三個木，林有兩個木。"
+        }
+      ],
+      "component": [
+        {
+          "char": "林",
+          "why": "都有並排的木",
+          "difference": "森上方多一個木。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。森上方多一個木。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}

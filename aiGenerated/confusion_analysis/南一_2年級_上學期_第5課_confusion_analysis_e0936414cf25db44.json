@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第5課_confusion_analysis_e0936414cf25db44",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "原",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "原",
+    "groups": {
+      "shape": [
+        {
+          "char": "源",
+          "why": "都有原部件",
+          "difference": "源左邊多氵。"
+        },
+        {
+          "char": "願",
+          "why": "都有原部件",
+          "difference": "願右邊多頁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "園",
+          "why": "原、園都讀ㄩㄢˊ。",
+          "difference": "原因用原；公園用園。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "初",
+          "why": "都可能與開始有關。",
+          "difference": "原來用原；最初用初。"
+        }
+      ],
+      "component": [
+        {
+          "char": "源",
+          "why": "都有原部件",
+          "difference": "源左邊多氵。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回語詞。源左邊多氵。"
+  },
+  "createdAt": "2026-10-02T15:41:50.420Z"
+}
