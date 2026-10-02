@@ -2,7 +2,7 @@
   "taskType": "feature_ai_batch",
   "requestId": "翰林_6年級_上學期_第5課_feature_ai_batch_d2480b9badbfe765",
   "version": "1.0",
-  "status": "pending",
+  "status": "done",
   "input": {
     "publisher": "翰林",
     "grade": "6年級",
@@ -289,5 +289,29 @@
     ],
     "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
   },
-  "createdAt": "2026-10-02T21:07:06.081Z"
+  "createdAt": "2026-10-02T21:07:06.081Z",
+  "processedAt": "2026-10-02T21:10:34.996Z",
+  "output": {
+    "status": "done",
+    "completedCount": 17,
+    "resultPaths": [
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_e426f8f836edc927.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_36d2d9f944b65ccc.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_b25a1d5eca1745bd.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_2b8903804e748d20.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_b81e6143cece80ee.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_2eeca4741eedd205.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_29f97ae09ead4100.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_6bdb67e6d8eab0e7.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_0d63dd2685f3115b.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_69f4502754b0ce24.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_57486649add3f230.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_42040bd66f00bbad.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_656651f6d5cf54d6.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_6fd8f58697af653d.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_6db3afb6c7dec5f0.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_fb0b6cbe8a45f858.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第5課_component_split_f9a4c145ea3d9db1.json"
+    ]
+  }
 }
