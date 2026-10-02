@@ -1,0 +1,19 @@
+{
+  "taskType": "lesson_text_upload",
+  "requestId": "lesson_text_upload_506fd255f5c56380",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "康軒",
+    "grade": "1年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "title": "拍拍手",
+    "text": "拍拍手，\n拍一拍。\n左拍右拍\n拍拍拍。\n你拍手，\n他也拍，\n上拍下拍\n拍拍拍。",
+    "fileName": "康軒_1年級_上學期_第1課.json",
+    "targetPath": "lessonText/康軒_1年級_上學期_第1課.json",
+    "overwrite": false,
+    "instruction": "這是 Word 批次匯入的新增課文。只在目標檔案不存在時新增；若處理時發現已存在，必須略過且不得覆蓋。"
+  },
+  "createdAt": "2026-10-02T19:11:31.761Z"
+}
