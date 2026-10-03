@@ -1,0 +1,248 @@
+{
+  "taskType": "listening_quiz",
+  "requestId": "翰林_6年級_上學期_第6課_listening_quiz_272f1f72378b68f1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "chars": [
+      "嘲",
+      "詼",
+      "僵",
+      "侃",
+      "競",
+      "醜",
+      "哄",
+      "判",
+      "諷",
+      "丐",
+      "貶",
+      "捏",
+      "吻",
+      "坦",
+      "魅"
+    ],
+    "count": 15,
+    "level": "國小中高年級"
+  },
+  "data": {
+    "title": "翰林六上第6課生字聽力闖關",
+    "questions": [
+      {
+        "id": 1,
+        "char": "嘲",
+        "zhuyin": "ㄔㄠˊ",
+        "word": "自嘲",
+        "wordZhuyin": "ㄗˋ ㄔㄠˊ",
+        "options": [
+          "嘲",
+          "吵",
+          "超",
+          "炒"
+        ],
+        "explanation": "自嘲是用幽默的話評論自己的小缺點。"
+      },
+      {
+        "id": 2,
+        "char": "詼",
+        "zhuyin": "ㄏㄨㄟ",
+        "word": "詼諧",
+        "wordZhuyin": "ㄏㄨㄟ ㄒㄧㄝˊ",
+        "options": [
+          "詼",
+          "回",
+          "悔",
+          "會"
+        ],
+        "explanation": "詼諧指話語幽默有趣；詼讀一聲。"
+      },
+      {
+        "id": 3,
+        "char": "僵",
+        "zhuyin": "ㄐㄧㄤ",
+        "word": "僵硬",
+        "wordZhuyin": "ㄐㄧㄤ ㄧㄥˋ",
+        "options": [
+          "僵",
+          "講",
+          "降",
+          "獎"
+        ],
+        "explanation": "僵硬是不柔軟、不靈活；僵讀一聲。"
+      },
+      {
+        "id": 4,
+        "char": "侃",
+        "zhuyin": "ㄎㄢˇ",
+        "word": "調侃",
+        "wordZhuyin": "ㄊㄧㄠˊ ㄎㄢˇ",
+        "options": [
+          "侃",
+          "刊",
+          "看",
+          "勘"
+        ],
+        "explanation": "調侃是用言語開玩笑；侃讀三聲。"
+      },
+      {
+        "id": 5,
+        "char": "競",
+        "zhuyin": "ㄐㄧㄥˋ",
+        "word": "競爭",
+        "wordZhuyin": "ㄐㄧㄥˋ ㄓㄥ",
+        "options": [
+          "競",
+          "京",
+          "警",
+          "精"
+        ],
+        "explanation": "競爭表示彼此努力爭取勝利；競讀四聲。"
+      },
+      {
+        "id": 6,
+        "char": "醜",
+        "zhuyin": "ㄔㄡˇ",
+        "word": "出醜",
+        "wordZhuyin": "ㄔㄨ ㄔㄡˇ",
+        "options": [
+          "醜",
+          "抽",
+          "仇",
+          "臭"
+        ],
+        "explanation": "出醜指表現失誤而感到難為情；醜讀三聲。"
+      },
+      {
+        "id": 7,
+        "char": "哄",
+        "zhuyin": "ㄏㄨㄥ",
+        "word": "哄堂大笑",
+        "wordZhuyin": "ㄏㄨㄥ ㄊㄤˊ ㄉㄚˋ ㄒㄧㄠˋ",
+        "options": [
+          "哄",
+          "紅",
+          "拱",
+          "共"
+        ],
+        "explanation": "哄堂大笑表示大家一起大笑；這裡的哄讀一聲。"
+      },
+      {
+        "id": 8,
+        "char": "判",
+        "zhuyin": "ㄆㄢˋ",
+        "word": "判斷",
+        "wordZhuyin": "ㄆㄢˋ ㄉㄨㄢˋ",
+        "options": [
+          "判",
+          "盤",
+          "胖",
+          "伴"
+        ],
+        "explanation": "判斷是分析資料後決定對錯或真假；判讀四聲。"
+      },
+      {
+        "id": 9,
+        "char": "諷",
+        "zhuyin": "ㄈㄥˋ",
+        "word": "諷刺",
+        "wordZhuyin": "ㄈㄥˋ ㄘˋ",
+        "options": [
+          "諷",
+          "峰",
+          "逢",
+          "否"
+        ],
+        "explanation": "諷刺是用帶有批評意味的話語指出問題；諷讀四聲。"
+      },
+      {
+        "id": 10,
+        "char": "丐",
+        "zhuyin": "ㄍㄞˋ",
+        "word": "乞丐",
+        "wordZhuyin": "ㄑㄧˇ ㄍㄞˋ",
+        "options": [
+          "丐",
+          "該",
+          "改",
+          "開"
+        ],
+        "explanation": "乞丐指靠向人乞求財物生活的人；丐讀四聲。"
+      },
+      {
+        "id": 11,
+        "char": "貶",
+        "zhuyin": "ㄅㄧㄢˇ",
+        "word": "貶低",
+        "wordZhuyin": "ㄅㄧㄢˇ ㄉㄧ",
+        "options": [
+          "貶",
+          "邊",
+          "變",
+          "便"
+        ],
+        "explanation": "貶低是把人的價值或能力說得很低；貶讀三聲。"
+      },
+      {
+        "id": 12,
+        "char": "捏",
+        "zhuyin": "ㄋㄧㄝ",
+        "word": "捏造",
+        "wordZhuyin": "ㄋㄧㄝ ㄗㄠˋ",
+        "options": [
+          "捏",
+          "列",
+          "聶",
+          "鎳"
+        ],
+        "explanation": "捏造是編出不真實的內容；捏讀一聲。"
+      },
+      {
+        "id": 13,
+        "char": "吻",
+        "zhuyin": "ㄨㄣˇ",
+        "word": "口吻",
+        "wordZhuyin": "ㄎㄡˇ ㄨㄣˇ",
+        "options": [
+          "吻",
+          "文",
+          "問",
+          "溫"
+        ],
+        "explanation": "口吻指說話的語氣；吻讀三聲。"
+      },
+      {
+        "id": 14,
+        "char": "坦",
+        "zhuyin": "ㄊㄢˇ",
+        "word": "坦然",
+        "wordZhuyin": "ㄊㄢˇ ㄖㄢˊ",
+        "options": [
+          "坦",
+          "談",
+          "炭",
+          "壇"
+        ],
+        "explanation": "坦然指心情平靜、不逃避；坦讀三聲。"
+      },
+      {
+        "id": 15,
+        "char": "魅",
+        "zhuyin": "ㄇㄟˋ",
+        "word": "魅力",
+        "wordZhuyin": "ㄇㄟˋ ㄌㄧˋ",
+        "options": [
+          "魅",
+          "梅",
+          "美",
+          "眉"
+        ],
+        "explanation": "魅力是吸引人的力量；魅讀四聲。"
+      }
+    ]
+  },
+  "createdAt": "2026-10-03T18:19:47.900Z"
+}
