@@ -2,7 +2,7 @@
   "taskType": "feature_ai_batch",
   "requestId": "翰林_6年級_上學期_第6課_feature_ai_batch_ac0f3c92011cd08d",
   "version": "1.0",
-  "status": "pending",
+  "status": "done",
   "input": {
     "publisher": "翰林",
     "grade": "6年級",
@@ -92,5 +92,13 @@
     ],
     "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
   },
-  "createdAt": "2026-10-03T18:06:14.096Z"
+  "createdAt": "2026-10-03T18:06:14.096Z",
+  "processedAt": "2026-10-03T18:09:33.115Z",
+  "output": {
+    "status": "done",
+    "completedCount": 1,
+    "resultPaths": [
+      "aiGenerated/fillblank_generate/翰林_6年級_上學期_第6課_fillblank_generate_a05182a4186b4cfd.json"
+    ]
+  }
 }
