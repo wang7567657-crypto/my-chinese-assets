@@ -2,7 +2,7 @@
   "taskType": "feature_ai_batch",
   "requestId": "翰林_6年級_上學期_第6課_feature_ai_batch_e507bcbbb6b57577",
   "version": "1.0",
-  "status": "pending",
+  "status": "done",
   "input": {
     "publisher": "翰林",
     "grade": "6年級",
@@ -257,5 +257,27 @@
     ],
     "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
   },
-  "createdAt": "2026-10-03T18:05:46.625Z"
+  "createdAt": "2026-10-03T18:05:46.625Z",
+  "processedAt": "2026-10-03T18:09:33.115Z",
+  "output": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_a97f7fce01e75208.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_07e2e5ab2e412388.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_4b7becc35b87aa6e.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_adcbed0163d8f395.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_cd92278bdc069843.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_1b96ccaf9eeabda3.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_b390d5698bca9f42.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_4e3f49cc515debdc.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_a858de34a5b4769b.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_ab0ffba13d06bd5d.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_a054fde3de2dc489.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_2fbee5fa8d8deaa1.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_8ae36a5041d71d45.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_ff6e538778db6f8e.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第6課_component_split_2a37f374dcdbdf76.json"
+    ]
+  }
 }

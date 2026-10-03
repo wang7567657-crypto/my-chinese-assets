@@ -1,0 +1,25 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_6年級_上學期_第6課_feature_ai_batch_ac0f3c92011cd08d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "featureTaskType": "fillblank_generate",
+    "featureName": "填空測驗",
+    "itemCount": 1,
+    "batchCharacters": []
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 1,
+    "resultPaths": [
+      "aiGenerated/fillblank_generate/翰林_6年級_上學期_第6課_fillblank_generate_a05182a4186b4cfd.json"
+    ]
+  },
+  "createdAt": "2026-10-03T18:09:33.115Z"
+}
