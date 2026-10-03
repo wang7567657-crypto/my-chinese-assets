@@ -2,7 +2,7 @@
   "taskType": "material_tsv_generate",
   "requestId": "翰林_6年級_上學期_第5課_material_tsv_generate_f92146d918c90e69",
   "version": "1.0",
-  "status": "pending",
+  "status": "done",
   "input": {
     "publisher": "翰林",
     "grade": "6年級",
@@ -51,5 +51,11 @@
     "level": "國小中高年級",
     "formatVersion": "tsv-v1"
   },
-  "createdAt": "2026-10-03T17:58:39.622Z"
+  "createdAt": "2026-10-03T17:58:39.622Z",
+  "processedAt": "2026-10-03T18:03:14.737Z",
+  "output": {
+    "status": "done",
+    "targetPath": "aiMaterials/翰林_6年級_第5課_primary.tsv",
+    "rowCount": 17
+  }
 }
