@@ -1,0 +1,69 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_6年級_上學期_第5課_feature_ai_batch_1b67154a0497858b",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "featureTaskType": "listening_quiz",
+    "featureName": "聽力闖關",
+    "itemCount": 1,
+    "batchCharacters": [
+      "施",
+      "濘",
+      "躁",
+      "霎",
+      "幹",
+      "典",
+      "賀",
+      "遮",
+      "雋",
+      "踏",
+      "穩",
+      "稀",
+      "襟",
+      "仁",
+      "酥",
+      "庇",
+      "栽"
+    ],
+    "items": [
+      {
+        "taskType": "listening_quiz",
+        "requestId": "翰林_6年級_上學期_第5課_listening_quiz_ee9877e905c129c8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "chars": [
+            "施",
+            "濘",
+            "躁",
+            "霎",
+            "幹",
+            "典",
+            "賀",
+            "遮",
+            "雋",
+            "踏",
+            "穩",
+            "稀",
+            "襟",
+            "仁",
+            "酥",
+            "庇",
+            "栽"
+          ],
+          "count": 17,
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
+  },
+  "createdAt": "2026-10-03T17:58:47.444Z"
+}
