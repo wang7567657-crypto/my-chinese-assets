@@ -1,0 +1,27 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_2年級_上學期_第4課_feature_ai_batch_244973a006a1c965",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "featureTaskType": "component_split",
+    "featureName": "部件拆分",
+    "itemCount": 1,
+    "batchCharacters": [
+      "麻"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 1,
+    "resultPaths": [
+      "aiGenerated/component_split/南一_2年級_上學期_第4課_component_split_398d9bbd7d895265.json"
+    ]
+  },
+  "createdAt": "2026-10-05T09:07:30.611Z"
+}

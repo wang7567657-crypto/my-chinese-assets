@@ -10,9 +10,12 @@
     "semester": "上學期",
     "lesson": "第4課",
     "char": "麻",
-    "strokeCount": null,
     "strokeSource": "c9s/zh-stroke-data",
-    "needsStrokeCount": true,
+    "strokeCount": 11,
+    "radical": "麻",
+    "needsRadicalMapping": true,
+    "purpose": "missing_component_worksheet",
+    "issue": "缺少已驗證的部首筆畫對應（或筆畫數不符）",
     "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
   },
   "data": {
@@ -43,8 +46,8 @@
     ],
     "components": [
       "广",
-      "木（左）",
-      "木（右）"
+      "下方左側四筆",
+      "下方右側四筆"
     ],
     "strokeCount": 11,
     "radical": "麻",
@@ -64,11 +67,13 @@
     ],
     "source": "c9s/zh-stroke-data",
     "verified": true,
-    "note": "「麻」的檢字部首即全字；教學部件可分廣字頭與左右木形，缺部件學習單不挖掉整字。",
+    "note": "「麻」的檢字部首就是全字，部首映射包含全部11筆；教學按原位置分成广與下方左右兩組四筆，下方不稱為「林」或兩個「木」，保留原字鉤筆及筆順。分組是形體觀察，不代表字源解釋。",
     "verification": {
-      "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
-      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/9ebb.xml"
+      "method": "核對 c9s 原始 XML 11筆、各筆輪廓唯一性、座標及軌跡；將筆畫渲染為三色字形逐組檢視，並對照教育部麻部0畫共11畫與楷書寫法。",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/9ebb.xml",
+      "radicalSourceUrl": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=1025&la=1&powerMode=0",
+      "glyphSourceUrl": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=53073"
     }
   },
-  "createdAt": "2026-09-29T01:57:07.334Z"
+  "createdAt": "2026-10-05T09:07:30.611Z"
 }
