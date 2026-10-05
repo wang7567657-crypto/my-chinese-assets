@@ -4450,8 +4450,8 @@
       ],
       "components": [
         "广",
-        "木（左）",
-        "木（右）"
+        "下方左側四筆",
+        "下方右側四筆"
       ],
       "strokeCount": 11,
       "radical": "麻",
@@ -4471,11 +4471,14 @@
       ],
       "source": "c9s/zh-stroke-data",
       "verified": true,
-      "note": "「麻」的檢字部首即全字；教學部件可分廣字頭與左右木形，缺部件學習單不挖掉整字。",
+      "note": "「麻」的檢字部首就是全字，部首映射包含全部11筆；教學按原位置分成广與下方左右兩組四筆，下方不稱為「林」或兩個「木」，保留原字鉤筆及筆順。分組是形體觀察，不代表字源解釋。",
       "verification": {
-        "method": "核對 c9s 原始 XML 筆畫數、各筆位置與筆順，並對照既有 charInfo 部首。",
-        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/9ebb.xml"
-      }
+        "method": "核對 c9s 原始 XML 11筆、各筆輪廓唯一性、座標及軌跡；將筆畫渲染為三色字形逐組檢視，並對照教育部麻部0畫共11畫與楷書寫法。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/9ebb.xml",
+        "radicalSourceUrl": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=1025&la=1&powerMode=0",
+        "glyphSourceUrl": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=53073"
+      },
+      "updatedAt": "2026-10-05T09:07:30.611Z"
     },
     "餅": {
       "structure": "左右",
