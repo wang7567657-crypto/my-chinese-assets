@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_0ddaeca2b17f0b3c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蛙",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蛙",
+    "groups": {
+      "shape": [
+        {
+          "char": "娃",
+          "why": "右邊都有圭",
+          "difference": "蛙左邊是虫；娃左邊是女。"
+        },
+        {
+          "char": "佳",
+          "why": "右邊都有圭",
+          "difference": "蛙左邊是虫；佳左邊是亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "挖",
+          "why": "同音比較：蛙和挖都讀ㄨㄚ。",
+          "difference": "蛙是動物；挖是用工具或手把東西取出。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "青蛙",
+          "why": "蛙是一類會跳、常生活在水邊的動物。",
+          "difference": "蛙是動物名稱；呱是本課描寫牠叫聲的字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "桂",
+          "why": "右邊都有圭",
+          "difference": "蛙左邊是虫；桂左邊是木。"
+        }
+      ]
+    },
+    "tip": "把「蛙」放回課文語詞「青蛙」判斷，再檢查虫與其餘部件。右邊是圭，兩個土上下對齊；不要寫成佳。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

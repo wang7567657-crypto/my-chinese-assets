@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_a834ea0bf83cff14",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "靠",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "靠",
+    "groups": {
+      "shape": [
+        {
+          "char": "非",
+          "why": "靠的下方完整是非",
+          "difference": "靠比非多上方的告。"
+        },
+        {
+          "char": "排",
+          "why": "右邊都有非",
+          "difference": "靠上方是告；排左邊多扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "銬",
+          "why": "同音比較：靠和銬都讀ㄎㄠˋ。",
+          "difference": "靠表示接近或倚著；銬是金屬拘束器具。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "接近",
+          "why": "靠近表示移到距離較近的位置。",
+          "difference": "靠也可表示倚靠或依賴；本課著重距離。"
+        }
+      ],
+      "component": [
+        {
+          "char": "悲",
+          "why": "上方都有非",
+          "difference": "靠上方是告、下方是非；悲上方是非、下方是心。"
+        }
+      ]
+    },
+    "tip": "把「靠」放回課文語詞「靠近」判斷，再檢查非與其餘部件。下方非左右各三橫，中間兩豎分清楚。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

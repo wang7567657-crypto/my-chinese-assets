@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_a1020a93d41b8eb7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "明",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "明",
+    "groups": {
+      "shape": [
+        {
+          "char": "朋",
+          "why": "都有月形部件並排的輪廓",
+          "difference": "明左邊是日；朋左右都是月。"
+        },
+        {
+          "char": "胡",
+          "why": "右邊都有月",
+          "difference": "明左邊是日；胡左邊是古。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "名",
+          "why": "同音比較：明和名都讀ㄇㄧㄥˊ。",
+          "difference": "明可指明亮、明白；名是名字或名聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "說清楚",
+          "why": "證明中的明有使事情清楚、可確認的意思。",
+          "difference": "明也可表示光亮；本課和證合成一個詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "期",
+          "why": "右邊都有月",
+          "difference": "明左邊是日；期左邊是其。"
+        }
+      ]
+    },
+    "tip": "把「明」放回課文語詞「證明」判斷，再檢查日與其餘部件。左日寫窄、右月稍寬；兩邊高度要配合。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

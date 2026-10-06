@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_203567c1cb3b0838",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "聞",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "聞",
+    "groups": {
+      "shape": [
+        {
+          "char": "問",
+          "why": "外面都有門",
+          "difference": "聞裡面是耳；問裡面是口。"
+        },
+        {
+          "char": "間",
+          "why": "外面都有門",
+          "difference": "聞裡面是耳；間裡面是日。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "文",
+          "why": "同音比較：聞和文都讀ㄨㄣˊ。",
+          "difference": "聞可表示聽見；文可指文字或文章。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "聽見",
+          "why": "本課「只聞聲」的聞是聽見。",
+          "difference": "聞也可表示消息或用鼻子嗅；本課指耳朵聽。"
+        }
+      ],
+      "component": [
+        {
+          "char": "閒",
+          "why": "外面都有門",
+          "difference": "聞裡面是耳；閒裡面是月。"
+        }
+      ]
+    },
+    "tip": "把「聞」放回課文語詞「只聞聲」判斷，再檢查耳與其餘部件。外面門先寫到適當位置，再寫裡面的耳；不要寫成問。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

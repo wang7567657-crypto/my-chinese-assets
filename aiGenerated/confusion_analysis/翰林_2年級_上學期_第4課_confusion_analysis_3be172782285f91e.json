@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_3be172782285f91e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "果",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "果",
+    "groups": {
+      "shape": [
+        {
+          "char": "棵",
+          "why": "右邊完整是果",
+          "difference": "果沒有左邊木；棵多木字旁。"
+        },
+        {
+          "char": "顆",
+          "why": "左邊完整是果",
+          "difference": "果沒有右邊頁；顆用作量詞。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "國",
+          "why": "近音比較：果讀ㄍㄨㄛˇ，國讀ㄍㄨㄛˊ，聲調不同。",
+          "difference": "果可指果實或結果；國是國家。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "條件詞",
+          "why": "果和如組成「如果」，表示假設條件。",
+          "difference": "果單獨常指果實或結果；本課要整詞理解。"
+        }
+      ],
+      "component": [
+        {
+          "char": "課",
+          "why": "右邊完整是果",
+          "difference": "果沒有左邊言；課多言字旁。"
+        }
+      ]
+    },
+    "tip": "把「果」放回課文語詞「如果」判斷，再檢查木與其餘部件。中間直豎上下相連；下方撇捺要伸展。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

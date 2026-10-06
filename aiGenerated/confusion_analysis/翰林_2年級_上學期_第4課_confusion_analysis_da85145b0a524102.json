@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_da85145b0a524102",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蟆",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蟆",
+    "groups": {
+      "shape": [
+        {
+          "char": "摸",
+          "why": "右邊都有莫",
+          "difference": "蟆左邊是虫；摸左邊是扌。"
+        },
+        {
+          "char": "模",
+          "why": "右邊都有莫",
+          "difference": "蟆左邊是虫；模左邊是木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "麻",
+          "why": "同音，主要讀音都是ㄇㄚˊ。",
+          "difference": "蟆是虫部，多見於蝦蟆、蛤蟆；麻可指植物纖維或麻木。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蝦蟆",
+          "why": "蟆通常出現在蝦蟆、蛤蟆等動物名稱中。",
+          "difference": "蟆很少單獨使用，閱讀時要和前一字合起來。"
+        }
+      ],
+      "component": [
+        {
+          "char": "膜",
+          "why": "右邊都有莫",
+          "difference": "蟆左邊是虫；膜左邊是月。"
+        }
+      ]
+    },
+    "tip": "把「蟆」放回課文語詞「蝦蟆」判斷，再檢查虫與其餘部件。本課「蝦蟆」的蟆讀ㄇㄚˊ；教育部辭典另收輕聲˙ㄇㄚ為又音。右邊莫不要少寫日。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

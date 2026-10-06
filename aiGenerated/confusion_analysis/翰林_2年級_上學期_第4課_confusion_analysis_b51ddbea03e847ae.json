@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_b51ddbea03e847ae",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "瓜",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "瓜",
+    "groups": {
+      "shape": [
+        {
+          "char": "爪",
+          "why": "整體輪廓相近，都有向下撇捺",
+          "difference": "瓜有中間點與豎提；爪沒有瓜的一點。"
+        },
+        {
+          "char": "狐",
+          "why": "右邊完整是瓜",
+          "difference": "狐比瓜多左邊犭。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "呱",
+          "why": "同音比較：瓜和呱都讀ㄍㄨㄚ。",
+          "difference": "瓜是果實；呱常表示叫聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "頭部暱稱",
+          "why": "腦袋瓜中的瓜是口語搭配，不是真的瓜果。",
+          "difference": "單說瓜通常是植物果實；放在腦袋後意思改變。"
+        }
+      ],
+      "component": [
+        {
+          "char": "孤",
+          "why": "右邊完整是瓜",
+          "difference": "孤比瓜多左邊子。"
+        }
+      ]
+    },
+    "tip": "把「瓜」放回課文語詞「腦袋瓜」判斷，再檢查瓜與其餘部件。瓜中間有一點和豎提；不要寫成四畫的爪。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

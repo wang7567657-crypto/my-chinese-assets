@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第4課_similar_shape_c32a1dbe0d8f5c6d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "抓",
+    "lessonChars": [
+      "呱",
+      "聞",
+      "聲",
+      "猜",
+      "蛙",
+      "別",
+      "靠",
+      "近",
+      "抓",
+      "如",
+      "果",
+      "乖",
+      "腦",
+      "袋",
+      "瓜",
+      "證",
+      "明",
+      "頂",
+      "影",
+      "蝦",
+      "蟆",
+      "擔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "抓",
+    "similarChars": [
+      {
+        "char": "爬",
+        "similarity": "左邊都有爪形",
+        "difference": "抓左邊是扌、右邊是爪；爬左邊是爪、右邊是巴。"
+      },
+      {
+        "char": "瓜",
+        "similarity": "和抓右邊的爪輪廓接近",
+        "difference": "瓜中間多一點和不同的曲筆；爪筆畫較少。"
+      },
+      {
+        "char": "爪",
+        "similarity": "抓的右邊完整是爪",
+        "difference": "抓比爪多左邊扌。"
+      },
+      {
+        "char": "孤",
+        "similarity": "右邊是瓜，和爪輪廓接近",
+        "difference": "抓是扌加爪；孤是子加瓜。"
+      },
+      {
+        "char": "狐",
+        "similarity": "右邊是瓜，和爪輪廓接近",
+        "difference": "抓是扌加爪；狐是犭加瓜。"
+      },
+      {
+        "char": "扳",
+        "similarity": "左邊都有扌",
+        "difference": "抓右邊是爪；扳右邊是反。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。右邊是爪，不是瓜；中間沒有瓜的一點。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_19dbb14e7e03a74f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "近",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "近",
+    "groups": {
+      "shape": [
+        {
+          "char": "斤",
+          "why": "近的內部完整是斤",
+          "difference": "近比斤多外面的辶。"
+        },
+        {
+          "char": "欣",
+          "why": "左邊都有斤",
+          "difference": "近外面是辶；欣右邊是欠。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "進",
+          "why": "同音比較：近和進都讀ㄐㄧㄣˋ。",
+          "difference": "近表示距離短；進表示向前或進入。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "距離短",
+          "why": "近表示空間或時間距離不遠。",
+          "difference": "靠近是移向近處；附近是周圍不遠的地方。"
+        }
+      ],
+      "component": [
+        {
+          "char": "祈",
+          "why": "右邊都有斤",
+          "difference": "近外面是辶；祈左邊是礻。"
+        }
+      ]
+    },
+    "tip": "把「近」放回課文語詞「靠近」判斷，再檢查辶與其餘部件。先寫斤，最後寫辶；捺畫要托住上方。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

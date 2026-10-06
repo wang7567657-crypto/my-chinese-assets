@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第4課_similar_shape_08ee630b3832a61d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "呱",
+    "lessonChars": [
+      "呱",
+      "聞",
+      "聲",
+      "猜",
+      "蛙",
+      "別",
+      "靠",
+      "近",
+      "抓",
+      "如",
+      "果",
+      "乖",
+      "腦",
+      "袋",
+      "瓜",
+      "證",
+      "明",
+      "頂",
+      "影",
+      "蝦",
+      "蟆",
+      "擔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "呱",
+    "similarChars": [
+      {
+        "char": "咕",
+        "similarity": "左邊都有口，右部外形接近",
+        "difference": "呱右邊是瓜；咕右邊是古。"
+      },
+      {
+        "char": "孤",
+        "similarity": "右邊都有瓜",
+        "difference": "呱左邊是口；孤左邊是子。"
+      },
+      {
+        "char": "狐",
+        "similarity": "右邊都有瓜",
+        "difference": "呱左邊是口；狐左邊是犭。"
+      },
+      {
+        "char": "弧",
+        "similarity": "右邊都有瓜",
+        "difference": "呱左邊是口；弧左邊是弓。"
+      },
+      {
+        "char": "抓",
+        "similarity": "右邊是爪，和瓜的輪廓接近",
+        "difference": "呱是口加瓜；抓是扌加爪，瓜與爪中間筆形不同。"
+      },
+      {
+        "char": "瓜",
+        "similarity": "呱的右邊完整是瓜",
+        "difference": "呱比瓜多左邊的口。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。左邊口要寫窄；右邊是瓜，不是爪。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

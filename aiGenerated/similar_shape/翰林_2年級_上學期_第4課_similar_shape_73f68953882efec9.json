@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第4課_similar_shape_73f68953882efec9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "擔",
+    "lessonChars": [
+      "呱",
+      "聞",
+      "聲",
+      "猜",
+      "蛙",
+      "別",
+      "靠",
+      "近",
+      "抓",
+      "如",
+      "果",
+      "乖",
+      "腦",
+      "袋",
+      "瓜",
+      "證",
+      "明",
+      "頂",
+      "影",
+      "蝦",
+      "蟆",
+      "擔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "擔",
+    "similarChars": [
+      {
+        "char": "膽",
+        "similarity": "右邊都有詹",
+        "difference": "擔左邊是扌；膽左邊是月。"
+      },
+      {
+        "char": "瞻",
+        "similarity": "右邊都有詹",
+        "difference": "擔左邊是扌；瞻左邊是目。"
+      },
+      {
+        "char": "檐",
+        "similarity": "右邊都有詹",
+        "difference": "擔左邊是扌；檐左邊是木。"
+      },
+      {
+        "char": "譫",
+        "similarity": "右邊都有詹",
+        "difference": "擔左邊是扌；譫左邊是言，譫較少見。"
+      },
+      {
+        "char": "詹",
+        "similarity": "擔的右邊完整是詹",
+        "difference": "擔比詹多左邊扌。"
+      },
+      {
+        "char": "攤",
+        "similarity": "左邊都有扌，整體都是左右寬字",
+        "difference": "擔右邊是詹；攤右邊是難的右部，筆畫配置不同。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。本課「擔心」讀ㄉㄢ；右邊詹上中下分層，不要漏言。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

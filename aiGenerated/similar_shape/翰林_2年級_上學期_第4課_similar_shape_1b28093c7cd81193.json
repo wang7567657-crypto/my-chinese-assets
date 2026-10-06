@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第4課_similar_shape_1b28093c7cd81193",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "證",
+    "lessonChars": [
+      "呱",
+      "聞",
+      "聲",
+      "猜",
+      "蛙",
+      "別",
+      "靠",
+      "近",
+      "抓",
+      "如",
+      "果",
+      "乖",
+      "腦",
+      "袋",
+      "瓜",
+      "證",
+      "明",
+      "頂",
+      "影",
+      "蝦",
+      "蟆",
+      "擔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "證",
+    "similarChars": [
+      {
+        "char": "燈",
+        "similarity": "右邊都有登",
+        "difference": "證左邊是言；燈左邊是火。"
+      },
+      {
+        "char": "澄",
+        "similarity": "右邊都有登",
+        "difference": "證左邊是言；澄左邊是氵。"
+      },
+      {
+        "char": "瞪",
+        "similarity": "右邊都有登",
+        "difference": "證左邊是言；瞪左邊是目。"
+      },
+      {
+        "char": "橙",
+        "similarity": "右邊都有登",
+        "difference": "證左邊是言；橙左邊是木。"
+      },
+      {
+        "char": "登",
+        "similarity": "證的右邊完整是登",
+        "difference": "證比登多左邊言。"
+      },
+      {
+        "char": "認",
+        "similarity": "左邊都有言",
+        "difference": "證右邊是登；認右邊是忍。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。左邊言要寫窄；右邊是完整的登，上癶下豆。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

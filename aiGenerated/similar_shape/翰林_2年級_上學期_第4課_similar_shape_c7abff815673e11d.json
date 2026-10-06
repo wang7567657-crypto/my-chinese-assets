@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第4課_similar_shape_c7abff815673e11d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "聲",
+    "lessonChars": [
+      "呱",
+      "聞",
+      "聲",
+      "猜",
+      "蛙",
+      "別",
+      "靠",
+      "近",
+      "抓",
+      "如",
+      "果",
+      "乖",
+      "腦",
+      "袋",
+      "瓜",
+      "證",
+      "明",
+      "頂",
+      "影",
+      "蝦",
+      "蟆",
+      "擔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "聲",
+    "similarChars": [
+      {
+        "char": "磬",
+        "similarity": "上方都有殸形部件",
+        "difference": "聲下方是耳；磬下方是石，磬是樂器名。"
+      },
+      {
+        "char": "馨",
+        "similarity": "上方都有殸形部件",
+        "difference": "聲下方是耳；馨下方是香。"
+      },
+      {
+        "char": "罄",
+        "similarity": "上方都有殸形部件",
+        "difference": "聲下方是耳；罄下方是缶。"
+      },
+      {
+        "char": "謦",
+        "similarity": "上方都有殸形部件",
+        "difference": "聲下方是耳；謦下方是言，謦較少見。"
+      },
+      {
+        "char": "殸",
+        "similarity": "聲的上方是殸形部件",
+        "difference": "聲比殸多下方耳；殸是少見字，也作部件。"
+      },
+      {
+        "char": "聖",
+        "similarity": "都有耳且整體輪廓方整",
+        "difference": "聲的耳在下方；聖的耳在左上，其他部件不同。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。最下方是完整的耳；上方筆畫多，要分層書寫。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

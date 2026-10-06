@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_a47240ed0b939ab0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "別",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "別",
+    "groups": {
+      "shape": [
+        {
+          "char": "刮",
+          "why": "右邊都有刂",
+          "difference": "別左邊是另形；刮左邊是舌。"
+        },
+        {
+          "char": "到",
+          "why": "右邊都有刂",
+          "difference": "別左邊是另形；到左邊是至。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "憋",
+          "why": "近音比較：別讀ㄅㄧㄝˊ；憋讀ㄅㄧㄝ，聲調不同。",
+          "difference": "別可表示不要或分開；憋是忍住。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "不要",
+          "why": "本課「請別再靠近」的別表示不要。",
+          "difference": "別也可表示分別、其他；本課是禁止語氣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "則",
+          "why": "右邊都有刂",
+          "difference": "別左邊是另形；則左邊是貝。"
+        }
+      ]
+    },
+    "tip": "把「別」放回課文語詞「請別靠近」判斷，再檢查刂與其餘部件。右邊刂兩畫；左邊不是完整的另，筆形要照標準字。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}
