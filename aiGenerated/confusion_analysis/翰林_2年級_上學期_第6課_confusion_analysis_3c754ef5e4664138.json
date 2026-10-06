@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_3c754ef5e4664138",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "旁",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "旁",
+    "groups": {
+      "shape": [
+        {
+          "char": "傍",
+          "why": "右邊完整是旁",
+          "difference": "旁是上下結構；傍左邊多亻。"
+        },
+        {
+          "char": "膀",
+          "why": "右邊完整是旁",
+          "difference": "旁是上下結構；膀左邊多月。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "龐",
+          "why": "同音，都是ㄆㄤˊ。",
+          "difference": "旁表示旁邊；龐可表示龐大或作姓氏。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "邊",
+          "why": "都能表示側面的位置。",
+          "difference": "旁著重附近；邊也可指界線或一側。"
+        }
+      ],
+      "component": [
+        {
+          "char": "榜",
+          "why": "右邊完整是旁",
+          "difference": "旁是上下結構；榜左邊多木。"
+        }
+      ]
+    },
+    "tip": "把「旁」放回課文語詞「兩旁」判斷，再檢查方與其餘部件。旁下方是方，最後兩筆不要寫成力。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

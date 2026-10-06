@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第6課_similar_shape_c324797cf470d372",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "林",
+    "lessonChars": [
+      "月",
+      "奶",
+      "晚",
+      "飯",
+      "散",
+      "屋",
+      "竹",
+      "林",
+      "頭",
+      "溪",
+      "旁",
+      "暗",
+      "眼",
+      "睛",
+      "那",
+      "聚",
+      "成",
+      "顆",
+      "叢",
+      "盡"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "林",
+    "similarChars": [
+      {
+        "char": "森",
+        "similarity": "都有多個木",
+        "difference": "林由兩個木組成；森由三個木組成。"
+      },
+      {
+        "char": "淋",
+        "similarity": "右邊完整是林",
+        "difference": "林是獨立字；淋左邊多氵。"
+      },
+      {
+        "char": "琳",
+        "similarity": "右邊完整是林",
+        "difference": "林是獨立字；琳左邊多玉。"
+      },
+      {
+        "char": "霖",
+        "similarity": "下方完整是林",
+        "difference": "林是左右結構；霖上方多雨。"
+      },
+      {
+        "char": "焚",
+        "similarity": "上方完整是林",
+        "difference": "林是左右結構；焚下方多火。"
+      },
+      {
+        "char": "麻",
+        "similarity": "內部有林形部件",
+        "difference": "林是兩木並列；麻外面多广，內部筆形略有變化。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。林由兩個木組成；左邊木的捺要變成點，讓右邊有空間。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

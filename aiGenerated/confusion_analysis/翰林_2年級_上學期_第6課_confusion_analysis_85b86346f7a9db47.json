@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_85b86346f7a9db47",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "林",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "林",
+    "groups": {
+      "shape": [
+        {
+          "char": "森",
+          "why": "都有多個木",
+          "difference": "林由兩個木組成；森由三個木組成。"
+        },
+        {
+          "char": "淋",
+          "why": "右邊完整是林",
+          "difference": "林是獨立字；淋左邊多氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鄰",
+          "why": "同音，都是ㄌㄧㄣˊ。",
+          "difference": "林是樹木聚集處；鄰指鄰近或鄰居。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "森",
+          "why": "都和許多樹木有關。",
+          "difference": "林指成片樹木；森由三木組成，常見於森林。"
+        }
+      ],
+      "component": [
+        {
+          "char": "琳",
+          "why": "右邊完整是林",
+          "difference": "林是獨立字；琳左邊多玉。"
+        }
+      ]
+    },
+    "tip": "把「林」放回課文語詞「竹林」判斷，再檢查木與其餘部件。林由兩個木組成；左邊木的捺要變成點，讓右邊有空間。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

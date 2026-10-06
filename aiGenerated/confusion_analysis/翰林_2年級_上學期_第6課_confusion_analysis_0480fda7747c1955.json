@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_0480fda7747c1955",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "散",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "散",
+    "groups": {
+      "shape": [
+        {
+          "char": "撒",
+          "why": "右邊完整是散",
+          "difference": "散是獨立字；撒左邊多扌。"
+        },
+        {
+          "char": "敢",
+          "why": "右邊都有攵",
+          "difference": "散左部有月形；敢左部筆形不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "傘",
+          "why": "近音，散步的散讀ㄙㄢˋ；傘讀ㄙㄢˇ，聲調不同。",
+          "difference": "散步是走動；傘是遮雨遮陽的用具。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "行",
+          "why": "都可表示走動。",
+          "difference": "散在「散步」中指悠閒走動；行可泛指行走或進行。"
+        }
+      ],
+      "component": [
+        {
+          "char": "故",
+          "why": "右邊都有攵",
+          "difference": "散左部較複雜；故左邊是古。"
+        }
+      ]
+    },
+    "tip": "把「散」放回課文語詞「散步」判斷，再檢查攵與其餘部件。本課「散步」讀ㄙㄢˋ；右邊攵共4畫，不要寫成夂。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

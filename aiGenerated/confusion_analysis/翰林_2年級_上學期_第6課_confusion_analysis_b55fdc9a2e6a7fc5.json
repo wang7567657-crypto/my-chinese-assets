@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_b55fdc9a2e6a7fc5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "溪",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "溪",
+    "groups": {
+      "shape": [
+        {
+          "char": "谿",
+          "why": "都有奚形部件",
+          "difference": "溪左邊是氵；谿右下是谷，且是較少見字。"
+        },
+        {
+          "char": "蹊",
+          "why": "右邊都有奚",
+          "difference": "溪左邊是氵；蹊左邊是足。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "西",
+          "why": "同音，都是ㄒㄧ。",
+          "difference": "溪是小河流；西是方向。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "河",
+          "why": "都是流水形成的水道。",
+          "difference": "溪通常較小、較淺；河通常較寬廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "奚",
+          "why": "溪的右邊完整是奚",
+          "difference": "溪比奚多左邊氵。"
+        }
+      ]
+    },
+    "tip": "把「溪」放回課文語詞「小溪」判斷，再檢查氵與其餘部件。溪右邊是奚，上方爫、中間幺、下方大要寫完整。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

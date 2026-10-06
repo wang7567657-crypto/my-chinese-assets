@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_4c347b6a5844da1c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "屋",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "屋",
+    "groups": {
+      "shape": [
+        {
+          "char": "握",
+          "why": "右邊完整是屋",
+          "difference": "屋是半包圍結構；握左邊多扌。"
+        },
+        {
+          "char": "喔",
+          "why": "右邊完整是屋",
+          "difference": "屋是半包圍結構；喔左邊多口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "烏",
+          "why": "同音，都是ㄨ。",
+          "difference": "屋是房屋；烏可指黑色或烏鴉。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "房",
+          "why": "都可指供人居住或使用的建築空間。",
+          "difference": "屋可指整棟建築或屋子；房常指房間或房屋。"
+        }
+      ],
+      "component": [
+        {
+          "char": "渥",
+          "why": "右邊完整是屋",
+          "difference": "屋是半包圍結構；渥左邊多氵。"
+        }
+      ]
+    },
+    "tip": "把「屋」放回課文語詞「屋後」判斷，再檢查尸與其餘部件。屋外面是尸，裡面是至；至最下方是土，不是王。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_a587067fdf8fe682",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "竹",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "竹",
+    "groups": {
+      "shape": [
+        {
+          "char": "笑",
+          "why": "上方完整是竹字頭",
+          "difference": "竹是獨體字；笑下方多夭。"
+        },
+        {
+          "char": "竺",
+          "why": "上方是竹字頭",
+          "difference": "竹是獨體字；竺下方多二。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "逐",
+          "why": "同音，都是ㄓㄨˊ。",
+          "difference": "竹是植物；逐有追趕、逐一的意思。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "木",
+          "why": "都可指植物或材料。",
+          "difference": "竹是中空有節的植物；木泛指樹木或木材。"
+        }
+      ],
+      "component": [
+        {
+          "char": "筒",
+          "why": "上方是竹字頭",
+          "difference": "竹是獨體字；筒下方多同。"
+        }
+      ]
+    },
+    "tip": "把「竹」放回課文語詞「竹林」判斷，再檢查竹與其餘部件。竹共6畫，左右兩部分分開；不要把下方兩筆連成一橫。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

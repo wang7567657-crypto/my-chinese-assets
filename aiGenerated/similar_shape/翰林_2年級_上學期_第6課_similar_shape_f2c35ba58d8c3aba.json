@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第6課_similar_shape_f2c35ba58d8c3aba",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "奶",
+    "lessonChars": [
+      "月",
+      "奶",
+      "晚",
+      "飯",
+      "散",
+      "屋",
+      "竹",
+      "林",
+      "頭",
+      "溪",
+      "旁",
+      "暗",
+      "眼",
+      "睛",
+      "那",
+      "聚",
+      "成",
+      "顆",
+      "叢",
+      "盡"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "奶",
+    "similarChars": [
+      {
+        "char": "妞",
+        "similarity": "左邊都有女",
+        "difference": "奶右邊是乃；妞右邊是丑。"
+      },
+      {
+        "char": "她",
+        "similarity": "左邊都有女",
+        "difference": "奶右邊是乃；她右邊是也。"
+      },
+      {
+        "char": "好",
+        "similarity": "左邊都有女",
+        "difference": "奶右邊是乃；好右邊是子。"
+      },
+      {
+        "char": "妨",
+        "similarity": "左邊都有女",
+        "difference": "奶右邊是乃；妨右邊是方。"
+      },
+      {
+        "char": "仍",
+        "similarity": "右邊都有乃",
+        "difference": "奶左邊是女；仍左邊是亻。"
+      },
+      {
+        "char": "乃",
+        "similarity": "奶的右邊完整是乃",
+        "difference": "奶比乃多左邊女。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。奶左邊女的橫畫要穿過撇；右邊乃只有兩畫。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

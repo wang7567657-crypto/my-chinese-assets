@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第6課_similar_shape_e2a99409238e9f8d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "成",
+    "lessonChars": [
+      "月",
+      "奶",
+      "晚",
+      "飯",
+      "散",
+      "屋",
+      "竹",
+      "林",
+      "頭",
+      "溪",
+      "旁",
+      "暗",
+      "眼",
+      "睛",
+      "那",
+      "聚",
+      "成",
+      "顆",
+      "叢",
+      "盡"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "成",
+    "similarChars": [
+      {
+        "char": "城",
+        "similarity": "右邊完整是成",
+        "difference": "成是獨體字；城左邊多土。"
+      },
+      {
+        "char": "誠",
+        "similarity": "右邊完整是成",
+        "difference": "成是獨體字；誠左邊多言。"
+      },
+      {
+        "char": "盛",
+        "similarity": "上方完整是成",
+        "difference": "成是獨體字；盛下方多皿。"
+      },
+      {
+        "char": "咸",
+        "similarity": "外框與斜鉤輪廓相近",
+        "difference": "成內部有橫折鉤；咸內部是口。"
+      },
+      {
+        "char": "戌",
+        "similarity": "都有戈形外框",
+        "difference": "成內部有橫折鉤；戌內部是一橫。"
+      },
+      {
+        "char": "戊",
+        "similarity": "都有戈形斜鉤",
+        "difference": "成有內部橫折鉤；戊內部較空。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。成共6畫，戈部筆畫不是連續區間；斜鉤要舒展，最後點不能漏。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

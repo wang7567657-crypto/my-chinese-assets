@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_e72c35e9abd9a95f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "晚",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "晚",
+    "groups": {
+      "shape": [
+        {
+          "char": "免",
+          "why": "晚的右邊完整是免",
+          "difference": "晚比免多左邊日。"
+        },
+        {
+          "char": "挽",
+          "why": "右邊都有免",
+          "difference": "晚左邊是日；挽左邊是扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "碗",
+          "why": "同音，都是ㄨㄢˇ。",
+          "difference": "晚是較遲的時間；碗是盛食物的器具。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "夜",
+          "why": "都和天黑後的時間有關。",
+          "difference": "晚可指傍晚或較遲；夜專指夜間。"
+        }
+      ],
+      "component": [
+        {
+          "char": "娩",
+          "why": "右邊都有免",
+          "difference": "晚左邊是日；娩左邊是女。"
+        }
+      ]
+    },
+    "tip": "把「晚」放回課文語詞「晚飯」判斷，再檢查日與其餘部件。晚右邊是免，最後的豎彎鉤要伸出；不要多寫成兔的點。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第6課_similar_shape_0324d363802a6de7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "聚",
+    "lessonChars": [
+      "月",
+      "奶",
+      "晚",
+      "飯",
+      "散",
+      "屋",
+      "竹",
+      "林",
+      "頭",
+      "溪",
+      "旁",
+      "暗",
+      "眼",
+      "睛",
+      "那",
+      "聚",
+      "成",
+      "顆",
+      "叢",
+      "盡"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "聚",
+    "similarChars": [
+      {
+        "char": "取",
+        "similarity": "聚的上方有取形",
+        "difference": "聚比取多下方聚形部件。"
+      },
+      {
+        "char": "趣",
+        "similarity": "右邊含取",
+        "difference": "聚是上下結構；趣左邊多走。"
+      },
+      {
+        "char": "娶",
+        "similarity": "上方完整是取",
+        "difference": "聚下方是聚形部件；娶下方是女。"
+      },
+      {
+        "char": "驟",
+        "similarity": "右邊含聚",
+        "difference": "聚是獨立字；驟左邊多馬。"
+      },
+      {
+        "char": "叢",
+        "similarity": "都有取形下部，整體筆畫密集",
+        "difference": "聚上方是耳；叢上方是業。"
+      },
+      {
+        "char": "眾",
+        "similarity": "下半輪廓與聚相近",
+        "difference": "聚上方是耳；眾上方是目形部件。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。聚共14畫，上方耳的末橫變提；下方筆畫要分清，不要寫成眾。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

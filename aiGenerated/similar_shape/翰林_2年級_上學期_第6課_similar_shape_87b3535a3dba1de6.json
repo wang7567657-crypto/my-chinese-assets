@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第6課_similar_shape_87b3535a3dba1de6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "晚",
+    "lessonChars": [
+      "月",
+      "奶",
+      "晚",
+      "飯",
+      "散",
+      "屋",
+      "竹",
+      "林",
+      "頭",
+      "溪",
+      "旁",
+      "暗",
+      "眼",
+      "睛",
+      "那",
+      "聚",
+      "成",
+      "顆",
+      "叢",
+      "盡"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "晚",
+    "similarChars": [
+      {
+        "char": "免",
+        "similarity": "晚的右邊完整是免",
+        "difference": "晚比免多左邊日。"
+      },
+      {
+        "char": "挽",
+        "similarity": "右邊都有免",
+        "difference": "晚左邊是日；挽左邊是扌。"
+      },
+      {
+        "char": "娩",
+        "similarity": "右邊都有免",
+        "difference": "晚左邊是日；娩左邊是女。"
+      },
+      {
+        "char": "輓",
+        "similarity": "右邊都有免",
+        "difference": "晚左邊是日；輓左邊是車。"
+      },
+      {
+        "char": "勉",
+        "similarity": "左側都有免",
+        "difference": "晚左邊是日；勉右邊是力。"
+      },
+      {
+        "char": "兔",
+        "similarity": "上半與免相近",
+        "difference": "晚右邊是免；兔比免多最後一點。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。晚右邊是免，最後的豎彎鉤要伸出；不要多寫成兔的點。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

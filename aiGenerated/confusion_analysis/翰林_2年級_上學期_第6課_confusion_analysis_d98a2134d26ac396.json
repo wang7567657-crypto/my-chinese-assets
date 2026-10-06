@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_d98a2134d26ac396",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "眼",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "眼",
+    "groups": {
+      "shape": [
+        {
+          "char": "艮",
+          "why": "眼的右邊完整是艮",
+          "difference": "眼比艮多左邊目。"
+        },
+        {
+          "char": "很",
+          "why": "右邊都有艮",
+          "difference": "眼左邊是目；很左邊是彳。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "演",
+          "why": "同音，都是ㄧㄢˇ。",
+          "difference": "眼是視覺器官；演可指表演或推演。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "目",
+          "why": "都可指眼睛。",
+          "difference": "眼是日常用語；目較書面，也可表示項目。"
+        }
+      ],
+      "component": [
+        {
+          "char": "根",
+          "why": "右邊都有艮",
+          "difference": "眼左邊是目；根左邊是木。"
+        }
+      ]
+    },
+    "tip": "把「眼」放回課文語詞「眼睛」判斷，再檢查目與其餘部件。眼左邊目有兩道內橫；右邊艮不要多一點寫成良。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

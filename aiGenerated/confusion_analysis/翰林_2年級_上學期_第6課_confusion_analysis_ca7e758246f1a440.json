@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_ca7e758246f1a440",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "顆",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "顆",
+    "groups": {
+      "shape": [
+        {
+          "char": "課",
+          "why": "右邊都有果",
+          "difference": "顆右邊是頁；課左邊是言。"
+        },
+        {
+          "char": "棵",
+          "why": "右邊都有果",
+          "difference": "顆右邊是頁；棵左邊是木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "科",
+          "why": "同音，都是ㄎㄜ。",
+          "difference": "顆是量詞；科可指科目、科學。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "粒",
+          "why": "都是量詞。",
+          "difference": "顆多用於較圓或較大的小物體，如星星、糖果；粒多用於細小顆粒，如米粒。"
+        }
+      ],
+      "component": [
+        {
+          "char": "裹",
+          "why": "中間都有果",
+          "difference": "顆是左右結構；裹外面是衣形部件。"
+        }
+      ]
+    },
+    "tip": "把「顆」放回課文語詞「一顆」判斷，再檢查頁與其餘部件。顆是量詞，左果右頁；不要寫成同音的科或棵。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}
