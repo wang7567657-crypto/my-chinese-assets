@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第4課_similar_shape_b23cb10423dfe5b8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "聞",
+    "lessonChars": [
+      "呱",
+      "聞",
+      "聲",
+      "猜",
+      "蛙",
+      "別",
+      "靠",
+      "近",
+      "抓",
+      "如",
+      "果",
+      "乖",
+      "腦",
+      "袋",
+      "瓜",
+      "證",
+      "明",
+      "頂",
+      "影",
+      "蝦",
+      "蟆",
+      "擔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "聞",
+    "similarChars": [
+      {
+        "char": "問",
+        "similarity": "外面都有門",
+        "difference": "聞裡面是耳；問裡面是口。"
+      },
+      {
+        "char": "間",
+        "similarity": "外面都有門",
+        "difference": "聞裡面是耳；間裡面是日。"
+      },
+      {
+        "char": "閒",
+        "similarity": "外面都有門",
+        "difference": "聞裡面是耳；閒裡面是月。"
+      },
+      {
+        "char": "悶",
+        "similarity": "外面都有門",
+        "difference": "聞裡面是耳；悶裡面是心。"
+      },
+      {
+        "char": "闖",
+        "similarity": "外面都有門",
+        "difference": "聞裡面是耳；闖裡面是馬。"
+      },
+      {
+        "char": "閔",
+        "similarity": "外面都有門",
+        "difference": "聞裡面是耳；閔裡面是文。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。外面門先寫到適當位置，再寫裡面的耳；不要寫成問。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

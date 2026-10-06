@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第4課_memory_strategy_91569db9fa38b7cf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蛙",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蛙",
+    "components": [
+      "虫",
+      "圭"
+    ],
+    "association": "左邊虫表示小動物，右邊兩個土疊起來是圭。",
+    "mnemonic": "左虫右圭，青蛙的蛙。",
+    "visualPrompt": "以繁體標準字形清楚書寫「蛙」，字形保持完整、不變形；在字旁畫出「左邊虫表示小動物，右邊兩個土疊起來是圭。」的簡潔提示圖，圖像不可覆蓋或取代文字筆畫。",
+    "teachingTip": "右邊是圭，兩個土上下對齊；不要寫成佳。 這是記憶聯想，不代表字源。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_492cabd0fdd6b736",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "影",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "影",
+    "groups": {
+      "shape": [
+        {
+          "char": "景",
+          "why": "影的左邊完整是景",
+          "difference": "影比景多右邊彡。"
+        },
+        {
+          "char": "彰",
+          "why": "右邊都有彡",
+          "difference": "影左邊是景；彰左邊是章。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "穎",
+          "why": "同音比較：影和穎都讀ㄧㄥˇ。",
+          "difference": "影是影子；穎可表示聰穎或物體尖端。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "影子",
+          "why": "影是光被遮住後形成的暗形，也可指影像。",
+          "difference": "本課「不見影」表示看不到身影。"
+        }
+      ],
+      "component": [
+        {
+          "char": "彭",
+          "why": "右邊都有彡",
+          "difference": "影左邊是景；彭左邊是壴形。"
+        }
+      ]
+    },
+    "tip": "把「影」放回課文語詞「不見影」判斷，再檢查彡與其餘部件。右邊彡是三撇，方向一致；左邊景要寫緊湊。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

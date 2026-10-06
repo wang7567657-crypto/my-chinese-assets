@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第4課_similar_shape_f4a652b6a3f6060e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "蛙",
+    "lessonChars": [
+      "呱",
+      "聞",
+      "聲",
+      "猜",
+      "蛙",
+      "別",
+      "靠",
+      "近",
+      "抓",
+      "如",
+      "果",
+      "乖",
+      "腦",
+      "袋",
+      "瓜",
+      "證",
+      "明",
+      "頂",
+      "影",
+      "蝦",
+      "蟆",
+      "擔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "蛙",
+    "similarChars": [
+      {
+        "char": "娃",
+        "similarity": "右邊都有圭",
+        "difference": "蛙左邊是虫；娃左邊是女。"
+      },
+      {
+        "char": "佳",
+        "similarity": "右邊都有圭",
+        "difference": "蛙左邊是虫；佳左邊是亻。"
+      },
+      {
+        "char": "桂",
+        "similarity": "右邊都有圭",
+        "difference": "蛙左邊是虫；桂左邊是木。"
+      },
+      {
+        "char": "掛",
+        "similarity": "右邊含圭形",
+        "difference": "蛙左邊是虫；掛左邊是扌，右側還多卜。"
+      },
+      {
+        "char": "哇",
+        "similarity": "右邊都有圭",
+        "difference": "蛙左邊是虫；哇左邊是口。"
+      },
+      {
+        "char": "鞋",
+        "similarity": "右邊都有圭",
+        "difference": "蛙左邊是虫；鞋左邊是革。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。右邊是圭，兩個土上下對齊；不要寫成佳。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_80dde1cabfd05e36",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "擔",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "擔",
+    "groups": {
+      "shape": [
+        {
+          "char": "膽",
+          "why": "右邊都有詹",
+          "difference": "擔左邊是扌；膽左邊是月。"
+        },
+        {
+          "char": "瞻",
+          "why": "右邊都有詹",
+          "difference": "擔左邊是扌；瞻左邊是目。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "丹",
+          "why": "同音比較：擔心的擔和丹都讀ㄉㄢ。",
+          "difference": "擔可表示承擔或擔心；丹可指紅色或丹藥。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "憂慮",
+          "why": "擔心是因為怕發生不好的事情而不放心。",
+          "difference": "擔也可讀ㄉㄢˋ作量詞或重擔；本課讀ㄉㄢ。"
+        }
+      ],
+      "component": [
+        {
+          "char": "檐",
+          "why": "右邊都有詹",
+          "difference": "擔左邊是扌；檐左邊是木。"
+        }
+      ]
+    },
+    "tip": "把「擔」放回課文語詞「擔心」判斷，再檢查扌與其餘部件。本課「擔心」讀ㄉㄢ；右邊詹上中下分層，不要漏言。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

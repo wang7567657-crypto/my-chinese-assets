@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第4課_similar_shape_a763ce6e76e14069",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "別",
+    "lessonChars": [
+      "呱",
+      "聞",
+      "聲",
+      "猜",
+      "蛙",
+      "別",
+      "靠",
+      "近",
+      "抓",
+      "如",
+      "果",
+      "乖",
+      "腦",
+      "袋",
+      "瓜",
+      "證",
+      "明",
+      "頂",
+      "影",
+      "蝦",
+      "蟆",
+      "擔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "別",
+    "similarChars": [
+      {
+        "char": "刮",
+        "similarity": "右邊都有刂",
+        "difference": "別左邊是另形；刮左邊是舌。"
+      },
+      {
+        "char": "到",
+        "similarity": "右邊都有刂",
+        "difference": "別左邊是另形；到左邊是至。"
+      },
+      {
+        "char": "則",
+        "similarity": "右邊都有刂",
+        "difference": "別左邊是另形；則左邊是貝。"
+      },
+      {
+        "char": "刷",
+        "similarity": "右邊都有刂",
+        "difference": "別左邊是另形；刷左邊是尸巾形。"
+      },
+      {
+        "char": "制",
+        "similarity": "右邊都有刂",
+        "difference": "別左邊是另形；制左邊筆畫較多。"
+      },
+      {
+        "char": "剝",
+        "similarity": "右邊都有刂",
+        "difference": "別左邊是另形；剝左邊是彔形部件。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。右邊刂兩畫；左邊不是完整的另，筆形要照標準字。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

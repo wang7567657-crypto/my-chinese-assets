@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第4課_similar_shape_b97ec757dbadb2a3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "瓜",
+    "lessonChars": [
+      "呱",
+      "聞",
+      "聲",
+      "猜",
+      "蛙",
+      "別",
+      "靠",
+      "近",
+      "抓",
+      "如",
+      "果",
+      "乖",
+      "腦",
+      "袋",
+      "瓜",
+      "證",
+      "明",
+      "頂",
+      "影",
+      "蝦",
+      "蟆",
+      "擔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "瓜",
+    "similarChars": [
+      {
+        "char": "爪",
+        "similarity": "整體輪廓相近，都有向下撇捺",
+        "difference": "瓜有中間點與豎提；爪沒有瓜的一點。"
+      },
+      {
+        "char": "狐",
+        "similarity": "右邊完整是瓜",
+        "difference": "狐比瓜多左邊犭。"
+      },
+      {
+        "char": "孤",
+        "similarity": "右邊完整是瓜",
+        "difference": "孤比瓜多左邊子。"
+      },
+      {
+        "char": "弧",
+        "similarity": "右邊完整是瓜",
+        "difference": "弧比瓜多左邊弓。"
+      },
+      {
+        "char": "呱",
+        "similarity": "右邊完整是瓜",
+        "difference": "呱比瓜多左邊口。"
+      },
+      {
+        "char": "瓠",
+        "similarity": "右邊是瓜，整體包含瓜形",
+        "difference": "瓠比瓜多左邊夸；瓠是較少見的瓜類名稱。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。瓜中間有一點和豎提；不要寫成四畫的爪。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

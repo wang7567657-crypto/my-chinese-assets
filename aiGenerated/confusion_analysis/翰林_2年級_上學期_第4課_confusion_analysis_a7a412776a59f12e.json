@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_a7a412776a59f12e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "腦",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "腦",
+    "groups": {
+      "shape": [
+        {
+          "char": "惱",
+          "why": "右邊都有巛囟形部件",
+          "difference": "腦左邊是月；惱左邊是忄。"
+        },
+        {
+          "char": "瑙",
+          "why": "右邊都有巛囟形部件",
+          "difference": "腦左邊是月；瑙左邊是王，瑙多見於瑪瑙。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "惱",
+          "why": "同音比較：腦和惱都讀ㄋㄠˇ。",
+          "difference": "腦是身體器官；惱表示煩惱或生氣。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "頭部器官",
+          "why": "腦位在頭部，和思考、感覺、動作控制有關。",
+          "difference": "腦袋是口語說法；本課腦袋瓜指頭部。"
+        }
+      ],
+      "component": [
+        {
+          "char": "胸",
+          "why": "左邊都有月",
+          "difference": "腦右邊是巛囟形；胸右邊是匈。"
+        }
+      ]
+    },
+    "tip": "把「腦」放回課文語詞「腦袋瓜」判斷，再檢查月與其餘部件。左邊是肉月旁；右上三撇折，右下框內有交叉筆。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

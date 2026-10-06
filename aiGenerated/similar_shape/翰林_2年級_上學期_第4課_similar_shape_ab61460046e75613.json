@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第4課_similar_shape_ab61460046e75613",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "頂",
+    "lessonChars": [
+      "呱",
+      "聞",
+      "聲",
+      "猜",
+      "蛙",
+      "別",
+      "靠",
+      "近",
+      "抓",
+      "如",
+      "果",
+      "乖",
+      "腦",
+      "袋",
+      "瓜",
+      "證",
+      "明",
+      "頂",
+      "影",
+      "蝦",
+      "蟆",
+      "擔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "頂",
+    "similarChars": [
+      {
+        "char": "項",
+        "similarity": "右邊都有頁",
+        "difference": "頂左邊是丁；項左邊是工。"
+      },
+      {
+        "char": "顆",
+        "similarity": "右邊都有頁",
+        "difference": "頂左邊是丁；顆左邊是果。"
+      },
+      {
+        "char": "領",
+        "similarity": "右邊都有頁",
+        "difference": "頂左邊是丁；領左邊是令。"
+      },
+      {
+        "char": "頸",
+        "similarity": "右邊都有頁",
+        "difference": "頂左邊是丁；頸左邊是巠形部件。"
+      },
+      {
+        "char": "顏",
+        "similarity": "右邊都有頁",
+        "difference": "頂左邊是丁；顏左邊筆畫較多。"
+      },
+      {
+        "char": "丁",
+        "similarity": "頂的左邊完整是丁",
+        "difference": "頂比丁多右邊頁。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。右邊頁共九畫要寫完整；左邊丁只有兩畫。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_2dfb613bf4d5d5c3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "抓",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "抓",
+    "groups": {
+      "shape": [
+        {
+          "char": "爬",
+          "why": "左邊都有爪形",
+          "difference": "抓左邊是扌、右邊是爪；爬左邊是爪、右邊是巴。"
+        },
+        {
+          "char": "瓜",
+          "why": "和抓右邊的爪輪廓接近",
+          "difference": "瓜中間多一點和不同的曲筆；爪筆畫較少。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "爪",
+          "why": "近音比較：抓讀ㄓㄨㄚ；爪單說常讀ㄓㄨㄚˇ，聲調不同。",
+          "difference": "抓是動作；爪是動物的腳爪或指甲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "握取",
+          "why": "抓是用手指把人或物握住、拿住。",
+          "difference": "抓和看不同；本課提醒只能看，不要伸手抓。"
+        }
+      ],
+      "component": [
+        {
+          "char": "爪",
+          "why": "抓的右邊完整是爪",
+          "difference": "抓比爪多左邊扌。"
+        }
+      ]
+    },
+    "tip": "把「抓」放回課文語詞「不要抓」判斷，再檢查扌與其餘部件。右邊是爪，不是瓜；中間沒有瓜的一點。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

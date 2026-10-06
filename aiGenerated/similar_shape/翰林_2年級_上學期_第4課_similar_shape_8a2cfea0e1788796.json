@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第4課_similar_shape_8a2cfea0e1788796",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "乖",
+    "lessonChars": [
+      "呱",
+      "聞",
+      "聲",
+      "猜",
+      "蛙",
+      "別",
+      "靠",
+      "近",
+      "抓",
+      "如",
+      "果",
+      "乖",
+      "腦",
+      "袋",
+      "瓜",
+      "證",
+      "明",
+      "頂",
+      "影",
+      "蝦",
+      "蟆",
+      "擔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "乖",
+    "similarChars": [
+      {
+        "char": "乘",
+        "similarity": "整體輪廓與乖非常接近",
+        "difference": "乖中下部是北形；乘中間多禾形橫撇配置。"
+      },
+      {
+        "char": "垂",
+        "similarity": "都有中央直豎與多橫的輪廓",
+        "difference": "乖下方分成北形；垂下方橫畫層疊。"
+      },
+      {
+        "char": "重",
+        "similarity": "都有中央直豎與層疊橫畫",
+        "difference": "乖下方左右分開；重中間是里形。"
+      },
+      {
+        "char": "千",
+        "similarity": "乖的上方有千形",
+        "difference": "乖比千多下方北形部件。"
+      },
+      {
+        "char": "北",
+        "similarity": "乖的下方有北形",
+        "difference": "乖比北多上方千形。"
+      },
+      {
+        "char": "告",
+        "similarity": "都有上方撇橫豎的輪廓",
+        "difference": "乖下方是北形；告下方是口。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。乖共八畫，中央直豎貫穿；左右下方不要寫反。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

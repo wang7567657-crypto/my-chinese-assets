@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第4課_similar_shape_24a26f2c1c488377",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "腦",
+    "lessonChars": [
+      "呱",
+      "聞",
+      "聲",
+      "猜",
+      "蛙",
+      "別",
+      "靠",
+      "近",
+      "抓",
+      "如",
+      "果",
+      "乖",
+      "腦",
+      "袋",
+      "瓜",
+      "證",
+      "明",
+      "頂",
+      "影",
+      "蝦",
+      "蟆",
+      "擔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "腦",
+    "similarChars": [
+      {
+        "char": "惱",
+        "similarity": "右邊都有巛囟形部件",
+        "difference": "腦左邊是月；惱左邊是忄。"
+      },
+      {
+        "char": "瑙",
+        "similarity": "右邊都有巛囟形部件",
+        "difference": "腦左邊是月；瑙左邊是王，瑙多見於瑪瑙。"
+      },
+      {
+        "char": "胸",
+        "similarity": "左邊都有月",
+        "difference": "腦右邊是巛囟形；胸右邊是匈。"
+      },
+      {
+        "char": "腿",
+        "similarity": "左邊都有月",
+        "difference": "腦右邊是巛囟形；腿右邊是退。"
+      },
+      {
+        "char": "臉",
+        "similarity": "左邊都有月",
+        "difference": "腦右邊是巛囟形；臉右邊是僉形部件。"
+      },
+      {
+        "char": "腸",
+        "similarity": "左邊都有月",
+        "difference": "腦右邊是巛囟形；腸右邊是昜形部件。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。左邊是肉月旁；右上三撇折，右下框內有交叉筆。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

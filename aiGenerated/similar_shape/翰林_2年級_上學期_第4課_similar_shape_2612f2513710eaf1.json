@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第4課_similar_shape_2612f2513710eaf1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "靠",
+    "lessonChars": [
+      "呱",
+      "聞",
+      "聲",
+      "猜",
+      "蛙",
+      "別",
+      "靠",
+      "近",
+      "抓",
+      "如",
+      "果",
+      "乖",
+      "腦",
+      "袋",
+      "瓜",
+      "證",
+      "明",
+      "頂",
+      "影",
+      "蝦",
+      "蟆",
+      "擔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "靠",
+    "similarChars": [
+      {
+        "char": "非",
+        "similarity": "靠的下方完整是非",
+        "difference": "靠比非多上方的告。"
+      },
+      {
+        "char": "排",
+        "similarity": "右邊都有非",
+        "difference": "靠上方是告；排左邊多扌。"
+      },
+      {
+        "char": "悲",
+        "similarity": "上方都有非",
+        "difference": "靠上方是告、下方是非；悲上方是非、下方是心。"
+      },
+      {
+        "char": "輩",
+        "similarity": "上方都有非",
+        "difference": "靠下方是非；輩上方是非、下方是車。"
+      },
+      {
+        "char": "菲",
+        "similarity": "下方都有非",
+        "difference": "靠上方是告；菲上方是艹。"
+      },
+      {
+        "char": "罪",
+        "similarity": "下方都有非",
+        "difference": "靠上方是告；罪上方是罒。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。下方非左右各三橫，中間兩豎分清楚。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

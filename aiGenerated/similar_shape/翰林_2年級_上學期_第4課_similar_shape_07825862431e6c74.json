@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第4課_similar_shape_07825862431e6c74",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "果",
+    "lessonChars": [
+      "呱",
+      "聞",
+      "聲",
+      "猜",
+      "蛙",
+      "別",
+      "靠",
+      "近",
+      "抓",
+      "如",
+      "果",
+      "乖",
+      "腦",
+      "袋",
+      "瓜",
+      "證",
+      "明",
+      "頂",
+      "影",
+      "蝦",
+      "蟆",
+      "擔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "果",
+    "similarChars": [
+      {
+        "char": "棵",
+        "similarity": "右邊完整是果",
+        "difference": "果沒有左邊木；棵多木字旁。"
+      },
+      {
+        "char": "顆",
+        "similarity": "左邊完整是果",
+        "difference": "果沒有右邊頁；顆用作量詞。"
+      },
+      {
+        "char": "課",
+        "similarity": "右邊完整是果",
+        "difference": "果沒有左邊言；課多言字旁。"
+      },
+      {
+        "char": "裸",
+        "similarity": "右邊完整是果",
+        "difference": "果沒有左邊衤；裸多衣字旁。"
+      },
+      {
+        "char": "巢",
+        "similarity": "下方有果形輪廓",
+        "difference": "巢比果多上方巛，整體筆畫較多。"
+      },
+      {
+        "char": "東",
+        "similarity": "都有日形和穿過中間的豎畫",
+        "difference": "果下方撇捺展開；東的外框與筆順不同。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。中間直豎上下相連；下方撇捺要伸展。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_ed767f95c380200c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "袋",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "袋",
+    "groups": {
+      "shape": [
+        {
+          "char": "貸",
+          "why": "上方都有代",
+          "difference": "袋下方是衣；貸下方是貝。"
+        },
+        {
+          "char": "黛",
+          "why": "上方都有代",
+          "difference": "袋下方是衣；黛下方是黑。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "代",
+          "why": "同音比較：袋和代都讀ㄉㄞˋ。",
+          "difference": "袋是袋子或腦袋的袋；代可表示替代或世代。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "腦袋",
+          "why": "本課腦袋是頭部的口語稱呼。",
+          "difference": "袋也可指裝東西的容器；要依前面的腦判斷。"
+        }
+      ],
+      "component": [
+        {
+          "char": "岱",
+          "why": "上方都有代",
+          "difference": "袋下方是衣；岱下方是山。"
+        }
+      ]
+    },
+    "tip": "把「袋」放回課文語詞「腦袋瓜」判斷，再檢查衣與其餘部件。下方是完整的衣，撇捺要展開；本課「腦袋」不是裝東西的袋子。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第4課_confusion_analysis_392cc574fac9ab2b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "呱",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "呱",
+    "groups": {
+      "shape": [
+        {
+          "char": "咕",
+          "why": "左邊都有口，右部外形接近",
+          "difference": "呱右邊是瓜；咕右邊是古。"
+        },
+        {
+          "char": "孤",
+          "why": "右邊都有瓜",
+          "difference": "呱左邊是口；孤左邊是子。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "瓜",
+          "why": "同音比較：呱和瓜都讀ㄍㄨㄚ。",
+          "difference": "呱常表示叫聲；瓜是植物果實。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "叫聲",
+          "why": "呱可用來描寫青蛙的叫聲。",
+          "difference": "呱呱在本課是擬聲詞，不是瓜果的瓜。"
+        }
+      ],
+      "component": [
+        {
+          "char": "狐",
+          "why": "右邊都有瓜",
+          "difference": "呱左邊是口；狐左邊是犭。"
+        }
+      ]
+    },
+    "tip": "把「呱」放回課文語詞「呱呱」判斷，再檢查口與其餘部件。左邊口要寫窄；右邊是瓜，不是爪。"
+  },
+  "createdAt": "2026-10-06T10:13:41.344Z"
+}
