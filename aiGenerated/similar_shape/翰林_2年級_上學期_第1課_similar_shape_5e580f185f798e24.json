@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第1課_similar_shape_5e580f185f798e24",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "盆",
+    "lessonChars": [
+      "候",
+      "颳",
+      "冷",
+      "躲",
+      "閃",
+      "電",
+      "難",
+      "烏",
+      "雲",
+      "密",
+      "布",
+      "盆",
+      "充",
+      "滿",
+      "放",
+      "晴",
+      "現",
+      "虹",
+      "傾",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "盆",
+    "similarChars": [
+      {
+        "char": "盤",
+        "similarity": "共用下面皿",
+        "difference": "盆上是分；盤上是般。"
+      },
+      {
+        "char": "盒",
+        "similarity": "共用下面皿",
+        "difference": "盆上是分；盒上是合。"
+      },
+      {
+        "char": "益",
+        "similarity": "共用下面皿，上方都有左右斜筆",
+        "difference": "盆上是分，含刀；益上方筆畫不同，沒有刀形。"
+      },
+      {
+        "char": "盃",
+        "similarity": "共用下面皿",
+        "difference": "盆上是分；盃上是不。"
+      },
+      {
+        "char": "貧",
+        "similarity": "共用上面分",
+        "difference": "盆下是皿；貧下是貝，底下有分開的兩筆。"
+      },
+      {
+        "char": "忿",
+        "similarity": "共用上面分",
+        "difference": "盆下是皿；忿下是心。"
+      }
+    ],
+    "teachingTip": "皿裡豎畫清楚；上面分的刀不要寫成力。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

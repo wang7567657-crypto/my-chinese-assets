@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_539b4cb468a1c49e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "颳",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "颳",
+    "groups": {
+      "shape": [
+        {
+          "char": "颱",
+          "why": "共用風部，左右輪廓相近",
+          "difference": "颳右是舌，颱右是台。"
+        },
+        {
+          "char": "颶",
+          "why": "共用風部",
+          "difference": "颳右是舌，颶右是具。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "瓜",
+          "why": "同音：颳、瓜都讀ㄍㄨㄚ。",
+          "difference": "颳是風吹；瓜是植物的果實。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "吹",
+          "why": "颳風與風吹的意思相近。",
+          "difference": "颳常組颳風；吹還可組吹氣、吹笛，用法較廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "颱",
+          "why": "部件比較：共用風部，左右輪廓相近",
+          "difference": "颳右是舌，颱右是台。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「颳風」，再依字形與句意選字。先看風部，再看右側舌，舌上方不要漏撇。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

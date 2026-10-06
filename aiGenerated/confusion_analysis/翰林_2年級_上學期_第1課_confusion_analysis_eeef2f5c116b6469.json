@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_eeef2f5c116b6469",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "冷",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "冷",
+    "groups": {
+      "shape": [
+        {
+          "char": "泠",
+          "why": "共用令，左側都有點畫",
+          "difference": "冷左是兩點冫；泠左是三點氵，泠較少見。"
+        },
+        {
+          "char": "玲",
+          "why": "共用右側令",
+          "difference": "冷左是冫；玲左是王形玉旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "領",
+          "why": "近音：冷ㄌㄥˇ、領ㄌㄧㄥˇ，聲母及聲調相同，韻母不同。",
+          "difference": "聽清有沒有ㄧ；冷是冷熱，領是領取、衣領。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "涼",
+          "why": "都能描述溫度低。",
+          "difference": "冷通常比涼更寒冷；『冷冷的風』依課文寫冷。"
+        }
+      ],
+      "component": [
+        {
+          "char": "泠",
+          "why": "部件比較：共用令，左側都有點畫",
+          "difference": "冷左是兩點冫；泠左是三點氵，泠較少見。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「冷冷的風」，再依字形與句意選字。圈左邊兩點，與三點水的泠比較。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

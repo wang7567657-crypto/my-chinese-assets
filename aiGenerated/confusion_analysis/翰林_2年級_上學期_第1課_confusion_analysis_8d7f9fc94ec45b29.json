@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_8d7f9fc94ec45b29",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "放",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "放",
+    "groups": {
+      "shape": [
+        {
+          "char": "防",
+          "why": "共用方部件",
+          "difference": "放是方在左、攵在右；防是阝在左、方在右。"
+        },
+        {
+          "char": "訪",
+          "why": "共用方部件",
+          "difference": "放是方在左、攵在右；訪是言在左、方在右。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "訪",
+          "why": "近音：放ㄈㄤˋ、訪ㄈㄤˇ，聲母韻母相同，聲調不同。",
+          "difference": "放可組放晴；訪可組拜訪，分清第四聲、第三聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "擺",
+          "why": "放、擺都可指把物品置於某處。",
+          "difference": "課文『放晴』指天氣變晴，不能換成擺晴。"
+        }
+      ],
+      "component": [
+        {
+          "char": "訪",
+          "why": "部件比較：共用方部件",
+          "difference": "放是方在左、攵在右；訪是言在左、方在右。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「放晴」，再依字形與句意選字。右側攵有四畫；不是文，也不是夂。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

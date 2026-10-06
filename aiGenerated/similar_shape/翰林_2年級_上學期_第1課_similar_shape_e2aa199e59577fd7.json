@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第1課_similar_shape_e2aa199e59577fd7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "候",
+    "lessonChars": [
+      "候",
+      "颳",
+      "冷",
+      "躲",
+      "閃",
+      "電",
+      "難",
+      "烏",
+      "雲",
+      "密",
+      "布",
+      "盆",
+      "充",
+      "滿",
+      "放",
+      "晴",
+      "現",
+      "虹",
+      "傾",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "候",
+    "similarChars": [
+      {
+        "char": "侯",
+        "similarity": "左側人旁及右側主體相近",
+        "difference": "候中間多一豎；侯沒有這一豎。"
+      },
+      {
+        "char": "喉",
+        "similarity": "右側含侯形部件，輪廓與候右側相近",
+        "difference": "喉左是口，候左是亻且中間另有一豎。"
+      },
+      {
+        "char": "猴",
+        "similarity": "右側含侯形部件",
+        "difference": "猴左是犭；候左是亻且中間另有一豎。"
+      },
+      {
+        "char": "堠",
+        "similarity": "右側含侯形部件",
+        "difference": "堠左是土，候左是亻且中間另有一豎；堠為少見字。"
+      },
+      {
+        "char": "糇",
+        "similarity": "右側含侯形部件",
+        "difference": "糇左是米，候左是亻且中間另有一豎；糇為少見字。"
+      },
+      {
+        "char": "瘊",
+        "similarity": "內部含侯形部件",
+        "difference": "瘊外有疒，候左是亻且中間另有一豎；瘊為少見字。"
+      }
+    ],
+    "teachingTip": "與侯並排，先指中間的豎畫；候比侯多這一豎。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

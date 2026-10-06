@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第1課_similar_shape_836d93dab4d7b289",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "放",
+    "lessonChars": [
+      "候",
+      "颳",
+      "冷",
+      "躲",
+      "閃",
+      "電",
+      "難",
+      "烏",
+      "雲",
+      "密",
+      "布",
+      "盆",
+      "充",
+      "滿",
+      "放",
+      "晴",
+      "現",
+      "虹",
+      "傾",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "放",
+    "similarChars": [
+      {
+        "char": "防",
+        "similarity": "共用方部件",
+        "difference": "放是方在左、攵在右；防是阝在左、方在右。"
+      },
+      {
+        "char": "訪",
+        "similarity": "共用方部件",
+        "difference": "放是方在左、攵在右；訪是言在左、方在右。"
+      },
+      {
+        "char": "坊",
+        "similarity": "共用方部件",
+        "difference": "放是方在左、攵在右；坊是土在左、方在右。"
+      },
+      {
+        "char": "房",
+        "similarity": "共用方部件",
+        "difference": "放左右排列；房是戶在上方包住下面的方。"
+      },
+      {
+        "char": "政",
+        "similarity": "右側同為攵",
+        "difference": "放左是方；政左是正。"
+      },
+      {
+        "char": "故",
+        "similarity": "右側同為攵",
+        "difference": "放左是方；故左是古。"
+      }
+    ],
+    "teachingTip": "右側攵有四畫；不是文，也不是夂。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_6f88734cb8090cb1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "電",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "電",
+    "groups": {
+      "shape": [
+        {
+          "char": "雷",
+          "why": "共用雨字頭，下方都有方框形",
+          "difference": "電下方有向下伸出並右彎的筆畫；雷下方是田。"
+        },
+        {
+          "char": "雪",
+          "why": "共用雨字頭",
+          "difference": "電下方是電的下部；雪下方是彐形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "店",
+          "why": "同音：電、店都讀ㄉㄧㄢˋ。",
+          "difference": "電可組閃電、電燈；店可組商店。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "雷",
+          "why": "閃電與打雷常在同一天氣出現。",
+          "difference": "電在『閃電』中指亮光；雷指雷聲，不要把看見與聽見混在一起。"
+        }
+      ],
+      "component": [
+        {
+          "char": "雷",
+          "why": "部件比較：共用雨字頭，下方都有方框形",
+          "difference": "電下方有向下伸出並右彎的筆畫；雷下方是田。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「閃電」，再依字形與句意選字。比較雷，電下方有伸出的豎彎鉤，不是單獨一個田。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

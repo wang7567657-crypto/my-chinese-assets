@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第1課_memory_strategy_71c43881d8f30d98",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "麗",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "麗",
+    "components": [
+      "上方成對部件",
+      "鹿"
+    ],
+    "association": "在美麗彩虹旁保留麗字，先看上方兩個相似小框，再看下方鹿。",
+    "mnemonic": "上方兩邊成一對，下面鹿字記清楚。",
+    "visualPrompt": "保留標準繁體「麗」完整字形，依已核對部首與其餘筆畫分色；在字旁另畫「美麗」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "上方左右各有點畫；下方鹿內部與底部匕形不能省略。美麗讀ㄌㄧˋ。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第1課_similar_shape_c43b338b81eeeeb3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "閃",
+    "lessonChars": [
+      "候",
+      "颳",
+      "冷",
+      "躲",
+      "閃",
+      "電",
+      "難",
+      "烏",
+      "雲",
+      "密",
+      "布",
+      "盆",
+      "充",
+      "滿",
+      "放",
+      "晴",
+      "現",
+      "虹",
+      "傾",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "閃",
+    "similarChars": [
+      {
+        "char": "閂",
+        "similarity": "共用門框",
+        "difference": "閃門內是人；閂門內是一橫，閂較少見。"
+      },
+      {
+        "char": "閔",
+        "similarity": "共用門框",
+        "difference": "閃門內是人；閔門內是文，閔較少見。"
+      },
+      {
+        "char": "閑",
+        "similarity": "共用門框",
+        "difference": "閃門內是人；閑門內是木。"
+      },
+      {
+        "char": "閉",
+        "similarity": "共用門框",
+        "difference": "閃門內是人；閉門內是才。"
+      },
+      {
+        "char": "闖",
+        "similarity": "共用門框",
+        "difference": "閃門內是人；闖門內是馬。"
+      },
+      {
+        "char": "問",
+        "similarity": "共用門框",
+        "difference": "閃門內是人；問門內是口。"
+      }
+    ],
+    "teachingTip": "用手指遮住門，只看裡面是人；再與問的口比較。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

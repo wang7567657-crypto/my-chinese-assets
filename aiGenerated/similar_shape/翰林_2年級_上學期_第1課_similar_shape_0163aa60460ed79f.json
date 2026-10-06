@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第1課_similar_shape_0163aa60460ed79f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "傾",
+    "lessonChars": [
+      "候",
+      "颳",
+      "冷",
+      "躲",
+      "閃",
+      "電",
+      "難",
+      "烏",
+      "雲",
+      "密",
+      "布",
+      "盆",
+      "充",
+      "滿",
+      "放",
+      "晴",
+      "現",
+      "虹",
+      "傾",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "傾",
+    "similarChars": [
+      {
+        "char": "頃",
+        "similarity": "共用頃部件",
+        "difference": "傾左多亻；頃沒有亻。"
+      },
+      {
+        "char": "頌",
+        "similarity": "右側都含頁，整體輪廓相近",
+        "difference": "傾左有亻，頁左還有匕形；頌左是公、右是頁。"
+      },
+      {
+        "char": "領",
+        "similarity": "右側都含頁，整體輪廓相近",
+        "difference": "傾含亻及頃；領左是令、右是頁。"
+      },
+      {
+        "char": "頑",
+        "similarity": "右側都含頁",
+        "difference": "傾左有亻及匕形；頑左是元。"
+      },
+      {
+        "char": "頓",
+        "similarity": "右側都含頁",
+        "difference": "傾左有亻及匕形；頓左是屯。"
+      },
+      {
+        "char": "順",
+        "similarity": "右側都含頁，左側都有縱向筆畫",
+        "difference": "傾左有亻及匕形；順左是川。"
+      }
+    ],
+    "teachingTip": "右邊頃含匕形與頁；不要把頁下方兩筆漏掉。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

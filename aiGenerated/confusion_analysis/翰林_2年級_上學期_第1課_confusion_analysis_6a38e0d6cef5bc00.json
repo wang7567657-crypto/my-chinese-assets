@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_6a38e0d6cef5bc00",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "候",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "候",
+    "groups": {
+      "shape": [
+        {
+          "char": "侯",
+          "why": "左側人旁及右側主體相近",
+          "difference": "候中間多一豎；侯沒有這一豎。"
+        },
+        {
+          "char": "喉",
+          "why": "右側含侯形部件，輪廓與候右側相近",
+          "difference": "喉左是口，候左是亻且中間另有一豎。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "后",
+          "why": "同音：候、后都讀ㄏㄡˋ。",
+          "difference": "候用於時候、等候；后用於皇后，不要只聽聲音寫字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "等",
+          "why": "等候的意思接近。",
+          "difference": "候可組時候、等候；等可組等待，『時候』不能換寫成『時等』。"
+        }
+      ],
+      "component": [
+        {
+          "char": "喉",
+          "why": "部件比較：右側含侯形部件，輪廓與候右側相近",
+          "difference": "喉左是口，候左是亻且中間另有一豎。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「時候」，再依字形與句意選字。與侯並排，先指中間的豎畫；候比侯多這一豎。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

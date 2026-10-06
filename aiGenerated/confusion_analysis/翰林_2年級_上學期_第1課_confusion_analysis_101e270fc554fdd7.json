@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_101e270fc554fdd7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "盆",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "盆",
+    "groups": {
+      "shape": [
+        {
+          "char": "盤",
+          "why": "共用下面皿",
+          "difference": "盆上是分；盤上是般。"
+        },
+        {
+          "char": "盒",
+          "why": "共用下面皿",
+          "difference": "盆上是分；盒上是合。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "朋",
+          "why": "近音：盆ㄆㄣˊ、朋ㄆㄥˊ，聲母、聲調相同，韻母不同。",
+          "difference": "盆是容器；朋可組朋友，聽清ㄣ與ㄥ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "盤",
+          "why": "盆、盤都可能是裝東西的容器。",
+          "difference": "盆通常較深，盤通常較淺；傾盆大雨固定用盆。"
+        }
+      ],
+      "component": [
+        {
+          "char": "盤",
+          "why": "部件比較：共用下面皿",
+          "difference": "盆上是分；盤上是般。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「傾盆大雨」，再依字形與句意選字。皿裡豎畫清楚；上面分的刀不要寫成力。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

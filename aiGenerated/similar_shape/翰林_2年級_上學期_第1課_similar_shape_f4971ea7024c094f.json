@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第1課_similar_shape_f4971ea7024c094f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "布",
+    "lessonChars": [
+      "候",
+      "颳",
+      "冷",
+      "躲",
+      "閃",
+      "電",
+      "難",
+      "烏",
+      "雲",
+      "密",
+      "布",
+      "盆",
+      "充",
+      "滿",
+      "放",
+      "晴",
+      "現",
+      "虹",
+      "傾",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "布",
+    "similarChars": [
+      {
+        "char": "市",
+        "similarity": "下方都含巾",
+        "difference": "布上方是橫、撇；市上方是點、橫。"
+      },
+      {
+        "char": "帛",
+        "similarity": "都含巾，上下輪廓相近",
+        "difference": "布上方是橫、撇；帛上方是白。"
+      },
+      {
+        "char": "希",
+        "similarity": "下部完整含布",
+        "difference": "希在布上方另外有交叉筆畫。"
+      },
+      {
+        "char": "佈",
+        "similarity": "右側完整含布",
+        "difference": "佈左多亻；布沒有亻。兩字用法依詞語判斷。"
+      },
+      {
+        "char": "怖",
+        "similarity": "右側完整含布",
+        "difference": "怖左多忄；布沒有忄。"
+      },
+      {
+        "char": "有",
+        "similarity": "上方都是橫、撇",
+        "difference": "布下是巾；有下是月，內部橫畫不同。"
+      }
+    ],
+    "teachingTip": "巾的中間豎要伸出；布的上方不是十。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第1課_memory_strategy_ec1eb65b3e3955b6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "電",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "電",
+    "components": [
+      "雨字頭",
+      "下方部件"
+    ],
+    "association": "雨雲下閃出電光；把下方往右彎的末筆記住。",
+    "mnemonic": "雨在上，末筆彎，閃電亮在天空上。",
+    "visualPrompt": "保留標準繁體「電」完整字形，依已核對部首與其餘筆畫分色；在字旁另畫「閃電」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "比較雷，電下方有伸出的豎彎鉤，不是單獨一個田。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

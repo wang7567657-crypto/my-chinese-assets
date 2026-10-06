@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第1課_similar_shape_596c5c9fc071f21f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "虹",
+    "lessonChars": [
+      "候",
+      "颳",
+      "冷",
+      "躲",
+      "閃",
+      "電",
+      "難",
+      "烏",
+      "雲",
+      "密",
+      "布",
+      "盆",
+      "充",
+      "滿",
+      "放",
+      "晴",
+      "現",
+      "虹",
+      "傾",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "虹",
+    "similarChars": [
+      {
+        "char": "紅",
+        "similarity": "共用右側工",
+        "difference": "虹左是虫；紅左是糹。"
+      },
+      {
+        "char": "江",
+        "similarity": "共用右側工",
+        "difference": "虹左是虫；江左是氵。"
+      },
+      {
+        "char": "訌",
+        "similarity": "共用右側工",
+        "difference": "虹左是虫；訌左是言，訌較少見。"
+      },
+      {
+        "char": "肛",
+        "similarity": "共用右側工",
+        "difference": "虹左是虫；肛左是月形肉旁。"
+      },
+      {
+        "char": "蚣",
+        "similarity": "共用左側虫，右側下方輪廓較簡單",
+        "difference": "虹右是工；蚣右是公，含八及厶。"
+      },
+      {
+        "char": "蚯",
+        "similarity": "共用左側虫，右側都有橫豎組合",
+        "difference": "虹右是工三畫；蚯右是丘五畫，另有撇及內豎。"
+      }
+    ],
+    "teachingTip": "工只有三畫，不要多點寫成玉；彩虹讀ㄏㄨㄥˊ。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

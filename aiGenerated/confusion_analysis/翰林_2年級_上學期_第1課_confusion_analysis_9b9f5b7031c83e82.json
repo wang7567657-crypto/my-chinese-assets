@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_9b9f5b7031c83e82",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "麗",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "麗",
+    "groups": {
+      "shape": [
+        {
+          "char": "儷",
+          "why": "右側完整含麗",
+          "difference": "儷左多亻；麗沒有亻，儷較少見。"
+        },
+        {
+          "char": "驪",
+          "why": "右側完整含麗",
+          "difference": "驪左多馬；麗沒有馬，驪較少見。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "利",
+          "why": "同音：美麗的麗、利都讀ㄌㄧˋ。",
+          "difference": "麗是美麗；利可組有利、利害。麗在高麗讀ㄌㄧˊ，本課讀ㄌㄧˋ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "美",
+          "why": "美麗中的兩字都與好看有關。",
+          "difference": "麗可組美麗、秀麗；美還可組美食，不把所有美字換麗。"
+        }
+      ],
+      "component": [
+        {
+          "char": "驪",
+          "why": "部件比較：右側完整含麗",
+          "difference": "驪左多馬；麗沒有馬，驪較少見。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「美麗」，再依字形與句意選字。上方左右各有點畫；下方鹿內部與底部匕形不能省略。美麗讀ㄌㄧˋ。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

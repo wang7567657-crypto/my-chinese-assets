@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第1課_similar_shape_a91ebf865f3a83c1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "難",
+    "lessonChars": [
+      "候",
+      "颳",
+      "冷",
+      "躲",
+      "閃",
+      "電",
+      "難",
+      "烏",
+      "雲",
+      "密",
+      "布",
+      "盆",
+      "充",
+      "滿",
+      "放",
+      "晴",
+      "現",
+      "虹",
+      "傾",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "難",
+    "similarChars": [
+      {
+        "char": "漢",
+        "similarity": "共用難的左側主體部件",
+        "difference": "難右是隹；漢左是氵、右是相近主體部件。"
+      },
+      {
+        "char": "嘆",
+        "similarity": "共用難的左側主體部件",
+        "difference": "難右是隹；嘆左是口、右是相近主體部件。"
+      },
+      {
+        "char": "灘",
+        "similarity": "右側完整含難",
+        "difference": "灘左多氵；難沒有氵。"
+      },
+      {
+        "char": "攤",
+        "similarity": "右側完整含難",
+        "difference": "攤左多扌；難沒有扌。"
+      },
+      {
+        "char": "癱",
+        "similarity": "內部完整含難",
+        "difference": "癱外有疒；難沒有疒。"
+      },
+      {
+        "char": "獲",
+        "similarity": "右側都含隹形部件，筆畫密集",
+        "difference": "難右是隹，左是難的左部；獲左是犭，右側另外有艹與又，不能只看隹。"
+      }
+    ],
+    "teachingTip": "右邊是隹，不是住的主；本課難過讀ㄋㄢˊ，災難的難讀ㄋㄢˋ。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第1課_similar_shape_02ab51030918fffb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "冷",
+    "lessonChars": [
+      "候",
+      "颳",
+      "冷",
+      "躲",
+      "閃",
+      "電",
+      "難",
+      "烏",
+      "雲",
+      "密",
+      "布",
+      "盆",
+      "充",
+      "滿",
+      "放",
+      "晴",
+      "現",
+      "虹",
+      "傾",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "冷",
+    "similarChars": [
+      {
+        "char": "泠",
+        "similarity": "共用令，左側都有點畫",
+        "difference": "冷左是兩點冫；泠左是三點氵，泠較少見。"
+      },
+      {
+        "char": "玲",
+        "similarity": "共用右側令",
+        "difference": "冷左是冫；玲左是王形玉旁。"
+      },
+      {
+        "char": "鈴",
+        "similarity": "共用右側令",
+        "difference": "冷左是冫；鈴左是金。"
+      },
+      {
+        "char": "伶",
+        "similarity": "共用右側令",
+        "difference": "冷左是冫；伶左是亻。"
+      },
+      {
+        "char": "拎",
+        "similarity": "共用右側令",
+        "difference": "冷左是冫；拎左是扌。"
+      },
+      {
+        "char": "領",
+        "similarity": "共用令部件",
+        "difference": "冷是冫在左、令在右；領是令在左、頁在右。"
+      }
+    ],
+    "teachingTip": "圈左邊兩點，與三點水的泠比較。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

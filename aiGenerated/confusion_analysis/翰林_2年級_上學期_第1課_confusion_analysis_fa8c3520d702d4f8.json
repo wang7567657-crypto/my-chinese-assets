@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_fa8c3520d702d4f8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "晴",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "晴",
+    "groups": {
+      "shape": [
+        {
+          "char": "情",
+          "why": "共用右側青",
+          "difference": "晴左是日；情左是忄。"
+        },
+        {
+          "char": "清",
+          "why": "共用右側青",
+          "difference": "晴左是日；清左是氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "情",
+          "why": "同音：晴、情都讀ㄑㄧㄥˊ。",
+          "difference": "晴是天氣；情是心情，先看句意再選偏旁。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "朗",
+          "why": "晴朗中兩字都與明亮、天氣好有關。",
+          "difference": "晴主要描述天氣；朗也可組朗讀，本課放晴用晴。"
+        }
+      ],
+      "component": [
+        {
+          "char": "情",
+          "why": "部件比較：共用右側青",
+          "difference": "晴左是日；情左是忄。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「放晴」，再依字形與句意選字。先判斷詞義，天氣放晴用日；心情用忄的情。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}
