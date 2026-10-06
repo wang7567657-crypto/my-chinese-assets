@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第7課_memory_strategy_dd8136e5e20385af",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "鋼",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鋼",
+    "components": [
+      "金",
+      "岡"
+    ],
+    "association": "想到堅固的鋼材，字形是金加岡。",
+    "mnemonic": "金在左，岡在右，岡裡有山不是口。",
+    "visualPrompt": "保留「鋼」字，金、岡分色；另外畫鋼材，不把岡的山形改成口。",
+    "teachingTip": "和銅並排，比較岡內山形、同內口形。 這是教學聯想，不是字源解釋；圖像放在字旁，保持標準字形與筆畫。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

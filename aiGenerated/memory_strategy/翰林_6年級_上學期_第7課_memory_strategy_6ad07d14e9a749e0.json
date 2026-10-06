@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第7課_memory_strategy_6ad07d14e9a749e0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "蕨",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蕨",
+    "components": [
+      "艹",
+      "厥"
+    ],
+    "association": "蕨是植物，先看上方艹，再完整觀察下方厥。",
+    "mnemonic": "草在上，厥在下，蕨類的蕨別漏畫。",
+    "visualPrompt": "完整「蕨」字上、下分色，蕨葉放在字外，不遮住厥的筆畫。",
+    "teachingTip": "厥只作整體辨形，不猜分成新的部件名稱。 這是教學聯想，不是字源解釋；圖像放在字旁，保持標準字形與筆畫。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

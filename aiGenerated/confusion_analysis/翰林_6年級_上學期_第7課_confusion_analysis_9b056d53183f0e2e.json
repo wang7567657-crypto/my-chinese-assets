@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_9b056d53183f0e2e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "姨",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "姨",
+    "groups": {
+      "shape": [
+        {
+          "char": "夷",
+          "why": "右邊同有夷",
+          "difference": "姨左邊多女。"
+        },
+        {
+          "char": "胰",
+          "why": "右邊同是夷",
+          "difference": "姨左邊是女，胰左邊是月。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "移",
+          "why": "姨、移都讀ㄧˊ",
+          "difference": "阿姨是親人；移動表示改變位置。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "姑",
+          "why": "都可指女性親屬，稱謂容易混用",
+          "difference": "阿姨可指母親的姊妹，也可作稱呼；姑姑是父親的姊妹。"
+        }
+      ],
+      "component": [
+        {
+          "char": "夷",
+          "why": "比較共同部件與偏旁位置。右邊同有夷",
+          "difference": "姨左邊多女。"
+        }
+      ]
+    },
+    "tip": "先寫女部，再觀察夷的橫畫、弓形和撇捺。 看字形、讀完整語詞，再確認意思；近音字已分別標示聲母或聲調差異。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

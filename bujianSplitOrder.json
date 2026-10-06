@@ -9105,6 +9105,864 @@
         "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/9b45.xml"
       },
       "updatedAt": "2026-10-03T18:09:08.581Z"
+    },
+    "姨": {
+      "structure": "左右",
+      "split": [
+        3,
+        6
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "components": [
+        "女",
+        "其餘部分"
+      ],
+      "strokeCount": 9,
+      "radical": "女",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/59e8.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "雕": {
+      "structure": "左右",
+      "split": [
+        8,
+        8
+      ],
+      "strokeGroups": [
+        [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      ],
+      "components": [
+        "隹",
+        "其餘部分"
+      ],
+      "strokeCount": 16,
+      "radical": "隹",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/96d5.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "拓": {
+      "structure": "左右",
+      "split": [
+        3,
+        5
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      ],
+      "components": [
+        "扌",
+        "其餘部分"
+      ],
+      "strokeCount": 8,
+      "radical": "手",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/62d3.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "蕨": {
+      "structure": "上下",
+      "split": [
+        4,
+        12
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      ],
+      "components": [
+        "艹",
+        "其餘部分"
+      ],
+      "strokeCount": 16,
+      "radical": "艸",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。本來源艹為四筆。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/8568.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "梅": {
+      "structure": "左右",
+      "split": [
+        4,
+        7
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "木",
+        "其餘部分"
+      ],
+      "strokeCount": 11,
+      "radical": "木",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6885.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "佇": {
+      "structure": "左右",
+      "split": [
+        2,
+        5
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "components": [
+        "亻",
+        "其餘部分"
+      ],
+      "strokeCount": 7,
+      "radical": "人",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/4f47.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "冽": {
+      "structure": "左右",
+      "split": [
+        2,
+        6
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      ],
+      "components": [
+        "冫",
+        "其餘部分"
+      ],
+      "strokeCount": 8,
+      "radical": "冫",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/51bd.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "澤": {
+      "structure": "左右",
+      "split": [
+        3,
+        13
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      ],
+      "components": [
+        "氵",
+        "其餘部分"
+      ],
+      "strokeCount": 16,
+      "radical": "水",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6fa4.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "苞": {
+      "structure": "上下",
+      "split": [
+        4,
+        5
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "components": [
+        "艹",
+        "其餘部分"
+      ],
+      "strokeCount": 9,
+      "radical": "艸",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。本來源艹為四筆。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/82de.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "錦": {
+      "structure": "左右",
+      "split": [
+        8,
+        8
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      ],
+      "components": [
+        "金",
+        "其餘部分"
+      ],
+      "strokeCount": 16,
+      "radical": "金",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/9326.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "鄒": {
+      "structure": "左右",
+      "split": [
+        3,
+        10
+      ],
+      "strokeGroups": [
+        [
+          11,
+          12,
+          13
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "components": [
+        "阝（右）",
+        "其餘部分"
+      ],
+      "strokeCount": 13,
+      "radical": "邑",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        11,
+        12,
+        13
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。右邊阝為邑部，與左阝的阜部不同。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/9112.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "眨": {
+      "structure": "左右",
+      "split": [
+        5,
+        5
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "components": [
+        "目",
+        "其餘部分"
+      ],
+      "strokeCount": 10,
+      "radical": "目",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/7728.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "鏽": {
+      "structure": "左右",
+      "split": [
+        8,
+        12
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      ],
+      "components": [
+        "金",
+        "其餘部分"
+      ],
+      "strokeCount": 20,
+      "radical": "金",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/93fd.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "鋼": {
+      "structure": "左右",
+      "split": [
+        8,
+        8
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      ],
+      "components": [
+        "金",
+        "其餘部分"
+      ],
+      "strokeCount": 16,
+      "radical": "金",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/92fc.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "涵": {
+      "structure": "左右",
+      "split": [
+        3,
+        8
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "氵",
+        "其餘部分"
+      ],
+      "strokeCount": 11,
+      "radical": "水",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6db5.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "銅": {
+      "structure": "左右",
+      "split": [
+        8,
+        6
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      ],
+      "components": [
+        "金",
+        "其餘部分"
+      ],
+      "strokeCount": 14,
+      "radical": "金",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/9285.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "籍": {
+      "structure": "上下",
+      "split": [
+        6,
+        14
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      ],
+      "components": [
+        "竹字頭",
+        "其餘部分"
+      ],
+      "strokeCount": 20,
+      "radical": "竹",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/7c4d.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
+    },
+    "略": {
+      "structure": "左右",
+      "split": [
+        5,
+        6
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "田",
+        "其餘部分"
+      ],
+      "strokeCount": 11,
+      "radical": "田",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，保留原字位置與組內原筆順，每筆只出現一次。",
+      "verification": {
+        "method": "解析原始 XML，核對筆畫數、輪廓無重複、座標及軌跡；渲染部首藍色與其餘筆畫橘色，逐字檢視位置與筆序。",
+        "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/7565.xml"
+      },
+      "updatedAt": "2026-10-06T06:16:12.660Z"
     }
   },
   "description": "陽光智慧黑板部件拆分字典。只有 verified=true 的資料可用於教學分色與部件拼貼。",

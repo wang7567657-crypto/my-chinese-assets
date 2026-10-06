@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_7d869f1d4bf10282",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "鋼",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鋼",
+    "groups": {
+      "shape": [
+        {
+          "char": "剛",
+          "why": "都包含岡",
+          "difference": "鋼的金在左，剛的刂在右。"
+        },
+        {
+          "char": "崗",
+          "why": "都包含岡",
+          "difference": "鋼的金在左，崗的山在上。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "剛",
+          "why": "鋼、剛都讀ㄍㄤ",
+          "difference": "鋼材用鋼，剛才用剛。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "鐵",
+          "why": "都是常見金屬材料相關用字",
+          "difference": "鋼是以鐵為主要成分的合金；依材料名稱寫鋼或鐵，不能一律互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "剛",
+          "why": "比較共同部件與偏旁位置。都包含岡",
+          "difference": "鋼的金在左，剛的刂在右。"
+        }
+      ]
+    },
+    "tip": "和銅並排，比較岡內山形、同內口形。 看字形、讀完整語詞，再確認意思；近音字已分別標示聲母或聲調差異。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

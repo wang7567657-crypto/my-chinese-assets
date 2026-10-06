@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第7課_memory_strategy_e108772f4581e6d9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "銅",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "銅",
+    "components": [
+      "金",
+      "同"
+    ],
+    "association": "想到青銅作品，提醒左邊金與右邊同。",
+    "mnemonic": "金在左，同在右，同裡有口銅記住。",
+    "visualPrompt": "保留「銅」字，金、同分色；青銅雕塑放在旁邊。",
+    "teachingTip": "比較鋼的岡與銅的同，先看右部裡面是山或口。 這是教學聯想，不是字源解釋；圖像放在字旁，保持標準字形與筆畫。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

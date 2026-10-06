@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第7課_similar_shape_6dd3394bc337bcc2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "梅",
+    "lessonChars": [
+      "姨",
+      "雕",
+      "拓",
+      "蕨",
+      "梅",
+      "佇",
+      "冽",
+      "澤",
+      "苞",
+      "錦",
+      "鄒",
+      "眨",
+      "鏽",
+      "鋼",
+      "涵",
+      "銅",
+      "籍",
+      "略"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "梅",
+    "similarChars": [
+      {
+        "char": "海",
+        "similarity": "右邊同是每",
+        "difference": "梅左邊是木，海左邊是氵。"
+      },
+      {
+        "char": "悔",
+        "similarity": "右邊同是每",
+        "difference": "梅左邊是木，悔左邊是忄。"
+      },
+      {
+        "char": "晦",
+        "similarity": "右邊同是每",
+        "difference": "梅左邊是木，晦左邊是日。"
+      },
+      {
+        "char": "侮",
+        "similarity": "右邊同是每",
+        "difference": "梅左邊是木，侮左邊是亻。"
+      },
+      {
+        "char": "每",
+        "similarity": "梅右邊就是每",
+        "difference": "每沒有左邊木。"
+      },
+      {
+        "char": "莓",
+        "similarity": "都包含每",
+        "difference": "梅的木在左，莓的艹在上。"
+      }
+    ],
+    "teachingTip": "每的內部兩點要保留；比較海、悔的左偏旁。 先找共用部件，再比較不同位置；字形相似不表示讀音或意思相同。較少見字以辨形為主。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第7課_memory_strategy_06959575b92cbadc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "錦",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "錦",
+    "components": [
+      "金",
+      "帛"
+    ],
+    "association": "想像有光彩的絲織品，提醒右邊帛是白在上、巾在下。",
+    "mnemonic": "金在左，帛在右，白加巾把錦記住。",
+    "visualPrompt": "保留「錦」字，金、白、巾分色；旁邊另畫花紋布料。",
+    "teachingTip": "金部是八筆；比較棉、綿時看左偏旁。 這是教學聯想，不是字源解釋；圖像放在字旁，保持標準字形與筆畫。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

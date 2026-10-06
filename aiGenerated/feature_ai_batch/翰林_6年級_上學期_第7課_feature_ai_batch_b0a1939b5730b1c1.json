@@ -1,0 +1,61 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_6年級_上學期_第7課_feature_ai_batch_b0a1939b5730b1c1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 18,
+    "batchCharacters": [
+      "姨",
+      "雕",
+      "拓",
+      "蕨",
+      "梅",
+      "佇",
+      "冽",
+      "澤",
+      "苞",
+      "錦",
+      "鄒",
+      "眨",
+      "鏽",
+      "鋼",
+      "涵",
+      "銅",
+      "籍",
+      "略"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 18,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_9b056d53183f0e2e.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_269f6638400a647a.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_4a77b1c9c817ae96.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_8603fdc1c6b9574e.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_7011c58933604243.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_f5fc98b97a7fe1d4.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_fc27feb77c62b338.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_763fcd2bae088b41.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_85d63e8ebd1d8444.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_00e68f665dc052e8.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_cd778de2623b02b5.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_6aeddf0d814de9a8.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_61331c9082c8ff61.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_7d869f1d4bf10282.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_c09ff48045301429.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_14a3a15e650ea296.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_b2954c8020ac35b7.json",
+      "aiGenerated/confusion_analysis/翰林_6年級_上學期_第7課_confusion_analysis_427435d92c90295c.json"
+    ]
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

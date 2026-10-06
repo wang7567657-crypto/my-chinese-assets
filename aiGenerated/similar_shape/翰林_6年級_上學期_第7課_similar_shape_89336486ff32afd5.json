@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第7課_similar_shape_89336486ff32afd5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "姨",
+    "lessonChars": [
+      "姨",
+      "雕",
+      "拓",
+      "蕨",
+      "梅",
+      "佇",
+      "冽",
+      "澤",
+      "苞",
+      "錦",
+      "鄒",
+      "眨",
+      "鏽",
+      "鋼",
+      "涵",
+      "銅",
+      "籍",
+      "略"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "姨",
+    "similarChars": [
+      {
+        "char": "夷",
+        "similarity": "右邊同有夷",
+        "difference": "姨左邊多女。"
+      },
+      {
+        "char": "胰",
+        "similarity": "右邊同是夷",
+        "difference": "姨左邊是女，胰左邊是月。"
+      },
+      {
+        "char": "痍",
+        "similarity": "都包含夷",
+        "difference": "姨是女在左，痍是疒包住夷；痍較少見。"
+      },
+      {
+        "char": "姊",
+        "similarity": "左邊同是女",
+        "difference": "姨右邊是夷，姊右邊是𠂔形，筆画不同。"
+      },
+      {
+        "char": "妹",
+        "similarity": "左邊同是女",
+        "difference": "姨右邊是夷，妹右邊是未。"
+      },
+      {
+        "char": "娣",
+        "similarity": "左邊同是女，右邊都有弓形",
+        "difference": "姨右邊是夷，娣右邊是弟；娣較少見。"
+      }
+    ],
+    "teachingTip": "先寫女部，再觀察夷的橫畫、弓形和撇捺。 先找共用部件，再比較不同位置；字形相似不表示讀音或意思相同。較少見字以辨形為主。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

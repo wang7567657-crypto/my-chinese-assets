@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_cd778de2623b02b5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "鄒",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鄒",
+    "groups": {
+      "shape": [
+        {
+          "char": "皺",
+          "why": "都包含芻",
+          "difference": "鄒右邊是阝，皺右邊是皮。"
+        },
+        {
+          "char": "騶",
+          "why": "都包含芻",
+          "difference": "鄒是芻加右阝，騶是馬加芻；騶較少見。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "周",
+          "why": "鄒ㄗㄡ與周ㄓㄡ是近音，聲母不同",
+          "difference": "鄒族用鄒，周圍用周；注意ㄗ與ㄓ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "族",
+          "why": "本課鄒族兩字連用，容易把名稱和分類混為一談",
+          "difference": "鄒是族名的一部分，族是群體的稱呼；完整詞語寫鄒族。"
+        }
+      ],
+      "component": [
+        {
+          "char": "皺",
+          "why": "比較共同部件與偏旁位置。都包含芻",
+          "difference": "鄒右邊是阝，皺右邊是皮。"
+        }
+      ]
+    },
+    "tip": "右邊阝是邑部，不是左邊阝的阜部；鄒讀ㄗㄡ。 看字形、讀完整語詞，再確認意思；近音字已分別標示聲母或聲調差異。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

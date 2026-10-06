@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第7課_similar_shape_d8a93824e31e9c71",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "苞",
+    "lessonChars": [
+      "姨",
+      "雕",
+      "拓",
+      "蕨",
+      "梅",
+      "佇",
+      "冽",
+      "澤",
+      "苞",
+      "錦",
+      "鄒",
+      "眨",
+      "鏽",
+      "鋼",
+      "涵",
+      "銅",
+      "籍",
+      "略"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "苞",
+    "similarChars": [
+      {
+        "char": "包",
+        "similarity": "苞下方就是包",
+        "difference": "包上面沒有艹。"
+      },
+      {
+        "char": "胞",
+        "similarity": "都包含包",
+        "difference": "苞的艹在上，胞的月在左。"
+      },
+      {
+        "char": "抱",
+        "similarity": "都包含包",
+        "difference": "苞的艹在上，抱的扌在左。"
+      },
+      {
+        "char": "泡",
+        "similarity": "都包含包",
+        "difference": "苞的艹在上，泡的氵在左。"
+      },
+      {
+        "char": "跑",
+        "similarity": "都包含包",
+        "difference": "苞的艹在上，跑的足在左。"
+      },
+      {
+        "char": "袍",
+        "similarity": "都包含包",
+        "difference": "苞的艹在上，袍的衤在左。"
+      }
+    ],
+    "teachingTip": "艹保留本字四筆寫法，包的鉤筆不要省略。 先找共用部件，再比較不同位置；字形相似不表示讀音或意思相同。較少見字以辨形為主。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

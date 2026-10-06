@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_f5fc98b97a7fe1d4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "佇",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "佇",
+    "groups": {
+      "shape": [
+        {
+          "char": "貯",
+          "why": "右邊同是宁",
+          "difference": "佇左邊是亻，貯左邊是貝。"
+        },
+        {
+          "char": "苧",
+          "why": "都包含宁",
+          "difference": "佇的亻在左，苧的艹在上；苧較少見。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "住",
+          "why": "佇、住都讀ㄓㄨˋ",
+          "difference": "佇立是站著，居住是生活在某處。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "坐",
+          "why": "都可描述停留的姿態",
+          "difference": "佇立是站立，坐下是臀部有支撐的姿勢。"
+        }
+      ],
+      "component": [
+        {
+          "char": "貯",
+          "why": "比較共同部件與偏旁位置。右邊同是宁",
+          "difference": "佇左邊是亻，貯左邊是貝。"
+        }
+      ]
+    },
+    "tip": "右邊是宀加丁，與住右邊的主不同。 看字形、讀完整語詞，再確認意思；近音字已分別標示聲母或聲調差異。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

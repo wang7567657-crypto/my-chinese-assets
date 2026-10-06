@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第7課_similar_shape_2ca8f138c0c6cf5d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "銅",
+    "lessonChars": [
+      "姨",
+      "雕",
+      "拓",
+      "蕨",
+      "梅",
+      "佇",
+      "冽",
+      "澤",
+      "苞",
+      "錦",
+      "鄒",
+      "眨",
+      "鏽",
+      "鋼",
+      "涵",
+      "銅",
+      "籍",
+      "略"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "銅",
+    "similarChars": [
+      {
+        "char": "桐",
+        "similarity": "右邊同是同",
+        "difference": "銅左邊是金，桐左邊是木。"
+      },
+      {
+        "char": "洞",
+        "similarity": "右邊同是同",
+        "difference": "銅左邊是金，洞左邊是氵。"
+      },
+      {
+        "char": "筒",
+        "similarity": "都包含同",
+        "difference": "銅的金在左，筒的竹字頭在上。"
+      },
+      {
+        "char": "胴",
+        "similarity": "右邊同是同",
+        "difference": "銅左邊是金，胴左邊是月；胴較少見。"
+      },
+      {
+        "char": "同",
+        "similarity": "銅右邊就是同",
+        "difference": "同沒有左邊金。"
+      },
+      {
+        "char": "鋼",
+        "similarity": "左邊同是金，右邊都有外框",
+        "difference": "銅右邊同內有口，鋼右邊岡內有山。"
+      }
+    ],
+    "teachingTip": "比較鋼的岡與銅的同，先看右部裡面是山或口。 先找共用部件，再比較不同位置；字形相似不表示讀音或意思相同。較少見字以辨形為主。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

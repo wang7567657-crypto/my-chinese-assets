@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_00e68f665dc052e8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "錦",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "錦",
+    "groups": {
+      "shape": [
+        {
+          "char": "棉",
+          "why": "右邊同是帛",
+          "difference": "錦左邊是金，棉左邊是木。"
+        },
+        {
+          "char": "綿",
+          "why": "右邊同是帛",
+          "difference": "錦左邊是金，綿左邊是糸。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "緊",
+          "why": "錦、緊都讀ㄐㄧㄣˇ",
+          "difference": "錦緞用錦，緊張用緊。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "絹",
+          "why": "都可指絲織品",
+          "difference": "錦通常有織出的彩色花紋，絹是絲織品的一種，不能因都是布就互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "棉",
+          "why": "比較共同部件與偏旁位置。右邊同是帛",
+          "difference": "錦左邊是金，棉左邊是木。"
+        }
+      ]
+    },
+    "tip": "金部是八筆；比較棉、綿時看左偏旁。 看字形、讀完整語詞，再確認意思；近音字已分別標示聲母或聲調差異。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

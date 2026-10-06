@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_c09ff48045301429",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "涵",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "涵",
+    "groups": {
+      "shape": [
+        {
+          "char": "函",
+          "why": "涵右邊就是函",
+          "difference": "函沒有左邊氵。"
+        },
+        {
+          "char": "菡",
+          "why": "都包含函",
+          "difference": "涵的氵在左，菡的艹在上；菡較少見。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "寒",
+          "why": "涵、寒都讀ㄏㄢˊ",
+          "difference": "內涵用涵，寒冷用寒。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "含",
+          "why": "涵與含都有包含的意思",
+          "difference": "內涵、涵養用涵；含住、含有用含，依固定詞語選字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "函",
+          "why": "比較共同部件與偏旁位置。涵右邊就是函",
+          "difference": "函沒有左邊氵。"
+        }
+      ]
+    },
+    "tip": "函不是同或匈；內涵的涵表示內容或包含的意義。 看字形、讀完整語詞，再確認意思；近音字已分別標示聲母或聲調差異。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

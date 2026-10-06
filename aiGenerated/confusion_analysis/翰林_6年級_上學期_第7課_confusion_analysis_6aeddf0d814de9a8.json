@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_6aeddf0d814de9a8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "眨",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "眨",
+    "groups": {
+      "shape": [
+        {
+          "char": "泛",
+          "why": "右邊同是乏",
+          "difference": "眨左邊是目，泛左邊是氵。"
+        },
+        {
+          "char": "乏",
+          "why": "眨右邊就是乏",
+          "difference": "乏沒有左邊目。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "炸",
+          "why": "眨ㄓㄚˇ與爆炸的炸ㄓㄚˋ是近音，聲調不同",
+          "difference": "眨眼用眨，爆炸用炸；炸另有ㄓㄚˊ讀音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "閉",
+          "why": "都與眼睛開合相關",
+          "difference": "眨是快速開合，閉是把眼睛合上；閉眼不一定立刻張開。"
+        }
+      ],
+      "component": [
+        {
+          "char": "泛",
+          "why": "比較共同部件與偏旁位置。右邊同是乏",
+          "difference": "眨左邊是目，泛左邊是氵。"
+        }
+      ]
+    },
+    "tip": "目內有兩橫；乏的撇與折捺要按原字寫。 看字形、讀完整語詞，再確認意思；近音字已分別標示聲母或聲調差異。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

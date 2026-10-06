@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_427435d92c90295c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "略",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "略",
+    "groups": {
+      "shape": [
+        {
+          "char": "格",
+          "why": "右邊同是各",
+          "difference": "略左邊是田，格左邊是木。"
+        },
+        {
+          "char": "洛",
+          "why": "右邊同是各",
+          "difference": "略左邊是田，洛左邊是氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "掠",
+          "why": "略、掠都讀ㄌㄩㄝˋ",
+          "difference": "忽略是未注意，掠過是快速經過。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "省",
+          "why": "省略與略過都有減去或不提的意思",
+          "difference": "省略用兩字合成詞；忽略是未注意，不能寫成忽省。"
+        }
+      ],
+      "component": [
+        {
+          "char": "格",
+          "why": "比較共同部件與偏旁位置。右邊同是各",
+          "difference": "略左邊是田，格左邊是木。"
+        }
+      ]
+    },
+    "tip": "田內十字完整；比較格、路時看左偏旁。 看字形、讀完整語詞，再確認意思；近音字已分別標示聲母或聲調差異。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}
