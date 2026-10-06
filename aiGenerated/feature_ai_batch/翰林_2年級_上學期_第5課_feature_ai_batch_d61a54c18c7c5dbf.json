@@ -1,0 +1,61 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_2年級_上學期_第5課_feature_ai_batch_d61a54c18c7c5dbf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "featureTaskType": "component_split",
+    "featureName": "部件拆分",
+    "itemCount": 18,
+    "batchCharacters": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 18,
+    "resultPaths": [
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_2e18cce9666b6ae9.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_40e77d722215e8f4.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_24900bfbc37d7362.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_f2f02c45ad70a3da.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_eac982667cdee7c6.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_e933f1acb1793ad7.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_c93def5ad5e38dd2.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_38456d8c067f5dd6.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_eccc49a26714fdec.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_f060c355ba1e18d2.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_0032a5fe409b652f.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_b39aad840a7b20ed.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_4b9375dff3239af8.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_1b168a868ab2990f.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_2fd7acd8406d50c2.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_1883b04e0bea14f7.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_dbf288f02bcab896.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第5課_component_split_576449d19b773d07.json"
+    ]
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

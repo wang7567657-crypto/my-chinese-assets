@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第5課_similar_shape_1d7a44414e55b284",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "注",
+    "lessonChars": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "注",
+    "similarChars": [
+      {
+        "char": "住",
+        "similarity": "右邊都有主",
+        "difference": "注左邊是氵；住左邊是亻。"
+      },
+      {
+        "char": "柱",
+        "similarity": "右邊都有主",
+        "difference": "注左邊是氵；柱左邊是木。"
+      },
+      {
+        "char": "駐",
+        "similarity": "右邊都有主",
+        "difference": "注左邊是氵；駐左邊是馬。"
+      },
+      {
+        "char": "蛀",
+        "similarity": "右邊都有主",
+        "difference": "注左邊是氵；蛀左邊是虫。"
+      },
+      {
+        "char": "往",
+        "similarity": "右側都有主形",
+        "difference": "注左邊是氵；往左邊是彳，右邊筆形位置不同。"
+      },
+      {
+        "char": "主",
+        "similarity": "注的右邊完整是主",
+        "difference": "注比主多左邊氵。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。本課是「注意」，注左邊氵、右邊主，主的點不要漏。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

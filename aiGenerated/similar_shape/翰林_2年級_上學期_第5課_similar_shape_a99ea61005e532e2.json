@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第5課_similar_shape_a99ea61005e532e2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "挖",
+    "lessonChars": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "挖",
+    "similarChars": [
+      {
+        "char": "控",
+        "similarity": "左邊都有扌，右邊上方都有穴",
+        "difference": "挖右下是彎鉤；控右下是工。"
+      },
+      {
+        "char": "穵",
+        "similarity": "挖的右邊完整是穵",
+        "difference": "挖比穵多左邊扌；穵是較少見字。"
+      },
+      {
+        "char": "究",
+        "similarity": "上方都有穴",
+        "difference": "挖左邊有扌、穴下是彎鉤；究穴下是九。"
+      },
+      {
+        "char": "空",
+        "similarity": "上方都有穴",
+        "difference": "挖左邊有扌、穴下是彎鉤；空穴下是工。"
+      },
+      {
+        "char": "穹",
+        "similarity": "上方都有穴，下方都有彎曲筆形",
+        "difference": "挖左邊有扌、下方是彎鉤；穹下方是弓。"
+      },
+      {
+        "char": "窮",
+        "similarity": "上方都有穴",
+        "difference": "挖右下很簡單；窮下方是躬，筆畫多得多。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。挖右邊可看成穴下接彎鉤；最後一筆彎鉤不要寫成直鉤。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

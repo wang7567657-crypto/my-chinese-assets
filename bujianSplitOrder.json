@@ -6215,10 +6215,33 @@
       "updatedAt": "2026-09-30T09:20:17.466Z"
     },
     "麗": {
-      "structure": "上下",
+      "components": [
+        "鹿",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
       "split": [
         11,
         8
+      ],
+      "strokeCount": 19,
+      "structure": "上下",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "鹿",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
       ],
       "strokeGroups": [
         [
@@ -6244,36 +6267,7 @@
           7,
           8
         ]
-      ],
-      "components": [
-        "鹿",
-        "其餘部分"
-      ],
-      "strokeCount": 19,
-      "radical": "鹿",
-      "radicalVerified": true,
-      "radicalStrokeIndices": [
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
-      ],
-      "source": "c9s/zh-stroke-data",
-      "verified": true,
-      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
-      "verification": {
-        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
-        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/9e97.xml",
-        "radicalReferenceUrl": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=3500&la=0&powerMode=0"
-      },
-      "updatedAt": "2026-10-06T07:13:10.969Z"
+      ]
     },
     "柱": {
       "structure": "左右",
@@ -13605,9 +13599,690 @@
           16
         ]
       ]
+    },
+    "沙": {
+      "components": [
+        "氵",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3,
+        4
+      ],
+      "strokeCount": 7,
+      "structure": "左右",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "水",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7
+        ]
+      ]
+    },
+    "灘": {
+      "components": [
+        "氵",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3,
+        19
+      ],
+      "strokeCount": 22,
+      "structure": "左右",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "水",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      ]
+    },
+    "海": {
+      "components": [
+        "氵",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3,
+        7
+      ],
+      "strokeCount": 10,
+      "structure": "左右",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "水",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ]
+    },
+    "邊": {
+      "components": [
+        "辶",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        4,
+        15
+      ],
+      "strokeCount": 19,
+      "structure": "左下包圍",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "辵",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "strokeGroups": [
+        [
+          16,
+          17,
+          18,
+          19
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      ]
+    },
+    "退": {
+      "components": [
+        "辶",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        4,
+        6
+      ],
+      "strokeCount": 10,
+      "structure": "左下包圍",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "辵",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "strokeGroups": [
+        [
+          7,
+          8,
+          9,
+          10
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      ]
+    },
+    "遠": {
+      "components": [
+        "辶",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        4,
+        10
+      ],
+      "strokeCount": 14,
+      "structure": "左下包圍",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "辵",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "strokeGroups": [
+        [
+          11,
+          12,
+          13,
+          14
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ]
+    },
+    "螃": {
+      "components": [
+        "虫",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        6,
+        10
+      ],
+      "strokeCount": 16,
+      "structure": "左右",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "虫",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      ]
+    },
+    "蟹": {
+      "components": [
+        "虫",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        6,
+        13
+      ],
+      "strokeCount": 19,
+      "structure": "上下",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "虫",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "strokeGroups": [
+        [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      ]
+    },
+    "愛": {
+      "components": [
+        "心",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        4,
+        9
+      ],
+      "strokeCount": 13,
+      "structure": "上下",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "心",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "strokeGroups": [
+        [
+          7,
+          8,
+          9,
+          10
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          11,
+          12,
+          13
+        ]
+      ]
+    },
+    "注": {
+      "components": [
+        "氵",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3,
+        5
+      ],
+      "strokeCount": 8,
+      "structure": "左右",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "水",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      ]
+    },
+    "夕": {
+      "components": [
+        "夕"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3
+      ],
+      "strokeCount": 3,
+      "structure": "獨體",
+      "verified": true,
+      "note": "獨體字以完整字形為一組；已核對每筆恰好出現一次，未為拆分而硬拆。",
+      "radical": "夕",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ]
+      ]
+    },
+    "腳": {
+      "components": [
+        "月",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        4,
+        9
+      ],
+      "strokeCount": 13,
+      "structure": "左中右",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "肉",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      ]
+    },
+    "丫": {
+      "components": [
+        "丨",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        1,
+        2
+      ],
+      "strokeCount": 3,
+      "structure": "獨體",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "丨",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        3
+      ],
+      "strokeGroups": [
+        [
+          3
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    },
+    "橫": {
+      "components": [
+        "木",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        4,
+        12
+      ],
+      "strokeCount": 16,
+      "structure": "左右",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "木",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      ]
+    },
+    "留": {
+      "components": [
+        "田",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        5,
+        5
+      ],
+      "strokeCount": 10,
+      "structure": "上下",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "田",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "strokeGroups": [
+        [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ]
+    },
+    "印": {
+      "components": [
+        "卩",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        2,
+        4
+      ],
+      "strokeCount": 6,
+      "structure": "左右",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "卩",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        5,
+        6
+      ],
+      "strokeGroups": [
+        [
+          5,
+          6
+        ],
+        [
+          1,
+          2,
+          3,
+          4
+        ]
+      ]
+    },
+    "挖": {
+      "components": [
+        "扌",
+        "其餘部分"
+      ],
+      "source": "chatgpt_checked",
+      "split": [
+        3,
+        6
+      ],
+      "strokeCount": 9,
+      "structure": "左右",
+      "verified": true,
+      "note": "採部首與其餘部分分組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "radical": "手",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ]
     }
   },
   "description": "陽光智慧黑板部件拆分字典。只有 verified=true 的資料可用於教學分色與部件拼貼。",
   "version": "1.0",
-  "updatedAt": "2026-10-06T10:13:41.344Z"
+  "updatedAt": "2026-10-06T11:14:29.022Z"
 }

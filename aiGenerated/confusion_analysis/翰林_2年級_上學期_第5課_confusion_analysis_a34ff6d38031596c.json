@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_a34ff6d38031596c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "留",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "留",
+    "groups": {
+      "shape": [
+        {
+          "char": "溜",
+          "why": "右邊都有留",
+          "difference": "留是上下結構；溜左邊多氵。"
+        },
+        {
+          "char": "榴",
+          "why": "右邊都有留",
+          "difference": "留是上下結構；榴左邊多木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "流",
+          "why": "同音，都是ㄌㄧㄡˊ。",
+          "difference": "留是停下或保留；流是液體移動。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "停",
+          "why": "都有不再離開或移動的意思。",
+          "difference": "留可指留下、保留；停著重停止動作或停在某處。"
+        }
+      ],
+      "component": [
+        {
+          "char": "遛",
+          "why": "裡面都有留",
+          "difference": "留下方是田；遛外面多辶。"
+        }
+      ]
+    },
+    "tip": "把「留」放回課文語詞「留下」判斷，再檢查田與其餘部件。留下方是完整的田；上方不是貿，也不要漏掉中間的刀形筆畫。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

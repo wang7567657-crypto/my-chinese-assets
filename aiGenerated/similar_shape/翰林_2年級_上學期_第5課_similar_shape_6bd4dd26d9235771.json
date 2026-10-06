@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第5課_similar_shape_6bd4dd26d9235771",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "退",
+    "lessonChars": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "退",
+    "similarChars": [
+      {
+        "char": "腿",
+        "similarity": "右邊都有退",
+        "difference": "退外面是辶；腿左邊多月。"
+      },
+      {
+        "char": "褪",
+        "similarity": "右邊都有退",
+        "difference": "退外面是辶；褪左邊多衤。"
+      },
+      {
+        "char": "很",
+        "similarity": "都有艮",
+        "difference": "退外面是辶；很左邊是彳。"
+      },
+      {
+        "char": "根",
+        "similarity": "都有艮",
+        "difference": "退外面是辶；根左邊是木。"
+      },
+      {
+        "char": "跟",
+        "similarity": "都有艮",
+        "difference": "退外面是辶；跟左邊是足。"
+      },
+      {
+        "char": "眼",
+        "similarity": "都有艮",
+        "difference": "退外面是辶；眼左邊是目。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。退的最後四筆是辶；不要把裡面的艮寫成良。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

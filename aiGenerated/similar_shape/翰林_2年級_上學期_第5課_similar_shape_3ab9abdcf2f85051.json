@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第5課_similar_shape_3ab9abdcf2f85051",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "夕",
+    "lessonChars": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "夕",
+    "similarChars": [
+      {
+        "char": "多",
+        "similarity": "上下都有夕形",
+        "difference": "夕是單一部件；多由兩個夕形上下組成。"
+      },
+      {
+        "char": "外",
+        "similarity": "左邊有夕",
+        "difference": "夕是獨體字；外右邊多卜。"
+      },
+      {
+        "char": "名",
+        "similarity": "上方有夕",
+        "difference": "夕是獨體字；名下方多口。"
+      },
+      {
+        "char": "汐",
+        "similarity": "右邊完整是夕",
+        "difference": "夕是獨體字；汐左邊多氵。"
+      },
+      {
+        "char": "夠",
+        "similarity": "左側含多個夕形",
+        "difference": "夕只有3畫；夠的結構與筆畫更多。"
+      },
+      {
+        "char": "歹",
+        "similarity": "外框輪廓相近",
+        "difference": "夕第二筆是橫撇並包住點；歹多一橫，內部筆形不同。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。夕只有3畫，裡面是點；不要和「久」或「歹」混在一起。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

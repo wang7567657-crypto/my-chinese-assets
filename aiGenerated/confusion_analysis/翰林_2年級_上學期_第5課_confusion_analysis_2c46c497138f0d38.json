@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_2c46c497138f0d38",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "注",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "注",
+    "groups": {
+      "shape": [
+        {
+          "char": "住",
+          "why": "右邊都有主",
+          "difference": "注左邊是氵；住左邊是亻。"
+        },
+        {
+          "char": "柱",
+          "why": "右邊都有主",
+          "difference": "注左邊是氵；柱左邊是木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "住",
+          "why": "同音，都是ㄓㄨˋ。",
+          "difference": "注在本課組成注意；住表示居住或停住。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "留",
+          "why": "都能出現在集中精神的表達中。",
+          "difference": "注要和意組成「注意」；留可和心組成「留心」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "駐",
+          "why": "右邊都有主",
+          "difference": "注左邊是氵；駐左邊是馬。"
+        }
+      ]
+    },
+    "tip": "把「注」放回課文語詞「注意」判斷，再檢查氵與其餘部件。本課是「注意」，注左邊氵、右邊主，主的點不要漏。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第5課_similar_shape_915ce3869cb35fb9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "愛",
+    "lessonChars": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "愛",
+    "similarChars": [
+      {
+        "char": "受",
+        "similarity": "上下輪廓相近，上方都有爫與冖",
+        "difference": "愛中間有心、下方是夂；受下方是又。"
+      },
+      {
+        "char": "爰",
+        "similarity": "上半輪廓相近",
+        "difference": "愛中間有心、下方夂；爰中間與下方筆形不同。"
+      },
+      {
+        "char": "曖",
+        "similarity": "右邊完整是愛",
+        "difference": "愛是獨立字；曖左邊多日。"
+      },
+      {
+        "char": "暖",
+        "similarity": "右邊爰與愛輪廓相近",
+        "difference": "愛中間有心；暖左邊是日、右邊是爰。"
+      },
+      {
+        "char": "緩",
+        "similarity": "右邊爰與愛輪廓相近",
+        "difference": "愛中間有心；緩左邊是糹、右邊是爰。"
+      },
+      {
+        "char": "援",
+        "similarity": "右邊爰與愛輪廓相近",
+        "difference": "愛中間有心；援左邊是扌、右邊是爰。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。愛中間有心，不能寫成簡化字「爱」，下方夂不要漏筆。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

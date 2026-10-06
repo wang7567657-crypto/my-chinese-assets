@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_31324423b536f777",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "灘",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "灘",
+    "groups": {
+      "shape": [
+        {
+          "char": "難",
+          "why": "灘的右邊完整是難",
+          "difference": "灘比難多左邊氵。"
+        },
+        {
+          "char": "攤",
+          "why": "右邊都有難",
+          "difference": "灘左邊是氵；攤左邊是扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "攤",
+          "why": "同音，都是ㄊㄢ。",
+          "difference": "灘是水邊平地；攤可指攤開或攤位。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "岸",
+          "why": "都和水邊有關。",
+          "difference": "灘是水邊露出的平坦地面；岸是水域邊緣或較高的陸地。"
+        }
+      ],
+      "component": [
+        {
+          "char": "癱",
+          "why": "右邊都有難",
+          "difference": "灘左邊是氵；癱外面是疒。"
+        }
+      ]
+    },
+    "tip": "把「灘」放回課文語詞「沙灘」判斷，再檢查氵與其餘部件。灘共22畫，右邊是完整的難，隹的四橫要寫清楚。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

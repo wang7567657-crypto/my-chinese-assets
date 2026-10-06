@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_4607edb5c131d744",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "腳",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "腳",
+    "groups": {
+      "shape": [
+        {
+          "char": "卻",
+          "why": "右側都有谷和卩",
+          "difference": "腳左邊多月；卻左側起筆與腳中間布局不同。"
+        },
+        {
+          "char": "腿",
+          "why": "左邊都有月",
+          "difference": "腳右邊是谷與卩；腿右邊是退。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "角",
+          "why": "同音比較：腳和「角落」的角都可讀ㄐㄧㄠˇ；角另可讀ㄐㄩㄝˊ，如角色。",
+          "difference": "腳是身體部位；角可指尖角、角落或角色。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "腿",
+          "why": "都是下肢部位。",
+          "difference": "腳主要指踝以下接觸地面的部位；腿指膝上下的肢體部分。"
+        }
+      ],
+      "component": [
+        {
+          "char": "膠",
+          "why": "左邊都有月",
+          "difference": "腳右邊是谷、卩；膠右邊是翏。"
+        }
+      ]
+    },
+    "tip": "把「腳」放回課文語詞「腳丫」判斷，再檢查月與其餘部件。腳左邊是肉月，右側卩只有兩筆；不要把中間谷寫成合。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

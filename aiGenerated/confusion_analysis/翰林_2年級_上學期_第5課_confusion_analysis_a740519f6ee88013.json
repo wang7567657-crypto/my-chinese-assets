@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_a740519f6ee88013",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蟹",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蟹",
+    "groups": {
+      "shape": [
+        {
+          "char": "解",
+          "why": "蟹的上方完整是解",
+          "difference": "蟹比解多下方虫。"
+        },
+        {
+          "char": "懈",
+          "why": "右邊都有解",
+          "difference": "蟹是上下結構；懈左邊是忄。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "寫",
+          "why": "近音，蟹讀ㄒㄧㄝˋ，寫讀ㄒㄧㄝˇ，聲調不同。",
+          "difference": "蟹是動物；寫是書寫。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蝦",
+          "why": "都是常見水生動物，也都有虫部。",
+          "difference": "蟹有硬殼和螯、常橫走；蝦身體較長，有長鬚。"
+        }
+      ],
+      "component": [
+        {
+          "char": "邂",
+          "why": "內部都有解",
+          "difference": "蟹下方是虫；邂外面是辶，且是較少見字。"
+        }
+      ]
+    },
+    "tip": "把「蟹」放回課文語詞「螃蟹」判斷，再檢查虫與其餘部件。蟹下方是完整的虫，上方解的角、刀、牛要依序寫清楚。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_6a28f8fd3e27fbbb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "印",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "印",
+    "groups": {
+      "shape": [
+        {
+          "char": "卯",
+          "why": "左右都有相近的卩形部件",
+          "difference": "印左邊連成四筆、右邊卩；卯左右分列的筆形不同。"
+        },
+        {
+          "char": "即",
+          "why": "右邊都有卩",
+          "difference": "印左邊較簡；即左邊是皀形部件。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蔭",
+          "why": "同音，都是ㄧㄣˋ。",
+          "difference": "印是痕跡或印刷；蔭是遮蔽日光，也見於樹蔭。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "痕",
+          "why": "都可表示留下的記號。",
+          "difference": "印常指壓出或踩出的圖樣，如腳印；痕是各種留下的痕跡。"
+        }
+      ],
+      "component": [
+        {
+          "char": "卵",
+          "why": "整體左右輪廓相近",
+          "difference": "印共6畫；卵中間多點畫，筆形更複雜。"
+        }
+      ]
+    },
+    "tip": "把「印」放回課文語詞「腳印」判斷，再檢查卩與其餘部件。印右邊卩只有兩筆，位置較低；不要和卯、即混寫。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

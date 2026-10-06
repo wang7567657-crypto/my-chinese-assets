@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第5課_similar_shape_674d7c1d8acea346",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "蟹",
+    "lessonChars": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "蟹",
+    "similarChars": [
+      {
+        "char": "解",
+        "similarity": "蟹的上方完整是解",
+        "difference": "蟹比解多下方虫。"
+      },
+      {
+        "char": "懈",
+        "similarity": "右邊都有解",
+        "difference": "蟹是上下結構；懈左邊是忄。"
+      },
+      {
+        "char": "邂",
+        "similarity": "內部都有解",
+        "difference": "蟹下方是虫；邂外面是辶，且是較少見字。"
+      },
+      {
+        "char": "獬",
+        "similarity": "右邊都有解",
+        "difference": "蟹下方是虫；獬左邊是犭，且是較少見字。"
+      },
+      {
+        "char": "觸",
+        "similarity": "都有角與虫形部件",
+        "difference": "蟹是上解下虫；觸是左右排列，右邊含蜀。"
+      },
+      {
+        "char": "螯",
+        "similarity": "下方都有虫",
+        "difference": "蟹上方是解；螯上方是敖。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。蟹下方是完整的虫，上方解的角、刀、牛要依序寫清楚。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

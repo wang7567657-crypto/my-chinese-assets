@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_94ff14d7b7172f30",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "丫",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "丫",
+    "groups": {
+      "shape": [
+        {
+          "char": "八",
+          "why": "上方分開的輪廓相近",
+          "difference": "丫中間有直豎；八只有撇、捺兩筆。"
+        },
+        {
+          "char": "人",
+          "why": "都有向左右伸展的筆形",
+          "difference": "丫分岔在上並有直豎；人從上方相接後向下分開。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鴉",
+          "why": "同音，都是ㄧㄚ。",
+          "difference": "丫常見於樹丫、腳丫；鴉是烏鴉。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "足",
+          "why": "都可以指腳。",
+          "difference": "丫在「腳丫」中是口語說法；足是腳的正式名稱，也可表示足夠。"
+        }
+      ],
+      "component": [
+        {
+          "char": "入",
+          "why": "都有撇捺輪廓",
+          "difference": "丫有中間直豎；入只有兩筆且交接方向不同。"
+        }
+      ]
+    },
+    "tip": "把「丫」放回課文語詞「腳丫」判斷，再檢查丨與其餘部件。丫共3畫，最後一筆是中間直豎；不要寫成八或人。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

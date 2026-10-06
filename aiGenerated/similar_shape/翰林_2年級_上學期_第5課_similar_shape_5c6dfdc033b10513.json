@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第5課_similar_shape_5c6dfdc033b10513",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "麗",
+    "lessonChars": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "麗",
+    "similarChars": [
+      {
+        "char": "驪",
+        "similarity": "右邊完整是麗",
+        "difference": "麗是獨立字；驪左邊多馬，且是較少見字。"
+      },
+      {
+        "char": "儷",
+        "similarity": "右邊完整是麗",
+        "difference": "麗是獨立字；儷左邊多亻。"
+      },
+      {
+        "char": "灑",
+        "similarity": "右邊完整是麗",
+        "difference": "麗是獨立字；灑左邊多氵。"
+      },
+      {
+        "char": "曬",
+        "similarity": "右邊完整是麗",
+        "difference": "麗是獨立字；曬左邊多日。"
+      },
+      {
+        "char": "酈",
+        "similarity": "左邊完整是麗",
+        "difference": "麗是獨立字；酈右邊多阝，且較少見。"
+      },
+      {
+        "char": "麓",
+        "similarity": "下方都有鹿",
+        "difference": "麗上方是對稱部件；麓上方是林。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。麗是19畫的繁體字，下方鹿要完整；不要寫成簡化字「丽」。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

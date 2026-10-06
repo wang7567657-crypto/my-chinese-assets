@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_e1d662e991b80730",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "麗",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "麗",
+    "groups": {
+      "shape": [
+        {
+          "char": "驪",
+          "why": "右邊完整是麗",
+          "difference": "麗是獨立字；驪左邊多馬，且是較少見字。"
+        },
+        {
+          "char": "儷",
+          "why": "右邊完整是麗",
+          "difference": "麗是獨立字；儷左邊多亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "例",
+          "why": "同音，都是ㄌㄧˋ。",
+          "difference": "麗是美麗；例是例子或慣例。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "美",
+          "why": "都可表示好看。",
+          "difference": "麗常形容外表漂亮、景色優美；美的用法更廣，也可指美好。"
+        }
+      ],
+      "component": [
+        {
+          "char": "灑",
+          "why": "右邊完整是麗",
+          "difference": "麗是獨立字；灑左邊多氵。"
+        }
+      ]
+    },
+    "tip": "把「麗」放回課文語詞「美麗」判斷，再檢查鹿與其餘部件。麗是19畫的繁體字，下方鹿要完整；不要寫成簡化字「丽」。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

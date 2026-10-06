@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_14ad05066a005985",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "退",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "退",
+    "groups": {
+      "shape": [
+        {
+          "char": "腿",
+          "why": "右邊都有退",
+          "difference": "退外面是辶；腿左邊多月。"
+        },
+        {
+          "char": "褪",
+          "why": "右邊都有退",
+          "difference": "退外面是辶；褪左邊多衤。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蛻",
+          "why": "同音，都是ㄊㄨㄟˋ。",
+          "difference": "退是往後或離開；蛻指昆蟲、蛇等脫皮。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "後",
+          "why": "都和向後有關。",
+          "difference": "退是移動或離開的動作；後是方位或時間位置。"
+        }
+      ],
+      "component": [
+        {
+          "char": "很",
+          "why": "都有艮",
+          "difference": "退外面是辶；很左邊是彳。"
+        }
+      ]
+    },
+    "tip": "把「退」放回課文語詞「退潮」判斷，再檢查辶與其餘部件。退的最後四筆是辶；不要把裡面的艮寫成良。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}
