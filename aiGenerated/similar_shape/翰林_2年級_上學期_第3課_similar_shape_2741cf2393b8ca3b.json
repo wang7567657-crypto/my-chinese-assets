@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第3課_similar_shape_2741cf2393b8ca3b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "驚",
+    "lessonChars": [
+      "國",
+      "王",
+      "喜",
+      "歡",
+      "穿",
+      "只",
+      "件",
+      "點",
+      "改",
+      "領",
+      "越",
+      "設",
+      "計",
+      "發",
+      "方",
+      "法",
+      "分",
+      "享",
+      "臣",
+      "袖",
+      "驚",
+      "讓"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "驚",
+    "similarChars": [
+      {
+        "char": "警",
+        "similarity": "上方都有完整的敬",
+        "difference": "驚下方是馬；警下方是言。"
+      },
+      {
+        "char": "擎",
+        "similarity": "上方都有完整的敬",
+        "difference": "驚下方是馬；擎下方是手。"
+      },
+      {
+        "char": "檠",
+        "similarity": "上方都有完整的敬",
+        "difference": "驚下方是馬；檠下方是木，檠較少見。"
+      },
+      {
+        "char": "憼",
+        "similarity": "上方都有完整的敬",
+        "difference": "驚下方是馬；憼下方是心，憼是少見字。"
+      },
+      {
+        "char": "敬",
+        "similarity": "驚的上方完整是敬",
+        "difference": "驚比敬多下方的馬。"
+      },
+      {
+        "char": "騖",
+        "similarity": "下方都有馬，整體都是上下結構",
+        "difference": "驚上方是敬；騖上方是敄形部件，騖較少見。"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再圈出不同筆畫；回到本課語詞「驚喜」確認用字。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

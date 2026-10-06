@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第3課_similar_shape_41a4bdd73c5e3bbb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "王",
+    "lessonChars": [
+      "國",
+      "王",
+      "喜",
+      "歡",
+      "穿",
+      "只",
+      "件",
+      "點",
+      "改",
+      "領",
+      "越",
+      "設",
+      "計",
+      "發",
+      "方",
+      "法",
+      "分",
+      "享",
+      "臣",
+      "袖",
+      "驚",
+      "讓"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "王",
+    "similarChars": [
+      {
+        "char": "玉",
+        "similarity": "都有三橫一豎的主體",
+        "difference": "玉比王多右下的一點。"
+      },
+      {
+        "char": "主",
+        "similarity": "都有王形主體",
+        "difference": "主比王多最上方一點，第二橫位置也不同。"
+      },
+      {
+        "char": "土",
+        "similarity": "都有橫畫與中豎",
+        "difference": "土只有三畫；王有三橫一豎共四畫。"
+      },
+      {
+        "char": "工",
+        "similarity": "都有上下兩橫和中豎",
+        "difference": "工少了中間一橫。"
+      },
+      {
+        "char": "壬",
+        "similarity": "都有三橫一豎",
+        "difference": "壬的第一畫是撇，橫畫長短配置也不同。"
+      },
+      {
+        "char": "五",
+        "similarity": "都有交叉橫豎的方整輪廓",
+        "difference": "五的中間有折筆；王是直豎穿過三橫。"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再圈出不同筆畫；回到本課語詞「國王」確認用字。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

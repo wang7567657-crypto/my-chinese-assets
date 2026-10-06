@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第3課_similar_shape_a9981a0da6b4ac0d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "發",
+    "lessonChars": [
+      "國",
+      "王",
+      "喜",
+      "歡",
+      "穿",
+      "只",
+      "件",
+      "點",
+      "改",
+      "領",
+      "越",
+      "設",
+      "計",
+      "發",
+      "方",
+      "法",
+      "分",
+      "享",
+      "臣",
+      "袖",
+      "驚",
+      "讓"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "發",
+    "similarChars": [
+      {
+        "char": "癸",
+        "similarity": "上方都有癶",
+        "difference": "發下方有弓和殳形；癸下方是天。"
+      },
+      {
+        "char": "登",
+        "similarity": "上方都有癶",
+        "difference": "發下方有弓殳；登下方是豆。"
+      },
+      {
+        "char": "廢",
+        "similarity": "內部完整含發",
+        "difference": "廢比發多外面的廣。"
+      },
+      {
+        "char": "撥",
+        "similarity": "右邊完整含發",
+        "difference": "撥比發多左邊扌。"
+      },
+      {
+        "char": "潑",
+        "similarity": "右邊完整含發",
+        "difference": "潑比發多左邊氵。"
+      },
+      {
+        "char": "髮",
+        "similarity": "都有發音提示且外形上部密集",
+        "difference": "髮上方是髟、下方是犮；發上方是癶，兩字不可互換。"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再圈出不同筆畫；回到本課語詞「發現」確認用字。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

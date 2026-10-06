@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第3課_confusion_analysis_5de93dfb38a12a98",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "方",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "方",
+    "groups": {
+      "shape": [
+        {
+          "char": "於",
+          "why": "左邊完整是方",
+          "difference": "於比方多右邊部件。"
+        },
+        {
+          "char": "放",
+          "why": "左邊完整是方",
+          "difference": "放比方多右邊攵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "芳",
+          "why": "同音比較：方和芳都讀ㄈㄤ。",
+          "difference": "方可指方向、方法；芳常與香氣或美好有關。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "方法",
+          "why": "方在方法中表示做事情的辦法。",
+          "difference": "方也可表示方向或方形；要看前後詞語。"
+        }
+      ],
+      "component": [
+        {
+          "char": "於",
+          "why": "部件比較：左邊完整是方",
+          "difference": "於比方多右邊部件。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「方法」，再依字形、讀音與句意選字。方共四畫，第三畫是橫折鉤，最後寫撇。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第3課_memory_strategy_67e78118ded1fd67",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "點",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "點",
+    "components": [
+      "黑",
+      "占"
+    ],
+    "association": "黑色旁邊加占，想到紙上的一個小黑點。",
+    "mnemonic": "左黑右占，一點都不難的點。",
+    "visualPrompt": "以標準楷體清楚呈現「點」，字形完整不變形；在字旁放置與「一點」情境相符的小圖，圖與字分開，不覆蓋筆畫。",
+    "teachingTip": "左邊黑的四點要寫完整；右邊是占，不是店。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

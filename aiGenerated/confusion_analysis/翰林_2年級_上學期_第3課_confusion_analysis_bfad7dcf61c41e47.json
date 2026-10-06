@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第3課_confusion_analysis_bfad7dcf61c41e47",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "王",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "王",
+    "groups": {
+      "shape": [
+        {
+          "char": "玉",
+          "why": "都有三橫一豎的主體",
+          "difference": "玉比王多右下的一點。"
+        },
+        {
+          "char": "主",
+          "why": "都有王形主體",
+          "difference": "主比王多最上方一點，第二橫位置也不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "往",
+          "why": "近音比較：王讀ㄨㄤˊ，往讀ㄨㄤˇ，聲調不同。",
+          "difference": "王指國王；往表示朝某方向去。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "國王",
+          "why": "王可指一國的君主。",
+          "difference": "王是人物身分；旺是興盛，不能互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "玉",
+          "why": "部件比較：都有三橫一豎的主體",
+          "difference": "玉比王多右下的一點。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「國王」，再依字形、讀音與句意選字。三橫長短要分清，中間橫較短，最後一橫較長。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第3課_memory_strategy_abc2163097eca146",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "驚",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "驚",
+    "components": [
+      "敬",
+      "馬"
+    ],
+    "association": "敬在上、馬在下，想像馬突然受驚跳起來。",
+    "mnemonic": "上敬下馬，突然嚇一跳就是驚。",
+    "visualPrompt": "以標準楷體清楚呈現「驚」，字形完整不變形；在字旁放置與「驚喜」情境相符的小圖，圖與字分開，不覆蓋筆畫。",
+    "teachingTip": "下方是完整的馬，最後四點要分開；不要只寫成敬。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

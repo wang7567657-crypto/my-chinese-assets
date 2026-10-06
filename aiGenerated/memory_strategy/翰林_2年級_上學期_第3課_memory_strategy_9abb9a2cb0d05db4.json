@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第3課_memory_strategy_9abb9a2cb0d05db4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "件",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "件",
+    "components": [
+      "亻",
+      "牛"
+    ],
+    "association": "人站在一頭牛旁，數物品時用一件、兩件。",
+    "mnemonic": "亻加牛，一件衣服的件。",
+    "visualPrompt": "以標準楷體清楚呈現「件」，字形完整不變形；在字旁放置與「一件新衣」情境相符的小圖，圖與字分開，不覆蓋筆畫。",
+    "teachingTip": "右邊是牛，豎畫向下伸；左邊亻要寫窄。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

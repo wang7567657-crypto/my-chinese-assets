@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第3課_memory_strategy_a3e5edf6e88edd43",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "計",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "計",
+    "components": [
+      "言",
+      "十"
+    ],
+    "association": "把想法用言語說清楚，再像十字定位般安排計畫。",
+    "mnemonic": "左言右十，安排方法叫設計。",
+    "visualPrompt": "以標準楷體清楚呈現「計」，字形完整不變形；在字旁放置與「設計」情境相符的小圖，圖與字分開，不覆蓋筆畫。",
+    "teachingTip": "右邊只有十，不要多寫一點變成許的右部。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第3課_memory_strategy_ecbc6889cf36acc1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "發",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "發",
+    "components": [
+      "癶",
+      "弓",
+      "殳形下部"
+    ],
+    "association": "上方癶向左右張開，像想法向外發出去。",
+    "mnemonic": "癶在上，弓殳在下，發現的發別寫成髮。",
+    "visualPrompt": "以標準楷體清楚呈現「發」，字形完整不變形；在字旁放置與「發現」情境相符的小圖，圖與字分開，不覆蓋筆畫。",
+    "teachingTip": "本課「發現」讀ㄈㄚ；不要誤寫成頭髮的髮。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

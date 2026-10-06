@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第3課_confusion_analysis_65456e5a750be626",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "領",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "領",
+    "groups": {
+      "shape": [
+        {
+          "char": "頂",
+          "why": "右邊都有頁",
+          "difference": "領左邊是令；頂左邊是丁。"
+        },
+        {
+          "char": "項",
+          "why": "右邊都有頁",
+          "difference": "領左邊是令；項左邊是工。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "嶺",
+          "why": "同音比較：領和嶺都讀ㄌㄧㄥˇ。",
+          "difference": "領可指衣領；嶺是山嶺。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "衣領",
+          "why": "領可指衣服靠近脖子的部分。",
+          "difference": "領也有帶領的意思；本課指衣服的衣領。"
+        }
+      ],
+      "component": [
+        {
+          "char": "頂",
+          "why": "部件比較：右邊都有頁",
+          "difference": "領左邊是令；頂左邊是丁。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「衣領」，再依字形、讀音與句意選字。右邊頁要寫完整；左邊令下方是龴形，不是今。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

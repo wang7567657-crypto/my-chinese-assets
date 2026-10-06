@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第3課_confusion_analysis_832c6b46eaf386c6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "袖",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "袖",
+    "groups": {
+      "shape": [
+        {
+          "char": "油",
+          "why": "右邊都有由",
+          "difference": "袖左邊是衤；油左邊是氵。"
+        },
+        {
+          "char": "抽",
+          "why": "右邊都有由",
+          "difference": "袖左邊是衤；抽左邊是扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "秀",
+          "why": "同音比較：袖和秀都讀ㄒㄧㄡˋ。",
+          "difference": "袖是衣服的一部分；秀可表示美好或表演。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "衣袖",
+          "why": "袖是衣服套住手臂的部分。",
+          "difference": "袖和領都是衣服部位，但位置不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "油",
+          "why": "部件比較：右邊都有由",
+          "difference": "袖左邊是衤；油左邊是氵。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「袖子」，再依字形、讀音與句意選字。左邊是衤共五畫，不要少一點寫成礻。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

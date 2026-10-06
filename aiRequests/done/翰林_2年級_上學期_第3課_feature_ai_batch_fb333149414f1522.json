@@ -1,0 +1,336 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_2年級_上學期_第3課_feature_ai_batch_fb333149414f1522",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 22,
+    "batchCharacters": [
+      "國",
+      "王",
+      "喜",
+      "歡",
+      "穿",
+      "只",
+      "件",
+      "點",
+      "改",
+      "領",
+      "越",
+      "設",
+      "計",
+      "發",
+      "方",
+      "法",
+      "分",
+      "享",
+      "臣",
+      "袖",
+      "驚",
+      "讓"
+    ],
+    "items": [
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_6137ffa420f6f59b",
+        "input": {
+          "char": "國",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_1268c427167ee261",
+        "input": {
+          "char": "王",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_7867647cafa91c23",
+        "input": {
+          "char": "喜",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_c6e59c25ba975c67",
+        "input": {
+          "char": "歡",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_19c434f1eeeec53c",
+        "input": {
+          "char": "穿",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_11331a3e3168ddb7",
+        "input": {
+          "char": "只",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_9abb9a2cb0d05db4",
+        "input": {
+          "char": "件",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_67e78118ded1fd67",
+        "input": {
+          "char": "點",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_3c20f663dcdddc1f",
+        "input": {
+          "char": "改",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_09c36b5e3d28812f",
+        "input": {
+          "char": "領",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_57e9a7d69ffdfcf2",
+        "input": {
+          "char": "越",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_ce95c6c6e53dcce7",
+        "input": {
+          "char": "設",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_a3e5edf6e88edd43",
+        "input": {
+          "char": "計",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_ecbc6889cf36acc1",
+        "input": {
+          "char": "發",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_93a87ca1ada483bc",
+        "input": {
+          "char": "方",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_c07fce5360ffbb1d",
+        "input": {
+          "char": "法",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_ba81a69a51280a37",
+        "input": {
+          "char": "分",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_5bbcb4c1e335a685",
+        "input": {
+          "char": "享",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_1853389c90df2a80",
+        "input": {
+          "char": "臣",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_aae2947a28addb2f",
+        "input": {
+          "char": "袖",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_abc2163097eca146",
+        "input": {
+          "char": "驚",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_2年級_上學期_第3課_memory_strategy_a2b708d6cf395d2f",
+        "input": {
+          "char": "讓",
+          "publisher": "翰林",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z",
+  "processedAt": "2026-10-06T09:06:35.577Z",
+  "output": {
+    "status": "done",
+    "completedCount": 22,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_6137ffa420f6f59b.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_1268c427167ee261.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_7867647cafa91c23.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_c6e59c25ba975c67.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_19c434f1eeeec53c.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_11331a3e3168ddb7.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_9abb9a2cb0d05db4.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_67e78118ded1fd67.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_3c20f663dcdddc1f.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_09c36b5e3d28812f.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_57e9a7d69ffdfcf2.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_ce95c6c6e53dcce7.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_a3e5edf6e88edd43.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_ecbc6889cf36acc1.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_93a87ca1ada483bc.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_c07fce5360ffbb1d.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_ba81a69a51280a37.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_5bbcb4c1e335a685.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_1853389c90df2a80.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_aae2947a28addb2f.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_abc2163097eca146.json",
+      "aiGenerated/memory_strategy/翰林_2年級_上學期_第3課_memory_strategy_a2b708d6cf395d2f.json"
+    ]
+  }
+}

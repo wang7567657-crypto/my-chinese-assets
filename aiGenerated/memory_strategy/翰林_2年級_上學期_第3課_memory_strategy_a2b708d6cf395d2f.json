@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第3課_memory_strategy_a2b708d6cf395d2f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "讓",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "讓",
+    "components": [
+      "言",
+      "襄"
+    ],
+    "association": "左邊言表示用話語溝通，右邊襄筆畫多，提醒自己有禮貌地讓給別人。",
+    "mnemonic": "左言右襄，請你先走就是讓。",
+    "visualPrompt": "以標準楷體清楚呈現「讓」，字形完整不變形；在字旁放置與「可以讓自己開心」情境相符的小圖，圖與字分開，不覆蓋筆畫。",
+    "teachingTip": "右邊是襄，上方兩個口、中間井形、下方衣形要分層寫清楚。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

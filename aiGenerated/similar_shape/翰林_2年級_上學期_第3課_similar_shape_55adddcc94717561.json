@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第3課_similar_shape_55adddcc94717561",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "領",
+    "lessonChars": [
+      "國",
+      "王",
+      "喜",
+      "歡",
+      "穿",
+      "只",
+      "件",
+      "點",
+      "改",
+      "領",
+      "越",
+      "設",
+      "計",
+      "發",
+      "方",
+      "法",
+      "分",
+      "享",
+      "臣",
+      "袖",
+      "驚",
+      "讓"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "領",
+    "similarChars": [
+      {
+        "char": "頂",
+        "similarity": "右邊都有頁",
+        "difference": "領左邊是令；頂左邊是丁。"
+      },
+      {
+        "char": "項",
+        "similarity": "右邊都有頁",
+        "difference": "領左邊是令；項左邊是工。"
+      },
+      {
+        "char": "頸",
+        "similarity": "右邊都有頁",
+        "difference": "領左邊是令；頸左邊是巠形部件。"
+      },
+      {
+        "char": "顆",
+        "similarity": "右邊都有頁",
+        "difference": "領左邊是令；顆左邊是果。"
+      },
+      {
+        "char": "顏",
+        "similarity": "右邊都有頁",
+        "difference": "領左邊是令；顏左邊筆畫較多。"
+      },
+      {
+        "char": "翎",
+        "similarity": "左邊都有令",
+        "difference": "領右邊是頁；翎右邊是羽。"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再圈出不同筆畫；回到本課語詞「衣領」確認用字。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

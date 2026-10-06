@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第3課_similar_shape_2de5bba3d968f655",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "分",
+    "lessonChars": [
+      "國",
+      "王",
+      "喜",
+      "歡",
+      "穿",
+      "只",
+      "件",
+      "點",
+      "改",
+      "領",
+      "越",
+      "設",
+      "計",
+      "發",
+      "方",
+      "法",
+      "分",
+      "享",
+      "臣",
+      "袖",
+      "驚",
+      "讓"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "分",
+    "similarChars": [
+      {
+        "char": "切",
+        "similarity": "右下都有刀形部件",
+        "difference": "分上方是八；切左邊是七。"
+      },
+      {
+        "char": "芬",
+        "similarity": "下方完整是分",
+        "difference": "芬比分多上面的艹。"
+      },
+      {
+        "char": "粉",
+        "similarity": "右邊完整是分",
+        "difference": "粉比分多左邊米。"
+      },
+      {
+        "char": "紛",
+        "similarity": "右邊完整是分",
+        "difference": "紛比分多左邊糹。"
+      },
+      {
+        "char": "份",
+        "similarity": "右邊完整是分",
+        "difference": "份比分多左邊亻。"
+      },
+      {
+        "char": "貧",
+        "similarity": "上方完整是分",
+        "difference": "貧比分多下方貝。"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再圈出不同筆畫；回到本課語詞「分享」確認用字。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

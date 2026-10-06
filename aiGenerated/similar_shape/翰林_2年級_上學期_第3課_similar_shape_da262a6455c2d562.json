@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第3課_similar_shape_da262a6455c2d562",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "國",
+    "lessonChars": [
+      "國",
+      "王",
+      "喜",
+      "歡",
+      "穿",
+      "只",
+      "件",
+      "點",
+      "改",
+      "領",
+      "越",
+      "設",
+      "計",
+      "發",
+      "方",
+      "法",
+      "分",
+      "享",
+      "臣",
+      "袖",
+      "驚",
+      "讓"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "國",
+    "similarChars": [
+      {
+        "char": "園",
+        "similarity": "都有外框囗，整體是方形包圍結構",
+        "difference": "國裡面是或；園裡面是袁。"
+      },
+      {
+        "char": "圍",
+        "similarity": "都有外框囗",
+        "difference": "國裡面是或；圍裡面是韋。"
+      },
+      {
+        "char": "團",
+        "similarity": "都有外框囗",
+        "difference": "國裡面是或；團裡面是專。"
+      },
+      {
+        "char": "圖",
+        "similarity": "都有外框囗",
+        "difference": "國裡面有或；圖裡面有啚形部件。"
+      },
+      {
+        "char": "困",
+        "similarity": "都有外框囗",
+        "difference": "國裡面是或；困裡面只有木。"
+      },
+      {
+        "char": "固",
+        "similarity": "都有外框囗",
+        "difference": "國裡面是或；固裡面是古。"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再圈出不同筆畫；回到本課語詞「國王」確認用字。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}
