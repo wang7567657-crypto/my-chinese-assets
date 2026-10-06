@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第4課_similar_shape_baacbfe8e31250ee",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "迫",
+    "lessonChars": [
+      "鰭",
+      "划",
+      "奧",
+      "仿",
+      "迫",
+      "蚊",
+      "膚",
+      "鋸",
+      "劃",
+      "擴",
+      "液",
+      "奈",
+      "構",
+      "鵰",
+      "霸",
+      "翹",
+      "垂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "迫",
+    "similarChars": [
+      {
+        "char": "泊",
+        "similarity": "都包含白",
+        "difference": "迫的辶包住白，泊的氵在白左邊。"
+      },
+      {
+        "char": "拍",
+        "similarity": "都包含白",
+        "difference": "迫用辶，拍用左邊的扌。"
+      },
+      {
+        "char": "怕",
+        "similarity": "都包含白",
+        "difference": "迫用辶，怕用左邊的忄。"
+      },
+      {
+        "char": "伯",
+        "similarity": "都包含白",
+        "difference": "迫用辶，伯用左邊的亻。"
+      },
+      {
+        "char": "迭",
+        "similarity": "同有辶，包圍位置相近",
+        "difference": "迫裡面是白，迭裡面是失。"
+      },
+      {
+        "char": "追",
+        "similarity": "同有辶，內部都有直立框形",
+        "difference": "迫裡面是白的一個框，追裡面有上下兩段框形。"
+      }
+    ],
+    "teachingTip": "先看白，再沿著辶的筆畫找出包圍方向。 比較只依字形，不表示讀音或意思相同；較少見字以辨形為主。"
+  },
+  "createdAt": "2026-10-06T06:08:14.471Z"
+}

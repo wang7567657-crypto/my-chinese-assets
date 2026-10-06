@@ -2,6 +2,7 @@
   "taskType": "similar_shape",
   "requestId": "翰林_6年級_上學期_第4課_similar_shape_9c46b9498f161d44",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
     "publisher": "翰林",
@@ -35,12 +36,38 @@
   "data": {
     "targetChar": "划",
     "similarChars": [
-      "刈",
-      "刑",
-      "刊",
-      "刎"
+      {
+        "char": "刈",
+        "similarity": "右邊同是刂，左邊都有交叉筆畫",
+        "difference": "划左邊是戈，刈左邊是乂。"
+      },
+      {
+        "char": "戈",
+        "similarity": "都包含戈",
+        "difference": "划右邊多了刂。"
+      },
+      {
+        "char": "找",
+        "similarity": "都包含戈",
+        "difference": "划把刂放在右，找把扌放在左。"
+      },
+      {
+        "char": "伐",
+        "similarity": "都包含戈",
+        "difference": "划右邊是刂，伐左邊是亻。"
+      },
+      {
+        "char": "戎",
+        "similarity": "都有戈的斜鉤與撇點",
+        "difference": "划是戈加刂，戎在戈中另有十形筆畫。"
+      },
+      {
+        "char": "劃",
+        "similarity": "右邊同是刂",
+        "difference": "划左邊是戈，劃左邊是畫，筆畫多得多。"
+      }
     ],
-    "teachingTip": "先找「划」和相似字共用的部分，再圈出不同筆畫。"
+    "teachingTip": "先看戈，再找右邊刂；划船的「划」和規劃的「劃」左半不同。 比較只依字形，不表示讀音或意思相同；較少見字以辨形為主。"
   },
-  "createdAt": "2026-09-04T02:00:00.000Z"
+  "createdAt": "2026-10-06T06:08:14.471Z"
 }

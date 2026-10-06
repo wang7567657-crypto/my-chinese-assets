@@ -2,6 +2,7 @@
   "taskType": "similar_shape",
   "requestId": "翰林_6年級_上學期_第4課_similar_shape_2c931776f5fd4d13",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
     "publisher": "翰林",
@@ -35,12 +36,38 @@
   "data": {
     "targetChar": "垂",
     "similarChars": [
-      "睡",
-      "錘",
-      "捶",
-      "郵"
+      {
+        "char": "重",
+        "similarity": "都有多層橫畫與中間直畫",
+        "difference": "垂中間兩側有短直畫，重中間是日形；留意橫畫排列。"
+      },
+      {
+        "char": "捶",
+        "similarity": "右邊包含垂",
+        "difference": "捶左邊比垂多了扌。"
+      },
+      {
+        "char": "睡",
+        "similarity": "右邊包含垂",
+        "difference": "睡左邊比垂多了目。"
+      },
+      {
+        "char": "錘",
+        "similarity": "右邊包含垂",
+        "difference": "錘左邊比垂多了金。"
+      },
+      {
+        "char": "唾",
+        "similarity": "右邊包含垂",
+        "difference": "唾左邊比垂多了口。"
+      },
+      {
+        "char": "陲",
+        "similarity": "右邊包含垂",
+        "difference": "陲左邊比垂多了阝；陲較少見。"
+      }
     ],
-    "teachingTip": "先找「垂」和相似字共用的部分，再圈出不同筆畫。"
+    "teachingTip": "先觀察中央直畫與橫畫的交接，再比較重；加偏旁的字先遮住偏旁。 比較只依字形，不表示讀音或意思相同；較少見字以辨形為主。"
   },
-  "createdAt": "2026-09-04T02:24:00.000Z"
+  "createdAt": "2026-10-06T06:08:14.471Z"
 }

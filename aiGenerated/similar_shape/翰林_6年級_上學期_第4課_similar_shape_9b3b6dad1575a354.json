@@ -2,6 +2,7 @@
   "taskType": "similar_shape",
   "requestId": "翰林_6年級_上學期_第4課_similar_shape_9b3b6dad1575a354",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
     "publisher": "翰林",
@@ -35,11 +36,38 @@
   "data": {
     "targetChar": "霸",
     "similarChars": [
-      "霜",
-      "霞",
-      "露"
+      {
+        "char": "壩",
+        "similarity": "右邊包含完整的霸",
+        "difference": "壩左邊比霸多了土。"
+      },
+      {
+        "char": "灞",
+        "similarity": "右邊包含完整的霸",
+        "difference": "灞左邊比霸多了氵；灞較少見。"
+      },
+      {
+        "char": "霜",
+        "similarity": "上方同是雨",
+        "difference": "霸下面是革與月，霜下面是相。"
+      },
+      {
+        "char": "霧",
+        "similarity": "上方同是雨",
+        "difference": "霸下面是革與月，霧下面是務。"
+      },
+      {
+        "char": "霖",
+        "similarity": "上方同是雨，下面都有左右兩組",
+        "difference": "霸下面是革與月，霖下面是兩個木。"
+      },
+      {
+        "char": "霄",
+        "similarity": "上方同是雨，底部都有月形",
+        "difference": "霸下方月形在右，霄下方是肖，月形在中間。"
+      }
     ],
-    "teachingTip": "先找「霸」和相似字共用的部分，再圈出不同筆畫。"
+    "teachingTip": "先看雨下面的革與月；其他雨字頭只作局部比較，不能只看上半部。 比較只依字形，不表示讀音或意思相同；較少見字以辨形為主。"
   },
-  "createdAt": "2026-09-04T02:22:00.000Z"
+  "createdAt": "2026-10-06T06:08:14.471Z"
 }

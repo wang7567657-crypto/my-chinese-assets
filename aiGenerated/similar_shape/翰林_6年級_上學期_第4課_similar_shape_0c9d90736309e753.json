@@ -2,6 +2,7 @@
   "taskType": "similar_shape",
   "requestId": "翰林_6年級_上學期_第4課_similar_shape_0c9d90736309e753",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
     "publisher": "翰林",
@@ -35,12 +36,38 @@
   "data": {
     "targetChar": "仿",
     "similarChars": [
-      "訪",
-      "防",
-      "坊",
-      "紡"
+      {
+        "char": "彷",
+        "similarity": "右邊同是方",
+        "difference": "仿左邊是亻，彷左邊是彳。"
+      },
+      {
+        "char": "坊",
+        "similarity": "右邊同是方",
+        "difference": "仿左邊是亻，坊左邊是土。"
+      },
+      {
+        "char": "防",
+        "similarity": "右邊同是方",
+        "difference": "仿左邊是亻，防左邊是阝。"
+      },
+      {
+        "char": "訪",
+        "similarity": "右邊同是方",
+        "difference": "仿左邊是亻，訪左邊是言。"
+      },
+      {
+        "char": "紡",
+        "similarity": "右邊同是方",
+        "difference": "仿左邊是亻，紡左邊是糸。"
+      },
+      {
+        "char": "放",
+        "similarity": "都包含方",
+        "difference": "仿的方在右，放的方在左，另一邊分別是亻和攵。"
+      }
     ],
-    "teachingTip": "先找「仿」和相似字共用的部分，再圈出不同筆畫。"
+    "teachingTip": "遮住左偏旁，先看共同的方，再逐一比較左邊。 比較只依字形，不表示讀音或意思相同；較少見字以辨形為主。"
   },
-  "createdAt": "2026-09-04T02:04:00.000Z"
+  "createdAt": "2026-10-06T06:08:14.471Z"
 }

@@ -2,6 +2,7 @@
   "taskType": "similar_shape",
   "requestId": "翰林_6年級_上學期_第4課_similar_shape_8aff73cd8a69db36",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
     "publisher": "翰林",
@@ -35,11 +36,38 @@
   "data": {
     "targetChar": "鋸",
     "similarChars": [
-      "據",
-      "劇",
-      "居"
+      {
+        "char": "據",
+        "similarity": "左側都有直畫與提，右側都有尸或虍的包圍輪廓",
+        "difference": "鋸是金加居，據是扌加豦；右部不相同。"
+      },
+      {
+        "char": "踞",
+        "similarity": "右邊同是居",
+        "difference": "鋸左邊是金，踞左邊是足。"
+      },
+      {
+        "char": "倨",
+        "similarity": "右邊同是居",
+        "difference": "鋸左邊是金，倨左邊是亻；倨較少見。"
+      },
+      {
+        "char": "裾",
+        "similarity": "右邊同是居",
+        "difference": "鋸左邊是金，裾左邊是衤；裾較少見。"
+      },
+      {
+        "char": "居",
+        "similarity": "鋸的右半部就是居",
+        "difference": "居沒有左邊的金部。"
+      },
+      {
+        "char": "鋁",
+        "similarity": "左邊同是金，右邊都有口形",
+        "difference": "鋸右邊是居，鋁右邊是呂，有上下兩個口。"
+      }
     ],
-    "teachingTip": "先找「鋸」和相似字共用的部分，再圈出不同筆畫。"
+    "teachingTip": "找出右邊的居，再比較左邊的金、足、亻；據的右部不是居。 比較只依字形，不表示讀音或意思相同；較少見字以辨形為主。"
   },
-  "createdAt": "2026-09-04T02:10:00.000Z"
+  "createdAt": "2026-10-06T06:08:14.471Z"
 }

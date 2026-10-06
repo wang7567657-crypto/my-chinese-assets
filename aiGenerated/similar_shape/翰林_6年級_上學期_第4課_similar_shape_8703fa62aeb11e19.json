@@ -2,6 +2,7 @@
   "taskType": "similar_shape",
   "requestId": "翰林_6年級_上學期_第4課_similar_shape_8703fa62aeb11e19",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
     "publisher": "翰林",
@@ -35,11 +36,38 @@
   "data": {
     "targetChar": "翹",
     "similarChars": [
-      "繞",
-      "燒",
-      "曉"
+      {
+        "char": "堯",
+        "similarity": "翹的左半部就是堯",
+        "difference": "堯右邊沒有羽。"
+      },
+      {
+        "char": "澆",
+        "similarity": "都包含堯",
+        "difference": "翹把羽放在堯右邊，澆把氵放在堯左邊。"
+      },
+      {
+        "char": "繞",
+        "similarity": "都包含堯",
+        "difference": "翹是堯加羽，繞是糸加堯。"
+      },
+      {
+        "char": "燒",
+        "similarity": "都包含堯",
+        "difference": "翹是堯加羽，燒是火加堯。"
+      },
+      {
+        "char": "饒",
+        "similarity": "都包含堯",
+        "difference": "翹是堯加羽，饒是食加堯。"
+      },
+      {
+        "char": "蹺",
+        "similarity": "都包含堯",
+        "difference": "翹是堯加羽，蹺是足加堯。"
+      }
     ],
-    "teachingTip": "先找「翹」和相似字共用的部分，再圈出不同筆畫。"
+    "teachingTip": "先找堯，再比較羽在右，或其他偏旁在左。 比較只依字形，不表示讀音或意思相同；較少見字以辨形為主。"
   },
-  "createdAt": "2026-09-04T02:24:00.000Z"
+  "createdAt": "2026-10-06T06:08:14.471Z"
 }
