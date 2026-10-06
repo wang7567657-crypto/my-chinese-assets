@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第1課_similar_shape_5e6cb8979930c766",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "密",
+    "lessonChars": [
+      "候",
+      "颳",
+      "冷",
+      "躲",
+      "閃",
+      "電",
+      "難",
+      "烏",
+      "雲",
+      "密",
+      "布",
+      "盆",
+      "充",
+      "滿",
+      "放",
+      "晴",
+      "現",
+      "虹",
+      "傾",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "密",
+    "similarChars": [
+      {
+        "char": "蜜",
+        "similarity": "共用上方宀與中間必",
+        "difference": "密下是山；蜜下是虫。"
+      },
+      {
+        "char": "宓",
+        "similarity": "共用宀與必",
+        "difference": "密最下方多山；宓沒有山，宓較少見。"
+      },
+      {
+        "char": "秘",
+        "similarity": "共用必部件",
+        "difference": "密是宀、必、山上下排列；秘是禾在左、必在右。"
+      },
+      {
+        "char": "謐",
+        "similarity": "共用必形部件",
+        "difference": "密上是宀、下是山；謐左是言，右側必下有皿，謐較少見。"
+      },
+      {
+        "char": "寧",
+        "similarity": "共用宀，上下層次與中間心形筆畫相近",
+        "difference": "密中間是必、下面山；寧中間含心、皿，最下方丁。"
+      },
+      {
+        "char": "宙",
+        "similarity": "共用宀，下面都有直豎與框形輪廓",
+        "difference": "密宀下是必加山；宙宀下是由。"
+      }
+    ],
+    "teachingTip": "與蜜比較最下方：密是山，蜜是虫。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

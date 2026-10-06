@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_6a7c32a7f3f8b463",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "難",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "難",
+    "groups": {
+      "shape": [
+        {
+          "char": "漢",
+          "why": "共用難的左側主體部件",
+          "difference": "難右是隹；漢左是氵、右是相近主體部件。"
+        },
+        {
+          "char": "嘆",
+          "why": "共用難的左側主體部件",
+          "difference": "難右是隹；嘆左是口、右是相近主體部件。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "南",
+          "why": "同音比較：難過的難、南都讀ㄋㄢˊ；災難的難讀ㄋㄢˋ。",
+          "difference": "難過是心情；南是方向。本課以難過的語境讀ㄋㄢˊ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "愁",
+          "why": "難過與發愁都可能是不好受的心情。",
+          "difference": "難過著重傷心或不舒服；愁著重擔心。『難題』的難又表示不容易。"
+        }
+      ],
+      "component": [
+        {
+          "char": "嘆",
+          "why": "部件比較：共用難的左側主體部件",
+          "difference": "難右是隹；嘆左是口、右是相近主體部件。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「難過」，再依字形與句意選字。右邊是隹，不是住的主；本課難過讀ㄋㄢˊ，災難的難讀ㄋㄢˋ。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

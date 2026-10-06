@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_2e438aa020ba27b6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "躲",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "躲",
+    "groups": {
+      "shape": [
+        {
+          "char": "朵",
+          "why": "共用朵部件",
+          "difference": "躲左邊多了身，朵沒有身。"
+        },
+        {
+          "char": "躺",
+          "why": "共用身部，左右輪廓相近",
+          "difference": "躲右是朵；躺右是尚。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "朵",
+          "why": "同音：躲、朵都讀ㄉㄨㄛˇ。",
+          "difference": "躲是躲藏的動作；朵可用於一朵花。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "藏",
+          "why": "都可能表示讓人看不到。",
+          "difference": "躲可指人避開；藏也可指把東西收起來，依句意選字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "朵",
+          "why": "部件比較：共用朵部件",
+          "difference": "躲左邊多了身，朵沒有身。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「躲起來」，再依字形與句意選字。朵上方是几形，不要寫成乃；身旁也不要漏筆。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

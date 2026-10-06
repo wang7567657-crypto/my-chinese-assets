@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_148a27c9df392afc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "充",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "充",
+    "groups": {
+      "shape": [
+        {
+          "char": "允",
+          "why": "下方同為儿，上方有相近彎形",
+          "difference": "充上方是三畫部件，含橫、撇折及點；允上方是厶形，沒有上方橫。"
+        },
+        {
+          "char": "兗",
+          "why": "下方同為儿，上下輪廓相近",
+          "difference": "充上方是其三畫部件；兗上方有亠、八、口等形，筆畫更多；兗較少見。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "衝",
+          "why": "同音比較：充、衝在『衝出去』中都讀ㄔㄨㄥ。",
+          "difference": "充是充滿、充電；衝是向前衝，不能只聽聲音寫。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "滿",
+          "why": "充滿中的兩字都與填足有關。",
+          "difference": "充可組充電、補充；滿可組滿意、裝滿，各自組詞不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "允",
+          "why": "部件比較：下方同為儿，上方有相近彎形",
+          "difference": "充上方是三畫部件，含橫、撇折及點；允上方是厶形，沒有上方橫。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「充滿」，再依字形與句意選字。臺灣標準字形充共5畫，上方起筆為橫；不套用點、橫起筆的6畫寫法。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

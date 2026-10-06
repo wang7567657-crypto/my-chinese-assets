@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_dbbf864268b659c6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "布",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "布",
+    "groups": {
+      "shape": [
+        {
+          "char": "市",
+          "why": "下方都含巾",
+          "difference": "布上方是橫、撇；市上方是點、橫。"
+        },
+        {
+          "char": "帛",
+          "why": "都含巾，上下輪廓相近",
+          "difference": "布上方是橫、撇；帛上方是白。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "步",
+          "why": "同音：布、步都讀ㄅㄨˋ。",
+          "difference": "布可組密布、布料；步可組走路的腳步。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "佈",
+          "why": "布與佈在分布、布置等語境可能接近。",
+          "difference": "本課固定詞寫『密布』；佈多亻，依課文用字，不自行替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "帛",
+          "why": "部件比較：都含巾，上下輪廓相近",
+          "difference": "布上方是橫、撇；帛上方是白。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「密布」，再依字形與句意選字。巾的中間豎要伸出；布的上方不是十。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第1課_similar_shape_0d22ec64fadd5afc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "滿",
+    "lessonChars": [
+      "候",
+      "颳",
+      "冷",
+      "躲",
+      "閃",
+      "電",
+      "難",
+      "烏",
+      "雲",
+      "密",
+      "布",
+      "盆",
+      "充",
+      "滿",
+      "放",
+      "晴",
+      "現",
+      "虹",
+      "傾",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "滿",
+    "similarChars": [
+      {
+        "char": "瞞",
+        "similarity": "共用右側主體",
+        "difference": "滿左是氵；瞞左是目。"
+      },
+      {
+        "char": "蹣",
+        "similarity": "共用右側主體",
+        "difference": "滿左是氵；蹣左是足字旁，蹣較少見。"
+      },
+      {
+        "char": "蟎",
+        "similarity": "共用右側主體",
+        "difference": "滿左是氵；蟎左是虫，蟎較少見。"
+      },
+      {
+        "char": "顢",
+        "similarity": "共用滿的右側主體部件",
+        "difference": "滿是氵在左；顢是該主體在左、頁在右，顢較少見。"
+      },
+      {
+        "char": "蒲",
+        "similarity": "上方與滿右側都有艹形，左下都見氵",
+        "difference": "滿的艹形在右側上方，右下是其特定主體；蒲的艹在整字上方，下方是浦，含甫。"
+      },
+      {
+        "char": "兩",
+        "similarity": "都可看到外框及內部成對入形",
+        "difference": "滿左多氵，右上有艹形；兩上方是一橫，框內筆畫配置與滿右部也不同。"
+      }
+    ],
+    "teachingTip": "右下兩個入形及外框都要留，不能寫成兩。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

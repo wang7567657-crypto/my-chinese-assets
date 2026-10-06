@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第1課_similar_shape_df25872fd968b805",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "烏",
+    "lessonChars": [
+      "候",
+      "颳",
+      "冷",
+      "躲",
+      "閃",
+      "電",
+      "難",
+      "烏",
+      "雲",
+      "密",
+      "布",
+      "盆",
+      "充",
+      "滿",
+      "放",
+      "晴",
+      "現",
+      "虹",
+      "傾",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "烏",
+    "similarChars": [
+      {
+        "char": "鳥",
+        "similarity": "整體輪廓與下方四點相近",
+        "difference": "烏上方框內比鳥少一橫；鳥有這一橫。"
+      },
+      {
+        "char": "島",
+        "similarity": "上方鳥形部件與烏相近",
+        "difference": "烏下面是四點；島下面是山，且上方內部橫畫也要分辨。"
+      },
+      {
+        "char": "鳴",
+        "similarity": "右側鳥與烏輪廓相近",
+        "difference": "鳴左多口，右邊是鳥，比烏上方多一橫。"
+      },
+      {
+        "char": "鴉",
+        "similarity": "右側鳥與烏輪廓相近",
+        "difference": "鴉左是牙，右邊是鳥，比烏上方多一橫。"
+      },
+      {
+        "char": "嗚",
+        "similarity": "右側完整含烏",
+        "difference": "嗚左多口；烏沒有口。"
+      },
+      {
+        "char": "鎢",
+        "similarity": "右側完整含烏",
+        "difference": "鎢左多金；烏沒有金，鎢較少見。"
+      }
+    ],
+    "teachingTip": "烏的字典部首是火，字形為下面灬；與鳥比較中間橫畫，不把灬改成圖案。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

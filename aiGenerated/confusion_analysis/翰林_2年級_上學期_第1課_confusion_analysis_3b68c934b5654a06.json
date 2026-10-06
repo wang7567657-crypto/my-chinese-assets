@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_3b68c934b5654a06",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "滿",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "滿",
+    "groups": {
+      "shape": [
+        {
+          "char": "瞞",
+          "why": "共用右側主體",
+          "difference": "滿左是氵；瞞左是目。"
+        },
+        {
+          "char": "蹣",
+          "why": "共用右側主體",
+          "difference": "滿左是氵；蹣左是足字旁，蹣較少見。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "慢",
+          "why": "近音：滿ㄇㄢˇ、慢ㄇㄢˋ，聲母韻母相同，聲調不同。",
+          "difference": "滿是裝滿；慢是速度慢，聽清第三聲、第四聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "足",
+          "why": "充滿、充足都與足夠有關。",
+          "difference": "滿常指容器或空間已填滿；足可指足夠，也可指腳，依詞語選用。"
+        }
+      ],
+      "component": [
+        {
+          "char": "蹣",
+          "why": "部件比較：共用右側主體",
+          "difference": "滿左是氵；蹣左是足字旁，蹣較少見。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「充滿」，再依字形與句意選字。右下兩個入形及外框都要留，不能寫成兩。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

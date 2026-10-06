@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第1課_similar_shape_b126b1e51b1670d5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "充",
+    "lessonChars": [
+      "候",
+      "颳",
+      "冷",
+      "躲",
+      "閃",
+      "電",
+      "難",
+      "烏",
+      "雲",
+      "密",
+      "布",
+      "盆",
+      "充",
+      "滿",
+      "放",
+      "晴",
+      "現",
+      "虹",
+      "傾",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "充",
+    "similarChars": [
+      {
+        "char": "允",
+        "similarity": "下方同為儿，上方有相近彎形",
+        "difference": "充上方是三畫部件，含橫、撇折及點；允上方是厶形，沒有上方橫。"
+      },
+      {
+        "char": "兗",
+        "similarity": "下方同為儿，上下輪廓相近",
+        "difference": "充上方是其三畫部件；兗上方有亠、八、口等形，筆畫更多；兗較少見。"
+      },
+      {
+        "char": "育",
+        "similarity": "上方部件相同",
+        "difference": "充下方是儿；育下方是月形部件。"
+      },
+      {
+        "char": "流",
+        "similarity": "右側上部與充上方相近",
+        "difference": "充下面是儿；流左有氵，右下面是川形，不能照搬充下部。"
+      },
+      {
+        "char": "統",
+        "similarity": "右側完整含充",
+        "difference": "統左多糹；充沒有糹。"
+      },
+      {
+        "char": "銃",
+        "similarity": "右側完整含充",
+        "difference": "銃左多金；充沒有金，銃較少見。"
+      }
+    ],
+    "teachingTip": "臺灣標準字形充共5畫，上方起筆為橫；不套用點、橫起筆的6畫寫法。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

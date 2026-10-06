@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_41c95c919c424cef",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "密",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "密",
+    "groups": {
+      "shape": [
+        {
+          "char": "蜜",
+          "why": "共用上方宀與中間必",
+          "difference": "密下是山；蜜下是虫。"
+        },
+        {
+          "char": "宓",
+          "why": "共用宀與必",
+          "difference": "密最下方多山；宓沒有山，宓較少見。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蜜",
+          "why": "同音：密、蜜都讀ㄇㄧˋ。",
+          "difference": "密布指分布得多而緊；蜜是蜂蜜，末部山、虫要分清。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "稠",
+          "why": "密、稠都可指多而集中。",
+          "difference": "密布指布滿且靠近；稠常描述液體濃或事物密集，用詞需依句子。"
+        }
+      ],
+      "component": [
+        {
+          "char": "蜜",
+          "why": "部件比較：共用上方宀與中間必",
+          "difference": "密下是山；蜜下是虫。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「密布」，再依字形與句意選字。與蜜比較最下方：密是山，蜜是虫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

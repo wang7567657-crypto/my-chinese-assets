@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第1課_confusion_analysis_3c54c6da5da269dc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "傾",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "傾",
+    "groups": {
+      "shape": [
+        {
+          "char": "頃",
+          "why": "共用頃部件",
+          "difference": "傾左多亻；頃沒有亻。"
+        },
+        {
+          "char": "頌",
+          "why": "右側都含頁，整體輪廓相近",
+          "difference": "傾左有亻，頁左還有匕形；頌左是公、右是頁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "青",
+          "why": "同音：傾、青都讀ㄑㄧㄥ。",
+          "difference": "傾是傾斜、傾倒；青是顏色或青菜的青。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "倒",
+          "why": "傾倒與倒出都可指讓物體斜下或水流出。",
+          "difference": "傾可組傾斜、傾聽；倒在倒水讀ㄉㄠˋ，在跌倒讀ㄉㄠˇ，依詞語判斷。"
+        }
+      ],
+      "component": [
+        {
+          "char": "頌",
+          "why": "部件比較：右側都含頁，整體輪廓相近",
+          "difference": "傾左有亻，頁左還有匕形；頌左是公、右是頁。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「傾盆大雨」，再依字形與句意選字。右邊頃含匕形與頁；不要把頁下方兩筆漏掉。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}

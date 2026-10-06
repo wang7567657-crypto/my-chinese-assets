@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第1課_similar_shape_b046c693750465e2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "麗",
+    "lessonChars": [
+      "候",
+      "颳",
+      "冷",
+      "躲",
+      "閃",
+      "電",
+      "難",
+      "烏",
+      "雲",
+      "密",
+      "布",
+      "盆",
+      "充",
+      "滿",
+      "放",
+      "晴",
+      "現",
+      "虹",
+      "傾",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "麗",
+    "similarChars": [
+      {
+        "char": "儷",
+        "similarity": "右側完整含麗",
+        "difference": "儷左多亻；麗沒有亻，儷較少見。"
+      },
+      {
+        "char": "驪",
+        "similarity": "右側完整含麗",
+        "difference": "驪左多馬；麗沒有馬，驪較少見。"
+      },
+      {
+        "char": "灑",
+        "similarity": "右側完整含麗",
+        "difference": "灑左多氵；麗沒有氵。"
+      },
+      {
+        "char": "邐",
+        "similarity": "內部完整含麗",
+        "difference": "邐外有辶；麗沒有辶，邐較少見。"
+      },
+      {
+        "char": "鹿",
+        "similarity": "共用下方鹿形主體",
+        "difference": "麗在鹿上另外有一對部件；鹿沒有這一對上部。"
+      },
+      {
+        "char": "麋",
+        "similarity": "共用鹿形部件",
+        "difference": "麗是成對上部在上、鹿在下；麋是鹿在上、米在下，麋較少見。"
+      }
+    ],
+    "teachingTip": "上方左右各有點畫；下方鹿內部與底部匕形不能省略。美麗讀ㄌㄧˋ。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T07:13:10.969Z"
+}
