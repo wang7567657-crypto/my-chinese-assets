@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_61331c9082c8ff61",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "鏽",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鏽",
+    "groups": {
+      "shape": [
+        {
+          "char": "繡",
+          "why": "右邊同是肅",
+          "difference": "鏽左邊是金，繡左邊是糸。"
+        },
+        {
+          "char": "肅",
+          "why": "鏽右邊就是肅",
+          "difference": "肅沒有左邊金。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "秀",
+          "why": "鏽、秀都讀ㄒㄧㄡˋ",
+          "difference": "生鏽用鏽，優秀用秀。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "污",
+          "why": "都可能讓物體表面變色",
+          "difference": "鏽與金屬氧化有關，污是髒汙，生鏽不等於沾到灰塵。"
+        }
+      ],
+      "component": [
+        {
+          "char": "繡",
+          "why": "比較共同部件與偏旁位置。右邊同是肅",
+          "difference": "鏽左邊是金，繡左邊是糸。"
+        }
+      ]
+    },
+    "tip": "肅的中間與下方筆畫較多，按來源逐筆觀察，不以秀替代本課字形。 看字形、讀完整語詞，再確認意思；近音字已分別標示聲母或聲調差異。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

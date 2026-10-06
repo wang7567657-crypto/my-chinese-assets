@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第7課_memory_strategy_df8fd3a874cc2236",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "鄒",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鄒",
+    "components": [
+      "芻",
+      "阝（右）"
+    ],
+    "association": "本課用鄒族作語詞提示，字形看左芻與右阝。",
+    "mnemonic": "左邊芻，右耳旁，鄒族的鄒記兩旁。",
+    "visualPrompt": "保留「鄒」字，把芻與右阝分色；只附「鄒族」文字提示，不以想像裝扮替代族群形象。",
+    "teachingTip": "右邊阝是邑部，不是左邊阝的阜部；鄒讀ㄗㄡ。 這是教學聯想，不是字源解釋；圖像放在字旁，保持標準字形與筆畫。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

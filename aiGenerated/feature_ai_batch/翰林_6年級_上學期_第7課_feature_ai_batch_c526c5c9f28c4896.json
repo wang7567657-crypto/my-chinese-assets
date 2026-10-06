@@ -1,0 +1,61 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_6年級_上學期_第7課_feature_ai_batch_c526c5c9f28c4896",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "featureTaskType": "component_split",
+    "featureName": "部件拆分",
+    "itemCount": 18,
+    "batchCharacters": [
+      "姨",
+      "雕",
+      "拓",
+      "蕨",
+      "梅",
+      "佇",
+      "冽",
+      "澤",
+      "苞",
+      "錦",
+      "鄒",
+      "眨",
+      "鏽",
+      "鋼",
+      "涵",
+      "銅",
+      "籍",
+      "略"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 18,
+    "resultPaths": [
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_fc841a10d958c93f.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_57dbb7bda654e385.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_c63251ed4c059fcf.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_b07f3cf5e60df794.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_3a0940f8386b55f8.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_17f6eaa6360dfe48.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_f48b8802a8d5c333.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_43c0255964c38fe1.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_5990077abf917842.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_6a900091eac8868e.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_8df135a88e3aae81.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_bc549881a2f9ae88.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_daef66222ec01e38.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_a96b87990feb5661.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_85e493e7047f1fc1.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_b051956052242815.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_b605307551eb3e9a.json",
+      "aiGenerated/component_split/翰林_6年級_上學期_第7課_component_split_5f68b507e2c65062.json"
+    ]
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

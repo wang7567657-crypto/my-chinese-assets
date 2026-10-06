@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第7課_memory_strategy_45920a1a80ea0ec6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "雕",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "雕",
+    "components": [
+      "周",
+      "隹"
+    ],
+    "association": "雕塑作品旁站著一隻鳥，提醒右側是隹。",
+    "mnemonic": "周在左，隹在右，雕刻的雕別換鳥。",
+    "visualPrompt": "標準「雕」字的周、隹分色，旁邊另放雕塑與鳥圖。",
+    "teachingTip": "比較雕和鵰；鵰右邊是鳥，雕右邊是隹。 這是教學聯想，不是字源解釋；圖像放在字旁，保持標準字形與筆畫。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

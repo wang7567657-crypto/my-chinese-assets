@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第7課_similar_shape_d5836949659addde",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "鏽",
+    "lessonChars": [
+      "姨",
+      "雕",
+      "拓",
+      "蕨",
+      "梅",
+      "佇",
+      "冽",
+      "澤",
+      "苞",
+      "錦",
+      "鄒",
+      "眨",
+      "鏽",
+      "鋼",
+      "涵",
+      "銅",
+      "籍",
+      "略"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "鏽",
+    "similarChars": [
+      {
+        "char": "繡",
+        "similarity": "右邊同是肅",
+        "difference": "鏽左邊是金，繡左邊是糸。"
+      },
+      {
+        "char": "肅",
+        "similarity": "鏽右邊就是肅",
+        "difference": "肅沒有左邊金。"
+      },
+      {
+        "char": "嘯",
+        "similarity": "右邊同是肅",
+        "difference": "鏽左邊是金，嘯左邊是口。"
+      },
+      {
+        "char": "蕭",
+        "similarity": "都包含肅",
+        "difference": "鏽的金在左，蕭的艹在上。"
+      },
+      {
+        "char": "鏡",
+        "similarity": "左邊同是金，右邊筆畫密集",
+        "difference": "鏽右邊是肅，鏡右邊是竟，下方是儿。"
+      },
+      {
+        "char": "銹",
+        "similarity": "左邊同是金，是同字的另一寫法",
+        "difference": "銹是鏽的異體，右邊是秀；本課教材書寫用鏽。"
+      }
+    ],
+    "teachingTip": "肅的中間與下方筆畫較多，按來源逐筆觀察，不以秀替代本課字形。 先找共用部件，再比較不同位置；字形相似不表示讀音或意思相同。較少見字以辨形為主。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

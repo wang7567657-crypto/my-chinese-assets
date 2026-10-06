@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第7課_similar_shape_551c1a55345089b6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "籍",
+    "lessonChars": [
+      "姨",
+      "雕",
+      "拓",
+      "蕨",
+      "梅",
+      "佇",
+      "冽",
+      "澤",
+      "苞",
+      "錦",
+      "鄒",
+      "眨",
+      "鏽",
+      "鋼",
+      "涵",
+      "銅",
+      "籍",
+      "略"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "籍",
+    "similarChars": [
+      {
+        "char": "藉",
+        "similarity": "下方同有耒與昔",
+        "difference": "籍上方是竹字頭，藉上方是艹。"
+      },
+      {
+        "char": "耤",
+        "similarity": "籍下方就是耤",
+        "difference": "耤沒有竹字頭；耤較少見。"
+      },
+      {
+        "char": "簿",
+        "similarity": "上方同是竹字頭，下方分左右",
+        "difference": "籍下方是耒與昔，簿下方是溥。"
+      },
+      {
+        "char": "簽",
+        "similarity": "上方同是竹字頭，下方筆畫密集",
+        "difference": "籍下方是耒與昔，簽下方是僉。"
+      },
+      {
+        "char": "籌",
+        "similarity": "上方同是竹字頭，下方橫畫多",
+        "difference": "籍下方是耒與昔，籌下方是壽。"
+      },
+      {
+        "char": "借",
+        "similarity": "都包含昔",
+        "difference": "籍下方左邊是耒，上方有竹字頭；借是亻加昔。"
+      }
+    ],
+    "teachingTip": "竹字頭六筆；籍與藉上方不同，昔內框也要保留。 先找共用部件，再比較不同位置；字形相似不表示讀音或意思相同。較少見字以辨形為主。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

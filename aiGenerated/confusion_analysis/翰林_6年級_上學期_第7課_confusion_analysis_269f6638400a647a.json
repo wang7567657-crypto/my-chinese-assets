@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_269f6638400a647a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "雕",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "雕",
+    "groups": {
+      "shape": [
+        {
+          "char": "鵰",
+          "why": "左邊同是周",
+          "difference": "雕右邊是隹，鵰右邊是鳥。"
+        },
+        {
+          "char": "調",
+          "why": "都包含周",
+          "difference": "雕是周加隹，調是言加周。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "凋",
+          "why": "雕、凋都讀ㄉㄧㄠ",
+          "difference": "雕塑用雕，花朵凋謝用凋。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "刻",
+          "why": "雕刻常一起使用，意義相關",
+          "difference": "雕常指刻成形體或花紋；刻還可指刻字、時刻，依語詞判斷。"
+        }
+      ],
+      "component": [
+        {
+          "char": "鵰",
+          "why": "比較共同部件與偏旁位置。左邊同是周",
+          "difference": "雕右邊是隹，鵰右邊是鳥。"
+        }
+      ]
+    },
+    "tip": "比較雕和鵰；鵰右邊是鳥，雕右邊是隹。 看字形、讀完整語詞，再確認意思；近音字已分別標示聲母或聲調差異。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

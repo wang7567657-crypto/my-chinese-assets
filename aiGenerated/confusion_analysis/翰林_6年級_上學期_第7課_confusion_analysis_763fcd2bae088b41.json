@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_763fcd2bae088b41",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "澤",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "澤",
+    "groups": {
+      "shape": [
+        {
+          "char": "擇",
+          "why": "右邊同是睪",
+          "difference": "澤左邊是氵，擇左邊是扌。"
+        },
+        {
+          "char": "譯",
+          "why": "右邊同是睪",
+          "difference": "澤左邊是氵，譯左邊是言。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "責",
+          "why": "澤、責都讀ㄗㄜˊ",
+          "difference": "光澤用澤，責任用責。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "亮",
+          "why": "光澤與明亮的意思相關",
+          "difference": "光澤指表面反射的亮光；亮還可描述燈光明亮等情況。"
+        }
+      ],
+      "component": [
+        {
+          "char": "擇",
+          "why": "比較共同部件與偏旁位置。右邊同是睪",
+          "difference": "澤左邊是氵，擇左邊是扌。"
+        }
+      ]
+    },
+    "tip": "比較擇、譯時看左部；光澤表示表面反射的亮光，不把每個詞都解作水。 看字形、讀完整語詞，再確認意思；近音字已分別標示聲母或聲調差異。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

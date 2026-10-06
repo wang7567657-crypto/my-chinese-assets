@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第7課_memory_strategy_55ea88c5c2f03b49",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "籍",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "籍",
+    "components": [
+      "竹字頭",
+      "耒",
+      "昔"
+    ],
+    "association": "把書籍想成記錄資訊的物品，字形先竹字頭，再耒與昔。",
+    "mnemonic": "竹在上，耒昔下，書籍的籍別寫藉。",
+    "visualPrompt": "保留完整「籍」字，竹字頭、耒、昔分色；書本畫在旁邊，不改動字形。",
+    "teachingTip": "竹字頭六筆；籍與藉上方不同，昔內框也要保留。 這是教學聯想，不是字源解釋；圖像放在字旁，保持標準字形與筆畫。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

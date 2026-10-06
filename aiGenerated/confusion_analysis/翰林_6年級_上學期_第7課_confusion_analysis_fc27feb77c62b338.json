@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_fc27feb77c62b338",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "冽",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "冽",
+    "groups": {
+      "shape": [
+        {
+          "char": "洌",
+          "why": "右邊同是列",
+          "difference": "冽左邊是冫兩筆，洌左邊是氵三筆；洌較少見。"
+        },
+        {
+          "char": "列",
+          "why": "冽右邊就是列",
+          "difference": "列沒有左邊冫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "列",
+          "why": "冽、列都讀ㄌㄧㄝˋ",
+          "difference": "冷冽用冽，排列用列。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "冷",
+          "why": "都可形容寒冷",
+          "difference": "冷冽表示寒冷、凜冽；一般冷熱比較用冷，不把每個冷都換成冽。"
+        }
+      ],
+      "component": [
+        {
+          "char": "洌",
+          "why": "比較共同部件與偏旁位置。右邊同是列",
+          "difference": "冽左邊是冫兩筆，洌左邊是氵三筆；洌較少見。"
+        }
+      ]
+    },
+    "tip": "冫是兩筆，不加成氵三筆；讀ㄌㄧㄝˋ。 看字形、讀完整語詞，再確認意思；近音字已分別標示聲母或聲調差異。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

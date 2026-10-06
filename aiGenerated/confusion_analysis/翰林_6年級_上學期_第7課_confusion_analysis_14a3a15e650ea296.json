@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_14a3a15e650ea296",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "銅",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "銅",
+    "groups": {
+      "shape": [
+        {
+          "char": "桐",
+          "why": "右邊同是同",
+          "difference": "銅左邊是金，桐左邊是木。"
+        },
+        {
+          "char": "洞",
+          "why": "右邊同是同",
+          "difference": "銅左邊是金，洞左邊是氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "同",
+          "why": "銅、同都讀ㄊㄨㄥˊ",
+          "difference": "青銅是金屬，相同表示一樣。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "鋁",
+          "why": "都是金屬名稱",
+          "difference": "青銅、銅線用銅；鋁箔、鋁罐用鋁，是不同材料。"
+        }
+      ],
+      "component": [
+        {
+          "char": "桐",
+          "why": "比較共同部件與偏旁位置。右邊同是同",
+          "difference": "銅左邊是金，桐左邊是木。"
+        }
+      ]
+    },
+    "tip": "比較鋼的岡與銅的同，先看右部裡面是山或口。 看字形、讀完整語詞，再確認意思；近音字已分別標示聲母或聲調差異。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

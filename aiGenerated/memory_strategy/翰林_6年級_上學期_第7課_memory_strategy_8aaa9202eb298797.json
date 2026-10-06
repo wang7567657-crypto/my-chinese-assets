@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第7課_memory_strategy_8aaa9202eb298797",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "眨",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "眨",
+    "components": [
+      "目",
+      "乏"
+    ],
+    "association": "眼睛眨一下，提醒左邊是目。",
+    "mnemonic": "目在左，乏在右，眨眨眼睛休息夠。",
+    "visualPrompt": "保留「眨」字，把目與乏分色；眨眼圖放在旁邊。",
+    "teachingTip": "目內有兩橫；乏的撇與折捺要按原字寫。 這是教學聯想，不是字源解釋；圖像放在字旁，保持標準字形與筆畫。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}

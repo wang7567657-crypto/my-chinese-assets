@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_6年級_上學期_第7課_memory_strategy_9fee30f33feba4a2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "佇",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "佇",
+    "components": [
+      "亻",
+      "宀",
+      "丁"
+    ],
+    "association": "一個人站在屋簷旁，安靜佇立。",
+    "mnemonic": "人站左，屋頂下有丁，佇立不動看風景。",
+    "visualPrompt": "保留「佇」字，亻、宀、丁分色；屋簷與站立人物另畫在旁。",
+    "teachingTip": "右邊是宀加丁，與住右邊的主不同。 這是教學聯想，不是字源解釋；圖像放在字旁，保持標準字形與筆畫。"
+  },
+  "createdAt": "2026-10-06T06:16:12.660Z"
+}
