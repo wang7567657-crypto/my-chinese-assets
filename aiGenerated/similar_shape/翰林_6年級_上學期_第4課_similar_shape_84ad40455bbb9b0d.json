@@ -2,6 +2,7 @@
   "taskType": "similar_shape",
   "requestId": "翰林_6年級_上學期_第4課_similar_shape_84ad40455bbb9b0d",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
     "publisher": "翰林",
@@ -35,11 +36,38 @@
   "data": {
     "targetChar": "膚",
     "similarChars": [
-      "虜",
-      "慮",
-      "蘆"
+      {
+        "char": "盧",
+        "similarity": "上方同是虍，下面都有田形",
+        "difference": "膚下方是胃，盧下方是田與皿。"
+      },
+      {
+        "char": "慮",
+        "similarity": "上方同是虍，中間都有田形",
+        "difference": "膚最下面是月形，慮最下面是心。"
+      },
+      {
+        "char": "虜",
+        "similarity": "上方同是虍，內部都有田形",
+        "difference": "膚下方是胃，虜下方有力。"
+      },
+      {
+        "char": "虎",
+        "similarity": "上方同是虍",
+        "difference": "膚下面是胃，虎下面是儿。"
+      },
+      {
+        "char": "胃",
+        "similarity": "膚的下方包含胃",
+        "difference": "胃沒有上面的虍。"
+      },
+      {
+        "char": "虛",
+        "similarity": "上方同是虍",
+        "difference": "膚下面是胃，虛下面的直畫和底橫排列不同。"
+      }
     ],
-    "teachingTip": "先找「膚」和相似字共用的部分，再圈出不同筆畫。"
+    "teachingTip": "先辨認虍，再比較最下方是月形、心、力或皿。 比較只依字形，不表示讀音或意思相同；較少見字以辨形為主。"
   },
-  "createdAt": "2026-09-04T02:08:00.000Z"
+  "createdAt": "2026-10-06T06:08:14.471Z"
 }

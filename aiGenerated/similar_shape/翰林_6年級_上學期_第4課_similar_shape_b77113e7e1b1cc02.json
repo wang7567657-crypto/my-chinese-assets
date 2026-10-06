@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_6年級_上學期_第4課_similar_shape_b77113e7e1b1cc02",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "奧",
+    "lessonChars": [
+      "鰭",
+      "划",
+      "奧",
+      "仿",
+      "迫",
+      "蚊",
+      "膚",
+      "鋸",
+      "劃",
+      "擴",
+      "液",
+      "奈",
+      "構",
+      "鵰",
+      "霸",
+      "翹",
+      "垂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "奧",
+    "similarChars": [
+      {
+        "char": "澳",
+        "similarity": "都包含奧",
+        "difference": "澳左邊比奧多氵。"
+      },
+      {
+        "char": "懊",
+        "similarity": "都包含奧",
+        "difference": "懊左邊比奧多忄。"
+      },
+      {
+        "char": "噢",
+        "similarity": "都包含奧",
+        "difference": "噢左邊比奧多口。"
+      },
+      {
+        "char": "燠",
+        "similarity": "都包含奧",
+        "difference": "燠左邊比奧多火；燠較少見。"
+      },
+      {
+        "char": "襖",
+        "similarity": "都包含奧",
+        "difference": "襖左邊比奧多衤。"
+      },
+      {
+        "char": "粵",
+        "similarity": "上方都有撇與框內密集筆畫",
+        "difference": "奧下方是大，粵下方是折鉤形，上框內筆畫也不同。"
+      }
+    ],
+    "teachingTip": "先認出奧的完整字形，再看左邊是否增加氵、忄、口等部件。 比較只依字形，不表示讀音或意思相同；較少見字以辨形為主。"
+  },
+  "createdAt": "2026-10-06T06:08:14.471Z"
+}

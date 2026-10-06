@@ -2,6 +2,7 @@
   "taskType": "similar_shape",
   "requestId": "翰林_6年級_上學期_第4課_similar_shape_27a5a7e761c5443b",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
     "publisher": "翰林",
@@ -35,11 +36,38 @@
   "data": {
     "targetChar": "構",
     "similarChars": [
-      "溝",
-      "購",
-      "講"
+      {
+        "char": "溝",
+        "similarity": "右邊同是冓",
+        "difference": "構左邊是木，溝左邊是氵。"
+      },
+      {
+        "char": "購",
+        "similarity": "右邊同是冓",
+        "difference": "構左邊是木，購左邊是貝。"
+      },
+      {
+        "char": "講",
+        "similarity": "右邊同是冓",
+        "difference": "構左邊是木，講左邊是言。"
+      },
+      {
+        "char": "搆",
+        "similarity": "右邊同是冓",
+        "difference": "構左邊是木，搆左邊是扌；搆較少見。"
+      },
+      {
+        "char": "媾",
+        "similarity": "右邊同是冓",
+        "difference": "構左邊是木，媾左邊是女；媾較少見。"
+      },
+      {
+        "char": "槽",
+        "similarity": "左邊同是木，右邊都有密集橫畫",
+        "difference": "構右邊是冓，槽右邊是曹，下面是日。"
+      }
     ],
-    "teachingTip": "先找「構」和相似字共用的部分，再圈出不同筆畫。"
+    "teachingTip": "先看右邊冓的橫畫和框形，再比較左邊木、氵、貝或言。 比較只依字形，不表示讀音或意思相同；較少見字以辨形為主。"
   },
-  "createdAt": "2026-09-04T02:18:00.000Z"
+  "createdAt": "2026-10-06T06:08:14.471Z"
 }

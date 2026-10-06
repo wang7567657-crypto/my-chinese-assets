@@ -2,6 +2,7 @@
   "taskType": "similar_shape",
   "requestId": "翰林_6年級_上學期_第4課_similar_shape_7b3f9e267a5cf661",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
     "publisher": "翰林",
@@ -35,11 +36,38 @@
   "data": {
     "targetChar": "鵰",
     "similarChars": [
-      "雕",
-      "調",
-      "周"
+      {
+        "char": "雕",
+        "similarity": "左邊同是周",
+        "difference": "鵰右邊是鳥，雕右邊是隹。"
+      },
+      {
+        "char": "調",
+        "similarity": "都包含周",
+        "difference": "鵰把鳥放在周右邊，調把言放在周左邊。"
+      },
+      {
+        "char": "稠",
+        "similarity": "都包含周",
+        "difference": "鵰是周加鳥，稠是禾加周。"
+      },
+      {
+        "char": "綢",
+        "similarity": "都包含周",
+        "difference": "鵰是周加鳥，綢是糸加周。"
+      },
+      {
+        "char": "凋",
+        "similarity": "都包含周",
+        "difference": "鵰是周加鳥，凋是冫加周。"
+      },
+      {
+        "char": "鴿",
+        "similarity": "右邊同是鳥",
+        "difference": "鵰左邊是周，鴿左邊是合。"
+      }
     ],
-    "teachingTip": "先找「鵰」和相似字共用的部分，再圈出不同筆畫。"
+    "teachingTip": "先找周，再比右邊鳥與隹；鳥有下方四點，隹沒有。 比較只依字形，不表示讀音或意思相同；較少見字以辨形為主。"
   },
-  "createdAt": "2026-09-04T02:20:00.000Z"
+  "createdAt": "2026-10-06T06:08:14.471Z"
 }

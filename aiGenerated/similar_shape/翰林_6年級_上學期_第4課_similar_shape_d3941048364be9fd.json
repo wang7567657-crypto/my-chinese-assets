@@ -2,6 +2,7 @@
   "taskType": "similar_shape",
   "requestId": "翰林_6年級_上學期_第4課_similar_shape_d3941048364be9fd",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
     "publisher": "翰林",
@@ -35,11 +36,38 @@
   "data": {
     "targetChar": "液",
     "similarChars": [
-      "夜",
-      "掖",
-      "腋"
+      {
+        "char": "夜",
+        "similarity": "液的右半部就是夜",
+        "difference": "夜沒有左邊的氵。"
+      },
+      {
+        "char": "腋",
+        "similarity": "右邊同是夜",
+        "difference": "液左邊是氵，腋左邊是月。"
+      },
+      {
+        "char": "掖",
+        "similarity": "右邊同是夜",
+        "difference": "液左邊是氵，掖左邊是扌；掖較少見。"
+      },
+      {
+        "char": "汶",
+        "similarity": "左邊同是氵，右邊都有點、橫與交叉筆畫",
+        "difference": "液右邊是夜，汶右邊是文；汶常見於地名。"
+      },
+      {
+        "char": "淬",
+        "similarity": "左邊同是氵，右邊都有點橫與人形",
+        "difference": "液右邊是夜，淬右邊是卒。"
+      },
+      {
+        "char": "涼",
+        "similarity": "左邊同是氵，右邊上方都有點與橫",
+        "difference": "液右邊是夜，涼右邊是京。"
+      }
     ],
-    "teachingTip": "先找「液」和相似字共用的部分，再圈出不同筆畫。"
+    "teachingTip": "先找右邊完整的夜，再比較左邊氵、月與扌。 比較只依字形，不表示讀音或意思相同；較少見字以辨形為主。"
   },
-  "createdAt": "2026-09-04T02:16:00.000Z"
+  "createdAt": "2026-10-06T06:08:14.471Z"
 }
