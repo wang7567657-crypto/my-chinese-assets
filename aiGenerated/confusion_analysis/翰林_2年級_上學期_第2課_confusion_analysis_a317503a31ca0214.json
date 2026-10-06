@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第2課_confusion_analysis_a317503a31ca0214",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "消",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "消",
+    "groups": {
+      "shape": [
+        {
+          "char": "稍",
+          "why": "右側同為肖",
+          "difference": "消左邊是氵；稍左邊是禾。"
+        },
+        {
+          "char": "悄",
+          "why": "右側同為肖",
+          "difference": "消左邊是氵；悄左邊是忄。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "簫",
+          "why": "同音：消、簫都讀ㄒㄧㄠ。",
+          "difference": "消失的消左邊是氵；洞簫的簫上方是竹字頭。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "除",
+          "why": "消除中的消與除都表示去掉。",
+          "difference": "消可組消失、消息；除可組除法、清除，用法不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "稍",
+          "why": "部件比較：右側同為肖",
+          "difference": "消左邊是氵；稍左邊是禾。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「消失」，再依字形、讀音與句意選字。右邊上方是小形筆畫、下方月；與稍、悄比較左偏旁。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

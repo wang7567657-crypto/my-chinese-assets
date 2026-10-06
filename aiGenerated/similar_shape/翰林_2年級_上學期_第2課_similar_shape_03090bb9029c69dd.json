@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第2課_similar_shape_03090bb9029c69dd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "望",
+    "lessonChars": [
+      "老",
+      "師",
+      "新",
+      "希",
+      "望",
+      "卻",
+      "使",
+      "緊",
+      "因",
+      "為",
+      "知",
+      "道",
+      "怎",
+      "消",
+      "失",
+      "習",
+      "最",
+      "掛",
+      "轉",
+      "熟",
+      "辦",
+      "舞"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "望",
+    "similarChars": [
+      {
+        "char": "忘",
+        "similarity": "上方同為亡",
+        "difference": "望中間有月、下方是王；忘下方是心。"
+      },
+      {
+        "char": "妄",
+        "similarity": "上方同為亡",
+        "difference": "望中間有月、下方是王；妄下方是女。"
+      },
+      {
+        "char": "盲",
+        "similarity": "上方同為亡",
+        "difference": "望中間有月、下方是王；盲下方是目。"
+      },
+      {
+        "char": "旺",
+        "similarity": "共用王，左上也有日月形輪廓",
+        "difference": "望是上下三層；旺是日左、王右。"
+      },
+      {
+        "char": "皇",
+        "similarity": "下方同為王，上方都有框內橫畫",
+        "difference": "望上方是亡與月；皇上方是白。"
+      },
+      {
+        "char": "朔",
+        "similarity": "都含月且整體筆畫較多",
+        "difference": "望的月在中間偏右；朔的月在右側，左邊是屰形部件。"
+      }
+    ],
+    "teachingTip": "先遮住一半比較共同部件，再圈出不同筆畫；回到本課語詞「希望」確認用字。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

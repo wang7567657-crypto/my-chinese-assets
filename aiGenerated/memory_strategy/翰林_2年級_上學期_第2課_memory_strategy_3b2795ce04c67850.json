@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第2課_memory_strategy_3b2795ce04c67850",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "失",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "失",
+    "components": [
+      "上方兩筆",
+      "大形下部"
+    ],
+    "association": "東西從手中失去，先看上方短撇與橫，再看下方大形舒展。",
+    "mnemonic": "上面短撇橫，下面大形張開，消失的失。",
+    "visualPrompt": "以標準楷體清楚呈現「失」，字形完整不變形；在字旁放置與「消失」情境相符的小圖，圖與字分開，不覆蓋筆畫。",
+    "teachingTip": "失共五畫；與夫比較最上方，失第一筆是短撇，夫沒有這一撇。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第2課_memory_strategy_9c5028dd7dc6565c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "因",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "因",
+    "components": [
+      "囗",
+      "大"
+    ],
+    "association": "把原因裝進大方框裡，外框最後一橫要等裡面的大寫完才封口。",
+    "mnemonic": "外面囗，裡面大，因為的因六畫成。",
+    "visualPrompt": "以標準楷體清楚呈現「因」，字形完整不變形；在字旁放置與「因為」情境相符的小圖，圖與字分開，不覆蓋筆畫。",
+    "teachingTip": "囗是大方框，不是口；最後一筆才封底。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

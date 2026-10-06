@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第2課_memory_strategy_cbf060a8d166270c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "希",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "希",
+    "components": [
+      "上方交叉部件",
+      "一",
+      "巾"
+    ],
+    "association": "想像把希望寫在一條小布巾上，上方交叉筆畫像兩道光。",
+    "mnemonic": "上面交叉，下面巾，希望的希七畫成。",
+    "visualPrompt": "以標準楷體清楚呈現「希」，字形完整不變形；在字旁放置與「希望」情境相符的小圖，圖與字分開，不覆蓋筆畫。",
+    "teachingTip": "希的下方是巾；不要漏掉巾中間向下的豎畫。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

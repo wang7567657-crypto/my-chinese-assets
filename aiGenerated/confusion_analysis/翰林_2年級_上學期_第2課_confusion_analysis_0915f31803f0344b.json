@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第2課_confusion_analysis_0915f31803f0344b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "使",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "使",
+    "groups": {
+      "shape": [
+        {
+          "char": "史",
+          "why": "使的右側含史形主體",
+          "difference": "使左邊多亻，右側上方還有一橫；史沒有亻。"
+        },
+        {
+          "char": "吏",
+          "why": "使的右側完整包含吏",
+          "difference": "使左邊多亻；吏沒有亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "史",
+          "why": "同音：使、史都讀ㄕˇ。",
+          "difference": "使用的使有亻；歷史的史沒有亻。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "用",
+          "why": "使與用都可表示運用。",
+          "difference": "使用是常見詞；使也可表示讓某事發生，用法比用更廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "史",
+          "why": "部件比較：使的右側含史形主體",
+          "difference": "使左邊多亻，右側上方還有一橫；史沒有亻。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「使用」，再依字形、讀音與句意選字。右邊中間的口形要穿過一豎；與史、吏比較上方橫畫。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

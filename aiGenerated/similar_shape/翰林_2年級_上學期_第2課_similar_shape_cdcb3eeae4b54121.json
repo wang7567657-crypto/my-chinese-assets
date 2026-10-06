@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第2課_similar_shape_cdcb3eeae4b54121",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "知",
+    "lessonChars": [
+      "老",
+      "師",
+      "新",
+      "希",
+      "望",
+      "卻",
+      "使",
+      "緊",
+      "因",
+      "為",
+      "知",
+      "道",
+      "怎",
+      "消",
+      "失",
+      "習",
+      "最",
+      "掛",
+      "轉",
+      "熟",
+      "辦",
+      "舞"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "知",
+    "similarChars": [
+      {
+        "char": "智",
+        "similarity": "上方完整包含知",
+        "difference": "智下方多日；知沒有日。"
+      },
+      {
+        "char": "痴",
+        "similarity": "內部完整包含知",
+        "difference": "痴外面多疒；知沒有疒。"
+      },
+      {
+        "char": "蜘",
+        "similarity": "右側完整包含知",
+        "difference": "蜘左邊多虫；知沒有虫。"
+      },
+      {
+        "char": "踟",
+        "similarity": "右側完整包含知",
+        "difference": "踟左邊多足字旁；知沒有足字旁，踟較少見。"
+      },
+      {
+        "char": "矩",
+        "similarity": "左側同為矢",
+        "difference": "知右邊是口；矩右邊是巨。"
+      },
+      {
+        "char": "矢",
+        "similarity": "知左側完整包含矢",
+        "difference": "知右邊多口；矢沒有口。"
+      }
+    ],
+    "teachingTip": "先遮住一半比較共同部件，再圈出不同筆畫；回到本課語詞「知道」確認用字。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

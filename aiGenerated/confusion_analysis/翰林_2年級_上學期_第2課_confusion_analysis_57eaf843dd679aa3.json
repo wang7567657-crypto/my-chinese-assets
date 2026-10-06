@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第2課_confusion_analysis_57eaf843dd679aa3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "老",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "老",
+    "groups": {
+      "shape": [
+        {
+          "char": "考",
+          "why": "共用上方耂形，整體輪廓接近",
+          "difference": "老下方是匕形；考下方是丂形，末筆向左彎。"
+        },
+        {
+          "char": "孝",
+          "why": "共用上方耂形",
+          "difference": "老下方是匕形；孝下方是子。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "姥",
+          "why": "同音比較：老與姥姥的姥都讀ㄌㄠˇ。",
+          "difference": "老可組老師、老人；姥含女旁，多見於親屬稱呼。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "年長",
+          "why": "老可表示年紀大。",
+          "difference": "老是一個字；年長是詞語，老師的老不等於老師年紀一定大。"
+        }
+      ],
+      "component": [
+        {
+          "char": "考",
+          "why": "部件比較：共用上方耂形，整體輪廓接近",
+          "difference": "老下方是匕形；考下方是丂形，末筆向左彎。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「老師」，再依字形、讀音與句意選字。老共六畫，下方先撇再寫豎彎鉤；不要把下方寫成子。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

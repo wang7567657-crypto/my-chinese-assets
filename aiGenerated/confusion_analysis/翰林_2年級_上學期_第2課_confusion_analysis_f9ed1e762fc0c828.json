@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第2課_confusion_analysis_f9ed1e762fc0c828",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "因",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "因",
+    "groups": {
+      "shape": [
+        {
+          "char": "困",
+          "why": "外框同為囗",
+          "difference": "因裡面是大；困裡面是木。"
+        },
+        {
+          "char": "囚",
+          "why": "外框同為囗",
+          "difference": "因裡面是大；囚裡面是人。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "音",
+          "why": "同音：因、音都讀ㄧㄣ。",
+          "difference": "因有大方框；音上方是立、下方是日。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "原",
+          "why": "原因中的因與原都和事情的由來有關。",
+          "difference": "因可組因為、原因；原還可組原來、草原，不能任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "困",
+          "why": "部件比較：外框同為囗",
+          "difference": "因裡面是大；困裡面是木。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「因為」，再依字形、讀音與句意選字。囗是大方框，不是口；最後一筆才封底。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}
