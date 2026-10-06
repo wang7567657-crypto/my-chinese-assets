@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第7課_confusion_analysis_ddc1860e41b810d2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "平",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "平",
+    "groups": {
+      "shape": [
+        {
+          "char": "干",
+          "why": "平含有干形主幹",
+          "difference": "平比干多左右兩點。"
+        },
+        {
+          "char": "乎",
+          "why": "中間都有長豎與橫畫",
+          "difference": "平左右是兩點；乎上方有撇、下方帶鉤。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "瓶",
+          "why": "同音，都是ㄆㄧㄥˊ。",
+          "difference": "平可指平坦、平安；瓶是容器。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "安",
+          "why": "平和安組成平安，都有安穩之意。",
+          "difference": "平可指平坦、公平；安可指安全、安定。"
+        }
+      ],
+      "component": [
+        {
+          "char": "干",
+          "why": "部件比較：平含有干形主幹",
+          "difference": "平比干多左右兩點。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「平安」，再依字形與句意選字。平共5畫，部首干的筆畫不是連續區間；左右兩點方向不同。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

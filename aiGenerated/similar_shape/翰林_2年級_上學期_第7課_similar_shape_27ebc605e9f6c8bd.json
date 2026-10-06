@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_27ebc605e9f6c8bd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "保",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "保",
+    "similarChars": [
+      {
+        "char": "呆",
+        "similarity": "保的右邊完整是呆",
+        "difference": "保比呆多左邊亻。"
+      },
+      {
+        "char": "堡",
+        "similarity": "上方完整是保",
+        "difference": "保是左右結構；堡下方多土。"
+      },
+      {
+        "char": "褓",
+        "similarity": "右邊完整是保",
+        "difference": "保是獨立字；褓左邊多衤。"
+      },
+      {
+        "char": "葆",
+        "similarity": "下方完整是保",
+        "difference": "保是左右結構；葆上方多艹。"
+      },
+      {
+        "char": "休",
+        "similarity": "左邊都有亻、右邊有木形",
+        "difference": "保右上還有口；休右邊只有木。"
+      },
+      {
+        "char": "困",
+        "similarity": "都有口框與木形",
+        "difference": "保是亻加呆；困是外框囗包住木。"
+      }
+    ],
+    "teachingTip": "保右邊上口下木；木的橫畫要穿過豎畫。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

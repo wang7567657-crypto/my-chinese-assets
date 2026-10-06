@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第7課_confusion_analysis_582ce4020292cfd9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "味",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "味",
+    "groups": {
+      "shape": [
+        {
+          "char": "未",
+          "why": "味的右邊完整是未",
+          "difference": "味比未多左邊口。"
+        },
+        {
+          "char": "妹",
+          "why": "右邊都有未",
+          "difference": "味左邊是口；妹左邊是女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "位",
+          "why": "同音，都是ㄨㄟˋ。",
+          "difference": "味指氣味、滋味；位表示位置或量詞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "香",
+          "why": "都可描述氣味。",
+          "difference": "味可好可壞，也可指滋味；香多表示好聞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "未",
+          "why": "部件比較：味的右邊完整是未",
+          "difference": "味比未多左邊口。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「香味」，再依字形與句意選字。味右邊是未，上橫較短、下橫較長；不要寫成末。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

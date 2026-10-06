@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第7課_memory_strategy_d85924dfec140c23",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "樣",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "樣",
+    "components": [
+      "木",
+      "羕"
+    ],
+    "association": "左邊木像材料，右邊羕提醒完整字形，做出不一樣的樣子。",
+    "mnemonic": "左木右羕，樣子的樣。",
+    "visualPrompt": "保留標準繁體「樣」完整字形，在字旁另畫「不一樣」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "樣左邊木的捺要收成點；右邊是羕，不要漏掉下方水形筆畫。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

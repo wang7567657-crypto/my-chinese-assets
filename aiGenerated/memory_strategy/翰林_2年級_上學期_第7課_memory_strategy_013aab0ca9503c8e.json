@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第7課_memory_strategy_013aab0ca9503c8e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "味",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "味",
+    "components": [
+      "口",
+      "未"
+    ],
+    "association": "左邊口和品嘗有關，右邊未提醒香味的完整字形。",
+    "mnemonic": "左口右未，香味的味。",
+    "visualPrompt": "保留標準繁體「味」完整字形，在字旁另畫「香味」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "味右邊是未，上橫較短、下橫較長；不要寫成末。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

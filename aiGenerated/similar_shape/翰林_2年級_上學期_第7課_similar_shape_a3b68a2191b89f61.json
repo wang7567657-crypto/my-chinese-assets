@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_a3b68a2191b89f61",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "便",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "便",
+    "similarChars": [
+      {
+        "char": "更",
+        "similarity": "便的右邊完整是更",
+        "difference": "便比更多左邊亻。"
+      },
+      {
+        "char": "硬",
+        "similarity": "右邊都有更",
+        "difference": "便左邊是亻；硬左邊是石。"
+      },
+      {
+        "char": "梗",
+        "similarity": "右邊都有更",
+        "difference": "便左邊是亻；梗左邊是木。"
+      },
+      {
+        "char": "哽",
+        "similarity": "右邊都有更",
+        "difference": "便左邊是亻；哽左邊是口。"
+      },
+      {
+        "char": "鞭",
+        "similarity": "右邊完整是便",
+        "difference": "便是獨立字；鞭左邊多革。"
+      },
+      {
+        "char": "使",
+        "similarity": "都有亻與中間口形、長捺",
+        "difference": "便右邊是更；使右邊是吏形。"
+      }
+    ],
+    "teachingTip": "本課「便當」的便讀ㄅㄧㄢˋ；右邊更中間的日形要寫清楚。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

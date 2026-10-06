@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第7課_confusion_analysis_b8878b24d1e06eed",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "保",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "保",
+    "groups": {
+      "shape": [
+        {
+          "char": "呆",
+          "why": "保的右邊完整是呆",
+          "difference": "保比呆多左邊亻。"
+        },
+        {
+          "char": "堡",
+          "why": "上方完整是保",
+          "difference": "保是左右結構；堡下方多土。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "寶",
+          "why": "同音，都是ㄅㄠˇ。",
+          "difference": "保可表示保護、保持；寶指珍貴事物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "護",
+          "why": "都和防止受傷害有關。",
+          "difference": "保可指保護、保持；護著重守護、防護。"
+        }
+      ],
+      "component": [
+        {
+          "char": "呆",
+          "why": "部件比較：保的右邊完整是呆",
+          "difference": "保比呆多左邊亻。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「保平安」，再依字形與句意選字。保右邊上口下木；木的橫畫要穿過豎畫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

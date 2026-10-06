@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第7課_confusion_analysis_8eed87dfbe7cf165",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "筒",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "筒",
+    "groups": {
+      "shape": [
+        {
+          "char": "同",
+          "why": "筒的下方完整是同",
+          "difference": "筒比同多上方竹字頭。"
+        },
+        {
+          "char": "桐",
+          "why": "右邊都有同",
+          "difference": "筒上方是⺮；桐左邊是木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "統",
+          "why": "同音，都是ㄊㄨㄥˇ。",
+          "difference": "筒是中空器物；統可指統一、統計。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "管",
+          "why": "都可指中空長形物。",
+          "difference": "筒常指較短或可盛裝的器物；管常指細長通道。"
+        }
+      ],
+      "component": [
+        {
+          "char": "同",
+          "why": "部件比較：筒的下方完整是同",
+          "difference": "筒比同多上方竹字頭。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「竹筒飯」，再依字形與句意選字。筒上方竹字頭共6畫；下方是同，內部口不要碰外框。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

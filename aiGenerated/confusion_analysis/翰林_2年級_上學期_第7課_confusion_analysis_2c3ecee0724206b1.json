@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第7課_confusion_analysis_2c3ecee0724206b1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "南",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "南",
+    "groups": {
+      "shape": [
+        {
+          "char": "喃",
+          "why": "右邊完整是南",
+          "difference": "南是獨體字；喃左邊多口。"
+        },
+        {
+          "char": "楠",
+          "why": "右邊完整是南",
+          "difference": "南是獨體字；楠左邊多木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "難",
+          "why": "同音，都是ㄋㄢˊ。",
+          "difference": "南是方向或地名用字；難表示不容易。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "北",
+          "why": "都是方向。",
+          "difference": "南和北方向相反；本課越南是國名。"
+        }
+      ],
+      "component": [
+        {
+          "char": "喃",
+          "why": "部件比較：右邊完整是南",
+          "difference": "南是獨體字；喃左邊多口。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「越南」，再依字形與句意選字。南共9畫，外框內的兩點與橫豎要分清；部首十是前2筆。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_ee9c0761e30a1675",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "艾",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "艾",
+    "similarChars": [
+      {
+        "char": "文",
+        "similarity": "下方交叉輪廓相近",
+        "difference": "艾上方多艹、下方是乂；文上方有點橫。"
+      },
+      {
+        "char": "父",
+        "similarity": "都有交叉撇捺",
+        "difference": "艾上方有艹；父上方有撇點。"
+      },
+      {
+        "char": "叉",
+        "similarity": "都有交叉筆形",
+        "difference": "艾上方是艹、下方乂；叉是又中加點。"
+      },
+      {
+        "char": "芥",
+        "similarity": "上方都有艹",
+        "difference": "艾下方是乂；芥下方是介。"
+      },
+      {
+        "char": "芒",
+        "similarity": "上方都有艹",
+        "difference": "艾下方是乂；芒下方是亡。"
+      },
+      {
+        "char": "茂",
+        "similarity": "上方都有艹",
+        "difference": "艾下方是乂；茂下方是戊形。"
+      }
+    ],
+    "teachingTip": "艾在本課「艾粄」讀ㄞˋ；依本字資料草字頭為前4筆，下方乂為2筆。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

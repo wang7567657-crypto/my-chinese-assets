@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_a1033d3b4c4afbf9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "筒",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "筒",
+    "similarChars": [
+      {
+        "char": "同",
+        "similarity": "筒的下方完整是同",
+        "difference": "筒比同多上方竹字頭。"
+      },
+      {
+        "char": "桐",
+        "similarity": "右邊都有同",
+        "difference": "筒上方是⺮；桐左邊是木。"
+      },
+      {
+        "char": "銅",
+        "similarity": "右邊都有同",
+        "difference": "筒上方是⺮；銅左邊是金。"
+      },
+      {
+        "char": "洞",
+        "similarity": "右邊都有同",
+        "difference": "筒上方是⺮；洞左邊是氵。"
+      },
+      {
+        "char": "桶",
+        "similarity": "都有甬、同的近似外框",
+        "difference": "筒上方是⺮、下方同；桶左邊是木、右邊是甬。"
+      },
+      {
+        "char": "簡",
+        "similarity": "上方都有竹字頭",
+        "difference": "筒下方是同；簡下方是間。"
+      }
+    ],
+    "teachingTip": "筒上方竹字頭共6畫；下方是同，內部口不要碰外框。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

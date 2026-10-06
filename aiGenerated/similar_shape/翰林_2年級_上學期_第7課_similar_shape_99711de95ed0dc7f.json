@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_99711de95ed0dc7f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "當",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "當",
+    "similarChars": [
+      {
+        "char": "擋",
+        "similarity": "右邊完整是當",
+        "difference": "當是上下結構；擋左邊多扌。"
+      },
+      {
+        "char": "檔",
+        "similarity": "右邊完整是當",
+        "difference": "當是上下結構；檔左邊多木。"
+      },
+      {
+        "char": "黨",
+        "similarity": "上方輪廓相近",
+        "difference": "當下方是田；黨下方是黑。"
+      },
+      {
+        "char": "堂",
+        "similarity": "上方都有尚形部件",
+        "difference": "當下方是田；堂下方是土。"
+      },
+      {
+        "char": "常",
+        "similarity": "上方都有尚形部件",
+        "difference": "當下方是田；常下方是巾。"
+      },
+      {
+        "char": "賞",
+        "similarity": "上方都有尚形部件",
+        "difference": "當下方是田；賞下方是貝。"
+      }
+    ],
+    "teachingTip": "本課「便當」的當讀ㄉㄤ；下方田共5畫，不要寫成口。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

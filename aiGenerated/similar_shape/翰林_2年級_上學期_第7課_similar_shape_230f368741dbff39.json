@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_230f368741dbff39",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "捲",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "捲",
+    "similarChars": [
+      {
+        "char": "卷",
+        "similarity": "捲的右邊完整是卷",
+        "difference": "捲比卷多左邊扌。"
+      },
+      {
+        "char": "圈",
+        "similarity": "裡面含卷",
+        "difference": "捲左邊是扌；圈外面是囗。"
+      },
+      {
+        "char": "倦",
+        "similarity": "右邊都有卷",
+        "difference": "捲左邊是扌；倦左邊是亻。"
+      },
+      {
+        "char": "蜷",
+        "similarity": "右邊都有卷",
+        "difference": "捲左邊是扌；蜷左邊是虫。"
+      },
+      {
+        "char": "拳",
+        "similarity": "上方有卷形部件",
+        "difference": "捲是左右結構；拳下方是手。"
+      },
+      {
+        "char": "券",
+        "similarity": "上方有卷形部件",
+        "difference": "捲是左右結構；券下方是刀。"
+      }
+    ],
+    "teachingTip": "本課「春捲」的捲讀ㄐㄩㄢˇ；右邊是卷，下方不要寫成己。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

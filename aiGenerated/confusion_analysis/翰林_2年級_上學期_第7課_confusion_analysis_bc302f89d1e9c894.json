@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第7課_confusion_analysis_bc302f89d1e9c894",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "客",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "客",
+    "groups": {
+      "shape": [
+        {
+          "char": "各",
+          "why": "客的下方完整是各",
+          "difference": "客比各多上方宀。"
+        },
+        {
+          "char": "格",
+          "why": "右邊都有各",
+          "difference": "客上方是宀；格左邊是木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "刻",
+          "why": "同音，都是ㄎㄜˋ。",
+          "difference": "客指客人或客家；刻可指雕刻或時刻。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "賓",
+          "why": "都可指來訪的人。",
+          "difference": "客是日常用字，也可指客家；賓較正式，常見於賓客。"
+        }
+      ],
+      "component": [
+        {
+          "char": "各",
+          "why": "部件比較：客的下方完整是各",
+          "difference": "客比各多上方宀。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「客家」，再依字形與句意選字。客上方宀共3畫；下方各由夂和口組成。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

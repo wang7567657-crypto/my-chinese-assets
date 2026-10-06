@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_89b64b2cdeb7da71",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "節",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "節",
+    "similarChars": [
+      {
+        "char": "即",
+        "similarity": "節的下方有即形",
+        "difference": "節比即多上方竹字頭，且下部筆形隨位置調整。"
+      },
+      {
+        "char": "櫛",
+        "similarity": "右邊含節形",
+        "difference": "節是上下結構；櫛左邊多木，且是較少見字。"
+      },
+      {
+        "char": "卿",
+        "similarity": "右側有即形部件",
+        "difference": "節上方是竹字頭；卿左右還有其他部件。"
+      },
+      {
+        "char": "筍",
+        "similarity": "上方都有竹字頭",
+        "difference": "節下方是即形；筍下方是旬。"
+      },
+      {
+        "char": "箱",
+        "similarity": "上方都有竹字頭",
+        "difference": "節下方是即形；箱下方是相。"
+      },
+      {
+        "char": "簡",
+        "similarity": "上方都有竹字頭",
+        "difference": "節下方是即形；簡下方是間。"
+      }
+    ],
+    "teachingTip": "節上方竹字頭共6畫；下方右側是卩形，不要寫成阝。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_fc88af06d9c359b8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "安",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "安",
+    "similarChars": [
+      {
+        "char": "案",
+        "similarity": "上方完整是安",
+        "difference": "安是上下結構；案下方多木。"
+      },
+      {
+        "char": "按",
+        "similarity": "右邊完整是安",
+        "difference": "安是上下結構；按左邊多扌。"
+      },
+      {
+        "char": "鞍",
+        "similarity": "右邊完整是安",
+        "difference": "安是上下結構；鞍左邊多革。"
+      },
+      {
+        "char": "晏",
+        "similarity": "下方完整是安",
+        "difference": "安是上下結構；晏上方多日。"
+      },
+      {
+        "char": "字",
+        "similarity": "上方都有宀",
+        "difference": "安下方是女；字下方是子。"
+      },
+      {
+        "char": "完",
+        "similarity": "上方都有宀",
+        "difference": "安下方是女；完下方是元。"
+      }
+    ],
+    "teachingTip": "安上方宀共3畫；下方女的橫畫要穿過撇。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

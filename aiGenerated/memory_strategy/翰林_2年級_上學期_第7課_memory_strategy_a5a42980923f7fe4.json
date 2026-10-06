@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第7課_memory_strategy_a5a42980923f7fe4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "盒",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "盒",
+    "components": [
+      "合",
+      "皿"
+    ],
+    "association": "上方合表示合起來，下方皿像容器，聯想到便當盒。",
+    "mnemonic": "上合下皿，盒子的盒。",
+    "visualPrompt": "保留標準繁體「盒」完整字形，在字旁另畫「便當盒」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "盒下方皿共5畫，最後一橫托住上方；不要寫成血。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_4ca47910ce5bda7a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "香",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "香",
+    "similarChars": [
+      {
+        "char": "馥",
+        "similarity": "左邊完整是香",
+        "difference": "香是獨體字；馥右邊多复，且是較少見字。"
+      },
+      {
+        "char": "馨",
+        "similarity": "下方含香",
+        "difference": "香是獨體字；馨上方多聲、殳等部件。"
+      },
+      {
+        "char": "委",
+        "similarity": "上方都有禾",
+        "difference": "香下方是日；委下方是女。"
+      },
+      {
+        "char": "季",
+        "similarity": "上方都有禾",
+        "difference": "香下方是日；季下方是子。"
+      },
+      {
+        "char": "杏",
+        "similarity": "都有木、口日形的上下輪廓",
+        "difference": "香上方是禾、下方日；杏上方木、下方口。"
+      },
+      {
+        "char": "春",
+        "similarity": "下方都有日",
+        "difference": "香上方是禾；春上方是春字頭。"
+      }
+    ],
+    "teachingTip": "香共9畫，上方禾的捺要舒展，下方是日不是口。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第7課_memory_strategy_04821fad93bbd3d5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "郊",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "郊",
+    "components": [
+      "交",
+      "阝"
+    ],
+    "association": "左邊交像道路交會，右邊邑部表示地方，聯想到城市外的郊外。",
+    "mnemonic": "左交右阝，郊外的郊。",
+    "visualPrompt": "保留標準繁體「郊」完整字形，在字旁另畫「郊外」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "郊右邊阝是邑部，共3畫；不要和左阝的阜部混淆。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

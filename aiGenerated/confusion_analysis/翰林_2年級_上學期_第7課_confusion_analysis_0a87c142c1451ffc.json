@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第7課_confusion_analysis_0a87c142c1451ffc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "活",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "活",
+    "groups": {
+      "shape": [
+        {
+          "char": "話",
+          "why": "右邊都有舌",
+          "difference": "活左邊是氵；話左邊是言。"
+        },
+        {
+          "char": "括",
+          "why": "右邊都有舌",
+          "difference": "活左邊是氵；括左邊是扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "或",
+          "why": "同音，都是ㄏㄨㄛˋ。",
+          "difference": "活可表示生存或活動；或表示選擇、可能。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "動",
+          "why": "都可和行動有關。",
+          "difference": "活在活動中和動作、生命力有關；動表示移動或行動。"
+        }
+      ],
+      "component": [
+        {
+          "char": "話",
+          "why": "部件比較：右邊都有舌",
+          "difference": "活左邊是氵；話左邊是言。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「活動」，再依字形與句意選字。活右邊是舌，上方第一筆是撇；不要寫成話的言字旁。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}
