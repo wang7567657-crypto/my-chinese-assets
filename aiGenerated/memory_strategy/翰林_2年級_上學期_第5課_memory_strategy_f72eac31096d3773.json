@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第5課_memory_strategy_f72eac31096d3773",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "留",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "留",
+    "components": [
+      "卯形上部",
+      "田"
+    ],
+    "association": "把下方田想成一塊固定的位置，腳印停在那裡沒有離開。",
+    "mnemonic": "上面卯形，下方田，留下腳印的留。",
+    "visualPrompt": "以繁體標準字形清楚書寫「留」，字形保持完整、不變形；在字旁畫出「把下方田想成一塊固定的位置，腳印停在那裡沒有離開。」的簡潔提示圖，圖像不可覆蓋或取代文字筆畫。",
+    "teachingTip": "留下方是完整的田；上方不是貿，也不要漏掉中間的刀形筆畫。 這是記憶聯想，不代表字源。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

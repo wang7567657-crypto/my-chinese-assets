@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_d42a1efe6d13080c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "螃",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "螃",
+    "groups": {
+      "shape": [
+        {
+          "char": "傍",
+          "why": "右邊都有旁",
+          "difference": "螃左邊是虫；傍左邊是亻。"
+        },
+        {
+          "char": "膀",
+          "why": "右邊都有旁",
+          "difference": "螃左邊是虫；膀左邊是月。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "旁",
+          "why": "同音，都是ㄆㄤˊ。",
+          "difference": "螃多用於螃蟹；旁表示旁邊。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "螯",
+          "why": "都和螃蟹有關。",
+          "difference": "螃是「螃蟹」的一部分；螯指螃蟹等動物像鉗子的腳。"
+        }
+      ],
+      "component": [
+        {
+          "char": "榜",
+          "why": "右邊都有旁",
+          "difference": "螃左邊是虫；榜左邊是木。"
+        }
+      ]
+    },
+    "tip": "把「螃」放回課文語詞「螃蟹」判斷，再檢查虫與其餘部件。螃通常和蟹組成「螃蟹」，左邊虫的提不要寫成橫。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

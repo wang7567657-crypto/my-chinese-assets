@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_cb7fefbd8502e528",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "橫",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "橫",
+    "groups": {
+      "shape": [
+        {
+          "char": "黃",
+          "why": "橫的右邊完整是黃",
+          "difference": "橫比黃多左邊木。"
+        },
+        {
+          "char": "簧",
+          "why": "下方都有黃",
+          "difference": "橫左邊是木；簧上方是竹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "衡",
+          "why": "同音，都是ㄏㄥˊ。",
+          "difference": "橫著是左右方向；衡有衡量、平衡的意思。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "直",
+          "why": "都用來描述方向。",
+          "difference": "橫是左右或平放的方向；直是上下或不彎曲的方向。"
+        }
+      ],
+      "component": [
+        {
+          "char": "璜",
+          "why": "右邊都有黃",
+          "difference": "橫左邊是木；璜左邊是玉。"
+        }
+      ]
+    },
+    "tip": "把「橫」放回課文語詞「橫著走」判斷，再檢查木與其餘部件。本課「橫著走」讀ㄏㄥˊ；「蠻橫」則讀ㄏㄥˋ。右邊是黃。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

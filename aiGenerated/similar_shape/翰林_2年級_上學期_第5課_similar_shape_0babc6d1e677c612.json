@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第5課_similar_shape_0babc6d1e677c612",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "留",
+    "lessonChars": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "留",
+    "similarChars": [
+      {
+        "char": "溜",
+        "similarity": "右邊都有留",
+        "difference": "留是上下結構；溜左邊多氵。"
+      },
+      {
+        "char": "榴",
+        "similarity": "右邊都有留",
+        "difference": "留是上下結構；榴左邊多木。"
+      },
+      {
+        "char": "遛",
+        "similarity": "裡面都有留",
+        "difference": "留下方是田；遛外面多辶。"
+      },
+      {
+        "char": "餾",
+        "similarity": "右邊都有留",
+        "difference": "留是上下結構；餾左邊多食字旁。"
+      },
+      {
+        "char": "劉",
+        "similarity": "上方輪廓與留相近",
+        "difference": "留下方是田；劉右邊有金、刂，結構更複雜。"
+      },
+      {
+        "char": "貿",
+        "similarity": "上方輪廓相近",
+        "difference": "留下方是田；貿下方是貝。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。留下方是完整的田；上方不是貿，也不要漏掉中間的刀形筆畫。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第5課_similar_shape_19202628629a44af",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "印",
+    "lessonChars": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "印",
+    "similarChars": [
+      {
+        "char": "卯",
+        "similarity": "左右都有相近的卩形部件",
+        "difference": "印左邊連成四筆、右邊卩；卯左右分列的筆形不同。"
+      },
+      {
+        "char": "即",
+        "similarity": "右邊都有卩",
+        "difference": "印左邊較簡；即左邊是皀形部件。"
+      },
+      {
+        "char": "卵",
+        "similarity": "整體左右輪廓相近",
+        "difference": "印共6畫；卵中間多點畫，筆形更複雜。"
+      },
+      {
+        "char": "叩",
+        "similarity": "右邊都有卩",
+        "difference": "印左邊是四筆部件；叩左邊是口。"
+      },
+      {
+        "char": "卸",
+        "similarity": "右邊都有卩",
+        "difference": "印左邊較簡；卸左邊是午、止形部件。"
+      },
+      {
+        "char": "抑",
+        "similarity": "右邊有相近的卩形",
+        "difference": "印是左右結構；抑左邊多扌，右部筆形不同。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。印右邊卩只有兩筆，位置較低；不要和卯、即混寫。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第5課_similar_shape_45d0f3ce51e0ca60",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "丫",
+    "lessonChars": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "丫",
+    "similarChars": [
+      {
+        "char": "八",
+        "similarity": "上方分開的輪廓相近",
+        "difference": "丫中間有直豎；八只有撇、捺兩筆。"
+      },
+      {
+        "char": "人",
+        "similarity": "都有向左右伸展的筆形",
+        "difference": "丫分岔在上並有直豎；人從上方相接後向下分開。"
+      },
+      {
+        "char": "入",
+        "similarity": "都有撇捺輪廓",
+        "difference": "丫有中間直豎；入只有兩筆且交接方向不同。"
+      },
+      {
+        "char": "个",
+        "similarity": "都有中間直豎",
+        "difference": "丫上方像倒開的叉；个上方是人形。"
+      },
+      {
+        "char": "十",
+        "similarity": "都有中央直豎",
+        "difference": "丫上方是向兩側斜分；十有一條水平橫。"
+      },
+      {
+        "char": "小",
+        "similarity": "都有中央豎與兩側筆畫",
+        "difference": "丫的兩側筆畫在上方相接；小的兩點分列下方兩側。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。丫共3畫，最後一筆是中間直豎；不要寫成八或人。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

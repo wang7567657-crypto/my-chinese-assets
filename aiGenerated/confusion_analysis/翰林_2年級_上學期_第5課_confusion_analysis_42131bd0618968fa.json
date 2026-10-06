@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_42131bd0618968fa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "海",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "海",
+    "groups": {
+      "shape": [
+        {
+          "char": "悔",
+          "why": "右邊都有每",
+          "difference": "海左邊是氵；悔左邊是忄。"
+        },
+        {
+          "char": "梅",
+          "why": "右邊都有每",
+          "difference": "海左邊是氵；梅左邊是木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "孩",
+          "why": "近音，海讀ㄏㄞˇ，孩讀ㄏㄞˊ，聲調不同。",
+          "difference": "海是大片鹹水；孩指孩子。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "洋",
+          "why": "都可指大片鹹水水域。",
+          "difference": "海可指較靠近陸地的水域；洋通常指更廣大的海域。"
+        }
+      ],
+      "component": [
+        {
+          "char": "莓",
+          "why": "下方都有每",
+          "difference": "海左邊是氵；莓上方是艹。"
+        }
+      ]
+    },
+    "tip": "把「海」放回課文語詞「海邊」判斷，再檢查氵與其餘部件。海右邊是每，中間的母形筆畫不要寫成毋。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

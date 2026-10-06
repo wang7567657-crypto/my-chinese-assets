@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_107aab0be899f04c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "夕",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "夕",
+    "groups": {
+      "shape": [
+        {
+          "char": "多",
+          "why": "上下都有夕形",
+          "difference": "夕是單一部件；多由兩個夕形上下組成。"
+        },
+        {
+          "char": "外",
+          "why": "左邊有夕",
+          "difference": "夕是獨體字；外右邊多卜。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "西",
+          "why": "同音，都是ㄒㄧ。",
+          "difference": "夕指傍晚；西是方向。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "晚",
+          "why": "都和一天後段的時間有關。",
+          "difference": "夕多指日落前後；晚可指較遲的時間或夜晚。"
+        }
+      ],
+      "component": [
+        {
+          "char": "名",
+          "why": "上方有夕",
+          "difference": "夕是獨體字；名下方多口。"
+        }
+      ]
+    },
+    "tip": "把「夕」放回課文語詞「夕陽」判斷，再檢查夕與其餘部件。夕只有3畫，裡面是點；不要和「久」或「歹」混在一起。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

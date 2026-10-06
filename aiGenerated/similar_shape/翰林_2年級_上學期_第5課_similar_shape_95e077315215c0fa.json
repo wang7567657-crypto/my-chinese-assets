@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第5課_similar_shape_95e077315215c0fa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "邊",
+    "lessonChars": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "邊",
+    "similarChars": [
+      {
+        "char": "遍",
+        "similarity": "外面都有辶",
+        "difference": "邊裡面是臱；遍裡面是扁。"
+      },
+      {
+        "char": "編",
+        "similarity": "都有扁形輪廓",
+        "difference": "邊外面是辶；編左邊是糹、右邊是扁。"
+      },
+      {
+        "char": "篇",
+        "similarity": "都有扁形輪廓",
+        "difference": "邊外面是辶；篇上方是竹、下方是扁。"
+      },
+      {
+        "char": "偏",
+        "similarity": "都有扁形輪廓",
+        "difference": "邊外面是辶；偏左邊是亻、右邊是扁。"
+      },
+      {
+        "char": "扁",
+        "similarity": "與邊的內部輪廓部分相近",
+        "difference": "邊有臱和外部辶；扁筆畫較少。"
+      },
+      {
+        "char": "連",
+        "similarity": "外面都有辶",
+        "difference": "邊裡面是臱；連裡面是車。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。邊的辶在左下包住裡面，最後四筆是走之，不要寫到內部。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

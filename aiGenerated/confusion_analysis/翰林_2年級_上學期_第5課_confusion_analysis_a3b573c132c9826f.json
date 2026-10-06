@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_a3b573c132c9826f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "愛",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "愛",
+    "groups": {
+      "shape": [
+        {
+          "char": "受",
+          "why": "上下輪廓相近，上方都有爫與冖",
+          "difference": "愛中間有心、下方是夂；受下方是又。"
+        },
+        {
+          "char": "爰",
+          "why": "上半輪廓相近",
+          "difference": "愛中間有心、下方夂；爰中間與下方筆形不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "礙",
+          "why": "同音，都是ㄞˋ。",
+          "difference": "愛是喜愛、關心；礙是阻擋或妨礙。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "喜",
+          "why": "都能表示正面的感受。",
+          "difference": "愛著重深厚的喜愛與關心；喜可指高興或喜歡。"
+        }
+      ],
+      "component": [
+        {
+          "char": "曖",
+          "why": "右邊完整是愛",
+          "difference": "愛是獨立字；曖左邊多日。"
+        }
+      ]
+    },
+    "tip": "把「愛」放回課文語詞「可愛」判斷，再檢查心與其餘部件。愛中間有心，不能寫成簡化字「爱」，下方夂不要漏筆。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

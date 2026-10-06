@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第5課_similar_shape_a2dfb64816ddd16c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "腳",
+    "lessonChars": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "腳",
+    "similarChars": [
+      {
+        "char": "卻",
+        "similarity": "右側都有谷和卩",
+        "difference": "腳左邊多月；卻左側起筆與腳中間布局不同。"
+      },
+      {
+        "char": "腿",
+        "similarity": "左邊都有月",
+        "difference": "腳右邊是谷與卩；腿右邊是退。"
+      },
+      {
+        "char": "膠",
+        "similarity": "左邊都有月",
+        "difference": "腳右邊是谷、卩；膠右邊是翏。"
+      },
+      {
+        "char": "胳",
+        "similarity": "左邊都有月",
+        "difference": "腳右邊較複雜；胳右邊是各。"
+      },
+      {
+        "char": "胞",
+        "similarity": "左邊都有月",
+        "difference": "腳右邊是谷、卩；胞右邊是包。"
+      },
+      {
+        "char": "服",
+        "similarity": "左邊都有月，右側也有卩形",
+        "difference": "腳中間有谷；服右邊是卩形加又。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。腳左邊是肉月，右側卩只有兩筆；不要把中間谷寫成合。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

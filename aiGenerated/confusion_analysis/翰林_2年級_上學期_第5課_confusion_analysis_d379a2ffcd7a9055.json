@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_d379a2ffcd7a9055",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "沙",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "沙",
+    "groups": {
+      "shape": [
+        {
+          "char": "抄",
+          "why": "右邊都有少",
+          "difference": "沙左邊是氵；抄左邊是扌。"
+        },
+        {
+          "char": "炒",
+          "why": "右邊都有少",
+          "difference": "沙左邊是氵；炒左邊是火。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "砂",
+          "why": "同音，都是ㄕㄚ。",
+          "difference": "沙常見於沙灘、沙子；砂常見於砂紙、砂糖等詞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "砂",
+          "why": "都能表示細小顆粒。",
+          "difference": "本課自然景物寫「沙灘」；砂多用於砂紙、砂輪等固定詞語。"
+        }
+      ],
+      "component": [
+        {
+          "char": "紗",
+          "why": "右邊都有少",
+          "difference": "沙左邊是氵；紗左邊是糹。"
+        }
+      ]
+    },
+    "tip": "把「沙」放回課文語詞「沙灘」判斷，再檢查氵與其餘部件。沙左邊是氵，不要把右邊少的撇寫漏。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

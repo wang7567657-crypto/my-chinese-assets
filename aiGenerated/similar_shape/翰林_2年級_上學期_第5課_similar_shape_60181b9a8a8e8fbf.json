@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第5課_similar_shape_60181b9a8a8e8fbf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "橫",
+    "lessonChars": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "橫",
+    "similarChars": [
+      {
+        "char": "黃",
+        "similarity": "橫的右邊完整是黃",
+        "difference": "橫比黃多左邊木。"
+      },
+      {
+        "char": "簧",
+        "similarity": "下方都有黃",
+        "difference": "橫左邊是木；簧上方是竹。"
+      },
+      {
+        "char": "璜",
+        "similarity": "右邊都有黃",
+        "difference": "橫左邊是木；璜左邊是玉。"
+      },
+      {
+        "char": "潢",
+        "similarity": "右邊都有黃",
+        "difference": "橫左邊是木；潢左邊是氵。"
+      },
+      {
+        "char": "磺",
+        "similarity": "右邊都有黃",
+        "difference": "橫左邊是木；磺左邊是石。"
+      },
+      {
+        "char": "黌",
+        "similarity": "下方都有黃",
+        "difference": "橫是左右結構；黌上方複雜，且是較少見字。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。本課「橫著走」讀ㄏㄥˊ；「蠻橫」則讀ㄏㄥˋ。右邊是黃。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

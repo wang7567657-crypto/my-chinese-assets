@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第5課_memory_strategy_bd5b9844a38f34e0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "退",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "退",
+    "components": [
+      "艮",
+      "辶"
+    ],
+    "association": "辶表示移動，把腳步往後移就想到退。",
+    "mnemonic": "艮在裡，走之在外，往後退。",
+    "visualPrompt": "以繁體標準字形清楚書寫「退」，字形保持完整、不變形；在字旁畫出「辶表示移動，把腳步往後移就想到退。」的簡潔提示圖，圖像不可覆蓋或取代文字筆畫。",
+    "teachingTip": "退的最後四筆是辶；不要把裡面的艮寫成良。 這是記憶聯想，不代表字源。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

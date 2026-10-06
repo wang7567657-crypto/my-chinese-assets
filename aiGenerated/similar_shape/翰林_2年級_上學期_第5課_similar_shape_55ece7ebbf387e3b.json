@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第5課_similar_shape_55ece7ebbf387e3b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "海",
+    "lessonChars": [
+      "沙",
+      "灘",
+      "海",
+      "邊",
+      "退",
+      "遠",
+      "螃",
+      "蟹",
+      "愛",
+      "注",
+      "夕",
+      "腳",
+      "丫",
+      "橫",
+      "留",
+      "印",
+      "挖",
+      "麗"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "海",
+    "similarChars": [
+      {
+        "char": "悔",
+        "similarity": "右邊都有每",
+        "difference": "海左邊是氵；悔左邊是忄。"
+      },
+      {
+        "char": "梅",
+        "similarity": "右邊都有每",
+        "difference": "海左邊是氵；梅左邊是木。"
+      },
+      {
+        "char": "莓",
+        "similarity": "下方都有每",
+        "difference": "海左邊是氵；莓上方是艹。"
+      },
+      {
+        "char": "晦",
+        "similarity": "右邊都有每",
+        "difference": "海左邊是氵；晦左邊是日。"
+      },
+      {
+        "char": "侮",
+        "similarity": "右邊都有每",
+        "difference": "海左邊是氵；侮左邊是亻。"
+      },
+      {
+        "char": "每",
+        "similarity": "海的右邊完整是每",
+        "difference": "海比每多左邊氵。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。海右邊是每，中間的母形筆畫不要寫成毋。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}

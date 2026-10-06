@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第5課_confusion_analysis_a7b6783772e805cf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "挖",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "挖",
+    "groups": {
+      "shape": [
+        {
+          "char": "控",
+          "why": "左邊都有扌，右邊上方都有穴",
+          "difference": "挖右下是彎鉤；控右下是工。"
+        },
+        {
+          "char": "穵",
+          "why": "挖的右邊完整是穵",
+          "difference": "挖比穵多左邊扌；穵是較少見字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蛙",
+          "why": "同音，都是ㄨㄚ。",
+          "difference": "挖是把土等掘開；蛙是青蛙。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "掘",
+          "why": "都有把土或物體向下、向外弄開的意思。",
+          "difference": "挖是日常常用說法；掘較常見於挖掘等書面語。"
+        }
+      ],
+      "component": [
+        {
+          "char": "究",
+          "why": "上方都有穴",
+          "difference": "挖左邊有扌、穴下是彎鉤；究穴下是九。"
+        }
+      ]
+    },
+    "tip": "把「挖」放回課文語詞「挖小洞」判斷，再檢查扌與其餘部件。挖右邊可看成穴下接彎鉤；最後一筆彎鉤不要寫成直鉤。"
+  },
+  "createdAt": "2026-10-06T11:14:29.022Z"
+}
