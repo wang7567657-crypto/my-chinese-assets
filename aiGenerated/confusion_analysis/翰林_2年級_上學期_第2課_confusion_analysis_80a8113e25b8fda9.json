@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第2課_confusion_analysis_80a8113e25b8fda9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "辦",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "辦",
+    "groups": {
+      "shape": [
+        {
+          "char": "辨",
+          "why": "左右同為辛形部件，整體輪廓幾乎相同",
+          "difference": "辦中間是力；辨中間是刂形筆畫。"
+        },
+        {
+          "char": "辯",
+          "why": "左右同為辛形部件",
+          "difference": "辦中間是力；辯中間是言。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "半",
+          "why": "同音：辦、半都讀ㄅㄢˋ。",
+          "difference": "辦法的辦筆畫多；一半的半只有五畫。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "做",
+          "why": "辦與做都可表示處理事情。",
+          "difference": "辦可組辦法、辦事；做可組做功課、做人，用法不完全相同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "辨",
+          "why": "部件比較：左右同為辛形部件，整體輪廓幾乎相同",
+          "difference": "辦中間是力；辨中間是刂形筆畫。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「怎麼辦」，再依字形、讀音與句意選字。中間是力；與辨、辯、瓣、辮比較中央部件，不看讀音猜字。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

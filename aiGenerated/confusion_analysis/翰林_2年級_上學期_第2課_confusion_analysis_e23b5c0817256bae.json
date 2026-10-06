@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第2課_confusion_analysis_e23b5c0817256bae",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "轉",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "轉",
+    "groups": {
+      "shape": [
+        {
+          "char": "傳",
+          "why": "右側同為專",
+          "difference": "轉左邊是車；傳左邊是亻。"
+        },
+        {
+          "char": "團",
+          "why": "內部同為專",
+          "difference": "轉是車左、專右；團是囗把專包住。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "展",
+          "why": "近音：轉學的轉讀ㄓㄨㄢˇ，展讀ㄓㄢˇ，韻母不同。",
+          "difference": "轉有車旁；展上方是尸。轉另可讀ㄓㄨㄢˋ，要依詞語判斷。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "換",
+          "why": "轉學與換學校都表示改到另一處。",
+          "difference": "轉還可表示方向改變或旋轉；換著重替換，不能在所有詞中互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "傳",
+          "why": "部件比較：右側同為專",
+          "difference": "轉左邊是車；傳左邊是亻。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「轉學生」，再依字形、讀音與句意選字。本課轉學讀ㄓㄨㄢˇ；旋轉可讀ㄓㄨㄢˋ。右邊專的點不可漏。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

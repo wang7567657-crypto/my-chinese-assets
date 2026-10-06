@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第2課_confusion_analysis_4aec0da267316e1e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "望",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "望",
+    "groups": {
+      "shape": [
+        {
+          "char": "忘",
+          "why": "上方同為亡",
+          "difference": "望中間有月、下方是王；忘下方是心。"
+        },
+        {
+          "char": "妄",
+          "why": "上方同為亡",
+          "difference": "望中間有月、下方是王；妄下方是女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "忘",
+          "why": "同音：望、忘都讀ㄨㄤˋ。",
+          "difference": "望表示看或期待；忘下方是心，表示忘記。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "盼",
+          "why": "希望、盼望都表示期待。",
+          "difference": "望也能表示向遠處看；盼左邊是目，組詞要依語境。"
+        }
+      ],
+      "component": [
+        {
+          "char": "忘",
+          "why": "部件比較：上方同為亡",
+          "difference": "望中間有月、下方是王；忘下方是心。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「希望」，再依字形、讀音與句意選字。中間月的兩橫要保留；最下方是王，不是土。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

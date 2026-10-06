@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第2課_confusion_analysis_8ca266957fd773f2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "習",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "習",
+    "groups": {
+      "shape": [
+        {
+          "char": "羽",
+          "why": "習上方完整包含羽",
+          "difference": "習下方多白；羽沒有白。"
+        },
+        {
+          "char": "翌",
+          "why": "上方同為羽",
+          "difference": "習下方是白；翌下方是立。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "席",
+          "why": "同音：習、席都讀ㄒㄧˊ。",
+          "difference": "學習的習上方是羽；座席的席外有广。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "學",
+          "why": "學習中的學與習都和學會事物有關。",
+          "difference": "學可表示求知；習有反覆練習的意思，兩字不能任意對調。"
+        }
+      ],
+      "component": [
+        {
+          "char": "羽",
+          "why": "部件比較：習上方完整包含羽",
+          "difference": "習下方多白；羽沒有白。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「學習」，再依字形、讀音與句意選字。上方羽共六畫；下方是白，裡面只有一橫。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

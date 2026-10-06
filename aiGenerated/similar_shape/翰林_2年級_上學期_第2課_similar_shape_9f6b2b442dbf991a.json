@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第2課_similar_shape_9f6b2b442dbf991a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "使",
+    "lessonChars": [
+      "老",
+      "師",
+      "新",
+      "希",
+      "望",
+      "卻",
+      "使",
+      "緊",
+      "因",
+      "為",
+      "知",
+      "道",
+      "怎",
+      "消",
+      "失",
+      "習",
+      "最",
+      "掛",
+      "轉",
+      "熟",
+      "辦",
+      "舞"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "使",
+    "similarChars": [
+      {
+        "char": "史",
+        "similarity": "使的右側含史形主體",
+        "difference": "使左邊多亻，右側上方還有一橫；史沒有亻。"
+      },
+      {
+        "char": "吏",
+        "similarity": "使的右側完整包含吏",
+        "difference": "使左邊多亻；吏沒有亻。"
+      },
+      {
+        "char": "駛",
+        "similarity": "右側完整包含史",
+        "difference": "駛左邊是馬；使左邊是亻，右側上方比史多一橫。"
+      },
+      {
+        "char": "便",
+        "similarity": "右側更與吏形相近，整體同為亻加右部",
+        "difference": "使右邊是吏；便右邊是更，框內多一橫。"
+      },
+      {
+        "char": "更",
+        "similarity": "右部輪廓與使相近",
+        "difference": "使左邊多亻，右部上方與更內部橫畫數不同。"
+      },
+      {
+        "char": "硬",
+        "similarity": "右側完整包含更，輪廓與使右部相近",
+        "difference": "硬左邊是石；使左邊是亻，且右邊是吏。"
+      }
+    ],
+    "teachingTip": "先遮住一半比較共同部件，再圈出不同筆畫；回到本課語詞「使用」確認用字。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第2課_confusion_analysis_14760db7fbc9a49a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "知",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "知",
+    "groups": {
+      "shape": [
+        {
+          "char": "智",
+          "why": "上方完整包含知",
+          "difference": "智下方多日；知沒有日。"
+        },
+        {
+          "char": "痴",
+          "why": "內部完整包含知",
+          "difference": "痴外面多疒；知沒有疒。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "支",
+          "why": "同音：知、支都讀ㄓ。",
+          "difference": "知道的知右邊有口；一支筆的支只有四畫。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "曉",
+          "why": "知與曉都可表示明白。",
+          "difference": "知道是常用詞；曉還可指天亮，字形與用法不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "智",
+          "why": "部件比較：上方完整包含知",
+          "difference": "智下方多日；知沒有日。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「知道」，再依字形、讀音與句意選字。左邊矢共五畫；第三筆橫較長，右邊口不要寫成日。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

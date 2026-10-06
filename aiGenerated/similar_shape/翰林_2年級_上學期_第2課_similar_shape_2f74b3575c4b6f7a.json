@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第2課_similar_shape_2f74b3575c4b6f7a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "師",
+    "lessonChars": [
+      "老",
+      "師",
+      "新",
+      "希",
+      "望",
+      "卻",
+      "使",
+      "緊",
+      "因",
+      "為",
+      "知",
+      "道",
+      "怎",
+      "消",
+      "失",
+      "習",
+      "最",
+      "掛",
+      "轉",
+      "熟",
+      "辦",
+      "舞"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "師",
+    "similarChars": [
+      {
+        "char": "帥",
+        "similarity": "左部及右側巾的整體輪廓非常接近",
+        "difference": "師右部上方多一橫；帥右邊直接是巾。"
+      },
+      {
+        "char": "獅",
+        "similarity": "右側完整包含師",
+        "difference": "獅左邊多犭；師沒有犭。"
+      },
+      {
+        "char": "篩",
+        "similarity": "下方完整包含師",
+        "difference": "篩上方多竹字頭；師沒有竹字頭。"
+      },
+      {
+        "char": "螄",
+        "similarity": "右側完整包含師",
+        "difference": "螄左邊多虫；師沒有虫，螄較少見。"
+      },
+      {
+        "char": "歸",
+        "similarity": "左側起筆部件與師相近，右側都有巾形筆畫",
+        "difference": "師右部是帀形；歸右部是帚，筆畫更多。"
+      },
+      {
+        "char": "追",
+        "similarity": "內部左側部件與師左部相近",
+        "difference": "追外有辶，沒有師右側的巾。"
+      }
+    ],
+    "teachingTip": "先遮住一半比較共同部件，再圈出不同筆畫；回到本課語詞「老師」確認用字。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

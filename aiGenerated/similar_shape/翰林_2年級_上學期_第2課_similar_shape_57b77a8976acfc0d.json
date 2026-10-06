@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第2課_similar_shape_57b77a8976acfc0d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "習",
+    "lessonChars": [
+      "老",
+      "師",
+      "新",
+      "希",
+      "望",
+      "卻",
+      "使",
+      "緊",
+      "因",
+      "為",
+      "知",
+      "道",
+      "怎",
+      "消",
+      "失",
+      "習",
+      "最",
+      "掛",
+      "轉",
+      "熟",
+      "辦",
+      "舞"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "習",
+    "similarChars": [
+      {
+        "char": "羽",
+        "similarity": "習上方完整包含羽",
+        "difference": "習下方多白；羽沒有白。"
+      },
+      {
+        "char": "翌",
+        "similarity": "上方同為羽",
+        "difference": "習下方是白；翌下方是立。"
+      },
+      {
+        "char": "翼",
+        "similarity": "上方同為羽",
+        "difference": "習下方是白；翼下方含田與共，筆畫更多。"
+      },
+      {
+        "char": "翕",
+        "similarity": "都含羽，為上下結構",
+        "difference": "習是羽在上、白在下；翕是合在上、羽在下。"
+      },
+      {
+        "char": "翔",
+        "similarity": "共用羽部件",
+        "difference": "習是上下結構；翔是羊在左、羽在右。"
+      },
+      {
+        "char": "翎",
+        "similarity": "共用羽部件",
+        "difference": "習是羽在上；翎是令在左、羽在右。"
+      }
+    ],
+    "teachingTip": "先遮住一半比較共同部件，再圈出不同筆畫；回到本課語詞「學習」確認用字。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

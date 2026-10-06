@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第2課_confusion_analysis_4f15fa101267b6e6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "緊",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "緊",
+    "groups": {
+      "shape": [
+        {
+          "char": "紫",
+          "why": "下方同為糸",
+          "difference": "緊上方是臤形部件；紫上方是此。"
+        },
+        {
+          "char": "素",
+          "why": "下方同為糸",
+          "difference": "緊上方筆畫較密；素上方是龶形部件。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "錦",
+          "why": "同音：緊、錦都讀ㄐㄧㄣˇ。",
+          "difference": "緊張的緊下方是糸；錦左邊是金，右邊是帛。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "急",
+          "why": "緊張與焦急都可能描述不安。",
+          "difference": "緊也能表示不鬆；急著重時間或心情急迫。"
+        }
+      ],
+      "component": [
+        {
+          "char": "紫",
+          "why": "部件比較：下方同為糸",
+          "difference": "緊上方是臤形部件；紫上方是此。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「緊張」，再依字形、讀音與句意選字。下方是糸六畫，最後三筆是小形的豎鉤、撇、點。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

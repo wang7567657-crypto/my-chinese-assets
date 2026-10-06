@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第2課_similar_shape_c5cba58e3f68840d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "卻",
+    "lessonChars": [
+      "老",
+      "師",
+      "新",
+      "希",
+      "望",
+      "卻",
+      "使",
+      "緊",
+      "因",
+      "為",
+      "知",
+      "道",
+      "怎",
+      "消",
+      "失",
+      "習",
+      "最",
+      "掛",
+      "轉",
+      "熟",
+      "辦",
+      "舞"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "卻",
+    "similarChars": [
+      {
+        "char": "郤",
+        "similarity": "左側與卻相近，右側也有阝形",
+        "difference": "卻右邊是卩；郤右邊是阝，郤較少見。"
+      },
+      {
+        "char": "谷",
+        "similarity": "卻左側完整包含谷",
+        "difference": "卻右邊多卩；谷沒有卩。"
+      },
+      {
+        "char": "即",
+        "similarity": "右側同為卩，左右輪廓接近",
+        "difference": "卻左邊是谷；即左邊是艮的變形。"
+      },
+      {
+        "char": "叩",
+        "similarity": "右側同為卩",
+        "difference": "卻左邊是谷；叩左邊是口。"
+      },
+      {
+        "char": "印",
+        "similarity": "右側同為卩",
+        "difference": "卻左側筆畫較多；印左側是爪形變體。"
+      },
+      {
+        "char": "卵",
+        "similarity": "含卩形及點畫，整體寬度相近",
+        "difference": "卻是谷加卩；卵左右兩側都有撇、點，結構不同。"
+      }
+    ],
+    "teachingTip": "先遮住一半比較共同部件，再圈出不同筆畫；回到本課語詞「卻想不出來」確認用字。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

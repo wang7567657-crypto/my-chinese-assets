@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第2課_similar_shape_4868fe436bdac0f4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "最",
+    "lessonChars": [
+      "老",
+      "師",
+      "新",
+      "希",
+      "望",
+      "卻",
+      "使",
+      "緊",
+      "因",
+      "為",
+      "知",
+      "道",
+      "怎",
+      "消",
+      "失",
+      "習",
+      "最",
+      "掛",
+      "轉",
+      "熟",
+      "辦",
+      "舞"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "最",
+    "similarChars": [
+      {
+        "char": "取",
+        "similarity": "最下方完整包含取",
+        "difference": "最上方多曰；取沒有曰。"
+      },
+      {
+        "char": "撮",
+        "similarity": "右側完整包含最",
+        "difference": "撮左邊多扌；最沒有扌。"
+      },
+      {
+        "char": "嘬",
+        "similarity": "右側完整包含最",
+        "difference": "嘬左邊多口；最沒有口，嘬較少見。"
+      },
+      {
+        "char": "蕞",
+        "similarity": "下方完整包含最",
+        "difference": "蕞上方多艹；最沒有艹，蕞較少見。"
+      },
+      {
+        "char": "聚",
+        "similarity": "上方完整包含取",
+        "difference": "最是曰在上、取在下；聚是取在上，下方多撇捺筆畫。"
+      },
+      {
+        "char": "趣",
+        "similarity": "右側完整包含取",
+        "difference": "趣左邊多走；最上方是曰，結構不同。"
+      }
+    ],
+    "teachingTip": "先遮住一半比較共同部件，再圈出不同筆畫；回到本課語詞「最後」確認用字。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

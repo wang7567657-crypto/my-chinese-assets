@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第2課_similar_shape_15bf395b6979ad56",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "怎",
+    "lessonChars": [
+      "老",
+      "師",
+      "新",
+      "希",
+      "望",
+      "卻",
+      "使",
+      "緊",
+      "因",
+      "為",
+      "知",
+      "道",
+      "怎",
+      "消",
+      "失",
+      "習",
+      "最",
+      "掛",
+      "轉",
+      "熟",
+      "辦",
+      "舞"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "怎",
+    "similarChars": [
+      {
+        "char": "作",
+        "similarity": "共用乍部件",
+        "difference": "怎是乍在上、心在下；作是亻在左、乍在右。"
+      },
+      {
+        "char": "昨",
+        "similarity": "共用乍部件",
+        "difference": "怎是乍在上、心在下；昨是日在左、乍在右。"
+      },
+      {
+        "char": "炸",
+        "similarity": "共用乍部件",
+        "difference": "怎下方是心；炸左邊是火、右邊是乍。"
+      },
+      {
+        "char": "詐",
+        "similarity": "共用乍部件",
+        "difference": "怎下方是心；詐左邊是言、右邊是乍。"
+      },
+      {
+        "char": "窄",
+        "similarity": "下方同為乍",
+        "difference": "怎上方沒有穴；窄上方是穴字頭。"
+      },
+      {
+        "char": "怍",
+        "similarity": "共用乍與心旁部件",
+        "difference": "怎是上下結構；怍是忄在左、乍在右，怍較少見。"
+      }
+    ],
+    "teachingTip": "先遮住一半比較共同部件，再圈出不同筆畫；回到本課語詞「怎麼辦」確認用字。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

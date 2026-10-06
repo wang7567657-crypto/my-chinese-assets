@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第2課_similar_shape_7acb311059ac395a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "轉",
+    "lessonChars": [
+      "老",
+      "師",
+      "新",
+      "希",
+      "望",
+      "卻",
+      "使",
+      "緊",
+      "因",
+      "為",
+      "知",
+      "道",
+      "怎",
+      "消",
+      "失",
+      "習",
+      "最",
+      "掛",
+      "轉",
+      "熟",
+      "辦",
+      "舞"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "轉",
+    "similarChars": [
+      {
+        "char": "傳",
+        "similarity": "右側同為專",
+        "difference": "轉左邊是車；傳左邊是亻。"
+      },
+      {
+        "char": "團",
+        "similarity": "內部同為專",
+        "difference": "轉是車左、專右；團是囗把專包住。"
+      },
+      {
+        "char": "磚",
+        "similarity": "右側同為專",
+        "difference": "轉左邊是車；磚左邊是石。"
+      },
+      {
+        "char": "囀",
+        "similarity": "右側完整包含轉",
+        "difference": "囀左邊多口；轉沒有口，囀較少見。"
+      },
+      {
+        "char": "輔",
+        "similarity": "左側同為車",
+        "difference": "轉右邊是專；輔右邊是甫。"
+      },
+      {
+        "char": "輪",
+        "similarity": "左側同為車",
+        "difference": "轉右邊是專；輪右邊是侖。"
+      }
+    ],
+    "teachingTip": "先遮住一半比較共同部件，再圈出不同筆畫；回到本課語詞「轉學生」確認用字。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

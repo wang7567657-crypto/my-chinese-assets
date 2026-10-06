@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第2課_similar_shape_bfa9235c359da08a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "失",
+    "lessonChars": [
+      "老",
+      "師",
+      "新",
+      "希",
+      "望",
+      "卻",
+      "使",
+      "緊",
+      "因",
+      "為",
+      "知",
+      "道",
+      "怎",
+      "消",
+      "失",
+      "習",
+      "最",
+      "掛",
+      "轉",
+      "熟",
+      "辦",
+      "舞"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "失",
+    "similarChars": [
+      {
+        "char": "夫",
+        "similarity": "下方輪廓與失接近",
+        "difference": "失最上方多短撇，並有兩橫；夫只有兩橫，沒有頂端短撇。"
+      },
+      {
+        "char": "矢",
+        "similarity": "都有上方撇橫及下方撇捺",
+        "difference": "失中間第二橫貫穿；矢的上部配置及撇起位置不同，總筆畫同為五。"
+      },
+      {
+        "char": "朱",
+        "similarity": "上方撇橫及中間直筆輪廓相近",
+        "difference": "失下方是撇、捺；朱中間有豎鉤，下方撇、捺從木形展開。"
+      },
+      {
+        "char": "秩",
+        "similarity": "右側完整包含失",
+        "difference": "秩左邊多禾；失沒有禾。"
+      },
+      {
+        "char": "跌",
+        "similarity": "右側完整包含失",
+        "difference": "跌左邊多足字旁；失沒有足字旁。"
+      },
+      {
+        "char": "佚",
+        "similarity": "右側完整包含失",
+        "difference": "佚左邊多亻；失沒有亻，佚較少見。"
+      }
+    ],
+    "teachingTip": "先遮住一半比較共同部件，再圈出不同筆畫；回到本課語詞「消失」確認用字。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

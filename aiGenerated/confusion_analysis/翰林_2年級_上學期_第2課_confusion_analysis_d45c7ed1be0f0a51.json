@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第2課_confusion_analysis_d45c7ed1be0f0a51",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "熟",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "熟",
+    "groups": {
+      "shape": [
+        {
+          "char": "塾",
+          "why": "上方同為孰形主體",
+          "difference": "熟下方是灬；塾下方是土。"
+        },
+        {
+          "char": "孰",
+          "why": "熟上方完整包含孰",
+          "difference": "熟下方多灬；孰沒有灬。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "誰",
+          "why": "近音：熟ㄕㄡˊ、誰ㄕㄟˊ，聲母聲調相同，韻母不同。",
+          "difference": "熟悉的熟下方是灬；誰左邊是言、右邊是隹。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "悉",
+          "why": "熟悉中的熟與悉共同表示了解。",
+          "difference": "熟還可表示食物煮熟；悉也可組獲悉，語境不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "塾",
+          "why": "部件比較：上方同為孰形主體",
+          "difference": "熟下方是灬；塾下方是土。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「不熟」，再依字形、讀音與句意選字。教育部簡編本中熟悉讀ㄕㄡˊ ㄒㄧ；下方四點灬不可漏。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}

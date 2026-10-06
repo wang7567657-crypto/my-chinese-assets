@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第2課_similar_shape_ea5bbe5a14934521",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "為",
+    "lessonChars": [
+      "老",
+      "師",
+      "新",
+      "希",
+      "望",
+      "卻",
+      "使",
+      "緊",
+      "因",
+      "為",
+      "知",
+      "道",
+      "怎",
+      "消",
+      "失",
+      "習",
+      "最",
+      "掛",
+      "轉",
+      "熟",
+      "辦",
+      "舞"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "為",
+    "similarChars": [
+      {
+        "char": "偽",
+        "similarity": "右側完整包含為",
+        "difference": "偽左邊多亻；為沒有亻。"
+      },
+      {
+        "char": "蔿",
+        "similarity": "下方完整包含為",
+        "difference": "蔿上方多艹；為沒有艹，蔿較少見。"
+      },
+      {
+        "char": "潙",
+        "similarity": "右側完整包含為",
+        "difference": "潙左邊多氵；為沒有氵，潙較少見。"
+      },
+      {
+        "char": "烏",
+        "similarity": "下方同有灬，上方都是密集彎折",
+        "difference": "為上方有多次折筆與撇；烏上方有鳥形框，輪廓不同。"
+      },
+      {
+        "char": "鳥",
+        "similarity": "下方同有灬，上方都有框與彎鉤",
+        "difference": "為上方沒有鳥的內橫與鳥首；鳥的輪廓較直立。"
+      },
+      {
+        "char": "焉",
+        "similarity": "下方同有灬，上方筆畫密集",
+        "difference": "為是獨體彎折；焉上方含正形筆畫，整體較寬。"
+      }
+    ],
+    "teachingTip": "先遮住一半比較共同部件，再圈出不同筆畫；回到本課語詞「因為」確認用字。"
+  },
+  "createdAt": "2026-10-06T08:19:24.173Z"
+}
