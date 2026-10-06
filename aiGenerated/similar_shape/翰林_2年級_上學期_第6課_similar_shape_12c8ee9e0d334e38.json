@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第6課_similar_shape_12c8ee9e0d334e38",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "月",
+    "lessonChars": [
+      "月",
+      "奶",
+      "晚",
+      "飯",
+      "散",
+      "屋",
+      "竹",
+      "林",
+      "頭",
+      "溪",
+      "旁",
+      "暗",
+      "眼",
+      "睛",
+      "那",
+      "聚",
+      "成",
+      "顆",
+      "叢",
+      "盡"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "月",
+    "similarChars": [
+      {
+        "char": "日",
+        "similarity": "都有方框與內橫",
+        "difference": "月左撇、右邊彎鉤，框較窄長；日是方框。"
+      },
+      {
+        "char": "目",
+        "similarity": "都有直框和內橫",
+        "difference": "月共4畫；目共5畫，裡面有兩橫。"
+      },
+      {
+        "char": "用",
+        "similarity": "外框輪廓相近",
+        "difference": "月裡面兩短橫；用中間多一豎。"
+      },
+      {
+        "char": "朋",
+        "similarity": "左右都有月形",
+        "difference": "月是單一字；朋由兩個月形並列。"
+      },
+      {
+        "char": "明",
+        "similarity": "右邊完整是月",
+        "difference": "月是獨體字；明左邊多日。"
+      },
+      {
+        "char": "肉",
+        "similarity": "外框輪廓相近",
+        "difference": "月內部是兩短橫；肉內部有兩個人形筆畫。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。月共4畫，裡面兩橫不碰右邊外框。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

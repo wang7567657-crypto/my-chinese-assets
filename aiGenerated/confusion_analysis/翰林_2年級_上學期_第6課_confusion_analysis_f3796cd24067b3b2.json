@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_f3796cd24067b3b2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "奶",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "奶",
+    "groups": {
+      "shape": [
+        {
+          "char": "妞",
+          "why": "左邊都有女",
+          "difference": "奶右邊是乃；妞右邊是丑。"
+        },
+        {
+          "char": "她",
+          "why": "左邊都有女",
+          "difference": "奶右邊是乃；她右邊是也。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "乃",
+          "why": "同音，都是ㄋㄞˇ。",
+          "difference": "奶可指乳汁或親屬稱呼；乃是文言用字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "乳",
+          "why": "都和奶有關。",
+          "difference": "奶是日常用語，也用於奶奶；乳較常指乳汁、乳品。"
+        }
+      ],
+      "component": [
+        {
+          "char": "好",
+          "why": "左邊都有女",
+          "difference": "奶右邊是乃；好右邊是子。"
+        }
+      ]
+    },
+    "tip": "把「奶」放回課文語詞「奶奶」判斷，再檢查女與其餘部件。奶左邊女的橫畫要穿過撇；右邊乃只有兩畫。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

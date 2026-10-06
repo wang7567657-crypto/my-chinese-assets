@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第6課_memory_strategy_f0f0e7cd461c984b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "頭",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "頭",
+    "components": [
+      "豆",
+      "頁"
+    ],
+    "association": "右邊頁和人的頭部有關，左邊豆提醒完整字形。",
+    "mnemonic": "左豆右頁，頭上的頭。",
+    "visualPrompt": "以繁體標準字形清楚書寫「頭」，字形保持完整、不變形；在字旁畫出「右邊頁和人的頭部有關，左邊豆提醒完整字形。」的簡潔提示圖，圖像不可覆蓋或取代文字筆畫。",
+    "teachingTip": "頭左邊是豆、右邊是頁；不要寫成簡化字「头」。 這是記憶聯想，不代表字源。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第6課_similar_shape_f2a7156d22ea2c61",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "散",
+    "lessonChars": [
+      "月",
+      "奶",
+      "晚",
+      "飯",
+      "散",
+      "屋",
+      "竹",
+      "林",
+      "頭",
+      "溪",
+      "旁",
+      "暗",
+      "眼",
+      "睛",
+      "那",
+      "聚",
+      "成",
+      "顆",
+      "叢",
+      "盡"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "散",
+    "similarChars": [
+      {
+        "char": "撒",
+        "similarity": "右邊完整是散",
+        "difference": "散是獨立字；撒左邊多扌。"
+      },
+      {
+        "char": "敢",
+        "similarity": "右邊都有攵",
+        "difference": "散左部有月形；敢左部筆形不同。"
+      },
+      {
+        "char": "故",
+        "similarity": "右邊都有攵",
+        "difference": "散左部較複雜；故左邊是古。"
+      },
+      {
+        "char": "放",
+        "similarity": "右邊都有攵",
+        "difference": "散左部較複雜；放左邊是方。"
+      },
+      {
+        "char": "教",
+        "similarity": "右邊都有攵",
+        "difference": "散左部有月形；教左部是孝形。"
+      },
+      {
+        "char": "敬",
+        "similarity": "右邊都有攵",
+        "difference": "散左部有月形；敬左部是苟形。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。本課「散步」讀ㄙㄢˋ；右邊攵共4畫，不要寫成夂。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

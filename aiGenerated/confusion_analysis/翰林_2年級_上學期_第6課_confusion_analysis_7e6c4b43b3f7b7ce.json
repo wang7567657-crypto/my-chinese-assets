@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_7e6c4b43b3f7b7ce",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "飯",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "飯",
+    "groups": {
+      "shape": [
+        {
+          "char": "反",
+          "why": "飯的右邊完整是反",
+          "difference": "飯比反多左邊飠。"
+        },
+        {
+          "char": "返",
+          "why": "裡面都有反",
+          "difference": "飯左邊是飠；返外面是辶。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "犯",
+          "why": "同音，都是ㄈㄢˋ。",
+          "difference": "飯是食物或一餐；犯可指違反或犯錯。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "餐",
+          "why": "都可指一頓食物。",
+          "difference": "飯可指煮熟的米或一餐；餐著重一頓飲食。"
+        }
+      ],
+      "component": [
+        {
+          "char": "販",
+          "why": "右邊都有反",
+          "difference": "飯左邊是飠；販左邊是貝。"
+        }
+      ]
+    },
+    "tip": "把「飯」放回課文語詞「晚飯」判斷，再檢查飠與其餘部件。飯左邊是繁體食字旁飠，共8畫；不要寫成簡化字「饭」。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

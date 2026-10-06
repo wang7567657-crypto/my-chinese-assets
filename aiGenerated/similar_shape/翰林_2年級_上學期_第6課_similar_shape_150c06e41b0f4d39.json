@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第6課_similar_shape_150c06e41b0f4d39",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "盡",
+    "lessonChars": [
+      "月",
+      "奶",
+      "晚",
+      "飯",
+      "散",
+      "屋",
+      "竹",
+      "林",
+      "頭",
+      "溪",
+      "旁",
+      "暗",
+      "眼",
+      "睛",
+      "那",
+      "聚",
+      "成",
+      "顆",
+      "叢",
+      "盡"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "盡",
+    "similarChars": [
+      {
+        "char": "畫",
+        "similarity": "上半部筆形相近",
+        "difference": "盡下方是皿；畫中下方是田與一橫。"
+      },
+      {
+        "char": "晝",
+        "similarity": "上半部筆形相近",
+        "difference": "盡下方是皿；晝下方是日與一橫。"
+      },
+      {
+        "char": "書",
+        "similarity": "上半部都有聿形",
+        "difference": "盡下方是皿；書下方是日。"
+      },
+      {
+        "char": "津",
+        "similarity": "右邊有聿形部件",
+        "difference": "盡是上下結構；津左邊是氵。"
+      },
+      {
+        "char": "監",
+        "similarity": "下方都有皿",
+        "difference": "盡上方是盡形部件；監上方是臣、人形部件。"
+      },
+      {
+        "char": "盤",
+        "similarity": "下方都有皿",
+        "difference": "盡上方是盡形部件；盤上方是般。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。本課「盡頭」讀ㄐㄧㄣˋ；下方皿共5畫，不要寫成血。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_924f65fa0c2552ca",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "月",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "月",
+    "groups": {
+      "shape": [
+        {
+          "char": "日",
+          "why": "都有方框與內橫",
+          "difference": "月左撇、右邊彎鉤，框較窄長；日是方框。"
+        },
+        {
+          "char": "目",
+          "why": "都有直框和內橫",
+          "difference": "月共4畫；目共5畫，裡面有兩橫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "越",
+          "why": "同音，都是ㄩㄝˋ。",
+          "difference": "月是月份或月亮；越可表示跨過或程度加深。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "日",
+          "why": "都可表示時間單位。",
+          "difference": "月可指月份或月亮；日可指一天或太陽。"
+        }
+      ],
+      "component": [
+        {
+          "char": "用",
+          "why": "外框輪廓相近",
+          "difference": "月裡面兩短橫；用中間多一豎。"
+        }
+      ]
+    },
+    "tip": "把「月」放回課文語詞「月日」判斷，再檢查月與其餘部件。月共4畫，裡面兩橫不碰右邊外框。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

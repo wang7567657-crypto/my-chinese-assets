@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_f5107570dd91d23d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "叢",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "叢",
+    "groups": {
+      "shape": [
+        {
+          "char": "業",
+          "why": "叢的上方完整是業",
+          "difference": "叢比業多下方取。"
+        },
+        {
+          "char": "聚",
+          "why": "都有取形部件，整體筆畫密集",
+          "difference": "叢上方是業；聚上方是耳。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "從",
+          "why": "同音，都是ㄘㄨㄥˊ。",
+          "difference": "叢是一群聚生物；從可指跟隨或自某處開始。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "束",
+          "why": "都可描述聚在一起的事物。",
+          "difference": "叢多指草木等自然聚生；束指捆在一起，也可作量詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "最",
+          "why": "下方都有取",
+          "difference": "叢上方是業；最上方是日。"
+        }
+      ]
+    },
+    "tip": "把「叢」放回課文語詞「草叢」判斷，再檢查又與其餘部件。叢共18畫，下方最後兩筆是又，也是部首；不要寫成簡化字「丛」。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

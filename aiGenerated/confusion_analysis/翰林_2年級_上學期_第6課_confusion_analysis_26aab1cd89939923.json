@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_26aab1cd89939923",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "頭",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "頭",
+    "groups": {
+      "shape": [
+        {
+          "char": "項",
+          "why": "右邊都有頁",
+          "difference": "頭左邊是豆；項左邊是工。"
+        },
+        {
+          "char": "頂",
+          "why": "右邊都有頁",
+          "difference": "頭左邊是豆；頂左邊是丁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "投",
+          "why": "同音，都是ㄊㄡˊ。",
+          "difference": "頭是身體部位或前端；投可指投入、投擲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "首",
+          "why": "都可指頭或開始位置。",
+          "difference": "頭是日常常用語；首較書面，也可指第一或一首作品。"
+        }
+      ],
+      "component": [
+        {
+          "char": "顆",
+          "why": "右邊都有頁",
+          "difference": "頭左邊是豆；顆左邊是果。"
+        }
+      ]
+    },
+    "tip": "把「頭」放回課文語詞「盡頭」判斷，再檢查頁與其餘部件。頭左邊是豆、右邊是頁；不要寫成簡化字「头」。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

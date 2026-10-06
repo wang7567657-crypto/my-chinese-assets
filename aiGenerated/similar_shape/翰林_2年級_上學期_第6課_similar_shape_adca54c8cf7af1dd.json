@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第6課_similar_shape_adca54c8cf7af1dd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "睛",
+    "lessonChars": [
+      "月",
+      "奶",
+      "晚",
+      "飯",
+      "散",
+      "屋",
+      "竹",
+      "林",
+      "頭",
+      "溪",
+      "旁",
+      "暗",
+      "眼",
+      "睛",
+      "那",
+      "聚",
+      "成",
+      "顆",
+      "叢",
+      "盡"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "睛",
+    "similarChars": [
+      {
+        "char": "清",
+        "similarity": "右邊都有青",
+        "difference": "睛左邊是目；清左邊是氵。"
+      },
+      {
+        "char": "情",
+        "similarity": "右邊都有青",
+        "difference": "睛左邊是目；情左邊是忄。"
+      },
+      {
+        "char": "晴",
+        "similarity": "右邊都有青",
+        "difference": "睛左邊是目；晴左邊是日。"
+      },
+      {
+        "char": "請",
+        "similarity": "右邊都有青",
+        "difference": "睛左邊是目；請左邊是言。"
+      },
+      {
+        "char": "精",
+        "similarity": "右邊都有青",
+        "difference": "睛左邊是目；精左邊是米。"
+      },
+      {
+        "char": "青",
+        "similarity": "睛的右邊完整是青",
+        "difference": "睛比青多左邊目。"
+      }
+    ],
+    "teachingTip": "先看整體輪廓與共用部件，再逐筆找差異。睛通常和眼組成「眼睛」；右邊青下方是月形。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

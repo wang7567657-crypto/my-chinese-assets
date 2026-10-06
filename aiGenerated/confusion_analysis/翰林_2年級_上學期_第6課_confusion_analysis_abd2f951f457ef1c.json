@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_abd2f951f457ef1c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "成",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "成",
+    "groups": {
+      "shape": [
+        {
+          "char": "城",
+          "why": "右邊完整是成",
+          "difference": "成是獨體字；城左邊多土。"
+        },
+        {
+          "char": "誠",
+          "why": "右邊完整是成",
+          "difference": "成是獨體字；誠左邊多言。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "城",
+          "why": "同音，都是ㄔㄥˊ。",
+          "difference": "成是形成、完成；城是城市或城牆。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "完",
+          "why": "都能表示事情做好。",
+          "difference": "成可表示形成、成為或完成；完著重結束、完整。"
+        }
+      ],
+      "component": [
+        {
+          "char": "盛",
+          "why": "上方完整是成",
+          "difference": "成是獨體字；盛下方多皿。"
+        }
+      ]
+    },
+    "tip": "把「成」放回課文語詞「聚成」判斷，再檢查戈與其餘部件。成共6畫，戈部筆畫不是連續區間；斜鉤要舒展，最後點不能漏。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

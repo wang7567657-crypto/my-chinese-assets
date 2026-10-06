@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_5067d447821ea5d1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "那",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "那",
+    "groups": {
+      "shape": [
+        {
+          "char": "哪",
+          "why": "右邊完整是那",
+          "difference": "那是獨立字；哪左邊多口。"
+        },
+        {
+          "char": "娜",
+          "why": "右邊完整是那",
+          "difference": "那是獨立字；娜左邊多女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "納",
+          "why": "同音，都是ㄋㄚˋ。",
+          "difference": "那用來指較遠的人事物；納可指收進、接納。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "這",
+          "why": "都是指示詞。",
+          "difference": "那指較遠或已提到的人事物；這指較近的人事物。"
+        }
+      ],
+      "component": [
+        {
+          "char": "挪",
+          "why": "右邊完整是那",
+          "difference": "那是獨立字；挪左邊多扌。"
+        }
+      ]
+    },
+    "tip": "把「那」放回課文語詞「那邊」判斷，再檢查阝與其餘部件。本課「那邊」的那讀ㄋㄚˋ；右邊阝是邑部，不是左阝。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}

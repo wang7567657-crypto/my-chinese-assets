@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第6課_confusion_analysis_e8568c5c8898aff7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "聚",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "聚",
+    "groups": {
+      "shape": [
+        {
+          "char": "取",
+          "why": "聚的上方有取形",
+          "difference": "聚比取多下方聚形部件。"
+        },
+        {
+          "char": "趣",
+          "why": "右邊含取",
+          "difference": "聚是上下結構；趣左邊多走。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "劇",
+          "why": "同音，都是ㄐㄩˋ。",
+          "difference": "聚是集合；劇可指戲劇或劇烈。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "集",
+          "why": "都有集合在一起的意思。",
+          "difference": "聚著重從分散到集中；集也可作集合、集市或冊數。"
+        }
+      ],
+      "component": [
+        {
+          "char": "娶",
+          "why": "上方完整是取",
+          "difference": "聚下方是聚形部件；娶下方是女。"
+        }
+      ]
+    },
+    "tip": "把「聚」放回課文語詞「聚成」判斷，再檢查耳與其餘部件。聚共14畫，上方耳的末橫變提；下方筆畫要分清，不要寫成眾。"
+  },
+  "createdAt": "2026-10-06T12:04:21.197Z"
+}
