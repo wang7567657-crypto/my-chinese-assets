@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_9435f8a7e4e8b42f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "郊",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "郊",
+    "similarChars": [
+      {
+        "char": "交",
+        "similarity": "郊的左邊完整是交",
+        "difference": "郊比交多右邊阝。"
+      },
+      {
+        "char": "校",
+        "similarity": "右邊都有交",
+        "difference": "郊右邊是阝；校左邊是木。"
+      },
+      {
+        "char": "較",
+        "similarity": "右邊都有交",
+        "difference": "郊右邊是阝；較左邊是車。"
+      },
+      {
+        "char": "效",
+        "similarity": "左邊都有交",
+        "difference": "郊右邊是阝；效右邊是攵。"
+      },
+      {
+        "char": "咬",
+        "similarity": "右邊都有交",
+        "difference": "郊右邊是阝；咬左邊是口。"
+      },
+      {
+        "char": "狡",
+        "similarity": "右邊都有交",
+        "difference": "郊右邊是阝；狡左邊是犭。"
+      }
+    ],
+    "teachingTip": "郊右邊阝是邑部，共3畫；不要和左阝的阜部混淆。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

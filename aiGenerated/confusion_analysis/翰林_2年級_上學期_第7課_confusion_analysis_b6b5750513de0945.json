@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第7課_confusion_analysis_b6b5750513de0945",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "艾",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "艾",
+    "groups": {
+      "shape": [
+        {
+          "char": "文",
+          "why": "下方交叉輪廓相近",
+          "difference": "艾上方多艹、下方是乂；文上方有點橫。"
+        },
+        {
+          "char": "父",
+          "why": "都有交叉撇捺",
+          "difference": "艾上方有艹；父上方有撇點。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "愛",
+          "why": "同音，都是ㄞˋ。",
+          "difference": "艾在本課指艾草；愛表示喜愛。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "草",
+          "why": "艾是一種草本植物。",
+          "difference": "艾專指艾草等用法；草是植物的泛稱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "文",
+          "why": "部件比較：下方交叉輪廓相近",
+          "difference": "艾上方多艹、下方是乂；文上方有點橫。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「艾粄」，再依字形與句意選字。艾在本課「艾粄」讀ㄞˋ；依本字資料草字頭為前4筆，下方乂為2筆。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

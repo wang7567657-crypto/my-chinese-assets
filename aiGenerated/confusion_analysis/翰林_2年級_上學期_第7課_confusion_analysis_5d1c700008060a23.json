@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第7課_confusion_analysis_5d1c700008060a23",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "節",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "節",
+    "groups": {
+      "shape": [
+        {
+          "char": "即",
+          "why": "節的下方有即形",
+          "difference": "節比即多上方竹字頭，且下部筆形隨位置調整。"
+        },
+        {
+          "char": "櫛",
+          "why": "右邊含節形",
+          "difference": "節是上下結構；櫛左邊多木，且是較少見字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "結",
+          "why": "同音，節日的節與打結的結都讀ㄐㄧㄝˊ。",
+          "difference": "節可指節日或段落；結可指連接、打結。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "日",
+          "why": "節在節日中表示有紀念意義的日子。",
+          "difference": "節可指節日、節段；日是一般的一天。"
+        }
+      ],
+      "component": [
+        {
+          "char": "即",
+          "why": "部件比較：節的下方有即形",
+          "difference": "節比即多上方竹字頭，且下部筆形隨位置調整。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「清明節」，再依字形與句意選字。節上方竹字頭共6畫；下方右側是卩形，不要寫成阝。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

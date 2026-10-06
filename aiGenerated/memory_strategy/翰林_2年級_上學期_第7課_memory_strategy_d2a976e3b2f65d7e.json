@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第7課_memory_strategy_d2a976e3b2f65d7e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "粄",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "粄",
+    "components": [
+      "米",
+      "反"
+    ],
+    "association": "左邊米表示米食，右邊反提醒客家米食艾粄的字形。",
+    "mnemonic": "左米右反，艾粄的粄。",
+    "visualPrompt": "保留標準繁體「粄」完整字形，在字旁另畫「艾粄」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "粄讀ㄅㄢˇ，是客家米食用字；左邊米作偏旁時右捺收成點。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第7課_confusion_analysis_da80e2c595a9aff6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "便",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "便",
+    "groups": {
+      "shape": [
+        {
+          "char": "更",
+          "why": "便的右邊完整是更",
+          "difference": "便比更多左邊亻。"
+        },
+        {
+          "char": "硬",
+          "why": "右邊都有更",
+          "difference": "便左邊是亻；硬左邊是石。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "遍",
+          "why": "同音，便當的便與遍都讀ㄅㄧㄢˋ。",
+          "difference": "便在便當中是詞的一部分；遍表示次數或範圍。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "利",
+          "why": "都可出現在方便、便利等詞。",
+          "difference": "便可表示方便，也出現在便當；利可表示有益、順利。"
+        }
+      ],
+      "component": [
+        {
+          "char": "更",
+          "why": "部件比較：便的右邊完整是更",
+          "difference": "便比更多左邊亻。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「便當」，再依字形與句意選字。本課「便當」的便讀ㄅㄧㄢˋ；右邊更中間的日形要寫清楚。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

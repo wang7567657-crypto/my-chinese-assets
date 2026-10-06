@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第7課_confusion_analysis_604b99fd2ec0dd3c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "奇",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "奇",
+    "groups": {
+      "shape": [
+        {
+          "char": "可",
+          "why": "奇的下方完整是可",
+          "difference": "奇比可多上方大。"
+        },
+        {
+          "char": "椅",
+          "why": "右邊完整是奇",
+          "difference": "奇是上下結構；椅左邊多木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "其",
+          "why": "同音，都是ㄑㄧˊ。",
+          "difference": "奇表示特別、新奇；其是代詞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "怪",
+          "why": "都可形容不平常。",
+          "difference": "奇也可表示新鮮巧妙；怪常帶有不尋常或疑惑感。"
+        }
+      ],
+      "component": [
+        {
+          "char": "可",
+          "why": "部件比較：奇的下方完整是可",
+          "difference": "奇比可多上方大。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「奇妙」，再依字形與句意選字。奇上方大要收小，下面可是橫、口、豎鉤的組合。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

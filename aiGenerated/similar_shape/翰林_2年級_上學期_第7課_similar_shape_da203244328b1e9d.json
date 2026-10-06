@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_da203244328b1e9d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "平",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "平",
+    "similarChars": [
+      {
+        "char": "干",
+        "similarity": "平含有干形主幹",
+        "difference": "平比干多左右兩點。"
+      },
+      {
+        "char": "乎",
+        "similarity": "中間都有長豎與橫畫",
+        "difference": "平左右是兩點；乎上方有撇、下方帶鉤。"
+      },
+      {
+        "char": "半",
+        "similarity": "都有兩點、兩橫與中豎",
+        "difference": "平的長橫在中間；半的長橫較下，中豎不帶鉤。"
+      },
+      {
+        "char": "羊",
+        "similarity": "都有兩點與多條橫畫",
+        "difference": "平共5畫；羊多一橫且下方豎較長。"
+      },
+      {
+        "char": "年",
+        "similarity": "都有中豎穿橫的輪廓",
+        "difference": "平有左右兩點；年上方有撇並多一橫。"
+      },
+      {
+        "char": "幸",
+        "similarity": "都有上下橫與中豎",
+        "difference": "平是獨體5畫；幸上下結構、筆畫更多。"
+      }
+    ],
+    "teachingTip": "平共5畫，部首干的筆畫不是連續區間；左右兩點方向不同。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

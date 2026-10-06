@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第7課_confusion_analysis_87b9406298d89219",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "捲",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "捲",
+    "groups": {
+      "shape": [
+        {
+          "char": "卷",
+          "why": "捲的右邊完整是卷",
+          "difference": "捲比卷多左邊扌。"
+        },
+        {
+          "char": "圈",
+          "why": "裡面含卷",
+          "difference": "捲左邊是扌；圈外面是囗。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "卷",
+          "why": "同音，本課春捲的捲與卷讀ㄐㄩㄢˇ。",
+          "difference": "捲有手部動作義，也用於春捲；卷可指卷冊或捲起。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "包",
+          "why": "都可表示把物品裹起來。",
+          "difference": "捲強調旋轉、捲裹；包強調包覆或容納。"
+        }
+      ],
+      "component": [
+        {
+          "char": "卷",
+          "why": "部件比較：捲的右邊完整是卷",
+          "difference": "捲比卷多左邊扌。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「春捲」，再依字形與句意選字。本課「春捲」的捲讀ㄐㄩㄢˇ；右邊是卷，下方不要寫成己。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

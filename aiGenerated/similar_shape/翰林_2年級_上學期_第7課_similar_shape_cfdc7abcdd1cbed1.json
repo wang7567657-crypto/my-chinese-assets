@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_cfdc7abcdd1cbed1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "味",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "味",
+    "similarChars": [
+      {
+        "char": "未",
+        "similarity": "味的右邊完整是未",
+        "difference": "味比未多左邊口。"
+      },
+      {
+        "char": "妹",
+        "similarity": "右邊都有未",
+        "difference": "味左邊是口；妹左邊是女。"
+      },
+      {
+        "char": "昧",
+        "similarity": "右邊都有未",
+        "difference": "味左邊是口；昧左邊是日。"
+      },
+      {
+        "char": "末",
+        "similarity": "整體筆畫相近",
+        "difference": "味右邊未的上橫短；末的上橫長，且沒有口。"
+      },
+      {
+        "char": "沫",
+        "similarity": "右邊是末，輪廓相近",
+        "difference": "味左邊口、右邊未；沫左邊氵、右邊末。"
+      },
+      {
+        "char": "咪",
+        "similarity": "左邊都有口",
+        "difference": "味右邊是未；咪右邊是米。"
+      }
+    ],
+    "teachingTip": "味右邊是未，上橫較短、下橫較長；不要寫成末。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

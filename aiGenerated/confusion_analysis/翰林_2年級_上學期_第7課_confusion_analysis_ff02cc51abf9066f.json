@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第7課_confusion_analysis_ff02cc51abf9066f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "當",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "當",
+    "groups": {
+      "shape": [
+        {
+          "char": "擋",
+          "why": "右邊完整是當",
+          "difference": "當是上下結構；擋左邊多扌。"
+        },
+        {
+          "char": "檔",
+          "why": "右邊完整是當",
+          "difference": "當是上下結構；檔左邊多木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "噹",
+          "why": "同音，都是ㄉㄤ。",
+          "difference": "當可表示應當或出現在便當；噹是聲音詞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "應",
+          "why": "當讀ㄉㄤ時可表示應該。",
+          "difference": "本課當在便當一詞中，不是應該的意思；應才表示應該。"
+        }
+      ],
+      "component": [
+        {
+          "char": "擋",
+          "why": "部件比較：右邊完整是當",
+          "difference": "當是上下結構；擋左邊多扌。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「便當」，再依字形與句意選字。本課「便當」的當讀ㄉㄤ；下方田共5畫，不要寫成口。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

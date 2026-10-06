@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_91593152bed710c0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "食",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "食",
+    "similarChars": [
+      {
+        "char": "良",
+        "similarity": "下半輪廓相近",
+        "difference": "食上方多人字頭；良上方是一點。"
+      },
+      {
+        "char": "養",
+        "similarity": "下方含食形",
+        "difference": "食是獨體字；養上方多羊形。"
+      },
+      {
+        "char": "餐",
+        "similarity": "下方含食",
+        "difference": "食是獨體字；餐上方多歺、又等部件。"
+      },
+      {
+        "char": "飢",
+        "similarity": "左邊是食字旁飠",
+        "difference": "食是完整獨體字；飢右邊多几。"
+      },
+      {
+        "char": "飯",
+        "similarity": "左邊是食字旁飠",
+        "difference": "食是完整獨體字；飯右邊多反。"
+      },
+      {
+        "char": "飲",
+        "similarity": "左邊是食字旁飠",
+        "difference": "食是完整獨體字；飲右邊多欠。"
+      }
+    ],
+    "teachingTip": "食共9畫，下方不要多一點寫成良；作偏旁時常變成飠。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

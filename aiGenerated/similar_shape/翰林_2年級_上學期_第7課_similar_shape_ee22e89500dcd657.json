@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_ee22e89500dcd657",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "清",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "清",
+    "similarChars": [
+      {
+        "char": "青",
+        "similarity": "清的右邊完整是青",
+        "difference": "清比青多左邊氵。"
+      },
+      {
+        "char": "晴",
+        "similarity": "右邊都有青",
+        "difference": "清左邊是氵；晴左邊是日。"
+      },
+      {
+        "char": "情",
+        "similarity": "右邊都有青",
+        "difference": "清左邊是氵；情左邊是忄。"
+      },
+      {
+        "char": "請",
+        "similarity": "右邊都有青",
+        "difference": "清左邊是氵；請左邊是言。"
+      },
+      {
+        "char": "睛",
+        "similarity": "右邊都有青",
+        "difference": "清左邊是氵；睛左邊是目。"
+      },
+      {
+        "char": "精",
+        "similarity": "右邊都有青",
+        "difference": "清左邊是氵；精左邊是米。"
+      }
+    ],
+    "teachingTip": "清右邊青下方是月形；不要和晴、情、請混淆。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

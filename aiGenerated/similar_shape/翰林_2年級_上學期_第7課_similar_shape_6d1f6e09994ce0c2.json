@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_6d1f6e09994ce0c2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "客",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "客",
+    "similarChars": [
+      {
+        "char": "各",
+        "similarity": "客的下方完整是各",
+        "difference": "客比各多上方宀。"
+      },
+      {
+        "char": "格",
+        "similarity": "右邊都有各",
+        "difference": "客上方是宀；格左邊是木。"
+      },
+      {
+        "char": "路",
+        "similarity": "右邊都有各",
+        "difference": "客上方是宀；路左邊是足。"
+      },
+      {
+        "char": "落",
+        "similarity": "下方含各形",
+        "difference": "客上方是宀；落上方是艹、左下有氵。"
+      },
+      {
+        "char": "額",
+        "similarity": "左邊完整是客",
+        "difference": "客是獨立字；額右邊多頁。"
+      },
+      {
+        "char": "容",
+        "similarity": "上方都有宀，整體輪廓相近",
+        "difference": "客下方是各；容下方是谷。"
+      }
+    ],
+    "teachingTip": "客上方宀共3畫；下方各由夂和口組成。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

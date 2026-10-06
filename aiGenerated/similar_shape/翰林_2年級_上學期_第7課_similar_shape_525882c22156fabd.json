@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_525882c22156fabd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "樣",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "樣",
+    "similarChars": [
+      {
+        "char": "洋",
+        "similarity": "右部上方都有羊形",
+        "difference": "樣左邊是木且右下有水形；洋左邊是氵。"
+      },
+      {
+        "char": "漾",
+        "similarity": "右邊都有羕",
+        "difference": "樣左邊是木；漾左邊是氵。"
+      },
+      {
+        "char": "養",
+        "similarity": "上方都有羊形",
+        "difference": "樣是左右結構；養是上下結構，下方是食形。"
+      },
+      {
+        "char": "祥",
+        "similarity": "右邊都有羊形",
+        "difference": "樣左邊是木、右下有水形；祥左邊是礻。"
+      },
+      {
+        "char": "詳",
+        "similarity": "右邊都有羊形",
+        "difference": "樣左邊是木、右下有水形；詳左邊是言。"
+      },
+      {
+        "char": "橡",
+        "similarity": "左邊都有木",
+        "difference": "樣右邊是羕；橡右邊是象。"
+      }
+    ],
+    "teachingTip": "樣左邊木的捺要收成點；右邊是羕，不要漏掉下方水形筆畫。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

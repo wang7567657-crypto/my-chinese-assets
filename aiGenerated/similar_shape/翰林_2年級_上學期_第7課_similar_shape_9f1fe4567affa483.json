@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_9f1fe4567affa483",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "奇",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "奇",
+    "similarChars": [
+      {
+        "char": "可",
+        "similarity": "奇的下方完整是可",
+        "difference": "奇比可多上方大。"
+      },
+      {
+        "char": "椅",
+        "similarity": "右邊完整是奇",
+        "difference": "奇是上下結構；椅左邊多木。"
+      },
+      {
+        "char": "騎",
+        "similarity": "右邊完整是奇",
+        "difference": "奇是上下結構；騎左邊多馬。"
+      },
+      {
+        "char": "崎",
+        "similarity": "右邊完整是奇",
+        "difference": "奇是上下結構；崎左邊多山。"
+      },
+      {
+        "char": "寄",
+        "similarity": "下方完整是奇",
+        "difference": "奇是上下結構；寄上方多宀。"
+      },
+      {
+        "char": "倚",
+        "similarity": "右邊完整是奇",
+        "difference": "奇是上下結構；倚左邊多亻。"
+      }
+    ],
+    "teachingTip": "奇上方大要收小，下面可是橫、口、豎鉤的組合。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

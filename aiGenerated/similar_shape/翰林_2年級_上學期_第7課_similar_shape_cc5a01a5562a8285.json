@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_cc5a01a5562a8285",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "南",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "南",
+    "similarChars": [
+      {
+        "char": "喃",
+        "similarity": "右邊完整是南",
+        "difference": "南是獨體字；喃左邊多口。"
+      },
+      {
+        "char": "楠",
+        "similarity": "右邊完整是南",
+        "difference": "南是獨體字；楠左邊多木。"
+      },
+      {
+        "char": "腩",
+        "similarity": "右邊完整是南",
+        "difference": "南是獨體字；腩左邊多月。"
+      },
+      {
+        "char": "湳",
+        "similarity": "右邊完整是南",
+        "difference": "南是獨體字；湳左邊多氵，且是較少見字。"
+      },
+      {
+        "char": "幸",
+        "similarity": "中下部都有兩點一橫一豎",
+        "difference": "南有外框；幸沒有外框，上方是土形。"
+      },
+      {
+        "char": "再",
+        "similarity": "都有外框與中豎",
+        "difference": "南框內有兩點與橫；再框內筆形較簡。"
+      }
+    ],
+    "teachingTip": "南共9畫，外框內的兩點與橫豎要分清；部首十是前2筆。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

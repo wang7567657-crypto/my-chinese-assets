@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第7課_similar_shape_0b92d29c93c195fc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "活",
+    "lessonChars": [
+      "樣",
+      "食",
+      "郊",
+      "活",
+      "奇",
+      "筒",
+      "香",
+      "味",
+      "便",
+      "當",
+      "盒",
+      "客",
+      "清",
+      "節",
+      "保",
+      "平",
+      "安",
+      "南",
+      "祖",
+      "艾",
+      "粄",
+      "捲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "活",
+    "similarChars": [
+      {
+        "char": "話",
+        "similarity": "右邊都有舌",
+        "difference": "活左邊是氵；話左邊是言。"
+      },
+      {
+        "char": "括",
+        "similarity": "右邊都有舌",
+        "difference": "活左邊是氵；括左邊是扌。"
+      },
+      {
+        "char": "刮",
+        "similarity": "左邊都有舌",
+        "difference": "活左邊是氵；刮右邊是刂。"
+      },
+      {
+        "char": "甜",
+        "similarity": "左邊都有舌",
+        "difference": "活左邊是氵；甜右邊是甘。"
+      },
+      {
+        "char": "舌",
+        "similarity": "活的右邊完整是舌",
+        "difference": "活比舌多左邊氵。"
+      },
+      {
+        "char": "浩",
+        "similarity": "左邊都有氵，右部輪廓相近",
+        "difference": "活右邊是舌；浩右邊是告。"
+      }
+    ],
+    "teachingTip": "活右邊是舌，上方第一筆是撇；不要寫成話的言字旁。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}

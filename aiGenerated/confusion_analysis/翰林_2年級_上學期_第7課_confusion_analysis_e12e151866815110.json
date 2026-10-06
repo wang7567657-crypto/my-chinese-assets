@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第7課_confusion_analysis_e12e151866815110",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "樣",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "樣",
+    "groups": {
+      "shape": [
+        {
+          "char": "洋",
+          "why": "右部上方都有羊形",
+          "difference": "樣左邊是木且右下有水形；洋左邊是氵。"
+        },
+        {
+          "char": "漾",
+          "why": "右邊都有羕",
+          "difference": "樣左邊是木；漾左邊是氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "漾",
+          "why": "同音，都是ㄧㄤˋ。",
+          "difference": "樣表示形狀或種類；漾表示水面波動。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "種",
+          "why": "都可表示類別。",
+          "difference": "樣可指樣子或種類；種也可指種類，還可指種植。"
+        }
+      ],
+      "component": [
+        {
+          "char": "洋",
+          "why": "部件比較：右部上方都有羊形",
+          "difference": "樣左邊是木且右下有水形；洋左邊是氵。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「不一樣」，再依字形與句意選字。樣左邊木的捺要收成點；右邊是羕，不要漏掉下方水形筆畫。"
+  },
+  "createdAt": "2026-10-06T13:07:38.527Z"
+}
