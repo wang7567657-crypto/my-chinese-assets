@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第3課_similar_shape_a0335c7966855db8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "喜",
+    "lessonChars": [
+      "國",
+      "王",
+      "喜",
+      "歡",
+      "穿",
+      "只",
+      "件",
+      "點",
+      "改",
+      "領",
+      "越",
+      "設",
+      "計",
+      "發",
+      "方",
+      "法",
+      "分",
+      "享",
+      "臣",
+      "袖",
+      "驚",
+      "讓"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "喜",
+    "similarChars": [
+      {
+        "char": "嘉",
+        "similarity": "上半部含有喜的主要輪廓",
+        "difference": "嘉比喜下方多加部件，筆畫更多。"
+      },
+      {
+        "char": "嘻",
+        "similarity": "右邊完整是喜",
+        "difference": "嘻左邊多一個口；喜本身沒有左口。"
+      },
+      {
+        "char": "禧",
+        "similarity": "右邊完整是喜",
+        "difference": "禧左邊多礻；喜沒有礻。"
+      },
+      {
+        "char": "熹",
+        "similarity": "上半部完整是喜",
+        "difference": "熹下方多四點火灬；喜沒有灬。"
+      },
+      {
+        "char": "囍",
+        "similarity": "由兩個喜並排構成，輪廓加寬",
+        "difference": "囍是喜的雙寫合字，常見於婚慶；單寫喜只有一個。"
+      },
+      {
+        "char": "鼓",
+        "similarity": "左側上方與喜的上半輪廓相近",
+        "difference": "鼓右邊多支；喜下方是口。"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再圈出不同筆畫；回到本課語詞「驚喜」確認用字。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

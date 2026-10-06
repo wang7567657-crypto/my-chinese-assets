@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第3課_confusion_analysis_a391026e503cca8a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "設",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "設",
+    "groups": {
+      "shape": [
+        {
+          "char": "股",
+          "why": "右邊都有殳",
+          "difference": "設左邊是言；股左邊是月。"
+        },
+        {
+          "char": "役",
+          "why": "右邊都有殳",
+          "difference": "設左邊是言；役左邊是彳。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "社",
+          "why": "同音比較：設和社都讀ㄕㄜˋ。",
+          "difference": "設可指設置或設計；社可指社團、社會。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "規劃",
+          "why": "設計是先想好樣式與做法。",
+          "difference": "設計不只是畫圖，也包含安排功能與步驟。"
+        }
+      ],
+      "component": [
+        {
+          "char": "股",
+          "why": "部件比較：右邊都有殳",
+          "difference": "設左邊是言；股左邊是月。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「設計」，再依字形、讀音與句意選字。右邊上方不是幾，末端是又形；左邊言要寫窄。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第3課_confusion_analysis_a54e2526987db664",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "改",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "改",
+    "groups": {
+      "shape": [
+        {
+          "char": "放",
+          "why": "右邊都有攵",
+          "difference": "改左邊是己；放左邊是方。"
+        },
+        {
+          "char": "故",
+          "why": "右邊都有攵",
+          "difference": "改左邊是己；故左邊是古。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "海",
+          "why": "近音比較：改讀ㄍㄞˇ，海讀ㄏㄞˇ，韻母聲調相同、聲母不同。",
+          "difference": "改表示改變；海是大片鹹水水域。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "改變",
+          "why": "改是把原來的情況變得不一樣。",
+          "difference": "改著重變動；做是進行某項事情。"
+        }
+      ],
+      "component": [
+        {
+          "char": "放",
+          "why": "部件比較：右邊都有攵",
+          "difference": "改左邊是己；放左邊是方。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「改袖子」，再依字形、讀音與句意選字。右邊攵共四畫；左邊己的豎彎鉤不要寫成已。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

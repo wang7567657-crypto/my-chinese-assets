@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第3課_confusion_analysis_15c252d607e9e86b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "點",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "點",
+    "groups": {
+      "shape": [
+        {
+          "char": "黏",
+          "why": "左邊都有黍黑色密集輪廓，右邊都有占",
+          "difference": "點左邊是黑；黏左邊是黍。"
+        },
+        {
+          "char": "貼",
+          "why": "右邊都有占",
+          "difference": "點左邊是黑；貼左邊是貝。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "典",
+          "why": "同音比較：點和典都讀ㄉㄧㄢˇ。",
+          "difference": "點可表示小記號或少量；典可指典籍、典禮。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "少量",
+          "why": "「一點」可表示很少的數量或程度。",
+          "difference": "點也可表示記號；滴常用於液體的小滴。"
+        }
+      ],
+      "component": [
+        {
+          "char": "黏",
+          "why": "部件比較：左邊都有黍黑色密集輪廓，右邊都有占",
+          "difference": "點左邊是黑；黏左邊是黍。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「一點」，再依字形、讀音與句意選字。左邊黑的四點要寫完整；右邊是占，不是店。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第3課_similar_shape_d9a2c16d56c23fdc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "臣",
+    "lessonChars": [
+      "國",
+      "王",
+      "喜",
+      "歡",
+      "穿",
+      "只",
+      "件",
+      "點",
+      "改",
+      "領",
+      "越",
+      "設",
+      "計",
+      "發",
+      "方",
+      "法",
+      "分",
+      "享",
+      "臣",
+      "袖",
+      "驚",
+      "讓"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "臣",
+    "similarChars": [
+      {
+        "char": "巨",
+        "similarity": "都有方框形外輪廓，右側留口",
+        "difference": "臣內部多兩短豎；巨內部是一橫折。"
+      },
+      {
+        "char": "區",
+        "similarity": "都有匚形外框和密集內部",
+        "difference": "臣是獨體字；區裡面有品形部件。"
+      },
+      {
+        "char": "臥",
+        "similarity": "左邊完整含臣",
+        "difference": "臥比臣多右邊人。"
+      },
+      {
+        "char": "藏",
+        "similarity": "字中含有臣形部件",
+        "difference": "藏外面還有艹、爿和戈形，筆畫更多。"
+      },
+      {
+        "char": "覽",
+        "similarity": "上方含臣形部件",
+        "difference": "覽下方多見；臣本身只有六畫。"
+      },
+      {
+        "char": "宦",
+        "similarity": "下方完整含臣",
+        "difference": "宦比臣多上面的宀。"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再圈出不同筆畫；回到本課語詞「大臣」確認用字。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

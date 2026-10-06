@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第3課_similar_shape_6780c5c6e18a53c5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "歡",
+    "lessonChars": [
+      "國",
+      "王",
+      "喜",
+      "歡",
+      "穿",
+      "只",
+      "件",
+      "點",
+      "改",
+      "領",
+      "越",
+      "設",
+      "計",
+      "發",
+      "方",
+      "法",
+      "分",
+      "享",
+      "臣",
+      "袖",
+      "驚",
+      "讓"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "歡",
+    "similarChars": [
+      {
+        "char": "觀",
+        "similarity": "左邊同樣有雚形部件",
+        "difference": "歡右邊是欠；觀右邊是見。"
+      },
+      {
+        "char": "灌",
+        "similarity": "右邊同樣有雚形部件",
+        "difference": "灌左邊多氵；歡右邊是欠。"
+      },
+      {
+        "char": "罐",
+        "similarity": "右邊同樣有雚形部件",
+        "difference": "罐左邊是缶；歡右邊是欠。"
+      },
+      {
+        "char": "權",
+        "similarity": "右邊同樣有雚形部件",
+        "difference": "權左邊是木；歡右邊是欠。"
+      },
+      {
+        "char": "勸",
+        "similarity": "左邊同樣有雚形部件",
+        "difference": "勸右邊是力；歡右邊是欠。"
+      },
+      {
+        "char": "獾",
+        "similarity": "右邊同樣有雚形部件",
+        "difference": "獾左邊是犭，指一種動物；歡右邊是欠。"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再圈出不同筆畫；回到本課語詞「喜歡」確認用字。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

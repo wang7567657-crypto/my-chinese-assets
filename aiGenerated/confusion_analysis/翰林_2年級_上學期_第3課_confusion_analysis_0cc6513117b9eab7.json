@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第3課_confusion_analysis_0cc6513117b9eab7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "分",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "分",
+    "groups": {
+      "shape": [
+        {
+          "char": "切",
+          "why": "右下都有刀形部件",
+          "difference": "分上方是八；切左邊是七。"
+        },
+        {
+          "char": "芬",
+          "why": "下方完整是分",
+          "difference": "芬比分多上面的艹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "芬",
+          "why": "同音比較：分享的分和芬都讀ㄈㄣ。",
+          "difference": "分在分享中表示給出一部分；芬常與香氣有關。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "分享",
+          "why": "分享是把自己的東西、想法或快樂和別人一起擁有。",
+          "difference": "分也可讀ㄈㄣˋ，如分量；本課讀ㄈㄣ。"
+        }
+      ],
+      "component": [
+        {
+          "char": "切",
+          "why": "部件比較：右下都有刀形部件",
+          "difference": "分上方是八；切左邊是七。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「分享」，再依字形、讀音與句意選字。本課「分享」讀ㄈㄣ；上方撇捺要分開，不要碰在一起。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

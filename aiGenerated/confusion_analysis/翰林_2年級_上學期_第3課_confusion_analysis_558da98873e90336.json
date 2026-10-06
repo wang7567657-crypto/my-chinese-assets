@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第3課_confusion_analysis_558da98873e90336",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "發",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "發",
+    "groups": {
+      "shape": [
+        {
+          "char": "癸",
+          "why": "上方都有癶",
+          "difference": "發下方有弓和殳形；癸下方是天。"
+        },
+        {
+          "char": "登",
+          "why": "上方都有癶",
+          "difference": "發下方有弓殳；登下方是豆。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "髮",
+          "why": "近音比較：發現的發讀ㄈㄚ；頭髮的髮讀ㄈㄚˇ，聲調不同。",
+          "difference": "發現用發；頭髮用髮。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "發現",
+          "why": "發現是看到或知道原來沒有注意到的事情。",
+          "difference": "發也可表示出發、發出；要依語境判斷。"
+        }
+      ],
+      "component": [
+        {
+          "char": "癸",
+          "why": "部件比較：上方都有癶",
+          "difference": "發下方有弓和殳形；癸下方是天。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「發現」，再依字形、讀音與句意選字。本課「發現」讀ㄈㄚ；不要誤寫成頭髮的髮。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

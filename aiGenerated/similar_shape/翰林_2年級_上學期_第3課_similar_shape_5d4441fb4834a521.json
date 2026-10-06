@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第3課_similar_shape_5d4441fb4834a521",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "件",
+    "lessonChars": [
+      "國",
+      "王",
+      "喜",
+      "歡",
+      "穿",
+      "只",
+      "件",
+      "點",
+      "改",
+      "領",
+      "越",
+      "設",
+      "計",
+      "發",
+      "方",
+      "法",
+      "分",
+      "享",
+      "臣",
+      "袖",
+      "驚",
+      "讓"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "件",
+    "similarChars": [
+      {
+        "char": "伴",
+        "similarity": "左邊都有亻，右部輪廓相近",
+        "difference": "件右邊是牛；伴右邊是半。"
+      },
+      {
+        "char": "任",
+        "similarity": "左邊都有亻",
+        "difference": "件右邊是牛；任右邊是壬。"
+      },
+      {
+        "char": "住",
+        "similarity": "左邊都有亻",
+        "difference": "件右邊是牛；住右邊是主。"
+      },
+      {
+        "char": "休",
+        "similarity": "左邊都有亻",
+        "difference": "件右邊是牛；休右邊是木。"
+      },
+      {
+        "char": "佯",
+        "similarity": "左邊都有亻，右側都有直豎與橫畫",
+        "difference": "件右邊是牛；佯右邊是羊。"
+      },
+      {
+        "char": "牛",
+        "similarity": "件的右邊完整是牛",
+        "difference": "件比牛多左側亻。"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再圈出不同筆畫；回到本課語詞「一件新衣」確認用字。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

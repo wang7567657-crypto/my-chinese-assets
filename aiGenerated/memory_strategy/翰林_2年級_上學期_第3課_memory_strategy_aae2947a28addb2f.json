@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第3課_memory_strategy_aae2947a28addb2f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "袖",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "袖",
+    "components": [
+      "衤",
+      "由"
+    ],
+    "association": "衣字旁加由，想到衣服兩側伸出的袖子。",
+    "mnemonic": "左衤右由，衣服袖子的袖。",
+    "visualPrompt": "以標準楷體清楚呈現「袖」，字形完整不變形；在字旁放置與「袖子」情境相符的小圖，圖與字分開，不覆蓋筆畫。",
+    "teachingTip": "左邊是衤共五畫，不要少一點寫成礻。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

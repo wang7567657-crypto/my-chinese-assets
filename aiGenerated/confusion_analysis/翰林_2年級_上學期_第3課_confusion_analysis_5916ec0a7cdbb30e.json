@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第3課_confusion_analysis_5916ec0a7cdbb30e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "件",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "件",
+    "groups": {
+      "shape": [
+        {
+          "char": "伴",
+          "why": "左邊都有亻，右部輪廓相近",
+          "difference": "件右邊是牛；伴右邊是半。"
+        },
+        {
+          "char": "任",
+          "why": "左邊都有亻",
+          "difference": "件右邊是牛；任右邊是壬。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "見",
+          "why": "同音比較：件和見都讀ㄐㄧㄢˋ。",
+          "difference": "件是量詞或物件；見表示看見。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "物件",
+          "why": "件可作量詞，例如一件衣服。",
+          "difference": "件用來計數；間常用於房間或時間間隔。"
+        }
+      ],
+      "component": [
+        {
+          "char": "伴",
+          "why": "部件比較：左邊都有亻，右部輪廓相近",
+          "difference": "件右邊是牛；伴右邊是半。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「一件新衣」，再依字形、讀音與句意選字。右邊是牛，豎畫向下伸；左邊亻要寫窄。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

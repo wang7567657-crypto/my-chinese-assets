@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第3課_confusion_analysis_3a3dd46be0767415",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "穿",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "穿",
+    "groups": {
+      "shape": [
+        {
+          "char": "空",
+          "why": "上方都有穴",
+          "difference": "穿下方是牙；空下方是工。"
+        },
+        {
+          "char": "窄",
+          "why": "上方都有穴",
+          "difference": "穿下方是牙；窄下方是乍。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "川",
+          "why": "同音比較：穿和川都讀ㄔㄨㄢ。",
+          "difference": "穿可指穿衣或穿過；川常指河流。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "穿著",
+          "why": "穿可表示把衣物套在身上。",
+          "difference": "穿是動作；衣是物品名稱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "空",
+          "why": "部件比較：上方都有穴",
+          "difference": "穿下方是牙；空下方是工。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「穿新衣」，再依字形、讀音與句意選字。上方穴的兩點方向不同；下方是牙，不要寫成芽。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第3課_confusion_analysis_18db8ceacae4b274",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "喜",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "喜",
+    "groups": {
+      "shape": [
+        {
+          "char": "嘉",
+          "why": "上半部含有喜的主要輪廓",
+          "difference": "嘉比喜下方多加部件，筆畫更多。"
+        },
+        {
+          "char": "嘻",
+          "why": "右邊完整是喜",
+          "difference": "嘻左邊多一個口；喜本身沒有左口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "洗",
+          "why": "同音比較：喜和洗都讀ㄒㄧˇ。",
+          "difference": "喜表示開心；洗表示用水清潔。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "高興",
+          "why": "喜有歡樂、高興的意思。",
+          "difference": "喜是單字；高興是描述心情的詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "嘉",
+          "why": "部件比較：上半部含有喜的主要輪廓",
+          "difference": "嘉比喜下方多加部件，筆畫更多。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「驚喜」，再依字形、讀音與句意選字。喜的下方口是部首；注意上面是士，不要寫成土。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

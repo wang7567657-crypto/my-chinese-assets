@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第3課_confusion_analysis_82dba8911c64ce46",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "歡",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "歡",
+    "groups": {
+      "shape": [
+        {
+          "char": "觀",
+          "why": "左邊同樣有雚形部件",
+          "difference": "歡右邊是欠；觀右邊是見。"
+        },
+        {
+          "char": "灌",
+          "why": "右邊同樣有雚形部件",
+          "difference": "灌左邊多氵；歡右邊是欠。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "獾",
+          "why": "同音比較：歡和獾都讀ㄏㄨㄢ。",
+          "difference": "歡表示高興或喜愛；獾是動物名稱，字較少見。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "喜愛",
+          "why": "喜歡表示對人事物有好感。",
+          "difference": "歡著重愉快或喜愛；迎是迎接，字形與意思都不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "觀",
+          "why": "部件比較：左邊同樣有雚形部件",
+          "difference": "歡右邊是欠；觀右邊是見。"
+        }
+      ]
+    },
+    "tip": "先讀本課或常用詞語「喜歡」，再依字形、讀音與句意選字。右邊是欠，不是攵；左邊上方兩個口要分開寫清楚。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}

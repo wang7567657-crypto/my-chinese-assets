@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第3課_similar_shape_245681a7bef91650",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "只",
+    "lessonChars": [
+      "國",
+      "王",
+      "喜",
+      "歡",
+      "穿",
+      "只",
+      "件",
+      "點",
+      "改",
+      "領",
+      "越",
+      "設",
+      "計",
+      "發",
+      "方",
+      "法",
+      "分",
+      "享",
+      "臣",
+      "袖",
+      "驚",
+      "讓"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "只",
+    "similarChars": [
+      {
+        "char": "兄",
+        "similarity": "上方都是口，下方都有兩腳輪廓",
+        "difference": "只下方是八形兩筆；兄下方是兒形。"
+      },
+      {
+        "char": "員",
+        "similarity": "上方都有口，整體都是上下結構",
+        "difference": "員下方是貝；只下方只有兩筆。"
+      },
+      {
+        "char": "足",
+        "similarity": "上方都有口",
+        "difference": "足下方是疋形；只下方是八形。"
+      },
+      {
+        "char": "叭",
+        "similarity": "都有口和八形部件",
+        "difference": "只把口放在八上方；叭把口放在八左邊。"
+      },
+      {
+        "char": "呆",
+        "similarity": "上方都有口",
+        "difference": "呆下方是木；只下方是八形。"
+      },
+      {
+        "char": "史",
+        "similarity": "都有口形與下方撇捺的輪廓",
+        "difference": "史有一豎穿過口；只的口與下方分開。"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再圈出不同筆畫；回到本課語詞「只要」確認用字。"
+  },
+  "createdAt": "2026-10-06T09:06:35.577Z"
+}
