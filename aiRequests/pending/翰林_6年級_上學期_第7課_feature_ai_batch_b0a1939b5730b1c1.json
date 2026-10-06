@@ -1,0 +1,255 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_6年級_上學期_第7課_feature_ai_batch_b0a1939b5730b1c1",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "翰林",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 18,
+    "batchCharacters": [
+      "姨",
+      "雕",
+      "拓",
+      "蕨",
+      "梅",
+      "佇",
+      "冽",
+      "澤",
+      "苞",
+      "錦",
+      "鄒",
+      "眨",
+      "鏽",
+      "鋼",
+      "涵",
+      "銅",
+      "籍",
+      "略"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_9b056d53183f0e2e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "姨",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_269f6638400a647a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "雕",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_4a77b1c9c817ae96",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "拓",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_8603fdc1c6b9574e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "蕨",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_7011c58933604243",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "梅",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_f5fc98b97a7fe1d4",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "佇",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_fc27feb77c62b338",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "冽",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_763fcd2bae088b41",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "澤",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_85d63e8ebd1d8444",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "苞",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_00e68f665dc052e8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "錦",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_cd778de2623b02b5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "鄒",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_6aeddf0d814de9a8",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "眨",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_61331c9082c8ff61",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "鏽",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_7d869f1d4bf10282",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "鋼",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_c09ff48045301429",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "涵",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_14a3a15e650ea296",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "銅",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_b2954c8020ac35b7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "籍",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_6年級_上學期_第7課_confusion_analysis_427435d92c90295c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "char": "略",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
+  },
+  "createdAt": "2026-10-06T06:12:46.983Z"
+}
