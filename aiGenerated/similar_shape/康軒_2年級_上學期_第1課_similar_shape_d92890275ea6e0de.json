@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第1課_similar_shape_d92890275ea6e0de",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "故",
+    "lessonChars": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "故",
+    "similarChars": [
+      {
+        "char": "古",
+        "similarity": "都含十在口上方的古形。",
+        "difference": "古沒有故右邊的攵。"
+      },
+      {
+        "char": "姑",
+        "similarity": "都含十在口上方的古形。",
+        "difference": "姑是左女右古，故是左古右攵。"
+      },
+      {
+        "char": "估",
+        "similarity": "都含十在口上方的古形。",
+        "difference": "估是左亻右古，故是左古右攵。"
+      },
+      {
+        "char": "固",
+        "similarity": "都含十在口上方的古形。",
+        "difference": "固把古放在囗裡，故右邊有攵。"
+      },
+      {
+        "char": "枯",
+        "similarity": "都含十在口上方的古形。",
+        "difference": "枯是左木右古，故是左古右攵。"
+      },
+      {
+        "char": "胡",
+        "similarity": "都含十在口上方的古形。",
+        "difference": "胡左邊同為古，右邊是月而非攵。"
+      }
+    ],
+    "teachingTip": "固定圈出左邊的古，再辨認故右側四筆的攵；不要寫成月。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

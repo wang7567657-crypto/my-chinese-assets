@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第1課_similar_shape_f382be2733d56ab2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "本",
+    "lessonChars": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "本",
+    "similarChars": [
+      {
+        "char": "木",
+        "similarity": "都有木的十字骨架及撇捺。",
+        "difference": "本在木的下部多一短橫。"
+      },
+      {
+        "char": "末",
+        "similarity": "都有木形及額外橫畫。",
+        "difference": "末的額外橫畫在上方；本的短橫在下方。"
+      },
+      {
+        "char": "未",
+        "similarity": "都有木形及兩道橫畫。",
+        "difference": "未兩道橫畫在上半部，且上短下長；本的短橫在下部。"
+      },
+      {
+        "char": "朱",
+        "similarity": "都有中央直筆、橫畫、撇捺。",
+        "difference": "朱上方多短撇，兩橫位置不同；本下方有短橫。"
+      },
+      {
+        "char": "禾",
+        "similarity": "都有木形的主幹和撇捺。",
+        "difference": "禾頂端多一撇；本在下部多一橫。"
+      },
+      {
+        "char": "体",
+        "similarity": "完整保留本的形狀。",
+        "difference": "体左邊多亻；在臺灣教材中體應寫體，体是體的異體及中國大陸簡化字，不作本的替代寫法。"
+      }
+    ],
+    "teachingTip": "用顏色標出本下面的短橫，再和木、末、未比較短橫的位置。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

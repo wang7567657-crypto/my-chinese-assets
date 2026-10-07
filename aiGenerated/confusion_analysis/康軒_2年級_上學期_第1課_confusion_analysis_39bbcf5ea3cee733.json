@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_39bbcf5ea3cee733",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "只",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "只",
+    "groups": {
+      "shape": [
+        {
+          "char": "兄",
+          "why": "上面都是口，下方左右張開。",
+          "difference": "只下方是八形；兄下方是儿，右筆有彎鉤。"
+        },
+        {
+          "char": "呆",
+          "why": "上面都是口，下方都有向左右伸出的筆畫。",
+          "difference": "呆下方是木，有橫與中央豎；只下方沒有木的十字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "紙",
+          "why": "「只有」的只與紙同讀ㄓˇ。",
+          "difference": "只有用只；紙張用紙。量詞一隻鳥的隻讀ㄓ，也不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "僅",
+          "why": "只與僅都可表示限定。",
+          "difference": "只有一本和僅有一本意思相近；本課仍依原詞寫只，不用少見於低年級的僅代字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "兄",
+          "why": "只、兄上方都是口。",
+          "difference": "只下方八形兩筆分開；兄右下是豎彎鉤，不是八。"
+        }
+      ]
+    },
+    "tip": "先讀只有，再看下方兩筆；臺灣量詞「一隻」要用隻，不能混成只。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

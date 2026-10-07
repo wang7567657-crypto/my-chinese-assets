@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第1課_memory_strategy_a4943b224b797be7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "以",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "以",
+    "components": [
+      "以（整字）"
+    ],
+    "association": "在「以」旁畫一張「以前」與「現在」的照片，連結課文的時間詞。",
+    "mnemonic": "以前的以，左右看仔細。",
+    "visualPrompt": "以清楚的臺灣正體「以」為主，保持標準筆畫與部件位置。在「以」旁畫一張「以前」與「現在」的照片，連結課文的時間詞。插圖放在字旁，不替換筆畫、不把圖塞進字裡。",
+    "teachingTip": "先描完整字，指出左側轉折、中央點與右側人形；不要誤拆成已加人。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

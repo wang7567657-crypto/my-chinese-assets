@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_21ee07a5a7c47d41",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "為",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "為",
+    "groups": {
+      "shape": [
+        {
+          "char": "偽",
+          "why": "含為形的折筆與下方四點。",
+          "difference": "偽左邊多亻。"
+        },
+        {
+          "char": "蒍",
+          "why": "含為形的折筆與下方四點。",
+          "difference": "蒍上方多艹；蒍是少見字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "圍",
+          "why": "成為、以為的為讀ㄨㄟˊ，與圍同音。",
+          "difference": "成為用為；圍成一圈用圍，不可換字。"
+        },
+        {
+          "char": "位",
+          "why": "為他拍手的為讀ㄨㄟˋ，與位同音。",
+          "difference": "為他拍手表示替他、向他表達鼓勵；座位用位，字義不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "替",
+          "why": "為他拍手中的為可與替他表達支持的替比較。",
+          "difference": "為在不同詞有不同讀音及用法；成為、以為不能直接替換成替。"
+        }
+      ],
+      "component": [
+        {
+          "char": "偽",
+          "why": "偽右邊含為。",
+          "difference": "偽左邊另有亻；為不加人字旁。"
+        }
+      ]
+    },
+    "tip": "分兩句讀：「成為、以為」讀ㄨㄟˊ；「為他拍手」讀ㄨㄟˋ，依句子選讀音。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

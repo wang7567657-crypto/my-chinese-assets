@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第1課_similar_shape_4c62509811304d9d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "以",
+    "lessonChars": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "以",
+    "similarChars": [
+      {
+        "char": "似",
+        "similarity": "字內保留以的斜筆、點與人形組合。",
+        "difference": "似左邊多亻，右邊是以。"
+      },
+      {
+        "char": "姒",
+        "similarity": "字內保留以的斜筆、點與人形組合。",
+        "difference": "姒左邊多女；姒是較少見的字。"
+      },
+      {
+        "char": "苡",
+        "similarity": "字內保留以的斜筆、點與人形組合。",
+        "difference": "苡上方多艹；苡見於薏苡。"
+      },
+      {
+        "char": "笖",
+        "similarity": "字內保留以的斜筆、點與人形組合。",
+        "difference": "笖上方多竹字頭；笖是少見字，只供字形辨識。"
+      },
+      {
+        "char": "鉯",
+        "similarity": "字內保留以的斜筆、點與人形組合。",
+        "difference": "鉯左邊多金；鉯是少見字，只供字形辨識。"
+      },
+      {
+        "char": "娰",
+        "similarity": "字內保留以的斜筆、點與人形組合。",
+        "difference": "娰左邊多女，中間另有亻；娰是姒的異體字，不是以的日常寫法。"
+      }
+    ],
+    "teachingTip": "先用似、苡比較以的固定形狀；少見字只作找相同部件，不列入低年級必寫字。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

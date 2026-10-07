@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_a352094466dfdc71",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "本",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "本",
+    "groups": {
+      "shape": [
+        {
+          "char": "木",
+          "why": "都有木的十字骨架及撇捺。",
+          "difference": "本在木的下部多一短橫。"
+        },
+        {
+          "char": "末",
+          "why": "都有木形及額外橫畫。",
+          "difference": "末的額外橫畫在上方；本的短橫在下方。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "笨",
+          "why": "本讀ㄅㄣˇ，笨讀ㄅㄣˋ，只有聲調不同。",
+          "difference": "課本用本；笨上方多竹字頭，不可只聽聲母、韻母就選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "冊",
+          "why": "都可用來計算書。",
+          "difference": "一本書、一冊書都能使用，但課本是固定詞，不能直接改成課冊來指同一詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "木",
+          "why": "本以木形加上低處短橫來辨識。",
+          "difference": "本下方有短橫；木沒有。這是字形辨識提示，不把部件比較當成課文字義。"
+        }
+      ]
+    },
+    "tip": "把本的短橫塗色，並讓學生讀課本、一本書。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

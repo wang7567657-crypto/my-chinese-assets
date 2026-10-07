@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第1課_similar_shape_f15491a8930ec3ee",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "只",
+    "lessonChars": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "只",
+    "similarChars": [
+      {
+        "char": "兄",
+        "similarity": "上面都是口，下方左右張開。",
+        "difference": "只下方是八形；兄下方是儿，右筆有彎鉤。"
+      },
+      {
+        "char": "呆",
+        "similarity": "上面都是口，下方都有向左右伸出的筆畫。",
+        "difference": "呆下方是木，有橫與中央豎；只下方沒有木的十字。"
+      },
+      {
+        "char": "貝",
+        "similarity": "都有框形上部和八形下部。",
+        "difference": "貝上方是目，比只的口多內部橫畫。"
+      },
+      {
+        "char": "吳",
+        "similarity": "上方都有口，下方都有伸展的斜筆。",
+        "difference": "吳下方及左側有轉折與較多筆畫，不是只的八形。"
+      },
+      {
+        "char": "足",
+        "similarity": "上方都是口，下方都有分開的筆畫。",
+        "difference": "足下方含豎與橫、撇捺組合；只下方只有八形。"
+      },
+      {
+        "char": "召",
+        "similarity": "都有口及兩筆的另一部件。",
+        "difference": "召是刀在上、口在下；只是口在上、八形在下。"
+      }
+    ],
+    "teachingTip": "先看口的位置，再看下方：只是分開的八形，兄右下有彎鉤。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

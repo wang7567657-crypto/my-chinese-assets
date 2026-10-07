@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第1課_similar_shape_aff3a9ef15db3655",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "還",
+    "lessonChars": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "還",
+    "similarChars": [
+      {
+        "char": "環",
+        "similarity": "右側與還內側同為睘。",
+        "difference": "環左邊是王旁；還外側是辶。"
+      },
+      {
+        "char": "寰",
+        "similarity": "下方與還內側同為睘。",
+        "difference": "寰上方是宀，還外側是辶。"
+      },
+      {
+        "char": "鬟",
+        "similarity": "下方與還內側同為睘。",
+        "difference": "鬟上方是髟，還外側是辶；鬟是較少見的字。"
+      },
+      {
+        "char": "懷",
+        "similarity": "右側都有罒形和下方衣形，筆畫密集。",
+        "difference": "懷左邊是忄，右側是褱，罒下方含不同筆畫；還內側是睘。"
+      },
+      {
+        "char": "遠",
+        "similarity": "都有辶包住內部字形，下部都有衣形筆畫。",
+        "difference": "遠裡面是袁，上方為土；還裡面是睘，上方為罒。"
+      },
+      {
+        "char": "遷",
+        "similarity": "都有辶，內部上方都有扁框輪廓。",
+        "difference": "遷內部上方是覀形，下面有大與巳形；還內部是睘。"
+      }
+    ],
+    "teachingTip": "先圈出還的辶，再找內部上方的罒；本課讀「比我還高」的ㄏㄞˊ。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

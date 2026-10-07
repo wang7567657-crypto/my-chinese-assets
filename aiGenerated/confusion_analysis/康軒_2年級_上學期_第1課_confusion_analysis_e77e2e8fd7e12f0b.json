@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_e77e2e8fd7e12f0b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "故",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "故",
+    "groups": {
+      "shape": [
+        {
+          "char": "古",
+          "why": "都含十在口上方的古形。",
+          "difference": "古沒有故右邊的攵。"
+        },
+        {
+          "char": "姑",
+          "why": "都含十在口上方的古形。",
+          "difference": "姑是左女右古，故是左古右攵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "顧",
+          "why": "故、顧同讀ㄍㄨˋ。",
+          "difference": "故事用故；照顧用顧，不因同音替換。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "事",
+          "why": "故和事合起來是故事，指可以講述的事情。",
+          "difference": "故事是完整詞；事情、做事用事，不能把故事漏成只有一個事字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "古",
+          "why": "故左邊是古。",
+          "difference": "故右邊還有攵；漏掉攵就成了古。"
+        }
+      ]
+    },
+    "tip": "讀說故事，再檢查故左古右攵，不能少掉右邊。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

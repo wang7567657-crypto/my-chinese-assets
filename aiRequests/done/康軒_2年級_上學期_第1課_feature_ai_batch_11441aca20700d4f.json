@@ -1,0 +1,308 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_2年級_上學期_第1課_feature_ai_batch_11441aca20700d4f",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 20,
+    "batchCharacters": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_8e8e2f0e8fd9a8b8",
+        "input": {
+          "char": "年",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_3ee52f472cf89366",
+        "input": {
+          "char": "希",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_c79980daa48115d9",
+        "input": {
+          "char": "望",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_bdf1ee6a22cfc50b",
+        "input": {
+          "char": "坐",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_7351780bf3f6bc2f",
+        "input": {
+          "char": "位",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_a352094466dfdc71",
+        "input": {
+          "char": "本",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_bfc7e4ae08a5452c",
+        "input": {
+          "char": "淡",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_1192daf1c5132ca6",
+        "input": {
+          "char": "書",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_88d685d9ce4d2207",
+        "input": {
+          "char": "老",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_e8802df70d3fd38f",
+        "input": {
+          "char": "師",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_c0830d40698de0b9",
+        "input": {
+          "char": "以",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_21ee07a5a7c47d41",
+        "input": {
+          "char": "為",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_e77e2e8fd7e12f0b",
+        "input": {
+          "char": "故",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_4151a75a084fd1e5",
+        "input": {
+          "char": "用",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_70621559dd993c16",
+        "input": {
+          "char": "力",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_39bbcf5ea3cee733",
+        "input": {
+          "char": "只",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_79ffe04cf7c03fbe",
+        "input": {
+          "char": "現",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_bfeac437e52c4776",
+        "input": {
+          "char": "還",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_03a13189402d709d",
+        "input": {
+          "char": "聲",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_e72ba2e5ae0fdd92",
+        "input": {
+          "char": "矮",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z",
+  "processedAt": "2026-10-07T04:25:37.246172Z",
+  "output": {
+    "status": "done",
+    "completedCount": 20,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_8e8e2f0e8fd9a8b8.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_3ee52f472cf89366.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_c79980daa48115d9.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_bdf1ee6a22cfc50b.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_7351780bf3f6bc2f.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_a352094466dfdc71.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_bfc7e4ae08a5452c.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_1192daf1c5132ca6.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_88d685d9ce4d2207.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_e8802df70d3fd38f.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_c0830d40698de0b9.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_21ee07a5a7c47d41.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_e77e2e8fd7e12f0b.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_4151a75a084fd1e5.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_70621559dd993c16.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_39bbcf5ea3cee733.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_79ffe04cf7c03fbe.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_bfeac437e52c4776.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_03a13189402d709d.json",
+      "aiGenerated/confusion_analysis/康軒_2年級_上學期_第1課_confusion_analysis_e72ba2e5ae0fdd92.json"
+    ]
+  }
+}

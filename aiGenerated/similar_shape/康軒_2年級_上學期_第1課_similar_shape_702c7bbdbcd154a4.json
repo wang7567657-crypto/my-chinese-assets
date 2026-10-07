@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第1課_similar_shape_702c7bbdbcd154a4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "淡",
+    "lessonChars": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "淡",
+    "similarChars": [
+      {
+        "char": "談",
+        "similarity": "都有上下兩個火組成的炎。",
+        "difference": "談左邊是言，淡左邊是氵。"
+      },
+      {
+        "char": "痰",
+        "similarity": "都有上下兩個火組成的炎。",
+        "difference": "痰在炎外加疒，淡在左邊加氵。"
+      },
+      {
+        "char": "氮",
+        "similarity": "都有上下兩個火組成的炎。",
+        "difference": "氮在炎外加气，淡左邊是氵。"
+      },
+      {
+        "char": "啖",
+        "similarity": "都有上下兩個火組成的炎。",
+        "difference": "啖左邊是口；啖是較少見的字。"
+      },
+      {
+        "char": "炎",
+        "similarity": "都有上下兩個火組成的炎。",
+        "difference": "炎沒有淡左邊的氵。"
+      },
+      {
+        "char": "倓",
+        "similarity": "都有上下兩個火組成的炎。",
+        "difference": "倓左邊是亻；倓是少見字，只供字形辨識。"
+      }
+    ],
+    "teachingTip": "右邊兩個火不變，輪流遮住左邊，讓學生找出淡的三點水。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

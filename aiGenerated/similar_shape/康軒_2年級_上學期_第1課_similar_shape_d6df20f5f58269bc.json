@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第1課_similar_shape_d6df20f5f58269bc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "用",
+    "lessonChars": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "用",
+    "similarChars": [
+      {
+        "char": "甩",
+        "similarity": "外框與內部橫畫非常接近。",
+        "difference": "用中央直筆向下；甩中央直筆在底部向右彎鉤。"
+      },
+      {
+        "char": "月",
+        "similarity": "都有長框及框內橫筆。",
+        "difference": "用框內多一條中央直筆；月沒有。"
+      },
+      {
+        "char": "同",
+        "similarity": "都有外框和裡面的橫畫。",
+        "difference": "同裡面是一橫加口；用裡面是橫畫與中央直筆交叉。"
+      },
+      {
+        "char": "周",
+        "similarity": "都有外圍冂形與框內橫豎。",
+        "difference": "周框內是土、口上下排列；用沒有下面的口。"
+      },
+      {
+        "char": "甫",
+        "similarity": "下半部都有用形。",
+        "difference": "甫上方另有橫畫，右上另有點。"
+      },
+      {
+        "char": "佣",
+        "similarity": "右邊完整保留用形。",
+        "difference": "佣左邊多亻，不能省掉變成用。"
+      }
+    ],
+    "teachingTip": "把用和甩放大，只描最後直筆的方向，辨別有沒有向右彎。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

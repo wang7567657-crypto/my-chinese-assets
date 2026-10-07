@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第1課_memory_strategy_c3e31d86d68e8121",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "聲",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "聲",
+    "components": [
+      "上方殸形",
+      "耳"
+    ],
+    "association": "把耳朵圖畫在字旁，想像聽見同學大聲說出希望。",
+    "mnemonic": "聲音的聲，下方有耳聽。",
+    "visualPrompt": "以清楚的臺灣正體「聲」為主，保持標準筆畫與部件位置。把耳朵圖畫在字旁，想像聽見同學大聲說出希望。插圖放在字旁，不替換筆畫、不把圖塞進字裡。",
+    "teachingTip": "先找下方完整耳，再依標準字形觀察上方左右部分；避免省寫成簡化字。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

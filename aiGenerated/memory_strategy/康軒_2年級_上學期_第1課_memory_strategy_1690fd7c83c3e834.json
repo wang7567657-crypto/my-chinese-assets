@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第1課_memory_strategy_1690fd7c83c3e834",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "位",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "位",
+    "components": [
+      "亻",
+      "立"
+    ],
+    "association": "一個人站在自己的座位旁，先認出位置再坐下。",
+    "mnemonic": "單人旁，加個立，找到自己的位。",
+    "visualPrompt": "以清楚的臺灣正體「位」為主，保持標準筆畫與部件位置。一個人站在自己的座位旁，先認出位置再坐下。插圖放在字旁，不替換筆畫、不把圖塞進字裡。",
+    "teachingTip": "圈出左邊亻，右邊「立」保持完整，和「住」右邊的主比較。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

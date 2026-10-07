@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第1課_similar_shape_27e815fd26cbd2b2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "年",
+    "lessonChars": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "年",
+    "similarChars": [
+      {
+        "char": "午",
+        "similarity": "都有上方短撇、橫畫和向下直筆。",
+        "difference": "午的橫畫較少，下半沒有年的短豎與橫畫組合。"
+      },
+      {
+        "char": "牛",
+        "similarity": "都有短撇、橫畫和中央直筆。",
+        "difference": "牛的直筆向上穿出上橫；年上半與下半的交接、橫畫配置不同。"
+      },
+      {
+        "char": "千",
+        "similarity": "都有撇、橫、豎相交的骨架。",
+        "difference": "千只有三筆，沒有年中間增加的橫畫與短豎。"
+      },
+      {
+        "char": "干",
+        "similarity": "都有橫畫與直筆交叉。",
+        "difference": "干上方沒有年的短撇，中間也沒有年的短豎。"
+      },
+      {
+        "char": "牢",
+        "similarity": "下半都有橫、豎交叉的密集形狀。",
+        "difference": "牢是宀下面一個牛，年沒有宀，內部也不是牛。"
+      },
+      {
+        "char": "件",
+        "similarity": "右側牛與年的橫豎交叉輪廓接近。",
+        "difference": "件左邊有亻，右邊是牛；年是一個獨體字。"
+      }
+    ],
+    "teachingTip": "把年、午、牛放大比較，先找短撇，再逐一指認橫畫與直筆的位置。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}
