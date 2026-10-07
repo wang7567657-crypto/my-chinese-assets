@@ -1,0 +1,47 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_2年級_上學期_第5課_feature_ai_batch_124d82fc3c5ca625",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 11,
+    "batchCharacters": [
+      "蟲",
+      "動",
+      "王",
+      "坐",
+      "午",
+      "座",
+      "全",
+      "原",
+      "從",
+      "管",
+      "館"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 11,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_2年級_上學期_第5課_similar_shape_d8f2b9f33fa6e2a1.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第5課_similar_shape_6b6f787ee71f7d89.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第5課_similar_shape_d8b7eaafc033ef03.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第5課_similar_shape_17214147739d5078.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第5課_similar_shape_78ea1150fc3a9393.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第5課_similar_shape_a6571e5aeaf0d059.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第5課_similar_shape_0920be4b04a4b548.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第5課_similar_shape_7f6a70ab2e05a16f.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第5課_similar_shape_ea6ba853e7a0ae71.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第5課_similar_shape_988f3f8a4c2fc76d.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第5課_similar_shape_6b0ede01d355da59.json"
+    ]
+  },
+  "createdAt": "2026-10-07T07:47:27.779289+00:00"
+}

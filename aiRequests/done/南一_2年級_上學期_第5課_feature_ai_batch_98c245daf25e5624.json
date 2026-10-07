@@ -1,0 +1,76 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_2年級_上學期_第5課_feature_ai_batch_98c245daf25e5624",
+  "status": "done",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 2,
+    "batchCharacters": [
+      "午",
+      "座"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第5課_confusion_analysis_a99bad343635d397",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "午",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第5課_confusion_analysis_4ca917a15d7a70cc",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "char": "座",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-07T07:47:27.779289+00:00",
+  "processedAt": "2026-10-07T07:47:27.779289+00:00",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_2年級_上學期_第5課_feature_ai_batch_98c245daf25e5624",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "南一",
+      "grade": "2年級",
+      "semester": "上學期",
+      "lesson": "第5課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 2,
+      "batchCharacters": [
+        "午",
+        "座"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 2,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第5課_confusion_analysis_a99bad343635d397.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第5課_confusion_analysis_4ca917a15d7a70cc.json"
+      ]
+    },
+    "createdAt": "2026-10-07T07:47:27.779289+00:00"
+  }
+}

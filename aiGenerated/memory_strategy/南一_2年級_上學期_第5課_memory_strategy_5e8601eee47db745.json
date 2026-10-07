@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第5課_memory_strategy_5e8601eee47db745",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "午",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "午",
+    "components": [
+      "午"
+    ],
+    "association": "先找左上撇、上方短橫，再找下方長橫與直豎，想起中午的時刻。",
+    "mnemonic": "中午的午，直豎不出頭。",
+    "visualPrompt": "時鐘指向十二點的插圖。插圖放在完整標準字形旁；不得替代、遮擋或變形任何筆畫，分色仍保留原來位置。",
+    "teachingTip": "和牛並排比較：午的直豎不伸出上方短橫，牛的直豎向上出頭。這是記字聯想，不作字源解釋。"
+  },
+  "createdAt": "2026-10-07T07:47:27.779289+00:00"
+}
