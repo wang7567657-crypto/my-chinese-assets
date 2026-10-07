@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第5課_memory_strategy_a2bc0fbcbb83b837",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "圖",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "圖",
+    "components": [
+      "囗",
+      "內部筆畫"
+    ],
+    "association": "把外圍囗想成圖畫的邊框，裡面的筆畫像要仔細看的圖案。",
+    "mnemonic": "外框圈完整，裡面仔細看，圖書館的圖。",
+    "visualPrompt": "相框與圖書封面的插圖。插圖放在完整標準字形旁；不得替代、遮擋或變形任何筆畫，分色仍保留原來位置。",
+    "teachingTip": "先寫外框的前兩筆，再寫裡面，最後封口；不能把裡面改成員或專。這是記字聯想，不作字源解釋。"
+  },
+  "createdAt": "2026-10-07T07:47:27.779289+00:00"
+}

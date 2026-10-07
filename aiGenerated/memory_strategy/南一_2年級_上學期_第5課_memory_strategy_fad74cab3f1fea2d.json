@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第5課_memory_strategy_fad74cab3f1fea2d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "科",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "科",
+    "components": [
+      "禾",
+      "斗"
+    ],
+    "association": "先把左禾、右斗分成兩色，想像一邊觀察稻禾、一邊用量斗量物品的學習活動。",
+    "mnemonic": "左禾右斗科，百科全書知識多。",
+    "visualPrompt": "觀察植物和量取穀物的插圖。插圖放在完整標準字形旁；不得替代、遮擋或變形任何筆畫，分色仍保留原來位置。",
+    "teachingTip": "左邊禾只有一筆上撇，別寫成料的米；聯想僅用來記字。這是記字聯想，不作字源解釋。"
+  },
+  "createdAt": "2026-10-07T07:47:27.779289+00:00"
+}
