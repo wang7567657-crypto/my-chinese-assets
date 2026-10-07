@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第11課_memory_strategy_4103661afa3f2630",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "播",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "播",
+    "components": [
+      "扌",
+      "番"
+    ],
+    "association": "左扌像操作播音設備，右番保持完整；旁邊畫主播報新聞。",
+    "mnemonic": "左扌右番，播報的播。",
+    "visualPrompt": "保留標準繁體「播」完整字形，在字旁另畫「播報」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "右邊番上方是釆形、下方田；不要把左扌寫成木。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_6fc9c46f39fefa47",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "閒",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "閒",
+    "groups": {
+      "shape": [
+        {
+          "char": "間",
+          "why": "外框同為門，內部輪廓相近",
+          "difference": "閒裡面是月；間裡面是日。"
+        },
+        {
+          "char": "問",
+          "why": "外框同為門",
+          "difference": "閒裡面是月；問裡面是口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "賢",
+          "why": "同音：閒、賢都讀ㄒㄧㄢˊ。",
+          "difference": "閒表示空閒；賢表示有德行或才能。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "忙",
+          "why": "意義相對。",
+          "difference": "閒表示沒有忙事；忙表示事情多、不得空。"
+        }
+      ],
+      "component": [
+        {
+          "char": "間",
+          "why": "部件比較：外框同為門，內部輪廓相近",
+          "difference": "閒裡面是月；間裡面是日。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「閒得發慌」，再依字形與句意選字。門部八筆分布在月的外圍，筆序不是一段連續範圍。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

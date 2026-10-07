@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_0c23f96cb9f119de",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "力",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "力",
+    "groups": {
+      "shape": [
+        {
+          "char": "刀",
+          "why": "都有彎鉤與撇，外形相近",
+          "difference": "力第一筆向左上出頭；刀的撇位置與輪廓不同。"
+        },
+        {
+          "char": "乃",
+          "why": "都有彎曲主筆與斜撇",
+          "difference": "力第一筆為橫折鉤；乃的轉折方向與筆勢不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "立",
+          "why": "同音：力、立都讀ㄌㄧˋ。",
+          "difference": "力表示力量；立表示站立或建立。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "勁",
+          "why": "都表示力量。",
+          "difference": "力是一般力量；勁也可指強而有力，字形較複雜。"
+        }
+      ],
+      "component": [
+        {
+          "char": "刀",
+          "why": "部件比較：都有彎鉤與撇，外形相近",
+          "difference": "力第一筆向左上出頭；刀的撇位置與輪廓不同。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「用力」，再依字形與句意選字。力是兩筆獨體字，先寫橫折鉤，再寫撇。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

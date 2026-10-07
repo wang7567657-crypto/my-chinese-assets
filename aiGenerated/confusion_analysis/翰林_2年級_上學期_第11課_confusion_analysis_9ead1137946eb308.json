@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_9ead1137946eb308",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "西",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "西",
+    "groups": {
+      "shape": [
+        {
+          "char": "四",
+          "why": "外框與內部兩筆的輪廓相近",
+          "difference": "西上方多一橫，框內筆形與四不同。"
+        },
+        {
+          "char": "酉",
+          "why": "都有上橫與方框輪廓",
+          "difference": "西框內兩筆向內；酉框內另有一橫，筆畫更多。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "希",
+          "why": "同音：西、希都讀ㄒㄧ。",
+          "difference": "西是方向；希表示希望或稀少。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "東",
+          "why": "意義相對，都是方向。",
+          "difference": "西是日落方向；東是日出方向。"
+        }
+      ],
+      "component": [
+        {
+          "char": "四",
+          "why": "部件比較：外框與內部兩筆的輪廓相近",
+          "difference": "西上方多一橫，框內筆形與四不同。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「問東問西」，再依字形與句意選字。西歸襾部，部首涵蓋全字；框內兩筆不可寫成四。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

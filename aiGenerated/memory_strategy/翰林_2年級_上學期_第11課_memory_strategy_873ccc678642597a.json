@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第11課_memory_strategy_873ccc678642597a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "報",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "報",
+    "components": [
+      "幸形",
+      "右部"
+    ],
+    "association": "左邊幸形像排好的新聞欄，右部像把消息送出；只是字形聯想。",
+    "mnemonic": "左幸形接右部，報告的報。",
+    "visualPrompt": "保留標準繁體「報」完整字形，在字旁另畫「播報」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "部首土是最先三筆；右半最後一筆是捺，要保留標準繁體字形。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

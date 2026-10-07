@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_58a6b23894833e07",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "妖",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "妖",
+    "groups": {
+      "shape": [
+        {
+          "char": "夭",
+          "why": "右邊有完整夭",
+          "difference": "妖左邊多女；夭單獨四筆。"
+        },
+        {
+          "char": "沃",
+          "why": "右邊都有夭",
+          "difference": "妖左為女；沃左為氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "腰",
+          "why": "同音：妖、腰都讀ㄧㄠ。",
+          "difference": "妖指妖怪或妖異；腰是身體部位。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "怪",
+          "why": "妖怪一詞中兩字都可指異常事物。",
+          "difference": "妖常指傳說中的精怪；怪可指奇異，也可作責怪。"
+        }
+      ],
+      "component": [
+        {
+          "char": "夭",
+          "why": "部件比較：右邊有完整夭",
+          "difference": "妖左邊多女；夭單獨四筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「妖怪」，再依字形與句意選字。右邊是夭，第一筆是撇；不要寫成天。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

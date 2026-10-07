@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_70b624ae0348ef7b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "闖",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "闖",
+    "groups": {
+      "shape": [
+        {
+          "char": "門",
+          "why": "外框是完整門",
+          "difference": "闖在門裡多馬；門中間空白。"
+        },
+        {
+          "char": "馬",
+          "why": "內部是完整馬",
+          "difference": "闖在馬外面多門框。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "床",
+          "why": "近音：闖ㄔㄨㄤˇ、床ㄔㄨㄤˊ，聲調不同。",
+          "difference": "闖表示衝進或冒失行動；床是家具。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "進",
+          "why": "都有向裡面移動的意思。",
+          "difference": "闖帶有突然或冒失進入的語氣；進是一般的進入。"
+        }
+      ],
+      "component": [
+        {
+          "char": "門",
+          "why": "部件比較：外框是完整門",
+          "difference": "闖在門裡多馬；門中間空白。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「闖來闖去」，再依字形與句意選字。門部筆畫環繞馬，前六筆與最後兩筆合為門部。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

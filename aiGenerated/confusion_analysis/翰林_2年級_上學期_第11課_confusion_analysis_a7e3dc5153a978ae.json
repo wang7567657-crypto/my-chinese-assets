@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_a7e3dc5153a978ae",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "刻",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "刻",
+    "groups": {
+      "shape": [
+        {
+          "char": "亥",
+          "why": "左邊有完整亥",
+          "difference": "刻右邊多刂；亥單獨六筆。"
+        },
+        {
+          "char": "孩",
+          "why": "右邊都有亥",
+          "difference": "刻右邊是刂；孩左邊是子。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "課",
+          "why": "同音：刻、課都讀ㄎㄜˋ。",
+          "difference": "刻可指時間單位、雕刻或立刻；課指課程。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "時",
+          "why": "「時刻」都和時間相關。",
+          "difference": "刻可指短時間或鐘點；時是較廣的時間概念。"
+        }
+      ],
+      "component": [
+        {
+          "char": "亥",
+          "why": "部件比較：左邊有完整亥",
+          "difference": "刻右邊多刂；亥單獨六筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「立刻」，再依字形與句意選字。右邊是兩筆刂；不要把刻寫成孩或課。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第11課_similar_shape_a447a03eca5e03b2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "擠",
+    "lessonChars": [
+      "怪",
+      "門",
+      "扇",
+      "立",
+      "刻",
+      "閒",
+      "馬",
+      "闖",
+      "耳",
+      "主",
+      "播",
+      "報",
+      "力",
+      "竟",
+      "巴",
+      "東",
+      "西",
+      "底",
+      "慌",
+      "仔",
+      "擠",
+      "妖"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "擠",
+    "similarChars": [
+      {
+        "char": "齊",
+        "similarity": "右邊有完整齊",
+        "difference": "擠左邊多扌；齊單獨十四筆。"
+      },
+      {
+        "char": "劑",
+        "similarity": "左邊有完整齊",
+        "difference": "擠左為扌；劑右邊是刂。"
+      },
+      {
+        "char": "濟",
+        "similarity": "右邊有完整齊",
+        "difference": "擠左為扌；濟左為氵。"
+      },
+      {
+        "char": "臍",
+        "similarity": "右邊有完整齊",
+        "difference": "擠左為扌；臍左為月。"
+      },
+      {
+        "char": "齋",
+        "similarity": "上部大部分與齊相同",
+        "difference": "擠左扌右齊；齋下部另有小形筆畫。"
+      },
+      {
+        "char": "薺",
+        "similarity": "下方有完整齊",
+        "difference": "薺是較少見字，上方多艹；擠左邊是扌。"
+      }
+    ],
+    "teachingTip": "擠共十七筆；左扌三筆，右齊十四筆，要保留標準繁體字形。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

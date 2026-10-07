@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_65d26be5dca2ba05",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "底",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "底",
+    "groups": {
+      "shape": [
+        {
+          "char": "低",
+          "why": "右邊都有氐",
+          "difference": "底外面是广；低左邊是亻。"
+        },
+        {
+          "char": "抵",
+          "why": "右邊都有氐",
+          "difference": "底外面是广；抵左邊是扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "抵",
+          "why": "同音：底、抵都讀ㄉㄧˇ。",
+          "difference": "底是下部或最後；抵可指抵住、到達。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "下",
+          "why": "都可表示較低的位置。",
+          "difference": "底是物體最下面的部分；下是方位詞，範圍較廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "低",
+          "why": "部件比較：右邊都有氐",
+          "difference": "底外面是广；低左邊是亻。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「到底」，再依字形與句意選字。裡面是氐，末筆有點；不要寫成低的亻。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

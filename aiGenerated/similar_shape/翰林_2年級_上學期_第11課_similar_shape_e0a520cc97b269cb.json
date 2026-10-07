@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第11課_similar_shape_e0a520cc97b269cb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "東",
+    "lessonChars": [
+      "怪",
+      "門",
+      "扇",
+      "立",
+      "刻",
+      "閒",
+      "馬",
+      "闖",
+      "耳",
+      "主",
+      "播",
+      "報",
+      "力",
+      "竟",
+      "巴",
+      "東",
+      "西",
+      "底",
+      "慌",
+      "仔",
+      "擠",
+      "妖"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "東",
+    "similarChars": [
+      {
+        "char": "束",
+        "similarity": "外形都有木形穿過方框",
+        "difference": "東框內多一橫；束中間是口形，沒有那一橫。"
+      },
+      {
+        "char": "柬",
+        "similarity": "都有木形穿過框內筆畫",
+        "difference": "東中間是日形；柬框內另有丷形，筆畫較多。"
+      },
+      {
+        "char": "凍",
+        "similarity": "右邊有完整東",
+        "difference": "東單獨成字；凍左邊多冫。"
+      },
+      {
+        "char": "陳",
+        "similarity": "右邊有完整東",
+        "difference": "東單獨成字；陳左邊多阝。"
+      },
+      {
+        "char": "棟",
+        "similarity": "右邊有完整東",
+        "difference": "東單獨成字；棟左邊多木。"
+      },
+      {
+        "char": "練",
+        "similarity": "右邊與東、柬形相近",
+        "difference": "東單獨八筆；練左邊有糹，右部筆畫不同。"
+      }
+    ],
+    "teachingTip": "部首木由第1、6、7、8筆形成，筆畫不連續；全字八筆。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

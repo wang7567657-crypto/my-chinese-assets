@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第11課_similar_shape_9ecebe1d2185af25",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "竟",
+    "lessonChars": [
+      "怪",
+      "門",
+      "扇",
+      "立",
+      "刻",
+      "閒",
+      "馬",
+      "闖",
+      "耳",
+      "主",
+      "播",
+      "報",
+      "力",
+      "竟",
+      "巴",
+      "東",
+      "西",
+      "底",
+      "慌",
+      "仔",
+      "擠",
+      "妖"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "竟",
+    "similarChars": [
+      {
+        "char": "章",
+        "similarity": "上方多數筆畫相同，整體輪廓接近",
+        "difference": "竟下方是儿形；章下方是十。"
+      },
+      {
+        "char": "音",
+        "similarity": "上方有完整音",
+        "difference": "竟在音下多儿形；音單獨九筆。"
+      },
+      {
+        "char": "意",
+        "similarity": "上方有完整音",
+        "difference": "竟下方是儿形；意下方是心。"
+      },
+      {
+        "char": "境",
+        "similarity": "右邊有完整竟",
+        "difference": "竟單獨成字；境左邊多土。"
+      },
+      {
+        "char": "鏡",
+        "similarity": "右邊有完整竟",
+        "difference": "竟單獨成字；鏡左邊多金。"
+      },
+      {
+        "char": "競",
+        "similarity": "上下都有兄形與立形，輪廓較寬",
+        "difference": "竟是上音下儿形；競左右重複，筆畫更多。"
+      }
+    ],
+    "teachingTip": "音部占前九筆，最後兩筆是儿形；不要和章、競混寫。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

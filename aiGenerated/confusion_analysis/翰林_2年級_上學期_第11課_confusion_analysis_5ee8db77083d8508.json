@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_5ee8db77083d8508",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "主",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "主",
+    "groups": {
+      "shape": [
+        {
+          "char": "王",
+          "why": "主的下方有王形",
+          "difference": "主在王上多一點；王沒有頂點。"
+        },
+        {
+          "char": "玉",
+          "why": "都有王形並多一點",
+          "difference": "主的點在正上方；玉的點在右下側。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "煮",
+          "why": "同音：主、煮都讀ㄓㄨˇ。",
+          "difference": "主可指主人、主要；煮是加熱食物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "客",
+          "why": "意義相對。",
+          "difference": "主是主人或主方；客是來訪者或客方。"
+        }
+      ],
+      "component": [
+        {
+          "char": "王",
+          "why": "部件比較：主的下方有王形",
+          "difference": "主在王上多一點；王沒有頂點。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「主播」，再依字形與句意選字。部首是最上方丶；其餘四筆成王形，不要漏點。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

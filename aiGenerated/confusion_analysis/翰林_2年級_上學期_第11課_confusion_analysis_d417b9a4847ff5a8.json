@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_d417b9a4847ff5a8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "門",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "門",
+    "groups": {
+      "shape": [
+        {
+          "char": "間",
+          "why": "外框是完整門",
+          "difference": "門中空；間裡面多日。"
+        },
+        {
+          "char": "聞",
+          "why": "外框是完整門",
+          "difference": "門中空；聞裡面多耳。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "們",
+          "why": "同音或輕聲：門ㄇㄣˊ；「我們」的們常讀輕聲。",
+          "difference": "門是出入口；們是人稱代詞的複數詞尾，左邊多亻。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "戶",
+          "why": "都可指房屋的出入口。",
+          "difference": "門通常較大並有門框；戶也可指人家或戶口。"
+        }
+      ],
+      "component": [
+        {
+          "char": "間",
+          "why": "部件比較：外框是完整門",
+          "difference": "門中空；間裡面多日。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「大門」，再依字形與句意選字。門是八筆獨體字，部首涵蓋全字；要保留標準繁體字形。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}
