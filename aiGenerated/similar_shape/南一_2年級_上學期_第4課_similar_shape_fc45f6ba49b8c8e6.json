@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "圓",
     "similarChars": [
-      "園",
-      "員",
-      "團",
-      "圖",
-      "國",
-      "圍"
+      {
+        "char": "園",
+        "similarity": "外框同為囗",
+        "difference": "框內員改為袁"
+      },
+      {
+        "char": "員",
+        "similarity": "同含員",
+        "difference": "員沒有外框囗"
+      },
+      {
+        "char": "團",
+        "similarity": "外框同為囗",
+        "difference": "框內員改為專"
+      },
+      {
+        "char": "圖",
+        "similarity": "外框同為囗",
+        "difference": "框內上部有口和回形，下部不是貝"
+      },
+      {
+        "char": "國",
+        "similarity": "外框同為囗",
+        "difference": "框內員改為或"
+      },
+      {
+        "char": "圍",
+        "similarity": "外框同為囗",
+        "difference": "框內員改為韋"
+      }
     ],
     "teachingTip": "圓的外框是囗，裡面是員；園、團、圖也有外框，辨認時看框內的字。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

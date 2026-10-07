@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "戲",
     "similarChars": [
-      "戰",
-      "戴",
-      "識",
-      "織",
-      "職",
-      "熾"
+      {
+        "char": "戰",
+        "similarity": "右側同有戈",
+        "difference": "左側虍下豆的部分改為單"
+      },
+      {
+        "char": "戴",
+        "similarity": "同有戈形斜鉤",
+        "difference": "戴的戈與土構成外側，上下另有田和共"
+      },
+      {
+        "char": "識",
+        "similarity": "右側區域同有戈",
+        "difference": "識左側是訁，戈旁是音"
+      },
+      {
+        "char": "織",
+        "similarity": "右側區域同有戈",
+        "difference": "織左側是糹，戈旁是音"
+      },
+      {
+        "char": "職",
+        "similarity": "右側區域同有戈",
+        "difference": "職左側是耳，戈旁是音"
+      },
+      {
+        "char": "熾",
+        "similarity": "右側區域同有戈",
+        "difference": "熾左側是火，戈旁是音"
+      }
     ],
     "teachingTip": "戲右邊有戈；戰、戴也有戈，識、織、職、熾右側的筆畫相近，先找左邊和戈的位置。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

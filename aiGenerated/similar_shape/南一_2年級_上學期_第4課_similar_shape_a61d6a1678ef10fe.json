@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "洗",
     "similarChars": [
-      "先",
-      "銑",
-      "選",
-      "沅",
-      "洸",
-      "浣"
+      {
+        "char": "先",
+        "similarity": "同含先",
+        "difference": "先沒有左側氵"
+      },
+      {
+        "char": "銑",
+        "similarity": "右側同為先",
+        "difference": "左側氵改為金字旁；銑為較少見字"
+      },
+      {
+        "char": "洙",
+        "similarity": "左側同氵，右上有撇橫",
+        "difference": "右側先改為朱，下方不是儿"
+      },
+      {
+        "char": "沅",
+        "similarity": "左側同氵且右下同儿",
+        "difference": "右側先改為元，上方是二"
+      },
+      {
+        "char": "洸",
+        "similarity": "左側同氵且右下同儿",
+        "difference": "右側先改為光，上方是小形；洸為較少見字"
+      },
+      {
+        "char": "浣",
+        "similarity": "左側同氵且右下同儿",
+        "difference": "右側先改為完，上方多宀"
+      }
     ],
-    "teachingTip": "洗左邊是三點水氵，右邊是先；銑把左邊換成金，沅、洸、浣也有三點水，要看右邊。"
+    "teachingTip": "先找氵，再核對右側是否為先；沅、洸、浣的右上部不同。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

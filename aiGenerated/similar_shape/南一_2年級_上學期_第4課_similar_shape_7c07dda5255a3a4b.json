@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "澡",
     "similarChars": [
-      "噪",
-      "燥",
-      "操",
-      "躁",
-      "藻",
-      "懆"
+      {
+        "char": "噪",
+        "similarity": "右側同為喿",
+        "difference": "左側氵改為口"
+      },
+      {
+        "char": "燥",
+        "similarity": "右側同為喿",
+        "difference": "左側氵改為火"
+      },
+      {
+        "char": "操",
+        "similarity": "右側同為喿",
+        "difference": "左側氵改為扌"
+      },
+      {
+        "char": "躁",
+        "similarity": "右側同為喿",
+        "difference": "左側氵改為足字旁"
+      },
+      {
+        "char": "藻",
+        "similarity": "下方完整包含澡",
+        "difference": "上方多艹"
+      },
+      {
+        "char": "懆",
+        "similarity": "右側同為喿",
+        "difference": "左側氵改為忄；懆為罕用字"
+      }
     ],
     "teachingTip": "澡左邊是三點水氵，右邊是三個口加木的喿；噪、燥、操、躁把左邊換成其他部首。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

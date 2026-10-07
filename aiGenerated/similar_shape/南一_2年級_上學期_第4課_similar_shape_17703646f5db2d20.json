@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "形",
     "similarChars": [
-      "刑",
-      "型",
-      "彤",
-      "彩",
-      "影",
-      "彰"
+      {
+        "char": "刑",
+        "similarity": "左側开形相同",
+        "difference": "右側彡改為刂"
+      },
+      {
+        "char": "型",
+        "similarity": "上方含與形相近的刑",
+        "difference": "型右上是刂且下方多土"
+      },
+      {
+        "char": "彤",
+        "similarity": "右側同有彡",
+        "difference": "左側开改為丹"
+      },
+      {
+        "char": "彩",
+        "similarity": "右側同有彡",
+        "difference": "左側开改為采"
+      },
+      {
+        "char": "影",
+        "similarity": "右側同有彡",
+        "difference": "左側开改為景"
+      },
+      {
+        "char": "彰",
+        "similarity": "右側同有彡",
+        "difference": "左側开改為章"
+      }
     ],
     "teachingTip": "形右邊有三撇彡；刑右邊是立刀刂，型下方有土，別只看左上角。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

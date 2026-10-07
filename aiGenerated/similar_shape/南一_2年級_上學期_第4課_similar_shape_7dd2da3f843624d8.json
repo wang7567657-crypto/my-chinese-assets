@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "餅",
     "similarChars": [
-      "拼",
-      "併",
-      "屏",
-      "瓶",
-      "飯",
-      "餃"
+      {
+        "char": "拼",
+        "similarity": "右側同為并",
+        "difference": "左側飠改為扌"
+      },
+      {
+        "char": "併",
+        "similarity": "右側同為并",
+        "difference": "左側飠改為亻"
+      },
+      {
+        "char": "屏",
+        "similarity": "同含并",
+        "difference": "屏是尸包住并，沒有飠"
+      },
+      {
+        "char": "瓶",
+        "similarity": "同含并",
+        "difference": "瓶是并右邊加瓦，沒有飠"
+      },
+      {
+        "char": "飯",
+        "similarity": "左側同有飠",
+        "difference": "右側并改為反"
+      },
+      {
+        "char": "餃",
+        "similarity": "左側同有飠",
+        "difference": "右側并改為交"
+      }
     ],
     "teachingTip": "餅左邊是食字旁飠，右邊是并；拼、併、瓶也含并，飯、餃則同有食字旁。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

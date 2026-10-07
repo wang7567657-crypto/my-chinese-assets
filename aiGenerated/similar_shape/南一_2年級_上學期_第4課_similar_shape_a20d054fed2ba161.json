@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "剩",
     "similarChars": [
-      "乘",
-      "乖",
-      "利",
-      "刻",
-      "剪",
-      "創"
+      {
+        "char": "乘",
+        "similarity": "同含乘",
+        "difference": "乘沒有右側刂"
+      },
+      {
+        "char": "乖",
+        "similarity": "中間同見北形",
+        "difference": "乖少了乘下側伸出的撇捺，也沒有刂"
+      },
+      {
+        "char": "利",
+        "similarity": "右側同有刂，左側含禾形",
+        "difference": "利左側是禾，沒有乘中間的北形"
+      },
+      {
+        "char": "刻",
+        "similarity": "右側同有刂",
+        "difference": "左側乘改為亥"
+      },
+      {
+        "char": "剝",
+        "similarity": "右側同有刂",
+        "difference": "左側乘改為彔"
+      },
+      {
+        "char": "創",
+        "similarity": "右側同有刂",
+        "difference": "左側乘改為倉"
+      }
     ],
-    "teachingTip": "剩左邊是乘、右邊是立刀刂；乘少了立刀，乖的中間也容易看錯，利、刻、創則同有立刀。"
+    "teachingTip": "先找左側乘與右側刂；比較乘和乖，再辨認其他立刀旁字的左半部。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

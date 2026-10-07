@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "麻",
     "similarChars": [
-      "磨",
-      "摩",
-      "魔",
-      "麼",
-      "嘛",
-      "靡"
+      {
+        "char": "磨",
+        "similarity": "上方完整保留麻",
+        "difference": "下方多石"
+      },
+      {
+        "char": "摩",
+        "similarity": "上方完整保留麻",
+        "difference": "下方多手"
+      },
+      {
+        "char": "魔",
+        "similarity": "上方完整保留麻",
+        "difference": "下方多鬼"
+      },
+      {
+        "char": "麼",
+        "similarity": "上方完整保留麻",
+        "difference": "下方多幺"
+      },
+      {
+        "char": "嘛",
+        "similarity": "右側完整保留麻",
+        "difference": "左側多口"
+      },
+      {
+        "char": "靡",
+        "similarity": "上方完整保留麻",
+        "difference": "下方多非"
+      }
     ],
-    "teachingTip": "麻有廣字頭和兩個木形；磨、摩、魔都含麻，仔細看額外加在下方或右邊的部分。"
+    "teachingTip": "先找广，再觀察下方左右兩組四筆與鉤筆；不可把下方直接寫成林。比較含麻的字，再找新增部件。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

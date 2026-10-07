@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "飯",
     "similarChars": [
-      "反",
-      "板",
-      "版",
-      "販",
-      "餅",
-      "飲"
+      {
+        "char": "反",
+        "similarity": "同含反",
+        "difference": "反沒有左側飠"
+      },
+      {
+        "char": "板",
+        "similarity": "右側同為反",
+        "difference": "左側飠改為木"
+      },
+      {
+        "char": "版",
+        "similarity": "右側同為反",
+        "difference": "左側飠改為片"
+      },
+      {
+        "char": "販",
+        "similarity": "右側同為反",
+        "difference": "左側飠改為貝"
+      },
+      {
+        "char": "餅",
+        "similarity": "左側同有飠",
+        "difference": "右側反改為并"
+      },
+      {
+        "char": "飲",
+        "similarity": "左側同有飠",
+        "difference": "右側反改為欠"
+      }
     ],
     "teachingTip": "飯左邊是食字旁飠，右邊是反；板、版、販換了左邊，餅、飲則同有食字旁。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

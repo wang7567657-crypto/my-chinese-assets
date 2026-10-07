@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "整",
     "similarChars": [
-      "敕",
-      "政",
-      "徵",
-      "斂",
-      "敞",
-      "正"
+      {
+        "char": "敕",
+        "similarity": "上方同為束與攵",
+        "difference": "敕沒有下方正"
+      },
+      {
+        "char": "政",
+        "similarity": "同含正與攵",
+        "difference": "政的正移至左側且沒有束"
+      },
+      {
+        "char": "徵",
+        "similarity": "右側區域同有攵",
+        "difference": "徵左側多彳，中間不是束與正"
+      },
+      {
+        "char": "斂",
+        "similarity": "右側區域同有攵",
+        "difference": "斂左側是僉且沒有下方正"
+      },
+      {
+        "char": "敞",
+        "similarity": "右側區域同有攵",
+        "difference": "敞左側是尚且沒有下方正"
+      },
+      {
+        "char": "正",
+        "similarity": "同含正",
+        "difference": "正沒有上方束與攵"
+      }
     ],
     "teachingTip": "整上方有束和攵，下方是正；敕也有束和攵但沒有下方的正，政則有正和攵。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

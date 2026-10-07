@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "拾",
     "similarChars": [
-      "合",
-      "給",
-      "恰",
-      "洽",
-      "哈",
-      "塔"
+      {
+        "char": "合",
+        "similarity": "同含合",
+        "difference": "合沒有左側扌"
+      },
+      {
+        "char": "給",
+        "similarity": "右側同為合",
+        "difference": "左側扌改為糹"
+      },
+      {
+        "char": "恰",
+        "similarity": "右側同為合",
+        "difference": "左側扌改為忄"
+      },
+      {
+        "char": "洽",
+        "similarity": "右側同為合",
+        "difference": "左側扌改為氵"
+      },
+      {
+        "char": "哈",
+        "similarity": "右側同為合",
+        "difference": "左側扌改為口"
+      },
+      {
+        "char": "塔",
+        "similarity": "右下同有合",
+        "difference": "塔左側是土且合上方多艹"
+      }
     ],
     "teachingTip": "拾左邊是提手旁扌，右邊是合；給、恰、洽、哈也含合，認字先看左邊。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }
