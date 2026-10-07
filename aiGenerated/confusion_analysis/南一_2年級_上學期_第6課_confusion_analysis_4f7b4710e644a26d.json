@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_4f7b4710e644a26d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "對",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "對",
+    "groups": {
+      "shape": [
+        {
+          "char": "樹",
+          "why": "兩字筆畫多，都能看到寸，容易記混局部。",
+          "difference": "對右邊寸，左下有土；樹最左邊另有木，右部為尌。對沒有木字旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "隊",
+          "why": "對與排隊的隊同音，都是 ㄉㄨㄟˋ。",
+          "difference": "對話、對的用對；排隊、隊伍用隊。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "向",
+          "why": "對、向都可在句中引出說話的對象。",
+          "difference": "對媽媽說、向媽媽說都可用；對還可表示正確或成雙，這些用法不能都換成向。"
+        }
+      ],
+      "component": [
+        {
+          "char": "村",
+          "why": "對、村都以寸作右部。",
+          "difference": "村左邊木，讀 ㄘㄨㄣ；對左邊是較複雜的字形，讀 ㄉㄨㄟˋ。不能只看到寸便認成村。"
+        }
+      ]
+    },
+    "tip": "先分左右兩區，再找右寸的一點。用「我對媽媽說：這樣做對了」看對的不同用法。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

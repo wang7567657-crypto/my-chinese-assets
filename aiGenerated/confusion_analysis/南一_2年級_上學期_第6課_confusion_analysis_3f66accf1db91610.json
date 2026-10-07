@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_3f66accf1db91610",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "灘",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "灘",
+    "groups": {
+      "shape": [
+        {
+          "char": "攤",
+          "why": "灘、攤右邊同為難，差在左旁。",
+          "difference": "灘左邊氵，例海灘；攤左邊扌，例攤開、攤位。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "貪",
+          "why": "灘與貪心的貪同音，都是 ㄊㄢ。",
+          "difference": "海灘、沙灘用灘；貪心、貪玩用貪。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "岸",
+          "why": "灘與岸都和水邊地形有關。",
+          "difference": "灘常指水邊較低平的沙石地；岸指水域邊緣的陸地。海岸不一定都是沙灘，也可能是岩岸。"
+        }
+      ],
+      "component": [
+        {
+          "char": "難",
+          "why": "灘右邊是難，容易按部件讀音猜字。",
+          "difference": "灘左邊另有氵，讀 ㄊㄢ；難在困難中讀 ㄋㄢˊ。右邊相同，不代表同音。"
+        }
+      ]
+    },
+    "tip": "用照片找水邊的沙地，連到氵；比較灘與攤左旁，並提醒灘不讀難的音。複雜右部按標準字形分區描寫。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

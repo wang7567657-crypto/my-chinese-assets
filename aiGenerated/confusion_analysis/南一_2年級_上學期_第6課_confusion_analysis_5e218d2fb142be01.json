@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_5e218d2fb142be01",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "少",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "少",
+    "groups": {
+      "shape": [
+        {
+          "char": "小",
+          "why": "少與小都有中間筆畫和左右短筆。",
+          "difference": "少下方有長撇，中豎不鉤；小沒有下方長撇，中間是豎鉤。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "掃",
+          "why": "少在減少中讀 ㄕㄠˇ；掃在掃地中讀 ㄙㄠˇ。韻母和聲調相同，聲母 ㄕ／ㄙ 不同，屬近音。",
+          "difference": "少用塑膠袋的少要讀 ㄕㄠˇ；打掃的掃要讀 ㄙㄠˇ，練習聽辨翹舌與平舌。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "多",
+          "why": "少、多是一組表示數量的相反詞。",
+          "difference": "少是數量不多；多是數量較大。另以小表示尺寸，不能把小瓶子直接當成瓶子少。"
+        }
+      ],
+      "component": [
+        {
+          "char": "沙",
+          "why": "少是沙的右部，容易忽略整字多了氵。",
+          "difference": "少在本課讀 ㄕㄠˇ；沙加氵後讀 ㄕㄚ，例沙灘。"
+        }
+      ]
+    },
+    "tip": "用「兩個大瓶／很多小瓶」區分大小與多少。本課少用、減少讀 ㄕㄠˇ；少年中的少讀 ㄕㄠˋ。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

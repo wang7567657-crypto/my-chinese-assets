@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_31aa3bc1d5be6479",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "沙",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "沙",
+    "groups": {
+      "shape": [
+        {
+          "char": "抄",
+          "why": "沙與抄右邊都是少。",
+          "difference": "沙左邊是氵，例沙灘；抄左邊是扌，例抄寫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "紗",
+          "why": "沙與紗同音，都是 ㄕㄚ。",
+          "difference": "沙灘有細小沙粒，用氵旁的沙；紗布、紗窗用糹旁的紗。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "砂",
+          "why": "沙與砂都能指細碎石粒，詞義有重疊。",
+          "difference": "一般課文寫沙灘、沙子；砂紙、砂糖寫砂。依固定詞語認字，不說兩者永遠可互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "少",
+          "why": "沙右半是少，可能把部件的音搬過來。",
+          "difference": "沙是氵加少，讀 ㄕㄚ；少在減少中讀 ㄕㄠˇ，沒有氵。"
+        }
+      ]
+    },
+    "tip": "以「沙灘上的沙粒」配圖，再與抄寫的抄比左旁。少是字形線索，不是直接讀音規則。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

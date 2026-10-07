@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_4c9b3468081d9305",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "如",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "如",
+    "groups": {
+      "shape": [
+        {
+          "char": "始",
+          "why": "如、始都有左邊女，右邊又都看得到口。",
+          "difference": "如右邊只有口；始右邊台，口上還有厶。例：如果／開始。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "入",
+          "why": "如 ㄖㄨˊ 與入 ㄖㄨˋ 聲母韻母相同，聲調不同，屬近音。",
+          "difference": "如是第二聲，例如果；入是第四聲，例進入。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "若",
+          "why": "如果與若是都可提出假設。",
+          "difference": "如果、若是的用法接近；但如同表示像，不能把如同任意換成若同。要看整個詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "和",
+          "why": "如、和右邊都有口。",
+          "difference": "如左邊女，讀 ㄖㄨˊ；和左邊禾，「和平」讀 ㄏㄜˊ。只看口無法辨認整字。"
+        }
+      ]
+    },
+    "tip": "先辨右邊是口還是台，再完成「如果少用塑膠袋，就……」的句子。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

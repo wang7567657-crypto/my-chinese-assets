@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_3b18e2642bb632bd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "垃",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "垃",
+    "groups": {
+      "shape": [
+        {
+          "char": "拉",
+          "why": "垃、拉右邊同為立，左旁很容易混。",
+          "difference": "垃左邊土，例垃圾；拉左邊扌，例拉手。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "樂",
+          "why": "垃與快樂的樂同音，都是 ㄌㄜˋ。",
+          "difference": "垃圾的垃寫土加立；快樂的樂是另一個字。「拉」讀 ㄌㄚ，與本課垃的讀音不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "屑",
+          "why": "垃圾與紙屑都可能出現在清掃情境。",
+          "difference": "垃圾是廢棄物的統稱；紙屑是紙的碎片，只是可能成為垃圾的一種物品。垃通常與圾合成詞使用。"
+        }
+      ],
+      "component": [
+        {
+          "char": "圾",
+          "why": "垃、圾同為土旁，常連寫而調換順序。",
+          "difference": "垃右立、圾右及；順序是垃圾，讀 ㄌㄜˋ ㄙㄜˋ。"
+        }
+      ]
+    },
+    "tip": "臺灣課堂以「垃圾 ㄌㄜˋ ㄙㄜˋ」整詞帶讀，再指認垃。不要按右邊立或拉的聲音猜讀。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第6課_similar_shape_dd3f5170f22d05f6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "眼",
+    "lessonChars": [
+      "自",
+      "己",
+      "沙",
+      "撿",
+      "垃",
+      "圾",
+      "眼",
+      "膠",
+      "對",
+      "牠",
+      "安",
+      "吧",
+      "如",
+      "該",
+      "留",
+      "便",
+      "減",
+      "少",
+      "灘",
+      "塑"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "眼",
+    "similarChars": [
+      {
+        "char": "根",
+        "similarity": "右半部都是艮。",
+        "difference": "眼左邊是目，框內有兩橫；根左邊是木，有向外伸出的撇和點。"
+      },
+      {
+        "char": "跟",
+        "similarity": "右半部都是艮。",
+        "difference": "眼左邊是完整的目框；跟左邊是足字旁，上方小口、下方有豎和提。"
+      },
+      {
+        "char": "很",
+        "similarity": "右半部都是艮。",
+        "difference": "眼左邊是目；很左邊是彳，有上下兩撇和一豎。"
+      },
+      {
+        "char": "恨",
+        "similarity": "右半部都是艮。",
+        "difference": "眼左邊是目；恨左邊是忄，有兩側點形和中間豎畫。"
+      },
+      {
+        "char": "狠",
+        "similarity": "右半部都是艮。",
+        "difference": "眼左邊是目；狠左邊是犭，有彎鉤和撇。"
+      },
+      {
+        "char": "限",
+        "similarity": "右半部都是艮。",
+        "difference": "眼左邊是目；限左邊是阝，有耳形彎折。"
+      }
+    ],
+    "teachingTip": "把六個字的艮先遮住，只看左旁；眼必須有直立的目框和框內兩橫。不要把目寫成只有一條內橫的日。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

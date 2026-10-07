@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第6課_similar_shape_8a1dfd5e5f619164",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "該",
+    "lessonChars": [
+      "自",
+      "己",
+      "沙",
+      "撿",
+      "垃",
+      "圾",
+      "眼",
+      "膠",
+      "對",
+      "牠",
+      "安",
+      "吧",
+      "如",
+      "該",
+      "留",
+      "便",
+      "減",
+      "少",
+      "灘",
+      "塑"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "該",
+    "similarChars": [
+      {
+        "char": "孩",
+        "similarity": "右半部都是亥。",
+        "difference": "該左邊是言，有多道橫和口；孩左邊是子，有彎鉤和提。"
+      },
+      {
+        "char": "核",
+        "similarity": "右半部都是亥。",
+        "difference": "該左邊是言；核左邊是木，有中央豎和向外伸展的撇點。"
+      },
+      {
+        "char": "咳",
+        "similarity": "右半部都是亥，左邊都能看到口形。",
+        "difference": "該左邊是完整的言，口上方還有點和橫畫；咳左邊只有口。"
+      },
+      {
+        "char": "刻",
+        "similarity": "都含有亥。",
+        "difference": "該把言放在亥左邊；刻把刂放在亥右邊，附加部件的位置不同。"
+      },
+      {
+        "char": "駭",
+        "similarity": "右半部都是亥。",
+        "difference": "該左邊是言；駭左邊是馬，底部有四點。駭是較難的字，可作延伸辨形。"
+      },
+      {
+        "char": "亥",
+        "similarity": "該的右半部就是亥。",
+        "difference": "該在亥左邊多一個言；亥本身沒有左旁。"
+      }
+    ],
+    "teachingTip": "先圈出右邊完整的亥，再找左邊言的點、橫畫和口。把該與咳放大比較，確認口上面的筆畫沒有漏寫。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

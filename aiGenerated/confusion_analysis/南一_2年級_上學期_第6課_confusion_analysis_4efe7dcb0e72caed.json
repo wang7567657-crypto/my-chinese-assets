@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_4efe7dcb0e72caed",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "眼",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "眼",
+    "groups": {
+      "shape": [
+        {
+          "char": "很",
+          "why": "眼、很都有右部艮，左旁容易看錯。",
+          "difference": "眼左邊目，例眼睛；很左邊彳，例很好。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "演",
+          "why": "眼與表演的演同音，都是 ㄧㄢˇ。",
+          "difference": "看東西用眼睛的眼；上臺表演用演。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "目",
+          "why": "眼、目都可和視覺器官有關。",
+          "difference": "日常說眼睛；目常見於目光、雙目，也可作部件。不能把固定詞眼睛寫成目睛。"
+        }
+      ],
+      "component": [
+        {
+          "char": "根",
+          "why": "眼、根右邊都含艮。",
+          "difference": "眼以目為左旁，讀 ㄧㄢˇ；根以木為左旁，讀 ㄍㄣ，例樹根。共同部件不保證同音。"
+        }
+      ]
+    },
+    "tip": "用眼睛看圖，指目旁，再比較眼、很、根。請學生說出左旁差異，避免只記右邊。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

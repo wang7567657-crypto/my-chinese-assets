@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_9ad0958259e5a662",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "撿",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "撿",
+    "groups": {
+      "shape": [
+        {
+          "char": "檢",
+          "why": "撿、檢右邊相同，只差左旁。",
+          "difference": "撿是扌，表示撿起；檢是木，常用於檢查。例：撿垃圾／檢查作業。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "減",
+          "why": "撿與減同音，都是 ㄐㄧㄢˇ。",
+          "difference": "撿是把物品拾起；減是讓數量變少。例：撿垃圾、減少垃圾。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "拾",
+          "why": "撿與拾在拾起物品的意思上接近。",
+          "difference": "撿垃圾與拾起垃圾都可表達從地上拿起；日常口語常說撿，拾常見於撿拾、拾起。"
+        }
+      ],
+      "component": [
+        {
+          "char": "儉",
+          "why": "撿、儉都有右部僉。",
+          "difference": "撿左邊扌，讀 ㄐㄧㄢˇ；儉左邊亻，也讀 ㄐㄧㄢˇ，但節儉是節省，不是撿起。"
+        }
+      ]
+    },
+    "tip": "做撿起物品的動作找扌，再讀「先撿垃圾，也要減少垃圾」，用動作分清同音字。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

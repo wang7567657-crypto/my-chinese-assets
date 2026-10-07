@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_0a7a39573aad9541",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "牠",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "牠",
+    "groups": {
+      "shape": [
+        {
+          "char": "他",
+          "why": "牠、他右邊都是也，左旁僅幾筆不同。",
+          "difference": "牠左邊牛字旁，常指動物；他左邊亻，指人。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "她",
+          "why": "牠與她同音，都是 ㄊㄚ。",
+          "difference": "牠常指動物；她指女性人物。聽起來相同，要看說的是誰。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "它",
+          "why": "牠、它都可能指非人的對象。",
+          "difference": "臺灣小學通常以牠指動物，以它指物品等非人的事物；本課若代指動物，依課文用牠。不要解釋為它絕不可能指動物。"
+        }
+      ],
+      "component": [
+        {
+          "char": "地",
+          "why": "牠、地右邊同為也。",
+          "difference": "牠左邊牛字旁，讀 ㄊㄚ；地左邊土，土地的地讀 ㄉㄧˋ。"
+        }
+      ]
+    },
+    "tip": "拿人物、螃蟹、塑膠瓶三張圖，分別練他或她、牠、它；說出代詞所指的對象。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第6課_similar_shape_8b456fedbda0888e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "垃",
+    "lessonChars": [
+      "自",
+      "己",
+      "沙",
+      "撿",
+      "垃",
+      "圾",
+      "眼",
+      "膠",
+      "對",
+      "牠",
+      "安",
+      "吧",
+      "如",
+      "該",
+      "留",
+      "便",
+      "減",
+      "少",
+      "灘",
+      "塑"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "垃",
+    "similarChars": [
+      {
+        "char": "拉",
+        "similarity": "右半部都是立，左旁都較窄。",
+        "difference": "垃左邊是土；拉左邊是扌，中間豎畫帶鉤。"
+      },
+      {
+        "char": "粒",
+        "similarity": "右半部都是立。",
+        "difference": "垃左邊是土；粒左邊是米，有點、撇和向兩側伸出的筆畫。"
+      },
+      {
+        "char": "泣",
+        "similarity": "右半部都是立。",
+        "difference": "垃左邊是土，筆畫相連；泣左邊是氵，三筆分開。"
+      },
+      {
+        "char": "位",
+        "similarity": "右半部都是立。",
+        "difference": "垃左邊是土；位左邊是亻，沒有土的兩道橫形筆畫。"
+      },
+      {
+        "char": "笠",
+        "similarity": "都含有完整的立。",
+        "difference": "垃把土放在立左邊；笠把竹字頭放在立上方。"
+      },
+      {
+        "char": "培",
+        "similarity": "左邊都是土，右邊上方都能看到立。",
+        "difference": "垃右邊只有立；培右邊是立下方再加口，整個右部較長。"
+      }
+    ],
+    "teachingTip": "固定右邊的立，逐一換左旁辨認；垃的左邊是土。再把垃與培並排，確認立下面沒有多寫一個口。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

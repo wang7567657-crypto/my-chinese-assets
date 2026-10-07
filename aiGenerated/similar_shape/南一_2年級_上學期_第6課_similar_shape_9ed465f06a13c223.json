@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第6課_similar_shape_9ed465f06a13c223",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "牠",
+    "lessonChars": [
+      "自",
+      "己",
+      "沙",
+      "撿",
+      "垃",
+      "圾",
+      "眼",
+      "膠",
+      "對",
+      "牠",
+      "安",
+      "吧",
+      "如",
+      "該",
+      "留",
+      "便",
+      "減",
+      "少",
+      "灘",
+      "塑"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "牠",
+    "similarChars": [
+      {
+        "char": "他",
+        "similarity": "右半部都是也。",
+        "difference": "牠左邊是牜，有兩道橫形筆畫和豎畫；他左邊是亻，只有撇和豎。"
+      },
+      {
+        "char": "她",
+        "similarity": "右半部都是也。",
+        "difference": "牠左邊是牜；她左邊是女，有交叉的撇與橫畫。"
+      },
+      {
+        "char": "地",
+        "similarity": "右半部都是也。",
+        "difference": "牠左邊是牜，上方有短撇；地左邊是土，沒有那一撇。"
+      },
+      {
+        "char": "池",
+        "similarity": "右半部都是也。",
+        "difference": "牠左邊是牜，筆畫相連；池左邊是氵，三筆分開。"
+      },
+      {
+        "char": "馳",
+        "similarity": "右半部都是也。",
+        "difference": "牠左邊是牜；馳左邊是馬，筆畫較多，下面有四點。"
+      },
+      {
+        "char": "也",
+        "similarity": "牠的右半部就是也。",
+        "difference": "牠在也左邊多一個牜；也本身沒有牛字旁。"
+      }
+    ],
+    "teachingTip": "先把右邊也固定，再辨認左旁。把牠和地放大比較，指出牜上方多出的短撇；不要只憑讀音選字。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

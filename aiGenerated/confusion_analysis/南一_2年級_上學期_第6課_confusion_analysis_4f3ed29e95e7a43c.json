@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_4f3ed29e95e7a43c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "減",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "減",
+    "groups": {
+      "shape": [
+        {
+          "char": "滅",
+          "why": "減、滅都有氵，右側外框也相近。",
+          "difference": "減右部咸裡有口；滅右部內有火。減少是變少，消滅是使不再存在。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "撿",
+          "why": "減與撿同音，都是 ㄐㄧㄢˇ。",
+          "difference": "減少用減；撿起用撿。例：先減少使用，再撿起海邊垃圾。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "少",
+          "why": "減少常連用，兩字都和數量不多有關。",
+          "difference": "減強調從原來的量變少；少可以直接描述數量不多。「本來就少」不一定經過減量。"
+        }
+      ],
+      "component": [
+        {
+          "char": "感",
+          "why": "減、感都含咸。",
+          "difference": "減是左氵右咸；感是上咸下心，讀 ㄍㄢˇ。例：減少／感謝。"
+        }
+      ]
+    },
+    "tip": "用五個積木拿走兩個，說出「數量減少了」。找三點水和口，再與滅、撿比較。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}
