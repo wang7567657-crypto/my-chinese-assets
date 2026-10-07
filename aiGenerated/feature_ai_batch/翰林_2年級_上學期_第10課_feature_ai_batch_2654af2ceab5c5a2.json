@@ -1,0 +1,63 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_2年級_上學期_第10課_feature_ai_batch_2654af2ceab5c5a2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "featureTaskType": "component_split",
+    "featureName": "部件拆分",
+    "itemCount": 19,
+    "batchCharacters": [
+      "減",
+      "表",
+      "讀",
+      "認",
+      "識",
+      "謎",
+      "答",
+      "搖",
+      "百",
+      "嘴",
+      "哥",
+      "數",
+      "題",
+      "趕",
+      "突",
+      "異",
+      "口",
+      "對",
+      "嘟"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_62e3223970b01085.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_00dc863532c4d979.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_518e3ff315756d57.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_afef5fa7fb958a03.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_30c0d7d0ba183469.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_acc79e45fa2dc843.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_8e2f58bc2835542c.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_89917f2f37866929.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_fed6ce83eb3626a1.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_9512a8144df7aab5.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_f0d4be20f16f21dd.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_22445f61c1fc46f8.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_86dff21e5dc44868.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_e7009e284e8d5a41.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_8a2e36a438f2f680.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_0ead411d9a51d019.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_9c2b423f00fa25b6.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_767716debce04ccb.json",
+      "aiGenerated/component_split/翰林_2年級_上學期_第10課_component_split_d1c9dcf9310719d1.json"
+    ]
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

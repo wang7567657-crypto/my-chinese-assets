@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第10課_similar_shape_fa53605a8fa45a98",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "百",
+    "lessonChars": [
+      "減",
+      "表",
+      "讀",
+      "認",
+      "識",
+      "謎",
+      "答",
+      "搖",
+      "百",
+      "嘴",
+      "哥",
+      "數",
+      "題",
+      "趕",
+      "突",
+      "異",
+      "口",
+      "對",
+      "嘟"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "百",
+    "similarChars": [
+      {
+        "char": "白",
+        "similarity": "下方有完整白字",
+        "difference": "百在白上多一橫；白上方是撇。"
+      },
+      {
+        "char": "自",
+        "similarity": "都有白色框形",
+        "difference": "百框內一橫且上方多橫；自框內兩橫、上方有撇。"
+      },
+      {
+        "char": "日",
+        "similarity": "都有框與中橫",
+        "difference": "百上方多一橫且框上有撇；日沒有外加筆畫。"
+      },
+      {
+        "char": "伯",
+        "similarity": "右邊有白",
+        "difference": "百上方一橫、下方白；伯左亻右白。"
+      },
+      {
+        "char": "拍",
+        "similarity": "右邊有白",
+        "difference": "百上方一橫、下方白；拍左扌右白。"
+      },
+      {
+        "char": "陌",
+        "similarity": "右邊有百",
+        "difference": "百單獨成字；陌左邊多阝。"
+      }
+    ],
+    "teachingTip": "百上方多一橫；白上方是一撇，兩字要分清楚。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

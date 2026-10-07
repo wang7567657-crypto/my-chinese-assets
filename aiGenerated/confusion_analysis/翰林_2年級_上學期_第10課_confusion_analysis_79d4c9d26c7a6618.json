@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第10課_confusion_analysis_79d4c9d26c7a6618",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "表",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "表",
+    "groups": {
+      "shape": [
+        {
+          "char": "奉",
+          "why": "上方都有三橫穿豎形",
+          "difference": "表下方是衣形下部；奉下方是兩橫與豎形。"
+        },
+        {
+          "char": "責",
+          "why": "上方都有三橫穿豎形",
+          "difference": "表下方為衣形；責下方為貝。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "錶",
+          "why": "同音，都讀ㄅㄧㄠˇ。",
+          "difference": "表弟用表；手錶、鐘錶可用錶，左邊多金。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "弟",
+          "why": "表弟是一種親屬稱謂。",
+          "difference": "表指出親屬關係；弟表示年紀較小的男性手足或同輩。"
+        }
+      ],
+      "component": [
+        {
+          "char": "奉",
+          "why": "部件比較：上方都有三橫穿豎形",
+          "difference": "表下方是衣形下部；奉下方是兩橫與豎形。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「表弟」，再依字形與句意選字。表的衣部變形從第四筆長橫起合成下部五筆；全字八筆。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

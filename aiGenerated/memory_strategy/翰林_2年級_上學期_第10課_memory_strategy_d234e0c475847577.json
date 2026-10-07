@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第10課_memory_strategy_d234e0c475847577",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "哥",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "哥",
+    "components": [
+      "上方可形",
+      "下方可形"
+    ],
+    "association": "兩個可形上下排列，下面的口是部首；旁邊畫表哥。",
+    "mnemonic": "兩個可形上下排，哥哥的哥。",
+    "visualPrompt": "保留標準繁體「哥」完整字形，在字旁另畫「表哥」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "哥由上下兩個可形組合；部首取下方口三筆。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第10課_memory_strategy_49c1c4ab95c6d80e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "題",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "題",
+    "components": [
+      "是",
+      "頁"
+    ],
+    "association": "左是右頁保持字形；旁邊畫一題算式。",
+    "mnemonic": "左是右頁，題目的題。",
+    "visualPrompt": "保留標準繁體「題」完整字形，在字旁另畫「數學題」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "題左邊是是，右邊是九筆頁；不要把頁寫成貝。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

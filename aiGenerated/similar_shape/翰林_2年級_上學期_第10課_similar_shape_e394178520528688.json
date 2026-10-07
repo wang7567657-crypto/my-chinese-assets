@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第10課_similar_shape_e394178520528688",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "答",
+    "lessonChars": [
+      "減",
+      "表",
+      "讀",
+      "認",
+      "識",
+      "謎",
+      "答",
+      "搖",
+      "百",
+      "嘴",
+      "哥",
+      "數",
+      "題",
+      "趕",
+      "突",
+      "異",
+      "口",
+      "對",
+      "嘟"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "答",
+    "similarChars": [
+      {
+        "char": "合",
+        "similarity": "下方有完整合字",
+        "difference": "答上方多竹字頭；合單獨成字。"
+      },
+      {
+        "char": "哈",
+        "similarity": "右邊都有合",
+        "difference": "答上竹下合；哈左口右合。"
+      },
+      {
+        "char": "拾",
+        "similarity": "右邊都有合",
+        "difference": "答上竹下合；拾左扌右合。"
+      },
+      {
+        "char": "給",
+        "similarity": "右邊都有合",
+        "difference": "答上竹下合；給左糹右合。"
+      },
+      {
+        "char": "塔",
+        "similarity": "右下有合",
+        "difference": "答上竹下合；塔左土，右上艹、右下合。"
+      },
+      {
+        "char": "拿",
+        "similarity": "上方有合",
+        "difference": "答上竹下合；拿上合下手。"
+      }
+    ],
+    "teachingTip": "答上方竹字頭六筆，下方是合，不要漏中間一橫。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

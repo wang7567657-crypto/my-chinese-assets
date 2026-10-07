@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第10課_confusion_analysis_0ae7cce2ad2b6c0e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "百",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "百",
+    "groups": {
+      "shape": [
+        {
+          "char": "白",
+          "why": "下方有完整白字",
+          "difference": "百在白上多一橫；白上方是撇。"
+        },
+        {
+          "char": "自",
+          "why": "都有白色框形",
+          "difference": "百框內一橫且上方多橫；自框內兩橫、上方有撇。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "擺",
+          "why": "近音，百ㄅㄞˇ、擺ㄅㄞˇ，讀音相同。",
+          "difference": "百是數目；擺表示放置或搖動。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "十",
+          "why": "都是整十數。",
+          "difference": "百等於十個十；十是較小的計數單位。"
+        }
+      ],
+      "component": [
+        {
+          "char": "白",
+          "why": "部件比較：下方有完整白字",
+          "difference": "百在白上多一橫；白上方是撇。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「一百」，再依字形與句意選字。百上方多一橫；白上方是一撇，兩字要分清楚。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

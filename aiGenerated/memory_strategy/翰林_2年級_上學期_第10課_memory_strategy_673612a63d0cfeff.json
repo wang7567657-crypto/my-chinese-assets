@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第10課_memory_strategy_673612a63d0cfeff",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "嘴",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "嘴",
+    "components": [
+      "口",
+      "觜形"
+    ],
+    "association": "左口表示嘴巴，右觜形保持完整；圖畫放在字旁。",
+    "mnemonic": "左口右觜形，嘴巴的嘴。",
+    "visualPrompt": "保留標準繁體「嘴」完整字形，在字旁另畫「嘟著嘴」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "嘴右上是此，右下是角；不要只寫成口加此。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

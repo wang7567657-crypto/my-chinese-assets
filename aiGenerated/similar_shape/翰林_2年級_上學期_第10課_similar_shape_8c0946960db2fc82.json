@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第10課_similar_shape_8c0946960db2fc82",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "嘴",
+    "lessonChars": [
+      "減",
+      "表",
+      "讀",
+      "認",
+      "識",
+      "謎",
+      "答",
+      "搖",
+      "百",
+      "嘴",
+      "哥",
+      "數",
+      "題",
+      "趕",
+      "突",
+      "異",
+      "口",
+      "對",
+      "嘟"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "嘴",
+    "similarChars": [
+      {
+        "char": "觜",
+        "similarity": "右邊有完整觜形",
+        "difference": "嘴左邊多口；觜是較少見字。"
+      },
+      {
+        "char": "此",
+        "similarity": "嘴右上有此形",
+        "difference": "嘴左口，右下還有角；此單獨成字。"
+      },
+      {
+        "char": "紫",
+        "similarity": "上方有此形",
+        "difference": "嘴右上此、右下角；紫上此下糸。"
+      },
+      {
+        "char": "柴",
+        "similarity": "上方有此形",
+        "difference": "嘴右上此、右下角；柴上此下木。"
+      },
+      {
+        "char": "雌",
+        "similarity": "左邊有此形",
+        "difference": "嘴右部為觜；雌左此右隹。"
+      },
+      {
+        "char": "些",
+        "similarity": "上方有此形",
+        "difference": "嘴右上此、右下角；些上此下二。"
+      }
+    ],
+    "teachingTip": "嘴右上是此，右下是角；不要只寫成口加此。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

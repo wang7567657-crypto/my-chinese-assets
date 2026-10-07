@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第10課_confusion_analysis_70fade354114682e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "減",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "減",
+    "groups": {
+      "shape": [
+        {
+          "char": "咸",
+          "why": "右邊有完整咸形",
+          "difference": "減左邊多氵；咸單獨成字。"
+        },
+        {
+          "char": "感",
+          "why": "上方有咸形",
+          "difference": "減左氵右咸；感上咸下心。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "撿",
+          "why": "近音，減ㄐㄧㄢˇ、撿ㄐㄧㄢˇ，讀音相同。",
+          "difference": "減表示數量變少；撿表示拾取，左邊是扌。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "加",
+          "why": "數量變化的相對運算。",
+          "difference": "減使數量變少；加使數量變多。"
+        }
+      ],
+      "component": [
+        {
+          "char": "咸",
+          "why": "部件比較：右邊有完整咸形",
+          "difference": "減左邊多氵；咸單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「減一」，再依字形與句意選字。減右邊是咸，內有口；不要把左氵寫成扌。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}
