@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第3課_memory_strategy_bc2894b5330188ae",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "勇",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "勇",
+    "components": [
+      "甬",
+      "力"
+    ],
+    "association": "看「勇」的字形，聯想勇氣樹上的葉子。這是教學聯想，不是字源解釋。",
+    "mnemonic": "上面甬、下面力，想起勇敢需要出力。",
+    "visualPrompt": "呈現標準繁體字「勇」，字形、筆畫及部件位置全部保持正確。以柔和色塊標示觀察區域；在字旁另畫勇氣樹上的葉子，圖片不取代、不遮住、不扭曲任何筆畫。",
+    "teachingTip": "先描下面的力，再圈出上面的甬。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

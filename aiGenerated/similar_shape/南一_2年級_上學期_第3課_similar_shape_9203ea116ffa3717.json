@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第3課_similar_shape_9203ea116ffa3717",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "倒",
+    "lessonChars": [
+      "勇",
+      "教",
+      "室",
+      "棵",
+      "葉",
+      "克",
+      "服",
+      "害",
+      "怕",
+      "努",
+      "完",
+      "事",
+      "倒",
+      "時",
+      "黑",
+      "低",
+      "聲",
+      "故",
+      "跌",
+      "騎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "倒",
+    "similarChars": [
+      {
+        "char": "到",
+        "similarity": "完整保留到",
+        "difference": "倒在到左加亻；到沒有單人旁。"
+      },
+      {
+        "char": "例",
+        "similarity": "左有亻、右有刂",
+        "difference": "倒中間是至；例中間是歹。"
+      },
+      {
+        "char": "侄",
+        "similarity": "左邊同為亻，並共有至",
+        "difference": "倒的最右邊多刂；侄是亻加至。"
+      },
+      {
+        "char": "致",
+        "similarity": "共有至",
+        "difference": "倒在至左有亻、右有刂；致在至右有攵。"
+      },
+      {
+        "char": "副",
+        "similarity": "右邊同為刂",
+        "difference": "倒左部為亻加至；副左部為一、口、田的組合。"
+      },
+      {
+        "char": "側",
+        "similarity": "左有亻、右有刂",
+        "difference": "倒中間是至；側中間是貝。"
+      }
+    ],
+    "teachingTip": "先指認「倒」的部件，再與前兩個形近字並排，圈出增加、減少或換位置的部件。少見字和異體字只供辨形，不要求學生背寫。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

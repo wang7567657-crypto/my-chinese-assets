@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第3課_similar_shape_bff26a0670305db2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "怕",
+    "lessonChars": [
+      "勇",
+      "教",
+      "室",
+      "棵",
+      "葉",
+      "克",
+      "服",
+      "害",
+      "怕",
+      "努",
+      "完",
+      "事",
+      "倒",
+      "時",
+      "黑",
+      "低",
+      "聲",
+      "故",
+      "跌",
+      "騎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "怕",
+    "similarChars": [
+      {
+        "char": "拍",
+        "similarity": "右邊同為白",
+        "difference": "怕左邊是豎心旁；拍左邊是提手旁。"
+      },
+      {
+        "char": "帕",
+        "similarity": "右邊同為白",
+        "difference": "怕左邊是忄；帕左邊是巾。"
+      },
+      {
+        "char": "柏",
+        "similarity": "右邊同為白",
+        "difference": "怕左邊是忄；柏左邊是木。"
+      },
+      {
+        "char": "泊",
+        "similarity": "右邊同為白",
+        "difference": "怕左邊是忄；泊左邊是三點水。"
+      },
+      {
+        "char": "迫",
+        "similarity": "共有白",
+        "difference": "怕的忄在左；迫的辶在左下。"
+      },
+      {
+        "char": "白",
+        "similarity": "怕包含白",
+        "difference": "怕在白左加忄；白沒有豎心旁。"
+      }
+    ],
+    "teachingTip": "先指認「怕」的部件，再與前兩個形近字並排，圈出增加、減少或換位置的部件。少見字和異體字只供辨形，不要求學生背寫。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

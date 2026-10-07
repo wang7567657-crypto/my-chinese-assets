@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_35a46d888bc01794",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "低",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "低",
+    "groups": {
+      "shape": [
+        {
+          "char": "底",
+          "why": "共有氐",
+          "difference": "低是亻在氐左；底是广在氐左上。"
+        },
+        {
+          "char": "抵",
+          "why": "右邊同為氐",
+          "difference": "低左邊是亻；抵左邊是扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "滴",
+          "why": "同音：低頭的低與水滴的滴都讀ㄉㄧ。",
+          "difference": "低與高度有關；滴可指小水珠。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "高",
+          "why": "是一組相反的高度詞。",
+          "difference": "低表示較矮或較下；高表示較上。"
+        }
+      ],
+      "component": [
+        {
+          "char": "紙",
+          "why": "氐與氏外形相近。",
+          "difference": "低右側氐有底下一點；紙右側氏沒有那一點。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「低」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

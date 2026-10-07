@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_4496a2690e314be4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "倒",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "倒",
+    "groups": {
+      "shape": [
+        {
+          "char": "到",
+          "why": "完整保留到",
+          "difference": "倒在到左加亻；到沒有單人旁。"
+        },
+        {
+          "char": "例",
+          "why": "左有亻、右有刂",
+          "difference": "倒中間是至；例中間是歹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "島",
+          "why": "跌倒的倒與海島的島同音，讀ㄉㄠˇ；倒水的倒讀ㄉㄠˋ。",
+          "difference": "本課跌倒讀第三聲，不讀倒水的第四聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "跌",
+          "why": "跌倒常連用，描述失去平衡。",
+          "difference": "跌是摔落的動作；倒可指由站立變成躺下，二字各有用法。"
+        }
+      ],
+      "component": [
+        {
+          "char": "到",
+          "why": "倒可以看成亻與到；到含至和刂。",
+          "difference": "到沒有最左側亻。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「倒」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

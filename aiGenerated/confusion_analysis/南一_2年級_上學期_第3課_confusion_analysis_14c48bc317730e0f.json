@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_14c48bc317730e0f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "害",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "害",
+    "groups": {
+      "shape": [
+        {
+          "char": "割",
+          "why": "完整保留害",
+          "difference": "割在害右加刂；害沒有右側立刀。"
+        },
+        {
+          "char": "瞎",
+          "why": "右邊完整保留害",
+          "difference": "瞎在害左加目；害沒有目字旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "亥",
+          "why": "同音：害怕的害與亥時的亥都讀ㄏㄞˋ；亥較少見。",
+          "difference": "害可見於害怕、傷害；亥用於地支等名稱。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "傷",
+          "why": "傷害連用，與造成損害有關。",
+          "difference": "本課害怕表示恐懼，不能把害怕寫成傷怕。"
+        }
+      ],
+      "component": [
+        {
+          "char": "瞎",
+          "why": "瞎的右邊就是害。",
+          "difference": "瞎多左側目字旁；害沒有目。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「害」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_9fef166c87a3b138",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "騎",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "騎",
+    "groups": {
+      "shape": [
+        {
+          "char": "椅",
+          "why": "右邊同為奇",
+          "difference": "騎左邊是馬；椅左邊是木。"
+        },
+        {
+          "char": "崎",
+          "why": "右邊同為奇",
+          "difference": "騎左邊是馬；崎左邊是山。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "奇",
+          "why": "同音：騎車的騎與奇怪的奇都讀ㄑㄧˊ。",
+          "difference": "騎指跨坐操作車輛或乘動物；奇怪的奇表示不尋常。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "乘",
+          "why": "都可與交通方式有關。",
+          "difference": "騎車通常跨坐並操作；乘車可指坐在車上，不一定自己操作。"
+        }
+      ],
+      "component": [
+        {
+          "char": "椅",
+          "why": "右側都是奇。",
+          "difference": "騎左側為馬；椅左側為木。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「騎」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

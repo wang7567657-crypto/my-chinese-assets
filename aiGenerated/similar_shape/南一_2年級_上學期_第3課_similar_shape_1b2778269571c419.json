@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第3課_similar_shape_1b2778269571c419",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "克",
+    "lessonChars": [
+      "勇",
+      "教",
+      "室",
+      "棵",
+      "葉",
+      "克",
+      "服",
+      "害",
+      "怕",
+      "努",
+      "完",
+      "事",
+      "倒",
+      "時",
+      "黑",
+      "低",
+      "聲",
+      "故",
+      "跌",
+      "騎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "克",
+    "similarChars": [
+      {
+        "char": "兄",
+        "similarity": "都有口及下方兩腳的形狀",
+        "difference": "克在口上多十；兄上面直接是口。"
+      },
+      {
+        "char": "兌",
+        "similarity": "都有口及下方儿形",
+        "difference": "克的口上是十；兌的口上是八形。"
+      },
+      {
+        "char": "免",
+        "similarity": "下方都有彎鉤伸出的輪廓",
+        "difference": "克上方是十、口；免上方是刀頭，中央的穿出筆形也不同。"
+      },
+      {
+        "char": "兢",
+        "similarity": "由兩個克並排",
+        "difference": "克只有一組；兢左右各有一個克。"
+      },
+      {
+        "char": "剋",
+        "similarity": "完整保留克",
+        "difference": "剋在克右加立刀旁；克沒有立刀旁。"
+      },
+      {
+        "char": "尅",
+        "similarity": "完整含有克；尅是剋的異體字，較少見",
+        "difference": "尅在克的右下加入寸；克沒有寸。異體只供辨形，教材依課本寫法。"
+      }
+    ],
+    "teachingTip": "先指認「克」的部件，再與前兩個形近字並排，圈出增加、減少或換位置的部件。少見字和異體字只供辨形，不要求學生背寫。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

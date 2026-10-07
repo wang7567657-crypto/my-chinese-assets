@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_b10002b5bb8c6712",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "服",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "服",
+    "groups": {
+      "shape": [
+        {
+          "char": "報",
+          "why": "右側有相近的卩與又形",
+          "difference": "服左邊是月；報左邊是幸，右上筆形亦須依字帖辨認。"
+        },
+        {
+          "char": "朋",
+          "why": "左邊同為月",
+          "difference": "服右邊不是月，有卩、又的形狀；朋是兩個月並排。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "福",
+          "why": "同音：克服的服與幸福的福都讀ㄈㄨˊ。",
+          "difference": "克服的服不是福；用詞意辨認。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "衣",
+          "why": "服裝與衣服都和穿著有關，但本課為克服。",
+          "difference": "克服不是穿衣；先讀完整詞語，再判斷服的意思。"
+        }
+      ],
+      "component": [
+        {
+          "char": "朋",
+          "why": "都先辨認左側月形。",
+          "difference": "服右下是又形；朋右側為月。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「服」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

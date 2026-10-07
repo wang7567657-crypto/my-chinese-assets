@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第3課_similar_shape_46f71d77f5cd7e0c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "葉",
+    "lessonChars": [
+      "勇",
+      "教",
+      "室",
+      "棵",
+      "葉",
+      "克",
+      "服",
+      "害",
+      "怕",
+      "努",
+      "完",
+      "事",
+      "倒",
+      "時",
+      "黑",
+      "低",
+      "聲",
+      "故",
+      "跌",
+      "騎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "葉",
+    "similarChars": [
+      {
+        "char": "蝶",
+        "similarity": "都有「枼」的形狀",
+        "difference": "葉在枼上加艹；蝶在枼左加虫。"
+      },
+      {
+        "char": "碟",
+        "similarity": "都有「枼」的形狀",
+        "difference": "葉上面是艹；碟左邊是石。"
+      },
+      {
+        "char": "諜",
+        "similarity": "都有「枼」的形狀",
+        "difference": "葉上面是艹；諜左邊是言字旁。"
+      },
+      {
+        "char": "牒",
+        "similarity": "都有「枼」的形狀；牒較少見",
+        "difference": "葉的艹在上；牒的片在左。"
+      },
+      {
+        "char": "枼",
+        "similarity": "葉包含枼；枼是少見字",
+        "difference": "葉比枼多最上方的艹；不要把枼當作葉的日常寫法。"
+      },
+      {
+        "char": "堞",
+        "similarity": "都有枼形；堞較少見",
+        "difference": "葉在枼上加艹；堞在枼左加土。"
+      }
+    ],
+    "teachingTip": "先指認「葉」的部件，再與前兩個形近字並排，圈出增加、減少或換位置的部件。少見字和異體字只供辨形，不要求學生背寫。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

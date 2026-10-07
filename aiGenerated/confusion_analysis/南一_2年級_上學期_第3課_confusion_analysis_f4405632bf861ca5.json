@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_f4405632bf861ca5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "跌",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "跌",
+    "groups": {
+      "shape": [
+        {
+          "char": "迭",
+          "why": "共有失",
+          "difference": "跌左邊是足字旁；迭左下是辶。"
+        },
+        {
+          "char": "秩",
+          "why": "右邊同為失",
+          "difference": "跌左邊是足；秩左邊是禾。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蝶",
+          "why": "同音：跌倒的跌與蝴蝶的蝶都讀ㄉㄧㄝˊ。",
+          "difference": "跌是摔倒的動作；蝶是昆蟲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "摔",
+          "why": "都可描述失去平衡而落下。",
+          "difference": "跌常說跌倒；摔還可表示用力把物品扔下，範圍不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "秩",
+          "why": "右側都是失。",
+          "difference": "跌左為足；秩左為禾。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「跌」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

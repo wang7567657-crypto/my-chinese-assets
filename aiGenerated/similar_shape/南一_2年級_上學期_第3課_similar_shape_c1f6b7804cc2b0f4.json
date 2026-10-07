@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第3課_similar_shape_c1f6b7804cc2b0f4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "低",
+    "lessonChars": [
+      "勇",
+      "教",
+      "室",
+      "棵",
+      "葉",
+      "克",
+      "服",
+      "害",
+      "怕",
+      "努",
+      "完",
+      "事",
+      "倒",
+      "時",
+      "黑",
+      "低",
+      "聲",
+      "故",
+      "跌",
+      "騎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "低",
+    "similarChars": [
+      {
+        "char": "底",
+        "similarity": "共有氐",
+        "difference": "低是亻在氐左；底是广在氐左上。"
+      },
+      {
+        "char": "抵",
+        "similarity": "右邊同為氐",
+        "difference": "低左邊是亻；抵左邊是扌。"
+      },
+      {
+        "char": "氐",
+        "similarity": "低包含氐；氐較少單獨使用",
+        "difference": "低在氐左加亻；氐沒有單人旁。"
+      },
+      {
+        "char": "邸",
+        "similarity": "共有氐；邸較少見",
+        "difference": "低的亻在左；邸的阝在氐右。"
+      },
+      {
+        "char": "紙",
+        "similarity": "右邊的氏與氐近似",
+        "difference": "低左邊是亻，右邊氐有底下的一點；紙左邊是糹，右邊氏沒有該點。"
+      },
+      {
+        "char": "砥",
+        "similarity": "右邊同為氐；砥較少見",
+        "difference": "低左邊是亻；砥左邊是石。"
+      }
+    ],
+    "teachingTip": "先指認「低」的部件，再與前兩個形近字並排，圈出增加、減少或換位置的部件。少見字和異體字只供辨形，不要求學生背寫。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

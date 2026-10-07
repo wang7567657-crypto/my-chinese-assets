@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_ad920d631698a855",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "克",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "克",
+    "groups": {
+      "shape": [
+        {
+          "char": "兄",
+          "why": "都有口及下方兩腳的形狀",
+          "difference": "克在口上多十；兄上面直接是口。"
+        },
+        {
+          "char": "兌",
+          "why": "都有口及下方儿形",
+          "difference": "克的口上是十；兌的口上是八形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "客",
+          "why": "同音：克服的克與客人的客都讀ㄎㄜˋ。",
+          "difference": "克服指努力戰勝困難；客人指來訪的人。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "勝",
+          "why": "克服與戰勝都有努力解決困難的意思。",
+          "difference": "克常在克服中使用；勝可指勝利，不可把克服寫成勝服。"
+        }
+      ],
+      "component": [
+        {
+          "char": "兄",
+          "why": "下方都有儿形，上方都有口。",
+          "difference": "克的口上另有十；兄沒有。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「克」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

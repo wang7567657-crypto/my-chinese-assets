@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第3課_similar_shape_123d8776dd2fe65a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "完",
+    "lessonChars": [
+      "勇",
+      "教",
+      "室",
+      "棵",
+      "葉",
+      "克",
+      "服",
+      "害",
+      "怕",
+      "努",
+      "完",
+      "事",
+      "倒",
+      "時",
+      "黑",
+      "低",
+      "聲",
+      "故",
+      "跌",
+      "騎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "完",
+    "similarChars": [
+      {
+        "char": "玩",
+        "similarity": "共有元",
+        "difference": "完是宀在元上；玩是王字旁在元左。"
+      },
+      {
+        "char": "院",
+        "similarity": "右邊完整保留完",
+        "difference": "院在完左加阝；完沒有左耳旁。"
+      },
+      {
+        "char": "元",
+        "similarity": "完包含元",
+        "difference": "完在元上加宀；元沒有寶蓋頭。"
+      },
+      {
+        "char": "冠",
+        "similarity": "都有元，頂端都有覆蓋形狀",
+        "difference": "完上面是宀，有點；冠上面是冖，內部還有寸。"
+      },
+      {
+        "char": "宗",
+        "similarity": "同有宀，下方都有橫筆",
+        "difference": "完下面是元，有彎鉤；宗下面是示，有左右兩點。"
+      },
+      {
+        "char": "定",
+        "similarity": "同有宀",
+        "difference": "完下方是元；定下方有一橫與向左右伸展的疋形。"
+      }
+    ],
+    "teachingTip": "先指認「完」的部件，再與前兩個形近字並排，圈出增加、減少或換位置的部件。少見字和異體字只供辨形，不要求學生背寫。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第3課_similar_shape_96322a4b97edee72",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "教",
+    "lessonChars": [
+      "勇",
+      "教",
+      "室",
+      "棵",
+      "葉",
+      "克",
+      "服",
+      "害",
+      "怕",
+      "努",
+      "完",
+      "事",
+      "倒",
+      "時",
+      "黑",
+      "低",
+      "聲",
+      "故",
+      "跌",
+      "騎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "教",
+    "similarChars": [
+      {
+        "char": "孝",
+        "similarity": "教的左部就是孝",
+        "difference": "教在孝右加反文旁；孝沒有反文旁。"
+      },
+      {
+        "char": "酵",
+        "similarity": "共有「孝」",
+        "difference": "教是孝加右側攵；酵是左側酉加孝。"
+      },
+      {
+        "char": "哮",
+        "similarity": "共有「孝」",
+        "difference": "教的攵在右；哮的口在左。"
+      },
+      {
+        "char": "考",
+        "similarity": "上方都有耂的形狀",
+        "difference": "教左下是子，且右有攵；考下方不是子，也沒有攵。"
+      },
+      {
+        "char": "效",
+        "similarity": "右側同為攵",
+        "difference": "教左邊是孝；效左邊是交。"
+      },
+      {
+        "char": "敎",
+        "similarity": "整體極相近；「敎」為教的異體字",
+        "difference": "教的標準字形左上是耂；異體敎的左上筆形不同，教材寫教。"
+      }
+    ],
+    "teachingTip": "先指認「教」的部件，再與前兩個形近字並排，圈出增加、減少或換位置的部件。少見字和異體字只供辨形，不要求學生背寫。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

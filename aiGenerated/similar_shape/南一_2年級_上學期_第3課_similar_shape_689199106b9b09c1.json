@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第3課_similar_shape_689199106b9b09c1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "時",
+    "lessonChars": [
+      "勇",
+      "教",
+      "室",
+      "棵",
+      "葉",
+      "克",
+      "服",
+      "害",
+      "怕",
+      "努",
+      "完",
+      "事",
+      "倒",
+      "時",
+      "黑",
+      "低",
+      "聲",
+      "故",
+      "跌",
+      "騎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "時",
+    "similarChars": [
+      {
+        "char": "持",
+        "similarity": "右邊同為寺",
+        "difference": "時左邊是日；持左邊是扌。"
+      },
+      {
+        "char": "詩",
+        "similarity": "右邊同為寺",
+        "difference": "時左邊是日；詩左邊是言字旁。"
+      },
+      {
+        "char": "侍",
+        "similarity": "右邊同為寺",
+        "difference": "時左邊是日；侍左邊是亻。"
+      },
+      {
+        "char": "待",
+        "similarity": "右邊同為寺",
+        "difference": "時左邊是日；待左邊是彳。"
+      },
+      {
+        "char": "恃",
+        "similarity": "右邊同為寺",
+        "difference": "時左邊是日；恃左邊是忄。"
+      },
+      {
+        "char": "寺",
+        "similarity": "時包含寺",
+        "difference": "時在寺左加日；寺沒有日字旁。"
+      }
+    ],
+    "teachingTip": "先指認「時」的部件，再與前兩個形近字並排，圈出增加、減少或換位置的部件。少見字和異體字只供辨形，不要求學生背寫。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_1763d0e73ae7925b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "事",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "事",
+    "groups": {
+      "shape": [
+        {
+          "char": "爭",
+          "why": "都有中央豎鉤穿過數條橫筆的形狀",
+          "difference": "事上方是一橫與口形；爭上方是爫形，不是一橫加口。"
+        },
+        {
+          "char": "亊",
+          "why": "整體與事極相近；亊是事的異體字",
+          "difference": "事的上半部有口；異體亊的中上部筆形不同，教材用事。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "是",
+          "why": "同音：事情的事與是不是的是都讀ㄕˋ。",
+          "difference": "事指事情；是用來判斷或肯定。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "物",
+          "why": "都可指我們談論的對象。",
+          "difference": "事偏向事情、活動；物偏向東西、物體。"
+        }
+      ],
+      "component": [
+        {
+          "char": "爭",
+          "why": "都有多橫與中央鉤筆。",
+          "difference": "事上方有口；爭上方是爫形，不可只看豎鉤。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「事」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_3ed578b1e0fe2818",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "怕",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "怕",
+    "groups": {
+      "shape": [
+        {
+          "char": "拍",
+          "why": "右邊同為白",
+          "difference": "怕左邊是豎心旁；拍左邊是提手旁。"
+        },
+        {
+          "char": "帕",
+          "why": "右邊同為白",
+          "difference": "怕左邊是忄；帕左邊是巾。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "帕",
+          "why": "同音：害怕的怕與手帕的帕都讀ㄆㄚˋ。",
+          "difference": "怕是心理感受；帕可指手帕。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "懼",
+          "why": "都可表示害怕。",
+          "difference": "怕是常用字；懼常見於恐懼、畏懼，不能依意思任意換字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "拍",
+          "why": "都有白。",
+          "difference": "怕左側為忄；拍左側為扌。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「怕」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

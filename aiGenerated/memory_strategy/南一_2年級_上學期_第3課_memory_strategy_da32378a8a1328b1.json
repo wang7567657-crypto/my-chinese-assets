@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第3課_memory_strategy_da32378a8a1328b1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "教",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "教",
+    "components": [
+      "孝",
+      "攵"
+    ],
+    "association": "看「教」的字形，聯想老師在教室教學生。這是教學聯想，不是字源解釋。",
+    "mnemonic": "左邊孝、右邊攵，老師教我新本領。",
+    "visualPrompt": "呈現標準繁體字「教」，字形、筆畫及部件位置全部保持正確。以柔和色塊標示觀察區域；在字旁另畫老師在教室教學生，圖片不取代、不遮住、不扭曲任何筆畫。",
+    "teachingTip": "右邊是攵，不要寫成又。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

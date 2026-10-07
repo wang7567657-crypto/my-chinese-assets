@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第3課_similar_shape_8cffbc3c30757bad",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "聲",
+    "lessonChars": [
+      "勇",
+      "教",
+      "室",
+      "棵",
+      "葉",
+      "克",
+      "服",
+      "害",
+      "怕",
+      "努",
+      "完",
+      "事",
+      "倒",
+      "時",
+      "黑",
+      "低",
+      "聲",
+      "故",
+      "跌",
+      "騎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "聲",
+    "similarChars": [
+      {
+        "char": "馨",
+        "similarity": "上面共有殸形",
+        "difference": "聲下面是耳；馨下面是香。"
+      },
+      {
+        "char": "磬",
+        "similarity": "上面共有殸形；磬較少見",
+        "difference": "聲下面是耳；磬下面是石。"
+      },
+      {
+        "char": "罄",
+        "similarity": "上面共有殸形；罄較少見",
+        "difference": "聲下面是耳；罄下面是缶。"
+      },
+      {
+        "char": "謦",
+        "similarity": "上面共有殸形；謦是少見字",
+        "difference": "聲下面是耳；謦下面是言。"
+      },
+      {
+        "char": "殸",
+        "similarity": "聲上半部是殸形；殸是少見字",
+        "difference": "聲在殸下另有耳；殸沒有下方的耳。"
+      },
+      {
+        "char": "聽",
+        "similarity": "兩字都有耳部件且筆畫密集",
+        "difference": "聲的耳在下方；聽的耳在左側，右下有心形，位置不可交換。"
+      }
+    ],
+    "teachingTip": "先指認「聲」的部件，再與前兩個形近字並排，圈出增加、減少或換位置的部件。少見字和異體字只供辨形，不要求學生背寫。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

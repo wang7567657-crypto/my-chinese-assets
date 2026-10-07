@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第3課_similar_shape_eb987d7c33b0efc9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "服",
+    "lessonChars": [
+      "勇",
+      "教",
+      "室",
+      "棵",
+      "葉",
+      "克",
+      "服",
+      "害",
+      "怕",
+      "努",
+      "完",
+      "事",
+      "倒",
+      "時",
+      "黑",
+      "低",
+      "聲",
+      "故",
+      "跌",
+      "騎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "服",
+    "similarChars": [
+      {
+        "char": "報",
+        "similarity": "右側有相近的卩與又形",
+        "difference": "服左邊是月；報左邊是幸，右上筆形亦須依字帖辨認。"
+      },
+      {
+        "char": "朋",
+        "similarity": "左邊同為月",
+        "difference": "服右邊不是月，有卩、又的形狀；朋是兩個月並排。"
+      },
+      {
+        "char": "股",
+        "similarity": "左邊同為月",
+        "difference": "服右側有卩、又形；股右側是殳，上方形狀不同。"
+      },
+      {
+        "char": "肥",
+        "similarity": "左邊同為月",
+        "difference": "服右邊下方有又；肥右邊是巴。"
+      },
+      {
+        "char": "菔",
+        "similarity": "下方完整保留服；菔較少見",
+        "difference": "菔在服上加艹；服沒有草字頭。"
+      },
+      {
+        "char": "鵩",
+        "similarity": "左側完整保留服；鵩是少見的鳥名用字",
+        "difference": "鵩在服右加鳥；服沒有鳥。"
+      }
+    ],
+    "teachingTip": "先指認「服」的部件，再與前兩個形近字並排，圈出增加、減少或換位置的部件。少見字和異體字只供辨形，不要求學生背寫。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}
