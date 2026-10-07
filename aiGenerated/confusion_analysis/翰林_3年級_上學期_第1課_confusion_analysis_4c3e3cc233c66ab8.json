@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_3年級_上學期_第1課_confusion_analysis_4c3e3cc233c66ab8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "實",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "實",
+    "groups": {
+      "shape": [
+        {
+          "char": "貫",
+          "why": "下方有完整貫形",
+          "difference": "實上方多宀；貫單獨十一筆。"
+        },
+        {
+          "char": "寶",
+          "why": "上方同為宀，下方都有貝",
+          "difference": "實下部是貫形；寶中間還有玉、缶形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "時",
+          "why": "同音：實、時都讀ㄕˊ。",
+          "difference": "實表示真實或實在；時表示時間。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "真",
+          "why": "都表示不虛假。",
+          "difference": "實可指實際、充實；真直接和假相對。"
+        }
+      ],
+      "component": [
+        {
+          "char": "貫",
+          "why": "部件比較：下方有完整貫形",
+          "difference": "實上方多宀；貫單獨十一筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「實在」，再依字形與句意選字。實是十四筆繁體字；不要寫成簡化字实。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

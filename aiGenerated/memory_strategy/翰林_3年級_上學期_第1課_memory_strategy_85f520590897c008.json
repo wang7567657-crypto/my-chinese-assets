@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_3年級_上學期_第1課_memory_strategy_85f520590897c008",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蝸",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蝸",
+    "components": [
+      "虫",
+      "咼"
+    ],
+    "association": "左虫提示小動物，右咼像蝸牛殼的彎曲輪廓；旁邊畫蝸牛。",
+    "mnemonic": "左虫右咼，慢慢走的蝸牛。",
+    "visualPrompt": "保留標準繁體「蝸」完整字形，在字旁另畫「蝸牛」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "臺灣讀音「蝸牛」為ㄍㄨㄚ ㄋㄧㄡˊ；左虫六筆。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

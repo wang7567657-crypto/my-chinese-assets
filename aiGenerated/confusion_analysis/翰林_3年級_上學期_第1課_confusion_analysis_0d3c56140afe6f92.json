@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_3年級_上學期_第1課_confusion_analysis_0d3c56140afe6f92",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "碌",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "碌",
+    "groups": {
+      "shape": [
+        {
+          "char": "祿",
+          "why": "右邊同為彔",
+          "difference": "碌左邊是石；祿左邊是礻。"
+        },
+        {
+          "char": "錄",
+          "why": "右邊同為彔",
+          "difference": "碌左邊是石；錄左邊是金。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "路",
+          "why": "同音：本課碌、路都讀ㄌㄨˋ。",
+          "difference": "碌見於忙碌；路是道路。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "忙",
+          "why": "忙碌一詞都表示事情多。",
+          "difference": "碌常和忙組詞；忙可單獨使用。"
+        }
+      ],
+      "component": [
+        {
+          "char": "祿",
+          "why": "部件比較：右邊同為彔",
+          "difference": "碌左邊是石；祿左邊是礻。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「忙碌」，再依字形與句意選字。本課「忙碌」讀ㄌㄨˋ；左石五筆。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

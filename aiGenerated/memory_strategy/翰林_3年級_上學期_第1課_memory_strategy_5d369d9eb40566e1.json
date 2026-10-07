@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_3年級_上學期_第1課_memory_strategy_5d369d9eb40566e1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "寸",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "寸",
+    "components": [
+      "寸"
+    ],
+    "association": "保留完整寸字，在旁邊畫短短的尺段；圖像不替代三筆。",
+    "mnemonic": "橫、豎鉤、點，長度一寸。",
+    "visualPrompt": "保留標準繁體「寸」完整字形，在字旁另畫「一小寸」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "寸是三筆獨體字；點在豎鉤左上側。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

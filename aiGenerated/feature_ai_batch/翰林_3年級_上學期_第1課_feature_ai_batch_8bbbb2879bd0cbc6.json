@@ -1,0 +1,59 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_3年級_上學期_第1課_feature_ai_batch_8bbbb2879bd0cbc6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "component_split",
+    "featureName": "部件拆分",
+    "itemCount": 17,
+    "batchCharacters": [
+      "待",
+      "牠",
+      "吞",
+      "寸",
+      "碌",
+      "奔",
+      "斑",
+      "實",
+      "彈",
+      "樂",
+      "它",
+      "短",
+      "悲",
+      "傷",
+      "永",
+      "蝸",
+      "簧"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 17,
+    "resultPaths": [
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_7161c94efc698828.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_1676d9478a5b7d6c.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_6b624d0587c45739.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_3f8bdd0b4a5fa9a2.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_3d2f1f8739d171b0.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_c968581e1158cbcf.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_e685d212a8a1a8b7.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_3c2772c6a2e8c397.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_155112bc0a0bac38.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_2ee12d527e7329b4.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_cdad82f844600b5a.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_6d8dd406cf4c9946.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_5f925ba4e8c0e39c.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_f98832a6b4d162e7.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_c7c5ea0f505807e9.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_dbea2c824b7bf0f0.json",
+      "aiGenerated/component_split/翰林_3年級_上學期_第1課_component_split_89bb901d38c7df12.json"
+    ]
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

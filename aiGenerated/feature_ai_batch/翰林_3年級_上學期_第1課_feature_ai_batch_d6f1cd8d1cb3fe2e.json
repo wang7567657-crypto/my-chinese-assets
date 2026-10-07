@@ -1,0 +1,59 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_3年級_上學期_第1課_feature_ai_batch_d6f1cd8d1cb3fe2e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 17,
+    "batchCharacters": [
+      "待",
+      "牠",
+      "吞",
+      "寸",
+      "碌",
+      "奔",
+      "斑",
+      "實",
+      "彈",
+      "樂",
+      "它",
+      "短",
+      "悲",
+      "傷",
+      "永",
+      "蝸",
+      "簧"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 17,
+    "resultPaths": [
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_d4f75a4ec1c62e29.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_30da46fbd9c5712b.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_079ed1564d28e956.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_6fa2cbce564ff6a0.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_d7289e825e220dfc.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_8a27ed0af83a2bef.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_1eac635918158d47.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_c603d5d26c94057a.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_2c46244c15d45441.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_270619345c174789.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_6c2ff1d45069de40.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_2eb328c7e2f767b6.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_76e491f48038afdf.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_51f58e59efab3ca4.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_ecc7d973a8cf1733.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_d5c97581f03e60c6.json",
+      "aiGenerated/similar_shape/翰林_3年級_上學期_第1課_similar_shape_79c25a94f2cc81cd.json"
+    ]
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

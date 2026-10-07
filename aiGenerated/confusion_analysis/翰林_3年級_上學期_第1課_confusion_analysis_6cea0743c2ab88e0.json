@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_3年級_上學期_第1課_confusion_analysis_6cea0743c2ab88e0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "樂",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "樂",
+    "groups": {
+      "shape": [
+        {
+          "char": "木",
+          "why": "下方有完整木",
+          "difference": "樂上方另有十一筆；木單獨四筆。"
+        },
+        {
+          "char": "藥",
+          "why": "下方有完整樂",
+          "difference": "樂單獨成字；藥上方多艹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "勒",
+          "why": "同音：本課樂、勒都可讀ㄌㄜˋ。",
+          "difference": "樂表示快樂或音樂；勒可指拉緊、約束。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "喜",
+          "why": "快樂和喜悅意思相近。",
+          "difference": "樂可表示心情愉快；喜也可表示喜愛或喜事。"
+        }
+      ],
+      "component": [
+        {
+          "char": "木",
+          "why": "部件比較：下方有完整木",
+          "difference": "樂上方另有十一筆；木單獨四筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「快樂」，再依字形與句意選字。本課「快樂」讀ㄌㄜˋ；木部是最後四筆。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

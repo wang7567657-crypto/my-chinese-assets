@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_3年級_上學期_第1課_confusion_analysis_c60e6d40d93fcc7a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蝸",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蝸",
+    "groups": {
+      "shape": [
+        {
+          "char": "咼",
+          "why": "右邊有完整咼",
+          "difference": "蝸左邊多虫；咼是較少見的部件字。"
+        },
+        {
+          "char": "鍋",
+          "why": "右邊同為咼",
+          "difference": "蝸左邊是虫；鍋左邊是金。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "瓜",
+          "why": "同音：臺灣「蝸牛」的蝸與瓜都讀ㄍㄨㄚ。",
+          "difference": "蝸見於蝸牛；瓜是植物果實。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "螺",
+          "why": "蝸牛和螺都有螺旋形外殼。",
+          "difference": "蝸牛多生活在陸地；螺的種類常見於水中。"
+        }
+      ],
+      "component": [
+        {
+          "char": "咼",
+          "why": "部件比較：右邊有完整咼",
+          "difference": "蝸左邊多虫；咼是較少見的部件字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「蝸牛」，再依字形與句意選字。臺灣讀音「蝸牛」為ㄍㄨㄚ ㄋㄧㄡˊ；左虫六筆。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

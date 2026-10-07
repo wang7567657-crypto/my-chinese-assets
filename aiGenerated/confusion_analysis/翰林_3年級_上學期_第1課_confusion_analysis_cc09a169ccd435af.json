@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_3年級_上學期_第1課_confusion_analysis_cc09a169ccd435af",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "短",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "短",
+    "groups": {
+      "shape": [
+        {
+          "char": "矢",
+          "why": "左邊有完整矢",
+          "difference": "短右邊多豆；矢單獨五筆。"
+        },
+        {
+          "char": "豆",
+          "why": "右邊有完整豆",
+          "difference": "短左邊多矢；豆單獨七筆。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "端",
+          "why": "近音：短ㄉㄨㄢˇ、端ㄉㄨㄢ，聲調不同。",
+          "difference": "短表示長度小；端可指末端或端正。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "長",
+          "why": "意義相對。",
+          "difference": "短表示距離或時間少；長表示距離或時間多。"
+        }
+      ],
+      "component": [
+        {
+          "char": "矢",
+          "why": "部件比較：左邊有完整矢",
+          "difference": "短右邊多豆；矢單獨五筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「縮短」，再依字形與句意選字。左矢五筆、右豆七筆；與長比較意思。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

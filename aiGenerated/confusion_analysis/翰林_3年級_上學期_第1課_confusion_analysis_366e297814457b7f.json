@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_3年級_上學期_第1課_confusion_analysis_366e297814457b7f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "吞",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "吞",
+    "groups": {
+      "shape": [
+        {
+          "char": "天",
+          "why": "上方有完整天",
+          "difference": "吞下方多口；天單獨四筆。"
+        },
+        {
+          "char": "吳",
+          "why": "都有口與上方伸展筆畫",
+          "difference": "吞是上天下口；吳的口在上、下部筆形不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "飩",
+          "why": "近音：吞ㄊㄨㄣ、飩ㄊㄨㄣˊ，聲調不同。",
+          "difference": "吞是把東西嚥下；飩見於餛飩。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "嚥",
+          "why": "都表示把食物送入口中。",
+          "difference": "吞可指整個嚥下；嚥較專指吞嚥動作。"
+        }
+      ],
+      "component": [
+        {
+          "char": "天",
+          "why": "部件比較：上方有完整天",
+          "difference": "吞下方多口；天單獨四筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「慢吞吞」，再依字形與句意選字。本課在「慢吞吞」中形容動作很慢；下口三筆。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

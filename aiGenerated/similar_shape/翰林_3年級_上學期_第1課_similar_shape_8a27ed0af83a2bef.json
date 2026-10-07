@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_3年級_上學期_第1課_similar_shape_8a27ed0af83a2bef",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "奔",
+    "lessonChars": [
+      "待",
+      "牠",
+      "吞",
+      "寸",
+      "碌",
+      "奔",
+      "斑",
+      "實",
+      "彈",
+      "樂",
+      "它",
+      "短",
+      "悲",
+      "傷",
+      "永",
+      "蝸",
+      "簧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "奔",
+    "similarChars": [
+      {
+        "char": "大",
+        "similarity": "上方有完整大",
+        "difference": "奔下方多卉形；大單獨三筆。"
+      },
+      {
+        "char": "卉",
+        "similarity": "下方有卉形",
+        "difference": "奔上方多大；卉單獨五筆。"
+      },
+      {
+        "char": "奮",
+        "similarity": "上方同為大，整體上下展開",
+        "difference": "奔下方是卉形；奮下方有隹、田，筆畫更多。"
+      },
+      {
+        "char": "莽",
+        "similarity": "下方有廾形且上方展開",
+        "difference": "奔上方是大；莽上方多艹且中間是犬形。"
+      },
+      {
+        "char": "賁",
+        "similarity": "上方有卉形輪廓",
+        "difference": "奔上大下卉形；賁下方是貝。"
+      },
+      {
+        "char": "本",
+        "similarity": "都有中央豎與左右撇捺輪廓",
+        "difference": "奔是上下八筆；本是木下加一橫。"
+      }
+    ],
+    "teachingTip": "奔共八筆；本課「飛奔」讀ㄅㄣ。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

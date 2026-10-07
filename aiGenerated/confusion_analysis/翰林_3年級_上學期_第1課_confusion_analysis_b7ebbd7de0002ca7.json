@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_3年級_上學期_第1課_confusion_analysis_b7ebbd7de0002ca7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "它",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "它",
+    "groups": {
+      "shape": [
+        {
+          "char": "匕",
+          "why": "下方有完整匕",
+          "difference": "它上方多宀；匕單獨兩筆。"
+        },
+        {
+          "char": "宅",
+          "why": "上方同為宀，下部輪廓近似",
+          "difference": "它下方是匕；宅下方是乇。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "他",
+          "why": "同音：它、他都讀ㄊㄚ。",
+          "difference": "它多指事物；他通常指人。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "牠",
+          "why": "都可作第三人稱代詞。",
+          "difference": "它多指無生命事物；牠專指動物。"
+        }
+      ],
+      "component": [
+        {
+          "char": "匕",
+          "why": "部件比較：下方有完整匕",
+          "difference": "它上方多宀；匕單獨兩筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「它就縮短」，再依字形與句意選字。它常指事物；上宀三筆、下匕兩筆。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

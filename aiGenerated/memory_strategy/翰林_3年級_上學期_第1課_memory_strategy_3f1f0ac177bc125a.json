@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_3年級_上學期_第1課_memory_strategy_3f1f0ac177bc125a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "短",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "短",
+    "components": [
+      "矢",
+      "豆"
+    ],
+    "association": "左矢像量長度的箭，右豆保持完整；旁邊畫縮短的彈簧。",
+    "mnemonic": "左矢右豆，長短的短。",
+    "visualPrompt": "保留標準繁體「短」完整字形，在字旁另畫「縮短」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "左矢五筆、右豆七筆；與長比較意思。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

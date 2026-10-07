@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_3年級_上學期_第1課_similar_shape_1eac635918158d47",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "斑",
+    "lessonChars": [
+      "待",
+      "牠",
+      "吞",
+      "寸",
+      "碌",
+      "奔",
+      "斑",
+      "實",
+      "彈",
+      "樂",
+      "它",
+      "短",
+      "悲",
+      "傷",
+      "永",
+      "蝸",
+      "簧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "斑",
+    "similarChars": [
+      {
+        "char": "班",
+        "similarity": "左右同為王形，整體幾乎相同",
+        "difference": "斑中間是文；班中間是刀形。"
+      },
+      {
+        "char": "斌",
+        "similarity": "都有文與王部件",
+        "difference": "斑是王文王；斌是文武左右排列。"
+      },
+      {
+        "char": "辨",
+        "similarity": "中間都有文形，左右辛形輪廓接近",
+        "difference": "斑左右是王；辨左右是辛形。"
+      },
+      {
+        "char": "辯",
+        "similarity": "左右辛形包夾中部，整體較寬",
+        "difference": "斑中間是文且共十二筆；辯中間是言，筆畫更多。"
+      },
+      {
+        "char": "瓣",
+        "similarity": "左右辛形包夾中部",
+        "difference": "斑中間是文；瓣中間是瓜。"
+      },
+      {
+        "char": "王",
+        "similarity": "左右各有王形",
+        "difference": "斑由王、文、王組成；王單獨四筆。"
+      }
+    ],
+    "teachingTip": "中間文為部首四筆；不要和班混寫。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

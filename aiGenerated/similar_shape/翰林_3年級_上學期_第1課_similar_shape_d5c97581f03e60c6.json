@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_3年級_上學期_第1課_similar_shape_d5c97581f03e60c6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "蝸",
+    "lessonChars": [
+      "待",
+      "牠",
+      "吞",
+      "寸",
+      "碌",
+      "奔",
+      "斑",
+      "實",
+      "彈",
+      "樂",
+      "它",
+      "短",
+      "悲",
+      "傷",
+      "永",
+      "蝸",
+      "簧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "蝸",
+    "similarChars": [
+      {
+        "char": "咼",
+        "similarity": "右邊有完整咼",
+        "difference": "蝸左邊多虫；咼是較少見的部件字。"
+      },
+      {
+        "char": "鍋",
+        "similarity": "右邊同為咼",
+        "difference": "蝸左邊是虫；鍋左邊是金。"
+      },
+      {
+        "char": "過",
+        "similarity": "裡面同為咼",
+        "difference": "蝸左邊是虫；過外面多辶。"
+      },
+      {
+        "char": "窩",
+        "similarity": "下方同為咼",
+        "difference": "蝸左邊是虫；窩上方是穴。"
+      },
+      {
+        "char": "禍",
+        "similarity": "右邊同為咼",
+        "difference": "蝸左邊是虫；禍左邊是礻。"
+      },
+      {
+        "char": "媧",
+        "similarity": "右邊同為咼",
+        "difference": "蝸左邊是虫；媧左邊是女，屬較少見字。"
+      }
+    ],
+    "teachingTip": "臺灣讀音「蝸牛」為ㄍㄨㄚ ㄋㄧㄡˊ；左虫六筆。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}
