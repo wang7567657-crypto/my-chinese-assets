@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第11課_similar_shape_7f12b6100634ff27",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "底",
+    "lessonChars": [
+      "怪",
+      "門",
+      "扇",
+      "立",
+      "刻",
+      "閒",
+      "馬",
+      "闖",
+      "耳",
+      "主",
+      "播",
+      "報",
+      "力",
+      "竟",
+      "巴",
+      "東",
+      "西",
+      "底",
+      "慌",
+      "仔",
+      "擠",
+      "妖"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "底",
+    "similarChars": [
+      {
+        "char": "低",
+        "similarity": "右邊都有氐",
+        "difference": "底外面是广；低左邊是亻。"
+      },
+      {
+        "char": "抵",
+        "similarity": "右邊都有氐",
+        "difference": "底外面是广；抵左邊是扌。"
+      },
+      {
+        "char": "邸",
+        "similarity": "左邊都有氐",
+        "difference": "底外面是广；邸右邊多阝。"
+      },
+      {
+        "char": "氐",
+        "similarity": "裡面有完整氐",
+        "difference": "底外面多广；氐單獨五筆。"
+      },
+      {
+        "char": "紙",
+        "similarity": "右邊有氏形，輪廓近似氐",
+        "difference": "底內氐末筆有點；紙左糹右氏，氏沒有末點。"
+      },
+      {
+        "char": "府",
+        "similarity": "外面同為广",
+        "difference": "底裡面是氐；府裡面是付。"
+      }
+    ],
+    "teachingTip": "裡面是氐，末筆有點；不要寫成低的亻。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

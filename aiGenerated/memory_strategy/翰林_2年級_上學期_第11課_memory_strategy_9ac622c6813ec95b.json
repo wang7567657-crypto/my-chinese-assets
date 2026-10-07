@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第11課_memory_strategy_9ac622c6813ec95b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "怪",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "怪",
+    "components": [
+      "忄",
+      "圣形"
+    ],
+    "association": "左邊忄提醒自己感到疑惑，右邊圣形保持原樣；旁邊畫問號。",
+    "mnemonic": "左忄右圣形，奇怪的怪。",
+    "visualPrompt": "保留標準繁體「怪」完整字形，在字旁另畫「奇怪」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "先寫左邊三筆忄，再寫右邊；這只是字形記憶，不是字源。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

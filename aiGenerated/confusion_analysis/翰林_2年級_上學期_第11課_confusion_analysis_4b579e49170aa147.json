@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_4b579e49170aa147",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "東",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "東",
+    "groups": {
+      "shape": [
+        {
+          "char": "束",
+          "why": "外形都有木形穿過方框",
+          "difference": "東框內多一橫；束中間是口形，沒有那一橫。"
+        },
+        {
+          "char": "柬",
+          "why": "都有木形穿過框內筆畫",
+          "difference": "東中間是日形；柬框內另有丷形，筆畫較多。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "冬",
+          "why": "同音：東、冬都讀ㄉㄨㄥ。",
+          "difference": "東是方向；冬是季節。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "西",
+          "why": "意義相對，都是方向。",
+          "difference": "東是日出方向；西是日落方向。"
+        }
+      ],
+      "component": [
+        {
+          "char": "束",
+          "why": "部件比較：外形都有木形穿過方框",
+          "difference": "東框內多一橫；束中間是口形，沒有那一橫。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「問東問西」，再依字形與句意選字。部首木由第1、6、7、8筆形成，筆畫不連續；全字八筆。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

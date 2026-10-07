@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_1ba32eef5b3b06d4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "擠",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "擠",
+    "groups": {
+      "shape": [
+        {
+          "char": "齊",
+          "why": "右邊有完整齊",
+          "difference": "擠左邊多扌；齊單獨十四筆。"
+        },
+        {
+          "char": "劑",
+          "why": "左邊有完整齊",
+          "difference": "擠左為扌；劑右邊是刂。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "己",
+          "why": "同音：擠、己都讀ㄐㄧˇ。",
+          "difference": "擠是推壓或聚在一起；己表示自己。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "推",
+          "why": "都可用手使物體移動。",
+          "difference": "擠常帶有空間狹小或互相推壓；推是一般向前用力。"
+        }
+      ],
+      "component": [
+        {
+          "char": "齊",
+          "why": "部件比較：右邊有完整齊",
+          "difference": "擠左邊多扌；齊單獨十四筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「用力擠」，再依字形與句意選字。擠共十七筆；左扌三筆，右齊十四筆，要保留標準繁體字形。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

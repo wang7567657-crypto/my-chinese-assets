@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第11課_similar_shape_6b12f73ee999d7b9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "播",
+    "lessonChars": [
+      "怪",
+      "門",
+      "扇",
+      "立",
+      "刻",
+      "閒",
+      "馬",
+      "闖",
+      "耳",
+      "主",
+      "播",
+      "報",
+      "力",
+      "竟",
+      "巴",
+      "東",
+      "西",
+      "底",
+      "慌",
+      "仔",
+      "擠",
+      "妖"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "播",
+    "similarChars": [
+      {
+        "char": "番",
+        "similarity": "右邊有完整番",
+        "difference": "播左邊多扌；番單獨成字。"
+      },
+      {
+        "char": "翻",
+        "similarity": "左邊有完整番",
+        "difference": "播左為扌；翻右邊是羽。"
+      },
+      {
+        "char": "潘",
+        "similarity": "右邊有完整番",
+        "difference": "播左為扌；潘左邊是氵。"
+      },
+      {
+        "char": "蕃",
+        "similarity": "下方有完整番",
+        "difference": "播左扌右番；蕃上方多艹。"
+      },
+      {
+        "char": "幡",
+        "similarity": "右邊有完整番",
+        "difference": "幡是較少見字，左為巾；播左為扌。"
+      },
+      {
+        "char": "鄱",
+        "similarity": "左邊有完整番",
+        "difference": "鄱是較少見字，右邊多阝；播左邊是扌。"
+      }
+    ],
+    "teachingTip": "右邊番上方是釆形、下方田；不要把左扌寫成木。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

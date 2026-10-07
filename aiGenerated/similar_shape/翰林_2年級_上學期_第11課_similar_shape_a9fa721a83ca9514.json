@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第11課_similar_shape_a9fa721a83ca9514",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "報",
+    "lessonChars": [
+      "怪",
+      "門",
+      "扇",
+      "立",
+      "刻",
+      "閒",
+      "馬",
+      "闖",
+      "耳",
+      "主",
+      "播",
+      "報",
+      "力",
+      "竟",
+      "巴",
+      "東",
+      "西",
+      "底",
+      "慌",
+      "仔",
+      "擠",
+      "妖"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "報",
+    "similarChars": [
+      {
+        "char": "幸",
+        "similarity": "左邊上段有幸形",
+        "difference": "報右邊另有四筆；幸單獨八筆。"
+      },
+      {
+        "char": "執",
+        "similarity": "左邊也有幸形",
+        "difference": "報右部像卩又形；執右邊是丸形。"
+      },
+      {
+        "char": "服",
+        "similarity": "右半輪廓與報右部相近",
+        "difference": "報左邊是幸形；服左邊是月。"
+      },
+      {
+        "char": "倖",
+        "similarity": "右邊有完整幸",
+        "difference": "報左為幸形、右部另有筆畫；倖左邊是亻。"
+      },
+      {
+        "char": "睪",
+        "similarity": "下段有幸形，整體上下排列",
+        "difference": "報是左右結構；睪上方有罒形。"
+      },
+      {
+        "char": "釋",
+        "similarity": "右邊含睪形，下段有幸形",
+        "difference": "報筆畫較少且是左右兩部；釋左邊是釆。"
+      }
+    ],
+    "teachingTip": "部首土是最先三筆；右半最後一筆是捺，要保留標準繁體字形。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

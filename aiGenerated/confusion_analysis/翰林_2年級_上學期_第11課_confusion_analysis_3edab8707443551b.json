@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_3edab8707443551b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "慌",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "慌",
+    "groups": {
+      "shape": [
+        {
+          "char": "荒",
+          "why": "右邊有完整荒",
+          "difference": "慌左邊多忄；荒單獨成字。"
+        },
+        {
+          "char": "謊",
+          "why": "右邊有完整荒",
+          "difference": "慌左為忄；謊左為言。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "荒",
+          "why": "同音：慌、荒都讀ㄏㄨㄤ。",
+          "difference": "慌表示心神不定；荒可指荒地、荒廢。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "急",
+          "why": "都能形容緊張著急。",
+          "difference": "慌偏向心裡亂；急可指時間緊迫或性情急。"
+        }
+      ],
+      "component": [
+        {
+          "char": "荒",
+          "why": "部件比較：右邊有完整荒",
+          "difference": "慌左邊多忄；荒單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「發慌」，再依字形與句意選字。慌右邊是荒，中間亡形、下方川形；不要漏豎彎鉤。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

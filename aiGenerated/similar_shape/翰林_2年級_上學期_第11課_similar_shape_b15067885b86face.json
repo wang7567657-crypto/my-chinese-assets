@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第11課_similar_shape_b15067885b86face",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "立",
+    "lessonChars": [
+      "怪",
+      "門",
+      "扇",
+      "立",
+      "刻",
+      "閒",
+      "馬",
+      "闖",
+      "耳",
+      "主",
+      "播",
+      "報",
+      "力",
+      "竟",
+      "巴",
+      "東",
+      "西",
+      "底",
+      "慌",
+      "仔",
+      "擠",
+      "妖"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "立",
+    "similarChars": [
+      {
+        "char": "位",
+        "similarity": "右邊有完整立",
+        "difference": "立單獨成字；位左邊多亻。"
+      },
+      {
+        "char": "拉",
+        "similarity": "右邊有完整立",
+        "difference": "立單獨成字；拉左邊多扌。"
+      },
+      {
+        "char": "泣",
+        "similarity": "右邊有完整立",
+        "difference": "立單獨成字；泣左邊多氵。"
+      },
+      {
+        "char": "粒",
+        "similarity": "右邊有完整立",
+        "difference": "立單獨成字；粒左邊多米。"
+      },
+      {
+        "char": "站",
+        "similarity": "左邊有完整立",
+        "difference": "立單獨成字；站右邊多占。"
+      },
+      {
+        "char": "章",
+        "similarity": "上方有立形",
+        "difference": "立單獨五筆；章下方多早形。"
+      }
+    ],
+    "teachingTip": "立是五筆獨體字，最後一橫要平穩。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

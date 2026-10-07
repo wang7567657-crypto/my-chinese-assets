@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_54b4c393173e4c67",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "怪",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "怪",
+    "groups": {
+      "shape": [
+        {
+          "char": "快",
+          "why": "左邊同為忄，整體都是左右結構",
+          "difference": "怪右邊是圣形；快右邊是夬。"
+        },
+        {
+          "char": "慌",
+          "why": "左邊同為忄",
+          "difference": "怪右部較短；慌右部是荒，筆畫更多。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "快",
+          "why": "近音：怪ㄍㄨㄞˋ、快ㄎㄨㄞˋ，聲母不同。",
+          "difference": "怪表示奇異或責怪；快表示速度高。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "奇",
+          "why": "「奇怪」中兩字共同表示不尋常。",
+          "difference": "怪可單獨表示奇異；奇也可表示奇特或數學中的奇數。"
+        }
+      ],
+      "component": [
+        {
+          "char": "快",
+          "why": "部件比較：左邊同為忄，整體都是左右結構",
+          "difference": "怪右邊是圣形；快右邊是夬。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「奇怪」，再依字形與句意選字。先寫左邊三筆忄，再寫右邊；這只是字形記憶，不是字源。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

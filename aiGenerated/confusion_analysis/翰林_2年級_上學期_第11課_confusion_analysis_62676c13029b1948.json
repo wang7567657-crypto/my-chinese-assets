@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_62676c13029b1948",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "仔",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "仔",
+    "groups": {
+      "shape": [
+        {
+          "char": "子",
+          "why": "右邊有完整子",
+          "difference": "仔左邊多亻；子單獨三筆。"
+        },
+        {
+          "char": "好",
+          "why": "右邊有完整子",
+          "difference": "仔左為亻；好左為女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "子",
+          "why": "在「仔細」中仔讀ㄗˇ，和子同音。",
+          "difference": "仔在本課組成仔細；子可指孩子或作詞尾。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "兒",
+          "why": "仔、兒都可指小孩。",
+          "difference": "仔還可用於仔細等詞；兒也可作詞尾，讀音不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "子",
+          "why": "部件比較：右邊有完整子",
+          "difference": "仔左邊多亻；子單獨三筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「仔細」，再依字形與句意選字。本課「仔細」讀ㄗˇ ㄒㄧˋ；右邊子共三筆。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

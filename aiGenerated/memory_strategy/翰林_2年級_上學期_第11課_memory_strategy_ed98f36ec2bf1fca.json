@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第11課_memory_strategy_ed98f36ec2bf1fca",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "東",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "東",
+    "components": [
+      "木形骨架",
+      "日形內筆"
+    ],
+    "association": "把東字放在太陽升起方向的圖旁；圖在字旁，不把筆畫當圖畫。",
+    "mnemonic": "木形骨架穿過日形，東方的東。",
+    "visualPrompt": "保留標準繁體「東」完整字形，在字旁另畫「問東問西」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "部首木由第1、6、7、8筆形成，筆畫不連續；全字八筆。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第11課_similar_shape_5490102dc9316cea",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "力",
+    "lessonChars": [
+      "怪",
+      "門",
+      "扇",
+      "立",
+      "刻",
+      "閒",
+      "馬",
+      "闖",
+      "耳",
+      "主",
+      "播",
+      "報",
+      "力",
+      "竟",
+      "巴",
+      "東",
+      "西",
+      "底",
+      "慌",
+      "仔",
+      "擠",
+      "妖"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "力",
+    "similarChars": [
+      {
+        "char": "刀",
+        "similarity": "都有彎鉤與撇，外形相近",
+        "difference": "力第一筆向左上出頭；刀的撇位置與輪廓不同。"
+      },
+      {
+        "char": "乃",
+        "similarity": "都有彎曲主筆與斜撇",
+        "difference": "力第一筆為橫折鉤；乃的轉折方向與筆勢不同。"
+      },
+      {
+        "char": "九",
+        "similarity": "都有彎鉤和撇",
+        "difference": "力先橫折鉤；九先撇再橫折彎鉤。"
+      },
+      {
+        "char": "加",
+        "similarity": "左邊有完整力",
+        "difference": "力單獨成字；加右邊多口。"
+      },
+      {
+        "char": "功",
+        "similarity": "右邊有完整力",
+        "difference": "力單獨成字；功左邊多工。"
+      },
+      {
+        "char": "男",
+        "similarity": "下方有完整力",
+        "difference": "力單獨成字；男上方多田。"
+      }
+    ],
+    "teachingTip": "力是兩筆獨體字，先寫橫折鉤，再寫撇。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

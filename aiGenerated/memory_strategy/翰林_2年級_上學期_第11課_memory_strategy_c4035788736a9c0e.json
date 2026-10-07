@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第11課_memory_strategy_c4035788736a9c0e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "馬",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "馬",
+    "components": [
+      "馬"
+    ],
+    "association": "保留完整馬字，在旁邊畫馬奔跑進門，不把筆畫畫成動物。",
+    "mnemonic": "十筆寫成馬，奔跑的馬。",
+    "visualPrompt": "保留標準繁體「馬」完整字形，在字旁另畫「馬跑進去」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "馬是十筆獨體字，末四點方向與位置要依標準字形。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第11課_memory_strategy_080aa436cb807737",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "闖",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "闖",
+    "components": [
+      "門",
+      "馬"
+    ],
+    "association": "門框裡有馬，聯想課文中馬跑進門後到處闖；不是字源說明。",
+    "mnemonic": "門裡有馬，到處闖。",
+    "visualPrompt": "保留標準繁體「闖」完整字形，在字旁另畫「闖來闖去」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "門部筆畫環繞馬，前六筆與最後兩筆合為門部。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_31a1ddb5c588d844",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "立",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "立",
+    "groups": {
+      "shape": [
+        {
+          "char": "位",
+          "why": "右邊有完整立",
+          "difference": "立單獨成字；位左邊多亻。"
+        },
+        {
+          "char": "拉",
+          "why": "右邊有完整立",
+          "difference": "立單獨成字；拉左邊多扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "利",
+          "why": "同音：立、利都讀ㄌㄧˋ。",
+          "difference": "立表示站立或立刻；利可指利益、鋒利。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "站",
+          "why": "都能表示身體直立。",
+          "difference": "立可作動詞；站還可指車站或停留的位置。"
+        }
+      ],
+      "component": [
+        {
+          "char": "位",
+          "why": "部件比較：右邊有完整立",
+          "difference": "立單獨成字；位左邊多亻。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「立刻」，再依字形與句意選字。立是五筆獨體字，最後一橫要平穩。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

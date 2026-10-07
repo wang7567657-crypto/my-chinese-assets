@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_c259b3b5f641b25e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "巴",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "巴",
+    "groups": {
+      "shape": [
+        {
+          "char": "己",
+          "why": "大部分外框筆畫相近",
+          "difference": "巴中間多一豎，外框末筆向上鉤。"
+        },
+        {
+          "char": "已",
+          "why": "外框轉折與巴相近",
+          "difference": "巴中間有一豎；已的豎筆位置與長度不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "八",
+          "why": "同音：巴、八都讀ㄅㄚ。",
+          "difference": "巴可見於嘴巴或地名；八是數字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "黏",
+          "why": "「巴住」和黏住都有附著不放的意思。",
+          "difference": "巴還可指盼望或靠近；黏專指附著。"
+        }
+      ],
+      "component": [
+        {
+          "char": "己",
+          "why": "部件比較：大部分外框筆畫相近",
+          "difference": "巴中間多一豎，外框末筆向上鉤。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「嘴巴」，再依字形與句意選字。部首己形由第1、3、4筆合成，第2筆是中豎；分組不連續。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

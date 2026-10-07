@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第11課_similar_shape_2aea4d6fcc0b4645",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "西",
+    "lessonChars": [
+      "怪",
+      "門",
+      "扇",
+      "立",
+      "刻",
+      "閒",
+      "馬",
+      "闖",
+      "耳",
+      "主",
+      "播",
+      "報",
+      "力",
+      "竟",
+      "巴",
+      "東",
+      "西",
+      "底",
+      "慌",
+      "仔",
+      "擠",
+      "妖"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "西",
+    "similarChars": [
+      {
+        "char": "四",
+        "similarity": "外框與內部兩筆的輪廓相近",
+        "difference": "西上方多一橫，框內筆形與四不同。"
+      },
+      {
+        "char": "酉",
+        "similarity": "都有上橫與方框輪廓",
+        "difference": "西框內兩筆向內；酉框內另有一橫，筆畫更多。"
+      },
+      {
+        "char": "要",
+        "similarity": "上方有完整西形",
+        "difference": "西單獨成字；要下方多女。"
+      },
+      {
+        "char": "票",
+        "similarity": "上方有西形",
+        "difference": "西單獨成字；票下方多示。"
+      },
+      {
+        "char": "栗",
+        "similarity": "上方有西形",
+        "difference": "西單獨成字；栗下方多木。"
+      },
+      {
+        "char": "晒",
+        "similarity": "右邊有完整西",
+        "difference": "西單獨成字；晒左邊多日。"
+      }
+    ],
+    "teachingTip": "西歸襾部，部首涵蓋全字；框內兩筆不可寫成四。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

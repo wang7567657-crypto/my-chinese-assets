@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_1f25f1d7f33b7ba3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "報",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "報",
+    "groups": {
+      "shape": [
+        {
+          "char": "幸",
+          "why": "左邊上段有幸形",
+          "difference": "報右邊另有四筆；幸單獨八筆。"
+        },
+        {
+          "char": "執",
+          "why": "左邊也有幸形",
+          "difference": "報右部像卩又形；執右邊是丸形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "抱",
+          "why": "同音：報、抱都讀ㄅㄠˋ。",
+          "difference": "報可指報告、回報；抱是用手臂環住。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "告",
+          "why": "報告一詞中兩字都和說明消息有關。",
+          "difference": "報偏向把消息傳出或回覆；告偏向說明、通知。"
+        }
+      ],
+      "component": [
+        {
+          "char": "幸",
+          "why": "部件比較：左邊上段有幸形",
+          "difference": "報右邊另有四筆；幸單獨八筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「播報」，再依字形與句意選字。部首土是最先三筆；右半最後一筆是捺，要保留標準繁體字形。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

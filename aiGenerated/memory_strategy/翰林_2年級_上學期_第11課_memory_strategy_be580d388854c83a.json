@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第11課_memory_strategy_be580d388854c83a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "刻",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "刻",
+    "components": [
+      "亥",
+      "刂"
+    ],
+    "association": "右邊刂像刻畫工具，左邊亥保持完整；旁邊畫時鐘表示立刻。",
+    "mnemonic": "左亥右刂，立刻的刻。",
+    "visualPrompt": "保留標準繁體「刻」完整字形，在字旁另畫「立刻」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "右邊是兩筆刂；不要把刻寫成孩或課。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

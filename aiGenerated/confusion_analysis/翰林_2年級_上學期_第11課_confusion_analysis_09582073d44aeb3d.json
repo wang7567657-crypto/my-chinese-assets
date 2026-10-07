@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第11課_confusion_analysis_09582073d44aeb3d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "播",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "播",
+    "groups": {
+      "shape": [
+        {
+          "char": "番",
+          "why": "右邊有完整番",
+          "difference": "播左邊多扌；番單獨成字。"
+        },
+        {
+          "char": "翻",
+          "why": "左邊有完整番",
+          "difference": "播左為扌；翻右邊是羽。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "撥",
+          "why": "同音：播、撥都讀ㄅㄛ。",
+          "difference": "播表示傳送或撒種；撥表示用手移動或分配。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "傳",
+          "why": "都有把消息送出去的意思。",
+          "difference": "播常指廣播或播送；傳的用途更廣，也可指傳遞物品。"
+        }
+      ],
+      "component": [
+        {
+          "char": "番",
+          "why": "部件比較：右邊有完整番",
+          "difference": "播左邊多扌；番單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「播報」，再依字形與句意選字。右邊番上方是釆形、下方田；不要把左扌寫成木。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}

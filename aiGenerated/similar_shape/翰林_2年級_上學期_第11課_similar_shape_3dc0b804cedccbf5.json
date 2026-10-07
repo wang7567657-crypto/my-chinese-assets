@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第11課_similar_shape_3dc0b804cedccbf5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "慌",
+    "lessonChars": [
+      "怪",
+      "門",
+      "扇",
+      "立",
+      "刻",
+      "閒",
+      "馬",
+      "闖",
+      "耳",
+      "主",
+      "播",
+      "報",
+      "力",
+      "竟",
+      "巴",
+      "東",
+      "西",
+      "底",
+      "慌",
+      "仔",
+      "擠",
+      "妖"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "慌",
+    "similarChars": [
+      {
+        "char": "荒",
+        "similarity": "右邊有完整荒",
+        "difference": "慌左邊多忄；荒單獨成字。"
+      },
+      {
+        "char": "謊",
+        "similarity": "右邊有完整荒",
+        "difference": "慌左為忄；謊左為言。"
+      },
+      {
+        "char": "忙",
+        "similarity": "左邊同為忄，右部都有亡形",
+        "difference": "慌右部是完整荒；忙右邊只有亡。"
+      },
+      {
+        "char": "忘",
+        "similarity": "都有亡與心部件",
+        "difference": "慌是左忄右荒；忘是上亡下心。"
+      },
+      {
+        "char": "恍",
+        "similarity": "左邊同為忄，整體輪廓接近",
+        "difference": "慌右邊是荒；恍右邊是光。"
+      },
+      {
+        "char": "惶",
+        "similarity": "左邊同為忄",
+        "difference": "慌右邊是荒；惶右邊是皇。"
+      }
+    ],
+    "teachingTip": "慌右邊是荒，中間亡形、下方川形；不要漏豎彎鉤。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T04:13:02.504Z"
+}
