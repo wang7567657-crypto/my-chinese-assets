@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_8a8a8a0055d85ee4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蔔",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蔔",
+    "groups": {
+      "shape": [
+        {
+          "char": "匐",
+          "why": "下部輪廓相近，都有勹包畐",
+          "difference": "蔔上方多艹；匐沒有艹。"
+        },
+        {
+          "char": "葡",
+          "why": "上方都有艹，下面都有勹形",
+          "difference": "蔔的勹內是畐；葡的勹內是甫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "伯",
+          "why": "在「伯父」中與蔔近音，皆可讀ㄅㄛˊ。",
+          "difference": "蔔用在蘿蔔；伯可指父親的哥哥，也可作排行。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "根",
+          "why": "蘿蔔食用的主要部分是根。",
+          "difference": "蔔通常不單獨表示根；根是植物部位。"
+        }
+      ],
+      "component": [
+        {
+          "char": "匐",
+          "why": "部件比較：下部輪廓相近，都有勹包畐",
+          "difference": "蔔上方多艹；匐沒有艹。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「蘿蔔」，再依字形與句意選字。蔔不是卜；蘿蔔中讀ㄅㄛˊ，下面要保留畐的口與田。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

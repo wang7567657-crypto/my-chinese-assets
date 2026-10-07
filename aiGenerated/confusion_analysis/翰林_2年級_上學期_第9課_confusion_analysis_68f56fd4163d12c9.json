@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_68f56fd4163d12c9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "黏",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "黏",
+    "groups": {
+      "shape": [
+        {
+          "char": "粘",
+          "why": "右邊都有占",
+          "difference": "黏左為黍；粘左為米。粘可通黏，但本課用標準字黏。"
+        },
+        {
+          "char": "占",
+          "why": "右邊有完整占字",
+          "difference": "黏左邊多黍；占單獨成字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "年",
+          "why": "同音，都讀ㄋㄧㄢˊ。",
+          "difference": "黏表示附著；年是時間單位。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "貼",
+          "why": "都有讓物體附著的意思。",
+          "difference": "黏強調有黏性或黏住；貼是把一物靠附在另一物上。"
+        }
+      ],
+      "component": [
+        {
+          "char": "粘",
+          "why": "部件比較：右邊都有占",
+          "difference": "黏左為黍；粘左為米。粘可通黏，但本課用標準字黏。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「黏在一起」，再依字形與句意選字。黏左邊是十二筆黍，不是六筆米；右邊上卜下口。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

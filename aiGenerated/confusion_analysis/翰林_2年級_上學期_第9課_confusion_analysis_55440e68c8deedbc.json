@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_55440e68c8deedbc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蔬",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蔬",
+    "groups": {
+      "shape": [
+        {
+          "char": "疏",
+          "why": "下方有完整疏字",
+          "difference": "蔬上方多艹；疏沒有艹。"
+        },
+        {
+          "char": "梳",
+          "why": "右邊與蔬下部右側都有㐬形",
+          "difference": "蔬上艹下疏；梳左木右㐬。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "書",
+          "why": "近音，蔬ㄕㄨ、書ㄕㄨ，讀音相同。",
+          "difference": "蔬用在蔬菜；書是書本或書寫。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "菜",
+          "why": "常與蔬組成蔬菜。",
+          "difference": "蔬多指可食植物；菜也可指做好的菜餚。"
+        }
+      ],
+      "component": [
+        {
+          "char": "疏",
+          "why": "部件比較：下方有完整疏字",
+          "difference": "蔬上方多艹；疏沒有艹。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「蔬菜」，再依字形與句意選字。蔬下方不是流；左下有疋形，右下有㐬形。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_aeab3de910c67879",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蛋",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蛋",
+    "groups": {
+      "shape": [
+        {
+          "char": "虫",
+          "why": "下方有完整虫字",
+          "difference": "蛋上方多疋形；虫單獨成字。"
+        },
+        {
+          "char": "蚩",
+          "why": "下方都有虫",
+          "difference": "蛋上方為疋形；蚩上方為屮形與一。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "但",
+          "why": "同音，都讀ㄉㄢˋ。",
+          "difference": "蛋是食物；但表示轉折。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "卵",
+          "why": "都能指動物的卵。",
+          "difference": "日常食物常說蛋；卵多用於生物或較正式語境。"
+        }
+      ],
+      "component": [
+        {
+          "char": "虫",
+          "why": "部件比較：下方有完整虫字",
+          "difference": "蛋上方多疋形；虫單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「蛋皮」，再依字形與句意選字。蛋下方虫有六筆，最後一點不能漏。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

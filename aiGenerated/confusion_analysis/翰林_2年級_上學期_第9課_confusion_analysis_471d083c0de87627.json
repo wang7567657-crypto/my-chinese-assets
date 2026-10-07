@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_471d083c0de87627",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "通",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "通",
+    "groups": {
+      "shape": [
+        {
+          "char": "甬",
+          "why": "內部有完整甬字",
+          "difference": "通在甬外多辶；甬單獨成字。"
+        },
+        {
+          "char": "痛",
+          "why": "內部有甬形",
+          "difference": "通外為辶；痛外為疒。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "同",
+          "why": "同音，都讀ㄊㄨㄥ。",
+          "difference": "通通表示全部；同表示相同或一起。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "全",
+          "why": "本課通通與全部意思接近。",
+          "difference": "通通是口語用法，表示全都；全也可指完整。"
+        }
+      ],
+      "component": [
+        {
+          "char": "甬",
+          "why": "部件比較：內部有完整甬字",
+          "difference": "通在甬外多辶；甬單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「通通」，再依字形與句意選字。依來源先寫甬，再寫三筆辶；每筆只分到一組。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

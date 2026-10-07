@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_a431a0e78ff34bf3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "黃",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "黃",
+    "groups": {
+      "shape": [
+        {
+          "char": "橫",
+          "why": "右邊有完整黃形",
+          "difference": "黃單獨成字；橫左邊多木。"
+        },
+        {
+          "char": "簧",
+          "why": "下方有完整黃形",
+          "difference": "黃單獨成字；簧上方多竹字頭。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "皇",
+          "why": "近音，黃ㄏㄨㄤˊ、皇ㄏㄨㄤˊ，讀音相同。",
+          "difference": "黃是顏色；皇可指君主，如皇帝。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "色",
+          "why": "黃是顏色的一種。",
+          "difference": "黃是具體色名；色是各種顏色的總稱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "橫",
+          "why": "部件比較：右邊有完整黃形",
+          "difference": "黃單獨成字；橫左邊多木。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「小黃瓜」，再依字形與句意選字。黃是十二筆獨體字；中間是由字形，不要把下方兩點漏掉。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

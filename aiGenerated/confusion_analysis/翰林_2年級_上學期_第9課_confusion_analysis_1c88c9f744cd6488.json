@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_1c88c9f744cd6488",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蘿",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蘿",
+    "groups": {
+      "shape": [
+        {
+          "char": "羅",
+          "why": "下方有完整羅形",
+          "difference": "蘿上方多艹；羅沒有艹。"
+        },
+        {
+          "char": "囉",
+          "why": "右邊都有羅",
+          "difference": "蘿上艹下羅；囉左口右羅。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鑼",
+          "why": "同音，都讀ㄌㄨㄛˊ。",
+          "difference": "蘿多用於蘿蔔；鑼是敲擊樂器。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "菜",
+          "why": "蘿蔔是蔬菜的一種。",
+          "difference": "蘿通常與蔔合成蘿蔔；菜是較廣的食物類別。"
+        }
+      ],
+      "component": [
+        {
+          "char": "羅",
+          "why": "部件比較：下方有完整羅形",
+          "difference": "蘿上方多艹；羅沒有艹。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「蘿蔔」，再依字形與句意選字。蘿下方是羅：上罒、中糹、下隹；筆畫多要分層看。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

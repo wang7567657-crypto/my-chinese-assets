@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第9課_memory_strategy_421d56c9f7865aeb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "通",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "通",
+    "components": [
+      "甬",
+      "辶"
+    ],
+    "association": "辶像路徑繞過甬，聯想所有食材通通走到一起。",
+    "mnemonic": "先甬後辶，通通的通。",
+    "visualPrompt": "保留標準繁體「通」完整字形，在字旁另畫「通通」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "依來源先寫甬，再寫三筆辶；每筆只分到一組。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

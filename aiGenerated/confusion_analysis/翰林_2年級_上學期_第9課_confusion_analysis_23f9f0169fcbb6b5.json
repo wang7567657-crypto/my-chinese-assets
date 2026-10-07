@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_23f9f0169fcbb6b5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "哪",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "哪",
+    "groups": {
+      "shape": [
+        {
+          "char": "那",
+          "why": "右邊有完整那字",
+          "difference": "哪左邊多口；那沒有口。"
+        },
+        {
+          "char": "娜",
+          "why": "右邊都有那",
+          "difference": "哪左為口；娜左為女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "那",
+          "why": "近音；那作指示詞通常讀ㄋㄚˋ。",
+          "difference": "哪在本課讀輕聲˙ㄋㄚ、加強語氣；那通常指較遠的人事物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "啊",
+          "why": "都可作句末語氣詞。",
+          "difference": "哪在「好暖哪」表示感嘆；啊也能感嘆，但字形與讀音不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "那",
+          "why": "部件比較：右邊有完整那字",
+          "difference": "哪左邊多口；那沒有口。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「好暖哪」，再依字形與句意選字。本課「好暖哪」的哪作語氣詞，讀輕聲˙ㄋㄚ；問「哪裡」時讀ㄋㄚˇ。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

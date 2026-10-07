@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_0d3cc62bb52504fa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "胖",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "胖",
+    "groups": {
+      "shape": [
+        {
+          "char": "半",
+          "why": "右邊有完整半字",
+          "difference": "胖左邊多月形；半單獨成字。"
+        },
+        {
+          "char": "伴",
+          "why": "右邊都有半",
+          "difference": "胖左為月形；伴左為亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "棒",
+          "why": "近音，胖ㄆㄤˋ、棒ㄅㄤˋ，聲母不同。",
+          "difference": "胖形容身體或外形豐滿；棒可指棍子或表示很好。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "瘦",
+          "why": "形容體態時意義相對。",
+          "difference": "胖表示肉多或外形豐滿；瘦表示肉少。"
+        }
+      ],
+      "component": [
+        {
+          "char": "半",
+          "why": "部件比較：右邊有完整半字",
+          "difference": "胖左邊多月形；半單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「白又胖」，再依字形與句意選字。胖左邊是肉部月形，右邊是半；本課讀ㄆㄤˋ。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

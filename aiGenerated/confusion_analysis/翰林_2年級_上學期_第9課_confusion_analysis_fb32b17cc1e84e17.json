@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_fb32b17cc1e84e17",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蒸",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蒸",
+    "groups": {
+      "shape": [
+        {
+          "char": "烝",
+          "why": "下方有完整烝形",
+          "difference": "烝是少見字；蒸上方多艹。"
+        },
+        {
+          "char": "丞",
+          "why": "中間有丞形",
+          "difference": "蒸上方艹、下方多灬形；丞單獨成字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "爭",
+          "why": "近音，蒸ㄓㄥ、爭ㄓㄥ，讀音相同。",
+          "difference": "蒸是用蒸氣加熱；爭表示競爭。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "煮",
+          "why": "都是把食物加熱。",
+          "difference": "蒸用水蒸氣加熱；煮把食物放進水或湯中加熱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "烝",
+          "why": "部件比較：下方有完整烝形",
+          "difference": "烝是少見字；蒸上方多艹。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「蒸米飯」，再依字形與句意選字。蒸下方有四點灬形；中間筆畫依序寫，不要漏橫。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

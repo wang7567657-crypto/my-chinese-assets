@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第9課_memory_strategy_3ad277a3d0e3e1f7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "澡",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "澡",
+    "components": [
+      "氵",
+      "喿"
+    ],
+    "association": "左氵是洗澡的水，右喿由三個口和木組成。",
+    "mnemonic": "左氵，右三口下木，洗澡的澡。",
+    "visualPrompt": "保留標準繁體「澡」完整字形，在字旁另畫「沖澡」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "澡右上有三個口，下面是木；不要把左氵寫成火。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

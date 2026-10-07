@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_01430d88e2f1e86b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "名",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "名",
+    "groups": {
+      "shape": [
+        {
+          "char": "各",
+          "why": "下方都有口，上方都有斜筆",
+          "difference": "名上方夕內有點；各上方是夂，筆形不同。"
+        },
+        {
+          "char": "句",
+          "why": "都有口和包圍形",
+          "difference": "名是上夕下口；句是勹包口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "明",
+          "why": "同音，都讀ㄇㄧㄥˊ。",
+          "difference": "名指名字或名聲；明可指明亮、明白。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "字",
+          "why": "名字由文字組成。",
+          "difference": "名可指稱人或事物；字是書寫符號，也可指人的表字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "各",
+          "why": "部件比較：下方都有口，上方都有斜筆",
+          "difference": "名上方夕內有點；各上方是夂，筆形不同。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「點名」，再依字形與句意選字。名上方是夕、下方是口；夕內的一點不能漏。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

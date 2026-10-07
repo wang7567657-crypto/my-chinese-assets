@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_b9d3c5f8edfb5713",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "細",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "細",
+    "groups": {
+      "shape": [
+        {
+          "char": "田",
+          "why": "右邊有完整田字",
+          "difference": "細左邊多糹；田單獨成字。"
+        },
+        {
+          "char": "思",
+          "why": "上方有田",
+          "difference": "細左糹右田；思上田下心。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "戲",
+          "why": "同音，都讀ㄒㄧˋ。",
+          "difference": "細表示細小或仔細；戲是遊戲或戲劇。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "小",
+          "why": "都可描述尺寸。",
+          "difference": "細著重纖細或不粗；小是大小的概括比較。"
+        }
+      ],
+      "component": [
+        {
+          "char": "田",
+          "why": "部件比較：右邊有完整田字",
+          "difference": "細左邊多糹；田單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「細心」，再依字形與句意選字。細左糹六筆，右邊是田；不要漏田中十字。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

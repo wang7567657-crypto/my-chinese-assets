@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_892a3e93cb14f1c8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "粒",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "粒",
+    "groups": {
+      "shape": [
+        {
+          "char": "立",
+          "why": "右邊有完整立字",
+          "difference": "粒左邊多米；立單獨成字。"
+        },
+        {
+          "char": "笠",
+          "why": "下方有立",
+          "difference": "粒左米右立；笠上竹下立。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "立",
+          "why": "同音，都讀ㄌㄧˋ。",
+          "difference": "粒是小顆物的量詞或米粒；立表示站立。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "顆",
+          "why": "都能計算小而圓的東西。",
+          "difference": "粒常算米等細小物；顆常算較完整的小圓物。"
+        }
+      ],
+      "component": [
+        {
+          "char": "立",
+          "why": "部件比較：右邊有完整立字",
+          "difference": "粒左邊多米；立單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「米粒」，再依字形與句意選字。粒左邊米的末筆捺收成點；右邊是立。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

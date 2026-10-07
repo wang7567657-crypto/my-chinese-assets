@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_651ff37710d3109e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "浴",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "浴",
+    "groups": {
+      "shape": [
+        {
+          "char": "谷",
+          "why": "右邊有完整谷字",
+          "difference": "浴左邊多氵；谷單獨成字。"
+        },
+        {
+          "char": "俗",
+          "why": "右邊都有谷",
+          "difference": "浴左為氵；俗左為亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "育",
+          "why": "同音，都讀ㄩˋ。",
+          "difference": "浴與洗澡有關；育表示養育或教育。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "澡",
+          "why": "都和洗浴有關。",
+          "difference": "浴可用在浴室、沐浴；澡多見於洗澡、沖澡。"
+        }
+      ],
+      "component": [
+        {
+          "char": "谷",
+          "why": "部件比較：右邊有完整谷字",
+          "difference": "浴左邊多氵；谷單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「浴室」，再依字形與句意選字。浴右邊谷上方是八形，中間人形，下方口。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}
