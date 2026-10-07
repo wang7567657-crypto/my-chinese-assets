@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第2課_confusion_analysis_50dc25106f8f028c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "畫",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "畫",
+    "groups": {
+      "shape": [
+        {
+          "char": "晝",
+          "why": "上部相同，底部都有一橫，整體非常接近。",
+          "difference": "「畫」中下部是「田」；「晝」相同位置是「日」，少了田裡的直豎。「晝」是進階字。"
+        },
+        {
+          "char": "書",
+          "why": "上方都用聿的上偏旁形，下方都有方框。",
+          "difference": "「畫」下面是「田」再加底橫；「書」下面是「曰」形，沒有「畫」最下面的底橫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "話",
+          "why": "畫、話都讀ㄏㄨㄚˋ。",
+          "difference": "畫笑臉是描繪圖像；說話的話左有言字旁，右是舌。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "寫",
+          "why": "畫與寫都可能用筆留下痕跡。",
+          "difference": "畫以圖像為主；寫以文字為主。本課用番茄醬畫笑臉，選畫。"
+        }
+      ],
+      "component": [
+        {
+          "char": "劃",
+          "why": "劃含畫部件。",
+          "difference": "畫圖的畫不加刂；計劃的劃右有刂。不要只因發音相同就多加立刀旁。"
+        }
+      ]
+    },
+    "tip": "先看田裡的豎，再看最下方底橫；用「畫笑臉、說一句話」做同音辨義。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

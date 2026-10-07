@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第2課_memory_strategy_0bc26c7e084ad9c2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "畫",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "畫",
+    "components": [
+      "聿的上偏旁形（上）",
+      "田（中下）",
+      "一（底）"
+    ],
+    "association": "記憶聯想：上方像握筆的動作，中間田形像分格畫紙，最下面一橫像畫紙底線；用番茄醬畫出笑臉。這是記形提示。",
+    "mnemonic": "上有聿形下有田，最底一橫畫笑臉。",
+    "visualPrompt": "標準「畫」字上部藍色、田橘色、底橫紅色；旁邊畫手用番茄醬在吐司上畫笑臉。田裡中豎與上方聿形分開，底橫清楚。",
+    "teachingTip": "與晝比較田、日，再與書比較底橫。上方聿形中豎不向下出頭，不畫成一長豎貫穿全字。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

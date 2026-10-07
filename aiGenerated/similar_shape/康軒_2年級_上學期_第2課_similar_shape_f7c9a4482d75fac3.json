@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第2課_similar_shape_f7c9a4482d75fac3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "方",
+    "lessonChars": [
+      "全",
+      "蛋",
+      "煎",
+      "圓",
+      "番",
+      "茄",
+      "切",
+      "輪",
+      "司",
+      "夾",
+      "吐",
+      "中",
+      "方",
+      "城",
+      "堡",
+      "接",
+      "畫",
+      "臉",
+      "餐",
+      "醬"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "方",
+    "similarChars": [
+      {
+        "char": "万",
+        "similarity": "都有一橫及下方撇、折鉤的輪廓。",
+        "difference": "「方」上方多一點；「万」沒有。「万」是「萬」的簡化字形，也見於異體資料，不作本課正字。"
+      },
+      {
+        "char": "芳",
+        "similarity": "「芳」下面就是「方」。",
+        "difference": "「芳」上面多了草字頭；「方」沒有。"
+      },
+      {
+        "char": "房",
+        "similarity": "「房」裡面有完整的「方」。",
+        "difference": "「房」外側多了「戶」；「方」沒有。"
+      },
+      {
+        "char": "防",
+        "similarity": "「防」右半就是「方」。",
+        "difference": "「防」左半多了雙耳旁「阝」；「方」沒有。"
+      },
+      {
+        "char": "放",
+        "similarity": "「放」左半就是「方」。",
+        "difference": "「放」右半多了反文旁「攵」；「方」沒有。"
+      },
+      {
+        "char": "仿",
+        "similarity": "「仿」右半就是「方」。",
+        "difference": "「仿」左半多了單人旁「亻」；「方」沒有。"
+      }
+    ],
+    "teachingTip": "先確認「方」頭上有一點，再在「芳、房、放」中找出方。用方形吐司和圓番茄片連結本課的形狀。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

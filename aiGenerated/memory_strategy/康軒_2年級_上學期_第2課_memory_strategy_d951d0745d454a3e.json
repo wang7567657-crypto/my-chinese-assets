@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第2課_memory_strategy_d951d0745d454a3e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "切",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "切",
+    "components": [
+      "七（左）",
+      "刀（右）"
+    ],
+    "association": "記憶聯想：七站左邊、刀站右邊，一起提醒把番茄切成片。這是分塊記形，並非把七解釋成切七次。",
+    "mnemonic": "左邊七，右邊刀，番茄切片像輪子。",
+    "visualPrompt": "標準「切」字左七藍色、右刀橘色；字外畫成人用刀把番茄切成圓片，兒童只在旁看圖。刀、力的撇筆位置保持清楚。",
+    "teachingTip": "用兩張部件卡拼切，找出右邊是刀不是力。讀切番茄ㄑㄧㄝ，並提醒真刀由成人操作。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

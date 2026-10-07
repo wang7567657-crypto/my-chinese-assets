@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第2課_confusion_analysis_cdc063fdaf3ed1ad",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "臉",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "臉",
+    "groups": {
+      "shape": [
+        {
+          "char": "檢",
+          "why": "右半同為「僉」。",
+          "difference": "「臉」左半是肉部變形；「檢」左半是「木」。"
+        },
+        {
+          "char": "撿",
+          "why": "右半同為「僉」。",
+          "difference": "「臉」左半是肉部變形；「撿」左半是提手旁「扌」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "簾",
+          "why": "臉ㄌㄧㄢˇ與簾ㄌㄧㄢˊ聲母韻母相同，聲調不同。",
+          "difference": "臉是三聲、指面部；窗簾的簾是二聲，竹字頭下是廉。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "面",
+          "why": "臉和面在面部語境中意思相近。",
+          "difference": "笑臉用臉；面還可表示表面、方向等。本課記住笑臉的慣用寫法，不任意換字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "險",
+          "why": "臉、險右邊同為僉。",
+          "difference": "臉左邊是肉部變形；險左邊是阝，危險的險讀ㄒㄧㄢˇ。"
+        }
+      ]
+    },
+    "tip": "先抓左偏旁：身體的臉用肉部變形，撿東西用扌。不要只看共同的僉。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

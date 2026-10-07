@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第2課_confusion_analysis_2eae67ae1d31dfcb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "煎",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "煎",
+    "groups": {
+      "shape": [
+        {
+          "char": "剪",
+          "why": "上方都是「前」。",
+          "difference": "「煎」下方是四點「灬」；「剪」下方是「刀」。"
+        },
+        {
+          "char": "前",
+          "why": "「前」與「煎」上部相同。",
+          "difference": "「煎」在「前」下面多了四點「灬」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "尖",
+          "why": "煎、尖都讀ㄐㄧㄢ。",
+          "difference": "煎蛋是加熱食物；筆尖的尖是上小下大，表示尖端。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "炒",
+          "why": "煎、炒都是烹調動作。",
+          "difference": "煎通常讓食物貼著鍋面加熱，適時翻面；炒會在鍋中翻動食材。課文寫「煎蛋」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "箭",
+          "why": "煎、箭都含前，但前的位置不同。",
+          "difference": "煎是前下灬；箭是竹下前，且箭讀ㄐㄧㄢˋ，與煎聲調不同。"
+        }
+      ]
+    },
+    "tip": "比較下部最有效：四點灬是煎，刀是剪；再用煎蛋、剪紙分辨。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

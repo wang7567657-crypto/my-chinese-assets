@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第2課_memory_strategy_b7b6db722d5306d3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "臉",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "臉",
+    "components": [
+      "肉部變形（左，形似月）",
+      "僉（右）"
+    ],
+    "association": "記憶聯想：左邊肉部提醒這是身體的一部分；右邊僉的兩個口形像一對小窗，可聯想到笑臉的對稱。小窗只是記形，不是字源。",
+    "mnemonic": "肉旁在左僉在右，照照鏡子笑一笑。",
+    "visualPrompt": "標準「臉」字左肉部變形藍色、右僉橘色，旁邊畫友善笑臉及吐司上的醬料笑臉。左部依臺灣標準用內點、挑，不能直接複製月字兩橫。",
+    "teachingTip": "先摸自己的臉連結身體，再比較臉、檢、撿的左旁。右僉的兩口及下方撇點要分明，不連成一個大口。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

@@ -1,0 +1,29 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第2課_memory_strategy_caaa4af749a04384",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "方",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "方",
+    "components": [
+      "點（上）",
+      "橫",
+      "橫折鉤",
+      "撇"
+    ],
+    "association": "記憶聯想：先找頭上的小點，再看下面張開的筆形；旁邊搭配四方吐司，將方字與方形連起來。字形不是畫一個正方形。",
+    "mnemonic": "頭上一點別漏掉，四方吐司記住方。",
+    "visualPrompt": "用標準「方」字示範，頭上一點紅色，其餘筆畫深藍色；旁邊畫方形吐司與吐司城堡。字外標四條直邊，字內不加方框。",
+    "teachingTip": "方是獨體字，此處四項為筆形提示，不是假拆部件。特別檢查頂點，再和芳、放比較。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第2課_confusion_analysis_fd5a610c9bb3cec3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "輪",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "輪",
+    "groups": {
+      "shape": [
+        {
+          "char": "倫",
+          "why": "右半同為「侖」。",
+          "difference": "「輪」左半是「車」；「倫」左半是單人旁「亻」。"
+        },
+        {
+          "char": "論",
+          "why": "右半同為「侖」。",
+          "difference": "「輪」左半是「車」；「論」左半是「言」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "倫",
+          "why": "輪、倫都讀ㄌㄨㄣˊ，且右側同為侖。",
+          "difference": "車輪的輪用車字旁；人倫的倫用亻，不能因同音省換偏旁。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "圈",
+          "why": "輪和圈都可能讓人想到圓形。",
+          "difference": "輪是能轉動的輪子；圈是環形或圍成的範圍。圓形番茄片像輪子，不等於字義上所有的圈都是輪。"
+        }
+      ],
+      "component": [
+        {
+          "char": "論",
+          "why": "輪、論右半同為侖。",
+          "difference": "輪的左邊是車；討論的論左邊是言，而且論在討論中讀ㄌㄨㄣˋ。"
+        }
+      ]
+    },
+    "tip": "看到輪子先想車字旁，再核對右邊侖；不要把同部件的字全念成同一聲調。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

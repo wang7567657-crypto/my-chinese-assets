@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第2課_memory_strategy_83680230e85bf340",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "圓",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "圓",
+    "components": [
+      "囗（外框）",
+      "員（框內）"
+    ],
+    "association": "記憶聯想：員字住進一個大框，旁邊放圓圓的太陽蛋，連結字形和本課形狀。漢字外框仍按標準寫成方框。",
+    "mnemonic": "員在大框裡，圓蛋像太陽。",
+    "visualPrompt": "中央「圓」字外框藍色、員字橘色；右邊畫圓形煎蛋和圓番茄片。漢字囗保持直邊方框，不能為了圓形意象改成圓圈。",
+    "teachingTip": "先讀圓圓的蛋，再找框內員；用花園的園作對比。語意是圓，字的外框仍是囗。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

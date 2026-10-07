@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第2課_confusion_analysis_97ea3f82af94356f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蛋",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蛋",
+    "groups": {
+      "shape": [
+        {
+          "char": "蚤",
+          "why": "兩字下方都是「虫」。",
+          "difference": "「蛋」上方是「疋」；「蚤」上方是「㕚」形，有兩個點，與只有一點的「叉」也不同。"
+        },
+        {
+          "char": "蜜",
+          "why": "兩字下方都是「虫」。",
+          "difference": "「蛋」上方是「疋」；「蜜」上方是「宀」和「必」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "但",
+          "why": "蛋、但都讀ㄉㄢˋ。",
+          "difference": "雞蛋的蛋是食物；但是的但是轉折詞，左邊是亻。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "卵",
+          "why": "蛋和卵在動物生殖語境中有相關意思。",
+          "difference": "本課日常食物用「蛋」；「卵」字形為左右兩部分，各有一點，不能照蛋的上下結構寫。"
+        }
+      ],
+      "component": [
+        {
+          "char": "蜜",
+          "why": "兩字下方同為虫，容易只看共同部件。",
+          "difference": "蛋上方是疋；蜜上方是宀和必。"
+        }
+      ]
+    },
+    "tip": "先辨「疋、虫」的位置，再在「煎蛋」詞語中選字。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

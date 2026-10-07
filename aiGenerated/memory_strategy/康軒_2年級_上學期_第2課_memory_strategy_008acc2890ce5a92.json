@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第2課_memory_strategy_008acc2890ce5a92",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蛋",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蛋",
+    "components": [
+      "疋（上）",
+      "虫（下）"
+    ],
+    "association": "記憶聯想：把上面的疋當作特別的蛋盒蓋，下面虫的口形當作小格子，提醒蛋字有上下兩層。蛋盒只是記憶畫面，不是字源。",
+    "mnemonic": "疋在上，虫在下，早餐煎蛋香噴噴。",
+    "visualPrompt": "中央呈現標準「蛋」字，疋與虫分成兩色並保持完整；字旁放一顆帶殼雞蛋與一顆煎蛋。用箭頭標上、下，不將虫畫成真的蟲。",
+    "teachingTip": "先辨識疋再寫虫；虫右下的一點不能省略。食物蛋並不是蟲，聯想只用來記筆形。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}
