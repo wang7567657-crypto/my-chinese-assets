@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第2課_similar_shape_c7c73c8724b26ae1",
+  "input": {
+    "targetChar": "身",
+    "lessonChars": [
+      "爬",
+      "梯",
+      "紙",
+      "條",
+      "線",
+      "像",
+      "身",
+      "生",
+      "迫",
+      "及",
+      "待",
+      "站",
+      "沿",
+      "頂",
+      "格",
+      "哪",
+      "才",
+      "最"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "身",
+    "similarChars": [
+      {
+        "char": "射",
+        "similarity": "都有身形",
+        "difference": "射比身多右邊的寸；身作左旁時末撇形態也會調整。"
+      },
+      {
+        "char": "躲",
+        "similarity": "都有身旁",
+        "difference": "身是單字；躲右邊另加朵。"
+      },
+      {
+        "char": "躺",
+        "similarity": "都有身旁",
+        "difference": "身是單字；躺右邊另加尚。"
+      },
+      {
+        "char": "躬",
+        "similarity": "都有身旁",
+        "difference": "身是單字；躬右邊另加弓。"
+      },
+      {
+        "char": "自",
+        "similarity": "上方的撇和直框輪廓接近",
+        "difference": "身有穿出框的長撇及鉤形；自沒有這條長撇，外框封閉。"
+      },
+      {
+        "char": "目",
+        "similarity": "都有長框和內部橫畫",
+        "difference": "身上有撇、末筆有長撇；目沒有這兩個伸出框外的撇。"
+      }
+    ],
+    "teachingTip": "先找出「身」與比較字相同的部件，再圈出不同處；一次先練習兩個常用字，少見字只作辨識，不要求背寫。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

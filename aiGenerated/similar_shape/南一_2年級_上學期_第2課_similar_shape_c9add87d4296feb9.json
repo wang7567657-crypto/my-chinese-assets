@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第2課_similar_shape_c9add87d4296feb9",
+  "input": {
+    "targetChar": "生",
+    "lessonChars": [
+      "爬",
+      "梯",
+      "紙",
+      "條",
+      "線",
+      "像",
+      "身",
+      "生",
+      "迫",
+      "及",
+      "待",
+      "站",
+      "沿",
+      "頂",
+      "格",
+      "哪",
+      "才",
+      "最"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "生",
+    "similarChars": [
+      {
+        "char": "性",
+        "similarity": "都有生",
+        "difference": "性比生多左邊的忄。"
+      },
+      {
+        "char": "姓",
+        "similarity": "都有生",
+        "difference": "姓比生多左邊的女。"
+      },
+      {
+        "char": "牲",
+        "similarity": "都有生",
+        "difference": "牲比生多左邊的牛字旁。"
+      },
+      {
+        "char": "星",
+        "similarity": "都有生",
+        "difference": "星比生多上面的日。"
+      },
+      {
+        "char": "甥",
+        "similarity": "都有生",
+        "difference": "甥在生的右邊加男。"
+      },
+      {
+        "char": "產",
+        "similarity": "下方都有生",
+        "difference": "產在生的上方另有筆畫，不能只寫下面的生。"
+      }
+    ],
+    "teachingTip": "先找出「生」與比較字相同的部件，再圈出不同處；一次先練習兩個常用字，少見字只作辨識，不要求背寫。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

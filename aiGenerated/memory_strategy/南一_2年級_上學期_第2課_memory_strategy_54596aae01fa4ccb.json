@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第2課_memory_strategy_54596aae01fa4ccb",
+  "input": {
+    "char": "待",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "待",
+    "components": [
+      "彳",
+      "寺"
+    ],
+    "association": "先等待，再量身高。（教學聯想，不是字源解釋。）",
+    "mnemonic": "彳在左，寺在右，等待輪到我。",
+    "visualPrompt": "保留「待」的標準字形與完整筆畫，圖畫放在字旁：兩個孩子排隊等待量身高。不得把插圖替代筆畫或畫進字內。",
+    "teachingTip": "待左邊有雙人旁彳；比較持的扌。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

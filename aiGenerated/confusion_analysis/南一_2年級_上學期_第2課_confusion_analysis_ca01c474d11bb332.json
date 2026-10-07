@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第2課_confusion_analysis_ca01c474d11bb332",
+  "input": {
+    "char": "像",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "像",
+    "groups": {
+      "shape": [
+        {
+          "char": "象",
+          "why": "都有象",
+          "difference": "像比象多左邊的亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "象",
+          "why": "好像的像和大象的象都讀ㄒㄧㄤˋ，是同音。",
+          "difference": "像表示相似；象可指大象，不能把好像寫成好象。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "似",
+          "why": "像和似都能表示相像。",
+          "difference": "本課用好像；似可用於相似，不把兩字任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "橡",
+          "why": "右邊都是象",
+          "difference": "像左邊是亻；橡左邊是木。"
+        }
+      ]
+    },
+    "tip": "把「像」放回〈爬梯子〉讀一次，再分別比較字形、讀音和意思；同音不表示可以互換。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

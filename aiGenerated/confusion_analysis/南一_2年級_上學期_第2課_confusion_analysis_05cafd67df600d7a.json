@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第2課_confusion_analysis_05cafd67df600d7a",
+  "input": {
+    "char": "生",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "生",
+    "groups": {
+      "shape": [
+        {
+          "char": "性",
+          "why": "都有生",
+          "difference": "性比生多左邊的忄。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "聲",
+          "why": "生日的生與聲音的聲都讀ㄕㄥ，是同音。",
+          "difference": "生用於出生、生日；聲指聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "長",
+          "why": "生和長都可與生命發展有關。",
+          "difference": "生日是出生的紀念日；長高的長讀ㄓㄤˇ，表示成長。"
+        }
+      ],
+      "component": [
+        {
+          "char": "姓",
+          "why": "都有生",
+          "difference": "姓比生多左邊的女。"
+        }
+      ]
+    },
+    "tip": "把「生」放回〈爬梯子〉讀一次，再分別比較字形、讀音和意思；同音不表示可以互換。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

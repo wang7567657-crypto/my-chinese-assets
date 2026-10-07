@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第2課_memory_strategy_0d0207bb5b9cd886",
+  "input": {
+    "char": "像",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "像",
+    "components": [
+      "亻",
+      "象"
+    ],
+    "association": "牆上的身高線好像梯子。（教學聯想，不是字源解釋。）",
+    "mnemonic": "人旁站左邊，大象在右邊，樣子好像梯子線。",
+    "visualPrompt": "保留「像」的標準字形與完整筆畫，圖畫放在字旁：身高線旁放一張梯子的對照圖。不得把插圖替代筆畫或畫進字內。",
+    "teachingTip": "比較像和象；表示好像時，記得左邊亻。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

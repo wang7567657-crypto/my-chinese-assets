@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第2課_memory_strategy_d5611ae0cad83f93",
+  "input": {
+    "char": "線",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "線",
+    "components": [
+      "糹",
+      "泉"
+    ],
+    "association": "細線從左邊糹連到右邊泉。（教學聯想，不是字源解釋。）",
+    "mnemonic": "糹加泉，畫條線；泉的下面記得水。",
+    "visualPrompt": "保留「線」的標準字形與完整筆畫，圖畫放在字旁：紙上平直的身高線。不得把插圖替代筆畫或畫進字內。",
+    "teachingTip": "比較線與綠，辨認泉上白、下水。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

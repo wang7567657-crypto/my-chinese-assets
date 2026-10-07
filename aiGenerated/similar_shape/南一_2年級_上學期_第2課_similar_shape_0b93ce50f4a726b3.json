@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第2課_similar_shape_0b93ce50f4a726b3",
+  "input": {
+    "targetChar": "格",
+    "lessonChars": [
+      "爬",
+      "梯",
+      "紙",
+      "條",
+      "線",
+      "像",
+      "身",
+      "生",
+      "迫",
+      "及",
+      "待",
+      "站",
+      "沿",
+      "頂",
+      "格",
+      "哪",
+      "才",
+      "最"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "格",
+    "similarChars": [
+      {
+        "char": "各",
+        "similarity": "都有各",
+        "difference": "格比各多左邊的木。"
+      },
+      {
+        "char": "客",
+        "similarity": "都有各",
+        "difference": "格的木在左；客的宀在各上方。"
+      },
+      {
+        "char": "洛",
+        "similarity": "右邊都是各",
+        "difference": "格左邊是木；洛左邊是氵。"
+      },
+      {
+        "char": "絡",
+        "similarity": "右邊都是各",
+        "difference": "格左邊是木；絡左邊是糹。"
+      },
+      {
+        "char": "路",
+        "similarity": "右邊都是各",
+        "difference": "格左邊是木；路左邊是足字旁。"
+      },
+      {
+        "char": "骼",
+        "similarity": "右邊都是各",
+        "difference": "格左邊是木；骼左邊是骨。骼常用於骨骼。"
+      }
+    ],
+    "teachingTip": "先找出「格」與比較字相同的部件，再圈出不同處；一次先練習兩個常用字，少見字只作辨識，不要求背寫。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

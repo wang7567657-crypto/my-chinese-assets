@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第2課_confusion_analysis_4b5357d33f19ddab",
+  "input": {
+    "char": "條",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "條",
+    "groups": {
+      "shape": [
+        {
+          "char": "修",
+          "why": "左側和右上形體相同",
+          "difference": "條右下是木；修右下是彡。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "調",
+          "why": "一條線的條讀ㄊㄧㄠˊ；調整的調也讀ㄊㄧㄠˊ，是同音。",
+          "difference": "條可作長形物的量詞；調整表示改變。曲調的調另讀ㄉㄧㄠˋ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "張",
+          "why": "一條和一張都是量詞。",
+          "difference": "線用條；白紙用張。"
+        }
+      ],
+      "component": [
+        {
+          "char": "倏",
+          "why": "左側和右上形體相同",
+          "difference": "條右下是木；倏右下是犬，有點。倏較少見。"
+        }
+      ]
+    },
+    "tip": "把「條」放回〈爬梯子〉讀一次，再分別比較字形、讀音和意思；同音不表示可以互換。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}
