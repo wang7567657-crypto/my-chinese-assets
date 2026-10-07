@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第8課_confusion_analysis_45d22300c61f89a6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "米",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "米",
+    "groups": {
+      "shape": [
+        {
+          "char": "木",
+          "why": "都有橫豎與下方撇捺",
+          "difference": "米在木形上方多點與撇；木沒有這兩筆。"
+        },
+        {
+          "char": "未",
+          "why": "都有中間豎與下方撇捺",
+          "difference": "米上方是點、撇；未上方是短橫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "迷",
+          "why": "近音，米ㄇㄧˇ、迷ㄇㄧˊ，聲調不同。",
+          "difference": "米是穀物；迷可指迷路，字外多辶。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "飯",
+          "why": "都與食物有關。",
+          "difference": "米是食材；飯常指煮熟的米，也可泛指一餐。"
+        }
+      ],
+      "component": [
+        {
+          "char": "木",
+          "why": "部件比較：都有橫豎與下方撇捺",
+          "difference": "米在木形上方多點與撇；木沒有這兩筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「米紙」，再依字形與句意選字。米有六筆，上方的點和撇都不能漏。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

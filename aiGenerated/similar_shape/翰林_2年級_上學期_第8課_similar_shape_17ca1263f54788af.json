@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第8課_similar_shape_17ca1263f54788af",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "紹",
+    "lessonChars": [
+      "介",
+      "圓",
+      "形",
+      "白",
+      "紙",
+      "米",
+      "變",
+      "軟",
+      "搶",
+      "材",
+      "蝦",
+      "線",
+      "各",
+      "種",
+      "菜",
+      "接",
+      "聽",
+      "更",
+      "紹",
+      "舉"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "紹",
+    "similarChars": [
+      {
+        "char": "召",
+        "similarity": "右邊有完整召形",
+        "difference": "紹左邊多糹；召單獨成字。"
+      },
+      {
+        "char": "招",
+        "similarity": "右邊都有召",
+        "difference": "紹左為糹；招左為扌。"
+      },
+      {
+        "char": "昭",
+        "similarity": "右邊都有召",
+        "difference": "紹左為糹；昭左為日。"
+      },
+      {
+        "char": "照",
+        "similarity": "上方右部有召形",
+        "difference": "紹左糹右召；照上日召、下灬。"
+      },
+      {
+        "char": "沼",
+        "similarity": "右邊都有召",
+        "difference": "紹左為糹；沼左為氵。"
+      },
+      {
+        "char": "貂",
+        "similarity": "右邊都有召",
+        "difference": "貂是動物名稱，左為豸；紹左為糹。"
+      }
+    ],
+    "teachingTip": "紹右召是上刀下口；不要把左糹改成扌。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

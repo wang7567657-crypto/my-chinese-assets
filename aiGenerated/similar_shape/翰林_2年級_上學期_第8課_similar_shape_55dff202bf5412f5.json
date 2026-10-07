@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第8課_similar_shape_55dff202bf5412f5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "材",
+    "lessonChars": [
+      "介",
+      "圓",
+      "形",
+      "白",
+      "紙",
+      "米",
+      "變",
+      "軟",
+      "搶",
+      "材",
+      "蝦",
+      "線",
+      "各",
+      "種",
+      "菜",
+      "接",
+      "聽",
+      "更",
+      "紹",
+      "舉"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "材",
+    "similarChars": [
+      {
+        "char": "才",
+        "similarity": "右邊有才",
+        "difference": "材左邊多木；才單獨成字。"
+      },
+      {
+        "char": "財",
+        "similarity": "右邊都有才",
+        "difference": "材左為木；財左為貝。"
+      },
+      {
+        "char": "豺",
+        "similarity": "右邊都有才",
+        "difference": "豺是較少見的動物名稱，左為豸；材左為木。"
+      },
+      {
+        "char": "村",
+        "similarity": "左邊都有木，右部輪廓相近",
+        "difference": "材右為才，末筆撇；村右為寸，末筆點。"
+      },
+      {
+        "char": "林",
+        "similarity": "左邊都有木",
+        "difference": "材右為才；林右為木，多橫與點等筆畫。"
+      },
+      {
+        "char": "杉",
+        "similarity": "左邊都有木",
+        "difference": "材右為才；杉右為三撇的彡。"
+      }
+    ],
+    "teachingTip": "材左木捺收成點，右才末筆是撇；不要寫成村。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

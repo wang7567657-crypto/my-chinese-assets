@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第8課_confusion_analysis_232b2dd24734fa9b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "接",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "接",
+    "groups": {
+      "shape": [
+        {
+          "char": "妾",
+          "why": "右邊有完整妾形",
+          "difference": "妾是較少用字，單獨成字；接左邊多扌。"
+        },
+        {
+          "char": "拉",
+          "why": "左邊扌相同，右上都有立形",
+          "difference": "接右邊是立下加女的妾；拉右邊只有立。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "街",
+          "why": "同音，都讀ㄐㄧㄝ。",
+          "difference": "接表示接續或接住；街指街道。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "連",
+          "why": "都與銜接有關。",
+          "difference": "接可指連接或接著；連可指相連，也可作連續的意思。"
+        }
+      ],
+      "component": [
+        {
+          "char": "妾",
+          "why": "部件比較：右邊有完整妾形",
+          "difference": "妾是較少用字，單獨成字；接左邊多扌。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「接著」，再依字形與句意選字。右妾是上立下女；本課接著表示隨後，不只是接物。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

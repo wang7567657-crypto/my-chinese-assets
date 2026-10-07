@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第8課_similar_shape_19861cf4745ba443",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "線",
+    "lessonChars": [
+      "介",
+      "圓",
+      "形",
+      "白",
+      "紙",
+      "米",
+      "變",
+      "軟",
+      "搶",
+      "材",
+      "蝦",
+      "線",
+      "各",
+      "種",
+      "菜",
+      "接",
+      "聽",
+      "更",
+      "紹",
+      "舉"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "線",
+    "similarChars": [
+      {
+        "char": "泉",
+        "similarity": "右邊有完整泉形",
+        "difference": "線左邊多糹；泉單獨成字。"
+      },
+      {
+        "char": "腺",
+        "similarity": "右邊都有泉",
+        "difference": "腺是較少見字，左為月形；線左為糹。"
+      },
+      {
+        "char": "絨",
+        "similarity": "左邊都有糹",
+        "difference": "線右為泉；絨右為戎。"
+      },
+      {
+        "char": "綿",
+        "similarity": "左邊都是糹，右上都有白形",
+        "difference": "線右下是水；綿右下是巾。"
+      },
+      {
+        "char": "絲",
+        "similarity": "左邊都有糹",
+        "difference": "線右為泉；絲右邊也是糹形。"
+      },
+      {
+        "char": "絮",
+        "similarity": "下方或左方都有糸形",
+        "difference": "線左糹右泉；絮上如下糸，結構位置不同。"
+      }
+    ],
+    "teachingTip": "線右邊泉是上白下水；不要漏掉下面水形筆畫。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

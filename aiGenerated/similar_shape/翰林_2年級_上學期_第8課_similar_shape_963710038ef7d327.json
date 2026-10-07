@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第8課_similar_shape_963710038ef7d327",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "各",
+    "lessonChars": [
+      "介",
+      "圓",
+      "形",
+      "白",
+      "紙",
+      "米",
+      "變",
+      "軟",
+      "搶",
+      "材",
+      "蝦",
+      "線",
+      "各",
+      "種",
+      "菜",
+      "接",
+      "聽",
+      "更",
+      "紹",
+      "舉"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "各",
+    "similarChars": [
+      {
+        "char": "客",
+        "similarity": "下方有各形",
+        "difference": "各單獨成字；客上方多宀。"
+      },
+      {
+        "char": "格",
+        "similarity": "右邊有各形",
+        "difference": "各單獨成字；格左邊多木。"
+      },
+      {
+        "char": "路",
+        "similarity": "右邊有各形",
+        "difference": "各單獨成字；路左邊多足字旁。"
+      },
+      {
+        "char": "絡",
+        "similarity": "右邊有各形",
+        "difference": "各單獨成字；絡左邊多糹。"
+      },
+      {
+        "char": "落",
+        "similarity": "下方右部有各形",
+        "difference": "各單獨成字；落上艹、下左氵右各。"
+      },
+      {
+        "char": "咯",
+        "similarity": "右邊有各形",
+        "difference": "咯是較少用、多音字，左邊另加口；各只有下方口。"
+      }
+    ],
+    "teachingTip": "各上方是夂，不是攵；口在下方。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

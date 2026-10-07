@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第8課_confusion_analysis_8c66ac2eb2476eb2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "種",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "種",
+    "groups": {
+      "shape": [
+        {
+          "char": "重",
+          "why": "右邊有完整重形",
+          "difference": "種左邊多禾；重單獨成字。"
+        },
+        {
+          "char": "鐘",
+          "why": "右邊都有重",
+          "difference": "種左為禾；鐘左為金。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "腫",
+          "why": "在「各種」與「腫起來」中同音ㄓㄨㄥˇ。",
+          "difference": "種在本課表示種類；腫表示身體某處鼓起。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "類",
+          "why": "都能表示事物的分類。",
+          "difference": "種類常一起用；種也能表示種子或種植，類通常表示類別。"
+        }
+      ],
+      "component": [
+        {
+          "char": "重",
+          "why": "部件比較：右邊有完整重形",
+          "difference": "種左邊多禾；重單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「各種」，再依字形與句意選字。各種的種讀ㄓㄨㄥˇ；種菜的種讀ㄓㄨㄥˋ，依語詞判斷。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第8課_confusion_analysis_eb376b339f036ba0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "菜",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "菜",
+    "groups": {
+      "shape": [
+        {
+          "char": "采",
+          "why": "下方有完整采形",
+          "difference": "菜上方多艹；采單獨成字。"
+        },
+        {
+          "char": "採",
+          "why": "都有采形",
+          "difference": "菜上艹下采；採左扌右采。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蔡",
+          "why": "同音，都讀ㄘㄞˋ；蔡常見於姓氏。",
+          "difference": "菜是食物；蔡是姓氏字，下方為祭。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蔬",
+          "why": "都與蔬菜有關。",
+          "difference": "蔬常指可吃的植物；菜還可泛指做好的菜餚。"
+        }
+      ],
+      "component": [
+        {
+          "char": "采",
+          "why": "部件比較：下方有完整采形",
+          "difference": "菜上方多艹；采單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「青菜」，再依字形與句意選字。菜下方采是爫形加木；按指定來源艹為四筆，全字十二筆。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

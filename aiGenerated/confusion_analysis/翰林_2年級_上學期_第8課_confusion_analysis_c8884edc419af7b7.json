@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第8課_confusion_analysis_c8884edc419af7b7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "舉",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "舉",
+    "groups": {
+      "shape": [
+        {
+          "char": "與",
+          "why": "上方左右及中央輪廓相近",
+          "difference": "舉下方還有手形筆畫；與的下方沒有舉的手形。"
+        },
+        {
+          "char": "譽",
+          "why": "上方與舉的上部輪廓相近",
+          "difference": "舉下方是手形；譽下方是言。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "矩",
+          "why": "同音，都讀ㄐㄩˇ。",
+          "difference": "舉表示抬起等動作；矩可指規矩，字形不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "抬",
+          "why": "都可表示向上移動。",
+          "difference": "舉手是把手向上伸；抬也可指共同搬動，如抬桌子。"
+        }
+      ],
+      "component": [
+        {
+          "char": "與",
+          "why": "部件比較：上方左右及中央輪廓相近",
+          "difference": "舉下方還有手形筆畫；與的下方沒有舉的手形。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「舉手」，再依字形與句意選字。上方左右臼形分散排列，不連續筆畫須合組；全字依指定來源為十七筆。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

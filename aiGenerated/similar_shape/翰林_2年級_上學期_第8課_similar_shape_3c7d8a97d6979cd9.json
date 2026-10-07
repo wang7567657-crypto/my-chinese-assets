@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第8課_similar_shape_3c7d8a97d6979cd9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "聽",
+    "lessonChars": [
+      "介",
+      "圓",
+      "形",
+      "白",
+      "紙",
+      "米",
+      "變",
+      "軟",
+      "搶",
+      "材",
+      "蝦",
+      "線",
+      "各",
+      "種",
+      "菜",
+      "接",
+      "聽",
+      "更",
+      "紹",
+      "舉"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "聽",
+    "similarChars": [
+      {
+        "char": "聖",
+        "similarity": "都有耳與王形",
+        "difference": "聽的耳下有王形，右部繁複；聖上耳口、下王形。"
+      },
+      {
+        "char": "廳",
+        "similarity": "內部有聽形",
+        "difference": "聽單獨成字；廳外面多广。"
+      },
+      {
+        "char": "德",
+        "similarity": "右部都有十、罒、一、心形",
+        "difference": "聽左部耳與王形；德左邊是彳。"
+      },
+      {
+        "char": "聰",
+        "similarity": "左邊都有耳",
+        "difference": "聽左耳下多王形，右部有罒心形；聰右部是悤。"
+      },
+      {
+        "char": "聲",
+        "similarity": "都有耳部件",
+        "difference": "聽耳在左；聲耳在下，上方部件不同。"
+      },
+      {
+        "char": "耳",
+        "similarity": "左上有耳形",
+        "difference": "聽在耳形下及右方還有其他筆畫；耳單獨成字。"
+      }
+    ],
+    "teachingTip": "聽左部耳下有王形；右方筆畫依完整字形辨認，不把字畫成耳朵。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

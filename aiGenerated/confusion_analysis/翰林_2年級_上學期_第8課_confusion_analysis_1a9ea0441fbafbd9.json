@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第8課_confusion_analysis_1a9ea0441fbafbd9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "變",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "變",
+    "groups": {
+      "shape": [
+        {
+          "char": "戀",
+          "why": "上方都有糹言糹形",
+          "difference": "變下方是攵；戀下方是心。"
+        },
+        {
+          "char": "彎",
+          "why": "上方都有糹言糹形",
+          "difference": "變下方是攵；彎下方是弓。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "便",
+          "why": "在「方便」中同音，都讀ㄅㄧㄢˋ。",
+          "difference": "變表示改變；方便的便表示便利，便宜的便另讀ㄆㄧㄢˊ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "改",
+          "why": "都與變化有關。",
+          "difference": "變可表示狀態發生變化，如變軟；改常表示主動調整，如修改。"
+        }
+      ],
+      "component": [
+        {
+          "char": "戀",
+          "why": "部件比較：上方都有糹言糹形",
+          "difference": "變下方是攵；戀下方是心。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「變軟」，再依字形與句意選字。上方中間是言，左右各有糹形；下方攵不要寫成心。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

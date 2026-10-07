@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第8課_memory_strategy_b70ebf35b5bccc0a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "聽",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "聽",
+    "components": [
+      "耳",
+      "王形",
+      "右部十、罒、一、心形"
+    ],
+    "association": "耳在左提醒用耳聽故事；右方一心形提示專心，是記字聯想。",
+    "mnemonic": "左耳看清楚，右下心不漏，專心聽故事。",
+    "visualPrompt": "保留標準繁體「聽」完整字形，在字旁另畫「聽故事」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "聽左部耳下有王形；右方筆畫依完整字形辨認，不把字畫成耳朵。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

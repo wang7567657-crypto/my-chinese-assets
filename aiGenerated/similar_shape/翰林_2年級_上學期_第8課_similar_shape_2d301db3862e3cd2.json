@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第8課_similar_shape_2d301db3862e3cd2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "紙",
+    "lessonChars": [
+      "介",
+      "圓",
+      "形",
+      "白",
+      "紙",
+      "米",
+      "變",
+      "軟",
+      "搶",
+      "材",
+      "蝦",
+      "線",
+      "各",
+      "種",
+      "菜",
+      "接",
+      "聽",
+      "更",
+      "紹",
+      "舉"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "紙",
+    "similarChars": [
+      {
+        "char": "氏",
+        "similarity": "右邊都有氏形",
+        "difference": "紙左邊多糹；氏單獨成字。"
+      },
+      {
+        "char": "低",
+        "similarity": "右部都有氏形",
+        "difference": "紙左為糹，右為氏；低左為亻，右為氐，底下多點。"
+      },
+      {
+        "char": "底",
+        "similarity": "內部有氏形",
+        "difference": "紙左為糹、右為氏；底外有广，內為氐，多一點。"
+      },
+      {
+        "char": "抵",
+        "similarity": "右部都有氏形",
+        "difference": "紙左為糹、右為氏；抵左為扌、右為氐，多一點。"
+      },
+      {
+        "char": "祇",
+        "similarity": "右邊都有氏",
+        "difference": "祇是較少見字，左為礻；紙左為糹。"
+      },
+      {
+        "char": "級",
+        "similarity": "左邊都是糹",
+        "difference": "紙右為氏；級右為及，撇捺走向不同。"
+      }
+    ],
+    "teachingTip": "紙右邊是氏，末筆斜鉤要保留，不要多寫底部的點。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}
