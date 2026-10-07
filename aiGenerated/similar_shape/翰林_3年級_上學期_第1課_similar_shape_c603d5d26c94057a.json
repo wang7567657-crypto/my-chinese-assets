@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_3年級_上學期_第1課_similar_shape_c603d5d26c94057a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "實",
+    "lessonChars": [
+      "待",
+      "牠",
+      "吞",
+      "寸",
+      "碌",
+      "奔",
+      "斑",
+      "實",
+      "彈",
+      "樂",
+      "它",
+      "短",
+      "悲",
+      "傷",
+      "永",
+      "蝸",
+      "簧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "實",
+    "similarChars": [
+      {
+        "char": "貫",
+        "similarity": "下方有完整貫形",
+        "difference": "實上方多宀；貫單獨十一筆。"
+      },
+      {
+        "char": "寶",
+        "similarity": "上方同為宀，下方都有貝",
+        "difference": "實下部是貫形；寶中間還有玉、缶形。"
+      },
+      {
+        "char": "賓",
+        "similarity": "上方同為宀、下方有貝",
+        "difference": "實中間是毌形；賓中間筆畫配置不同。"
+      },
+      {
+        "char": "宜",
+        "similarity": "上方同為宀",
+        "difference": "實下方筆畫多並含貝；宜下方是且。"
+      },
+      {
+        "char": "室",
+        "similarity": "上方同為宀",
+        "difference": "實下方是貫形；室下方是至。"
+      },
+      {
+        "char": "寅",
+        "similarity": "上方同為宀，整體上下輪廓近似",
+        "difference": "實下部含貝；寅下部筆畫配置不同。"
+      }
+    ],
+    "teachingTip": "實是十四筆繁體字；不要寫成簡化字实。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

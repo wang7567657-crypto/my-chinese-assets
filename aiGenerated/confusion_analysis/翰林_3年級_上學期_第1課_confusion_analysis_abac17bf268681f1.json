@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_3年級_上學期_第1課_confusion_analysis_abac17bf268681f1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "牠",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "牠",
+    "groups": {
+      "shape": [
+        {
+          "char": "也",
+          "why": "右邊有完整也",
+          "difference": "牠左邊多牜；也單獨三筆。"
+        },
+        {
+          "char": "他",
+          "why": "右邊同為也",
+          "difference": "牠左邊是牜；他左邊是亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "他",
+          "why": "同音：牠、他都讀ㄊㄚ。",
+          "difference": "牠指動物；他通常指男性或泛指人。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "它",
+          "why": "都可作第三人稱代詞。",
+          "difference": "牠專指動物；它常指無生命事物。"
+        }
+      ],
+      "component": [
+        {
+          "char": "也",
+          "why": "部件比較：右邊有完整也",
+          "difference": "牠左邊多牜；也單獨三筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「牠的腳步」，再依字形與句意選字。牠用於動物；左牜四筆、右也三筆。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

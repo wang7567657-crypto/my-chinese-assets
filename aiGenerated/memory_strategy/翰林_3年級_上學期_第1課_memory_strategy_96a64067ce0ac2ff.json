@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_3年級_上學期_第1課_memory_strategy_96a64067ce0ac2ff",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "牠",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "牠",
+    "components": [
+      "牜",
+      "也"
+    ],
+    "association": "左牜提示動物，右也保持完整；旁邊畫蝸牛，字與圖分開。",
+    "mnemonic": "左牛右也，動物用牠。",
+    "visualPrompt": "保留標準繁體「牠」完整字形，在字旁另畫「牠的腳步」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "牠用於動物；左牜四筆、右也三筆。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

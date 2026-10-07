@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_3年級_上學期_第1課_memory_strategy_d7a541fcf24b53d9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "斑",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "斑",
+    "components": [
+      "王",
+      "文",
+      "王"
+    ],
+    "association": "兩個王形分列左右，中間文保持完整；旁邊畫斑馬條紋。",
+    "mnemonic": "王、文、王，斑紋的斑。",
+    "visualPrompt": "保留標準繁體「斑」完整字形，在字旁另畫「斑馬」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "中間文為部首四筆；不要和班混寫。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

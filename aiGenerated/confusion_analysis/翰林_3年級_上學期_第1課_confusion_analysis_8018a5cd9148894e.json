@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_3年級_上學期_第1課_confusion_analysis_8018a5cd9148894e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "彈",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "彈",
+    "groups": {
+      "shape": [
+        {
+          "char": "單",
+          "why": "右邊有完整單",
+          "difference": "彈左邊多弓；單單獨十二筆。"
+        },
+        {
+          "char": "憚",
+          "why": "右邊同為單",
+          "difference": "彈左邊是弓；憚左邊是忄。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "談",
+          "why": "同音：本課彈、談都讀ㄊㄢˊ。",
+          "difference": "彈可指彈性或彈奏；談表示說話討論。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "跳",
+          "why": "都有離開原位再回復的動作感。",
+          "difference": "彈靠彈力移動；跳常指人或動物用腳躍起。"
+        }
+      ],
+      "component": [
+        {
+          "char": "單",
+          "why": "部件比較：右邊有完整單",
+          "difference": "彈左邊多弓；單單獨十二筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「彈簧」，再依字形與句意選字。本課「彈簧」讀ㄊㄢˊ；全字十五筆。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

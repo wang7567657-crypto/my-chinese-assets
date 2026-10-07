@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_3年級_上學期_第1課_similar_shape_270619345c174789",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "樂",
+    "lessonChars": [
+      "待",
+      "牠",
+      "吞",
+      "寸",
+      "碌",
+      "奔",
+      "斑",
+      "實",
+      "彈",
+      "樂",
+      "它",
+      "短",
+      "悲",
+      "傷",
+      "永",
+      "蝸",
+      "簧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "樂",
+    "similarChars": [
+      {
+        "char": "木",
+        "similarity": "下方有完整木",
+        "difference": "樂上方另有十一筆；木單獨四筆。"
+      },
+      {
+        "char": "藥",
+        "similarity": "下方有完整樂",
+        "difference": "樂單獨成字；藥上方多艹。"
+      },
+      {
+        "char": "鑠",
+        "similarity": "右邊有完整樂",
+        "difference": "樂單獨成字；鑠左邊多金。"
+      },
+      {
+        "char": "櫟",
+        "similarity": "右邊有完整樂",
+        "difference": "櫟是較少見字，左邊多木；樂單獨成字。"
+      },
+      {
+        "char": "轢",
+        "similarity": "右邊有完整樂",
+        "difference": "轢是較少見字，左邊多車；樂單獨成字。"
+      },
+      {
+        "char": "礫",
+        "similarity": "右邊有完整樂",
+        "difference": "礫左邊多石；樂單獨成字。"
+      }
+    ],
+    "teachingTip": "本課「快樂」讀ㄌㄜˋ；木部是最後四筆。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

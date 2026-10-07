@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_3年級_上學期_第1課_memory_strategy_df90d81484fbb3f5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "樂",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "樂",
+    "components": [
+      "上部樂形",
+      "木"
+    ],
+    "association": "下方木像穩穩的底座，上方保持樂字標準形；旁邊畫笑臉。",
+    "mnemonic": "上部多筆、下方木，快樂的樂。",
+    "visualPrompt": "保留標準繁體「樂」完整字形，在字旁另畫「快樂」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "本課「快樂」讀ㄌㄜˋ；木部是最後四筆。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

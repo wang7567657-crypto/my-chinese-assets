@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_3年級_上學期_第1課_similar_shape_ecc7d973a8cf1733",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "永",
+    "lessonChars": [
+      "待",
+      "牠",
+      "吞",
+      "寸",
+      "碌",
+      "奔",
+      "斑",
+      "實",
+      "彈",
+      "樂",
+      "它",
+      "短",
+      "悲",
+      "傷",
+      "永",
+      "蝸",
+      "簧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "永",
+    "similarChars": [
+      {
+        "char": "水",
+        "similarity": "整體都有中央主筆與左右撇捺",
+        "difference": "永上方多點，中央筆形與水不同。"
+      },
+      {
+        "char": "泳",
+        "similarity": "右邊有完整永",
+        "difference": "永單獨成字；泳左邊多氵。"
+      },
+      {
+        "char": "詠",
+        "similarity": "右邊有完整永",
+        "difference": "永單獨成字；詠左邊多言。"
+      },
+      {
+        "char": "冰",
+        "similarity": "右邊有水形，輪廓相近",
+        "difference": "永上方有點且筆序不同；冰左邊多冫。"
+      },
+      {
+        "char": "求",
+        "similarity": "都有中央豎鉤與左右點撇",
+        "difference": "永第一筆是點；求上方多一橫。"
+      },
+      {
+        "char": "脈",
+        "similarity": "右部水脈形與永筆勢相近",
+        "difference": "永單獨五筆；脈左邊多月且右部較多筆。"
+      }
+    ],
+    "teachingTip": "永是五筆獨體字；首點之外的四筆歸水部形，注意第二筆橫折鉤。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

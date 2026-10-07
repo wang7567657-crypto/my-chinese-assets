@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_3年級_上學期_第1課_memory_strategy_645061cad8df02fb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "它",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "它",
+    "components": [
+      "宀",
+      "匕"
+    ],
+    "association": "上宀像蓋住物品，下匕保持完整；旁邊畫彈簧，不把筆畫畫成物品。",
+    "mnemonic": "上宀下匕，事物用它。",
+    "visualPrompt": "保留標準繁體「它」完整字形，在字旁另畫「它就縮短」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "它常指事物；上宀三筆、下匕兩筆。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

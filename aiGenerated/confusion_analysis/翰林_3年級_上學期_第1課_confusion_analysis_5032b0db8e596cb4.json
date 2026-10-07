@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_3年級_上學期_第1課_confusion_analysis_5032b0db8e596cb4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "永",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "永",
+    "groups": {
+      "shape": [
+        {
+          "char": "水",
+          "why": "整體都有中央主筆與左右撇捺",
+          "difference": "永上方多點，中央筆形與水不同。"
+        },
+        {
+          "char": "泳",
+          "why": "右邊有完整永",
+          "difference": "永單獨成字；泳左邊多氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "勇",
+          "why": "同音：永、勇都讀ㄩㄥˇ。",
+          "difference": "永表示久遠；勇表示勇敢。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "久",
+          "why": "都表示時間長。",
+          "difference": "永可表示永遠不止；久表示經過很長時間。"
+        }
+      ],
+      "component": [
+        {
+          "char": "水",
+          "why": "部件比較：整體都有中央主筆與左右撇捺",
+          "difference": "永上方多點，中央筆形與水不同。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「永不回頭」，再依字形與句意選字。永是五筆獨體字；首點之外的四筆歸水部形，注意第二筆橫折鉤。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

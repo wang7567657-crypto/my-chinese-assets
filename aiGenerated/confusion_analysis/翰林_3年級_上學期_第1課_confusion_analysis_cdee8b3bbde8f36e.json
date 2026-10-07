@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_3年級_上學期_第1課_confusion_analysis_cdee8b3bbde8f36e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "簧",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "簧",
+    "groups": {
+      "shape": [
+        {
+          "char": "黃",
+          "why": "下方有完整黃",
+          "difference": "簧上方多竹字頭；黃單獨十二筆。"
+        },
+        {
+          "char": "橫",
+          "why": "右邊同為黃",
+          "difference": "簧上方是⺮；橫左邊是木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "皇",
+          "why": "同音：簧、皇都讀ㄏㄨㄤˊ。",
+          "difference": "簧是能振動或彈動的薄片；皇可指帝王。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "彈",
+          "why": "彈簧一詞表示有彈性的裝置。",
+          "difference": "簧是裝置本體；彈可表示彈力或彈動。"
+        }
+      ],
+      "component": [
+        {
+          "char": "黃",
+          "why": "部件比較：下方有完整黃",
+          "difference": "簧上方多竹字頭；黃單獨十二筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「彈簧」，再依字形與句意選字。上方竹部六筆、下黃十二筆；不要漏竹字頭。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_3年級_上學期_第1課_confusion_analysis_eb8a6ad331004d20",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "斑",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "斑",
+    "groups": {
+      "shape": [
+        {
+          "char": "班",
+          "why": "左右同為王形，整體幾乎相同",
+          "difference": "斑中間是文；班中間是刀形。"
+        },
+        {
+          "char": "斌",
+          "why": "都有文與王部件",
+          "difference": "斑是王文王；斌是文武左右排列。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "班",
+          "why": "同音：斑、班都讀ㄅㄢ。",
+          "difference": "斑指斑紋或斑點；班可指班級。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "紋",
+          "why": "斑與紋都可描述表面的花樣。",
+          "difference": "斑多指點塊或斑駁；紋偏向線條和紋理。"
+        }
+      ],
+      "component": [
+        {
+          "char": "班",
+          "why": "部件比較：左右同為王形，整體幾乎相同",
+          "difference": "斑中間是文；班中間是刀形。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「斑馬」，再依字形與句意選字。中間文為部首四筆；不要和班混寫。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_3年級_上學期_第1課_confusion_analysis_88307de84afe45b5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "奔",
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "奔",
+    "groups": {
+      "shape": [
+        {
+          "char": "大",
+          "why": "上方有完整大",
+          "difference": "奔下方多卉形；大單獨三筆。"
+        },
+        {
+          "char": "卉",
+          "why": "下方有卉形",
+          "difference": "奔上方多大；卉單獨五筆。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "笨",
+          "why": "近音：奔ㄅㄣ、笨ㄅㄣˋ，聲調不同。",
+          "difference": "奔是快跑；笨表示不靈巧。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "跑",
+          "why": "都表示用腳快速移動。",
+          "difference": "奔常有快速向前的語氣；跑是一般用語。"
+        }
+      ],
+      "component": [
+        {
+          "char": "大",
+          "why": "部件比較：上方有完整大",
+          "difference": "奔下方多卉形；大單獨三筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「飛奔」，再依字形與句意選字。奔共八筆；本課「飛奔」讀ㄅㄣ。"
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}

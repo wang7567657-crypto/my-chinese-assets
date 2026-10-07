@@ -1,0 +1,59 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_3年級_上學期_第1課_feature_ai_batch_450a8f2c8612f92f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 17,
+    "batchCharacters": [
+      "待",
+      "牠",
+      "吞",
+      "寸",
+      "碌",
+      "奔",
+      "斑",
+      "實",
+      "彈",
+      "樂",
+      "它",
+      "短",
+      "悲",
+      "傷",
+      "永",
+      "蝸",
+      "簧"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 17,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_f1e2319b235077a3.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_96a64067ce0ac2ff.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_696e21f08fbf2700.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_5d369d9eb40566e1.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_1df0c079b5711de6.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_4c363d2de8e653d5.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_d7a541fcf24b53d9.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_1516693ec1499439.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_c99c995f90255bb1.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_df90d81484fbb3f5.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_645061cad8df02fb.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_3f1f0ac177bc125a.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_ede9eddaf28ba84c.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_095a343889268ef1.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_0be97a77a23d44d6.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_85f520590897c008.json",
+      "aiGenerated/memory_strategy/翰林_3年級_上學期_第1課_memory_strategy_805f2f63fbdf1ace.json"
+    ]
+  },
+  "createdAt": "2026-10-07T17:18:54.069Z"
+}
