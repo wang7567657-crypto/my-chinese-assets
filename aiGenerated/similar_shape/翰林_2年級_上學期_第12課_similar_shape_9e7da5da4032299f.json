@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第12課_similar_shape_9e7da5da4032299f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "項",
+    "lessonChars": [
+      "念",
+      "曲",
+      "項",
+      "浮",
+      "掌",
+      "撥",
+      "波",
+      "詩",
+      "作",
+      "首",
+      "指",
+      "伸",
+      "脖",
+      "身",
+      "體",
+      "隻",
+      "倒",
+      "肚",
+      "詠",
+      "鵝",
+      "歲",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "項",
+    "similarChars": [
+      {
+        "char": "頁",
+        "similarity": "右邊有完整頁",
+        "difference": "項左邊多工；頁單獨九筆。"
+      },
+      {
+        "char": "頂",
+        "similarity": "右邊同為頁",
+        "difference": "項左邊是工；頂左邊是丁。"
+      },
+      {
+        "char": "頸",
+        "similarity": "右邊同為頁",
+        "difference": "項左邊是工；頸左部筆畫較多。"
+      },
+      {
+        "char": "顧",
+        "similarity": "右邊同為頁",
+        "difference": "項左邊是工；顧左部是雇。"
+      },
+      {
+        "char": "順",
+        "similarity": "右邊同為頁",
+        "difference": "項左邊是工；順左邊是川。"
+      },
+      {
+        "char": "領",
+        "similarity": "右邊同為頁",
+        "difference": "項左邊是工；領左邊是令。"
+      }
+    ],
+    "teachingTip": "右頁九筆；本課「曲項」指彎著脖子。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_838e24ec1f5a0a6f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "作",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "作",
+    "groups": {
+      "shape": [
+        {
+          "char": "乍",
+          "why": "右邊有完整乍",
+          "difference": "作左邊多亻；乍單獨五筆。"
+        },
+        {
+          "char": "昨",
+          "why": "右邊同為乍",
+          "difference": "作左邊是亻；昨左邊是日。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "坐",
+          "why": "同音：作、坐都讀ㄗㄨㄛˋ。",
+          "difference": "作是做或創作；坐是身體姿勢。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "做",
+          "why": "作、做都有進行事情的意思。",
+          "difference": "作常見於創作、作文；做是一般動作。"
+        }
+      ],
+      "component": [
+        {
+          "char": "乍",
+          "why": "部件比較：右邊有完整乍",
+          "difference": "作左邊多亻；乍單獨五筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「作這首詩」，再依字形與句意選字。左亻兩筆、右乍五筆；本課作讀ㄗㄨㄛˋ。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

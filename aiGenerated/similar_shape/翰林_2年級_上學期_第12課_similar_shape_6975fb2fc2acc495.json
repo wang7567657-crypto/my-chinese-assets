@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第12課_similar_shape_6975fb2fc2acc495",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "體",
+    "lessonChars": [
+      "念",
+      "曲",
+      "項",
+      "浮",
+      "掌",
+      "撥",
+      "波",
+      "詩",
+      "作",
+      "首",
+      "指",
+      "伸",
+      "脖",
+      "身",
+      "體",
+      "隻",
+      "倒",
+      "肚",
+      "詠",
+      "鵝",
+      "歲",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "體",
+    "similarChars": [
+      {
+        "char": "骨",
+        "similarity": "左邊有完整骨",
+        "difference": "體右邊另有豊；骨單獨十筆。"
+      },
+      {
+        "char": "豐",
+        "similarity": "右部豊與豐輪廓相近",
+        "difference": "體左邊多骨；豐上部筆畫配置不同。"
+      },
+      {
+        "char": "禮",
+        "similarity": "右邊同為豊",
+        "difference": "體左邊是骨；禮左邊是礻。"
+      },
+      {
+        "char": "醴",
+        "similarity": "右邊同為豊",
+        "difference": "體左邊是骨；醴左邊是酉，屬較少見字。"
+      },
+      {
+        "char": "骼",
+        "similarity": "左邊同為骨",
+        "difference": "體右邊是豊；骼右邊是各。"
+      },
+      {
+        "char": "軀",
+        "similarity": "左邊同為身體相關部件且皆左右結構",
+        "difference": "體左邊是骨；軀左邊是身、右邊是區。"
+      }
+    ],
+    "teachingTip": "體共二十三筆；左骨十筆，不可簡寫成体。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

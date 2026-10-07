@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第12課_memory_strategy_6ba9f10c11bacb17",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "波",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "波",
+    "components": [
+      "氵",
+      "皮"
+    ],
+    "association": "左氵像水，右皮保持完整；旁邊畫池面的小波紋。",
+    "mnemonic": "左水右皮，水面的波。",
+    "visualPrompt": "保留標準繁體「波」完整字形，在字旁另畫「清波」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "左氵三筆、右皮五筆；和坡、披比較偏旁。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

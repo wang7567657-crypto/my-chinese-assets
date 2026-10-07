@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第12課_similar_shape_12be403c67dd610f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "歲",
+    "lessonChars": [
+      "念",
+      "曲",
+      "項",
+      "浮",
+      "掌",
+      "撥",
+      "波",
+      "詩",
+      "作",
+      "首",
+      "指",
+      "伸",
+      "脖",
+      "身",
+      "體",
+      "隻",
+      "倒",
+      "肚",
+      "詠",
+      "鵝",
+      "歲",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "歲",
+    "similarChars": [
+      {
+        "char": "止",
+        "similarity": "上方有完整止",
+        "difference": "歲下方另有九筆；止單獨四筆。"
+      },
+      {
+        "char": "步",
+        "similarity": "上方同為止",
+        "difference": "歲下部有戌形與小形；步下方是少形。"
+      },
+      {
+        "char": "涉",
+        "similarity": "右邊含步，與歲上部輪廓相近",
+        "difference": "歲是上下結構；涉左邊多氵。"
+      },
+      {
+        "char": "威",
+        "similarity": "下部都有戌形斜鉤輪廓",
+        "difference": "歲上方有止；威內部是女。"
+      },
+      {
+        "char": "成",
+        "similarity": "都有斜鉤與點的輪廓",
+        "difference": "歲上方是止且筆畫更多；成較簡單。"
+      },
+      {
+        "char": "戚",
+        "similarity": "下部斜鉤與內部小形相近",
+        "difference": "歲上方是止；戚外部是戊形。"
+      }
+    ],
+    "teachingTip": "歲共十三筆，止部是前四筆；不要寫成簡化字岁。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

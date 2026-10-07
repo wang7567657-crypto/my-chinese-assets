@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第12課_similar_shape_9e397dadd97cee16",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "倒",
+    "lessonChars": [
+      "念",
+      "曲",
+      "項",
+      "浮",
+      "掌",
+      "撥",
+      "波",
+      "詩",
+      "作",
+      "首",
+      "指",
+      "伸",
+      "脖",
+      "身",
+      "體",
+      "隻",
+      "倒",
+      "肚",
+      "詠",
+      "鵝",
+      "歲",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "倒",
+    "similarChars": [
+      {
+        "char": "到",
+        "similarity": "右邊有完整到",
+        "difference": "倒左邊多亻；到單獨八筆。"
+      },
+      {
+        "char": "至",
+        "similarity": "右部上方有完整至",
+        "difference": "倒右邊是到；至單獨六筆。"
+      },
+      {
+        "char": "致",
+        "similarity": "左邊同為至",
+        "difference": "倒右邊含至與刂；致右邊是攵。"
+      },
+      {
+        "char": "侄",
+        "similarity": "左邊同為亻，右部都有至",
+        "difference": "倒右邊是到；侄右邊只有至。"
+      },
+      {
+        "char": "例",
+        "similarity": "左邊同為亻、右側都有刂",
+        "difference": "倒中間是至；例中間是歹。"
+      },
+      {
+        "char": "侍",
+        "similarity": "左邊同為亻",
+        "difference": "倒右邊是到；侍右邊是寺。"
+      }
+    ],
+    "teachingTip": "本課「倒立」讀ㄉㄠˋ；左亻兩筆。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

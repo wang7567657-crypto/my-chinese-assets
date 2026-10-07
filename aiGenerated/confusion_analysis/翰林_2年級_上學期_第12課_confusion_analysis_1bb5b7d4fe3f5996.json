@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_1bb5b7d4fe3f5996",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "身",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "身",
+    "groups": {
+      "shape": [
+        {
+          "char": "射",
+          "why": "左邊有完整身",
+          "difference": "身單獨成字；射右邊多寸。"
+        },
+        {
+          "char": "躬",
+          "why": "左邊有完整身",
+          "difference": "身單獨成字；躬右邊多弓。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "深",
+          "why": "同音：身、深都讀ㄕㄣ。",
+          "difference": "身指身體；深表示距離或程度。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "體",
+          "why": "身體一詞都指人的軀體。",
+          "difference": "身可單指身軀或自身；體也可指形體、體制。"
+        }
+      ],
+      "component": [
+        {
+          "char": "射",
+          "why": "部件比較：左邊有完整身",
+          "difference": "身單獨成字；射右邊多寸。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「身體」，再依字形與句意選字。身部涵蓋全字；撇要穿出右側。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

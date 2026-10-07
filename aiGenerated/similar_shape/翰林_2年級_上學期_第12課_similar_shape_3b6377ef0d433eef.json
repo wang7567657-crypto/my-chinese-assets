@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第12課_similar_shape_3b6377ef0d433eef",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "詠",
+    "lessonChars": [
+      "念",
+      "曲",
+      "項",
+      "浮",
+      "掌",
+      "撥",
+      "波",
+      "詩",
+      "作",
+      "首",
+      "指",
+      "伸",
+      "脖",
+      "身",
+      "體",
+      "隻",
+      "倒",
+      "肚",
+      "詠",
+      "鵝",
+      "歲",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "詠",
+    "similarChars": [
+      {
+        "char": "永",
+        "similarity": "右邊有完整永",
+        "difference": "詠左邊多言；永單獨五筆。"
+      },
+      {
+        "char": "泳",
+        "similarity": "右邊同為永",
+        "difference": "詠左邊是言；泳左邊是氵。"
+      },
+      {
+        "char": "咏",
+        "similarity": "右邊同為永",
+        "difference": "咏是「詠」的異體／簡化形之一；標準繁體本課用言旁「詠」。"
+      },
+      {
+        "char": "昹",
+        "similarity": "右邊同為永",
+        "difference": "昹是少見字，左邊是日；詠左邊是言。"
+      },
+      {
+        "char": "脈",
+        "similarity": "右部水脈形與永有相近筆勢",
+        "difference": "詠右邊是完整永；脈左邊是月且右部較多筆。"
+      },
+      {
+        "char": "語",
+        "similarity": "左邊同為言",
+        "difference": "詠右邊是永；語右邊是吾。"
+      }
+    ],
+    "teachingTip": "左言七筆、右永五筆；保留繁體言字旁。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

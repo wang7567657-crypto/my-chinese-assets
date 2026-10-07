@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_7231be18d5cb90ea",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "浮",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "浮",
+    "groups": {
+      "shape": [
+        {
+          "char": "孚",
+          "why": "右邊有完整孚",
+          "difference": "浮左邊多氵；孚單獨七筆。"
+        },
+        {
+          "char": "俘",
+          "why": "右邊同為孚",
+          "difference": "浮左邊是氵；俘左邊是亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "福",
+          "why": "同音：浮、福都讀ㄈㄨˊ。",
+          "difference": "浮表示在液面上；福表示幸福或福氣。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "沉",
+          "why": "意義相對。",
+          "difference": "浮是停在水面或向上；沉是往水下。"
+        }
+      ],
+      "component": [
+        {
+          "char": "孚",
+          "why": "部件比較：右邊有完整孚",
+          "difference": "浮左邊多氵；孚單獨七筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「浮在水面」，再依字形與句意選字。左氵三筆、右孚七筆；不要把右部寫成采。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

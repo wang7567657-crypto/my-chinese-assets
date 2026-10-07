@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第12課_similar_shape_44e644843861492e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "曲",
+    "lessonChars": [
+      "念",
+      "曲",
+      "項",
+      "浮",
+      "掌",
+      "撥",
+      "波",
+      "詩",
+      "作",
+      "首",
+      "指",
+      "伸",
+      "脖",
+      "身",
+      "體",
+      "隻",
+      "倒",
+      "肚",
+      "詠",
+      "鵝",
+      "歲",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "曲",
+    "similarChars": [
+      {
+        "char": "由",
+        "similarity": "都有田形外框與中豎",
+        "difference": "曲內有兩個直分隔；由只有中央一豎向上穿出。"
+      },
+      {
+        "char": "甲",
+        "similarity": "都有方框和中豎",
+        "difference": "曲中豎不向下穿出；甲的中豎向下伸出。"
+      },
+      {
+        "char": "申",
+        "similarity": "都有方框和中豎",
+        "difference": "曲內有兩豎；申中央一豎上下穿出。"
+      },
+      {
+        "char": "田",
+        "similarity": "外框與內部十字相近",
+        "difference": "曲有兩條內豎；田只有中央一豎。"
+      },
+      {
+        "char": "冊",
+        "similarity": "都有多條直筆與橫筆",
+        "difference": "曲有封閉外框；冊是兩片相連的直長輪廓。"
+      },
+      {
+        "char": "凹",
+        "similarity": "外框都有內縮轉折感",
+        "difference": "曲內有兩豎；凹的上緣向內凹。"
+      }
+    ],
+    "teachingTip": "本課「曲項」讀ㄑㄩ，指彎著頸項；曰部筆畫不連續。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

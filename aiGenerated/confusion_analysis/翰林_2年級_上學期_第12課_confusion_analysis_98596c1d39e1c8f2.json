@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_98596c1d39e1c8f2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "詠",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "詠",
+    "groups": {
+      "shape": [
+        {
+          "char": "永",
+          "why": "右邊有完整永",
+          "difference": "詠左邊多言；永單獨五筆。"
+        },
+        {
+          "char": "泳",
+          "why": "右邊同為永",
+          "difference": "詠左邊是言；泳左邊是氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "泳",
+          "why": "同音：詠、泳都讀ㄩㄥˇ。",
+          "difference": "詠是吟誦或歌頌；泳是在水中游動。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "吟",
+          "why": "都可表示有節奏地念。",
+          "difference": "詠常指吟詠詩歌；吟也可指低聲吟唱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "永",
+          "why": "部件比較：右邊有完整永",
+          "difference": "詠左邊多言；永單獨五筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「詠鵝」，再依字形與句意選字。左言七筆、右永五筆；保留繁體言字旁。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

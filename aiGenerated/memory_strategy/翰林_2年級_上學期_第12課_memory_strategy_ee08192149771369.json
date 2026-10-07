@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第12課_memory_strategy_ee08192149771369",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "身",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "身",
+    "components": [
+      "身"
+    ],
+    "association": "保留完整身字，在旁邊畫白鵝的身體輪廓；圖像不替代七筆。",
+    "mnemonic": "七筆成身，身體的身。",
+    "visualPrompt": "保留標準繁體「身」完整字形，在字旁另畫「身體」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "身部涵蓋全字；撇要穿出右側。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

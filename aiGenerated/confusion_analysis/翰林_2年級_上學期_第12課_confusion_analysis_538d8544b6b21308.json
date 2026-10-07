@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_538d8544b6b21308",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "波",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "波",
+    "groups": {
+      "shape": [
+        {
+          "char": "皮",
+          "why": "右邊有完整皮",
+          "difference": "波左邊多氵；皮單獨五筆。"
+        },
+        {
+          "char": "坡",
+          "why": "右邊同為皮",
+          "difference": "波左邊是氵；坡左邊是土。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "撥",
+          "why": "同音：波、撥都讀ㄅㄛ。",
+          "difference": "波是水面起伏；撥是用手移動。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "浪",
+          "why": "都可指水面的起伏。",
+          "difference": "波可大可小；浪通常指較明顯的水波。"
+        }
+      ],
+      "component": [
+        {
+          "char": "皮",
+          "why": "部件比較：右邊有完整皮",
+          "difference": "波左邊多氵；皮單獨五筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「清波」，再依字形與句意選字。左氵三筆、右皮五筆；和坡、披比較偏旁。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第12課_memory_strategy_42a9dceb3ea186d2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "作",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "作",
+    "components": [
+      "亻",
+      "乍"
+    ],
+    "association": "左亻像詩人，右乍保持完整；旁邊畫詩人寫詩。",
+    "mnemonic": "左人右乍，創作的作。",
+    "visualPrompt": "保留標準繁體「作」完整字形，在字旁另畫「作這首詩」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "左亻兩筆、右乍五筆；本課作讀ㄗㄨㄛˋ。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

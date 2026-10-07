@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第12課_similar_shape_989a08c7f98d2f8c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "波",
+    "lessonChars": [
+      "念",
+      "曲",
+      "項",
+      "浮",
+      "掌",
+      "撥",
+      "波",
+      "詩",
+      "作",
+      "首",
+      "指",
+      "伸",
+      "脖",
+      "身",
+      "體",
+      "隻",
+      "倒",
+      "肚",
+      "詠",
+      "鵝",
+      "歲",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "波",
+    "similarChars": [
+      {
+        "char": "皮",
+        "similarity": "右邊有完整皮",
+        "difference": "波左邊多氵；皮單獨五筆。"
+      },
+      {
+        "char": "坡",
+        "similarity": "右邊同為皮",
+        "difference": "波左邊是氵；坡左邊是土。"
+      },
+      {
+        "char": "披",
+        "similarity": "右邊同為皮",
+        "difference": "波左邊是氵；披左邊是扌。"
+      },
+      {
+        "char": "被",
+        "similarity": "右邊同為皮",
+        "difference": "波左邊是氵；被左邊是衤。"
+      },
+      {
+        "char": "破",
+        "similarity": "右邊同為皮",
+        "difference": "波左邊是氵；破左邊是石。"
+      },
+      {
+        "char": "疲",
+        "similarity": "裡面同為皮",
+        "difference": "波左邊是氵；疲外面是疒。"
+      }
+    ],
+    "teachingTip": "左氵三筆、右皮五筆；和坡、披比較偏旁。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}
