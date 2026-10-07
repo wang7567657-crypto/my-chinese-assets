@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第10課_confusion_analysis_9282b4fccd6ccfd0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "突",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "突",
+    "groups": {
+      "shape": [
+        {
+          "char": "穴",
+          "why": "上方有完整穴字",
+          "difference": "突下方多犬；穴單獨成字。"
+        },
+        {
+          "char": "究",
+          "why": "上方都有穴",
+          "difference": "突下為犬；究下為九。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "圖",
+          "why": "近音，突ㄊㄨˊ、圖ㄊㄨˊ，讀音相同。",
+          "difference": "突可表示突然或突出；圖是圖畫、計畫。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "忽",
+          "why": "突然和忽然意思相近。",
+          "difference": "突然、忽然都表示事情出乎意料地發生；字形不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "穴",
+          "why": "部件比較：上方有完整穴字",
+          "difference": "突下方多犬；穴單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「突然」，再依字形與句意選字。突下方是犬，右上有一點；不要寫成大。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

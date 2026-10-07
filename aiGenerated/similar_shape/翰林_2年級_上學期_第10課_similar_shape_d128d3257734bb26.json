@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第10課_similar_shape_d128d3257734bb26",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "嘟",
+    "lessonChars": [
+      "減",
+      "表",
+      "讀",
+      "認",
+      "識",
+      "謎",
+      "答",
+      "搖",
+      "百",
+      "嘴",
+      "哥",
+      "數",
+      "題",
+      "趕",
+      "突",
+      "異",
+      "口",
+      "對",
+      "嘟"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "嘟",
+    "similarChars": [
+      {
+        "char": "都",
+        "similarity": "右邊有完整都字",
+        "difference": "嘟左邊多口；都單獨成字。"
+      },
+      {
+        "char": "堵",
+        "similarity": "右邊都有者",
+        "difference": "嘟左口、右為都；堵左土右者。"
+      },
+      {
+        "char": "賭",
+        "similarity": "右邊都有者",
+        "difference": "嘟左口、右為都；賭左貝右者。"
+      },
+      {
+        "char": "睹",
+        "similarity": "右邊都有者",
+        "difference": "嘟左口、右為都；睹左目右者。"
+      },
+      {
+        "char": "著",
+        "similarity": "下方有者形",
+        "difference": "嘟左口右都；著上艹下者。"
+      },
+      {
+        "char": "郵",
+        "similarity": "右邊都有阝",
+        "difference": "嘟左口且右部為都；郵左垂右阝。"
+      }
+    ],
+    "teachingTip": "嘟右邊是都，包含者與右阝；不要漏右邊阝。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

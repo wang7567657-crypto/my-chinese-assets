@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第10課_confusion_analysis_ec43f61597da079b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "嘴",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "嘴",
+    "groups": {
+      "shape": [
+        {
+          "char": "觜",
+          "why": "右邊有完整觜形",
+          "difference": "嘴左邊多口；觜是較少見字。"
+        },
+        {
+          "char": "此",
+          "why": "嘴右上有此形",
+          "difference": "嘴左口，右下還有角；此單獨成字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "最",
+          "why": "近音，嘴ㄗㄨㄟˇ、最ㄗㄨㄟˋ，聲調不同。",
+          "difference": "嘴是口部器官；最表示程度最高。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "口",
+          "why": "嘴與口都指進食或說話部位。",
+          "difference": "嘴較口語，也可指鳥嘴；口還能作量詞或指開口。"
+        }
+      ],
+      "component": [
+        {
+          "char": "觜",
+          "why": "部件比較：右邊有完整觜形",
+          "difference": "嘴左邊多口；觜是較少見字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「嘟著嘴」，再依字形與句意選字。嘴右上是此，右下是角；不要只寫成口加此。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

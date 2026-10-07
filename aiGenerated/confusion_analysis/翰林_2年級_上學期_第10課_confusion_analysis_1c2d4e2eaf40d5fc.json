@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第10課_confusion_analysis_1c2d4e2eaf40d5fc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "讀",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "讀",
+    "groups": {
+      "shape": [
+        {
+          "char": "賣",
+          "why": "右邊有完整賣字",
+          "difference": "讀左邊多言；賣單獨成字。"
+        },
+        {
+          "char": "續",
+          "why": "右邊都有賣",
+          "difference": "讀左為言；續左為糹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "毒",
+          "why": "近音，讀ㄉㄨˊ、毒ㄉㄨˊ，讀音相同。",
+          "difference": "讀是閱讀或朗讀；毒指有害物質。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "看",
+          "why": "都能從文字取得內容。",
+          "difference": "讀強調辨認文字並理解；看也能看圖或看人。"
+        }
+      ],
+      "component": [
+        {
+          "char": "賣",
+          "why": "部件比較：右邊有完整賣字",
+          "difference": "讀左邊多言；賣單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「讀書」，再依字形與句意選字。讀右邊是賣，不是買；上方有士形。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第10課_confusion_analysis_7288252b12249733",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "題",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "題",
+    "groups": {
+      "shape": [
+        {
+          "char": "是",
+          "why": "左邊有完整是字",
+          "difference": "題右邊多頁；是單獨成字。"
+        },
+        {
+          "char": "提",
+          "why": "右邊都有是",
+          "difference": "題左是右頁；提左扌右是。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蹄",
+          "why": "同音，都讀ㄊㄧˊ。",
+          "difference": "題是問題或標題；蹄是動物腳部。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "問",
+          "why": "題通常是需要回答的問題。",
+          "difference": "題是具體的一道問題或標目；問也可作提出疑問的動詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "是",
+          "why": "部件比較：左邊有完整是字",
+          "difference": "題右邊多頁；是單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「數學題」，再依字形與句意選字。題左邊是是，右邊是九筆頁；不要把頁寫成貝。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

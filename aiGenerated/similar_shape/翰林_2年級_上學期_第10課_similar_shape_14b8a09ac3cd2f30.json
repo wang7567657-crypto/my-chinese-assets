@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第10課_similar_shape_14b8a09ac3cd2f30",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "識",
+    "lessonChars": [
+      "減",
+      "表",
+      "讀",
+      "認",
+      "識",
+      "謎",
+      "答",
+      "搖",
+      "百",
+      "嘴",
+      "哥",
+      "數",
+      "題",
+      "趕",
+      "突",
+      "異",
+      "口",
+      "對",
+      "嘟"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "識",
+    "similarChars": [
+      {
+        "char": "職",
+        "similarity": "右邊都有戠形",
+        "difference": "識左為言；職左為耳。"
+      },
+      {
+        "char": "織",
+        "similarity": "右邊都有戠形",
+        "difference": "識左為言；織左為糹。"
+      },
+      {
+        "char": "幟",
+        "similarity": "右邊都有戠形",
+        "difference": "識左為言；幟左為巾。"
+      },
+      {
+        "char": "熾",
+        "similarity": "右邊都有戠形",
+        "difference": "識左為言；熾左為火。"
+      },
+      {
+        "char": "戠",
+        "similarity": "右邊有完整戠形",
+        "difference": "戠是少見部件字；識左邊多言。"
+      },
+      {
+        "char": "試",
+        "similarity": "左邊都是言，右邊都有戈形斜鉤",
+        "difference": "識右為戠形；試右為式，部件與筆畫不同。"
+      }
+    ],
+    "teachingTip": "識右邊不是職的耳；右下有戈形斜鉤。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

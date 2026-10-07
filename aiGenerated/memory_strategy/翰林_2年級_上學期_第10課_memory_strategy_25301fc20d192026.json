@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第10課_memory_strategy_25301fc20d192026",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "對",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "對",
+    "components": [
+      "左部業形與丷土形",
+      "寸"
+    ],
+    "association": "右寸像一小格核對記號，左部保持完整；旁邊畫答案打勾。",
+    "mnemonic": "左部看完整，右寸，答對的對。",
+    "visualPrompt": "保留標準繁體「對」完整字形，在字旁另畫「答對」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "對右邊寸三筆；左邊筆畫多，要逐層觀察，不自行改成簡體。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

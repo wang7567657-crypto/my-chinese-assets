@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第10課_similar_shape_2dd883005ac35fa0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "表",
+    "lessonChars": [
+      "減",
+      "表",
+      "讀",
+      "認",
+      "識",
+      "謎",
+      "答",
+      "搖",
+      "百",
+      "嘴",
+      "哥",
+      "數",
+      "題",
+      "趕",
+      "突",
+      "異",
+      "口",
+      "對",
+      "嘟"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "表",
+    "similarChars": [
+      {
+        "char": "奉",
+        "similarity": "上方都有三橫穿豎形",
+        "difference": "表下方是衣形下部；奉下方是兩橫與豎形。"
+      },
+      {
+        "char": "責",
+        "similarity": "上方都有三橫穿豎形",
+        "difference": "表下方為衣形；責下方為貝。"
+      },
+      {
+        "char": "素",
+        "similarity": "上方都有三橫穿豎形",
+        "difference": "表下方為衣形；素下方為糸。"
+      },
+      {
+        "char": "毒",
+        "similarity": "上方都有三橫穿豎形",
+        "difference": "表下方為衣形；毒下方為毋形。"
+      },
+      {
+        "char": "衣",
+        "similarity": "下方有衣的變形筆畫",
+        "difference": "表上方多三橫穿豎形；衣的上方是點與橫。"
+      },
+      {
+        "char": "裡",
+        "similarity": "左邊是衣字旁",
+        "difference": "表的衣部呈下部變形；裡左衤右里，結構不同。"
+      }
+    ],
+    "teachingTip": "表的衣部變形從第四筆長橫起合成下部五筆；全字八筆。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

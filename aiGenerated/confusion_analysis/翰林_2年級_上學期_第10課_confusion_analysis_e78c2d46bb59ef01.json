@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第10課_confusion_analysis_e78c2d46bb59ef01",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "答",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "答",
+    "groups": {
+      "shape": [
+        {
+          "char": "合",
+          "why": "下方有完整合字",
+          "difference": "答上方多竹字頭；合單獨成字。"
+        },
+        {
+          "char": "哈",
+          "why": "右邊都有合",
+          "difference": "答上竹下合；哈左口右合。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "達",
+          "why": "近音，答ㄉㄚˊ、達ㄉㄚˊ，讀音相同。",
+          "difference": "答表示回答或答案；達可指到達、通達。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "問",
+          "why": "問和答是一組互動。",
+          "difference": "問是提出問題；答是回應問題。"
+        }
+      ],
+      "component": [
+        {
+          "char": "合",
+          "why": "部件比較：下方有完整合字",
+          "difference": "答上方多竹字頭；合單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「回答」，再依字形與句意選字。答上方竹字頭六筆，下方是合，不要漏中間一橫。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

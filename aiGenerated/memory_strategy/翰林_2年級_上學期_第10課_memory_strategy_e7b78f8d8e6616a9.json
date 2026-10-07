@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第10課_memory_strategy_e7b78f8d8e6616a9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "認",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "認",
+    "components": [
+      "言",
+      "忍"
+    ],
+    "association": "左言表示說出或辨認，右忍保持完整；旁邊畫認出同學。",
+    "mnemonic": "左言右忍，認識的認。",
+    "visualPrompt": "保留標準繁體「認」完整字形，在字旁另畫「認識」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "認右邊上刃下心，刃中的點不能漏。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第10課_similar_shape_67306a9ea407c852",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "減",
+    "lessonChars": [
+      "減",
+      "表",
+      "讀",
+      "認",
+      "識",
+      "謎",
+      "答",
+      "搖",
+      "百",
+      "嘴",
+      "哥",
+      "數",
+      "題",
+      "趕",
+      "突",
+      "異",
+      "口",
+      "對",
+      "嘟"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "減",
+    "similarChars": [
+      {
+        "char": "咸",
+        "similarity": "右邊有完整咸形",
+        "difference": "減左邊多氵；咸單獨成字。"
+      },
+      {
+        "char": "感",
+        "similarity": "上方有咸形",
+        "difference": "減左氵右咸；感上咸下心。"
+      },
+      {
+        "char": "喊",
+        "similarity": "右邊都有咸",
+        "difference": "減左為氵；喊左為口。"
+      },
+      {
+        "char": "鹹",
+        "similarity": "右邊都有咸",
+        "difference": "減左為氵；鹹左為鹵，筆畫較多。"
+      },
+      {
+        "char": "緘",
+        "similarity": "右邊都有咸",
+        "difference": "緘是較少見字，左為糹；減左為氵。"
+      },
+      {
+        "char": "撼",
+        "similarity": "右部有感形",
+        "difference": "減右為咸；撼左扌右感，下方多心。"
+      }
+    ],
+    "teachingTip": "減右邊是咸，內有口；不要把左氵寫成扌。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第10課_confusion_analysis_ecc590e707b3ca1b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "趕",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "趕",
+    "groups": {
+      "shape": [
+        {
+          "char": "走",
+          "why": "外部有完整走字",
+          "difference": "趕在走的右上多旱；走單獨成字。"
+        },
+        {
+          "char": "赴",
+          "why": "左邊都有走",
+          "difference": "趕右上為旱；赴右邊為卜。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "感",
+          "why": "近音，趕ㄍㄢˇ、感ㄍㄢˇ，讀音相同。",
+          "difference": "趕表示加快或追；感可指感覺、感謝。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "快",
+          "why": "趕緊和快都有速度高的意思。",
+          "difference": "趕緊強調立刻行動；快可形容速度，也可表示時間短。"
+        }
+      ],
+      "component": [
+        {
+          "char": "走",
+          "why": "部件比較：外部有完整走字",
+          "difference": "趕在走的右上多旱；走單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「趕緊」，再依字形與句意選字。趕左下走有七筆；右上是旱，不是早。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

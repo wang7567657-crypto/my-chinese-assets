@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第10課_confusion_analysis_4709f7e6d8b227d1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "謎",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "謎",
+    "groups": {
+      "shape": [
+        {
+          "char": "迷",
+          "why": "右邊有完整迷字",
+          "difference": "謎左邊多言；迷單獨成字。"
+        },
+        {
+          "char": "米",
+          "why": "謎右部內有米",
+          "difference": "謎左言、右米外還有辶；米單獨六筆。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "迷",
+          "why": "同音，都讀ㄇㄧˊ。",
+          "difference": "謎是待猜的問題；迷可指迷路或沉迷。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "題",
+          "why": "謎是一種需要解答的題目。",
+          "difference": "謎通常以線索讓人猜；題是問題的廣稱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "迷",
+          "why": "部件比較：右邊有完整迷字",
+          "difference": "謎左邊多言；迷單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「字謎」，再依字形與句意選字。謎右邊是迷，先米後辶；左邊還有言。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

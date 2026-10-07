@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第10課_similar_shape_5ada65d0af19ed15",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "突",
+    "lessonChars": [
+      "減",
+      "表",
+      "讀",
+      "認",
+      "識",
+      "謎",
+      "答",
+      "搖",
+      "百",
+      "嘴",
+      "哥",
+      "數",
+      "題",
+      "趕",
+      "突",
+      "異",
+      "口",
+      "對",
+      "嘟"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "突",
+    "similarChars": [
+      {
+        "char": "穴",
+        "similarity": "上方有完整穴字",
+        "difference": "突下方多犬；穴單獨成字。"
+      },
+      {
+        "char": "究",
+        "similarity": "上方都有穴",
+        "difference": "突下為犬；究下為九。"
+      },
+      {
+        "char": "空",
+        "similarity": "上方都有穴",
+        "difference": "突下為犬；空下為工。"
+      },
+      {
+        "char": "穿",
+        "similarity": "上方都有穴",
+        "difference": "突下為犬；穿下為牙。"
+      },
+      {
+        "char": "窮",
+        "similarity": "上方都有穴",
+        "difference": "突下為犬；窮下部筆畫較多。"
+      },
+      {
+        "char": "犬",
+        "similarity": "下方有完整犬字",
+        "difference": "突上方多穴；犬單獨四筆。"
+      }
+    ],
+    "teachingTip": "突下方是犬，右上有一點；不要寫成大。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

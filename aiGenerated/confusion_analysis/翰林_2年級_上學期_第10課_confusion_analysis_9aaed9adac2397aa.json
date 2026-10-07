@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第10課_confusion_analysis_9aaed9adac2397aa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "數",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "數",
+    "groups": {
+      "shape": [
+        {
+          "char": "婁",
+          "why": "左邊有完整婁形",
+          "difference": "數右邊多攵；婁單獨成字且較少用。"
+        },
+        {
+          "char": "樓",
+          "why": "右邊都有婁",
+          "difference": "數左婁右攵；樓左木右婁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "樹",
+          "why": "近音，數學的數ㄕㄨˋ、樹ㄕㄨˋ，讀音相同。",
+          "difference": "數在本課指數目或數學；樹是植物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "算",
+          "why": "都和數學運算有關。",
+          "difference": "數可指數目；算表示計算，也可指算式。"
+        }
+      ],
+      "component": [
+        {
+          "char": "婁",
+          "why": "部件比較：左邊有完整婁形",
+          "difference": "數右邊多攵；婁單獨成字且較少用。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「數學題」，再依字形與句意選字。本課數學讀ㄕㄨˋ；「數一數」的數讀ㄕㄨˇ。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第10課_similar_shape_bf90ba2a7648af99",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "題",
+    "lessonChars": [
+      "減",
+      "表",
+      "讀",
+      "認",
+      "識",
+      "謎",
+      "答",
+      "搖",
+      "百",
+      "嘴",
+      "哥",
+      "數",
+      "題",
+      "趕",
+      "突",
+      "異",
+      "口",
+      "對",
+      "嘟"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "題",
+    "similarChars": [
+      {
+        "char": "是",
+        "similarity": "左邊有完整是字",
+        "difference": "題右邊多頁；是單獨成字。"
+      },
+      {
+        "char": "提",
+        "similarity": "右邊都有是",
+        "difference": "題左是右頁；提左扌右是。"
+      },
+      {
+        "char": "堤",
+        "similarity": "右邊都有是",
+        "difference": "題左是右頁；堤左土右是。"
+      },
+      {
+        "char": "匙",
+        "similarity": "左邊都有是",
+        "difference": "題右為頁；匙右為匕。"
+      },
+      {
+        "char": "頁",
+        "similarity": "右邊有完整頁字",
+        "difference": "題左邊多是；頁單獨成字。"
+      },
+      {
+        "char": "顏",
+        "similarity": "右邊都有頁",
+        "difference": "題左為是；顏左部筆畫不同。"
+      }
+    ],
+    "teachingTip": "題左邊是是，右邊是九筆頁；不要把頁寫成貝。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

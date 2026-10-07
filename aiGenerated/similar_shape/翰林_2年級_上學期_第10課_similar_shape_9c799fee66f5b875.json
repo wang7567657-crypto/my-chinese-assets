@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第10課_similar_shape_9c799fee66f5b875",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "哥",
+    "lessonChars": [
+      "減",
+      "表",
+      "讀",
+      "認",
+      "識",
+      "謎",
+      "答",
+      "搖",
+      "百",
+      "嘴",
+      "哥",
+      "數",
+      "題",
+      "趕",
+      "突",
+      "異",
+      "口",
+      "對",
+      "嘟"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "哥",
+    "similarChars": [
+      {
+        "char": "可",
+        "similarity": "哥由兩個可形上下排列",
+        "difference": "可單獨五筆；哥上下重複可形，共十筆。"
+      },
+      {
+        "char": "歌",
+        "similarity": "左邊有哥",
+        "difference": "哥單獨成字；歌左哥右欠。"
+      },
+      {
+        "char": "呵",
+        "similarity": "右邊有可",
+        "difference": "哥有上下兩個可形；呵左口右可。"
+      },
+      {
+        "char": "河",
+        "similarity": "右邊有可",
+        "difference": "哥有上下兩個可形；河左氵右可。"
+      },
+      {
+        "char": "奇",
+        "similarity": "下方有可形",
+        "difference": "哥上下兩個可形；奇上大下可。"
+      },
+      {
+        "char": "何",
+        "similarity": "右邊有可",
+        "difference": "哥有上下兩個可形；何左亻右可。"
+      }
+    ],
+    "teachingTip": "哥由上下兩個可形組合；部首取下方口三筆。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

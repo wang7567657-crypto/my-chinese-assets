@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第10課_memory_strategy_4c873d8d6f90a7f1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "百",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "百",
+    "components": [
+      "一",
+      "白"
+    ],
+    "association": "白字上面加一橫，旁邊畫一百的數字100。",
+    "mnemonic": "一加白，數目一百。",
+    "visualPrompt": "保留標準繁體「百」完整字形，在字旁另畫「一百」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "百上方多一橫；白上方是一撇，兩字要分清楚。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

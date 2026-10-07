@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第10課_confusion_analysis_6c415c5aa6e25067",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "識",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "識",
+    "groups": {
+      "shape": [
+        {
+          "char": "職",
+          "why": "右邊都有戠形",
+          "difference": "識左為言；職左為耳。"
+        },
+        {
+          "char": "織",
+          "why": "右邊都有戠形",
+          "difference": "識左為言；織左為糹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "式",
+          "why": "近音，識ㄕˋ、式ㄕˋ，讀音相同。",
+          "difference": "識表示認識、知識；式表示樣式或方式。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "認",
+          "why": "常與識組成認識。",
+          "difference": "認有辨認、承認等義；識有辨別、知識等義。"
+        }
+      ],
+      "component": [
+        {
+          "char": "職",
+          "why": "部件比較：右邊都有戠形",
+          "difference": "識左為言；職左為耳。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「認識」，再依字形與句意選字。識右邊不是職的耳；右下有戈形斜鉤。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

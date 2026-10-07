@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第10課_similar_shape_fa004fd854961ce1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "搖",
+    "lessonChars": [
+      "減",
+      "表",
+      "讀",
+      "認",
+      "識",
+      "謎",
+      "答",
+      "搖",
+      "百",
+      "嘴",
+      "哥",
+      "數",
+      "題",
+      "趕",
+      "突",
+      "異",
+      "口",
+      "對",
+      "嘟"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "搖",
+    "similarChars": [
+      {
+        "char": "遙",
+        "similarity": "都有䍃形",
+        "difference": "搖左為扌；遙外有辶。"
+      },
+      {
+        "char": "謠",
+        "similarity": "右邊都有䍃形",
+        "difference": "搖左為扌；謠左為言。"
+      },
+      {
+        "char": "瑤",
+        "similarity": "右邊都有䍃形",
+        "difference": "搖左為扌；瑤左為王。"
+      },
+      {
+        "char": "徭",
+        "similarity": "右邊都有䍃形",
+        "difference": "徭是較少見字，左為彳；搖左為扌。"
+      },
+      {
+        "char": "鷂",
+        "similarity": "左邊有䍃形",
+        "difference": "鷂是少見字，右邊多鳥；搖左邊是扌。"
+      },
+      {
+        "char": "陶",
+        "similarity": "右部下方也有缶形",
+        "difference": "搖右部為䍃形；陶左阝，右為勹包缶，結構不同。"
+      }
+    ],
+    "teachingTip": "搖右邊上方爫形、下方缶；不要寫成遙的辶。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

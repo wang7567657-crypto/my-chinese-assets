@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第10課_confusion_analysis_01953aa2e9a14304",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "對",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "對",
+    "groups": {
+      "shape": [
+        {
+          "char": "業",
+          "why": "左上有業形",
+          "difference": "對右邊多寸，左下還有丷土形；業單獨成字。"
+        },
+        {
+          "char": "叢",
+          "why": "上部都有業形",
+          "difference": "對右為寸；叢下部是取形，筆畫不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "隊",
+          "why": "近音，對ㄉㄨㄟˋ、隊ㄉㄨㄟˋ，讀音相同。",
+          "difference": "對表示正確或相對；隊表示隊伍。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "錯",
+          "why": "意義相對。",
+          "difference": "答對表示正確；答錯表示不正確。"
+        }
+      ],
+      "component": [
+        {
+          "char": "業",
+          "why": "部件比較：左上有業形",
+          "difference": "對右邊多寸，左下還有丷土形；業單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「答對」，再依字形與句意選字。對右邊寸三筆；左邊筆畫多，要逐層觀察，不自行改成簡體。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}

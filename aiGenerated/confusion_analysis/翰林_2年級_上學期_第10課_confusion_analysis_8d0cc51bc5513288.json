@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第10課_confusion_analysis_8d0cc51bc5513288",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "嘟",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "嘟",
+    "groups": {
+      "shape": [
+        {
+          "char": "都",
+          "why": "右邊有完整都字",
+          "difference": "嘟左邊多口；都單獨成字。"
+        },
+        {
+          "char": "堵",
+          "why": "右邊都有者",
+          "difference": "嘟左口、右為都；堵左土右者。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "都",
+          "why": "在「都市」中，都讀ㄉㄨ；在「都是」中讀ㄉㄡ。",
+          "difference": "嘟表示嘴突起或聲音；都可指都市或全部，讀音依語境不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "噘",
+          "why": "都可描述嘴向前突出。",
+          "difference": "嘟嘴是常用說法；噘嘴也表示嘴向前突出，噘較難寫。"
+        }
+      ],
+      "component": [
+        {
+          "char": "都",
+          "why": "部件比較：右邊有完整都字",
+          "difference": "嘟左邊多口；都單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「嘟著嘴」，再依字形與句意選字。嘟右邊是都，包含者與右阝；不要漏右邊阝。"
+  },
+  "createdAt": "2026-10-07T03:09:09.701Z"
+}
