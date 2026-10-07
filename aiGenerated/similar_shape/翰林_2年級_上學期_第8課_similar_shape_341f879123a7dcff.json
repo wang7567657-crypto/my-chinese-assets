@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第8課_similar_shape_341f879123a7dcff",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "接",
+    "lessonChars": [
+      "介",
+      "圓",
+      "形",
+      "白",
+      "紙",
+      "米",
+      "變",
+      "軟",
+      "搶",
+      "材",
+      "蝦",
+      "線",
+      "各",
+      "種",
+      "菜",
+      "接",
+      "聽",
+      "更",
+      "紹",
+      "舉"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "接",
+    "similarChars": [
+      {
+        "char": "妾",
+        "similarity": "右邊有完整妾形",
+        "difference": "妾是較少用字，單獨成字；接左邊多扌。"
+      },
+      {
+        "char": "拉",
+        "similarity": "左邊扌相同，右上都有立形",
+        "difference": "接右邊是立下加女的妾；拉右邊只有立。"
+      },
+      {
+        "char": "按",
+        "similarity": "左邊都是扌，右下都有女",
+        "difference": "接右上立；按右上宀，右部為安。"
+      },
+      {
+        "char": "捷",
+        "similarity": "左邊都是扌，右部筆畫較多",
+        "difference": "接右部妾的下方是女；捷右部下方有疌的走筆，不能互換。"
+      },
+      {
+        "char": "技",
+        "similarity": "左邊都是扌",
+        "difference": "接右部是妾；技右部是支。"
+      },
+      {
+        "char": "控",
+        "similarity": "左邊都是扌，右部上下排列",
+        "difference": "接右為上立下女；控右為上穴下工的空。"
+      }
+    ],
+    "teachingTip": "右妾是上立下女；本課接著表示隨後，不只是接物。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

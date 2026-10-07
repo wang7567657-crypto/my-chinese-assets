@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第8課_confusion_analysis_d55613f3483783d0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "紙",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "紙",
+    "groups": {
+      "shape": [
+        {
+          "char": "氏",
+          "why": "右邊都有氏形",
+          "difference": "紙左邊多糹；氏單獨成字。"
+        },
+        {
+          "char": "低",
+          "why": "右部都有氏形",
+          "difference": "紙左為糹，右為氏；低左為亻，右為氐，底下多點。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "只",
+          "why": "在「只有」中同音，都讀ㄓˇ。",
+          "difference": "紙是材料；只有的只表示限定；一隻鳥的隻另讀ㄓ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "布",
+          "why": "都可做成薄片狀材料。",
+          "difference": "紙可供書寫或包裹；布由纖維織成，米紙是食物名稱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "氏",
+          "why": "部件比較：右邊都有氏形",
+          "difference": "紙左邊多糹；氏單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「米紙」，再依字形與句意選字。紙右邊是氏，末筆斜鉤要保留，不要多寫底部的點。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

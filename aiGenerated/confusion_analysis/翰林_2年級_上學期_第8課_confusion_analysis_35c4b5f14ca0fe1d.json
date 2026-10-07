@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第8課_confusion_analysis_35c4b5f14ca0fe1d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蝦",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蝦",
+    "groups": {
+      "shape": [
+        {
+          "char": "暇",
+          "why": "右邊都有叚",
+          "difference": "蝦左為虫；暇左為日。"
+        },
+        {
+          "char": "假",
+          "why": "右邊都有叚",
+          "difference": "蝦左為虫；假左為亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "瞎",
+          "why": "同音，在蝦子、瞎眼中都讀ㄒㄧㄚ。",
+          "difference": "蝦是動物；瞎可指眼睛看不見，左邊是目。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蟹",
+          "why": "都是常見的水生動物名稱。",
+          "difference": "蝦有細長身體；蟹身體較寬，有螯，不能把春捲的蝦寫成蟹。"
+        }
+      ],
+      "component": [
+        {
+          "char": "暇",
+          "why": "部件比較：右邊都有叚",
+          "difference": "蝦左為虫；暇左為日。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「蝦子」，再依字形與句意選字。右邊叚上下折筆要看清；本課蝦子讀ㄒㄧㄚ。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

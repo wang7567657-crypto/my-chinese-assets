@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第8課_similar_shape_3aa6a75eaa06a4b5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "形",
+    "lessonChars": [
+      "介",
+      "圓",
+      "形",
+      "白",
+      "紙",
+      "米",
+      "變",
+      "軟",
+      "搶",
+      "材",
+      "蝦",
+      "線",
+      "各",
+      "種",
+      "菜",
+      "接",
+      "聽",
+      "更",
+      "紹",
+      "舉"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "形",
+    "similarChars": [
+      {
+        "char": "刑",
+        "similarity": "左邊都有开形",
+        "difference": "形右邊彡是三撇；刑右邊刂是豎與豎鉤。"
+      },
+      {
+        "char": "型",
+        "similarity": "上方左部有开形",
+        "difference": "形右為彡；型上面是刑，下面多土。"
+      },
+      {
+        "char": "邢",
+        "similarity": "左邊都有开形",
+        "difference": "邢是姓氏字，右為阝；形右為彡。"
+      },
+      {
+        "char": "彤",
+        "similarity": "右邊都有彡",
+        "difference": "形左為开形；彤左為丹。"
+      },
+      {
+        "char": "彩",
+        "similarity": "右邊都有彡",
+        "difference": "形左為开形；彩左為采。"
+      },
+      {
+        "char": "彬",
+        "similarity": "右邊都有彡",
+        "difference": "形左為开形；彬左為林。"
+      }
+    ],
+    "teachingTip": "右邊彡有三撇；不要寫成刑右邊的刂。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

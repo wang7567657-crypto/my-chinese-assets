@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第8課_similar_shape_b1dccbe55cf95b75",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "圓",
+    "lessonChars": [
+      "介",
+      "圓",
+      "形",
+      "白",
+      "紙",
+      "米",
+      "變",
+      "軟",
+      "搶",
+      "材",
+      "蝦",
+      "線",
+      "各",
+      "種",
+      "菜",
+      "接",
+      "聽",
+      "更",
+      "紹",
+      "舉"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "圓",
+    "similarChars": [
+      {
+        "char": "員",
+        "similarity": "都有員形",
+        "difference": "圓在員外加囗；員沒有外框。"
+      },
+      {
+        "char": "園",
+        "similarity": "外框都是囗",
+        "difference": "圓內是員；園內是袁。"
+      },
+      {
+        "char": "圍",
+        "similarity": "外框都是囗",
+        "difference": "圓內是員；圍內是韋。"
+      },
+      {
+        "char": "圃",
+        "similarity": "外框都是囗",
+        "difference": "圓內是員；圃內是甫。"
+      },
+      {
+        "char": "圜",
+        "similarity": "外框都是囗且內部繁複",
+        "difference": "圜是較少見字，內部是睘；圓內部是員。"
+      },
+      {
+        "char": "圌",
+        "similarity": "外框都是囗",
+        "difference": "圌是少見字，內部是耑；圓內部是員。"
+      }
+    ],
+    "teachingTip": "圓的外框是囗，內部是員；外框最後才封口，不漏員下方貝形。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

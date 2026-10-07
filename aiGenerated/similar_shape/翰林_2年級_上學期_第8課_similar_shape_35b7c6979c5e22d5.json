@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第8課_similar_shape_35b7c6979c5e22d5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "米",
+    "lessonChars": [
+      "介",
+      "圓",
+      "形",
+      "白",
+      "紙",
+      "米",
+      "變",
+      "軟",
+      "搶",
+      "材",
+      "蝦",
+      "線",
+      "各",
+      "種",
+      "菜",
+      "接",
+      "聽",
+      "更",
+      "紹",
+      "舉"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "米",
+    "similarChars": [
+      {
+        "char": "木",
+        "similarity": "都有橫豎與下方撇捺",
+        "difference": "米在木形上方多點與撇；木沒有這兩筆。"
+      },
+      {
+        "char": "未",
+        "similarity": "都有中間豎與下方撇捺",
+        "difference": "米上方是點、撇；未上方是短橫。"
+      },
+      {
+        "char": "來",
+        "similarity": "整體都有中豎及左右斜筆",
+        "difference": "米上部有點撇；來中間兩側是人形筆畫，筆數更多。"
+      },
+      {
+        "char": "朱",
+        "similarity": "都有橫豎和下方撇捺",
+        "difference": "米上方點撇分在兩側；朱上方是撇和橫。"
+      },
+      {
+        "char": "粉",
+        "similarity": "左邊有米",
+        "difference": "米單獨成字；粉右邊多分。"
+      },
+      {
+        "char": "粒",
+        "similarity": "左邊有米",
+        "difference": "米單獨成字；粒右邊多立。"
+      }
+    ],
+    "teachingTip": "米有六筆，上方的點和撇都不能漏。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

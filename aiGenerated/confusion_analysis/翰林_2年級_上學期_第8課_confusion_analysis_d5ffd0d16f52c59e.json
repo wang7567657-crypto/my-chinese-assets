@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第8課_confusion_analysis_d5ffd0d16f52c59e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "白",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "白",
+    "groups": {
+      "shape": [
+        {
+          "char": "日",
+          "why": "都有四邊框與中間橫",
+          "difference": "白上面多一撇；日沒有上方撇。"
+        },
+        {
+          "char": "百",
+          "why": "下部有白形",
+          "difference": "白上方是撇；百在白形上多一橫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "百",
+          "why": "近音，白ㄅㄞˊ、百ㄅㄞˇ，聲調不同。",
+          "difference": "白是顏色；百是數目。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "黑",
+          "why": "都是顏色詞，意義相對。",
+          "difference": "白紙顏色明亮；黑指黑色，不能互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "日",
+          "why": "部件比較：都有四邊框與中間橫",
+          "difference": "白上面多一撇；日沒有上方撇。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「白紙」，再依字形與句意選字。白上方有撇，日沒有；保留完整獨體字。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

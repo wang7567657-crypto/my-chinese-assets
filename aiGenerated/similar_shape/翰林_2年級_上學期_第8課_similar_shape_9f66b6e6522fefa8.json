@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第8課_similar_shape_9f66b6e6522fefa8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "介",
+    "lessonChars": [
+      "介",
+      "圓",
+      "形",
+      "白",
+      "紙",
+      "米",
+      "變",
+      "軟",
+      "搶",
+      "材",
+      "蝦",
+      "線",
+      "各",
+      "種",
+      "菜",
+      "接",
+      "聽",
+      "更",
+      "紹",
+      "舉"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "介",
+    "similarChars": [
+      {
+        "char": "界",
+        "similarity": "下方有完整介形",
+        "difference": "介單獨成字；界上方多田。"
+      },
+      {
+        "char": "芥",
+        "similarity": "下方有完整介形",
+        "difference": "介單獨成字；芥上方多艹。"
+      },
+      {
+        "char": "尬",
+        "similarity": "右方有介形",
+        "difference": "介單獨成字；尬左邊多尢。"
+      },
+      {
+        "char": "玠",
+        "similarity": "右方有介形",
+        "difference": "玠是少見字，左邊多王；介沒有王。"
+      },
+      {
+        "char": "疥",
+        "similarity": "內部有介形",
+        "difference": "疥是較少見字，介外面多疒。"
+      },
+      {
+        "char": "蚧",
+        "similarity": "右方有介形",
+        "difference": "蚧是少見字，左邊多虫；介沒有虫。"
+      }
+    ],
+    "teachingTip": "介下面是一撇、一豎，與上方人形分開觀察。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

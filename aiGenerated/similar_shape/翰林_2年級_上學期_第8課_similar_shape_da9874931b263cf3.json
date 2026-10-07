@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第8課_similar_shape_da9874931b263cf3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "更",
+    "lessonChars": [
+      "介",
+      "圓",
+      "形",
+      "白",
+      "紙",
+      "米",
+      "變",
+      "軟",
+      "搶",
+      "材",
+      "蝦",
+      "線",
+      "各",
+      "種",
+      "菜",
+      "接",
+      "聽",
+      "更",
+      "紹",
+      "舉"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "更",
+    "similarChars": [
+      {
+        "char": "便",
+        "similarity": "右邊有完整更形",
+        "difference": "更單獨成字；便左邊多亻。"
+      },
+      {
+        "char": "硬",
+        "similarity": "右邊有完整更形",
+        "difference": "更單獨成字；硬左邊多石。"
+      },
+      {
+        "char": "梗",
+        "similarity": "右邊有完整更形",
+        "difference": "更單獨成字；梗左邊多木。"
+      },
+      {
+        "char": "哽",
+        "similarity": "右邊有完整更形",
+        "difference": "哽是較少用字，左邊多口；更沒有左口。"
+      },
+      {
+        "char": "使",
+        "similarity": "右部吏與更都有框及穿過框的撇捺",
+        "difference": "更框內有一橫；使右部是吏，並在左加亻，內框筆畫不同。"
+      },
+      {
+        "char": "吏",
+        "similarity": "都有上橫、框與交叉撇捺",
+        "difference": "更框內多一橫；吏框內沒有這一橫。"
+      }
+    ],
+    "teachingTip": "本課更多、更美味讀ㄍㄥˋ；更改讀ㄍㄥ。部首是曰，不是日。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

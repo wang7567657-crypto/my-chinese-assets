@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第8課_similar_shape_be36910ff78b3bb2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "蝦",
+    "lessonChars": [
+      "介",
+      "圓",
+      "形",
+      "白",
+      "紙",
+      "米",
+      "變",
+      "軟",
+      "搶",
+      "材",
+      "蝦",
+      "線",
+      "各",
+      "種",
+      "菜",
+      "接",
+      "聽",
+      "更",
+      "紹",
+      "舉"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "蝦",
+    "similarChars": [
+      {
+        "char": "暇",
+        "similarity": "右邊都有叚",
+        "difference": "蝦左為虫；暇左為日。"
+      },
+      {
+        "char": "假",
+        "similarity": "右邊都有叚",
+        "difference": "蝦左為虫；假左為亻。"
+      },
+      {
+        "char": "霞",
+        "similarity": "都有叚形",
+        "difference": "蝦左虫右叚；霞上雨下叚。"
+      },
+      {
+        "char": "瑕",
+        "similarity": "右邊都有叚",
+        "difference": "瑕是較少見字，左王；蝦左虫。"
+      },
+      {
+        "char": "遐",
+        "similarity": "都有叚形",
+        "difference": "遐是較少見字，叚外加辶；蝦左邊加虫。"
+      },
+      {
+        "char": "叚",
+        "similarity": "右邊有完整叚形",
+        "difference": "叚是少見字，常作部件；蝦在左邊多虫。"
+      }
+    ],
+    "teachingTip": "右邊叚上下折筆要看清；本課蝦子讀ㄒㄧㄚ。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}

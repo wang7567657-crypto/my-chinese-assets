@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第8課_memory_strategy_188bbd6b0b38005a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "紹",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "紹",
+    "components": [
+      "糹",
+      "召"
+    ],
+    "association": "左糹右召記住字形；旁邊畫媽媽把越南春捲介紹給大家。",
+    "mnemonic": "左糹右召，介紹的紹。",
+    "visualPrompt": "保留標準繁體「紹」完整字形，在字旁另畫「介紹」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "紹右召是上刀下口；不要把左糹改成扌。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T01:08:27.067Z"
+}
