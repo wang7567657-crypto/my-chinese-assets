@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "包",
     "similarChars": [
-      "抱",
-      "泡",
-      "跑",
-      "炮",
-      "飽",
-      "袍"
+      {
+        "char": "抱",
+        "similarity": "右側完整保留包",
+        "difference": "左側多扌"
+      },
+      {
+        "char": "泡",
+        "similarity": "右側完整保留包",
+        "difference": "左側多氵"
+      },
+      {
+        "char": "跑",
+        "similarity": "右側完整保留包",
+        "difference": "左側多足字旁"
+      },
+      {
+        "char": "炮",
+        "similarity": "右側完整保留包",
+        "difference": "左側多火"
+      },
+      {
+        "char": "飽",
+        "similarity": "右側完整保留包",
+        "difference": "左側多飠"
+      },
+      {
+        "char": "袍",
+        "similarity": "右側完整保留包",
+        "difference": "左側多衤"
+      }
     ],
     "teachingTip": "包的外面是勹，裡面是巳；抱、泡、跑、炮、飽、袍都多了一個不同的左邊部件。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

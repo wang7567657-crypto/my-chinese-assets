@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "咬",
     "similarChars": [
-      "交",
-      "郊",
-      "校",
-      "較",
-      "餃",
-      "蛟"
+      {
+        "char": "交",
+        "similarity": "同含交",
+        "difference": "交沒有左側口"
+      },
+      {
+        "char": "郊",
+        "similarity": "同含交",
+        "difference": "郊是交右邊加阝，沒有咬的左口"
+      },
+      {
+        "char": "校",
+        "similarity": "右側同為交",
+        "difference": "左側口改為木"
+      },
+      {
+        "char": "較",
+        "similarity": "右側同為交",
+        "difference": "左側口改為車"
+      },
+      {
+        "char": "餃",
+        "similarity": "右側同為交",
+        "difference": "左側口改為飠"
+      },
+      {
+        "char": "蛟",
+        "similarity": "右側同為交",
+        "difference": "左側口改為虫"
+      }
     ],
     "teachingTip": "咬左邊是口，右邊是交；同樣含交的字，要看左邊或右邊多了哪個部件。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "遊",
     "similarChars": [
-      "游",
-      "邀",
-      "遙",
-      "週",
-      "進",
-      "遇"
+      {
+        "char": "游",
+        "similarity": "內部同為斿",
+        "difference": "外側辶改為左側氵"
+      },
+      {
+        "char": "邀",
+        "similarity": "外側同有辶",
+        "difference": "內部斿改為敫"
+      },
+      {
+        "char": "遙",
+        "similarity": "外側同有辶",
+        "difference": "內部下方是缶而非子"
+      },
+      {
+        "char": "週",
+        "similarity": "外側同有辶",
+        "difference": "內部斿改為周"
+      },
+      {
+        "char": "進",
+        "similarity": "外側同有辶",
+        "difference": "內部斿改為隹"
+      },
+      {
+        "char": "遇",
+        "similarity": "外側同有辶",
+        "difference": "內部斿改為禺"
+      }
     ],
     "teachingTip": "遊外側有走之旁辶，裡面有方和子；游的左邊是三點水，邀、遙、週等也有走之旁。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

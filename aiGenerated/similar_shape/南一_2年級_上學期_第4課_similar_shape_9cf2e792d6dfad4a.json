@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "塊",
     "similarChars": [
-      "愧",
-      "傀",
-      "槐",
-      "瑰",
-      "魁",
-      "魂"
+      {
+        "char": "愧",
+        "similarity": "右側同為鬼",
+        "difference": "左側土改為忄"
+      },
+      {
+        "char": "傀",
+        "similarity": "右側同為鬼",
+        "difference": "左側土改為亻"
+      },
+      {
+        "char": "槐",
+        "similarity": "右側同為鬼",
+        "difference": "左側土改為木"
+      },
+      {
+        "char": "瑰",
+        "similarity": "右側同為鬼",
+        "difference": "左側土改為王"
+      },
+      {
+        "char": "魁",
+        "similarity": "同含鬼",
+        "difference": "魁在鬼旁加斗，沒有左側土"
+      },
+      {
+        "char": "魂",
+        "similarity": "右側同為鬼",
+        "difference": "左側土改為云"
+      }
     ],
     "teachingTip": "塊是土字旁加鬼；愧換成心字旁，傀換成人字旁，槐換成木字旁，先看左邊。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

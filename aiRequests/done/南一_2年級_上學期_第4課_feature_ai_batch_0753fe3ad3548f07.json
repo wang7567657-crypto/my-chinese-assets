@@ -1,0 +1,317 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_2年級_上學期_第4課_feature_ai_batch_0753fe3ad3548f07",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 18,
+    "batchCharacters": [
+      "塊",
+      "圓",
+      "形",
+      "芝",
+      "麻",
+      "餅",
+      "咬",
+      "飯",
+      "做",
+      "課",
+      "洗",
+      "澡",
+      "拾",
+      "整",
+      "包",
+      "遊",
+      "戲",
+      "剩"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_8e5be28133ab1bdf",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "塊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_4289efc7584abe33",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "圓",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_768c193d07258ce9",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "形",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_ba127b86384cd1d2",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "芝",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_1f41296270504a0d",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "麻",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_0f9ab3105a926ae0",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "餅",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_f1adf099a66bf25e",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "咬",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_7f0d18784e4ac39b",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "飯",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_5c9d2ba662e9e0af",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "做",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_9283d1bfb6ceda72",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_7b0bcae6a9fbe2d6",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "洗",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_3663845139536cbf",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "澡",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_3bf941fde2bae0fb",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "拾",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_d67552cc6fe746b8",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "整",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_29e76cc477aa7040",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "包",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_3778f327fbce51fc",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "遊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_5bc3e4a67d177dd0",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "戲",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第4課_confusion_analysis_342f096a2125ed05",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "char": "剩",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "processedAt": "2026-10-07T06:43:13.306152+00:00",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_2年級_上學期_第4課_feature_ai_batch_0753fe3ad3548f07",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "南一",
+      "grade": "2年級",
+      "semester": "上學期",
+      "lesson": "第4課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 18,
+      "batchCharacters": [
+        "塊",
+        "圓",
+        "形",
+        "芝",
+        "麻",
+        "餅",
+        "咬",
+        "飯",
+        "做",
+        "課",
+        "洗",
+        "澡",
+        "拾",
+        "整",
+        "包",
+        "遊",
+        "戲",
+        "剩"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 18,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_8e5be28133ab1bdf.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_4289efc7584abe33.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_768c193d07258ce9.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_ba127b86384cd1d2.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_1f41296270504a0d.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_0f9ab3105a926ae0.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_f1adf099a66bf25e.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_7f0d18784e4ac39b.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_5c9d2ba662e9e0af.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_9283d1bfb6ceda72.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_7b0bcae6a9fbe2d6.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_3663845139536cbf.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_3bf941fde2bae0fb.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_d67552cc6fe746b8.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_29e76cc477aa7040.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_3778f327fbce51fc.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_5bc3e4a67d177dd0.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第4課_confusion_analysis_342f096a2125ed05.json"
+      ]
+    },
+    "createdAt": "2026-10-07T06:43:13.306152+00:00"
+  }
+}

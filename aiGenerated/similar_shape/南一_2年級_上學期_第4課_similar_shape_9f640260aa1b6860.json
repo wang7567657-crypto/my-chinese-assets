@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "做",
     "similarChars": [
-      "作",
-      "估",
-      "故",
-      "倣",
-      "傲",
-      "假"
+      {
+        "char": "作",
+        "similarity": "左側同有亻",
+        "difference": "右側故改為乍"
+      },
+      {
+        "char": "估",
+        "similarity": "左側同有亻且右側含古",
+        "difference": "估沒有右側攵"
+      },
+      {
+        "char": "故",
+        "similarity": "完整保留古與攵",
+        "difference": "故沒有左側亻"
+      },
+      {
+        "char": "倣",
+        "similarity": "左側同亻且右側同攵",
+        "difference": "中間古改為方"
+      },
+      {
+        "char": "傲",
+        "similarity": "左側同亻且右側同攵",
+        "difference": "中間是敖的左側部分，不是古"
+      },
+      {
+        "char": "假",
+        "similarity": "左側同有亻",
+        "difference": "右側故改為叚，末端是又而非攵"
+      }
     ],
     "teachingTip": "做左邊是人字旁亻，右邊有古和攵；作、估也有人字旁，故則有古和攵。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

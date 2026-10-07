@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "芝",
     "similarChars": [
-      "之",
-      "芒",
-      "芳",
-      "茂",
-      "苓",
-      "芙"
+      {
+        "char": "之",
+        "similarity": "同含之",
+        "difference": "之沒有上方艹"
+      },
+      {
+        "char": "芒",
+        "similarity": "上方同有艹",
+        "difference": "下方之改為亡"
+      },
+      {
+        "char": "芳",
+        "similarity": "上方同有艹",
+        "difference": "下方之改為方"
+      },
+      {
+        "char": "茂",
+        "similarity": "上方同有艹",
+        "difference": "下方之改為戊"
+      },
+      {
+        "char": "苓",
+        "similarity": "上方同有艹",
+        "difference": "下方之改為令"
+      },
+      {
+        "char": "芙",
+        "similarity": "上方同有艹",
+        "difference": "下方之改為夫"
+      }
     ],
     "teachingTip": "芝上方是草字頭艹，下方是之；之沒有草字頭，其他草字頭的字要再看下半部。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }

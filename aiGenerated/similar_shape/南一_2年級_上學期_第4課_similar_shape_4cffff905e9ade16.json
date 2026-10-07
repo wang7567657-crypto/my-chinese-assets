@@ -36,14 +36,39 @@
   "data": {
     "targetChar": "課",
     "similarChars": [
-      "果",
-      "棵",
-      "顆",
-      "裸",
-      "稞",
-      "踝"
+      {
+        "char": "果",
+        "similarity": "同含果",
+        "difference": "果沒有左側訁"
+      },
+      {
+        "char": "棵",
+        "similarity": "右側同為果",
+        "difference": "左側訁改為木"
+      },
+      {
+        "char": "顆",
+        "similarity": "同含果",
+        "difference": "顆是果右加頁，沒有左側訁"
+      },
+      {
+        "char": "裸",
+        "similarity": "右側同為果",
+        "difference": "左側訁改為衤"
+      },
+      {
+        "char": "稞",
+        "similarity": "右側同為果",
+        "difference": "左側訁改為禾；稞為較少見字"
+      },
+      {
+        "char": "踝",
+        "similarity": "右側同為果",
+        "difference": "左側訁改為足字旁"
+      }
     ],
     "teachingTip": "課左邊是言字旁訁，右邊是果；棵、顆、裸、稞、踝的果旁相同，辨認另一邊。"
   },
-  "createdAt": "2026-09-29T01:32:08.512Z"
+  "createdAt": "2026-10-07T06:43:13.306152+00:00",
+  "status": "completed"
 }
