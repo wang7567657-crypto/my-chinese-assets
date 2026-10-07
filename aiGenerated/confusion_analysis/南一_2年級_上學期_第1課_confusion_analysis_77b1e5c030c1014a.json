@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_77b1e5c030c1014a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "功",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "功",
+    "groups": {
+      "shape": [
+        {
+          "char": "攻",
+          "why": "左邊都是工。",
+          "difference": "功右邊是力；攻右邊是攵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "公",
+          "why": "同音，都是ㄍㄨㄥ。",
+          "difference": "成功用功；公園用公。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "成",
+          "why": "在成功中一起出現。",
+          "difference": "成功表示達到目標；成和功是兩個不同的字，不能互換位置。"
+        }
+      ],
+      "component": [
+        {
+          "char": "工",
+          "why": "功左邊是工。",
+          "difference": "工右邊加力才是功。"
+        }
+      ]
+    },
+    "tip": "用「工＋力」辨認字形，再讀「成功」；這是識字提示，不是字源解釋。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

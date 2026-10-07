@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_7a45787ebac2efee",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "游",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "游",
+    "groups": {
+      "shape": [
+        {
+          "char": "遊",
+          "why": "兩字都包含斿形部分。",
+          "difference": "游左邊是三點水；遊有走之旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "油",
+          "why": "同音，都是ㄧㄡˊ。",
+          "difference": "游泳用游；食用油用油。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "泳",
+          "why": "都與在水中活動有關。",
+          "difference": "游可以表示在水中移動；泳表示游泳，常合成游泳一詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "遊",
+          "why": "共用斿這個部分。",
+          "difference": "比較外側部件：游用氵，遊用辶。"
+        }
+      ]
+    },
+    "tip": "課文有鯨魚在水中游，先圈出游的三點水。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

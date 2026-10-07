@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第1課_memory_strategy_3f95178c8f5220a1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "游",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "游",
+    "components": [
+      "氵",
+      "斿"
+    ],
+    "association": "左邊三點水讓人想到在水裡游動；右邊的斿依標準字形觀察。這是識字聯想，不是字源解釋。",
+    "mnemonic": "游來游去，左邊三點水。",
+    "visualPrompt": "呈現標準楷體「游」，氵與斿分色；字旁畫在海水中游動的鯨魚，不改變右側部件。",
+    "teachingTip": "先找三點水，再觀察右下方的子；與「遊」比較時，指出左側部件不同。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_ecdd438530509a2f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "力",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "力",
+    "groups": {
+      "shape": [
+        {
+          "char": "刀",
+          "why": "輪廓相近，都是兩筆。",
+          "difference": "力的撇穿過橫折鉤的上方；刀的撇起點在橫折鉤下方。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "立",
+          "why": "同音，都是ㄌㄧˋ。",
+          "difference": "用力用力；站立用立。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "勁",
+          "why": "都有力量的意思。",
+          "difference": "力常見於用力；勁在使勁中也表示力量，但字形不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "功",
+          "why": "功右邊含有力。",
+          "difference": "力左邊加工是功，不能把工漏掉。"
+        }
+      ]
+    },
+    "tip": "放大力與刀，指出撇的起點位置。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

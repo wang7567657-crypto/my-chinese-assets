@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第1課_similar_shape_0fc9cc59840318ef",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "試",
+    "lessonChars": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "試",
+    "similarChars": [
+      {
+        "char": "拭",
+        "similarity": "右邊都是式。",
+        "difference": "試左邊是言；拭左邊是扌。"
+      },
+      {
+        "char": "式",
+        "similarity": "試的右半部就是式。",
+        "difference": "試左邊多言。"
+      },
+      {
+        "char": "誠",
+        "similarity": "都有言字旁，右側有斜鉤與點。",
+        "difference": "試右邊是式，內有工；誠右邊是成，內部折鉤不同。"
+      },
+      {
+        "char": "詩",
+        "similarity": "左邊都是言，右邊都有橫豎筆畫。",
+        "difference": "試右邊是式，有斜鉤；詩右邊是寺，下面是寸。"
+      },
+      {
+        "char": "誡",
+        "similarity": "都有言字旁，右側有斜鉤與點。",
+        "difference": "試右邊是式，內有工；誡右邊是戒，內有廾。"
+      },
+      {
+        "char": "誣",
+        "similarity": "都有言字旁，右邊都可見工形。",
+        "difference": "試右邊是式，有弋的斜鉤和點；誣右邊是巫，工形兩側有人形。"
+      }
+    ],
+    "teachingTip": "先指出「試」的主要部件，再逐字圈出不同的位置；先練最接近的兩字，較少見字只作辨形延伸，不要求學生背誦。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

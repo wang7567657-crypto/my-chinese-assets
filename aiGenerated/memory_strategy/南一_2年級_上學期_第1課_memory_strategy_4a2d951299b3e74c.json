@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第1課_memory_strategy_4a2d951299b3e74c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "柔",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "柔",
+    "components": [
+      "矛",
+      "木"
+    ],
+    "association": "看到「柔」就想起柔柔的風；上面的矛和下面的木仍依標準字形記。這是識字聯想，不是字源解釋。",
+    "mnemonic": "矛在上，木在下，柔柔的風吹過來。",
+    "visualPrompt": "呈現標準楷體「柔」，矛與木分色；字旁畫微風吹動樹葉，樹葉不取代字中的木。",
+    "teachingTip": "先辨認上下結構，再比較柔與矛，指出柔下面還有木；用「柔柔的風」幫助理解。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

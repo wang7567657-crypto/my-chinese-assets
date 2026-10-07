@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第1課_memory_strategy_ce770bb423b48172",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "雲",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "雲",
+    "components": [
+      "雨字頭",
+      "云"
+    ],
+    "association": "雨字頭下面有「云」，聯想到天空的雲。這是識字聯想，不是字源解釋。",
+    "mnemonic": "雨字頭，云在下，白雲飄在天空上。",
+    "visualPrompt": "呈現標準楷體「雲」，上下部件分色；在字旁畫天空與白雲，圖案不放入字內。",
+    "teachingTip": "先圈出雨字頭，再找下面的云；提醒完整的「雲」不能漏掉上半部。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

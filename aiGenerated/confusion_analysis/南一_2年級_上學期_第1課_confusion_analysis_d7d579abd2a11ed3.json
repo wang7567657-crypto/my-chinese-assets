@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_d7d579abd2a11ed3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "吸",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "吸",
+    "groups": {
+      "shape": [
+        {
+          "char": "呼",
+          "why": "左邊都是口。",
+          "difference": "吸右邊是及；呼右邊是乎。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "西",
+          "why": "同音，都是ㄒㄧ。",
+          "difference": "吸氣用吸；西方用西。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "呼",
+          "why": "吸氣、呼氣是相對的動作。",
+          "difference": "吸氣是氣進來；呼氣是氣出去。"
+        }
+      ],
+      "component": [
+        {
+          "char": "及",
+          "why": "吸的右邊是及。",
+          "difference": "及左邊加口成為吸。"
+        }
+      ]
+    },
+    "tip": "配合箭頭指向嘴裡表示吸氣，再對照向外的呼氣。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

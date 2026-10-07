@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第1課_memory_strategy_4dd2bb1e56cca0b0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "試",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "試",
+    "components": [
+      "言",
+      "式"
+    ],
+    "association": "左邊言、右邊式，搭配「再試一次」的說話情境記憶。這是識字聯想，不是字源解釋。",
+    "mnemonic": "言在左，式在右，再試一次不放手。",
+    "visualPrompt": "呈現標準楷體「試」，言與式分色；字旁畫孩子再次嘗試投球，圖案不增減式的筆畫。",
+    "teachingTip": "把「試一試」讀出來，再指認言旁；提醒右邊是式，不要寫成有額外一撇的戈形。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

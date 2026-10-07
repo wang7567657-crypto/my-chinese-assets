@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_e1a66590bec9c2c8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "哇",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "哇",
+    "groups": {
+      "shape": [
+        {
+          "char": "娃",
+          "why": "右邊都是圭。",
+          "difference": "哇左邊是口；娃左邊是女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "挖",
+          "why": "同音，表示驚嘆的哇與挖土的挖都讀ㄨㄚ。",
+          "difference": "驚嘆說哇；挖土寫挖。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "呀",
+          "why": "都可能是表達情緒的語氣或感嘆用字。",
+          "difference": "本課驚嘆寫哇；呀有自己的讀音和語境，不能因為都是語氣字就任意替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "圭",
+          "why": "哇的右邊是圭，形似兩個土上下排列。",
+          "difference": "圭左邊加口是哇，不要把左邊寫成女。"
+        }
+      ]
+    },
+    "tip": "讀出驚嘆「哇！」，圈出口字旁，再和娃娃的娃比較。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_e0da9cf195578705",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "前",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "前",
+    "groups": {
+      "shape": [
+        {
+          "char": "剪",
+          "why": "剪的上方包含前。",
+          "difference": "剪比前多了下方的刀。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "錢",
+          "why": "同音，都是ㄑㄧㄢˊ。",
+          "difference": "前面用前；金錢用錢。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "後",
+          "why": "都是方向或先後順序詞。",
+          "difference": "前面與後面相對，位置不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "剪",
+          "why": "可在剪中找出完整的前。",
+          "difference": "前單獨成字；剪是在前下方再加刀。"
+        }
+      ]
+    },
+    "tip": "配合指向前方的動作，對照前面與後面。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

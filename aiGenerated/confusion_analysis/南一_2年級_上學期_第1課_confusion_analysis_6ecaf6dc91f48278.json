@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_6ecaf6dc91f48278",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "噴",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "噴",
+    "groups": {
+      "shape": [
+        {
+          "char": "憤",
+          "why": "右邊都是賁。",
+          "difference": "噴左邊是口；憤左邊是豎心旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "奔",
+          "why": "近音：噴水的噴ㄆㄣ，奔跑的奔ㄅㄣ，聲母不同。",
+          "difference": "噴水用噴；奔跑用奔。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "吐",
+          "why": "都可形容東西從口等開口出來。",
+          "difference": "噴強調向外射出或散出；吐不一定有噴射的力量。"
+        }
+      ],
+      "component": [
+        {
+          "char": "賁",
+          "why": "噴的右邊是賁。",
+          "difference": "賁左邊加口才是噴；本課讀噴水的ㄆㄣ。"
+        }
+      ]
+    },
+    "tip": "先讀噴水，再辨認左邊口和右邊賁。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

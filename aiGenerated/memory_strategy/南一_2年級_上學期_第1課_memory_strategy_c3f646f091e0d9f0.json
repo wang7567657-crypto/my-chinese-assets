@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第1課_memory_strategy_c3f646f091e0d9f0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "第",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "第",
+    "components": [
+      "⺮（竹字頭）",
+      "第的下部"
+    ],
+    "association": "竹字頭下面保留完整下部，搭配第一、第二的排列順序記住「第」。這是識字聯想，不是字源解釋。",
+    "mnemonic": "第字上面竹字頭，第一第二有順序。",
+    "visualPrompt": "呈現標準楷體「第」，竹字頭與下部分色；字旁畫三張按順序排好的卡片，不把數字放入字內。",
+    "teachingTip": "先讀「第一次、第二次」，再找竹字頭；提供完整下部字範，避免憑口訣自行拼造字形。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

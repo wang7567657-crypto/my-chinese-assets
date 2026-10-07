@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第1課_memory_strategy_96e191b91246e9dc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "麗",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "麗",
+    "components": [
+      "麗的上部",
+      "鹿"
+    ],
+    "association": "「麗」下方能找到鹿，聯想到一隻鹿站在美麗的景色旁。這是識字聯想，不是字源解釋。",
+    "mnemonic": "美麗的麗，下方找一找鹿。",
+    "visualPrompt": "呈現標準楷體「麗」，上部與鹿部件分色；在字旁畫小鹿與花草，不把鹿圖塞進字內。",
+    "teachingTip": "先整體辨認「美麗」，再觀察麗的上下層次；提供標準字範，不以簡體「丽」代替。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

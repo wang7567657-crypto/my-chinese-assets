@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第1課_similar_shape_dc08124f27fbd036",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "雲",
+    "lessonChars": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "雲",
+    "similarChars": [
+      {
+        "char": "雪",
+        "similarity": "上面都是雨字頭。",
+        "difference": "雲下面是云；雪下面是彐。"
+      },
+      {
+        "char": "雷",
+        "similarity": "上面都是雨字頭，下面都有橫畫。",
+        "difference": "雲下面是云；雷下面是田。"
+      },
+      {
+        "char": "電",
+        "similarity": "上面都是雨字頭。",
+        "difference": "雲下面是云；電下面有日形與向外彎出的豎彎鉤。"
+      },
+      {
+        "char": "霜",
+        "similarity": "上面都是雨字頭。",
+        "difference": "雲下面是云；霜下面是相，由木和目組成。"
+      },
+      {
+        "char": "雯",
+        "similarity": "上面都是雨字頭。",
+        "difference": "雲下面是云；雯下面是文，有交叉的撇捺。"
+      },
+      {
+        "char": "曇",
+        "similarity": "曇的下半部是完整的雲。",
+        "difference": "曇在雲上面多一個日。"
+      }
+    ],
+    "teachingTip": "先指出「雲」的主要部件，再逐字圈出不同的位置；先練最接近的兩字，較少見字只作辨形延伸，不要求學生背誦。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

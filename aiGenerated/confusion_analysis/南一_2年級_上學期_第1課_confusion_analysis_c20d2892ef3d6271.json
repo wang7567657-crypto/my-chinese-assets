@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_c20d2892ef3d6271",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "試",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "試",
+    "groups": {
+      "shape": [
+        {
+          "char": "拭",
+          "why": "右邊都是式。",
+          "difference": "試左邊是言字旁；拭左邊是提手旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "事",
+          "why": "同音，都是ㄕˋ。",
+          "difference": "試一試用試；事情用事。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "考",
+          "why": "在考試一詞中常一起出現。",
+          "difference": "本課試一試是嘗試做做看；考試則有測驗、評量的意思。"
+        }
+      ],
+      "component": [
+        {
+          "char": "式",
+          "why": "試的右邊是式。",
+          "difference": "式左邊加言字旁成為試；不要把式寫成多一撇的形狀。"
+        }
+      ]
+    },
+    "tip": "先用「試一試」造句，再圈出右邊式。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

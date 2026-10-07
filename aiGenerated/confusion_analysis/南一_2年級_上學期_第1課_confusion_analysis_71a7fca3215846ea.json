@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_71a7fca3215846ea",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "柱",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "柱",
+    "groups": {
+      "shape": [
+        {
+          "char": "住",
+          "why": "右邊都是主。",
+          "difference": "柱左邊是木；住左邊是單人旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "住",
+          "why": "同音，都是ㄓㄨˋ。",
+          "difference": "水柱用柱；住家用住。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "主",
+          "why": "柱的右邊是主。",
+          "difference": "主左邊加木成為柱。"
+        }
+      ]
+    },
+    "tip": "先看左邊木，再把「水柱」和「住家」配圖比較。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

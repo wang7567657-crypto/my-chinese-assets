@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第1課_similar_shape_3e0d8037f944d321",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "力",
+    "lessonChars": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "力",
+    "similarChars": [
+      {
+        "char": "刀",
+        "similarity": "都有橫折鉤和撇。",
+        "difference": "力的撇起筆高，穿過上橫；刀的撇起筆在上橫下方。"
+      },
+      {
+        "char": "九",
+        "similarity": "都是少筆畫，含撇與帶鉤的折彎筆形。",
+        "difference": "力的橫折鉤向下折；九的橫折彎鉤向右彎出。"
+      },
+      {
+        "char": "乃",
+        "similarity": "都有撇與折鉤筆形。",
+        "difference": "力的折鉤轉折較單純；乃的折筆多一道彎折。"
+      },
+      {
+        "char": "勺",
+        "similarity": "都有撇和向下彎折的鉤。",
+        "difference": "力的撇穿過上橫，框內無點；勺的撇在左上，框內有點。"
+      },
+      {
+        "char": "方",
+        "similarity": "都有撇及折鉤筆形。",
+        "difference": "方上方有點與一橫；力沒有這兩筆。"
+      },
+      {
+        "char": "另",
+        "similarity": "另的下半部就是力。",
+        "difference": "另在力上方多口。"
+      }
+    ],
+    "teachingTip": "先指出「力」的主要部件，再逐字圈出不同的位置；先練最接近的兩字，較少見字只作辨形延伸，不要求學生背誦。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

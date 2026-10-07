@@ -1,0 +1,63 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_2年級_上學期_第1課_feature_ai_batch_c05ce12134b5115c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 19,
+    "batchCharacters": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_ebd9e92b705b6fa5.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_3671c20e5577ee8f.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_ce770bb423b48172.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_4a2d951299b3e74c.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_f9e1b4bc44ce8cb5.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_3f95178c8f5220a1.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_c43b84dcdd31b882.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_49098e2c32378b85.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_96e191b91246e9dc.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_a799d9edcb6ff6d9.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_4dd2bb1e56cca0b0.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_473f1ec6439d3edf.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_46875bb452fb180b.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_d1ebff91e3ec6c0e.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_9777fc3a02804aab.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_fe1c7c419084b8df.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_c3f646f091e0d9f0.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_9328a0d83d84376e.json",
+      "aiGenerated/memory_strategy/南一_2年級_上學期_第1課_memory_strategy_a955c33b8ff28a17.json"
+    ]
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

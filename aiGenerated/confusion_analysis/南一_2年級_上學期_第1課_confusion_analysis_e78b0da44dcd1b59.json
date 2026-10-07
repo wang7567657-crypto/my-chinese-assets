@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_e78b0da44dcd1b59",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "第",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "第",
+    "groups": {
+      "shape": [
+        {
+          "char": "弟",
+          "why": "下半部相近。",
+          "difference": "第上方是竹字頭；弟上方是兩點形筆畫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "弟",
+          "why": "同音，都是ㄉㄧˋ。",
+          "difference": "第一次用第；弟弟用弟。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "次",
+          "why": "在第一次中一起出現。",
+          "difference": "第標示順序；次表示回數，兩字位置與用途不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "弟",
+          "why": "比較相近的下半部和不同的上方。",
+          "difference": "第是竹字頭；弟不是竹字頭。"
+        }
+      ]
+    },
+    "tip": "把第一、第二排成順序，將每個第的竹字頭圈起來。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}
