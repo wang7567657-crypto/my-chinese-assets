@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_a8bdf6c6090a397d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "時",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "時",
+    "groups": {
+      "shape": [
+        {
+          "char": "持",
+          "why": "右邊同為寺",
+          "difference": "時左邊是日；持左邊是扌。"
+        },
+        {
+          "char": "詩",
+          "why": "右邊同為寺",
+          "difference": "時左邊是日；詩左邊是言字旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "十",
+          "why": "同音：時間的時與十個的十都讀ㄕˊ。",
+          "difference": "時與時間有關；十表示數量。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "間",
+          "why": "時間常連用。",
+          "difference": "時可組成時候；間還可表示空間，二字不是同一個字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "持",
+          "why": "右側都是寺。",
+          "difference": "時左側是日；持左側是扌。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「時」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

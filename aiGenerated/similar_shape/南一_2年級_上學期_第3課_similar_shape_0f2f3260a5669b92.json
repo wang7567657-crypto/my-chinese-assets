@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第3課_similar_shape_0f2f3260a5669b92",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "努",
+    "lessonChars": [
+      "勇",
+      "教",
+      "室",
+      "棵",
+      "葉",
+      "克",
+      "服",
+      "害",
+      "怕",
+      "努",
+      "完",
+      "事",
+      "倒",
+      "時",
+      "黑",
+      "低",
+      "聲",
+      "故",
+      "跌",
+      "騎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "努",
+    "similarChars": [
+      {
+        "char": "怒",
+        "similarity": "上面同為奴",
+        "difference": "努下面是力；怒下面是心。"
+      },
+      {
+        "char": "奴",
+        "similarity": "努完整保留奴",
+        "difference": "努在奴下加力；奴沒有下方的力。"
+      },
+      {
+        "char": "弩",
+        "similarity": "上面同為奴；弩較少見",
+        "difference": "努下面是力；弩下面是弓。"
+      },
+      {
+        "char": "帑",
+        "similarity": "上面同為奴；帑是少見字",
+        "difference": "努下面是力；帑下面是巾。"
+      },
+      {
+        "char": "如",
+        "similarity": "左邊都有女",
+        "difference": "努上方是女、又，下方另有力；如是女、口，沒有下方力。"
+      },
+      {
+        "char": "劣",
+        "similarity": "下方同為力",
+        "difference": "努上方是奴；劣上方是少。"
+      }
+    ],
+    "teachingTip": "先指認「努」的部件，再與前兩個形近字並排，圈出增加、減少或換位置的部件。少見字和異體字只供辨形，不要求學生背寫。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

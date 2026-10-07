@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第3課_similar_shape_0ec7d298d57f9a3a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "勇",
+    "lessonChars": [
+      "勇",
+      "教",
+      "室",
+      "棵",
+      "葉",
+      "克",
+      "服",
+      "害",
+      "怕",
+      "努",
+      "完",
+      "事",
+      "倒",
+      "時",
+      "黑",
+      "低",
+      "聲",
+      "故",
+      "跌",
+      "騎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "勇",
+    "similarChars": [
+      {
+        "char": "甬",
+        "similarity": "共有「甬」",
+        "difference": "勇在甬下加「力」；甬沒有力。"
+      },
+      {
+        "char": "湧",
+        "similarity": "共有「勇」",
+        "difference": "湧在勇左加三點水；勇沒有三點水。"
+      },
+      {
+        "char": "踴",
+        "similarity": "共有「勇」",
+        "difference": "踴在勇左加足字旁；勇沒有足字旁。"
+      },
+      {
+        "char": "蛹",
+        "similarity": "共有「甬」",
+        "difference": "勇是甬下加力；蛹是甬左加虫。"
+      },
+      {
+        "char": "俑",
+        "similarity": "共有「甬」",
+        "difference": "勇的力在下；俑的單人旁在左。"
+      },
+      {
+        "char": "通",
+        "similarity": "共有「甬」",
+        "difference": "勇在下方加力；通用走之旁包住甬的左下。"
+      }
+    ],
+    "teachingTip": "先指認「勇」的部件，再與前兩個形近字並排，圈出增加、減少或換位置的部件。少見字和異體字只供辨形，不要求學生背寫。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

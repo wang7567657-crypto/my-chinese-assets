@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第3課_similar_shape_7de3017a70c9be50",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "棵",
+    "lessonChars": [
+      "勇",
+      "教",
+      "室",
+      "棵",
+      "葉",
+      "克",
+      "服",
+      "害",
+      "怕",
+      "努",
+      "完",
+      "事",
+      "倒",
+      "時",
+      "黑",
+      "低",
+      "聲",
+      "故",
+      "跌",
+      "騎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "棵",
+    "similarChars": [
+      {
+        "char": "課",
+        "similarity": "右邊同為果",
+        "difference": "棵左邊是木；課左邊是言字旁。"
+      },
+      {
+        "char": "顆",
+        "similarity": "共有果",
+        "difference": "棵是木在果左；顆是頁在果右。"
+      },
+      {
+        "char": "裸",
+        "similarity": "右邊同為果",
+        "difference": "棵左邊是木；裸左邊是衣字旁。"
+      },
+      {
+        "char": "稞",
+        "similarity": "右邊同為果；稞較少見",
+        "difference": "棵左邊是木；稞左邊是禾，多一撇。"
+      },
+      {
+        "char": "果",
+        "similarity": "棵包含果",
+        "difference": "棵在果左加木；果沒有左側的木字旁。"
+      },
+      {
+        "char": "窠",
+        "similarity": "共有果；窠較少見",
+        "difference": "棵的木在左；窠的穴在上。"
+      }
+    ],
+    "teachingTip": "先指認「棵」的部件，再與前兩個形近字並排，圈出增加、減少或換位置的部件。少見字和異體字只供辨形，不要求學生背寫。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

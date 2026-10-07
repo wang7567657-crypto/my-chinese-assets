@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_bd851d9804dd92bf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "黑",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "黑",
+    "groups": {
+      "shape": [
+        {
+          "char": "墨",
+          "why": "完整保留黑",
+          "difference": "墨在黑下再加土；黑的最下方就是四點。"
+        },
+        {
+          "char": "默",
+          "why": "左邊完整保留黑",
+          "difference": "默在黑右加犬；黑沒有犬。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "嘿",
+          "why": "同音：黑色的黑與招呼語「嘿！」的嘿都可讀ㄏㄟ。",
+          "difference": "黑表示顏色；嘿是招呼聲，此處限定招呼語的讀音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "白",
+          "why": "是一組相對的顏色詞。",
+          "difference": "黑與白顏色相反；配黑白色卡辨別。"
+        }
+      ],
+      "component": [
+        {
+          "char": "墨",
+          "why": "墨下方另加土，上方完整保留黑。",
+          "difference": "不要漏寫墨最下面的土，也不要在黑下面多加土。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「黑」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

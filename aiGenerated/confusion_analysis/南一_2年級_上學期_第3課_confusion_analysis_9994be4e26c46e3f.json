@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_9994be4e26c46e3f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "棵",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "棵",
+    "groups": {
+      "shape": [
+        {
+          "char": "課",
+          "why": "右邊同為果",
+          "difference": "棵左邊是木；課左邊是言字旁。"
+        },
+        {
+          "char": "顆",
+          "why": "共有果",
+          "difference": "棵是木在果左；顆是頁在果右。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "顆",
+          "why": "同音：一棵樹與一顆球的量詞都讀ㄎㄜ。",
+          "difference": "樹木用棵；球、糖果等顆粒狀物常用顆。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "株",
+          "why": "都可作植物的量詞。",
+          "difference": "棵常用於樹木；株也可用於草木，不能因此把字形互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "課",
+          "why": "兩字右側都是果。",
+          "difference": "棵的木提示樹木；課的言字旁與說話、課業的字形作對照。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「棵」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

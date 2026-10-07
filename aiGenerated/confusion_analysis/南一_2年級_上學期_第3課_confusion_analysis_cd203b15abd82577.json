@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_cd203b15abd82577",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "聲",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "聲",
+    "groups": {
+      "shape": [
+        {
+          "char": "馨",
+          "why": "上面共有殸形",
+          "difference": "聲下面是耳；馨下面是香。"
+        },
+        {
+          "char": "磬",
+          "why": "上面共有殸形；磬較少見",
+          "difference": "聲下面是耳；磬下面是石。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "生",
+          "why": "同音：聲音的聲與學生的生都讀ㄕㄥ。",
+          "difference": "聲指聲音；生可出現在學生、出生等詞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "音",
+          "why": "聲音常連用，都與聽覺有關。",
+          "difference": "聲可作一聲的量詞；音可見於音樂，搭配不能任意交換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "馨",
+          "why": "上半部相同，需看最下面的部件。",
+          "difference": "聲下方是耳；馨下方是香。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「聲」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

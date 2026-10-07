@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_8f1081ad42508d08",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "努",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "努",
+    "groups": {
+      "shape": [
+        {
+          "char": "怒",
+          "why": "上面同為奴",
+          "difference": "努下面是力；怒下面是心。"
+        },
+        {
+          "char": "奴",
+          "why": "努完整保留奴",
+          "difference": "努在奴下加力；奴沒有下方的力。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "怒",
+          "why": "近音：努力的努讀ㄋㄨˇ；憤怒的怒讀ㄋㄨˋ，聲調不同。",
+          "difference": "努是第三聲；怒是第四聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "勤",
+          "why": "努力與勤奮都與認真付出有關。",
+          "difference": "努常組成努力；勤常組成勤奮、勤勞，搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "怒",
+          "why": "上方都是奴。",
+          "difference": "努下方是力；怒下方是心。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「努」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_de9bff4985a30b15",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "勇",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "勇",
+    "groups": {
+      "shape": [
+        {
+          "char": "甬",
+          "why": "共有「甬」",
+          "difference": "勇在甬下加「力」；甬沒有力。"
+        },
+        {
+          "char": "湧",
+          "why": "共有「勇」",
+          "difference": "湧在勇左加三點水；勇沒有三點水。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "永",
+          "why": "同音：勇敢的勇與永遠的永都讀ㄩㄥˇ。",
+          "difference": "勇敢是面對困難；永遠指時間長久。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "敢",
+          "why": "勇敢常連用，都與面對困難有關。",
+          "difference": "勇強調勇氣；敢強調有膽量去做。"
+        }
+      ],
+      "component": [
+        {
+          "char": "湧",
+          "why": "勇是上下結構，甬在上、力在下；湧把整個勇放在右邊。",
+          "difference": "辨認力的鉤，再比較湧多出的三點水。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「勇」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

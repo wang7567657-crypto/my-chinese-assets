@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_ba8e1ff91aae4b69",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "葉",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "葉",
+    "groups": {
+      "shape": [
+        {
+          "char": "蝶",
+          "why": "都有「枼」的形狀",
+          "difference": "葉在枼上加艹；蝶在枼左加虫。"
+        },
+        {
+          "char": "碟",
+          "why": "都有「枼」的形狀",
+          "difference": "葉上面是艹；碟左邊是石。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "夜",
+          "why": "同音：葉子與夜晚的葉、夜都讀ㄧㄝˋ。",
+          "difference": "葉是植物的一部分；夜是夜晚。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "花",
+          "why": "都是植物的一部分。",
+          "difference": "葉常是扁平的綠色部分；花是開花部位，二字不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "蝶",
+          "why": "兩字都有枼形。",
+          "difference": "葉的艹在上；蝶的虫在左。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「葉」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

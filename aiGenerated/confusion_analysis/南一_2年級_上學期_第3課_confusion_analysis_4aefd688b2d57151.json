@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_4aefd688b2d57151",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "完",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "完",
+    "groups": {
+      "shape": [
+        {
+          "char": "玩",
+          "why": "共有元",
+          "difference": "完是宀在元上；玩是王字旁在元左。"
+        },
+        {
+          "char": "院",
+          "why": "右邊完整保留完",
+          "difference": "院在完左加阝；完沒有左耳旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "玩",
+          "why": "同音：完成的完與玩耍的玩都讀ㄨㄢˊ。",
+          "difference": "完表示完成；玩表示遊戲、玩耍。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "成",
+          "why": "完成常連用。",
+          "difference": "完也可表示做完；成可表示成功或成為，不能所有詞都互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "院",
+          "why": "院右側完整包含完。",
+          "difference": "院比完多左側阝。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「完」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

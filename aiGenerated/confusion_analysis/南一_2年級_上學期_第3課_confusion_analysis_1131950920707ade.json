@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_1131950920707ade",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "教",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "教",
+    "groups": {
+      "shape": [
+        {
+          "char": "孝",
+          "why": "教的左部就是孝",
+          "difference": "教在孝右加反文旁；孝沒有反文旁。"
+        },
+        {
+          "char": "酵",
+          "why": "共有「孝」",
+          "difference": "教是孝加右側攵；酵是左側酉加孝。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "叫",
+          "why": "教室的教與叫喊的叫同音，都是ㄐㄧㄠˋ；教人騎車的教讀ㄐㄧㄠ。",
+          "difference": "本課教室用ㄐㄧㄠˋ；不可將兩個教的讀音一律套用。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "學",
+          "why": "教室中會有教與學。",
+          "difference": "教是引導別人；學是自己練習、獲得知識。"
+        }
+      ],
+      "component": [
+        {
+          "char": "效",
+          "why": "兩字右側都是反文旁攵。",
+          "difference": "教左為孝；效左為交。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「教」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

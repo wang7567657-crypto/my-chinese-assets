@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第3課_similar_shape_8db855dfaf59a02d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "黑",
+    "lessonChars": [
+      "勇",
+      "教",
+      "室",
+      "棵",
+      "葉",
+      "克",
+      "服",
+      "害",
+      "怕",
+      "努",
+      "完",
+      "事",
+      "倒",
+      "時",
+      "黑",
+      "低",
+      "聲",
+      "故",
+      "跌",
+      "騎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "黑",
+    "similarChars": [
+      {
+        "char": "墨",
+        "similarity": "完整保留黑",
+        "difference": "墨在黑下再加土；黑的最下方就是四點。"
+      },
+      {
+        "char": "默",
+        "similarity": "左邊完整保留黑",
+        "difference": "默在黑右加犬；黑沒有犬。"
+      },
+      {
+        "char": "點",
+        "similarity": "左邊完整保留黑",
+        "difference": "點在黑右加占；黑沒有占。"
+      },
+      {
+        "char": "黛",
+        "similarity": "下方完整保留黑",
+        "difference": "黛在黑上加代；黑沒有代。"
+      },
+      {
+        "char": "黝",
+        "similarity": "左邊完整保留黑；黝較少見",
+        "difference": "黝在黑右加幼；黑沒有幼。"
+      },
+      {
+        "char": "里",
+        "similarity": "上部輪廓近似",
+        "difference": "黑的上方內部筆形與里不同，且下方有四點；里沒有四點。"
+      }
+    ],
+    "teachingTip": "先指認「黑」的部件，再與前兩個形近字並排，圈出增加、減少或換位置的部件。少見字和異體字只供辨形，不要求學生背寫。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

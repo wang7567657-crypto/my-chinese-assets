@@ -1,0 +1,69 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_2年級_上學期_第3課_component_split_20035e624034cb15",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "葉",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "instruction": "無法確定細拆時，僅分成「部首＋其餘部分」，先核對部首與實際筆畫，不猜部件名稱。各組保留原字位置及原筆順。不連續筆畫以 strokeGroups（1 起算）合組，每筆恰好出現一次；split 為各組筆畫數，不代表連續區間。同步提供 radical、radicalVerified、radicalStrokeIndices。來源有重複或異常筆畫時先校正來源，未確認不得標 verified=true。獨體字若無法合理分成兩部分，明確標示，不硬拆或漏字。"
+  },
+  "data": {
+    "structure": "上下",
+    "split": [
+      4,
+      5,
+      4
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4
+      ],
+      [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      [
+        10,
+        11,
+        12,
+        13
+      ]
+    ],
+    "components": [
+      "艹",
+      "世",
+      "木"
+    ],
+    "strokeCount": 13,
+    "radical": "艸",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "split 表示各組筆數，實際取筆依 strokeGroups；每筆恰好出現一次，保留原位置與原筆序。部件分析用於識字教學，不等同字源。 艹依本筆畫來源採4筆，整字13筆。",
+    "verification": {
+      "method": "本次重新下載原始 XML，核對 Stroke 數、正規化輪廓無重複、所有座標有限且介於合理範圍、Track 至少兩個有效點；實際渲染完整字形，部首紅色、其餘藍色，逐字視覺核對部首筆畫位置。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/8449.xml"
+    }
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

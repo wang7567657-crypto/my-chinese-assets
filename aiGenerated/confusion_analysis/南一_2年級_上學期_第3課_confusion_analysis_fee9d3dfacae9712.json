@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_fee9d3dfacae9712",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "故",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "故",
+    "groups": {
+      "shape": [
+        {
+          "char": "做",
+          "why": "完整保留故",
+          "difference": "做在故左加亻；故沒有單人旁。"
+        },
+        {
+          "char": "姑",
+          "why": "共有古",
+          "difference": "故在古右加攵；姑在古左加女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "固",
+          "why": "同音：故事的故與固定的固都讀ㄍㄨˋ。",
+          "difference": "故事的故與固定的固，詞義及字形不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "因",
+          "why": "故在緣故中與原因有關，但本課用故事。",
+          "difference": "故事指敘說的內容；不能用原因的意思替換故事中的故。"
+        }
+      ],
+      "component": [
+        {
+          "char": "做",
+          "why": "做的右側是整個故。",
+          "difference": "做最左另有亻；故沒有。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「故」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

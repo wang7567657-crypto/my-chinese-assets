@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第3課_confusion_analysis_a1557b0d0dc0a63f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "室",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "室",
+    "groups": {
+      "shape": [
+        {
+          "char": "窒",
+          "why": "下方同為至",
+          "difference": "室上面是宀；窒上面是穴，多了八形的兩筆。"
+        },
+        {
+          "char": "屋",
+          "why": "都有至",
+          "difference": "室在至上加宀；屋在至的左上加尸。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "市",
+          "why": "同音：教室的室與市場的市都讀ㄕˋ。",
+          "difference": "室常指房間；市可指市場或城市。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "屋",
+          "why": "都能與房子裡的空間有關。",
+          "difference": "室常指一個房間；屋可指整間房屋。"
+        }
+      ],
+      "component": [
+        {
+          "char": "窒",
+          "why": "兩字下方都是至。",
+          "difference": "室上為宀；窒上為穴。"
+        }
+      ]
+    },
+    "tip": "先在課文詞語中讀「室」，再用不同顏色圈出比較字的不同部件；同音也不能直接換字。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}

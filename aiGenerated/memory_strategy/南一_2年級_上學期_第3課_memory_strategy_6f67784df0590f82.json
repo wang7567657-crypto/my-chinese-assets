@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第3課_memory_strategy_6f67784df0590f82",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "騎",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "騎",
+    "components": [
+      "馬",
+      "奇"
+    ],
+    "association": "看「騎」的字形，聯想戴安全帽騎車的孩子。這是教學聯想，不是字源解釋。",
+    "mnemonic": "馬字旁邊奇，騎車時記得安全。",
+    "visualPrompt": "呈現標準繁體字「騎」，字形、筆畫及部件位置全部保持正確。以柔和色塊標示觀察區域；在字旁另畫戴安全帽騎車的孩子，圖片不取代、不遮住、不扭曲任何筆畫。",
+    "teachingTip": "先找左馬，再認右奇。"
+  },
+  "createdAt": "2026-10-07T05:44:17.652923Z"
+}
