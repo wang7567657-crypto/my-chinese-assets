@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第2課_memory_strategy_07e86360d89bde2f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "城",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "城",
+    "components": [
+      "土（左）",
+      "成（右）"
+    ],
+    "association": "記憶聯想：土旁提醒地面和城牆，成站右邊，大家把吐司疊成一座城。故事幫助記形，不取代字義說明。",
+    "mnemonic": "左土右成是城堡，吐司一片片疊好。",
+    "visualPrompt": "標準「城」字左土棕色、右成藍色；旁邊畫方吐司堆成的小城堡。土旁與成之間留白，成的斜鉤保持清楚。",
+    "teachingTip": "用「做成城堡」同句比較：成不帶土，城左有土。土旁最後一筆斜挑，依字帖描寫。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第2課_memory_strategy_02a962ab07342a8a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "吐",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "吐",
+    "components": [
+      "口（左）",
+      "土（右）"
+    ],
+    "association": "記憶聯想：口站左邊，土站右邊，把兩塊拼在一起，再配上吐司圖片記詞。不要把吐司拆解成口裡吐土。",
+    "mnemonic": "左口右土記住吐，吐司的吐念ㄊㄨˇ。",
+    "visualPrompt": "標準「吐」字左口藍色、右土橘色，旁邊是一疊乾淨的吐司片，附完整詞「吐司」。不畫吃土、吐土或嘔吐的情境。",
+    "teachingTip": "依本課寫吐司；教育部吐司讀ㄊㄨˇ ㄙ。土司也見於辭典譯名，不一概判錯，但課本目標字是吐。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

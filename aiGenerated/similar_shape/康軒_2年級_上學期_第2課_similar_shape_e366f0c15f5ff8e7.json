@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第2課_similar_shape_e366f0c15f5ff8e7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "臉",
+    "lessonChars": [
+      "全",
+      "蛋",
+      "煎",
+      "圓",
+      "番",
+      "茄",
+      "切",
+      "輪",
+      "司",
+      "夾",
+      "吐",
+      "中",
+      "方",
+      "城",
+      "堡",
+      "接",
+      "畫",
+      "臉",
+      "餐",
+      "醬"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "臉",
+    "similarChars": [
+      {
+        "char": "檢",
+        "similarity": "右半同為「僉」。",
+        "difference": "「臉」左半是肉部變形；「檢」左半是「木」。"
+      },
+      {
+        "char": "撿",
+        "similarity": "右半同為「僉」。",
+        "difference": "「臉」左半是肉部變形；「撿」左半是提手旁「扌」。"
+      },
+      {
+        "char": "儉",
+        "similarity": "右半同為「僉」。",
+        "difference": "「臉」左半是肉部變形；「儉」左半是單人旁「亻」。"
+      },
+      {
+        "char": "險",
+        "similarity": "右半同為「僉」。",
+        "difference": "「臉」左半是肉部變形；「險」左半是雙耳旁「阝」。"
+      },
+      {
+        "char": "驗",
+        "similarity": "右半同為「僉」。",
+        "difference": "「臉」左半是肉部變形；「驗」左半是「馬」。"
+      },
+      {
+        "char": "簽",
+        "similarity": "都包含「僉」。",
+        "difference": "「臉」是左肉部變形、右「僉」；「簽」是上竹字頭、下「僉」。"
+      }
+    ],
+    "teachingTip": "右「僉」不動，換左邊辨字。臉是身體的一部分，左邊用肉部變形；臺灣標準字形內部為點、挑，不是月的兩橫。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

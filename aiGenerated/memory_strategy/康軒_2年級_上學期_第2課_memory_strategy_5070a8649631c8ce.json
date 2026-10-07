@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第2課_memory_strategy_5070a8649631c8ce",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "輪",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "輪",
+    "components": [
+      "車（左）",
+      "侖（右）"
+    ],
+    "association": "記憶聯想：車子需要圓輪子，把車放在左邊；右邊侖整塊記住，不拆成數字或多個口。",
+    "mnemonic": "左車右侖是車輪，番茄圓片像輪子。",
+    "visualPrompt": "標準「輪」字左車深藍色、右侖橘色；旁邊畫玩具車和兩片當輪子的番茄。侖上方人形、一橫及下方冊形完整清楚。",
+    "teachingTip": "先選車字旁，再對照倫、論找右邊共同的侖。侖下部不是多個口，依標準字形描寫。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

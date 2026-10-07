@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第2課_similar_shape_d690f64b7344cffe",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "城",
+    "lessonChars": [
+      "全",
+      "蛋",
+      "煎",
+      "圓",
+      "番",
+      "茄",
+      "切",
+      "輪",
+      "司",
+      "夾",
+      "吐",
+      "中",
+      "方",
+      "城",
+      "堡",
+      "接",
+      "畫",
+      "臉",
+      "餐",
+      "醬"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "城",
+    "similarChars": [
+      {
+        "char": "成",
+        "similarity": "「成」與「城」右半相同。",
+        "difference": "「城」左半多了「土」；「成」沒有。"
+      },
+      {
+        "char": "誠",
+        "similarity": "右半同為「成」。",
+        "difference": "「城」左半是「土」；「誠」左半是「言」。"
+      },
+      {
+        "char": "盛",
+        "similarity": "都包含「成」部件。",
+        "difference": "「城」是左「土」右「成」；「盛」是上「成」下「皿」。"
+      },
+      {
+        "char": "域",
+        "similarity": "左半同為「土」，右半都有斜鉤。",
+        "difference": "「城」右半是「成」；「域」右半是「或」，其中有小「口」。"
+      },
+      {
+        "char": "坑",
+        "similarity": "左半同為「土」，屬局部形似。",
+        "difference": "「城」右半是「成」；「坑」右半是「亢」，下端有几形。"
+      },
+      {
+        "char": "址",
+        "similarity": "左半同為「土」，屬局部形似。",
+        "difference": "「城」右半是「成」；「址」右半是「止」，沒有斜鉤。"
+      }
+    ],
+    "teachingTip": "把「城、成、誠」並排，先指有沒有左偏旁，再說土旁、言旁。用「吐司城堡」圖片幫助選「城」。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

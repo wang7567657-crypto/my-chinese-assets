@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第2課_similar_shape_4df3f7efcb2b74fa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "煎",
+    "lessonChars": [
+      "全",
+      "蛋",
+      "煎",
+      "圓",
+      "番",
+      "茄",
+      "切",
+      "輪",
+      "司",
+      "夾",
+      "吐",
+      "中",
+      "方",
+      "城",
+      "堡",
+      "接",
+      "畫",
+      "臉",
+      "餐",
+      "醬"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "煎",
+    "similarChars": [
+      {
+        "char": "前",
+        "similarity": "「前」與「煎」上部相同。",
+        "difference": "「煎」在「前」下面多了四點「灬」。"
+      },
+      {
+        "char": "剪",
+        "similarity": "上方都是「前」。",
+        "difference": "「煎」下方是四點「灬」；「剪」下方是「刀」。"
+      },
+      {
+        "char": "箭",
+        "similarity": "都包含完整的「前」。",
+        "difference": "「煎」的「前」在上、四點在下；「箭」的「竹」在上、「前」在下。"
+      },
+      {
+        "char": "煮",
+        "similarity": "下方同為四點「灬」。",
+        "difference": "「煎」上方是「前」；「煮」上方是「者」。"
+      },
+      {
+        "char": "然",
+        "similarity": "下方同為四點「灬」。",
+        "difference": "「煎」上方是「前」；「然」上方的左右部件不同，右側可辨認「犬」。"
+      },
+      {
+        "char": "照",
+        "similarity": "下方同為四點「灬」。",
+        "difference": "「煎」上方是「前」；「照」上方左「日」、右「召」。"
+      }
+    ],
+    "teachingTip": "優先比較「煎、剪」：煎蛋要加熱，下面四點；剪紙用工具，下面是刀。這是記憶聯想，不當作字源解釋。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

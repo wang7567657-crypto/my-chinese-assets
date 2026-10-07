@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第2課_confusion_analysis_6ae27de77a5bfd6c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "醬",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "醬",
+    "groups": {
+      "shape": [
+        {
+          "char": "獎",
+          "why": "上部同為「將」。",
+          "difference": "「醬」下面是「酉」；「獎」下面是「大」。"
+        },
+        {
+          "char": "漿",
+          "why": "上部同為「將」。",
+          "difference": "「醬」下面是「酉」；「漿」下面是「水」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "匠",
+          "why": "醬、匠都讀ㄐㄧㄤˋ。",
+          "difference": "番茄醬是調味食品；工匠的匠指有手藝的人，字形為匚內斤。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "汁",
+          "why": "醬和汁都可能由番茄製成，容易因食材相同而混用。",
+          "difference": "番茄醬通常較濃稠、用來調味；番茄汁較稀，可作飲品。依課文用來畫笑臉的番茄醬選醬。"
+        }
+      ],
+      "component": [
+        {
+          "char": "將",
+          "why": "醬上部為將。",
+          "difference": "只寫將會漏掉下方酉；「將」本身不是番茄醬的醬。"
+        }
+      ]
+    },
+    "tip": "先看底部：酉是醬，大是獎，水是漿。記住「番茄醬」讀ㄐㄧㄤˋ。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

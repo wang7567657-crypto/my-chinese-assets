@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第2課_memory_strategy_bc5f1520b18b3465",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "餐",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "餐",
+    "components": [
+      "上部整體（左側特殊部件、右又）",
+      "食（下）"
+    ],
+    "association": "記憶聯想：把上部看作準備用餐的一組動作，下面的大食字提醒早餐有食物。上部依標準字形整塊記，不牽強拆成夕。",
+    "mnemonic": "上面分塊慢慢看，下面一食是早餐。",
+    "visualPrompt": "中央呈現標準「餐」字，上左一色、上右又一色、下食一色；旁邊畫吐司、煎蛋、番茄的早餐盤。左上所有短筆清楚，不以夕字替換。",
+    "teachingTip": "先遮上半認食，再將上部分左右兩區描寫。上部件較生僻，只作視覺分塊，不要求二年級背它的名稱和讀音。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

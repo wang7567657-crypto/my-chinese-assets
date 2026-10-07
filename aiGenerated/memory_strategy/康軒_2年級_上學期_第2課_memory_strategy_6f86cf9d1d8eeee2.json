@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第2課_memory_strategy_6f86cf9d1d8eeee2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "醬",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "醬",
+    "components": [
+      "將（上）",
+      "酉（下）"
+    ],
+    "association": "記憶聯想：將放上面，酉在下面像盛調味料的罐子；把它與番茄醬罐連結。罐子圖是記憶輔助，不直接替代酉的筆畫。",
+    "mnemonic": "上面將，下面酉，番茄醬來畫笑臉。",
+    "visualPrompt": "標準「醬」字上將藍色、下酉橘色；旁邊畫一罐番茄醬及醬料笑臉吐司。酉內短橫清楚，兩端不碰外框；將依臺灣標準字形呈現。",
+    "teachingTip": "用醬、獎、漿的三張卡比較底部酉、大、水。再檢查酉內短橫，勿漏成西。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

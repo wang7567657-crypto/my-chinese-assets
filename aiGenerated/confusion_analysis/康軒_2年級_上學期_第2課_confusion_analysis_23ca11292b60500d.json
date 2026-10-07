@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第2課_confusion_analysis_23ca11292b60500d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "接",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "接",
+    "groups": {
+      "shape": [
+        {
+          "char": "拉",
+          "why": "左半同為「扌」，右半都能看到「立」。",
+          "difference": "「接」右邊的「立」下面還有「女」；「拉」右邊只有「立」。"
+        },
+        {
+          "char": "按",
+          "why": "左半同為「扌」，右下都有「女」。",
+          "difference": "「接」右上是「立」；「按」右上是「宀」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "街",
+          "why": "接、街都讀ㄐㄧㄝ。",
+          "difference": "接住、接著用接；街道的街是行字框裡有圭，沒有提手旁。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "拿",
+          "why": "接與拿都可能用手取得物品。",
+          "difference": "接物強調承接傳來的物品；拿強調取或持有。本課「接著」則表示下一個步驟，不是拿東西。"
+        }
+      ],
+      "component": [
+        {
+          "char": "按",
+          "why": "接、按都用扌，右下都有女。",
+          "difference": "接右上立；按右上宀。依接著、按住的詞語分辨。"
+        }
+      ]
+    },
+    "tip": "先分右上立與宀，再把接放進實際詞語。本課「接著」表示接下來，用料理步驟練習。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

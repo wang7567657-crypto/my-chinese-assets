@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第2課_confusion_analysis_4b2ba76e3dda334f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "切",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "切",
+    "groups": {
+      "shape": [
+        {
+          "char": "叨",
+          "why": "右半都是「刀」。",
+          "difference": "「切」左半是「七」；「叨」左半是「口」。"
+        },
+        {
+          "char": "功",
+          "why": "右半的彎鉤、撇輪廓相近。",
+          "difference": "「切」是左「七」右「刀」；「功」是左「工」右「力」，「刀、力」的撇起點不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "茄",
+          "why": "切ㄑㄧㄝ和茄ㄑㄧㄝˊ只差聲調。",
+          "difference": "本課切是動作、一聲；茄在番茄裡是二聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "剪",
+          "why": "切和剪都能把東西分開。",
+          "difference": "切番茄通常用刀；剪紙通常用剪刀。兩種動作和工具不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "功",
+          "why": "刀、力相近，左右結構也接近。",
+          "difference": "切右邊是刀，左邊是七；功右邊是力，左邊是工。"
+        }
+      ]
+    },
+    "tip": "一邊比七、刀，一邊做安全的假裝切菜動作；「切番茄」讀ㄑㄧㄝ，不讀「一切」的ㄑㄧㄝˋ。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

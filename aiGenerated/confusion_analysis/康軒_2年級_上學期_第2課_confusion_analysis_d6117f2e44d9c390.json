@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第2課_confusion_analysis_d6117f2e44d9c390",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "夾",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "夾",
+    "groups": {
+      "shape": [
+        {
+          "char": "來",
+          "why": "都有一橫以及左右兩組短撇、點，輪廓相近。",
+          "difference": "「夾」中間是「大」的撇捺；「來」中間有明顯的直豎，底部結構不同。"
+        },
+        {
+          "char": "央",
+          "why": "都有大字形及中間橫畫。",
+          "difference": "「央」中間有框形的直、折筆；「夾」左右是小「人」，不是框。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "頰",
+          "why": "教育部臺灣國語中，夾與頰都讀ㄐㄧㄚˊ。",
+          "difference": "夾是把東西夾住；頰是臉頰，右邊多頁。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "包",
+          "why": "夾和包都可能把食材放在另一種食物裡。",
+          "difference": "夾是把材料放在相對的兩片或兩面之間；包是用外層包覆。課文兩片吐司把食材夾在中間。"
+        }
+      ],
+      "component": [
+        {
+          "char": "峽",
+          "why": "峽右邊含夾。",
+          "difference": "夾食物的夾沒有山旁；山峽的峽有山旁，讀音也不相同。"
+        }
+      ]
+    },
+    "tip": "找「大」左右各一小人，再用兩片紙當吐司夾住材料，讀ㄐㄧㄚˊ。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}

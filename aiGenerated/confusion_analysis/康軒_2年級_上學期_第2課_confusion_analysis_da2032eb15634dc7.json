@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第2課_confusion_analysis_da2032eb15634dc7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "茄",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "茄",
+    "groups": {
+      "shape": [
+        {
+          "char": "加",
+          "why": "「加」與「茄」下部相同。",
+          "difference": "「茄」上方多了草字頭；「加」沒有。"
+        },
+        {
+          "char": "茹",
+          "why": "同有草字頭，下方右側都有「口」。",
+          "difference": "「茄」下方是「加」，口左邊為「力」；「茹」下方是「如」，口左邊為「女」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "切",
+          "why": "茄ㄑㄧㄝˊ和本課切ㄑㄧㄝ，聲母韻母相同、聲調不同。",
+          "difference": "茄是二聲，出現在番茄；切食物的切是一聲。用「切番茄」連讀比較。"
+        },
+        {
+          "char": "加",
+          "why": "茄含加，容易按部件直接猜成加的讀音。",
+          "difference": "番茄的茄讀ㄑㄧㄝˊ；加法的加讀ㄐㄧㄚ。本課不要按加的讀音念茄。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "架",
+          "why": "茄、架都含加。",
+          "difference": "茄的草字頭在上；架的木在下，部件位置和字義都不同。"
+        }
+      ]
+    },
+    "tip": "草字頭提示植物；讀音以完整詞「番茄」記住ㄑㄧㄝˊ，不只看加猜音。"
+  },
+  "createdAt": "2026-10-07T05:30:01.087377Z"
+}
