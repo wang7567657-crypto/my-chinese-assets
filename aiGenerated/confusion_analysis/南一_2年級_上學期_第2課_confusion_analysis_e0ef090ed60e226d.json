@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第2課_confusion_analysis_e0ef090ed60e226d",
+  "input": {
+    "char": "才",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "才",
+    "groups": {
+      "shape": [
+        {
+          "char": "材",
+          "why": "都有才",
+          "difference": "材比才多左邊的木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "財",
+          "why": "才和財產的財都讀ㄘㄞˊ，是同音。",
+          "difference": "本課才表示要到某個時候方能；財與財物有關。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "就",
+          "why": "才和就都可放在動詞前，但時間感不同。",
+          "difference": "等很久才到，強調較晚；很快就到，強調較早。"
+        }
+      ],
+      "component": [
+        {
+          "char": "財",
+          "why": "都有才",
+          "difference": "財比才多左邊的貝。"
+        }
+      ]
+    },
+    "tip": "把「才」放回〈爬梯子〉讀一次，再分別比較字形、讀音和意思；同音不表示可以互換。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

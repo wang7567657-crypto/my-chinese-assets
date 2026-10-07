@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第2課_confusion_analysis_12bc70680b1a47fa",
+  "input": {
+    "char": "哪",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "哪",
+    "groups": {
+      "shape": [
+        {
+          "char": "那",
+          "why": "都有那",
+          "difference": "哪比那多左邊的口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "拿",
+          "why": "哪一天的哪讀ㄋㄚˇ；拿東西的拿讀ㄋㄚˊ，只差聲調，是近音。",
+          "difference": "哪用於詢問；拿表示用手取物。哪的其他語氣用法不套入本課。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "那",
+          "why": "哪一天和那一天只差一個字，意思不同。",
+          "difference": "哪一天是在問日期；那一天指已知的一天。"
+        }
+      ],
+      "component": [
+        {
+          "char": "娜",
+          "why": "右邊都是那",
+          "difference": "哪左邊是口；娜左邊是女。"
+        }
+      ]
+    },
+    "tip": "把「哪」放回〈爬梯子〉讀一次，再分別比較字形、讀音和意思；同音不表示可以互換。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

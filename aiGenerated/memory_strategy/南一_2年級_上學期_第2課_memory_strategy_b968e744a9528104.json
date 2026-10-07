@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第2課_memory_strategy_b968e744a9528104",
+  "input": {
+    "char": "站",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "站",
+    "components": [
+      "立",
+      "占"
+    ],
+    "association": "站直才能量準身高。（教學聯想，不是字源解釋。）",
+    "mnemonic": "立在左，占在右，站得直直量身高。",
+    "visualPrompt": "保留「站」的標準字形與完整筆畫，圖畫放在字旁：孩子雙腳站穩靠著身高線。不得把插圖替代筆畫或畫進字內。",
+    "teachingTip": "讓學生指出立，再找占上方的卜與下方的口。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

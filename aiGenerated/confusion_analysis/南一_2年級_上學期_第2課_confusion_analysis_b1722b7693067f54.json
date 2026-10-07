@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第2課_confusion_analysis_b1722b7693067f54",
+  "input": {
+    "char": "沿",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "沿",
+    "groups": {
+      "shape": [
+        {
+          "char": "鉛",
+          "why": "右側形體相同",
+          "difference": "沿左邊是氵；鉛左邊是金。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "言",
+          "why": "沿著的沿和語言的言都讀ㄧㄢˊ，是同音。",
+          "difference": "沿著表示順著某條線或邊緣；言與說話相關。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "順",
+          "why": "沿著和順著的意思相近。",
+          "difference": "沿強調跟著線、邊緣或方向；順另可表示順利，不能處處互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "船",
+          "why": "右側形體相同",
+          "difference": "沿左邊是氵；船左邊是舟。"
+        }
+      ]
+    },
+    "tip": "把「沿」放回〈爬梯子〉讀一次，再分別比較字形、讀音和意思；同音不表示可以互換。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

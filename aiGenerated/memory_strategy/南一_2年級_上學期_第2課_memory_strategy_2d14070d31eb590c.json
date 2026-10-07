@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第2課_memory_strategy_2d14070d31eb590c",
+  "input": {
+    "char": "迫",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "迫",
+    "components": [
+      "辶",
+      "白"
+    ],
+    "association": "迫不及待想知道自己的身高。（教學聯想，不是字源解釋。）",
+    "mnemonic": "白坐辶小車，迫不及待向前走。",
+    "visualPrompt": "保留「迫」的標準字形與完整筆畫，圖畫放在字旁：孩子期待量身高的表情。不得把插圖替代筆畫或畫進字內。",
+    "teachingTip": "聯想不是字源；白在右上，辶托住下方。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

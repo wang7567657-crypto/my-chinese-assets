@@ -1,0 +1,317 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_2年級_上學期_第2課_feature_ai_batch_d147f0270df92e8f",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 18,
+    "batchCharacters": [
+      "爬",
+      "梯",
+      "紙",
+      "條",
+      "線",
+      "像",
+      "身",
+      "生",
+      "迫",
+      "及",
+      "待",
+      "站",
+      "沿",
+      "頂",
+      "格",
+      "哪",
+      "才",
+      "最"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_3d7d55fcfbea35c2",
+        "input": {
+          "char": "爬",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_b073f73aba7c9c55",
+        "input": {
+          "char": "梯",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_c9b3bd88916ba1ef",
+        "input": {
+          "char": "紙",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_4b5357d33f19ddab",
+        "input": {
+          "char": "條",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_102522dfa463b5ea",
+        "input": {
+          "char": "線",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_ca01c474d11bb332",
+        "input": {
+          "char": "像",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_70dcf3d4f4228a89",
+        "input": {
+          "char": "身",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_05cafd67df600d7a",
+        "input": {
+          "char": "生",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_b359473ac0120f77",
+        "input": {
+          "char": "迫",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_699ea9f09a69290f",
+        "input": {
+          "char": "及",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_c88083bea22e012e",
+        "input": {
+          "char": "待",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_9c6a97c0f70014a3",
+        "input": {
+          "char": "站",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_b1722b7693067f54",
+        "input": {
+          "char": "沿",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_202875885a9063b7",
+        "input": {
+          "char": "頂",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_6ee4c4af62e566e6",
+        "input": {
+          "char": "格",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_12bc70680b1a47fa",
+        "input": {
+          "char": "哪",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_e0ef090ed60e226d",
+        "input": {
+          "char": "才",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_2年級_上學期_第2課_confusion_analysis_a63c6c15a154f6ef",
+        "input": {
+          "char": "最",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第2課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-07T04:42:15.165986Z",
+  "processedAt": "2026-10-07T04:43:42.836760Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_2年級_上學期_第2課_feature_ai_batch_d147f0270df92e8f",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "南一",
+      "grade": "2年級",
+      "semester": "上學期",
+      "lesson": "第2課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 18,
+      "batchCharacters": [
+        "爬",
+        "梯",
+        "紙",
+        "條",
+        "線",
+        "像",
+        "身",
+        "生",
+        "迫",
+        "及",
+        "待",
+        "站",
+        "沿",
+        "頂",
+        "格",
+        "哪",
+        "才",
+        "最"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 18,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_3d7d55fcfbea35c2.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_b073f73aba7c9c55.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_c9b3bd88916ba1ef.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_4b5357d33f19ddab.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_102522dfa463b5ea.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_ca01c474d11bb332.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_70dcf3d4f4228a89.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_05cafd67df600d7a.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_b359473ac0120f77.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_699ea9f09a69290f.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_c88083bea22e012e.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_9c6a97c0f70014a3.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_b1722b7693067f54.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_202875885a9063b7.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_6ee4c4af62e566e6.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_12bc70680b1a47fa.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_e0ef090ed60e226d.json",
+        "aiGenerated/confusion_analysis/南一_2年級_上學期_第2課_confusion_analysis_a63c6c15a154f6ef.json"
+      ]
+    },
+    "createdAt": "2026-10-07T04:43:42.836760Z"
+  }
+}

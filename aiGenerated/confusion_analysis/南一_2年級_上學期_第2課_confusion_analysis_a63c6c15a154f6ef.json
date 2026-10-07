@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第2課_confusion_analysis_a63c6c15a154f6ef",
+  "input": {
+    "char": "最",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "最",
+    "groups": {
+      "shape": [
+        {
+          "char": "取",
+          "why": "都有取",
+          "difference": "最比取多上方的日形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "醉",
+          "why": "最高的最與喝醉的醉都讀ㄗㄨㄟˋ，是同音。",
+          "difference": "最表示程度最高；醉表示醉酒等狀態。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "更",
+          "why": "最和更都可放在高前面。",
+          "difference": "更高是比較後又高一些；最高是在比較範圍中位居最上。"
+        }
+      ],
+      "component": [
+        {
+          "char": "趣",
+          "why": "都有取",
+          "difference": "最在取上方加日形；趣以走包住取的左下。"
+        }
+      ]
+    },
+    "tip": "把「最」放回〈爬梯子〉讀一次，再分別比較字形、讀音和意思；同音不表示可以互換。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

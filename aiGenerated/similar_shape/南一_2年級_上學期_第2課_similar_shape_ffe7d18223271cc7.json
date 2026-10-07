@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第2課_similar_shape_ffe7d18223271cc7",
+  "input": {
+    "targetChar": "紙",
+    "lessonChars": [
+      "爬",
+      "梯",
+      "紙",
+      "條",
+      "線",
+      "像",
+      "身",
+      "生",
+      "迫",
+      "及",
+      "待",
+      "站",
+      "沿",
+      "頂",
+      "格",
+      "哪",
+      "才",
+      "最"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "紙",
+    "similarChars": [
+      {
+        "char": "氏",
+        "similarity": "都有氏",
+        "difference": "紙比氏多左邊的糹。"
+      },
+      {
+        "char": "祇",
+        "similarity": "右邊都是氏",
+        "difference": "紙左邊是糹；祇左邊是示字旁。祇常見於神祇，非紙的異體字。"
+      },
+      {
+        "char": "衹",
+        "similarity": "右邊都是氏",
+        "difference": "紙左邊是糹；衹左邊是衣字旁。衹為少見字，衣字旁和示字旁也要分清。"
+      },
+      {
+        "char": "低",
+        "similarity": "右側輪廓接近",
+        "difference": "紙右邊是氏；低右邊是氐，比氏多一點，左旁也由糹換成亻。"
+      },
+      {
+        "char": "抵",
+        "similarity": "右側輪廓接近",
+        "difference": "紙是糹加氏；抵是扌加氐，右下多一點。"
+      },
+      {
+        "char": "底",
+        "similarity": "下方都有氏的形體",
+        "difference": "紙是左右結構；底以广包住氐，氐比氏多一點。"
+      }
+    ],
+    "teachingTip": "先找出「紙」與比較字相同的部件，再圈出不同處；一次先練習兩個常用字，少見字只作辨識，不要求背寫。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

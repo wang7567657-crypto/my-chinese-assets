@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第2課_similar_shape_759059303267235a",
+  "input": {
+    "targetChar": "最",
+    "lessonChars": [
+      "爬",
+      "梯",
+      "紙",
+      "條",
+      "線",
+      "像",
+      "身",
+      "生",
+      "迫",
+      "及",
+      "待",
+      "站",
+      "沿",
+      "頂",
+      "格",
+      "哪",
+      "才",
+      "最"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "最",
+    "similarChars": [
+      {
+        "char": "取",
+        "similarity": "都有取",
+        "difference": "最比取多上方的日形。"
+      },
+      {
+        "char": "趣",
+        "similarity": "都有取",
+        "difference": "最在取上方加日形；趣以走包住取的左下。"
+      },
+      {
+        "char": "撮",
+        "similarity": "都有最",
+        "difference": "撮比最多左邊的扌。"
+      },
+      {
+        "char": "蕞",
+        "similarity": "都有最",
+        "difference": "蕞比最多上方的艹。蕞是少見字，如蕞爾。"
+      },
+      {
+        "char": "冣",
+        "similarity": "下方同為取，上方輪廓接近",
+        "difference": "最上方是日形；冣上方是冖。冣可作最的異體字，課堂書寫仍用最。"
+      },
+      {
+        "char": "曼",
+        "similarity": "上方都有日形，下方都有又形",
+        "difference": "最中間偏左是耳；曼中間是橫向的罒形，勿把耳寫成罒。"
+      }
+    ],
+    "teachingTip": "先找出「最」與比較字相同的部件，再圈出不同處；一次先練習兩個常用字，少見字只作辨識，不要求背寫。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

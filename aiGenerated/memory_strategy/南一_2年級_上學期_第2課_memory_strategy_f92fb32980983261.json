@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第2課_memory_strategy_f92fb32980983261",
+  "input": {
+    "char": "梯",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "梯",
+    "components": [
+      "木",
+      "弟"
+    ],
+    "association": "木做的梯子，一格一格往上。（教學聯想，不是字源解釋。）",
+    "mnemonic": "木在左，弟在右，木梯一格接一格。",
+    "visualPrompt": "保留「梯」的標準字形與完整筆畫，圖畫放在字旁：一座有清楚橫檔的木梯。不得把插圖替代筆畫或畫進字內。",
+    "teachingTip": "先圈木字旁，再找右邊完整的弟。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

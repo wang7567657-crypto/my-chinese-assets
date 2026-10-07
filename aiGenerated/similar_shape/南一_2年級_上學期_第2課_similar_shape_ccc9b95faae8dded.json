@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第2課_similar_shape_ccc9b95faae8dded",
+  "input": {
+    "targetChar": "線",
+    "lessonChars": [
+      "爬",
+      "梯",
+      "紙",
+      "條",
+      "線",
+      "像",
+      "身",
+      "生",
+      "迫",
+      "及",
+      "待",
+      "站",
+      "沿",
+      "頂",
+      "格",
+      "哪",
+      "才",
+      "最"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "線",
+    "similarChars": [
+      {
+        "char": "泉",
+        "similarity": "都有泉",
+        "difference": "線比泉多左邊的糹。"
+      },
+      {
+        "char": "腺",
+        "similarity": "右邊都是泉",
+        "difference": "線左邊是糹；腺左邊是月。"
+      },
+      {
+        "char": "湶",
+        "similarity": "右邊都是泉",
+        "difference": "線左邊是糹；湶左邊是氵。湶是泉的少見異體字，辨識即可。"
+      },
+      {
+        "char": "綿",
+        "similarity": "左旁相同，右上都有白",
+        "difference": "線右下是水；綿右下是巾。"
+      },
+      {
+        "char": "練",
+        "similarity": "都是糹旁，右側都有方框和伸出的筆畫",
+        "difference": "線右邊是泉，上白下水；練右邊是柬，中央的框與內部筆畫不同。"
+      },
+      {
+        "char": "絹",
+        "similarity": "左旁相同，右側都是上下排列",
+        "difference": "線右邊上白下水；絹右邊上口下月。"
+      }
+    ],
+    "teachingTip": "先找出「線」與比較字相同的部件，再圈出不同處；一次先練習兩個常用字，少見字只作辨識，不要求背寫。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

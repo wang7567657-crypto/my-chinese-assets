@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第2課_memory_strategy_478fd54df853ed04",
+  "input": {
+    "char": "紙",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "紙",
+    "components": [
+      "糹",
+      "氏"
+    ],
+    "association": "在白紙上畫身高線。（教學聯想，不是字源解釋。）",
+    "mnemonic": "糹在左，氏在右，白紙記下我長高。",
+    "visualPrompt": "保留「紙」的標準字形與完整筆畫，圖畫放在字旁：一張畫有身高線的白紙。不得把插圖替代筆畫或畫進字內。",
+    "teachingTip": "右邊是氏，下面沒有氐的那一點。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

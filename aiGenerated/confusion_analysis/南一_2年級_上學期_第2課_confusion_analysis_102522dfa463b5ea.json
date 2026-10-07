@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第2課_confusion_analysis_102522dfa463b5ea",
+  "input": {
+    "char": "線",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "線",
+    "groups": {
+      "shape": [
+        {
+          "char": "泉",
+          "why": "都有泉",
+          "difference": "線比泉多左邊的糹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "現",
+          "why": "線與現在的現都讀ㄒㄧㄢˋ，是同音。",
+          "difference": "線是細長痕跡；現用於現在、出現。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "繩",
+          "why": "線和繩都可呈細長形。",
+          "difference": "本課的線是畫出的痕跡，不是一條實物繩子。"
+        }
+      ],
+      "component": [
+        {
+          "char": "腺",
+          "why": "右邊都是泉",
+          "difference": "線左邊是糹；腺左邊是月。"
+        }
+      ]
+    },
+    "tip": "把「線」放回〈爬梯子〉讀一次，再分別比較字形、讀音和意思；同音不表示可以互換。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

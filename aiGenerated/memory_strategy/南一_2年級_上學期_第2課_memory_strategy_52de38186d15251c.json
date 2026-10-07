@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第2課_memory_strategy_52de38186d15251c",
+  "input": {
+    "char": "爬",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "爬",
+    "components": [
+      "爪",
+      "巴"
+    ],
+    "association": "用手扶著梯子向上爬。（教學聯想，不是字源解釋。）",
+    "mnemonic": "爪在左，巴在右，扶穩梯子往上爬。",
+    "visualPrompt": "保留「爬」的標準字形與完整筆畫，圖畫放在字旁：孩子扶梯子向上爬。不得把插圖替代筆畫或畫進字內。",
+    "teachingTip": "提醒左邊是爪，不要寫成瓜。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

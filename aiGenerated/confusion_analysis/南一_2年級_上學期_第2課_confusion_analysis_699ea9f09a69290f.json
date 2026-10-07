@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第2課_confusion_analysis_699ea9f09a69290f",
+  "input": {
+    "char": "及",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "及",
+    "groups": {
+      "shape": [
+        {
+          "char": "吸",
+          "why": "都有及",
+          "difference": "吸比及多左邊的口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "急",
+          "why": "及和著急的急都讀ㄐㄧˊ，是同音。",
+          "difference": "及可表示趕得上；急表示心情急切。迫不及待中的及不能改成急。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "到",
+          "why": "及和到都有達到的相關意思。",
+          "difference": "來得及表示時間趕得上；到表示到達地點或時間，用法不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "汲",
+          "why": "都有及",
+          "difference": "汲比及多左邊的氵。"
+        }
+      ]
+    },
+    "tip": "把「及」放回〈爬梯子〉讀一次，再分別比較字形、讀音和意思；同音不表示可以互換。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

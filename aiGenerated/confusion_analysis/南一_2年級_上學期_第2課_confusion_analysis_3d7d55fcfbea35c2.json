@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第2課_confusion_analysis_3d7d55fcfbea35c2",
+  "input": {
+    "char": "爬",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "爬",
+    "groups": {
+      "shape": [
+        {
+          "char": "把",
+          "why": "都有巴",
+          "difference": "爬是爪和巴；把左邊是扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "扒",
+          "why": "爬梯子的爬讀ㄆㄚˊ；扒開的扒讀ㄅㄚ，是近音，不是同音。",
+          "difference": "爬是攀登或伏地移動；扒開是用手撥開。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "攀",
+          "why": "爬梯子和攀爬都與向上移動有關。",
+          "difference": "攀較常強調抓住東西往上；本課用爬梯子。"
+        }
+      ],
+      "component": [
+        {
+          "char": "耙",
+          "why": "右側都有巴",
+          "difference": "爬左側是爪；耙左側是耒。"
+        }
+      ]
+    },
+    "tip": "把「爬」放回〈爬梯子〉讀一次，再分別比較字形、讀音和意思；同音不表示可以互換。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

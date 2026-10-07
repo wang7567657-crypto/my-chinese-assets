@@ -1,0 +1,29 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第2課_memory_strategy_482b30a140ae26c5",
+  "input": {
+    "char": "條",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "條",
+    "components": [
+      "亻",
+      "丨",
+      "攵",
+      "木"
+    ],
+    "association": "身高線一條一條排好。（教學聯想，不是字源解釋。）",
+    "mnemonic": "左邊人旁加直線，右邊攵下藏個木。",
+    "visualPrompt": "保留「條」的標準字形與完整筆畫，圖畫放在字旁：幾條長短不同的身高線。不得把插圖替代筆畫或畫進字內。",
+    "teachingTip": "這是字形記憶分組；右上攵有四筆，右下是木，不是小。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

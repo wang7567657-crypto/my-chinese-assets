@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第2課_confusion_analysis_b359473ac0120f77",
+  "input": {
+    "char": "迫",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "迫",
+    "groups": {
+      "shape": [
+        {
+          "char": "拍",
+          "why": "都有白",
+          "difference": "迫以辶托住白；拍在白左邊加扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "破",
+          "why": "迫不及待的迫和破掉的破都讀ㄆㄛˋ，是同音。",
+          "difference": "迫不及待形容很急；破表示損壞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "急",
+          "why": "迫不及待含有急切的意思。",
+          "difference": "急是常用的心情詞；迫需放回迫不及待理解，不把它單換成急。"
+        }
+      ],
+      "component": [
+        {
+          "char": "泊",
+          "why": "都有白",
+          "difference": "迫外圍是辶；泊左邊是氵。"
+        }
+      ]
+    },
+    "tip": "把「迫」放回〈爬梯子〉讀一次，再分別比較字形、讀音和意思；同音不表示可以互換。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第2課_memory_strategy_ffd990a83c0f1f92",
+  "input": {
+    "char": "哪",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "哪",
+    "components": [
+      "口",
+      "那"
+    ],
+    "association": "哪一天能長得最高？（教學聯想，不是字源解釋。）",
+    "mnemonic": "口加那，問哪個；開口問問哪一天。",
+    "visualPrompt": "保留「哪」的標準字形與完整筆畫，圖畫放在字旁：孩子指著日曆提出問題。不得把插圖替代筆畫或畫進字內。",
+    "teachingTip": "哪用於提問；那用來指稱，比較左邊多出的口。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}

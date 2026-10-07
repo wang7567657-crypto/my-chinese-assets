@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第2課_confusion_analysis_70dcf3d4f4228a89",
+  "input": {
+    "char": "身",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "身",
+    "groups": {
+      "shape": [
+        {
+          "char": "射",
+          "why": "都有身形",
+          "difference": "射比身多右邊的寸；身作左旁時末撇形態也會調整。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "伸",
+          "why": "身高的身和伸手的伸都讀ㄕㄣ，是同音。",
+          "difference": "身指身體；伸表示展開、伸直。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "體",
+          "why": "身和體都與身體相關。",
+          "difference": "身高說身體的高度；體常見於身體、體育。"
+        }
+      ],
+      "component": [
+        {
+          "char": "躲",
+          "why": "都有身旁",
+          "difference": "身是單字；躲右邊另加朵。"
+        }
+      ]
+    },
+    "tip": "把「身」放回〈爬梯子〉讀一次，再分別比較字形、讀音和意思；同音不表示可以互換。"
+  },
+  "createdAt": "2026-10-07T04:43:42.836760Z"
+}
