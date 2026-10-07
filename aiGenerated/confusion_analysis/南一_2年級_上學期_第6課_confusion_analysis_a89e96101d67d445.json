@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_a89e96101d67d445",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "該",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "該",
+    "groups": {
+      "shape": [
+        {
+          "char": "孩",
+          "why": "該、孩右邊都是亥，輪廓相似。",
+          "difference": "該左邊言，例應該；孩左邊子，例孩子。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "改",
+          "why": "該 ㄍㄞ 與改 ㄍㄞˇ 聲母韻母相同，聲調不同，屬近音。",
+          "difference": "該是第一聲；改是第三聲。例：應該改掉亂丟垃圾的習慣。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "要",
+          "why": "該與要都可能表達需要採取某個行動。",
+          "difference": "應該重在合宜、應當；要也可表示願望或需要，如「我要喝水」。不能把所有要都換成該。"
+        }
+      ],
+      "component": [
+        {
+          "char": "刻",
+          "why": "該、刻都含亥這一部件。",
+          "difference": "該是左言右亥，讀 ㄍㄞ；刻是左亥右刂，讀 ㄎㄜˋ。例：應該／立刻。"
+        }
+      ]
+    },
+    "tip": "用「孩子應該……」同時比較孩、該，讓學生指出子旁與言旁，再聽辨該、改的聲調。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

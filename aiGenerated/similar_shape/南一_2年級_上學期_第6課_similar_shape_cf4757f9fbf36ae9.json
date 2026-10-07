@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第6課_similar_shape_cf4757f9fbf36ae9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "留",
+    "lessonChars": [
+      "自",
+      "己",
+      "沙",
+      "撿",
+      "垃",
+      "圾",
+      "眼",
+      "膠",
+      "對",
+      "牠",
+      "安",
+      "吧",
+      "如",
+      "該",
+      "留",
+      "便",
+      "減",
+      "少",
+      "灘",
+      "塑"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "留",
+    "similarChars": [
+      {
+        "char": "溜",
+        "similarity": "溜的右半部就是留。",
+        "difference": "溜在留左邊多氵；留沒有三點水。"
+      },
+      {
+        "char": "榴",
+        "similarity": "榴的右半部就是留。",
+        "difference": "榴在留左邊多木；留沒有木字旁。"
+      },
+      {
+        "char": "瘤",
+        "similarity": "瘤的裡面包含留。",
+        "difference": "瘤在留的上方和左邊多疒；留沒有這個包圍部件。"
+      },
+      {
+        "char": "遛",
+        "similarity": "遛的右上部分就是留。",
+        "difference": "遛在留的左下方多辶，底部有長捺；留沒有走之旁。遛是較少見的字，作延伸辨形。"
+      },
+      {
+        "char": "餾",
+        "similarity": "餾的右半部就是留。",
+        "difference": "餾在留左邊多飠；留沒有食字旁。餾是較少見的字，作延伸辨形。"
+      },
+      {
+        "char": "騮",
+        "similarity": "騮的右半部就是留。",
+        "difference": "騮在留左邊多馬，馬的下面有四點；留沒有馬字旁。騮很少見，只作延伸辨形。"
+      }
+    ],
+    "teachingTip": "先認出完整的留，尤其下方是田，再把外加的氵、木、疒、辶圈起來。餾、騮只供部件觀察，不要求二年級背寫。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

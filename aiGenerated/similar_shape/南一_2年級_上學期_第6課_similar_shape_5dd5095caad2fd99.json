@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第6課_similar_shape_5dd5095caad2fd99",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "沙",
+    "lessonChars": [
+      "自",
+      "己",
+      "沙",
+      "撿",
+      "垃",
+      "圾",
+      "眼",
+      "膠",
+      "對",
+      "牠",
+      "安",
+      "吧",
+      "如",
+      "該",
+      "留",
+      "便",
+      "減",
+      "少",
+      "灘",
+      "塑"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "沙",
+    "similarChars": [
+      {
+        "char": "砂",
+        "similarity": "右半部都是少。",
+        "difference": "沙左邊是氵，三筆分開；砂左邊是石，下方有口。"
+      },
+      {
+        "char": "紗",
+        "similarity": "右半部都是少。",
+        "difference": "沙左邊是氵；紗左邊是糹，有交折筆畫和下方小點。"
+      },
+      {
+        "char": "抄",
+        "similarity": "右半部都是少。",
+        "difference": "沙左邊是氵；抄左邊是扌，有橫、豎鉤和提。"
+      },
+      {
+        "char": "炒",
+        "similarity": "右半部都是少。",
+        "difference": "沙左邊是氵；炒左邊是火，有中央撇捺形筆畫。"
+      },
+      {
+        "char": "妙",
+        "similarity": "右半部都是少。",
+        "difference": "沙左邊是氵；妙左邊是女，有交叉的撇與橫畫。"
+      },
+      {
+        "char": "吵",
+        "similarity": "右半部都是少。",
+        "difference": "沙左邊是氵；吵左邊是封閉的口。"
+      }
+    ],
+    "teachingTip": "先把右半部少蓋住，只看左邊；找到三筆分開的氵就是沙。再檢查少最下方的長撇沒有漏寫。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

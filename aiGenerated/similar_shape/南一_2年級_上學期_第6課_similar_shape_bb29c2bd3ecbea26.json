@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第6課_similar_shape_bb29c2bd3ecbea26",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "少",
+    "lessonChars": [
+      "自",
+      "己",
+      "沙",
+      "撿",
+      "垃",
+      "圾",
+      "眼",
+      "膠",
+      "對",
+      "牠",
+      "安",
+      "吧",
+      "如",
+      "該",
+      "留",
+      "便",
+      "減",
+      "少",
+      "灘",
+      "塑"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "少",
+    "similarChars": [
+      {
+        "char": "小",
+        "similarity": "上半部都有中間豎形和左右點撇。",
+        "difference": "少下方多一長撇，中間豎畫不帶鉤；小沒有下方長撇，中間是豎鉤。"
+      },
+      {
+        "char": "沙",
+        "similarity": "沙的右半部就是少。",
+        "difference": "沙在少左邊多氵；少沒有三點水。"
+      },
+      {
+        "char": "步",
+        "similarity": "下方都有向左下伸出的撇，整體有少的局部輪廓。",
+        "difference": "步上方是止，下方沒有少右側的那一點；不能把步直接寫成止加完整的少。"
+      },
+      {
+        "char": "省",
+        "similarity": "省的上半部有少形。",
+        "difference": "省在少形下方多目；少下方沒有長方框。"
+      },
+      {
+        "char": "秒",
+        "similarity": "秒的右半部就是少。",
+        "difference": "秒在少左邊多禾；少沒有禾木旁。"
+      },
+      {
+        "char": "劣",
+        "similarity": "劣的上半部就是少。",
+        "difference": "劣在少下方多力；少下方沒有橫折鉤。"
+      }
+    ],
+    "teachingTip": "先比較少和小：少要有下方長撇，中間豎不勾。再用手指沿少的長撇描一次；步只是局部相似，不把它當作完整少的組合字。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_21a310d85cedfac8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "安",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "安",
+    "groups": {
+      "shape": [
+        {
+          "char": "字",
+          "why": "安、字都有宀，下面的部分易混。",
+          "difference": "安下面女，例安全；字下面子，例寫字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "按",
+          "why": "安 ㄢ 與按 ㄢˋ 聲母韻母相同，聲調不同，屬近音。",
+          "difference": "安是第一聲，例平安；按是第四聲，例按鈕。按比安另多扌。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "靜",
+          "why": "安全與安靜都含安，容易以為意思完全相同。",
+          "difference": "安全重在沒有危險；安靜重在少聲響、不吵鬧。很安靜的地方仍可能有危險。"
+        }
+      ],
+      "component": [
+        {
+          "char": "姓",
+          "why": "安、姓都含女這個部件，但位置不同。",
+          "difference": "安的女在宀下；姓的女在左，右邊是生。安全用安，姓名用姓。"
+        }
+      ]
+    },
+    "tip": "讓學生判斷「安靜地徒手碰碎玻璃」是否安全，分清詞義；書寫時確認宀下面是女，不是子。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

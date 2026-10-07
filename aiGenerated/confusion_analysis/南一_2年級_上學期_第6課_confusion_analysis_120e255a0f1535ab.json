@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_120e255a0f1535ab",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "圾",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "圾",
+    "groups": {
+      "shape": [
+        {
+          "char": "級",
+          "why": "圾與級都有右部及。",
+          "difference": "圾左邊土，例垃圾；級左邊糹，例年級。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "色",
+          "why": "圾與顏色的色同音，都是 ㄙㄜˋ。",
+          "difference": "垃圾用圾，顏色用色；本課不能把圾讀成年級的級 ㄐㄧˊ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "廢",
+          "why": "垃圾和廢物都涉及不要或不能再按原用途使用的東西。",
+          "difference": "圾通常只在垃圾等詞中使用；廢可組廢物、廢紙。不能把垃圾任意寫成垃廢。"
+        }
+      ],
+      "component": [
+        {
+          "char": "及",
+          "why": "圾右邊就是及，容易只看右邊認字。",
+          "difference": "及讀 ㄐㄧˊ，例及時；圾左邊多土，本課讀 ㄙㄜˋ。"
+        }
+      ]
+    },
+    "tip": "以「及時清垃圾」並排及、圾。圈出土旁，帶讀垃圾 ㄌㄜˋ ㄙㄜˋ，不用有邊讀邊。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

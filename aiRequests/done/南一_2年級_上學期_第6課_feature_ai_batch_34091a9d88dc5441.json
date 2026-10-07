@@ -1,0 +1,346 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_2年級_上學期_第6課_feature_ai_batch_34091a9d88dc5441",
+  "status": "done",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 20,
+    "batchCharacters": [
+      "自",
+      "己",
+      "沙",
+      "撿",
+      "垃",
+      "圾",
+      "眼",
+      "膠",
+      "對",
+      "牠",
+      "安",
+      "吧",
+      "如",
+      "該",
+      "留",
+      "便",
+      "減",
+      "少",
+      "灘",
+      "塑"
+    ],
+    "items": [
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_bec2834c576f2b5c",
+        "input": {
+          "char": "自",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_957c9f4e0cf0dd07",
+        "input": {
+          "char": "己",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_874c0948268b8903",
+        "input": {
+          "char": "沙",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_1863c75b7c0a080a",
+        "input": {
+          "char": "撿",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_0f4f40414b6e5977",
+        "input": {
+          "char": "垃",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_8322ecee8f18469e",
+        "input": {
+          "char": "圾",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_e00abc2c3743c5ba",
+        "input": {
+          "char": "眼",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_262ea9dc3280187c",
+        "input": {
+          "char": "膠",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_f70ef27d7398ed19",
+        "input": {
+          "char": "對",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_3827ee83bb368cab",
+        "input": {
+          "char": "牠",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_6756e3e10ba710cc",
+        "input": {
+          "char": "安",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_da60312b03a36a25",
+        "input": {
+          "char": "吧",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_0e9ae6003a5f4cb7",
+        "input": {
+          "char": "如",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_1d95a4a0e8984a84",
+        "input": {
+          "char": "該",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_2b980d4939dfdc4a",
+        "input": {
+          "char": "留",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_ff82037fd3ba549c",
+        "input": {
+          "char": "便",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_94a7823448cf6a3e",
+        "input": {
+          "char": "減",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_178b8587bafe2687",
+        "input": {
+          "char": "少",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_b36c78321545ac76",
+        "input": {
+          "char": "灘",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_2年級_上學期_第6課_memory_strategy_d1083e1b51f7263e",
+        "input": {
+          "char": "塑",
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00",
+  "processedAt": "2026-10-07T08:54:04.657953+00:00",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_2年級_上學期_第6課_feature_ai_batch_34091a9d88dc5441",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "南一",
+      "grade": "2年級",
+      "semester": "上學期",
+      "lesson": "第6課",
+      "featureTaskType": "memory_strategy",
+      "featureName": "記憶策略",
+      "itemCount": 20,
+      "batchCharacters": [
+        "自",
+        "己",
+        "沙",
+        "撿",
+        "垃",
+        "圾",
+        "眼",
+        "膠",
+        "對",
+        "牠",
+        "安",
+        "吧",
+        "如",
+        "該",
+        "留",
+        "便",
+        "減",
+        "少",
+        "灘",
+        "塑"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 20,
+      "resultPaths": [
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_bec2834c576f2b5c.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_957c9f4e0cf0dd07.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_874c0948268b8903.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_1863c75b7c0a080a.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_0f4f40414b6e5977.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_8322ecee8f18469e.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_e00abc2c3743c5ba.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_262ea9dc3280187c.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_f70ef27d7398ed19.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_3827ee83bb368cab.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_6756e3e10ba710cc.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_da60312b03a36a25.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_0e9ae6003a5f4cb7.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_1d95a4a0e8984a84.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_2b980d4939dfdc4a.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_ff82037fd3ba549c.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_94a7823448cf6a3e.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_178b8587bafe2687.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_b36c78321545ac76.json",
+        "aiGenerated/memory_strategy/南一_2年級_上學期_第6課_memory_strategy_d1083e1b51f7263e.json"
+      ]
+    },
+    "createdAt": "2026-10-07T08:54:04.657953+00:00"
+  }
+}

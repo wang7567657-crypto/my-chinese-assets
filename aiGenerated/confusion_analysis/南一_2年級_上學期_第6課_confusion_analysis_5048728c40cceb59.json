@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_5048728c40cceb59",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "自",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "自",
+    "groups": {
+      "shape": [
+        {
+          "char": "白",
+          "why": "兩字都有頂端短撇與方框，容易少寫框內橫。",
+          "difference": "自的框內有兩橫；白只有一橫。例：自己／白色。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "字",
+          "why": "自與字同音，都是 ㄗˋ。",
+          "difference": "自己、自然用自；寫字、生字用字。聽音相同，要用詞義選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "己",
+          "why": "自、己都和自身有關，常連成自己。",
+          "difference": "自己要兩字連用；自然、自由用自，不能任意換成己。"
+        }
+      ],
+      "component": [
+        {
+          "char": "目",
+          "why": "自的下方看起來像目。",
+          "difference": "自頂端多一短撇；目沒有頂端短撇。目可作眼的左旁，自不能直接替代它。"
+        }
+      ]
+    },
+    "tip": "用「自己把垃圾帶走」說話，先找頂端撇，再數框內兩橫；遮住字卡後選自、白、目。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}

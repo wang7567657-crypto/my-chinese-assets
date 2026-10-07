@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第6課_confusion_analysis_1251b9da9b2baf85",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "留",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "留",
+    "groups": {
+      "shape": [
+        {
+          "char": "田",
+          "why": "留下半是田，匆忙看字時可能漏認上半。",
+          "difference": "田是獨立五畫字；留上方另有左上三筆和右上的刀，不能省去。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "流",
+          "why": "留與流水的流同音，都是 ㄌㄧㄡˊ。",
+          "difference": "留下便條用留；流水、流汗用流。可用「留住／流走」對照。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "停",
+          "why": "停留、留下都有不離開的情境。",
+          "difference": "留可指留下某物或繼續待著；停重在動作中止。可以留下便條，不能直接換成停下便條。"
+        }
+      ],
+      "component": [
+        {
+          "char": "榴",
+          "why": "榴裡有完整的留，容易只認熟悉部件。",
+          "difference": "留單獨可表示留下；榴左邊另有木，例榴槤。兩字都讀 ㄌㄧㄡˊ，但意思不同。"
+        }
+      ]
+    },
+    "tip": "記住上左最後一筆是點，上右是刀，下方是田；不能直接用卯加田解釋字形。用「留便條」和「流水」選字。"
+  },
+  "createdAt": "2026-10-07T08:54:04.657953+00:00"
+}
