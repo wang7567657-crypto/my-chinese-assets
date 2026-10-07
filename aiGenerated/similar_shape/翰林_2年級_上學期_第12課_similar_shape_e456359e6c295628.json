@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第12課_similar_shape_e456359e6c295628",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "指",
+    "lessonChars": [
+      "念",
+      "曲",
+      "項",
+      "浮",
+      "掌",
+      "撥",
+      "波",
+      "詩",
+      "作",
+      "首",
+      "指",
+      "伸",
+      "脖",
+      "身",
+      "體",
+      "隻",
+      "倒",
+      "肚",
+      "詠",
+      "鵝",
+      "歲",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "指",
+    "similarChars": [
+      {
+        "char": "旨",
+        "similarity": "右邊有完整旨",
+        "difference": "指左邊多扌；旨單獨六筆。"
+      },
+      {
+        "char": "脂",
+        "similarity": "右邊同為旨",
+        "difference": "指左邊是扌；脂左邊是月。"
+      },
+      {
+        "char": "詣",
+        "similarity": "右邊同為旨",
+        "difference": "指左邊是扌；詣左邊是言。"
+      },
+      {
+        "char": "嘗",
+        "similarity": "下方有旨形",
+        "difference": "指左扌右旨；嘗上方筆畫較多。"
+      },
+      {
+        "char": "皆",
+        "similarity": "下方同有白／日形，上部輪廓近似",
+        "difference": "指右邊是旨；皆上方是比。"
+      },
+      {
+        "char": "階",
+        "similarity": "右邊有完整皆，含近似旨形",
+        "difference": "指左扌右旨；階左邊是阝且筆畫更多。"
+      }
+    ],
+    "teachingTip": "左扌三筆、右旨六筆；不要寫成脂。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

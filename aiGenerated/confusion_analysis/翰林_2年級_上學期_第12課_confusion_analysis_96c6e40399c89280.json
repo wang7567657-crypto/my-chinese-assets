@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_96c6e40399c89280",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "隻",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "隻",
+    "groups": {
+      "shape": [
+        {
+          "char": "隹",
+          "why": "上方有完整隹",
+          "difference": "隻下方多又；隹單獨八筆。"
+        },
+        {
+          "char": "雙",
+          "why": "上方有兩個隹、下方有又",
+          "difference": "隻只有一個隹；雙有兩個隹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "知",
+          "why": "同音：隻、知都讀ㄓ。",
+          "difference": "隻是量詞或單一；知表示知道。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "個",
+          "why": "都可作量詞。",
+          "difference": "隻常計算動物或成對物之一；個用途較廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "隹",
+          "why": "部件比較：上方有完整隹",
+          "difference": "隻下方多又；隹單獨八筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「一隻鵝」，再依字形與句意選字。隹部八筆、下又兩筆；不要寫成簡化字「只」。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

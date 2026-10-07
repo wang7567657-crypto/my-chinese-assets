@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第12課_similar_shape_79f58aa5e89fbc6d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "翻",
+    "lessonChars": [
+      "念",
+      "曲",
+      "項",
+      "浮",
+      "掌",
+      "撥",
+      "波",
+      "詩",
+      "作",
+      "首",
+      "指",
+      "伸",
+      "脖",
+      "身",
+      "體",
+      "隻",
+      "倒",
+      "肚",
+      "詠",
+      "鵝",
+      "歲",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "翻",
+    "similarChars": [
+      {
+        "char": "番",
+        "similarity": "左邊有完整番",
+        "difference": "翻右邊多羽；番單獨十二筆。"
+      },
+      {
+        "char": "羽",
+        "similarity": "右邊有完整羽",
+        "difference": "翻左邊多番；羽單獨六筆。"
+      },
+      {
+        "char": "播",
+        "similarity": "右邊同為番",
+        "difference": "翻左邊是番；播左邊是扌。"
+      },
+      {
+        "char": "潘",
+        "similarity": "右邊同為番",
+        "difference": "翻左邊是番；潘左邊是氵。"
+      },
+      {
+        "char": "幡",
+        "similarity": "右邊同為番",
+        "difference": "翻右邊是羽；幡左邊是巾，屬較少見字。"
+      },
+      {
+        "char": "翩",
+        "similarity": "右邊同為羽",
+        "difference": "翻左邊是番；翩左邊是扁。"
+      }
+    ],
+    "teachingTip": "左番十二筆、右羽六筆；不要和播混寫。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

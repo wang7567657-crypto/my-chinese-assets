@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_865a924befb670d8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "念",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "念",
+    "groups": {
+      "shape": [
+        {
+          "char": "今",
+          "why": "上方有完整今",
+          "difference": "念下方多心；今單獨四筆。"
+        },
+        {
+          "char": "含",
+          "why": "上方都有今形",
+          "difference": "念下方是心；含下方是口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "年",
+          "why": "近音：念ㄋㄧㄢˋ、年ㄋㄧㄢˊ，聲調不同。",
+          "difference": "念是讀、想或記掛；年是時間單位。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "讀",
+          "why": "課文「念出」是把文字讀出聲。",
+          "difference": "念可表示朗讀或想念；讀也可泛指閱讀。"
+        }
+      ],
+      "component": [
+        {
+          "char": "今",
+          "why": "部件比較：上方有完整今",
+          "difference": "念下方多心；今單獨四筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「念出」，再依字形與句意選字。先辨上方今與下方心，共八筆；聯想不是字源。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

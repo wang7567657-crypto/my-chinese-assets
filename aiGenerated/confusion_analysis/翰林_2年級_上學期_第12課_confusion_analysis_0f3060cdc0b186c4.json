@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_0f3060cdc0b186c4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "指",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "指",
+    "groups": {
+      "shape": [
+        {
+          "char": "旨",
+          "why": "右邊有完整旨",
+          "difference": "指左邊多扌；旨單獨六筆。"
+        },
+        {
+          "char": "脂",
+          "why": "右邊同為旨",
+          "difference": "指左邊是扌；脂左邊是月。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "紙",
+          "why": "同音：指、紙都讀ㄓˇ。",
+          "difference": "指可表示手指或指出；紙是書寫材料。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "點",
+          "why": "「指著」可表示把方向點出。",
+          "difference": "指可用手指出；點也可表示輕觸或標記位置。"
+        }
+      ],
+      "component": [
+        {
+          "char": "旨",
+          "why": "部件比較：右邊有完整旨",
+          "difference": "指左邊多扌；旨單獨六筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「指著水面」，再依字形與句意選字。左扌三筆、右旨六筆；不要寫成脂。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_6007b7018be2dba0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "倒",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "倒",
+    "groups": {
+      "shape": [
+        {
+          "char": "到",
+          "why": "右邊有完整到",
+          "difference": "倒左邊多亻；到單獨八筆。"
+        },
+        {
+          "char": "至",
+          "why": "右部上方有完整至",
+          "difference": "倒右邊是到；至單獨六筆。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "道",
+          "why": "同音：本課倒、道都讀ㄉㄠˋ。",
+          "difference": "倒表示倒下或顛倒；道可指道路或方法。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "立",
+          "why": "倒立包含立的姿勢。",
+          "difference": "倒立是上下顛倒地站立；立是一般站直。"
+        }
+      ],
+      "component": [
+        {
+          "char": "到",
+          "why": "部件比較：右邊有完整到",
+          "difference": "倒左邊多亻；到單獨八筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「倒立」，再依字形與句意選字。本課「倒立」讀ㄉㄠˋ；左亻兩筆。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

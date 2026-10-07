@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_2df9659c4b0f7753",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "曲",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "曲",
+    "groups": {
+      "shape": [
+        {
+          "char": "由",
+          "why": "都有田形外框與中豎",
+          "difference": "曲內有兩個直分隔；由只有中央一豎向上穿出。"
+        },
+        {
+          "char": "甲",
+          "why": "都有方框和中豎",
+          "difference": "曲中豎不向下穿出；甲的中豎向下伸出。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "區",
+          "why": "同音：本課曲、區都讀ㄑㄩ。",
+          "difference": "曲表示彎曲或曲子；區表示區域。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "彎",
+          "why": "「曲項」中的曲表示彎著。",
+          "difference": "曲可作形容或動詞；彎直接描述不直。"
+        }
+      ],
+      "component": [
+        {
+          "char": "由",
+          "why": "部件比較：都有田形外框與中豎",
+          "difference": "曲內有兩個直分隔；由只有中央一豎向上穿出。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「曲項」，再依字形與句意選字。本課「曲項」讀ㄑㄩ，指彎著頸項；曰部筆畫不連續。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

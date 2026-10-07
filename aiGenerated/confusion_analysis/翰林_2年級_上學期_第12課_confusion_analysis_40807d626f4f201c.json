@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_40807d626f4f201c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "體",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "體",
+    "groups": {
+      "shape": [
+        {
+          "char": "骨",
+          "why": "左邊有完整骨",
+          "difference": "體右邊另有豊；骨單獨十筆。"
+        },
+        {
+          "char": "豐",
+          "why": "右部豊與豐輪廓相近",
+          "difference": "體左邊多骨；豐上部筆畫配置不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "題",
+          "why": "近音：體ㄊㄧˇ、題ㄊㄧˊ，聲調不同。",
+          "difference": "體可指身體；題是題目。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "身",
+          "why": "身體一詞都指軀體。",
+          "difference": "體的用法更廣，也可指形體、體育；身可指自身。"
+        }
+      ],
+      "component": [
+        {
+          "char": "骨",
+          "why": "部件比較：左邊有完整骨",
+          "difference": "體右邊另有豊；骨單獨十筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「身體」，再依字形與句意選字。體共二十三筆；左骨十筆，不可簡寫成体。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

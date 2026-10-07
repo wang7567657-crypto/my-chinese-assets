@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第12課_memory_strategy_db0fbe5d66bd9e68",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "詩",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "詩",
+    "components": [
+      "言",
+      "寺"
+    ],
+    "association": "左言表示語文，右寺保持完整；旁邊畫寫著四行詩的紙。",
+    "mnemonic": "左言右寺，詩歌的詩。",
+    "visualPrompt": "保留標準繁體「詩」完整字形，在字旁另畫「這首詩」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "左言七筆、右寺六筆；保留繁體言字旁。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

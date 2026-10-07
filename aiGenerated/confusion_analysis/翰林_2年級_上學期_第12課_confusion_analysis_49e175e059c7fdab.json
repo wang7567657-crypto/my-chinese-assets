@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_49e175e059c7fdab",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "掌",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "掌",
+    "groups": {
+      "shape": [
+        {
+          "char": "尚",
+          "why": "上方有完整尚形",
+          "difference": "掌下方多手；尚單獨八筆。"
+        },
+        {
+          "char": "堂",
+          "why": "上方同為尚形",
+          "difference": "掌下方是手；堂下方是土。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "長",
+          "why": "同音：掌、長在ㄓㄤˇ讀音時相同。",
+          "difference": "掌是手掌或掌管；長可指生長、長官，也可讀ㄔㄤˊ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "手",
+          "why": "掌是手的一部分。",
+          "difference": "手包括手掌和手指；掌也可指腳掌或掌管。"
+        }
+      ],
+      "component": [
+        {
+          "char": "尚",
+          "why": "部件比較：上方有完整尚形",
+          "difference": "掌下方多手；尚單獨八筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「腳掌」，再依字形與句意選字。下方手部四筆；本課是腳掌，不要把掌寫成常。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

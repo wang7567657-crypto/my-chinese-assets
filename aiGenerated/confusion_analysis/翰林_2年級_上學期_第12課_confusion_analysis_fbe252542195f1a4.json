@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_fbe252542195f1a4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "歲",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "歲",
+    "groups": {
+      "shape": [
+        {
+          "char": "止",
+          "why": "上方有完整止",
+          "difference": "歲下方另有九筆；止單獨四筆。"
+        },
+        {
+          "char": "步",
+          "why": "上方同為止",
+          "difference": "歲下部有戌形與小形；步下方是少形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "碎",
+          "why": "同音：歲、碎都讀ㄙㄨㄟˋ。",
+          "difference": "歲表示年齡或年份；碎表示破成小塊。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "年",
+          "why": "都可表示時間或年齡。",
+          "difference": "歲常用於年齡；年是一般年度單位。"
+        }
+      ],
+      "component": [
+        {
+          "char": "止",
+          "why": "部件比較：上方有完整止",
+          "difference": "歲下方另有九筆；止單獨四筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「七歲」，再依字形與句意選字。歲共十三筆，止部是前四筆；不要寫成簡化字岁。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

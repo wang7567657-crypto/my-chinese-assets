@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第12課_similar_shape_d71a26e6adbfb237",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "撥",
+    "lessonChars": [
+      "念",
+      "曲",
+      "項",
+      "浮",
+      "掌",
+      "撥",
+      "波",
+      "詩",
+      "作",
+      "首",
+      "指",
+      "伸",
+      "脖",
+      "身",
+      "體",
+      "隻",
+      "倒",
+      "肚",
+      "詠",
+      "鵝",
+      "歲",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "撥",
+    "similarChars": [
+      {
+        "char": "發",
+        "similarity": "右邊有完整發",
+        "difference": "撥左邊多扌；發單獨十二筆。"
+      },
+      {
+        "char": "拔",
+        "similarity": "左邊同為扌，右部輪廓接近",
+        "difference": "撥右邊是發；拔右邊是犮。"
+      },
+      {
+        "char": "潑",
+        "similarity": "右邊同為發",
+        "difference": "撥左邊是扌；潑左邊是氵。"
+      },
+      {
+        "char": "廢",
+        "similarity": "裡面同為發",
+        "difference": "撥左邊是扌；廢外面是广。"
+      },
+      {
+        "char": "髮",
+        "similarity": "下方同為犮形、整體筆畫繁多",
+        "difference": "撥右邊是發；髮上方是髟。"
+      },
+      {
+        "char": "跋",
+        "similarity": "右邊是犮，和發下部輪廓相近",
+        "difference": "撥左邊是扌且右部為發；跋左邊是足。"
+      }
+    ],
+    "teachingTip": "撥是十五筆繁體字；右邊是發，不要寫成拔。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_bb53b28b4915a492",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "詩",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "詩",
+    "groups": {
+      "shape": [
+        {
+          "char": "寺",
+          "why": "右邊有完整寺",
+          "difference": "詩左邊多言；寺單獨六筆。"
+        },
+        {
+          "char": "待",
+          "why": "右邊同為寺",
+          "difference": "詩左邊是言；待左邊是彳。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "師",
+          "why": "同音：詩、師都讀ㄕ。",
+          "difference": "詩是文學作品；師可指老師。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "歌",
+          "why": "詩與歌都可有節奏和情感。",
+          "difference": "詩重在文字形式；歌通常配合旋律演唱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "寺",
+          "why": "部件比較：右邊有完整寺",
+          "difference": "詩左邊多言；寺單獨六筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「這首詩」，再依字形與句意選字。左言七筆、右寺六筆；保留繁體言字旁。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

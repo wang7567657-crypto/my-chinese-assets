@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_f09b34adac641c6c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "項",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "項",
+    "groups": {
+      "shape": [
+        {
+          "char": "頁",
+          "why": "右邊有完整頁",
+          "difference": "項左邊多工；頁單獨九筆。"
+        },
+        {
+          "char": "頂",
+          "why": "右邊同為頁",
+          "difference": "項左邊是工；頂左邊是丁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "象",
+          "why": "同音：項、象都讀ㄒㄧㄤˋ。",
+          "difference": "項可指頸部或項目；象可指大象或形象。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "頸",
+          "why": "項可指頸部。",
+          "difference": "項也可指項目；頸主要指連接頭與身體的部位。"
+        }
+      ],
+      "component": [
+        {
+          "char": "頁",
+          "why": "部件比較：右邊有完整頁",
+          "difference": "項左邊多工；頁單獨九筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「曲項」，再依字形與句意選字。右頁九筆；本課「曲項」指彎著脖子。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

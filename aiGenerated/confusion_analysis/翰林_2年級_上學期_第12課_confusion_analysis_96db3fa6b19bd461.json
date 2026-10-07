@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_96db3fa6b19bd461",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "肚",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "肚",
+    "groups": {
+      "shape": [
+        {
+          "char": "土",
+          "why": "右邊有完整土",
+          "difference": "肚左邊多月形；土單獨三筆。"
+        },
+        {
+          "char": "杜",
+          "why": "右邊同為土",
+          "difference": "肚左邊是月；杜左邊是木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "度",
+          "why": "近音：肚ㄉㄨˋ、度ㄉㄨˋ，在本課讀音相同。",
+          "difference": "肚是腹部；度可指程度、測量或經過。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "腹",
+          "why": "肚與腹都指身體中段。",
+          "difference": "肚較口語；腹是較正式的說法。"
+        }
+      ],
+      "component": [
+        {
+          "char": "土",
+          "why": "部件比較：右邊有完整土",
+          "difference": "肚左邊多月形；土單獨三筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「肚皮」，再依字形與句意選字。左月形是肉部四筆；本課肚讀ㄉㄨˋ。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

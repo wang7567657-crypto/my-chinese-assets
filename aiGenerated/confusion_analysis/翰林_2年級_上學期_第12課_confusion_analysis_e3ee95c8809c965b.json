@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_e3ee95c8809c965b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "翻",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "翻",
+    "groups": {
+      "shape": [
+        {
+          "char": "番",
+          "why": "左邊有完整番",
+          "difference": "翻右邊多羽；番單獨十二筆。"
+        },
+        {
+          "char": "羽",
+          "why": "右邊有完整羽",
+          "difference": "翻左邊多番；羽單獨六筆。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "帆",
+          "why": "同音：翻、帆都讀ㄈㄢ。",
+          "difference": "翻表示翻轉；帆是船上受風的布。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "轉",
+          "why": "都可表示改變方向。",
+          "difference": "翻常指上下或內外顛倒；轉可指各種方向旋轉。"
+        }
+      ],
+      "component": [
+        {
+          "char": "番",
+          "why": "部件比較：左邊有完整番",
+          "difference": "翻右邊多羽；番單獨十二筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「翻跟頭」，再依字形與句意選字。左番十二筆、右羽六筆；不要和播混寫。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

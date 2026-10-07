@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第12課_confusion_analysis_d95f9462c275f37c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "首",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "首",
+    "groups": {
+      "shape": [
+        {
+          "char": "自",
+          "why": "下半輪廓近似自",
+          "difference": "首上方多兩點一橫；自單獨六筆。"
+        },
+        {
+          "char": "百",
+          "why": "下方都有白形輪廓",
+          "difference": "首頂端有兩點並含自形；百上方只有一橫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "手",
+          "why": "同音：首、手都讀ㄕㄡˇ。",
+          "difference": "首可指頭、第一或量詞；手是肢體部位。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "篇",
+          "why": "都可作詩文的量詞。",
+          "difference": "首常計算詩歌；篇可計算文章或完整作品。"
+        }
+      ],
+      "component": [
+        {
+          "char": "自",
+          "why": "部件比較：下半輪廓近似自",
+          "difference": "首上方多兩點一橫；自單獨六筆。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「這首詩」，再依字形與句意選字。首部涵蓋全字；本課作量詞，不是頭部意思。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

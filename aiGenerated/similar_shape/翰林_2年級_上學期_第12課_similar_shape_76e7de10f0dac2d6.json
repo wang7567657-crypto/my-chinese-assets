@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第12課_similar_shape_76e7de10f0dac2d6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "念",
+    "lessonChars": [
+      "念",
+      "曲",
+      "項",
+      "浮",
+      "掌",
+      "撥",
+      "波",
+      "詩",
+      "作",
+      "首",
+      "指",
+      "伸",
+      "脖",
+      "身",
+      "體",
+      "隻",
+      "倒",
+      "肚",
+      "詠",
+      "鵝",
+      "歲",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "念",
+    "similarChars": [
+      {
+        "char": "今",
+        "similarity": "上方有完整今",
+        "difference": "念下方多心；今單獨四筆。"
+      },
+      {
+        "char": "含",
+        "similarity": "上方都有今形",
+        "difference": "念下方是心；含下方是口。"
+      },
+      {
+        "char": "貪",
+        "similarity": "上方都有今形",
+        "difference": "念下方是心；貪下方是貝。"
+      },
+      {
+        "char": "唸",
+        "similarity": "右邊是完整念",
+        "difference": "唸是口加念；本課使用八筆的「念」。"
+      },
+      {
+        "char": "想",
+        "similarity": "下方同為心",
+        "difference": "念上方是今；想上方是相。"
+      },
+      {
+        "char": "急",
+        "similarity": "下方同為心",
+        "difference": "念上方是今；急上方是刍形。"
+      }
+    ],
+    "teachingTip": "先辨上方今與下方心，共八筆；聯想不是字源。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}

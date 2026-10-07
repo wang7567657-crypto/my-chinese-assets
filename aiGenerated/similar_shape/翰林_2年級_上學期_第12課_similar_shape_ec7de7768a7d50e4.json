@@ -1,0 +1,78 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第12課_similar_shape_ec7de7768a7d50e4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "伸",
+    "lessonChars": [
+      "念",
+      "曲",
+      "項",
+      "浮",
+      "掌",
+      "撥",
+      "波",
+      "詩",
+      "作",
+      "首",
+      "指",
+      "伸",
+      "脖",
+      "身",
+      "體",
+      "隻",
+      "倒",
+      "肚",
+      "詠",
+      "鵝",
+      "歲",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "伸",
+    "similarChars": [
+      {
+        "char": "申",
+        "similarity": "右邊有完整申",
+        "difference": "伸左邊多亻；申單獨五筆。"
+      },
+      {
+        "char": "神",
+        "similarity": "右邊同為申",
+        "difference": "伸左邊是亻；神左邊是礻。"
+      },
+      {
+        "char": "紳",
+        "similarity": "右邊同為申",
+        "difference": "伸左邊是亻；紳左邊是糹。"
+      },
+      {
+        "char": "呻",
+        "similarity": "右邊同為申",
+        "difference": "伸左邊是亻；呻左邊是口。"
+      },
+      {
+        "char": "暢",
+        "similarity": "左邊有申形",
+        "difference": "伸右邊只有申；暢右部另有昜形筆畫。"
+      },
+      {
+        "char": "仲",
+        "similarity": "都是左亻右直豎部件",
+        "difference": "伸右邊是申；仲右邊是中。"
+      }
+    ],
+    "teachingTip": "左亻兩筆、右申五筆；中豎穿過日形。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T05:10:03.290Z"
+}
