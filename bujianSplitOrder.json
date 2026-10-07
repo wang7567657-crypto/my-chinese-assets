@@ -11622,9 +11622,916 @@
         "radicalReferenceUrl": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=23928&la=0&powerMode=0"
       },
       "updatedAt": "2026-10-07T01:08:27.067Z"
+    },
+    "黃": {
+      "structure": "獨體",
+      "split": [
+        12
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      ],
+      "components": [
+        "黃"
+      ],
+      "strokeCount": 12,
+      "radical": "黃",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "字為獨體字且部首涵蓋全字；僅保留一組，不硬拆或漏筆。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/9ec3.xml",
+        "radicalReferenceUrl": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=20984"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "沖": {
+      "structure": "左右",
+      "split": [
+        3,
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "components": [
+        "氵",
+        "其餘部分"
+      ],
+      "strokeCount": 7,
+      "radical": "水",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6c96.xml"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "蘿": {
+      "structure": "上下",
+      "split": [
+        4,
+        19
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ],
+      "components": [
+        "艹",
+        "其餘部分"
+      ],
+      "strokeCount": 23,
+      "radical": "艸",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/863f.xml",
+        "radicalReferenceUrl": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=15425&la=0&powerMode=0"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "蔔": {
+      "structure": "上下",
+      "split": [
+        4,
+        11
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      ],
+      "components": [
+        "艹",
+        "其餘部分"
+      ],
+      "strokeCount": 15,
+      "radical": "艸",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/8514.xml"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "哪": {
+      "structure": "左右",
+      "split": [
+        3,
+        7
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "components": [
+        "口",
+        "其餘部分"
+      ],
+      "strokeCount": 10,
+      "radical": "口",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/54ea.xml",
+        "radicalReferenceUrl": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=12179&la=0&powerMode=0"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "粒": {
+      "structure": "左右",
+      "split": [
+        6,
+        5
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "米",
+        "其餘部分"
+      ],
+      "strokeCount": 11,
+      "radical": "米",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7c92.xml"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "熱": {
+      "structure": "上下",
+      "split": [
+        4,
+        11
+      ],
+      "strokeGroups": [
+        [
+          12,
+          13,
+          14,
+          15
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "灬",
+        "其餘部分"
+      ],
+      "strokeCount": 15,
+      "radical": "火",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/71b1.xml",
+        "radicalReferenceUrl": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=35919&la=0&powerMode=0"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "浴": {
+      "structure": "左右",
+      "split": [
+        3,
+        7
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "components": [
+        "氵",
+        "其餘部分"
+      ],
+      "strokeCount": 10,
+      "radical": "水",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6d74.xml"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "蒸": {
+      "structure": "上下",
+      "split": [
+        4,
+        10
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      ],
+      "components": [
+        "艹",
+        "其餘部分"
+      ],
+      "strokeCount": 14,
+      "radical": "艸",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/84b8.xml"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "胖": {
+      "structure": "左右",
+      "split": [
+        4,
+        5
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "components": [
+        "月形",
+        "其餘部分"
+      ],
+      "strokeCount": 9,
+      "radical": "肉",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/80d6.xml"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "名": {
+      "structure": "上下",
+      "split": [
+        3,
+        3
+      ],
+      "strokeGroups": [
+        [
+          4,
+          5,
+          6
+        ],
+        [
+          1,
+          2,
+          3
+        ]
+      ],
+      "components": [
+        "口",
+        "其餘部分"
+      ],
+      "strokeCount": 6,
+      "radical": "口",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        4,
+        5,
+        6
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/540d.xml"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "苔": {
+      "structure": "上下",
+      "split": [
+        4,
+        5
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "components": [
+        "艹",
+        "其餘部分"
+      ],
+      "strokeCount": 9,
+      "radical": "艸",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/82d4.xml"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "蛋": {
+      "structure": "上下",
+      "split": [
+        6,
+        5
+      ],
+      "strokeGroups": [
+        [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "components": [
+        "虫",
+        "其餘部分"
+      ],
+      "strokeCount": 11,
+      "radical": "虫",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/86cb.xml"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "蔬": {
+      "structure": "上下",
+      "split": [
+        4,
+        11
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      ],
+      "components": [
+        "艹",
+        "其餘部分"
+      ],
+      "strokeCount": 15,
+      "radical": "艸",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/852c.xml"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "通": {
+      "structure": "左下包圍",
+      "split": [
+        3,
+        8
+      ],
+      "strokeGroups": [
+        [
+          9,
+          10,
+          11
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      ],
+      "components": [
+        "辶",
+        "其餘部分"
+      ],
+      "strokeCount": 11,
+      "radical": "辵",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        9,
+        10,
+        11
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/901a.xml",
+        "radicalReferenceUrl": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=11861&la=0&powerMode=0"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "細": {
+      "structure": "左右",
+      "split": [
+        6,
+        5
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "糹",
+        "其餘部分"
+      ],
+      "strokeCount": 11,
+      "radical": "糸",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7d30.xml"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "淡": {
+      "structure": "左右",
+      "split": [
+        3,
+        8
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "氵",
+        "其餘部分"
+      ],
+      "strokeCount": 11,
+      "radical": "水",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6de1.xml"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "黏": {
+      "structure": "左右",
+      "split": [
+        12,
+        5
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        [
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      ],
+      "components": [
+        "黍",
+        "其餘部分"
+      ],
+      "strokeCount": 17,
+      "radical": "黍",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/9ecf.xml",
+        "radicalReferenceUrl": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=12839&la=0&powerMode=0"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
+    },
+    "飄": {
+      "structure": "左右",
+      "split": [
+        9,
+        11
+      ],
+      "strokeGroups": [
+        [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "風",
+        "其餘部分"
+      ],
+      "strokeCount": 20,
+      "radical": "風",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+      "verification": {
+        "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；將部首藍色、其餘橘色渲染後逐字視覺核對。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/98c4.xml",
+        "radicalReferenceUrl": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=3084&la=0&powerMode=0"
+      },
+      "updatedAt": "2026-10-07T02:12:59.158Z"
     }
   },
   "description": "陽光智慧黑板部件拆分字典。只有 verified=true 的資料可用於教學分色與部件拼貼。",
   "version": "1.0",
-  "updatedAt": "2026-10-07T01:08:27.067Z"
+  "updatedAt": "2026-10-07T02:12:59.158Z"
 }

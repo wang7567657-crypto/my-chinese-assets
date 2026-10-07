@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第9課_similar_shape_79d69209e142e6f5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "黏",
+    "lessonChars": [
+      "黃",
+      "沖",
+      "澡",
+      "蘿",
+      "蔔",
+      "哪",
+      "粒",
+      "熱",
+      "浴",
+      "蒸",
+      "胖",
+      "名",
+      "苔",
+      "蛋",
+      "蔬",
+      "通",
+      "細",
+      "淡",
+      "黏",
+      "飄"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "黏",
+    "similarChars": [
+      {
+        "char": "粘",
+        "similarity": "右邊都有占",
+        "difference": "黏左為黍；粘左為米。粘可通黏，但本課用標準字黏。"
+      },
+      {
+        "char": "占",
+        "similarity": "右邊有完整占字",
+        "difference": "黏左邊多黍；占單獨成字。"
+      },
+      {
+        "char": "點",
+        "similarity": "右邊都有占",
+        "difference": "黏左為黍；點左為黑。"
+      },
+      {
+        "char": "站",
+        "similarity": "右邊都有占",
+        "difference": "黏左為黍；站左為立。"
+      },
+      {
+        "char": "貼",
+        "similarity": "右邊都有占",
+        "difference": "黏左為黍；貼左為貝。"
+      },
+      {
+        "char": "沾",
+        "similarity": "右邊都有占",
+        "difference": "黏左為黍；沾左為氵。"
+      }
+    ],
+    "teachingTip": "黏左邊是十二筆黍，不是六筆米；右邊上卜下口。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

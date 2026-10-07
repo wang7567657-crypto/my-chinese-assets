@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第9課_similar_shape_6720cba3e174045f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "熱",
+    "lessonChars": [
+      "黃",
+      "沖",
+      "澡",
+      "蘿",
+      "蔔",
+      "哪",
+      "粒",
+      "熱",
+      "浴",
+      "蒸",
+      "胖",
+      "名",
+      "苔",
+      "蛋",
+      "蔬",
+      "通",
+      "細",
+      "淡",
+      "黏",
+      "飄"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "熱",
+    "similarChars": [
+      {
+        "char": "熟",
+        "similarity": "下方都有灬，上部右側都有丸形",
+        "difference": "熱上部左邊是埶形；熟上部是孰。"
+      },
+      {
+        "char": "勢",
+        "similarity": "上方有完整埶形",
+        "difference": "熱下方是灬；勢下方是力。"
+      },
+      {
+        "char": "墊",
+        "similarity": "上方有執形且整體上下排列",
+        "difference": "熱下方灬；墊下方土，上部細節不同。"
+      },
+      {
+        "char": "摯",
+        "similarity": "上方有執形",
+        "difference": "熱下方灬；摯下方手。"
+      },
+      {
+        "char": "藝",
+        "similarity": "中部有埶形",
+        "difference": "熱是上埶形下灬；藝上艹、下部還有云形。"
+      },
+      {
+        "char": "然",
+        "similarity": "下方都有灬",
+        "difference": "熱上方為埶形；然上方左月形、右犬形。"
+      }
+    ],
+    "teachingTip": "熱的部首火寫成下方灬四點；四點都要保留。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

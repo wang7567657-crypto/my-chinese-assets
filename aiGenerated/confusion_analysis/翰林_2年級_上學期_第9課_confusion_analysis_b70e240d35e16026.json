@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_b70e240d35e16026",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "飄",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "飄",
+    "groups": {
+      "shape": [
+        {
+          "char": "票",
+          "why": "左邊有完整票字",
+          "difference": "飄右邊多風；票單獨成字。"
+        },
+        {
+          "char": "漂",
+          "why": "右邊都有票",
+          "difference": "飄左票右風；漂左氵右票。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "漂",
+          "why": "在「漂流」中與飄同音ㄆㄧㄠ；「漂亮」的漂另讀ㄆㄧㄠˋ。",
+          "difference": "飄多表示隨風移動；漂多表示在水面移動。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "飛",
+          "why": "都有離開地面、在空中移動的情境。",
+          "difference": "飄常受風帶動、輕緩移動；飛可由自身或其他力量快速移動。"
+        }
+      ],
+      "component": [
+        {
+          "char": "票",
+          "why": "部件比較：左邊有完整票字",
+          "difference": "飄右邊多風；票單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「香氣飄出來」，再依字形與句意選字。飄右邊風有九筆；左票下方是示形，不是水。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

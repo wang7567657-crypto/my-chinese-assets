@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第9課_memory_strategy_4949a7f020955782",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "浴",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "浴",
+    "components": [
+      "氵",
+      "谷"
+    ],
+    "association": "左氵是洗澡的水，右谷保留完整，旁邊畫浴室蓮蓬頭。",
+    "mnemonic": "左氵右谷，浴室的浴。",
+    "visualPrompt": "保留標準繁體「浴」完整字形，在字旁另畫「浴室」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "浴右邊谷上方是八形，中間人形，下方口。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

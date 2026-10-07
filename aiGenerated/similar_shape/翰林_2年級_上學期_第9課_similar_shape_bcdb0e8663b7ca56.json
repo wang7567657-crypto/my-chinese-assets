@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第9課_similar_shape_bcdb0e8663b7ca56",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "哪",
+    "lessonChars": [
+      "黃",
+      "沖",
+      "澡",
+      "蘿",
+      "蔔",
+      "哪",
+      "粒",
+      "熱",
+      "浴",
+      "蒸",
+      "胖",
+      "名",
+      "苔",
+      "蛋",
+      "蔬",
+      "通",
+      "細",
+      "淡",
+      "黏",
+      "飄"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "哪",
+    "similarChars": [
+      {
+        "char": "那",
+        "similarity": "右邊有完整那字",
+        "difference": "哪左邊多口；那沒有口。"
+      },
+      {
+        "char": "娜",
+        "similarity": "右邊都有那",
+        "difference": "哪左為口；娜左為女。"
+      },
+      {
+        "char": "挪",
+        "similarity": "右邊都有那",
+        "difference": "哪左為口；挪左為扌。"
+      },
+      {
+        "char": "邵",
+        "similarity": "右邊都有阝",
+        "difference": "哪左為口、右為那；邵左為召、右為阝。"
+      },
+      {
+        "char": "阿",
+        "similarity": "右邊都有阝形",
+        "difference": "哪左為口、右為那；阿左為阝、右為可。"
+      },
+      {
+        "char": "呵",
+        "similarity": "左邊都是口",
+        "difference": "哪右為那；呵右為可。"
+      }
+    ],
+    "teachingTip": "本課「好暖哪」的哪作語氣詞，讀輕聲˙ㄋㄚ；問「哪裡」時讀ㄋㄚˇ。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

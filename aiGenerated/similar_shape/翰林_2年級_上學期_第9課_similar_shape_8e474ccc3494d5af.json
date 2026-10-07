@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第9課_similar_shape_8e474ccc3494d5af",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "澡",
+    "lessonChars": [
+      "黃",
+      "沖",
+      "澡",
+      "蘿",
+      "蔔",
+      "哪",
+      "粒",
+      "熱",
+      "浴",
+      "蒸",
+      "胖",
+      "名",
+      "苔",
+      "蛋",
+      "蔬",
+      "通",
+      "細",
+      "淡",
+      "黏",
+      "飄"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "澡",
+    "similarChars": [
+      {
+        "char": "噪",
+        "similarity": "右邊都有喿",
+        "difference": "澡左為氵；噪左為口。"
+      },
+      {
+        "char": "躁",
+        "similarity": "右邊都有喿",
+        "difference": "澡左為氵；躁左為足字旁。"
+      },
+      {
+        "char": "燥",
+        "similarity": "右邊都有喿",
+        "difference": "澡左為氵；燥左為火。"
+      },
+      {
+        "char": "操",
+        "similarity": "右邊都有喿",
+        "difference": "澡左為氵；操左為扌。"
+      },
+      {
+        "char": "藻",
+        "similarity": "下方右部有喿",
+        "difference": "澡左氵右喿；藻上艹、下左氵右喿。"
+      },
+      {
+        "char": "譟",
+        "similarity": "右邊都有喿",
+        "difference": "譟是較少見字，左為言；澡左為氵。"
+      }
+    ],
+    "teachingTip": "澡右上有三個口，下面是木；不要把左氵寫成火。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

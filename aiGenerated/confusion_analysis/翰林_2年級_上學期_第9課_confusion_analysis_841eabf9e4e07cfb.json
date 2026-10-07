@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_841eabf9e4e07cfb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "淡",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "淡",
+    "groups": {
+      "shape": [
+        {
+          "char": "炎",
+          "why": "右邊有完整炎字",
+          "difference": "淡左邊多氵；炎單獨成字。"
+        },
+        {
+          "char": "談",
+          "why": "右邊都有炎",
+          "difference": "淡左為氵；談左為言。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蛋",
+          "why": "同音，都讀ㄉㄢˋ。",
+          "difference": "淡表示味道、顏色或程度不濃；蛋是食物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "濃",
+          "why": "表示味道或顏色時意義相對。",
+          "difference": "淡表示不濃；濃表示成分多、顏色深或味道重。"
+        }
+      ],
+      "component": [
+        {
+          "char": "炎",
+          "why": "部件比較：右邊有完整炎字",
+          "difference": "淡左邊多氵；炎單獨成字。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「淡淡」，再依字形與句意選字。淡右邊是兩個火上下疊；左邊是氵。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

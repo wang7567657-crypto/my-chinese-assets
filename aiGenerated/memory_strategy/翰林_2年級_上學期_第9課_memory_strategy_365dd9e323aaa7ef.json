@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_2年級_上學期_第9課_memory_strategy_365dd9e323aaa7ef",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "苔",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "苔",
+    "components": [
+      "艹",
+      "台"
+    ],
+    "association": "上艹表示植物，下台保持完整；旁邊畫海苔。",
+    "mnemonic": "上艹下台，海苔的苔。",
+    "visualPrompt": "保留標準繁體「苔」完整字形，在字旁另畫「海苔」的簡單情境圖。不得把筆畫換成圖案、增刪筆畫或改變部件位置。",
+    "teachingTip": "本課海苔讀ㄊㄞˊ；不要把艹漏掉寫成台。 這是教學聯想，不是字源解釋；先看完整字，再指部件，最後合起來讀。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

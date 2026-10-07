@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_8597b83c6c34c012",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "熱",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "熱",
+    "groups": {
+      "shape": [
+        {
+          "char": "熟",
+          "why": "下方都有灬，上部右側都有丸形",
+          "difference": "熱上部左邊是埶形；熟上部是孰。"
+        },
+        {
+          "char": "勢",
+          "why": "上方有完整埶形",
+          "difference": "熱下方是灬；勢下方是力。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "惹",
+          "why": "近音，熱ㄖㄜˋ、惹ㄖㄜˇ，聲調不同。",
+          "difference": "熱表示溫度高；惹可指招引，如惹麻煩。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "冷",
+          "why": "溫度意義相對。",
+          "difference": "熱表示溫度高；冷表示溫度低。"
+        }
+      ],
+      "component": [
+        {
+          "char": "熟",
+          "why": "部件比較：下方都有灬，上部右側都有丸形",
+          "difference": "熱上部左邊是埶形；熟上部是孰。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「發熱」，再依字形與句意選字。熱的部首火寫成下方灬四點；四點都要保留。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

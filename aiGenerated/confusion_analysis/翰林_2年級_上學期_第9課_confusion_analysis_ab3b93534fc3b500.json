@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_2年級_上學期_第9課_confusion_analysis_ab3b93534fc3b500",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "澡",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "澡",
+    "groups": {
+      "shape": [
+        {
+          "char": "噪",
+          "why": "右邊都有喿",
+          "difference": "澡左為氵；噪左為口。"
+        },
+        {
+          "char": "躁",
+          "why": "右邊都有喿",
+          "difference": "澡左為氵；躁左為足字旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "早",
+          "why": "近音，澡ㄗㄠˇ、早ㄗㄠˇ，讀音相同。",
+          "difference": "澡和清潔有關；早表示時間。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "洗",
+          "why": "都和清潔身體有關。",
+          "difference": "澡通常指洗澡；洗可以洗手、洗衣或洗澡。"
+        }
+      ],
+      "component": [
+        {
+          "char": "噪",
+          "why": "部件比較：右邊都有喿",
+          "difference": "澡左為氵；噪左為口。"
+        }
+      ]
+    },
+    "tip": "先讀課文詞語「沖澡」，再依字形與句意選字。澡右上有三個口，下面是木；不要把左氵寫成火。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}

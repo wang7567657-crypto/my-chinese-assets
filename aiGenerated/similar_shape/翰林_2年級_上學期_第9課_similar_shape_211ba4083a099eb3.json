@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_2年級_上學期_第9課_similar_shape_211ba4083a099eb3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "蘿",
+    "lessonChars": [
+      "黃",
+      "沖",
+      "澡",
+      "蘿",
+      "蔔",
+      "哪",
+      "粒",
+      "熱",
+      "浴",
+      "蒸",
+      "胖",
+      "名",
+      "苔",
+      "蛋",
+      "蔬",
+      "通",
+      "細",
+      "淡",
+      "黏",
+      "飄"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "翰林",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "蘿",
+    "similarChars": [
+      {
+        "char": "羅",
+        "similarity": "下方有完整羅形",
+        "difference": "蘿上方多艹；羅沒有艹。"
+      },
+      {
+        "char": "囉",
+        "similarity": "右邊都有羅",
+        "difference": "蘿上艹下羅；囉左口右羅。"
+      },
+      {
+        "char": "鑼",
+        "similarity": "右邊都有羅",
+        "difference": "蘿上艹下羅；鑼左金右羅。"
+      },
+      {
+        "char": "籮",
+        "similarity": "下方有羅形",
+        "difference": "蘿上方是艹；籮上方是竹字頭。"
+      },
+      {
+        "char": "邏",
+        "similarity": "都有羅形",
+        "difference": "蘿上艹下羅；邏是羅外加辶。"
+      },
+      {
+        "char": "蔓",
+        "similarity": "上方都有艹且下部有罒形",
+        "difference": "蘿下為羅，有糹與隹；蔓下為曼，最下是又。"
+      }
+    ],
+    "teachingTip": "蘿下方是羅：上罒、中糹、下隹；筆畫多要分層看。 每次先比較兩字，依共用部件與差異選字；少見字與異體字僅作辨識，不要求二年級學生默寫。"
+  },
+  "createdAt": "2026-10-07T02:12:59.158Z"
+}
