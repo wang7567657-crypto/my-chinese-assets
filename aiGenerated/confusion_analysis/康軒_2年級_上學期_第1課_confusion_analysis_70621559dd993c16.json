@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_70621559dd993c16",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "力",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "力",
+    "groups": {
+      "shape": [
+        {
+          "char": "刀",
+          "why": "都是兩筆，含橫折鉤與撇。",
+          "difference": "力的撇由較上方起筆並穿過折鉤上橫；刀的撇在橫的下方起筆。"
+        },
+        {
+          "char": "九",
+          "why": "都有撇和帶鉤的轉折。",
+          "difference": "九的第二筆向右彎後上鉤；力是折下後向內鉤，輪廓不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "立",
+          "why": "力、立同讀ㄌㄧˋ。",
+          "difference": "用力是出力；站立是姿勢，不能寫成立的力。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "勁",
+          "why": "都有力量的意思。",
+          "difference": "力可用於用力；勁可用於使勁，兩個詞相近，但不要把用力的字形寫成勁。"
+        }
+      ],
+      "component": [
+        {
+          "char": "加",
+          "why": "加左邊含完整的力。",
+          "difference": "力右邊沒有口；加是在力右邊加口的另一字。"
+        }
+      ]
+    },
+    "tip": "把用力配動作，但書寫時回到兩筆的力，注意撇的位置。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_bdf1ee6a22cfc50b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "坐",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "坐",
+    "groups": {
+      "shape": [
+        {
+          "char": "座",
+          "why": "字內保留坐的兩個人形與下方土。",
+          "difference": "座在坐外面加广（廣字頭）。"
+        },
+        {
+          "char": "挫",
+          "why": "字內保留坐的兩個人形與下方土。",
+          "difference": "挫左邊加扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "做",
+          "why": "坐、做同讀ㄗㄨㄛˋ。",
+          "difference": "坐下是姿勢；做事是進行事情，不能寫做下。"
+        },
+        {
+          "char": "座",
+          "why": "坐、座同讀ㄗㄨㄛˋ。",
+          "difference": "坐是動作；座位的座指位置或座席，字外多广（廣字頭）。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "站",
+          "why": "都表示身體姿勢。",
+          "difference": "坐通常臀部靠著座面；站是身體直立，動作不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "座",
+          "why": "座內含完整的坐。",
+          "difference": "坐不加广（廣字頭）；座外加广（廣字頭），用於座位。"
+        }
+      ]
+    },
+    "tip": "用「我坐在座位上」一口氣比較坐與座，邊讀邊指動作和座位。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

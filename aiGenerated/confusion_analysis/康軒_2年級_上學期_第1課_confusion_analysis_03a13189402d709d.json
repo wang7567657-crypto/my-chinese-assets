@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_03a13189402d709d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "聲",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "聲",
+    "groups": {
+      "shape": [
+        {
+          "char": "馨",
+          "why": "上半部與聲相同。",
+          "difference": "馨下方是香；聲下方是耳。"
+        },
+        {
+          "char": "磬",
+          "why": "上半部與聲相同。",
+          "difference": "磬下方是石；聲下方是耳。磬是較少見的樂器用字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "生",
+          "why": "聲、生同讀ㄕㄥ。",
+          "difference": "聲音用聲；學生用生，不能省略聲的部件變成生。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "音",
+          "why": "聲音是常用詞，兩字都與聽覺有關。",
+          "difference": "聲可組成大聲、笑聲；音可組成音樂、讀音，不能把大聲改成大音。"
+        }
+      ],
+      "component": [
+        {
+          "char": "耳",
+          "why": "聲最下方是耳。",
+          "difference": "聲上方還有其他部件，不能只寫耳；也不要把底部寫成香而變馨。"
+        }
+      ]
+    },
+    "tip": "從字的最下方檢查耳，再用大聲、小聲兩個詞練習。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第1課_memory_strategy_561742d870738061",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "老",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "老",
+    "components": [
+      "耂",
+      "匕"
+    ],
+    "association": "畫一位長輩在「老」旁邊，提醒自己這是老師的老。",
+    "mnemonic": "老字下方像匕形，老師的老要認清。",
+    "visualPrompt": "以清楚的臺灣正體「老」為主，保持標準筆畫與部件位置。畫一位長輩在「老」旁邊，提醒自己這是老師的老。插圖放在字旁，不替換筆畫、不把圖塞進字裡。",
+    "teachingTip": "比較老與考的下方，不把老下方寫成考的折形；聯想不表示匕是老人的物品。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

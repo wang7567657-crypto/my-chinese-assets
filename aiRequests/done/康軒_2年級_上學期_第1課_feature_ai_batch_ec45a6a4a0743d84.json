@@ -1,0 +1,308 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_2年級_上學期_第1課_feature_ai_batch_ec45a6a4a0743d84",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 20,
+    "batchCharacters": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "items": [
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_c7841cc5df422b78",
+        "input": {
+          "char": "年",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_1c244370b8933da8",
+        "input": {
+          "char": "希",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_742930da66942e70",
+        "input": {
+          "char": "望",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_3969e6217ce825a5",
+        "input": {
+          "char": "坐",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_1690fd7c83c3e834",
+        "input": {
+          "char": "位",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_fa298ae02edc8fea",
+        "input": {
+          "char": "本",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_38145ef83b9dcd13",
+        "input": {
+          "char": "淡",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_1d159b6472f82741",
+        "input": {
+          "char": "書",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_561742d870738061",
+        "input": {
+          "char": "老",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_3f79897057fa050c",
+        "input": {
+          "char": "師",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_a4943b224b797be7",
+        "input": {
+          "char": "以",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_31015b969169c3c4",
+        "input": {
+          "char": "為",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_1c38dfb9deb41e1f",
+        "input": {
+          "char": "故",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_fcfa7a2905657716",
+        "input": {
+          "char": "用",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_660837e4482694cd",
+        "input": {
+          "char": "力",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_29261006dca1212f",
+        "input": {
+          "char": "只",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_935aed51516f2547",
+        "input": {
+          "char": "現",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_aabce524f8a4c500",
+        "input": {
+          "char": "還",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_c3e31d86d68e8121",
+        "input": {
+          "char": "聲",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_2年級_上學期_第1課_memory_strategy_e6c233899601df92",
+        "input": {
+          "char": "矮",
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z",
+  "processedAt": "2026-10-07T04:25:37.246172Z",
+  "output": {
+    "status": "done",
+    "completedCount": 20,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_c7841cc5df422b78.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_1c244370b8933da8.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_742930da66942e70.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_3969e6217ce825a5.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_1690fd7c83c3e834.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_fa298ae02edc8fea.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_38145ef83b9dcd13.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_1d159b6472f82741.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_561742d870738061.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_3f79897057fa050c.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_a4943b224b797be7.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_31015b969169c3c4.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_1c38dfb9deb41e1f.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_fcfa7a2905657716.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_660837e4482694cd.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_29261006dca1212f.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_935aed51516f2547.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_aabce524f8a4c500.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_c3e31d86d68e8121.json",
+      "aiGenerated/memory_strategy/康軒_2年級_上學期_第1課_memory_strategy_e6c233899601df92.json"
+    ]
+  }
+}

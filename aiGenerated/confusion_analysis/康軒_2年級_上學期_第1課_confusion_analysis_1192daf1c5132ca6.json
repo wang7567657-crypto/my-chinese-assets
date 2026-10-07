@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_1192daf1c5132ca6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "書",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "書",
+    "groups": {
+      "shape": [
+        {
+          "char": "晝",
+          "why": "上半都含聿形，下半都有扁框和框內橫筆。",
+          "difference": "晝下方有扁框再加一橫的構形；書下方是曰形，沒有最底下那道橫。"
+        },
+        {
+          "char": "畫",
+          "why": "上半都含聿形，下方都有方框。",
+          "difference": "畫下方框內有直筆且底下有橫；書下方是曰形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "輸",
+          "why": "書、輸同讀ㄕㄨ。",
+          "difference": "書本用書；輸贏用輸，字形與意思不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "字",
+          "why": "都與閱讀書寫有關。",
+          "difference": "書是可閱讀的書籍；字是書頁上的文字單位，一本書裡有很多字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "聿",
+          "why": "書上半有聿形。",
+          "difference": "書下方還有曰形；聿或筆的下半都不能直接取代完整的書。"
+        }
+      ]
+    },
+    "tip": "寫完書後檢查下方是曰形，沒有多出晝的底橫。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

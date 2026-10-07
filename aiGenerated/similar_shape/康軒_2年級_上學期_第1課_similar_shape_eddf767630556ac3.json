@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第1課_similar_shape_eddf767630556ac3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "書",
+    "lessonChars": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "書",
+    "similarChars": [
+      {
+        "char": "晝",
+        "similarity": "上半都含聿形，下半都有扁框和框內橫筆。",
+        "difference": "晝下方有扁框再加一橫的構形；書下方是曰形，沒有最底下那道橫。"
+      },
+      {
+        "char": "畫",
+        "similarity": "上半都含聿形，下方都有方框。",
+        "difference": "畫下方框內有直筆且底下有橫；書下方是曰形。"
+      },
+      {
+        "char": "聿",
+        "similarity": "書的上方含聿形。",
+        "difference": "聿下方沒有書的曰形。"
+      },
+      {
+        "char": "筆",
+        "similarity": "都有聿形及多道橫畫。",
+        "difference": "筆上方是竹字頭，下方是聿；書上方是聿形，下方是曰形。"
+      },
+      {
+        "char": "曹",
+        "similarity": "兩字下方都有曰形，上方都有橫豎密集的部件。",
+        "difference": "曹上方有並列直筆與框形；書上方是聿形。"
+      },
+      {
+        "char": "署",
+        "similarity": "兩字下方都有帶內橫的框形，整體上下堆疊。",
+        "difference": "署上面是罒，下面是者；書上方是聿形，下方是曰形。"
+      }
+    ],
+    "teachingTip": "優先比較書、晝、畫：圈出最下方，辨識曰形、框內直筆和額外底橫。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

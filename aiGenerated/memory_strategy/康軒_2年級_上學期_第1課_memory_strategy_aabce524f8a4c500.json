@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第1課_memory_strategy_aabce524f8a4c500",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "還",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "還",
+    "components": [
+      "辶",
+      "右上罒形",
+      "右下其餘部分"
+    ],
+    "association": "在字旁畫「還要讀書」的下一本書，用箭頭連起先後次序。",
+    "mnemonic": "先看右邊多層形，走之旁把它接。",
+    "visualPrompt": "以清楚的臺灣正體「還」為主，保持標準筆畫與部件位置。在字旁畫「還要讀書」的下一本書，用箭頭連起先後次序。插圖放在字旁，不替換筆畫、不把圖塞進字裡。",
+    "teachingTip": "右側較複雜，先看上方罒，再逐層描寫；課文還要讀ㄏㄞˊ，不與歸還ㄏㄨㄢˊ混淆。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

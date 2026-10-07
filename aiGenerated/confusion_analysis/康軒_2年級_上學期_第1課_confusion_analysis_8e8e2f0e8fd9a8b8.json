@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_8e8e2f0e8fd9a8b8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "年",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "年",
+    "groups": {
+      "shape": [
+        {
+          "char": "午",
+          "why": "都有上方短撇、橫畫和向下直筆。",
+          "difference": "午的橫畫較少，下半沒有年的短豎與橫畫組合。"
+        },
+        {
+          "char": "牛",
+          "why": "都有短撇、橫畫和中央直筆。",
+          "difference": "牛的直筆向上穿出上橫；年上半與下半的交接、橫畫配置不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "黏",
+          "why": "年和黏同讀ㄋㄧㄢˊ。",
+          "difference": "年用在新學年；黏用在黏住，不可因同音換字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "歲",
+          "why": "都能談時間或年齡。",
+          "difference": "新學年說學習年度；幾歲說年齡，不能把新學年改成新學歲。"
+        }
+      ],
+      "component": [
+        {
+          "char": "午",
+          "why": "都有短撇、橫與直筆。",
+          "difference": "年中間還有短豎及較多橫畫；午不能當成年省略筆畫的寫法。"
+        }
+      ]
+    },
+    "tip": "讀新學年時圈出年，再與午比較中間多出的筆畫。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

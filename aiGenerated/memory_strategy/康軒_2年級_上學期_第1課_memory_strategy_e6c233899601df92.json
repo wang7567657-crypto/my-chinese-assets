@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_2年級_上學期_第1課_memory_strategy_e6c233899601df92",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "矮",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "矮",
+    "components": [
+      "矢",
+      "委"
+    ],
+    "association": "在字旁畫一高一矮的兩個人，字內仍保持左矢右委。",
+    "mnemonic": "左邊矢，右邊委；比較身高認識矮。",
+    "visualPrompt": "以清楚的臺灣正體「矮」為主，保持標準筆畫與部件位置。在字旁畫一高一矮的兩個人，字內仍保持左矢右委。插圖放在字旁，不替換筆畫、不把圖塞進字裡。",
+    "teachingTip": "右側委是禾在女上面；左邊矢不是失，指出短橫位置。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

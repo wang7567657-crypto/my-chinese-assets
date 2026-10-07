@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_c0830d40698de0b9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "以",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "以",
+    "groups": {
+      "shape": [
+        {
+          "char": "似",
+          "why": "字內保留以的斜筆、點與人形組合。",
+          "difference": "似左邊多亻，右邊是以。"
+        },
+        {
+          "char": "姒",
+          "why": "字內保留以的斜筆、點與人形組合。",
+          "difference": "姒左邊多女；姒是較少見的字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "已",
+          "why": "以、已同讀ㄧˇ。",
+          "difference": "以前用以；已經用已，兩字同音但字形與詞語不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "前",
+          "why": "以前表示比現在或某個時間早。",
+          "difference": "以前是完整的時間詞；前還能表示前面等位置。說以前時，不可因只記得前就漏寫以。"
+        }
+      ],
+      "component": [
+        {
+          "char": "似",
+          "why": "似右半是以。",
+          "difference": "以沒有似左邊的亻，不能多加人字旁。"
+        }
+      ]
+    },
+    "tip": "讀課文的以前，與已經比較；以前的以不寫成已。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

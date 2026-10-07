@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_79ffe04cf7c03fbe",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "現",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "現",
+    "groups": {
+      "shape": [
+        {
+          "char": "規",
+          "why": "右邊同為見。",
+          "difference": "規左邊是夫；現左邊是王旁。"
+        },
+        {
+          "char": "視",
+          "why": "右邊同為見。",
+          "difference": "視左邊是礻；現左邊是王旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "線",
+          "why": "現、線同讀ㄒㄧㄢˋ。",
+          "difference": "現在用現；畫線用線，部件與意思不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "今",
+          "why": "現在、今天都與眼前這段時間有關。",
+          "difference": "現在可指此刻；今天指這一天。現在是固定詞，不能把現直接改成今。"
+        }
+      ],
+      "component": [
+        {
+          "char": "見",
+          "why": "現右邊是見。",
+          "difference": "現左邊還有王旁；單獨見不是現的完整寫法。"
+        }
+      ]
+    },
+    "tip": "讀課文的現在，檢查現左邊的王字旁、右邊的見。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

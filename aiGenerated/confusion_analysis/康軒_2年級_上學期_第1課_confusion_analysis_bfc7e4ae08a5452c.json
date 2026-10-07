@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_bfc7e4ae08a5452c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "淡",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "淡",
+    "groups": {
+      "shape": [
+        {
+          "char": "談",
+          "why": "都有上下兩個火組成的炎。",
+          "difference": "談左邊是言，淡左邊是氵。"
+        },
+        {
+          "char": "痰",
+          "why": "都有上下兩個火組成的炎。",
+          "difference": "痰在炎外加疒，淡在左邊加氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蛋",
+          "why": "淡、蛋同讀ㄉㄢˋ。",
+          "difference": "淡說顏色或味道不濃；蛋是雞蛋的蛋。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "濃",
+          "why": "都是描述顏色、味道等程度的字。",
+          "difference": "淡表示不濃；濃表示程度較強，可用兩杯不同濃度的茶比較。"
+        }
+      ],
+      "component": [
+        {
+          "char": "炎",
+          "why": "淡右邊是炎，包含上下兩個火形。",
+          "difference": "淡還有左邊氵；不可漏掉三點水，寫成炎。"
+        }
+      ]
+    },
+    "tip": "先找淡左邊的水旁，再看兩個火；用深淡色卡理解意思。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

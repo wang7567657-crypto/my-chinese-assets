@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第1課_similar_shape_a228971a5b69cf0e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "師",
+    "lessonChars": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "師",
+    "similarChars": [
+      {
+        "char": "帥",
+        "similarity": "左邊相同，右邊都有巾形。",
+        "difference": "師右邊巾的上方多一橫，成帀；帥右邊只有巾。"
+      },
+      {
+        "char": "獅",
+        "similarity": "右側完整含師。",
+        "difference": "獅左邊多犭。"
+      },
+      {
+        "char": "篩",
+        "similarity": "下方完整含師。",
+        "difference": "篩上方多竹字頭。"
+      },
+      {
+        "char": "歸",
+        "similarity": "左上都有與師左邊相同的𠂤形。",
+        "difference": "歸的右側是帚形，左下另有止形；師右側是帀。"
+      },
+      {
+        "char": "追",
+        "similarity": "都含𠂤形。",
+        "difference": "追在𠂤外加辶，師在𠂤右側加帀。"
+      },
+      {
+        "char": "阜",
+        "similarity": "上部與師左邊的𠂤形相近。",
+        "difference": "阜下面是十；師右邊另有帀，沒有阜下方的十。"
+      }
+    ],
+    "teachingTip": "將師和帥並排，只圈右上方：師的巾上面還有一橫。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

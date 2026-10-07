@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第1課_similar_shape_ad4935a1ec773f84",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "希",
+    "lessonChars": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "希",
+    "similarChars": [
+      {
+        "char": "稀",
+        "similarity": "都保留希的交叉上部與下方布形。",
+        "difference": "稀左邊多了禾，希在右邊。"
+      },
+      {
+        "char": "晞",
+        "similarity": "都保留希的交叉上部與下方布形。",
+        "difference": "晞左邊多了日；晞是較少見的字。"
+      },
+      {
+        "char": "浠",
+        "similarity": "都保留希的交叉上部與下方布形。",
+        "difference": "浠左邊多了氵；浠是較少見的字。"
+      },
+      {
+        "char": "唏",
+        "similarity": "都保留希的交叉上部與下方布形。",
+        "difference": "唏左邊多了口。"
+      },
+      {
+        "char": "欷",
+        "similarity": "都保留希的交叉上部與下方布形。",
+        "difference": "欷右邊多了欠；欷較少見，常見於欷歔。"
+      },
+      {
+        "char": "布",
+        "similarity": "兩字下方都有巾，布的形狀也完整包含在希的下部。",
+        "difference": "希在布的上方另有交叉筆畫，布沒有這一層。"
+      }
+    ],
+    "teachingTip": "先找希下面的巾，再把布上方與希上方的筆畫對照；不要只憑讀音選字。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

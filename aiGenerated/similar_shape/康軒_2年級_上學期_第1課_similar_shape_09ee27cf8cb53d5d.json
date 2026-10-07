@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第1課_similar_shape_09ee27cf8cb53d5d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "力",
+    "lessonChars": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "力",
+    "similarChars": [
+      {
+        "char": "刀",
+        "similarity": "都是兩筆，含橫折鉤與撇。",
+        "difference": "力的撇由較上方起筆並穿過折鉤上橫；刀的撇在橫的下方起筆。"
+      },
+      {
+        "char": "九",
+        "similarity": "都有撇和帶鉤的轉折。",
+        "difference": "九的第二筆向右彎後上鉤；力是折下後向內鉤，輪廓不同。"
+      },
+      {
+        "char": "乃",
+        "similarity": "都有撇與向下的曲折鉤。",
+        "difference": "乃的折筆轉折較多；力的折鉤較直接。"
+      },
+      {
+        "char": "功",
+        "similarity": "右邊完整含力。",
+        "difference": "功左邊多工。"
+      },
+      {
+        "char": "加",
+        "similarity": "左邊完整含力。",
+        "difference": "加右邊多口。"
+      },
+      {
+        "char": "勤",
+        "similarity": "右邊完整含力。",
+        "difference": "勤左邊多堇，力單獨成字。"
+      }
+    ],
+    "teachingTip": "用手指指出力的撇從橫畫上方穿下來，再和刀比較。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

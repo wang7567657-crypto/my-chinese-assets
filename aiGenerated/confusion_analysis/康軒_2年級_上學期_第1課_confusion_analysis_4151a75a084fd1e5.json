@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第1課_confusion_analysis_4151a75a084fd1e5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "用",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "用",
+    "groups": {
+      "shape": [
+        {
+          "char": "甩",
+          "why": "外框與內部橫畫非常接近。",
+          "difference": "用中央直筆向下；甩中央直筆在底部向右彎鉤。"
+        },
+        {
+          "char": "月",
+          "why": "都有長框及框內橫筆。",
+          "difference": "用框內多一條中央直筆；月沒有。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "勇",
+          "why": "用讀ㄩㄥˋ，勇讀ㄩㄥˇ，聲調不同。",
+          "difference": "用力用用；勇敢用勇，不能省略勇上半部。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "使",
+          "why": "使用是常見詞。",
+          "difference": "用可以單獨接物品，如用鉛筆；使還能表示讓，如使人開心，不能隨處互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "月",
+          "why": "用與月的框形接近。",
+          "difference": "用框內有中央直筆；月沒有這條直筆。"
+        }
+      ]
+    },
+    "tip": "用力的用先看框內的直筆，再比較用、月、甩。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}

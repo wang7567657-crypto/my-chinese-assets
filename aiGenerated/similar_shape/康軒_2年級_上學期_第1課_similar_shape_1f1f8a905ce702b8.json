@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第1課_similar_shape_1f1f8a905ce702b8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "老",
+    "lessonChars": [
+      "年",
+      "希",
+      "望",
+      "坐",
+      "位",
+      "本",
+      "淡",
+      "書",
+      "老",
+      "師",
+      "以",
+      "為",
+      "故",
+      "用",
+      "力",
+      "只",
+      "現",
+      "還",
+      "聲",
+      "矮"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "老",
+    "similarChars": [
+      {
+        "char": "考",
+        "similarity": "上方都有耂的形狀。",
+        "difference": "老下方是匕形；考下方是丂形，有橫折鉤。"
+      },
+      {
+        "char": "孝",
+        "similarity": "上方都有耂形。",
+        "difference": "孝下方是子；老下方是匕形。"
+      },
+      {
+        "char": "者",
+        "similarity": "上方都有耂形。",
+        "difference": "者下方是日；老下方是匕形。"
+      },
+      {
+        "char": "耆",
+        "similarity": "耆上半完整含老。",
+        "difference": "耆在老下方另加日；耆是較少見的字。"
+      },
+      {
+        "char": "姥",
+        "similarity": "右邊保留老的完整形狀。",
+        "difference": "姥左邊多女，右邊是老；姥較少用，不能代替老師的老。"
+      },
+      {
+        "char": "佬",
+        "similarity": "右邊保留老的完整形狀。",
+        "difference": "佬左邊多亻；佬用字較少，不能代替老。"
+      }
+    ],
+    "teachingTip": "先遮住相同的上半部，只看老、考、孝下面的差異。"
+  },
+  "createdAt": "2026-10-07T04:25:37.246172Z"
+}
