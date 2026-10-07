@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_8ca596bc355d4616",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "又",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "又",
+    "groups": {
+      "shape": [
+        {
+          "char": "叉",
+          "why": "字形只差一點。",
+          "difference": "又沒有點；叉多一點。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "右",
+          "why": "同音，都是ㄧㄡˋ。",
+          "difference": "又一次用又；右邊用右。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "再",
+          "why": "都可能表示事情重複。",
+          "difference": "又一次常說事情再次發生；再試一次常表示接下來還要試。"
+        }
+      ],
+      "component": [
+        {
+          "char": "友",
+          "why": "友的下方含有又。",
+          "difference": "又上方再加橫、撇成為友。"
+        }
+      ]
+    },
+    "tip": "用「剛剛又試了」和「等一下再試」比較語境。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

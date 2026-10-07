@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_88d68d1f0afe1997",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "呼",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "呼",
+    "groups": {
+      "shape": [
+        {
+          "char": "吸",
+          "why": "都是口字旁，右邊都有撇形筆畫。",
+          "difference": "呼右邊是乎；吸右邊是及。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "乎",
+          "why": "同音，都是ㄏㄨ。",
+          "difference": "打招呼寫呼；在乎寫乎。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "喊",
+          "why": "都可以表示發出聲音。",
+          "difference": "打招呼是向人表示問候；喊通常強調大聲叫。"
+        }
+      ],
+      "component": [
+        {
+          "char": "乎",
+          "why": "呼含有乎這個部件。",
+          "difference": "乎左邊加口才是呼。"
+        }
+      ]
+    },
+    "tip": "先找左邊的口，再讀「打招呼」。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

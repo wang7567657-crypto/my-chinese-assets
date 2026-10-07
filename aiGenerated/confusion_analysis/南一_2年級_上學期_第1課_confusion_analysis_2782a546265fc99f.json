@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_2782a546265fc99f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "用",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "用",
+    "groups": {
+      "shape": [
+        {
+          "char": "月",
+          "why": "外框和裡面的橫畫相近。",
+          "difference": "用裡面還有一豎；月沒有這一豎。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "勇",
+          "why": "近音：用ㄩㄥˋ，勇ㄩㄥˇ，聲調不同。",
+          "difference": "用力用用；勇敢用勇。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "使",
+          "why": "都可與運用的意思有關，常合成使用。",
+          "difference": "本課用力表示施出力量；使在使人開心中表示讓，不能任意替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "月",
+          "why": "可比較框內筆畫。",
+          "difference": "用有貫穿框內橫畫的直豎；月沒有這一筆。"
+        }
+      ]
+    },
+    "tip": "把用框內的直豎標色，避免漏寫成月。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

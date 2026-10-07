@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_1c2364c8b4a2b401",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "雲",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "雲",
+    "groups": {
+      "shape": [
+        {
+          "char": "雪",
+          "why": "上方都是雨字頭。",
+          "difference": "雲下方是云；雪下方是彐。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "云",
+          "why": "同音，都是ㄩㄣˊ。",
+          "difference": "天空的白雲寫雲；云常見於人云亦云。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "霧",
+          "why": "都與空氣中的小水滴有關。",
+          "difference": "本課天空中的是雲；接近地面、使遠處看不清楚的可稱霧。"
+        }
+      ],
+      "component": [
+        {
+          "char": "云",
+          "why": "雲的下方是云。",
+          "difference": "云上方加雨字頭才成為雲。"
+        }
+      ]
+    },
+    "tip": "用兩色區分上方雨字頭和下方云。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

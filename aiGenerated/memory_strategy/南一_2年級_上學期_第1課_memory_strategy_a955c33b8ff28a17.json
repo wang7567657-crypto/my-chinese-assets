@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第1課_memory_strategy_a955c33b8ff28a17",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "擠",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "擠",
+    "components": [
+      "扌",
+      "齊"
+    ],
+    "association": "左邊提手旁，聯想到用手擠海綿；右邊完整的齊分層觀察。這是識字聯想，不是字源解釋。",
+    "mnemonic": "擠一擠，手來幫，右邊齊字記心上。",
+    "visualPrompt": "呈現標準楷體「擠」，扌與齊分色；字旁畫雙手輕擠海綿，不以圖片或簡化符號取代齊的筆畫。",
+    "teachingTip": "先找提手旁，再對照標準字範觀察齊；搭配擠海綿活動，不以推擠同學作示範。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

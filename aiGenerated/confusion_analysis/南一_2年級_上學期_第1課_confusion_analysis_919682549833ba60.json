@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_919682549833ba60",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "美",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "美",
+    "groups": {
+      "shape": [
+        {
+          "char": "羔",
+          "why": "上半部字形相近。",
+          "difference": "美下方是大；羔下方是四點。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "每",
+          "why": "同音，都是ㄇㄟˇ。",
+          "difference": "美麗用美；每天用每。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "麗",
+          "why": "兩字都可表示好看。",
+          "difference": "美可單獨用在很美；麗在低年級常見於美麗一詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "大",
+          "why": "美的下方是大。",
+          "difference": "美還有上方的羊形部件，不能只寫大。"
+        }
+      ]
+    },
+    "tip": "把美的下方大圈起來，再和羔的四點比較。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

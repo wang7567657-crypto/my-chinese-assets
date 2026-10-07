@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_5ce3c66da50083fb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "擠",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "擠",
+    "groups": {
+      "shape": [
+        {
+          "char": "濟",
+          "why": "右邊都是齊。",
+          "difference": "擠左邊是提手旁；濟左邊是三點水。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "己",
+          "why": "同音，都是ㄐㄧˇ。",
+          "difference": "擠出用擠；自己用己。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "壓",
+          "why": "都可能涉及施力。",
+          "difference": "擠常指從旁邊推壓或讓東西從空隙出來；壓可指向下施力，動作不完全一樣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "齊",
+          "why": "擠的右邊是齊。",
+          "difference": "齊左邊加提手旁成為擠。"
+        }
+      ]
+    },
+    "tip": "圈出提手旁，用擠海綿的動作輔助理解，右邊齊保持正確字形。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

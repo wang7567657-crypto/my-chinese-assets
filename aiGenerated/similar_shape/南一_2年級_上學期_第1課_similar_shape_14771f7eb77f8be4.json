@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第1課_similar_shape_14771f7eb77f8be4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "美",
+    "lessonChars": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "美",
+    "similarChars": [
+      {
+        "char": "羔",
+        "similarity": "上半部都有羊字頭的筆形。",
+        "difference": "美下面是大；羔下面是灬。"
+      },
+      {
+        "char": "羊",
+        "similarity": "都有上方點撇與多條橫畫。",
+        "difference": "美下面接大；羊中間豎畫直下，不接大。"
+      },
+      {
+        "char": "姜",
+        "similarity": "上半部都有羊字頭的筆形。",
+        "difference": "美下面是大；姜下面是女。"
+      },
+      {
+        "char": "羨",
+        "similarity": "上方都有羊字頭的筆形。",
+        "difference": "美下方是大；羨下方含水點與欠，筆畫更多。"
+      },
+      {
+        "char": "義",
+        "similarity": "上方都有羊字頭的筆形。",
+        "difference": "美下方是大；義下方是我，有斜鉤和點。"
+      },
+      {
+        "char": "善",
+        "similarity": "上方都有羊字頭的筆形。",
+        "difference": "美下方是大；善下方有口，沒有大的撇捺。"
+      }
+    ],
+    "teachingTip": "先指出「美」的主要部件，再逐字圈出不同的位置；先練最接近的兩字，較少見字只作辨形延伸，不要求學生背誦。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

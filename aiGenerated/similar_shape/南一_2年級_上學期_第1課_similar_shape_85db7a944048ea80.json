@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第1課_similar_shape_85db7a944048ea80",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "呼",
+    "lessonChars": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "呼",
+    "similarChars": [
+      {
+        "char": "乎",
+        "similarity": "都含「乎」的筆形。",
+        "difference": "呼左邊多一個口；乎沒有口。"
+      },
+      {
+        "char": "吁",
+        "similarity": "都是左口，右邊有橫畫和豎鉤。",
+        "difference": "呼右邊是乎，有上方的撇、點撇筆形；吁右邊是于。"
+      },
+      {
+        "char": "呯",
+        "similarity": "都是左口，右半有橫畫及分開的點、撇。",
+        "difference": "呼右邊是乎，呯右邊是平；比較最上方和末筆。呯是少見字，僅作延伸辨形。"
+      },
+      {
+        "char": "咩",
+        "similarity": "都有口和右側中間的豎向筆畫。",
+        "difference": "呼右邊是乎；咩右邊是羊，橫畫較多，末筆不作乎的鉤。"
+      },
+      {
+        "char": "烀",
+        "similarity": "右邊都是乎。",
+        "difference": "呼左邊是口；烀左邊是火。烀是少見字，僅作延伸辨形。"
+      },
+      {
+        "char": "軤",
+        "similarity": "右邊都是乎。",
+        "difference": "呼左邊是口；軤左邊是車。軤是少見字，僅作延伸辨形。"
+      }
+    ],
+    "teachingTip": "先指出「呼」的主要部件，再逐字圈出不同的位置；先練最接近的兩字，較少見字只作辨形延伸，不要求學生背誦。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

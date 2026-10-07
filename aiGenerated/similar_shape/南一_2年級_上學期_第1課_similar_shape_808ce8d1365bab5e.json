@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第1課_similar_shape_808ce8d1365bab5e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "前",
+    "lessonChars": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "前",
+    "similarChars": [
+      {
+        "char": "剪",
+        "similarity": "剪上面是完整的前。",
+        "difference": "剪在前下面多刀。"
+      },
+      {
+        "char": "箭",
+        "similarity": "箭下面是完整的前。",
+        "difference": "箭在前上面多竹字頭。"
+      },
+      {
+        "char": "煎",
+        "similarity": "煎上面是完整的前。",
+        "difference": "煎在前下面多灬。"
+      },
+      {
+        "char": "俞",
+        "similarity": "都有上方覆蓋形、下方月形與右側刂。",
+        "difference": "前最上面是倒八和一橫；俞最上面是人形和一橫。"
+      },
+      {
+        "char": "削",
+        "similarity": "右邊都是刂，左側都有月形。",
+        "difference": "前上方是倒八和一橫；削左側是肖，上方是小字頭。"
+      },
+      {
+        "char": "首",
+        "similarity": "上方都有倒八和一橫。",
+        "difference": "前下方分成月形與刂；首下方是自。"
+      }
+    ],
+    "teachingTip": "先指出「前」的主要部件，再逐字圈出不同的位置；先練最接近的兩字，較少見字只作辨形延伸，不要求學生背誦。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

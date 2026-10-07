@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第1課_memory_strategy_49098e2c32378b85",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "美",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "美",
+    "components": [
+      "上方羊形部件",
+      "大"
+    ],
+    "association": "「美」上方像羊形部件，下方是大；聯想到美麗的海景。這是識字聯想，不是字源解釋。",
+    "mnemonic": "美麗的美，下方一個大。",
+    "visualPrompt": "呈現標準楷體「美」，上下分色；在字旁畫美麗海景，保留上方部件在美字中的標準寫法。",
+    "teachingTip": "先找下方的大，再比對上方部件；不可把完整的羊字直接疊在大上取代標準字形。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

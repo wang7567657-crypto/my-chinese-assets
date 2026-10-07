@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第1課_similar_shape_a78c2f9f41a31e7a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "又",
+    "lessonChars": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "又",
+    "similarChars": [
+      {
+        "char": "叉",
+        "similarity": "都有又的交叉筆形。",
+        "difference": "叉在又內多一點。"
+      },
+      {
+        "char": "友",
+        "similarity": "都含又。",
+        "difference": "友在又上方多橫、撇。"
+      },
+      {
+        "char": "反",
+        "similarity": "反的下方含又。",
+        "difference": "反在又上方多撇、豎撇，形成類似厂的外圍筆形。"
+      },
+      {
+        "char": "及",
+        "similarity": "都有向右下的捺和折筆。",
+        "difference": "又是橫撇與捺；及另有起首的撇，折筆也不同。"
+      },
+      {
+        "char": "文",
+        "similarity": "下方都有交叉的撇捺輪廓。",
+        "difference": "又上方是橫撇的折筆；文上方是點、橫，下方再接撇捺。"
+      },
+      {
+        "char": "支",
+        "similarity": "支的下方就是又。",
+        "difference": "支在又上方多十。"
+      }
+    ],
+    "teachingTip": "先指出「又」的主要部件，再逐字圈出不同的位置；先練最接近的兩字，較少見字只作辨形延伸，不要求學生背誦。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

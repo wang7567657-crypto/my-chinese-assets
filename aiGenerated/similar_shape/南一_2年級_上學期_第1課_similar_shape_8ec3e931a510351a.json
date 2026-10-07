@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第1課_similar_shape_8ec3e931a510351a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "柔",
+    "lessonChars": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "柔",
+    "similarChars": [
+      {
+        "char": "揉",
+        "similarity": "都含完整的柔。",
+        "difference": "揉左邊多扌。"
+      },
+      {
+        "char": "蹂",
+        "similarity": "都含完整的柔。",
+        "difference": "蹂左邊多足字旁；此字較少見，宜作延伸辨形。"
+      },
+      {
+        "char": "糅",
+        "similarity": "都含完整的柔。",
+        "difference": "糅左邊多米；此字較少見，宜作延伸辨形。"
+      },
+      {
+        "char": "矛",
+        "similarity": "柔的上半部就是矛。",
+        "difference": "柔在矛下面多木。"
+      },
+      {
+        "char": "茅",
+        "similarity": "都含矛。",
+        "difference": "柔是矛在上、木在下；茅是艹在上、矛在下。"
+      },
+      {
+        "char": "桑",
+        "similarity": "都是上下結構，下半部都是木。",
+        "difference": "柔上面是矛；桑上面是三個又。"
+      }
+    ],
+    "teachingTip": "先指出「柔」的主要部件，再逐字圈出不同的位置；先練最接近的兩字，較少見字只作辨形延伸，不要求學生背誦。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

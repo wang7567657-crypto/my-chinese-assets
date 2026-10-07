@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_6ecee7875afa6ff0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "白",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "白",
+    "groups": {
+      "shape": [
+        {
+          "char": "百",
+          "why": "都有白形部分。",
+          "difference": "白上方再加一橫是百。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "百",
+          "why": "近音：白ㄅㄞˊ，百ㄅㄞˇ，聲調不同。",
+          "difference": "白雲用白；一百用百。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "黑",
+          "why": "都是顏色詞。",
+          "difference": "白與黑是不同顏色，不能互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "日",
+          "why": "外框和內橫相近。",
+          "difference": "白上方有一撇；日沒有這一撇。"
+        }
+      ]
+    },
+    "tip": "圈出白最上方的一撇，與百上方的一橫比較。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

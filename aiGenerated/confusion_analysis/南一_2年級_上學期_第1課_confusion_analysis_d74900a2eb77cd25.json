@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_d74900a2eb77cd25",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "柔",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "柔",
+    "groups": {
+      "shape": [
+        {
+          "char": "揉",
+          "why": "都能看到柔。",
+          "difference": "柔左邊加提手旁是揉。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "揉",
+          "why": "同音，都是ㄖㄡˊ。",
+          "difference": "溫柔用柔；揉眼睛用揉。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "軟",
+          "why": "都有不堅硬或柔和的意思。",
+          "difference": "柔可用在溫柔，形容態度；軟常形容物品不硬。"
+        }
+      ],
+      "component": [
+        {
+          "char": "矛",
+          "why": "柔的上方是矛。",
+          "difference": "矛下方加木成為柔；不可把上方寫成予。"
+        }
+      ]
+    },
+    "tip": "遮住下方木，辨認上方矛，再合起來讀柔。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

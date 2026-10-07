@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_2年級_上學期_第1課_confusion_analysis_c1f56a4cabe9a3ee",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "麗",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "麗",
+    "groups": {
+      "shape": [
+        {
+          "char": "鹿",
+          "why": "麗下半部包含鹿。",
+          "difference": "麗在鹿上方還有另一組部件。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "力",
+          "why": "同音：美麗的麗與用力的力都是ㄌㄧˋ。",
+          "difference": "美麗用麗；用力用力。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "美",
+          "why": "兩字都可形容好看。",
+          "difference": "美麗由兩個不同的字組成，不能把麗也寫成美。"
+        }
+      ],
+      "component": [
+        {
+          "char": "鹿",
+          "why": "麗以鹿為下方主要部件。",
+          "difference": "辨認上方成對的部分和下方鹿，不漏寫上方。"
+        }
+      ]
+    },
+    "tip": "將麗分成上、下兩區看，上方成對，下方找鹿。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

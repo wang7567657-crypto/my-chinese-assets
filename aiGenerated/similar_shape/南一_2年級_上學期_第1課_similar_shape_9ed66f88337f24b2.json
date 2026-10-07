@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第1課_similar_shape_9ed66f88337f24b2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "游",
+    "lessonChars": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "游",
+    "similarChars": [
+      {
+        "char": "遊",
+        "similarity": "右側都有斿，包含方及其旁的字形。",
+        "difference": "游左邊是氵；遊的外側是辶。"
+      },
+      {
+        "char": "淤",
+        "similarity": "左邊都是氵，右半都含方。",
+        "difference": "游右半的下方是子；淤右半是於，內有兩點。"
+      },
+      {
+        "char": "斿",
+        "similarity": "游的右半部就是斿。",
+        "difference": "游左邊多氵；斿是少見字，僅作部件辨形。"
+      },
+      {
+        "char": "族",
+        "similarity": "右側都有方和其旁上方的𠂉形。",
+        "difference": "游還有氵，右下是子；族沒有氵，右下是矢。"
+      },
+      {
+        "char": "旗",
+        "similarity": "右側都有方和其旁上方的𠂉形。",
+        "difference": "游還有氵，右下是子；旗沒有氵，右下是其。"
+      },
+      {
+        "char": "旋",
+        "similarity": "右側都有方和其旁上方的𠂉形。",
+        "difference": "游還有氵，右下是子；旋沒有氵，右下是疋。"
+      }
+    ],
+    "teachingTip": "先指出「游」的主要部件，再逐字圈出不同的位置；先練最接近的兩字，較少見字只作辨形延伸，不要求學生背誦。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

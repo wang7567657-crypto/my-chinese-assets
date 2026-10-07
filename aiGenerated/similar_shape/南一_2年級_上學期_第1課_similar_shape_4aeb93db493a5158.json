@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第1課_similar_shape_4aeb93db493a5158",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "功",
+    "lessonChars": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "功",
+    "similarChars": [
+      {
+        "char": "攻",
+        "similarity": "左邊都是工。",
+        "difference": "功右邊是力；攻右邊是攵。"
+      },
+      {
+        "char": "工",
+        "similarity": "功的左半部就是工。",
+        "difference": "功右邊多力。"
+      },
+      {
+        "char": "加",
+        "similarity": "都含力與旁邊的方形筆畫輪廓。",
+        "difference": "功是工在左、力在右；加是力在左、口在右。"
+      },
+      {
+        "char": "幼",
+        "similarity": "右邊都是力。",
+        "difference": "功左邊是工；幼左邊是幺。"
+      },
+      {
+        "char": "劫",
+        "similarity": "右邊都是力。",
+        "difference": "功左邊是工；劫左邊是去，上方有土、下方有厶。"
+      },
+      {
+        "char": "勁",
+        "similarity": "右邊都是力，左側下方都可見工。",
+        "difference": "功左邊只有工；勁左邊是巠，工上方還有其他筆畫。"
+      }
+    ],
+    "teachingTip": "先指出「功」的主要部件，再逐字圈出不同的位置；先練最接近的兩字，較少見字只作辨形延伸，不要求學生背誦。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

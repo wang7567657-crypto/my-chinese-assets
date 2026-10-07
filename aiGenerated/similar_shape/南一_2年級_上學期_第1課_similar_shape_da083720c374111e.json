@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_2年級_上學期_第1課_similar_shape_da083720c374111e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "哇",
+    "lessonChars": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "哇",
+    "similarChars": [
+      {
+        "char": "娃",
+        "similarity": "右邊都是圭。",
+        "difference": "哇左邊是口；娃左邊是女。"
+      },
+      {
+        "char": "蛙",
+        "similarity": "右邊都是圭。",
+        "difference": "哇左邊是口；蛙左邊是虫。"
+      },
+      {
+        "char": "佳",
+        "similarity": "右邊都是圭。",
+        "difference": "哇左邊是口；佳左邊是亻。"
+      },
+      {
+        "char": "掛",
+        "similarity": "右側都可見圭。",
+        "difference": "哇左邊是口；掛左邊是扌，圭右邊還有卜。"
+      },
+      {
+        "char": "畦",
+        "similarity": "右邊都是圭。",
+        "difference": "哇左邊是口；畦左邊是田，框內多十字。"
+      },
+      {
+        "char": "圭",
+        "similarity": "哇的右半部就是圭。",
+        "difference": "哇左邊多口。"
+      }
+    ],
+    "teachingTip": "先指出「哇」的主要部件，再逐字圈出不同的位置；先練最接近的兩字，較少見字只作辨形延伸，不要求學生背誦。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

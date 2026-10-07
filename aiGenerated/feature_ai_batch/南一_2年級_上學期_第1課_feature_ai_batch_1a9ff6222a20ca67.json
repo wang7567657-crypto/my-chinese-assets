@@ -1,0 +1,63 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_2年級_上學期_第1課_feature_ai_batch_1a9ff6222a20ca67",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 19,
+    "batchCharacters": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_85db7a944048ea80.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_1ea8e57a8c4b0987.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_dc08124f27fbd036.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_8ec3e931a510351a.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_808ce8d1365bab5e.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_9ed66f88337f24b2.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_43df1672cd062077.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_14771f7eb77f8be4.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_0b765fbd7f4882b4.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_d5776b5d870e9d36.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_0fc9cc59840318ef.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_ee83098006a5bdcc.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_e1a534a9774f5dee.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_3e0d8037f944d321.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_da083720c374111e.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_a78c2f9f41a31e7a.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_2614c9207c5d7c01.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_4aeb93db493a5158.json",
+      "aiGenerated/similar_shape/南一_2年級_上學期_第1課_similar_shape_6017d876dfaf8ea5.json"
+    ]
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

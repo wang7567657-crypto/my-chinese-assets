@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_2年級_上學期_第1課_memory_strategy_a799d9edcb6ff6d9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "柱",
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "柱",
+    "components": [
+      "木",
+      "主"
+    ],
+    "association": "左邊木、右邊主，聯想到直直站立的柱子；課文中的水柱則是柱狀的水。這是識字聯想，不是字源解釋。",
+    "mnemonic": "木在左，主在右，直直站好像柱子。",
+    "visualPrompt": "呈現標準楷體「柱」，木與主分色；字旁並列木柱和直立水柱，兩張小圖不改變字形。",
+    "teachingTip": "先拼出木＋主，再比較「柱、住」的左側；說明水柱的柱描述形狀，不代表水是木頭。"
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}

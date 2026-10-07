@@ -1,0 +1,63 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_2年級_上學期_第1課_feature_ai_batch_daa14fed600d12fe",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 19,
+    "batchCharacters": [
+      "呼",
+      "白",
+      "雲",
+      "柔",
+      "前",
+      "游",
+      "噴",
+      "美",
+      "麗",
+      "柱",
+      "試",
+      "吸",
+      "用",
+      "力",
+      "哇",
+      "又",
+      "第",
+      "功",
+      "擠"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_88d68d1f0afe1997.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_6ecee7875afa6ff0.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_1c2364c8b4a2b401.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_d74900a2eb77cd25.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_e0da9cf195578705.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_7a45787ebac2efee.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_6ecaf6dc91f48278.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_919682549833ba60.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_c1f56a4cabe9a3ee.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_71a7fca3215846ea.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_c20d2892ef3d6271.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_d7d579abd2a11ed3.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_2782a546265fc99f.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_ecdd438530509a2f.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_e1a66590bec9c2c8.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_8ca596bc355d4616.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_e78b0da44dcd1b59.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_77b1e5c030c1014a.json",
+      "aiGenerated/confusion_analysis/南一_2年級_上學期_第1課_confusion_analysis_5ce3c66da50083fb.json"
+    ]
+  },
+  "createdAt": "2026-10-07T03:50:00.715037Z"
+}
