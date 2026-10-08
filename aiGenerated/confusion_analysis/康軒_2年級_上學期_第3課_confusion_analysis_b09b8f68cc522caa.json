@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_b09b8f68cc522caa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "叔",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "叔",
+    "groups": {
+      "shape": [
+        {
+          "char": "淑",
+          "why": "淑包含完整的叔，外形容易混淆。",
+          "difference": "叔叔的「叔」沒有氵；淑的左邊多了氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "書",
+          "why": "近音：叔ㄕㄨˊ、書ㄕㄨ，只有聲調不同。",
+          "difference": "臺灣本課的叔讀第二聲；書本的書讀第一聲。叔叔一詞的第二個叔可讀輕聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "伯",
+          "why": "都是親屬稱呼，可能只記得是爸爸的兄弟。",
+          "difference": "通常爸爸的弟弟稱叔叔，爸爸的哥哥稱伯伯；也可用叔叔稱呼男性長輩。"
+        }
+      ],
+      "component": [
+        {
+          "char": "取",
+          "why": "兩字右邊都有又，左邊容易記錯。",
+          "difference": "叔左上像上、左下是小；取左邊是耳。"
+        }
+      ]
+    },
+    "tip": "叫一聲「叔叔」，看清左邊上、小，右邊又；不要把叔讀成書的第一聲。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

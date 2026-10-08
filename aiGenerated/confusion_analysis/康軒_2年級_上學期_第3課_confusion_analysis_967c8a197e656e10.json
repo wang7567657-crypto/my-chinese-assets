@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_967c8a197e656e10",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "巷",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "巷",
+    "groups": {
+      "shape": [
+        {
+          "char": "港",
+          "why": "港的右邊就是巷，容易把左邊多寫或漏寫。",
+          "difference": "小巷的「巷」沒有氵；港口的「港」左邊有氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "象",
+          "why": "同音：巷、象都讀ㄒㄧㄤˋ。",
+          "difference": "走過小巷是道路；大象是動物，不能只聽聲音選字。"
+        },
+        {
+          "char": "想",
+          "why": "近音：巷ㄒㄧㄤˋ、想ㄒㄧㄤˇ，聲調不同。",
+          "difference": "巷是第四聲，用在小巷；想是第三聲，用在想一想。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "路",
+          "why": "都可以表示人行走的地方。",
+          "difference": "路的範圍較廣；巷通常指房屋之間較小的通道。本課走的是小巷。"
+        }
+      ],
+      "component": [
+        {
+          "char": "共",
+          "why": "巷的上方是共，寫到一半可能就停下來。",
+          "difference": "共只有上半部；巷還要接下方的巳形部件。"
+        }
+      ]
+    },
+    "tip": "先讀「小巷」，再看上共、下巳形部件；最後檢查左邊沒有氵。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

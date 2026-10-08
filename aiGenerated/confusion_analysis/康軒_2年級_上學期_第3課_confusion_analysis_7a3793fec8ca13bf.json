@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_7a3793fec8ca13bf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "打",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "打",
+    "groups": {
+      "shape": [
+        {
+          "char": "丁",
+          "why": "打的右邊是丁，容易漏掉左邊。",
+          "difference": "打有左邊的扌；丁只有右邊那一部分。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "大",
+          "why": "近音：打ㄉㄚˇ、大ㄉㄚˋ，聲調不同。",
+          "difference": "打扮的打讀第三聲；大小的大讀第四聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "敲",
+          "why": "有些情境都能表示碰擊，容易以為打永遠是打擊。",
+          "difference": "打的意思要看詞語；本課「打扮」是裝飾、整理外表，並不是敲打。"
+        }
+      ],
+      "component": [
+        {
+          "char": "扮",
+          "why": "本課兩字都有扌，連在一起時容易忽略右邊。",
+          "difference": "打右邊是丁；扮右邊是分。打扮兩字的右半邊不同。"
+        }
+      ]
+    },
+    "tip": "本課要整詞讀「打扮」；打左扌、右丁，不能把意思只想成打人。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

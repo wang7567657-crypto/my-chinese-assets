@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_3f2f8c3eab1df37c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "麗",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "麗",
+    "groups": {
+      "shape": [
+        {
+          "char": "鹿",
+          "why": "麗的下方是鹿，筆畫多時容易只認出下面。",
+          "difference": "鹿上方沒有麗字頂端的兩組框點；麗要把上方和下方都寫完整。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "力",
+          "why": "同音：美麗的麗與力量的力都讀ㄌㄧˋ。",
+          "difference": "好看的地方用美麗；有力氣用力，不能因為同音就混寫。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "美",
+          "why": "在美麗一詞中都與好看有關，可能把兩字當成同一個字。",
+          "difference": "美麗由兩個不同的字組成；美在前、麗在後，字形與讀音都不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "比",
+          "why": "麗下方的鹿裡有比形，容易漏掉左右其中一部分。",
+          "difference": "比只是鹿裡的下方部件；麗還有鹿的其餘筆畫和最上方的兩組框點。"
+        }
+      ]
+    },
+    "tip": "分成上方兩組框點、下方鹿來看；每一區都完成，再連讀「美麗」。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_04d905106f8bb10d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "越",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "越",
+    "groups": {
+      "shape": [
+        {
+          "char": "起",
+          "why": "兩字都有走，容易只看共同的外側部件。",
+          "difference": "越右邊是戉；起右邊是己。越來越的越不能寫成起。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "月",
+          "why": "同音：越、月都讀ㄩㄝˋ。",
+          "difference": "越來越用越；月亮用月。聲音相同，要看前後詞語。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "更",
+          "why": "都能表示程度增加，容易隨意互換。",
+          "difference": "「越來越喜歡」表示喜歡的程度逐漸增加；「更喜歡」是比較後的程度，句型不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "走",
+          "why": "越的左下方是走，容易漏掉右上方部件。",
+          "difference": "走是完整的一個字；越還有右上方的戉，走的末筆伸到下方承住右邊。"
+        }
+      ]
+    },
+    "tip": "連讀「越來越喜歡」，感受程度慢慢增加；寫字時左走、右戉都要完整。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

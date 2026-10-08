@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_7f5262e70a74fa96",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "屋",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "屋",
+    "groups": {
+      "shape": [
+        {
+          "char": "居",
+          "why": "兩字都有尸，裡面的部件容易混淆。",
+          "difference": "屋裡面是至；居裡面是古。屋前的屋要寫至。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "烏",
+          "why": "同音：屋、烏都讀ㄨ。",
+          "difference": "房屋的屋指建築；烏鴉的烏是另一個字，要看詞語選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "家",
+          "why": "都與居住有關，日常說話常連在一起。",
+          "difference": "屋著重房屋這個建築；家也能指家人或家庭。屋前是房屋前面的地方。"
+        }
+      ],
+      "component": [
+        {
+          "char": "室",
+          "why": "都有至，但包住至的部件不同。",
+          "difference": "屋是尸包著至；室是宀在至上方。"
+        }
+      ]
+    },
+    "tip": "想著「屋前有花」，外面找尸、裡面找至，別換成古或宀。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

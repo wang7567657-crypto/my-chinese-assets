@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_74f722a474951727",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "筆",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "筆",
+    "groups": {
+      "shape": [
+        {
+          "char": "律",
+          "why": "都有聿，容易認出下面或右邊就猜字。",
+          "difference": "筆是竹字頭在上、聿在下；律是彳在左、聿在右。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "比",
+          "why": "同音：筆、比都讀ㄅㄧˇ。",
+          "difference": "彩筆用筆；比較用比，要用詞語分辨。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "畫",
+          "why": "兩字都常和畫圖一起出現。",
+          "difference": "筆是畫畫或寫字的工具；畫可以指作畫的動作或完成的圖畫。"
+        }
+      ],
+      "component": [
+        {
+          "char": "竹",
+          "why": "筆上方是竹字頭，容易和整個竹字混在一起。",
+          "difference": "筆的竹字頭寫在上面，下方還要完整寫出聿，才是筆。"
+        }
+      ]
+    },
+    "tip": "拿一枝彩筆說名稱，再找上面的竹字頭；筆下半部是聿，不是毛。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

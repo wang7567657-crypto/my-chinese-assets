@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_10b03efd45760d50",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "貓",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "貓",
+    "groups": {
+      "shape": [
+        {
+          "char": "描",
+          "why": "右邊都有苗，容易只看右半邊認字。",
+          "difference": "貓左邊是豸；描左邊是扌。花貓是動物，描畫是手的動作。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "毛",
+          "why": "近音：貓ㄇㄠ、毛ㄇㄠˊ，聲調不同。",
+          "difference": "花貓的貓讀第一聲；毛髮的毛讀第二聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "狗",
+          "why": "同樣是常見動物，容易看圖先猜字。",
+          "difference": "貓和狗是不同動物；本課花貓坐在牆上曬太陽，要依文字和圖畫一起判斷。"
+        }
+      ],
+      "component": [
+        {
+          "char": "苗",
+          "why": "貓的右半邊是苗，容易漏掉左邊。",
+          "difference": "苗可表示幼小的植物；貓要保留左邊完整的豸，不能只寫苗。"
+        }
+      ]
+    },
+    "tip": "先找左邊的豸，再看右邊苗；連讀「花貓」，確認第一聲。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}
