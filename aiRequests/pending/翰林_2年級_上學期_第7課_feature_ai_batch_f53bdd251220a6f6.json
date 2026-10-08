@@ -369,5 +369,44 @@
     ],
     "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
   },
-  "createdAt": "2026-10-06T13:07:38.527Z"
+  "createdAt": "2026-10-06T13:07:38.527Z",
+  "blockedItems": [
+    {
+      "char": "粄",
+      "taskType": "component_split",
+      "requestId": "翰林_2年級_上學期_第7課_component_split_8003aff84557a8ce",
+      "reason": "重新讀取指定 c9s/zh-stroke-data 的 utf8/7c84.xml 回傳404，缺少原始筆畫來源；無法核對輪廓、Track及實際部首分色，保留待辦，不標 verified。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7c84.xml"
+    }
+  ],
+  "lastCheckedAt": "2026-10-08T00:43:37Z",
+  "progress": {
+    "totalItems": 22,
+    "completedItems": 21,
+    "blockedItems": 1,
+    "completedRequestIds": [
+      "翰林_2年級_上學期_第7課_component_split_7329dbecfbe8efcc",
+      "翰林_2年級_上學期_第7課_component_split_cb07a349108c47be",
+      "翰林_2年級_上學期_第7課_component_split_d0ede95ddce3930c",
+      "翰林_2年級_上學期_第7課_component_split_3bb9debe9d6a612d",
+      "翰林_2年級_上學期_第7課_component_split_0d510d06837a2f59",
+      "翰林_2年級_上學期_第7課_component_split_db89097aa8e285b0",
+      "翰林_2年級_上學期_第7課_component_split_4290fc3bd2e3c6d2",
+      "翰林_2年級_上學期_第7課_component_split_564ec5850e2351b0",
+      "翰林_2年級_上學期_第7課_component_split_e2dcb245770d1273",
+      "翰林_2年級_上學期_第7課_component_split_a79175d5c64005c4",
+      "翰林_2年級_上學期_第7課_component_split_1f44f99c51d5c349",
+      "翰林_2年級_上學期_第7課_component_split_e98c3d9b98b0518a",
+      "翰林_2年級_上學期_第7課_component_split_a9c4855024311a77",
+      "翰林_2年級_上學期_第7課_component_split_ca32636bd5302713",
+      "翰林_2年級_上學期_第7課_component_split_499e2d46b0950cab",
+      "翰林_2年級_上學期_第7課_component_split_fc3c849fda515703",
+      "翰林_2年級_上學期_第7課_component_split_62c75c99c049bd33",
+      "翰林_2年級_上學期_第7課_component_split_4fb962667e811175",
+      "翰林_2年級_上學期_第7課_component_split_d3e5857ac497b18e",
+      "翰林_2年級_上學期_第7課_component_split_a75a9479bee49d2f",
+      "翰林_2年級_上學期_第7課_component_split_1c2a1a25163adedc"
+    ],
+    "validation": "逐一讀取正式 aiGenerated 結果，確認 completed、verified、radicalVerified、分組筆畫完整且無重複、split 與 strokeGroups 筆數一致；重用既有完成資料。"
+  }
 }
