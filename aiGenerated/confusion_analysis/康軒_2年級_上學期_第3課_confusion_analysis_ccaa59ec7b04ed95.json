@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_ccaa59ec7b04ed95",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "樣",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "樣",
+    "groups": {
+      "shape": [
+        {
+          "char": "洋",
+          "why": "兩字右上都容易讓人想到羊，常漏看下方。",
+          "difference": "樣左邊是木，右邊除了羊形上部，下面還有永；洋左邊是氵，右邊只有羊。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "養",
+          "why": "近音：樣ㄧㄤˋ、養ㄧㄤˇ，聲調不同。",
+          "difference": "模樣的樣讀第四聲；養花的養讀第三聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "形",
+          "why": "形狀和樣子都與外觀有關。",
+          "difference": "本課「新模樣」指改變後的樣子；樣子可包含顏色、裝飾等，不能一律換成形狀。"
+        }
+      ],
+      "component": [
+        {
+          "char": "漾",
+          "why": "右邊同樣是羕，但左邊部件不同。",
+          "difference": "樣左邊是木，用在模樣；漾左邊是氵，用在水波蕩漾。這是部件比較，不必先背新詞。"
+        }
+      ]
+    },
+    "tip": "樣是左木、右羕；右邊上方是羊的上偏旁形，下方是永，永頂端的點不能漏。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

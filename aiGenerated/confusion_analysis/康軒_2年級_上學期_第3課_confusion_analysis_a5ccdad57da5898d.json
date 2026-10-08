@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_a5ccdad57da5898d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "捧",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "捧",
+    "groups": {
+      "shape": [
+        {
+          "char": "棒",
+          "why": "右邊都是奉，只差左邊部件。",
+          "difference": "捧左邊是扌，表示用手的動作；棒左邊是木，如木棒。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "碰",
+          "why": "近音：捧ㄆㄥˇ、碰ㄆㄥˋ，聲調不同。",
+          "difference": "捧花的捧讀第三聲；碰到的碰讀第四聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "拿",
+          "why": "都是取得或持住東西的動作。",
+          "difference": "拿是較廣泛的說法；捧強調用手掌托住，常是兩手一起托。本課可用雙手捧花的動作來理解。"
+        }
+      ],
+      "component": [
+        {
+          "char": "奉",
+          "why": "捧的右邊是奉，容易漏掉扌。",
+          "difference": "捧花要寫扌加奉；只有奉就不是捧。"
+        }
+      ]
+    },
+    "tip": "做出兩手托花的動作，再指左邊扌；右邊奉的橫畫要寫清楚。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

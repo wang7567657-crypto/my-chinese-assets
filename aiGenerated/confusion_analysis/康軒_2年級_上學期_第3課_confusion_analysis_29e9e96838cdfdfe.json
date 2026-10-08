@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_29e9e96838cdfdfe",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "模",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "模",
+    "groups": {
+      "shape": [
+        {
+          "char": "摸",
+          "why": "右邊都是莫，只差左邊部件。",
+          "difference": "模樣的模左邊是木；摸一摸的摸左邊是扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "魔",
+          "why": "同音：本課模ㄇㄛˊ、魔ㄇㄛˊ。",
+          "difference": "模樣用模；魔法用魔，要按詞語選字。"
+        },
+        {
+          "char": "摸",
+          "why": "近音：本課模ㄇㄛˊ、摸ㄇㄛ，聲調不同。",
+          "difference": "臺灣《國語辭典簡編本》的模樣讀ㄇㄛˊ ㄧㄤˋ；摸一摸的摸讀第一聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "樣",
+          "why": "在模樣一詞中共同表達外觀，容易把兩字順序混淆。",
+          "difference": "本課完整詞是模樣：模在前、樣在後。兩字都從木，但右邊不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "莫",
+          "why": "模的右邊是莫，容易把最下方的大寫錯。",
+          "difference": "莫可分區看作艹、日、大；模還有左邊的木，右下方是大，不是犬。"
+        }
+      ]
+    },
+    "tip": "模樣連讀ㄇㄛˊ ㄧㄤˋ；模左木、右莫，和摸一摸的扌分清楚。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

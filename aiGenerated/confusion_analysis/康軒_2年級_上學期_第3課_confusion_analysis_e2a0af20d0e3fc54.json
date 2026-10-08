@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_e2a0af20d0e3fc54",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "娘",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "娘",
+    "groups": {
+      "shape": [
+        {
+          "char": "狼",
+          "why": "右邊都是良，左邊部件容易混淆。",
+          "difference": "新娘的娘左邊是女；野狼的狼左邊是犭。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "涼",
+          "why": "近音：娘ㄋㄧㄤˊ、涼ㄌㄧㄤˊ，開頭聲母不同。",
+          "difference": "新娘從ㄋ起音；涼快從ㄌ起音，不能當成同音字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "媽",
+          "why": "有時都可用來稱呼母親，容易把意思套到所有詞語。",
+          "difference": "娘在新娘一詞中指新婚的女子；不能把新娘改成新媽。"
+        }
+      ],
+      "component": [
+        {
+          "char": "良",
+          "why": "娘右邊是良，容易漏寫頂端的點。",
+          "difference": "良頂端有一點；娘要保留左女、右良，不能把右邊寫成艮。"
+        }
+      ]
+    },
+    "tip": "「新娘」一起記：女在左，良在右；良上方的一點不能少。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

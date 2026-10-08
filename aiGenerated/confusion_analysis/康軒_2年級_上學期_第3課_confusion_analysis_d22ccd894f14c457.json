@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_d22ccd894f14c457",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "扮",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "扮",
+    "groups": {
+      "shape": [
+        {
+          "char": "粉",
+          "why": "右邊都是分，容易換錯左邊部件。",
+          "difference": "扮左邊是扌，如打扮；粉左邊是米，如麵粉。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "半",
+          "why": "同音：扮、半都讀ㄅㄢˋ。",
+          "difference": "打扮用扮；一半用半，要依詞語判斷。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "裝",
+          "why": "裝扮和打扮意思相近，容易以為任何詞都能互換。",
+          "difference": "扮可用在打扮、扮演；裝還可表示裝進容器。要記完整詞語「打扮」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "分",
+          "why": "扮右邊是分，可能漏掉或寫錯分的下方。",
+          "difference": "扮保留左邊扌；右邊分的下面是刀，要有刀的鉤形。"
+        }
+      ]
+    },
+    "tip": "左扌、右分，連著打讀成「打扮」；用秋風為景物添上顏色的畫面記意思。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

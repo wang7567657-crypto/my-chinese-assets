@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_14702941d95c5de8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "忙",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "忙",
+    "groups": {
+      "shape": [
+        {
+          "char": "忘",
+          "why": "都能找到亡和心的部件，容易放錯位置。",
+          "difference": "忙是忄在左、亡在右；忘是亡在上、心在下。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "芒",
+          "why": "同音：忙、芒都讀ㄇㄤˊ。",
+          "difference": "忙碌用忙；芒果用芒，不要因同音就互換。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "急",
+          "why": "都可能出現在事情多、時間少的情境。",
+          "difference": "忙表示事情多、正在做事；急偏重心裡著急或事情迫切。忙不一定就是急。"
+        }
+      ],
+      "component": [
+        {
+          "char": "亡",
+          "why": "忙右邊是亡，容易少寫左邊。",
+          "difference": "忙有忄和亡；亡沒有忄。看見忙，先確認左邊直立的心部。"
+        }
+      ]
+    },
+    "tip": "忙在做事，忄站左邊；「忙」和「忘」要比部件位置。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

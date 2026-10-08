@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_ded71f801972870d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "黃",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "黃",
+    "groups": {
+      "shape": [
+        {
+          "char": "廣",
+          "why": "廣裡面含有黃，筆畫多時容易漏看外框。",
+          "difference": "黃色的黃沒有廣外面的广；廣的外面有广，裡面才是黃。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "皇",
+          "why": "同音：黃、皇都讀ㄏㄨㄤˊ。",
+          "difference": "黃色用黃；皇后用皇，不能只靠讀音判斷。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "紅",
+          "why": "都是本課出現的顏色，可能只記得是彩筆的顏色。",
+          "difference": "黃像黃色葉子；紅像紅色葉子。要把不同顏色與正確字卡配對。"
+        }
+      ],
+      "component": [
+        {
+          "char": "田",
+          "why": "黃中間有田形，容易誤寫成由。",
+          "difference": "臺灣標準黃字的中間是田形，中央豎筆不上出頭；下方另外有撇、點。"
+        }
+      ]
+    },
+    "tip": "用黃色色卡記意思，再按臺灣標準字形看中間田形：中央豎筆不往上伸出。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

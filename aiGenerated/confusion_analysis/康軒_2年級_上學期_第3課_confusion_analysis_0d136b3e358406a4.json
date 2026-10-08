@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_0d136b3e358406a4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "娶",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "娶",
+    "groups": {
+      "shape": [
+        {
+          "char": "取",
+          "why": "娶上方是取，容易漏掉下方。",
+          "difference": "取只有耳和又；娶的下方還有女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "取",
+          "why": "同音：娶、取都讀ㄑㄩˇ。",
+          "difference": "娶新娘用娶；取出東西用取。聽音後還要看意思。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "嫁",
+          "why": "都與結婚有關，但傳統語詞的敘述角度不同。",
+          "difference": "娶通常說男子迎女子結婚；嫁通常說女子與男子結婚。本課擬人地寫蝴蝶娶新娘。"
+        }
+      ],
+      "component": [
+        {
+          "char": "娘",
+          "why": "兩字都有女，但位置不一樣。",
+          "difference": "娶的女在下面，上面是取；娘的女在左邊，右邊是良。"
+        }
+      ]
+    },
+    "tip": "連讀「娶新娘」；先找上面的取，再確認下面沒有漏寫女。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

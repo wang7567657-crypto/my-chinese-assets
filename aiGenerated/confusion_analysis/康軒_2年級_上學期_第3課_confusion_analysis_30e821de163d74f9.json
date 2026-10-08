@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_30e821de163d74f9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蝶",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蝶",
+    "groups": {
+      "shape": [
+        {
+          "char": "碟",
+          "why": "兩字右邊相同，容易只記住右半邊。",
+          "difference": "蝴蝶的蝶左邊是虫；碟子的碟左邊是石。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "疊",
+          "why": "同音：蝶、疊都讀ㄉㄧㄝˊ。",
+          "difference": "蝶用在蝴蝶；疊用在摺疊或一疊紙，要依完整詞語判斷。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "葉",
+          "why": "右邊的世、木組合也出現在葉的下方。",
+          "difference": "蝶是虫在左、世和木在右；葉是艹在上、世和木在下。"
+        }
+      ]
+    },
+    "tip": "先找虫，再把右邊看成上世、下木；不要把虫換成石。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}

@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第3課_confusion_analysis_a1767a75c72560cb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蝴",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蝴",
+    "groups": {
+      "shape": [
+        {
+          "char": "湖",
+          "why": "右邊都是胡，左邊部件容易看錯。",
+          "difference": "蝴蝶的蝴左邊是虫；湖水的湖左邊是氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "壺",
+          "why": "同音：蝴、壺都讀ㄏㄨˊ。",
+          "difference": "蝴用在蝴蝶；壺用在水壺，讀音相同但詞語不同。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "胡",
+          "why": "蝴的右半邊就是胡，也和胡同音。",
+          "difference": "胡由古、月組成；寫蝴還要在左邊加虫。"
+        }
+      ]
+    },
+    "tip": "「蝴蝶」一起認：兩個字左邊都找虫，蝴的右邊是胡。"
+  },
+  "createdAt": "2026-10-07T06:34:18.113320Z"
+}
