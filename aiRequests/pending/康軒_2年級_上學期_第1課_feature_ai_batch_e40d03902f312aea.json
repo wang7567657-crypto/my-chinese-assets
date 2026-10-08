@@ -343,9 +343,36 @@
       "char": "年",
       "taskType": "component_split",
       "requestId": "康軒_2年級_上學期_第1課_component_split_3a847891052daeb1",
-      "reason": "c9s XML 第7筆完全重複第6筆，原始Stroke共7筆，教育部標準為6畫；來源異常，保留未完成。",
-      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5e74.xml",
-      "referenceUrl": "https://stroke-order.learningweb.moe.edu.tw/dictMean.jsp?ID=24180"
+      "reason": "重新核對 c9s XML：共7筆，第7筆 Outline 與第6筆相同（Track 不同）；來源異常，未校正並確認前保留待辦，不標 verified。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5e74.xml"
     }
-  ]
+  ],
+  "lastCheckedAt": "2026-10-08T00:43:37Z",
+  "progress": {
+    "totalItems": 20,
+    "completedItems": 19,
+    "blockedItems": 1,
+    "completedRequestIds": [
+      "康軒_2年級_上學期_第1課_component_split_c0daf460d7e3da33",
+      "康軒_2年級_上學期_第1課_component_split_dcae906ad2765b5c",
+      "康軒_2年級_上學期_第1課_component_split_e20b0021692e540a",
+      "康軒_2年級_上學期_第1課_component_split_b51c2ff9a0989b99",
+      "康軒_2年級_上學期_第1課_component_split_b7c8b3780d48e346",
+      "康軒_2年級_上學期_第1課_component_split_492c967a17fff842",
+      "康軒_2年級_上學期_第1課_component_split_44c633cf189bb029",
+      "康軒_2年級_上學期_第1課_component_split_7ac40f20886d2ebf",
+      "康軒_2年級_上學期_第1課_component_split_f210b50db995af9e",
+      "康軒_2年級_上學期_第1課_component_split_bf164708d715a67e",
+      "康軒_2年級_上學期_第1課_component_split_368aeb518a4b566c",
+      "康軒_2年級_上學期_第1課_component_split_f80d3adbb35614db",
+      "康軒_2年級_上學期_第1課_component_split_136165badac0d363",
+      "康軒_2年級_上學期_第1課_component_split_1e92ab8a71422ac2",
+      "康軒_2年級_上學期_第1課_component_split_fb652d8ab670e92b",
+      "康軒_2年級_上學期_第1課_component_split_ab5e622611766e5b",
+      "康軒_2年級_上學期_第1課_component_split_101803f82f91ad1d",
+      "康軒_2年級_上學期_第1課_component_split_5a467bdea99844ab",
+      "康軒_2年級_上學期_第1課_component_split_1c1dc762170dafff"
+    ],
+    "validation": "逐一讀取正式 aiGenerated 結果，確認 completed、verified、radicalVerified、分組筆畫完整且無重複、split 與 strokeGroups 筆數一致；重用既有完成資料。"
+  }
 }
