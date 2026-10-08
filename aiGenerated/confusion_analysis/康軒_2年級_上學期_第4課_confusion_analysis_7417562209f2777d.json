@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第4課_confusion_analysis_7417562209f2777d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "動",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "動",
+    "groups": {
+      "shape": [
+        {
+          "char": "重",
+          "why": "動的左半就是重，容易漏寫右側。",
+          "difference": "「重」旁加上力才是「動」；運動、動作都不能少了力。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "洞",
+          "why": "同音：動、洞都讀ㄉㄨㄥˋ。",
+          "difference": "「動」用於動作；「洞」是洞口，左邊有氵。"
+        },
+        {
+          "char": "凍",
+          "why": "同音：動、凍都讀ㄉㄨㄥˋ。",
+          "difference": "「活動」用動；「冷凍」用凍，凍的左邊是冫。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "跑",
+          "why": "跑是身體動起來的一種方式。",
+          "difference": "「動」包含許多動作；「跑」是用雙腳快速前進，不能把所有動作都叫跑。"
+        }
+      ],
+      "component": [
+        {
+          "char": "助",
+          "why": "兩字右側都有力。",
+          "difference": "「動」左邊是重；「助」左邊是且。看到力旁後，還要檢查左半。"
+        }
+      ]
+    },
+    "tip": "把「重」和「力」分開看，再合起來讀ㄉㄨㄥˋ；用「跳舞是動作，站著不動也可以休息」理解動。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

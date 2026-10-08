@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第4課_confusion_analysis_c131266833bd92c6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "協",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "協",
+    "groups": {
+      "shape": [
+        {
+          "char": "脅",
+          "why": "兩字都出現三個力，容易因部件相同而認錯。",
+          "difference": "協是十在左、三個力在右；脅是三個力在上、月在下。協力與威脅的意思不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鞋",
+          "why": "同音：協、鞋都讀ㄒㄧㄝˊ。",
+          "difference": "同心協力用協；腳上穿的鞋用鞋。"
+        },
+        {
+          "char": "斜",
+          "why": "同音：協、斜都讀ㄒㄧㄝˊ。",
+          "difference": "協是一起合作；斜是方向不直，例如斜線。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "合",
+          "why": "協力、合力都和一起出力有關。",
+          "difference": "意思接近，但課文固定說「同心協力」，要按詞語搭配用協，不隨意換字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "力",
+          "why": "協右邊由三個力組成，容易少寫一個。",
+          "difference": "協右側是上面一個力、下面兩個力，左邊還有十；不是只在十旁寫一個力。"
+        }
+      ]
+    },
+    "tip": "本課「同心協力」就是大家朝同一目標共同出力；字形數清三個力，讀音ㄒㄧㄝˊ。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

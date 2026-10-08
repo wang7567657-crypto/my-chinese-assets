@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第4課_confusion_analysis_ef75e9fcc0ea7206",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "腳",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "腳",
+    "groups": {
+      "shape": [
+        {
+          "char": "卻",
+          "why": "腳的右半就是卻，容易漏寫最左邊。",
+          "difference": "腳左邊還有月形的肉旁；卻沒有。兩人三腳要寫完整腳字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "角",
+          "why": "同音限此讀法：腳ㄐㄧㄠˇ；「角落」的角也讀ㄐㄧㄠˇ。",
+          "difference": "腳是身體的一部分；角落的角表示地方的邊角。"
+        },
+        {
+          "char": "叫",
+          "why": "近音：腳ㄐㄧㄠˇ、叫ㄐㄧㄠˋ，聲調不同。",
+          "difference": "雙腳是三聲；大叫是四聲。先聽聲調再選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "足",
+          "why": "腳與足都可指接觸地面、支撐身體的部位。",
+          "difference": "意思相近但詞語搭配不同，例如雙腳、足球；本課遊戲名稱是兩人三腳。"
+        }
+      ],
+      "component": [
+        {
+          "char": "腿",
+          "why": "兩字左側都有月形肉旁。",
+          "difference": "腳右邊是卻，腿右邊是退；腳與腿的部位也不同，不能只憑肉旁猜字。"
+        }
+      ]
+    },
+    "tip": "左邊月形是肉旁，提醒這個字和身體有關；本課雙腳、三腳都讀ㄐㄧㄠˇ。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

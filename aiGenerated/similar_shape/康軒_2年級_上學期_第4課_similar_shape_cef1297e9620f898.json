@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第4課_similar_shape_cef1297e9620f898",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "河",
+    "lessonChars": [
+      "運",
+      "動",
+      "飄",
+      "熱",
+      "鬧",
+      "舞",
+      "哇",
+      "往",
+      "容",
+      "步",
+      "汗",
+      "腳",
+      "協",
+      "聲",
+      "河",
+      "氣",
+      "最",
+      "可",
+      "賽",
+      "拔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "河",
+    "similarChars": [
+      {
+        "char": "何",
+        "similarity": "兩字右邊都是「可」。",
+        "difference": "「河」左邊是「氵」；「何」左邊是「亻」。"
+      },
+      {
+        "char": "呵",
+        "similarity": "兩字右邊都是「可」。",
+        "difference": "「河」左邊是「氵」；「呵」左邊是「口」。"
+      },
+      {
+        "char": "柯",
+        "similarity": "兩字右邊都是「可」。",
+        "difference": "「河」左邊是「氵」；「柯」左邊是「木」。"
+      },
+      {
+        "char": "苛",
+        "similarity": "兩字都有「可」。",
+        "difference": "「河」是在「可」左邊加「氵」；「苛」是在「可」上方加「艹」。"
+      },
+      {
+        "char": "荷",
+        "similarity": "兩字都含有「可」。",
+        "difference": "「河」是左「氵」右「可」；「荷」上面是「艹」，下面是左「亻」右「可」的「何」。"
+      },
+      {
+        "char": "阿",
+        "similarity": "兩字右邊都是「可」。",
+        "difference": "「河」左邊是「氵」；「阿」左邊是「阝」。"
+      }
+    ],
+    "teachingTip": "先固定右邊的「可」，再逐字比較左旁。優先分清「河」的三點水和「何」的單人旁。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

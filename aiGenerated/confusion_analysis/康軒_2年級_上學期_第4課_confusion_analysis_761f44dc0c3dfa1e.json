@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第4課_confusion_analysis_761f44dc0c3dfa1e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "步",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "步",
+    "groups": {
+      "shape": [
+        {
+          "char": "止",
+          "why": "步的上半是止，容易只記上半而漏寫下方。",
+          "difference": "步除了上面的止，下方還有三筆；止是停住，步可見於腳步、跑步。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "布",
+          "why": "同音：步、布都讀ㄅㄨˋ。",
+          "difference": "跑步用步；布料用布。可以用動作圖和布料圖來分辨。"
+        },
+        {
+          "char": "部",
+          "why": "同音：步、部都讀ㄅㄨˋ。",
+          "difference": "「腳步」用步；「部分」用部，不因讀音相同就互換。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "走",
+          "why": "步和走都和雙腳移動有關。",
+          "difference": "步可指一步的距離或行走；走常直接表示走路。本課跑步是快速移動，不是慢慢走。"
+        }
+      ],
+      "component": [
+        {
+          "char": "少",
+          "why": "步的下半很像少，容易多加右側一點。",
+          "difference": "標準字「步」下方沒有少的右側那一點；不可把完整少直接放在止下面。"
+        }
+      ]
+    },
+    "tip": "寫完步，檢查下半右側沒有多出一點。邊走邊數「一步、兩步」，把字和腳步連起來。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第4課_confusion_analysis_1c558a287fa5b054",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "熱",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "熱",
+    "groups": {
+      "shape": [
+        {
+          "char": "熟",
+          "why": "兩字下方都是四點，上方右側也容易看成相似形。",
+          "difference": "熱上方是埶；熟上方是孰。先對照左上形狀，再核對下方四點，不只看字底。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "惹",
+          "why": "近音：熱ㄖㄜˋ、惹ㄖㄜˇ，聲調不同。",
+          "difference": "熱是四聲，如熱鬧；惹是三聲，如惹人生氣。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "燙",
+          "why": "熱和燙都能形容溫度較高。",
+          "difference": "燙常強調接觸時熱得難受；本課的「熱鬧」說場面熱烈，不能解成操場很燙。"
+        }
+      ],
+      "component": [
+        {
+          "char": "勢",
+          "why": "兩字上半都可辨認出埶。",
+          "difference": "「熱」下方是灬；「勢」下方是力，不能互換。"
+        }
+      ]
+    },
+    "tip": "本課讀「熱鬧」ㄖㄜˋ ㄋㄠˋ，意思是場面活潑熱烈。書寫先核對上半，再數下方四點。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第4課_confusion_analysis_8a1f65ef04d8ddae",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "聲",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "聲",
+    "groups": {
+      "shape": [],
+      "sound": [
+        {
+          "char": "生",
+          "why": "同音：聲、生都讀ㄕㄥ。",
+          "difference": "笑聲用聲；生日用生。聽到聲音不能只憑讀音寫成生。"
+        },
+        {
+          "char": "升",
+          "why": "同音：聲、升都讀ㄕㄥ。",
+          "difference": "加油聲用聲；升高用升，意思不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "音",
+          "why": "聲、音都與聽見的內容有關，又可組成聲音。",
+          "difference": "本課用「笑聲、聲音」；常見搭配是笑聲，不任意寫成笑音。"
+        }
+      ],
+      "component": [
+        {
+          "char": "耳",
+          "why": "聲下方的耳有時被漏寫，或誤當成別的方框。",
+          "difference": "聲下半是完整的耳，提醒聲音可以用耳朵聽；只寫耳不是聲。"
+        },
+        {
+          "char": "土",
+          "why": "聲左上方的士容易寫成土。",
+          "difference": "聲左上是士，上橫較長、下橫較短；土則是上橫較短、下橫較長。"
+        }
+      ]
+    },
+    "tip": "讀ㄕㄥ，下面找耳，左上看士。用「我聽見笑聲」把字形、讀音和課文情境連起來。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}
