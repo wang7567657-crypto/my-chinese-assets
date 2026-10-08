@@ -1,0 +1,59 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_2年級_上學期_第4課_component_split_a0a19aa8ec4b938a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "拔",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      3,
+      5
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    ],
+    "components": [
+      "扌",
+      "其餘部分"
+    ],
+    "strokeCount": 8,
+    "radical": "手",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "採部首與其餘部分兩組；split 為各組筆數，實際筆序依 strokeGroups。每筆恰好出現一次，保留原字位置與組內筆順。",
+    "verification": {
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/62d4.xml",
+      "method": "解析原始 XML，核對 Stroke 數、輪廓無重複、有限合理座標與有效 Track；實際渲染藍色部首、橘色其餘部分後逐字視覺核對。"
+    }
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

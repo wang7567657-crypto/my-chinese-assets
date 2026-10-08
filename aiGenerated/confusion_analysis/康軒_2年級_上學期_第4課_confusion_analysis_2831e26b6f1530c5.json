@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第4課_confusion_analysis_2831e26b6f1530c5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "河",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "河",
+    "groups": {
+      "shape": [
+        {
+          "char": "何",
+          "why": "右側都是可，容易忽略左旁。",
+          "difference": "河左邊是氵，與水有關；何左邊是亻，如為何、如何。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "合",
+          "why": "同音：河、合都讀ㄏㄜˊ。",
+          "difference": "河流用河；合作用合。字義和部件可幫忙選字。"
+        },
+        {
+          "char": "和",
+          "why": "同音限此讀法：河ㄏㄜˊ；「和好」的和讀ㄏㄜˊ。",
+          "difference": "和好是相處融洽；河通常指河流。「和」有其他讀音，不能所有詞都照這個讀。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "溪",
+          "why": "河與溪都是水流的名稱。",
+          "difference": "溪常指較小的水流，河指河流；本課「拔河」是比賽名稱，不能換成拔溪。"
+        }
+      ],
+      "component": [
+        {
+          "char": "可",
+          "why": "河右側就是本課的可，容易只寫可。",
+          "difference": "氵加可才是河；可沒有三點水。"
+        }
+      ]
+    },
+    "tip": "「河」一般和水流有關；「拔河」整詞指兩隊拉繩的運動，現在比賽不需要有一條河。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

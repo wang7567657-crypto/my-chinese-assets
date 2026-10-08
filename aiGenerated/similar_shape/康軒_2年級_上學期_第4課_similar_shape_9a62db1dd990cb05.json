@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_2年級_上學期_第4課_similar_shape_9a62db1dd990cb05",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "可",
+    "lessonChars": [
+      "運",
+      "動",
+      "飄",
+      "熱",
+      "鬧",
+      "舞",
+      "哇",
+      "往",
+      "容",
+      "步",
+      "汗",
+      "腳",
+      "協",
+      "聲",
+      "河",
+      "氣",
+      "最",
+      "可",
+      "賽",
+      "拔"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "可",
+    "similarChars": [
+      {
+        "char": "何",
+        "similarity": "「何」右邊保留完整的「可」。",
+        "difference": "「何」比「可」多了左邊的「亻」。"
+      },
+      {
+        "char": "河",
+        "similarity": "「河」右邊保留完整的「可」。",
+        "difference": "「河」比「可」多了左邊的「氵」。"
+      },
+      {
+        "char": "呵",
+        "similarity": "「呵」右邊保留完整的「可」。",
+        "difference": "「呵」比「可」多了左邊的「口」；不要把新增的「口」和「可」裡面的「口」混在一起。"
+      },
+      {
+        "char": "柯",
+        "similarity": "「柯」右邊保留完整的「可」。",
+        "difference": "「柯」比「可」多了左邊的「木」。"
+      },
+      {
+        "char": "苛",
+        "similarity": "「苛」下方保留完整的「可」。",
+        "difference": "「苛」比「可」多了上方的「艹」。"
+      },
+      {
+        "char": "奇",
+        "similarity": "「奇」下方保留完整的「可」。",
+        "difference": "「奇」比「可」多了上方的「大」。"
+      }
+    ],
+    "teachingTip": "先圈「可」裡的「口」和外側的橫、豎鉤。比較合體字時，找出完整的「可」後，再說新增的部件及位置。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

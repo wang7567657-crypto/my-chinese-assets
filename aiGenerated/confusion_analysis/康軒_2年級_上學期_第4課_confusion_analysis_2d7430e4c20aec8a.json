@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第4課_confusion_analysis_2d7430e4c20aec8a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "往",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "往",
+    "groups": {
+      "shape": [
+        {
+          "char": "住",
+          "why": "右邊都是主，左旁只差一筆，最容易看錯。",
+          "difference": "往左邊是彳雙人旁；住左邊是亻單人旁。往前走，住家裡。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "網",
+          "why": "同音：往、網都讀ㄨㄤˇ。",
+          "difference": "往表示方向或前去；網是網子。課文「往上跳」用往。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "向",
+          "why": "往和向都可以指出方向。",
+          "difference": "「往上跳」與「向上跳」方向相同，但本課用往；「前往」是固定詞，不能隨意改成前向。"
+        }
+      ],
+      "component": [
+        {
+          "char": "主",
+          "why": "右邊主的頂點容易漏掉。",
+          "difference": "往右側是主，頂上有一點；不是王。左側也要保留彳，不能只寫主。"
+        }
+      ]
+    },
+    "tip": "「往上」是在說跳的方向。左邊數兩撇，右邊檢查主的頂點，就能和住分開。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

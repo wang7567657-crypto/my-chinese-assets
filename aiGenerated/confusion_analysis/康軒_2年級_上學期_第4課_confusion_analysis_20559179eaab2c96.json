@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第4課_confusion_analysis_20559179eaab2c96",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鬧",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鬧",
+    "groups": {
+      "shape": [
+        {
+          "char": "間",
+          "why": "兩字都有包圍式外形，容易忽略外框和裡面的字。",
+          "difference": "「鬧」外面是鬥、裡面是市；「間」外面是門、裡面是日。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "腦",
+          "why": "近音：鬧ㄋㄠˋ、腦ㄋㄠˇ，聲調不同。",
+          "difference": "「熱鬧」的鬧是四聲；「頭腦」的腦是三聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "吵",
+          "why": "鬧和吵都可能和人聲較多有關。",
+          "difference": "「熱鬧」可形容快樂、活潑的場面；「吵」常強調聲音大或使人受干擾，課文沒有說大家在吵架。"
+        }
+      ],
+      "component": [
+        {
+          "char": "門",
+          "why": "外框很像門，容易直接用門來組鬧。",
+          "difference": "本課標準正體「鬧」用鬥部外框；請逐筆對照鬥與門的內側筆畫，不寫成門框。"
+        }
+      ]
+    },
+    "tip": "用「鬥框裡面有市」記字形；讀課文時把「熱鬧」整詞理解，不把歡樂的運動會當成胡鬧。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

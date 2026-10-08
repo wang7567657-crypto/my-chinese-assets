@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第4課_confusion_analysis_5ecd6cd5c05a8aa4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "可",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "可",
+    "groups": {
+      "shape": [
+        {
+          "char": "司",
+          "why": "兩字都包含口與外側筆畫，外形接近。",
+          "difference": "可上方是一橫、右側有豎鉤；司的外框由上方橫折鉤形成，裡面另有一橫。逐筆對照，不只看口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "渴",
+          "why": "同音：可、渴都讀ㄎㄜˇ。",
+          "difference": "「可不小」用可；口渴用渴，渴左側有氵。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "能",
+          "why": "可在「可以」裡常和能夠接近，容易把所有可都解成能。",
+          "difference": "本課「聲音可不小」用可加強語氣，意思是聲音真的不小；不能直接改成「聲音能不小」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "河",
+          "why": "可也是河的右半，容易多加三點水。",
+          "difference": "可單獨寫時沒有氵；有氵加可才是河。"
+        }
+      ]
+    },
+    "tip": "本課可讀ㄎㄜˇ。「聲音可不小」是在強調自己加油的聲音大，不只是說「可以」。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

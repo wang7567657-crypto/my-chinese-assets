@@ -1,0 +1,407 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_2年級_上學期_第4課_feature_ai_batch_171574790521b08c",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "featureTaskType": "component_split",
+    "featureName": "部件拆分",
+    "itemCount": 20,
+    "batchCharacters": [
+      "運",
+      "動",
+      "飄",
+      "熱",
+      "鬧",
+      "舞",
+      "哇",
+      "往",
+      "容",
+      "步",
+      "汗",
+      "腳",
+      "協",
+      "聲",
+      "河",
+      "氣",
+      "最",
+      "可",
+      "賽",
+      "拔"
+    ],
+    "items": [
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_705f37df330b735b",
+        "input": {
+          "char": "運",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_6fa2e3839b359052",
+        "input": {
+          "char": "動",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_a61053fe4aebd409",
+        "input": {
+          "char": "飄",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_a3dc412e96cfa5c6",
+        "input": {
+          "char": "熱",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_b2b7364dd32dfe6a",
+        "input": {
+          "char": "鬧",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_0f2aebd56dc78d4c",
+        "input": {
+          "char": "舞",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_6512c43366524dbc",
+        "input": {
+          "char": "哇",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_c17064f668dc8515",
+        "input": {
+          "char": "往",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_2b928882d0659254",
+        "input": {
+          "char": "容",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_ee275ef61ed5a3e5",
+        "input": {
+          "char": "步",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_6c673d14844506f7",
+        "input": {
+          "char": "汗",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_6973911d30deb6a4",
+        "input": {
+          "char": "腳",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_c3a421262590dee3",
+        "input": {
+          "char": "協",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_6a08585ac3e6361e",
+        "input": {
+          "char": "聲",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_3ba8faeb9949084b",
+        "input": {
+          "char": "河",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_774e33995d780cd3",
+        "input": {
+          "char": "氣",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_fb00385c2fe6461e",
+        "input": {
+          "char": "最",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_aca446f097a80f64",
+        "input": {
+          "char": "可",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_18020cc9ed8de7a7",
+        "input": {
+          "char": "賽",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_2年級_上學期_第4課_component_split_a0a19aa8ec4b938a",
+        "input": {
+          "char": "拔",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、座標与 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00",
+  "processedAt": "2026-10-08T03:32:29.827689+00:00",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "康軒_2年級_上學期_第4課_feature_ai_batch_171574790521b08c",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "康軒",
+      "grade": "2年級",
+      "semester": "上學期",
+      "lesson": "第4課",
+      "featureTaskType": "component_split",
+      "featureName": "部件拆分",
+      "itemCount": 20,
+      "batchCharacters": [
+        "運",
+        "動",
+        "飄",
+        "熱",
+        "鬧",
+        "舞",
+        "哇",
+        "往",
+        "容",
+        "步",
+        "汗",
+        "腳",
+        "協",
+        "聲",
+        "河",
+        "氣",
+        "最",
+        "可",
+        "賽",
+        "拔"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 20,
+      "resultPaths": [
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_705f37df330b735b.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_6fa2e3839b359052.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_a61053fe4aebd409.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_a3dc412e96cfa5c6.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_b2b7364dd32dfe6a.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_0f2aebd56dc78d4c.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_6512c43366524dbc.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_c17064f668dc8515.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_2b928882d0659254.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_ee275ef61ed5a3e5.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_6c673d14844506f7.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_6973911d30deb6a4.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_c3a421262590dee3.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_6a08585ac3e6361e.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_3ba8faeb9949084b.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_774e33995d780cd3.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_fb00385c2fe6461e.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_aca446f097a80f64.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_18020cc9ed8de7a7.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第4課_component_split_a0a19aa8ec4b938a.json"
+      ]
+    },
+    "createdAt": "2026-10-08T03:32:29.827689+00:00"
+  }
+}

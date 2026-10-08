@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第4課_confusion_analysis_292501b66196a43e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "汗",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "汗",
+    "groups": {
+      "shape": [
+        {
+          "char": "汙",
+          "why": "左邊都是氵，右邊都像兩橫加豎。",
+          "difference": "汗右邊是干，豎筆不鉤；汙右邊是于，有豎鉤。汗水用汗。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "漢",
+          "why": "同音：本課汗、漢都讀ㄏㄢˋ。",
+          "difference": "流汗的汗右邊是干；漢字的漢右半較複雜。"
+        },
+        {
+          "char": "旱",
+          "why": "近音：汗ㄏㄢˋ、旱ㄏㄢˇ，聲調不同。",
+          "difference": "跑步流汗是四聲；乾旱的旱是三聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "淚",
+          "why": "汗和淚都是身體排出的液體，圖片可能相似。",
+          "difference": "汗常在運動後出現在皮膚上；淚從眼睛流出。課文跑步後流的是汗。"
+        }
+      ],
+      "component": [
+        {
+          "char": "干",
+          "why": "汗右側是干，容易只記這一部分。",
+          "difference": "干前面加氵才是汗；三點水是分辨汗和干的重要線索。"
+        }
+      ]
+    },
+    "tip": "本課「汗水、流汗」讀ㄏㄢˋ，不讀「可汗」的ㄏㄢˊ。看額頭汗滴，記住左邊氵。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

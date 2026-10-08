@@ -1,0 +1,49 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第4課_confusion_analysis_f138f8e9b3afabb1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "舞",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "舞",
+    "groups": {
+      "shape": [
+        {
+          "char": "無",
+          "why": "兩字上方相同，容易只看到上半就認錯。",
+          "difference": "「舞」下方是舛；「無」下方是灬四點。讀字前要看完下半部。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "五",
+          "why": "同音：舞、五都讀ㄨˇ。",
+          "difference": "跳舞用舞；數字五用五。聲音相同，意思與字形不同。"
+        },
+        {
+          "char": "午",
+          "why": "同音：舞、午都讀ㄨˇ。",
+          "difference": "「大會舞」是舞；「中午」是午，不用午表示跳舞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "跳",
+          "why": "跳舞常包含跳的動作，容易把兩字當成完全相同。",
+          "difference": "舞是配合節奏活動身體；跳可指身體離地再落下。跳舞也能有揮手、轉身等動作。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "先看底部：有舛的是舞，有四點的是無。課文「大會舞」是一種大家一起做的舞蹈。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

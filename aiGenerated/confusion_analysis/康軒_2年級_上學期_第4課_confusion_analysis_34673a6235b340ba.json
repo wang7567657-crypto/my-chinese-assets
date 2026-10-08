@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第4課_confusion_analysis_34673a6235b340ba",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "氣",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "氣",
+    "groups": {
+      "shape": [
+        {
+          "char": "汽",
+          "why": "兩字都有气形，又是同音，容易少寫或放錯部件。",
+          "difference": "氣是在气形裡有米；汽是在气的左邊加氵。力氣用氣，汽車用汽。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "汽",
+          "why": "同音：氣、汽都讀ㄑㄧˋ。",
+          "difference": "力氣、空氣用氣；汽車用汽，須按詞語選字。"
+        },
+        {
+          "char": "器",
+          "why": "同音：氣、器都讀ㄑㄧˋ。",
+          "difference": "力氣的氣是一個字；器材的器有許多口，意思是用具。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "力",
+          "why": "「力氣」和出力的能力有關。",
+          "difference": "本課要把力氣整詞理解，不把這裡的氣只當作空氣，也不把力氣誤寫成力力。"
+        }
+      ],
+      "component": [
+        {
+          "char": "米",
+          "why": "氣的內部是米，容易誤寫成木或少筆。",
+          "difference": "米有左右兩點及撇捺；把米完整放在气形內，不能只剩木。"
+        }
+      ]
+    },
+    "tip": "本課「力氣」讀ㄌㄧˋ ㄑㄧˋ，說的是出力的能力。記住裡面米、左邊沒有氵。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}

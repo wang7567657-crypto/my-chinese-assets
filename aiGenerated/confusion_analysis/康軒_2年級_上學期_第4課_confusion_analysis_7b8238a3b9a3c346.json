@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_2年級_上學期_第4課_confusion_analysis_7b8238a3b9a3c346",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "容",
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "容",
+    "groups": {
+      "shape": [
+        {
+          "char": "谷",
+          "why": "容下面是谷，容易漏掉最上面的部分。",
+          "difference": "「容」上有宀；「谷」沒有宀。課文笑容要保留上面的宀。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "溶",
+          "why": "同音：容、溶都讀ㄖㄨㄥˊ。",
+          "difference": "笑容是臉上的表情；溶解的溶有氵，不用溶來寫笑容。"
+        },
+        {
+          "char": "榕",
+          "why": "同音：容、榕都讀ㄖㄨㄥˊ。",
+          "difference": "榕是榕樹，左邊有木；容沒有木旁。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "笑",
+          "why": "笑容與笑都和開心表情有關。",
+          "difference": "笑容指臉上笑的樣子；笑也能表示笑這個動作。說「露出笑容」較完整，不把容單獨當成笑。"
+        }
+      ],
+      "component": [
+        {
+          "char": "客",
+          "why": "兩字都有宀，下方又都有口形。",
+          "difference": "容在宀下面是谷；客在宀下面是各，要看中間的筆畫排列。"
+        }
+      ]
+    },
+    "tip": "課文的容取「面貌、樣子」的意思，「笑容」是臉上笑的樣子；不要只用「容易」來解釋這一句。"
+  },
+  "createdAt": "2026-10-08T03:32:29.827689+00:00"
+}
