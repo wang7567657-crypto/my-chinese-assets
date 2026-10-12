@@ -2,7 +2,7 @@
   "taskType": "lesson_simplification",
   "requestId": "翰林_6年級_上學期_第5課_lesson_simplification_0e693d6152fc0d7c",
   "version": "1.0",
-  "status": "pending",
+  "status": "completed",
   "input": {
     "publisher": "翰林",
     "grade": "6年級",
@@ -42,5 +42,17 @@
     "illustrationStyle": "臺灣國小教材風格、柔和清楚、低視覺負擔、同一課人物造型與配色完全一致、圖片內不放文字",
     "instruction": "這是「標準簡化」版本。課文簡化的共同目標是讓學生能輕鬆看懂，不是只換幾個字，也不能寫得和原文一樣難。程度規則：保留主要人物、事件、因果與必要細節；刪除重複或次要修飾；使用常用詞、明確主詞與短句，一句只說一件事；必要名詞用一句簡短的話直接解釋。 請把整篇課文合併處理，不可逐字或逐段拆成多筆待辦。保留原意、事件順序、人名地名與 preserveWords，不得新增原文沒有的事實。每段產生2題只根據該段易讀文字即可作答的四選一精讀題，題幹與選項也必須符合本簡化程度，且只有一個正確答案。三種簡化程度共用同一課插圖：若 reuseIllustrationUrls 有內容，逐段直接沿用，禁止重新產圖；若 aiLessonSimplification/翰林_6年級_上學期_第5課_lesson-images_e5f37163fb2aa8a3/paragraph-01.png 等圖片已存在，也直接沿用；只有完全沒有可沿用圖片時才產生一組無文字、一致人物與配色的插圖並存入 aiLessonSimplification/翰林_6年級_上學期_第5課_lesson-images_e5f37163fb2aa8a3/。回傳 JSON 必須包含 title、targetLevel、simplificationLevel（固定為 standard）、simplificationLevelLabel（固定為 標準簡化）、illustrationSetKey、illustrationSourceRequestId、preservedWords、keyPoints、paragraphs；paragraphs 每項必須含 original、simplified、preservedWords、questions（2題，每題含 question、choices、answerIndex〔從0開始〕、explanation）、illustration（含 imageUrl、alt、prompt、styleKey）。"
   },
-  "createdAt": "2026-10-12T05:30:32.589Z"
+  "createdAt": "2026-10-12T05:30:32.589Z",
+  "completedAt": "2026-10-12T05:36:37Z",
+  "resultPath": "aiGenerated/lesson_simplification/翰林_6年級_上學期_第5課_lesson_simplification_0e693d6152fc0d7c.json",
+  "validation": {
+    "bodyParagraphs": 11,
+    "questions": 22,
+    "reusedIllustrations": 11,
+    "sourceAbsentWords": [
+      "典",
+      "雋"
+    ],
+    "supplementLocation": "data.vocabularyNotes"
+  }
 }

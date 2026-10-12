@@ -1,0 +1,66 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_2年級_上學期_第11課_component_split_143449ab48b49181",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "寒",
+    "grade": "2年級",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。",
+    "lesson": "第11課",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "semester": "上學期",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "structure": "上下",
+    "split": [
+      3,
+      9
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    ],
+    "components": [
+      "宀",
+      "其餘部分"
+    ],
+    "strokeCount": 12,
+    "radical": "宀",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "按部首與其餘部分分組；split 為各組筆數，實際取筆必須依 strokeGroups（1起算），每筆恰好出現一次，保留原字位置與各組原筆順。",
+    "verification": {
+      "method": "解析 c9s 原始 XML，核對 Stroke 數、Outline 不重複、有限且合理的座標、每筆有效 Track；渲染原位兩色圖並逐字核對部首位置與字形。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5bd2.xml",
+      "sourceBlobSha": "75b30f2b395282fcc29bf8704fcd90e356f9b5c6"
+    },
+    "updatedAt": "2026-10-12T05:36:37Z"
+  },
+  "createdAt": "2026-10-08T19:24:24.482795+00:00",
+  "updatedAt": "2026-10-12T05:36:37Z"
+}
