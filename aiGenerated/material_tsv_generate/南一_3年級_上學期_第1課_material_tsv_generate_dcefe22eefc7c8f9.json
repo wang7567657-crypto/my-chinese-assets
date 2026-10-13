@@ -1,0 +1,70 @@
+{
+  "taskType": "material_tsv_generate",
+  "requestId": "南一_3年級_上學期_第1課_material_tsv_generate_dcefe22eefc7c8f9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "materialType": "primary",
+    "chars": [
+      "泥",
+      "化",
+      "雀",
+      "輕",
+      "羽",
+      "衣",
+      "脆",
+      "髮",
+      "處",
+      "旅",
+      "行",
+      "平",
+      "男",
+      "朗",
+      "足"
+    ],
+    "itemCount": 15,
+    "batchCharacters": [
+      "泥",
+      "化",
+      "雀",
+      "輕",
+      "羽",
+      "衣",
+      "脆",
+      "髮",
+      "處",
+      "旅",
+      "行",
+      "平",
+      "男",
+      "朗",
+      "足"
+    ],
+    "level": "國小中高年級",
+    "formatVersion": "tsv-v1"
+  },
+  "data": {
+    "materialType": "primary",
+    "tsv": "泥\tㄋㄧˊ\t泥土\tㄋㄧˊ ㄊㄨˇ\t地面上的土，可以用來種植物。\t我們把種子埋進泥土裡。\n化\tㄏㄨㄚˋ\t變化\tㄅㄧㄢˋ ㄏㄨㄚˋ\t樣子或情況和原來不同。\t我每天觀察豆苗的變化。\n雀\tㄑㄩㄝˋ\t麻雀\tㄇㄚˊ ㄑㄩㄝˋ\t一種常在住家附近出現的小鳥。\t一隻麻雀停在窗外的樹枝上。\n輕\tㄑㄧㄥ\t輕快\tㄑㄧㄥ ㄎㄨㄞˋ\t動作輕鬆而快速，也可形容節奏活潑。\t我們跟著輕快的音樂拍手。\n羽\tㄩˇ\t羽毛\tㄩˇ ㄇㄠˊ\t長在鳥身上的毛。\t小鳥的羽毛有不同的顏色。\n衣\tㄧ\t上衣\tㄕㄤˋ ㄧ\t穿在身體上半部的衣服。\t我今天穿了一件藍色上衣。\n脆\tㄘㄨㄟˋ\t清脆\tㄑㄧㄥ ㄘㄨㄟˋ\t聲音清楚而響亮。\t窗外傳來清脆的鳥叫聲。\n髮\tㄈㄚˇ\t頭髮\tㄊㄡˊ ㄈㄚˇ\t長在頭上的毛髮。\t洗完澡後，我把頭髮吹乾。\n處\tㄔㄨˋ\t到處\tㄉㄠˋ ㄔㄨˋ\t各個地方。\t春天的公園到處都有盛開的花。\n旅\tㄌㄩˇ\t旅行\tㄌㄩˇ ㄒㄧㄥˊ\t到別的地方遊覽或探訪。\t放假時，我們一家人去臺南旅行。\n行\tㄒㄧㄥˊ\t行走\tㄒㄧㄥˊ ㄗㄡˇ\t走路，從一個地方移動到另一個地方。\t我們沿著步道慢慢行走。\n平\tㄆㄧㄥˊ\t平安\tㄆㄧㄥˊ ㄢ\t沒有受到傷害或遇到危險。\t媽媽希望我們每天平安回家。\n男\tㄋㄢˊ\t男孩\tㄋㄢˊ ㄏㄞˊ\t年紀還小的男性。\t那位男孩正在操場上踢球。\n朗\tㄌㄤˇ\t晴朗\tㄑㄧㄥˊ ㄌㄤˇ\t天空明亮，沒有雲或雲很少。\t今天天氣晴朗，我們到公園散步。\n足\tㄗㄨˊ\t足夠\tㄗㄨˊ ㄍㄡˋ\t數量或程度已經達到需要。\t桌上的鉛筆足夠每位同學拿一枝。\n"
+  },
+  "createdAt": "2026-10-13T16:59:35.926Z",
+  "updatedAt": "2026-10-13T17:03:24Z",
+  "verification": {
+    "characterCount": 15,
+    "rowCount": 15,
+    "columnsPerRow": 6,
+    "method": "核對生字覆蓋、每字語詞數量、注音音節數與國字數一致、語詞包含指定生字、例句與語詞對應；多音字依實際語詞標音。",
+    "dictionaryReferences": [
+      "https://dict.concised.moe.edu.tw/dictView.jsp?ID=10351",
+      "https://dict.concised.moe.edu.tw/dictView.jsp?ID=40255",
+      "https://dict.concised.moe.edu.tw/dictView.jsp?ID=32652",
+      "https://dict.concised.moe.edu.tw/dictView.jsp?ID=12550",
+      "https://dict.concised.moe.edu.tw/dictView.jsp?ID=37366"
+    ]
+  }
+}
