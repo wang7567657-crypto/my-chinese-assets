@@ -1,0 +1,74 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_2年級_上學期_第12課_component_split_02083125f38fba26",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鼓",
+    "grade": "2年級",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。",
+    "lesson": "第12課",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "semester": "上學期",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      13
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    ],
+    "components": [
+      "鼓"
+    ],
+    "strokeCount": 13,
+    "radical": "鼓",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "本字為鼓部，部首涵蓋全字，這份部首分色保留完整字形；不把左右其餘筆畫誤當部首。",
+    "verification": {
+      "method": "解析 c9s 原始 XML，核對 Stroke 數、Outline 不重複、有限且合理的座標、每筆有效 Track；渲染原位兩色圖並逐字核對部首位置與字形。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/9f13.xml",
+      "sourceBlobSha": "30b817a80038822464d3bd39330a8c44b9e490e7",
+      "radicalReferenceUrl": "https://stroke-order.learningweb.moe.edu.tw/dictMean.jsp?ID=40723"
+    },
+    "updatedAt": "2026-10-12T05:36:37Z"
+  },
+  "createdAt": "2026-10-08T20:30:55.687283+00:00",
+  "updatedAt": "2026-10-12T05:36:37Z"
+}

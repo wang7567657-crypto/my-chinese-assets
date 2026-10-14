@@ -1,0 +1,59 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_3年級_上學期_第1課_component_split_b13e70bc5782ccf2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "舟",
+    "grade": "3年級",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。",
+    "lesson": "第1課",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "semester": "上學期",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "structure": "獨體",
+    "split": [
+      6
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    ],
+    "components": [
+      "舟"
+    ],
+    "strokeCount": 6,
+    "radical": "舟",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "獨體字且部首涵蓋全字，保留完整字形，不硬拆。",
+    "verification": {
+      "method": "解析 c9s 原始 XML，核對 Stroke 數、Outline 不重複、有限且合理的座標、每筆有效 Track；渲染原位兩色圖並逐字核對部首位置與字形。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/821f.xml",
+      "sourceBlobSha": "303e9e9c75b47b063dc03eba9f3970d2c69d90a7"
+    },
+    "updatedAt": "2026-10-12T05:36:37Z"
+  },
+  "createdAt": "2026-10-08T21:30:54.386660+00:00",
+  "updatedAt": "2026-10-12T05:36:37Z"
+}

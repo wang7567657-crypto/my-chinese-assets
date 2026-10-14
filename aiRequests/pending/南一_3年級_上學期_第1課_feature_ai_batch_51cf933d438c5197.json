@@ -1,0 +1,96 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_3年級_上學期_第1課_feature_ai_batch_51cf933d438c5197",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "fillblank_generate",
+    "featureName": "填空測驗",
+    "itemCount": 1,
+    "batchCharacters": [],
+    "items": [
+      {
+        "taskType": "fillblank_generate",
+        "requestId": "南一_3年級_上學期_第1課_fillblank_generate_16bcc784764a014a",
+        "input": {
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "title": "第1課 全課填空",
+          "items": [
+            {
+              "char": "泥",
+              "word": "泥"
+            },
+            {
+              "char": "化",
+              "word": "化"
+            },
+            {
+              "char": "雀",
+              "word": "雀"
+            },
+            {
+              "char": "輕",
+              "word": "輕"
+            },
+            {
+              "char": "羽",
+              "word": "羽"
+            },
+            {
+              "char": "衣",
+              "word": "衣"
+            },
+            {
+              "char": "脆",
+              "word": "脆"
+            },
+            {
+              "char": "髮",
+              "word": "髮"
+            },
+            {
+              "char": "處",
+              "word": "處"
+            },
+            {
+              "char": "旅",
+              "word": "旅"
+            },
+            {
+              "char": "行",
+              "word": "行"
+            },
+            {
+              "char": "平",
+              "word": "平"
+            },
+            {
+              "char": "男",
+              "word": "男"
+            },
+            {
+              "char": "朗",
+              "word": "朗"
+            },
+            {
+              "char": "足",
+              "word": "足"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      }
+    ],
+    "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
+  },
+  "createdAt": "2026-10-13T17:06:17.653Z"
+}
