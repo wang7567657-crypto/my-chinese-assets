@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_db3d7be60ef77560",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "必",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "必",
+    "groups": {
+      "shape": [
+        {
+          "char": "心",
+          "why": "輪廓接近，容易漏掉穿過的長撇。",
+          "difference": "必比心多一長撇；這是現代楷書辨形提示，不是字源說明。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "閉",
+          "why": "同音：必、閉都讀 ㄅㄧˋ。",
+          "difference": "必須、一定要做用必；關閉用閉，閉外面有門。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "要",
+          "why": "必須和要都能表達需要。",
+          "difference": "必須強調一定要；要也可表示想要，如我要一張紙。不能把所有的要都換成必。"
+        }
+      ],
+      "component": [
+        {
+          "char": "祕",
+          "why": "祕的右邊含有必，容易多加示旁。",
+          "difference": "必是完整五畫字；神祕的祕左邊另有示字旁，字音也不同。"
+        }
+      ]
+    },
+    "tip": "用「必須」讀 ㄅㄧˋ，辨形時找長撇；寫字仍按教育部筆順，不把心的筆順硬套過來。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

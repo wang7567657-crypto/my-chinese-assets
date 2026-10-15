@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_4001704ea8a2b510",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "絲",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "絲",
+    "groups": {
+      "shape": [
+        {
+          "char": "糸",
+          "why": "絲由左右兩部分組成，容易少寫一邊。",
+          "difference": "絲有兩個糸形部件；單獨糸只有一組。絲的左右下半標準寫法並不完全一樣。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "司",
+          "why": "同音：絲、司都讀 ㄙ。",
+          "difference": "絲帶、蠶絲用絲；司機、公司用司，需靠詞義選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "線",
+          "why": "兩者都可能指細長的東西。",
+          "difference": "絲可指蠶吐出的細線或細如絲的東西；線的使用範圍更廣，如電線、直線，不能一律互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "綁",
+          "why": "都有糸旁，容易只認左邊。",
+          "difference": "絲右邊仍是糸；綁右邊是邦。絲帶的材料名稱和綁上的動作要分清。"
+        }
+      ]
+    },
+    "tip": "左右各看一組：左糸旁下方是三點，右糸下方是小；不要把兩邊都畫成一樣。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

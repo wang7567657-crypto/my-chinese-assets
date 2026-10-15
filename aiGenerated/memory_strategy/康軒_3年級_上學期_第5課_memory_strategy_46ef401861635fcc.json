@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第5課_memory_strategy_46ef401861635fcc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "紙",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "紙",
+    "components": [
+      "糸（左旁，下作三點）",
+      "氏（右）"
+    ],
+    "association": "教學聯想（非字源）：想像紙張旁放一束細纖維，幫助連結紙的材料；右邊氏作固定字形記住，不編造氏代表紙的故事。",
+    "mnemonic": "左糸右氏是紙張，氏下不添點或橫。",
+    "visualPrompt": "在畫面一側清楚呈現教育部標準楷體「紙」，保持筆畫、比例及部件位置不變；另一側畫白紙、摺好的紙條和放大後的植物纖維示意。插圖只放在字旁，不拿圖案取代筆畫。標註「教學聯想，非字源」。",
+    "teachingTip": "糸旁下作三點；右側氏沒有氐下方的短橫。紙條是一般詞例，不冒稱本課原文。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

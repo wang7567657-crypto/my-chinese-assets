@@ -1,0 +1,29 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第5課_memory_strategy_0dc51ba395bd9795",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "朝",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "朝",
+    "components": [
+      "十（左上）",
+      "日（左中）",
+      "十（左下）",
+      "月（右）"
+    ],
+    "association": "教學聯想（非字源）：想像早晨太陽升起，月亮還看得見，同學準備參加朝會；藉日、月的位置記住字形。",
+    "mnemonic": "十、日、十在左，月在右；早晨朝會讀ㄓㄠ。",
+    "visualPrompt": "在畫面一側清楚呈現教育部標準楷體「朝」，保持筆畫、比例及部件位置不變；另一側畫清晨的太陽與淡月，同學排隊參加朝會。插圖只放在字旁，不拿圖案取代筆畫。標註「教學聯想，非字源」。",
+    "teachingTip": "用兩色圈出左、右兩區；先練朝會的ㄓㄠ，再用朝前的ㄔㄠˊ對照，不以單字猜讀音。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

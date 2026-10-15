@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第5課_similar_shape_6c10f0fbde6e6d04",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "綁",
+    "lessonChars": [
+      "朝",
+      "努",
+      "總",
+      "段",
+      "利",
+      "害",
+      "整",
+      "該",
+      "紙",
+      "李",
+      "貴",
+      "必",
+      "通",
+      "場",
+      "絲",
+      "導",
+      "綁",
+      "鬆"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "綁",
+    "similarChars": [
+      {
+        "char": "邦",
+        "similarity": "主要部件邦相同。",
+        "difference": "「綁」左糸右邦；「邦」只有邦，沒有左邊糸。"
+      },
+      {
+        "char": "梆",
+        "similarity": "主要部件邦相同。",
+        "difference": "「綁」左糸右邦；「梆」左木右邦。"
+      },
+      {
+        "char": "挷",
+        "similarity": "主要部件邦相同。",
+        "difference": "「綁」左糸右邦；「挷」左扌右邦；此字較少見，只作字形觀察。"
+      },
+      {
+        "char": "絆",
+        "similarity": "左邊同是糸字旁。",
+        "difference": "「綁」右邊是邦；「絆」右邊是半，沒有邦右邊的阝。"
+      },
+      {
+        "char": "縛",
+        "similarity": "左邊同是糸字旁。",
+        "difference": "「綁」右邊是邦；「縛」右邊是尃形，上甫下寸。"
+      },
+      {
+        "char": "綿",
+        "similarity": "左邊同是糸字旁。",
+        "difference": "「綁」右邊是邦；「綿」右邊是帛，上白下巾。"
+      }
+    ],
+    "teachingTip": "先分清綁與絆的右半：綁有邦右側的阝，絆只有半。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

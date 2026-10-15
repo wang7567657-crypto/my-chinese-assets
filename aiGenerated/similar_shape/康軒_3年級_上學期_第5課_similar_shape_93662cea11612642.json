@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第5課_similar_shape_93662cea11612642",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "必",
+    "lessonChars": [
+      "朝",
+      "努",
+      "總",
+      "段",
+      "利",
+      "害",
+      "整",
+      "該",
+      "紙",
+      "李",
+      "貴",
+      "必",
+      "通",
+      "場",
+      "絲",
+      "導",
+      "綁",
+      "鬆"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "必",
+    "similarChars": [
+      {
+        "char": "心",
+        "similarity": "外形接近，都有彎鉤與點。",
+        "difference": "「必」有穿過字形的長撇；「心」沒有這筆。這只是辨形提示，不代表兩字筆順相同。"
+      },
+      {
+        "char": "泌",
+        "similarity": "都含完整的必。",
+        "difference": "「泌」在必左邊加氵；「必」本身沒有外加部件。"
+      },
+      {
+        "char": "祕",
+        "similarity": "都含完整的必。",
+        "difference": "「祕」在必左邊加示字旁；「必」本身沒有外加部件。"
+      },
+      {
+        "char": "秘",
+        "similarity": "都含完整的必。",
+        "difference": "「秘」在必左邊加禾；本組作「祕」的異體辨識；「必」本身沒有外加部件。"
+      },
+      {
+        "char": "宓",
+        "similarity": "都含完整的必。",
+        "difference": "「宓」在必上方加宀；此字較少見；「必」本身沒有外加部件。"
+      },
+      {
+        "char": "密",
+        "similarity": "都含完整的必。",
+        "difference": "「密」在必上方加宀、下方加山；「必」本身沒有外加部件。"
+      }
+    ],
+    "teachingTip": "先看穿過字形的長撇，分清心與必；書寫仍照「必」的標準筆順練習。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第5課_memory_strategy_3838812bafce1200",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "導",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "導",
+    "components": [
+      "道（上）",
+      "寸（下）"
+    ],
+    "association": "教學聯想（非字源）：想像指導者在路線圖上示範方向，用小提示帶大家做對動作，連結道與下方寸的位置。",
+    "mnemonic": "道在上，寸在下，指導方向不會差。",
+    "visualPrompt": "在畫面一側清楚呈現教育部標準楷體「導」，保持筆畫、比例及部件位置不變；另一側畫老師指著動作路線圖，示範給同學看。插圖只放在字旁，不拿圖案取代筆畫。標註「教學聯想，非字源」。",
+    "teachingTip": "遮住寸讀道，再露出寸讀導，對照ㄉㄠˋ與ㄉㄠˇ；寸不能漏點，且整體是上下結構。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

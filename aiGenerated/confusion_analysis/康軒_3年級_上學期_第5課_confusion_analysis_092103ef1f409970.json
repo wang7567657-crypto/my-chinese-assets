@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_092103ef1f409970",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "貴",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "貴",
+    "groups": {
+      "shape": [
+        {
+          "char": "費",
+          "why": "兩字下方都是貝，容易只看下半。",
+          "difference": "貴上方形如中下加一橫；費上方是弗。貴重用貴，花費用費。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "桂",
+          "why": "同音：貴、桂都讀 ㄍㄨㄟˋ。",
+          "difference": "李文貴的貴或貴重用貴；桂花用木旁的桂。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "重",
+          "why": "貴重一詞讓兩字容易被當成同義。",
+          "difference": "貴可表示價錢高或值得重視；重在重量語境表示分量大。東西很重，不一定很貴。"
+        }
+      ],
+      "component": [
+        {
+          "char": "虫",
+          "why": "貴的上部與虫輪廓相近，容易多添點。",
+          "difference": "貴上方是中下加一橫，沒有虫右下的點；下方還要寫完整的貝。"
+        }
+      ]
+    },
+    "tip": "上面「中加一橫」沒有點，下面是貝；放在人名「李文貴」中時，不替名字硬加詞義。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

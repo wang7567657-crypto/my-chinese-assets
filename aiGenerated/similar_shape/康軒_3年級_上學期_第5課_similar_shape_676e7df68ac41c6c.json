@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第5課_similar_shape_676e7df68ac41c6c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "導",
+    "lessonChars": [
+      "朝",
+      "努",
+      "總",
+      "段",
+      "利",
+      "害",
+      "整",
+      "該",
+      "紙",
+      "李",
+      "貴",
+      "必",
+      "通",
+      "場",
+      "絲",
+      "導",
+      "綁",
+      "鬆"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "導",
+    "similarChars": [
+      {
+        "char": "道",
+        "similarity": "完整保留「導」的上半部。",
+        "difference": "「導」在道下方還有寸；「道」下面沒有寸。"
+      },
+      {
+        "char": "尊",
+        "similarity": "下方同為寸，上下結構相近。",
+        "difference": "「導」上面是道，帶辶；「尊」上面是酋，沒有辶。"
+      },
+      {
+        "char": "遵",
+        "similarity": "都可找到辶與寸，整體輪廓接近。",
+        "difference": "「導」是道在上、寸在最下方；「遵」是辶包住尊，寸在辶裡面的尊下部。"
+      },
+      {
+        "char": "奪",
+        "similarity": "最下方同為寸。",
+        "difference": "「導」上方是道；「奪」上方是大與隹，沒有辶。"
+      },
+      {
+        "char": "尋",
+        "similarity": "最下方同為寸。",
+        "difference": "「導」寸上是道；「尋」寸上是彐及工、口，沒有辶。"
+      },
+      {
+        "char": "辱",
+        "similarity": "都在下面可找到寸。",
+        "difference": "「導」上方為道；「辱」上方為辰，沒有辶。"
+      }
+    ],
+    "teachingTip": "先比較道與導：導最下方有寸。再比較遵，注意寸在辶裡外的位置。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

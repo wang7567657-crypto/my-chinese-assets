@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第5課_similar_shape_f938ce2fb49bd61c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "通",
+    "lessonChars": [
+      "朝",
+      "努",
+      "總",
+      "段",
+      "利",
+      "害",
+      "整",
+      "該",
+      "紙",
+      "李",
+      "貴",
+      "必",
+      "通",
+      "場",
+      "絲",
+      "導",
+      "綁",
+      "鬆"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "通",
+    "similarChars": [
+      {
+        "char": "桶",
+        "similarity": "主要部件甬相同。",
+        "difference": "「通」是辶托住甬；「桶」是木在左、甬在右。"
+      },
+      {
+        "char": "痛",
+        "similarity": "主要部件甬相同。",
+        "difference": "「通」是辶托住甬；「痛」是疒包住甬。"
+      },
+      {
+        "char": "俑",
+        "similarity": "主要部件甬相同。",
+        "difference": "「通」是辶托住甬；「俑」是亻在左、甬在右。"
+      },
+      {
+        "char": "蛹",
+        "similarity": "主要部件甬相同。",
+        "difference": "「通」是辶托住甬；「蛹」是虫在左、甬在右。"
+      },
+      {
+        "char": "勇",
+        "similarity": "主要部件甬相同。",
+        "difference": "「通」是辶托住甬；「勇」是在甬下面加力。"
+      },
+      {
+        "char": "湧",
+        "similarity": "主要部件甬相同。",
+        "difference": "「通」是辶托住甬；「湧」是氵在左、勇在右，甬下另有力。"
+      }
+    ],
+    "teachingTip": "圈出甬，接著辨認通的辶；別把外面的偏旁和甬下面的力混在一起。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

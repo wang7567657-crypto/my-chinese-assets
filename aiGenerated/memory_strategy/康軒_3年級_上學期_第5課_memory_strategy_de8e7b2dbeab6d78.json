@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第5課_memory_strategy_de8e7b2dbeab6d78",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "段",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "段",
+    "components": [
+      "左側五畫部件",
+      "殳（右）"
+    ],
+    "association": "教學聯想（非字源）：把一套舞蹈畫成分格動作卡，一格一段，每段分開練；字旁的分格圖幫助記住段落的意思。",
+    "mnemonic": "動作分幾段，左五畫、右邊殳。",
+    "visualPrompt": "在畫面一側清楚呈現教育部標準楷體「段」，保持筆畫、比例及部件位置不變；另一側畫分成三格的舞蹈練習卡，每格標示一段。插圖只放在字旁，不拿圖案取代筆畫。標註「教學聯想，非字源」。",
+    "teachingTip": "左側保持原有五畫，不替換成身或其他整字；右側殳上部的折筆不鉤，按標準筆順描寫。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

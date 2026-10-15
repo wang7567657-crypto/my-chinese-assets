@@ -1,0 +1,61 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_3年級_上學期_第5課_feature_ai_batch_e4fd5541eccb0c08",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 18,
+    "batchCharacters": [
+      "朝",
+      "努",
+      "總",
+      "段",
+      "利",
+      "害",
+      "整",
+      "該",
+      "紙",
+      "李",
+      "貴",
+      "必",
+      "通",
+      "場",
+      "絲",
+      "導",
+      "綁",
+      "鬆"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 18,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_0dc51ba395bd9795.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_16416026cbf8d009.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_746e33527bc2814a.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_de8e7b2dbeab6d78.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_bc590646df1a897b.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_3f227c948574436c.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_1beeb515daf0fff7.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_53ecd20d1310c1e6.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_46ef401861635fcc.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_5e2a9c80d522121b.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_0f854c8843af21f8.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_a382583326fc8663.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_5c819dbc1061ba14.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_8a7d59bacb59aa24.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_7679836dac8cbe7e.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_3838812bafce1200.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_c93e80391caf3344.json",
+      "aiGenerated/memory_strategy/康軒_3年級_上學期_第5課_memory_strategy_36f76a895662ee5d.json"
+    ]
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

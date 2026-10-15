@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_2ad3a0c8505e0dbb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "李",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "李",
+    "groups": {
+      "shape": [
+        {
+          "char": "季",
+          "why": "下方都是子，上面只差一個明顯的小筆畫。",
+          "difference": "李上方是木；季上方是禾，多了頂端一撇。李文貴的李不能寫成季。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "理",
+          "why": "同音：李、理都讀 ㄌㄧˇ。",
+          "difference": "李可用作姓氏或李子；整理、道理用理。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "桃",
+          "why": "都是果樹、果實的名稱。",
+          "difference": "李子和桃子是不同的果實；李文貴中的李是姓氏，不能按水果的相近意思換字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "子",
+          "why": "李的下半是子，容易把上下位置忘記。",
+          "difference": "李是木在上、子在下；子不是擺在木的旁邊，不能拼成左右結構。"
+        }
+      ]
+    },
+    "tip": "看「木下面有子」來辨形，再與季比較頂端是否多一撇；人名中的姓氏要寫準。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

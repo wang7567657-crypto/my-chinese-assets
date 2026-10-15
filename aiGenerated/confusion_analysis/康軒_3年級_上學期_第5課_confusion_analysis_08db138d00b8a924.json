@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_08db138d00b8a924",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "段",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "段",
+    "groups": {
+      "shape": [
+        {
+          "char": "鍛",
+          "why": "鍛的右邊就是段，容易多加金旁。",
+          "difference": "一段動作用段；鍛鍊的鍛左邊另有金旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "斷",
+          "why": "同音：段、斷都讀 ㄉㄨㄢˋ。",
+          "difference": "一段路是在數路的部分；折斷是斷開的動作。聽到同音仍要看句意。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "節",
+          "why": "兩字都可計算某些分開的部分。",
+          "difference": "可說一段舞蹈、一段時間；一節課常用節，量詞要和後面的事物配合。"
+        }
+      ],
+      "component": [
+        {
+          "char": "投",
+          "why": "右邊同有殳，容易忽略左邊。",
+          "difference": "段左邊是五畫部件；投左邊是扌。殳上部的折筆不鉤，不要寫成几。"
+        }
+      ]
+    },
+    "tip": "讀「一段動作」記用途；寫時先辨左邊五畫，再寫右邊殳，不加金旁。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_833a32595a217f83",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鬆",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鬆",
+    "groups": {
+      "shape": [
+        {
+          "char": "松",
+          "why": "鬆下面就是松，容易整個漏掉髟。",
+          "difference": "鬆上方有髟，如放鬆；松沒有髟，如松樹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "松",
+          "why": "同音：鬆、松都讀 ㄙㄨㄥ。",
+          "difference": "鬆一口氣表示緊張減輕，用鬆；松樹用松，不能只憑聲音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "緊",
+          "why": "常用來描述相反的狀態。",
+          "difference": "綁得緊是束得牢；變鬆是束得不那麼緊。「鬆一口氣」說的是心情放下來。"
+        }
+      ],
+      "component": [
+        {
+          "char": "髮",
+          "why": "上方同是髟，容易只認共同上半。",
+          "difference": "鬆下方是松；髮下方是另一組部件。要看下半才能分清蓬鬆與頭髮的字。"
+        }
+      ]
+    },
+    "tip": "先看上面的髟有沒有漏，再看下面的松；讀「鬆一口氣」時想心情由緊張變輕鬆。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

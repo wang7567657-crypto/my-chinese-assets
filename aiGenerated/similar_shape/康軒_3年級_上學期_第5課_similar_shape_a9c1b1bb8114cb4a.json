@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第5課_similar_shape_a9c1b1bb8114cb4a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "朝",
+    "lessonChars": [
+      "朝",
+      "努",
+      "總",
+      "段",
+      "利",
+      "害",
+      "整",
+      "該",
+      "紙",
+      "李",
+      "貴",
+      "必",
+      "通",
+      "場",
+      "絲",
+      "導",
+      "綁",
+      "鬆"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "朝",
+    "similarChars": [
+      {
+        "char": "潮",
+        "similarity": "保留「朝」的完整字形。",
+        "difference": "「潮」在「朝」左邊加上三點水；「朝」本身沒有這個偏旁。"
+      },
+      {
+        "char": "嘲",
+        "similarity": "保留「朝」的完整字形。",
+        "difference": "「嘲」在「朝」左邊加上口字旁；「朝」本身沒有這個偏旁。"
+      },
+      {
+        "char": "韓",
+        "similarity": "左半同樣由十、日、十上下組成。",
+        "difference": "「朝」右邊是月；「韓」右邊是韋。"
+      },
+      {
+        "char": "乾",
+        "similarity": "左半同樣由十、日、十上下組成。",
+        "difference": "「朝」右邊是月；「乾」右邊是乞。"
+      },
+      {
+        "char": "幹",
+        "similarity": "左半同樣由十、日、十上下組成。",
+        "difference": "「朝」右邊是月；「幹」右邊是人下接干。"
+      },
+      {
+        "char": "翰",
+        "similarity": "左半同樣由十、日、十上下組成。",
+        "difference": "「朝」右邊是月；「翰」右邊是人下接羽。"
+      }
+    ],
+    "teachingTip": "先圈出左半十、日、十，再看右邊是否為月；不要靠讀音判斷。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}
