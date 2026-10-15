@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第12課_confusion_analysis_0392c63568e44e21",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "節",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "節",
+    "groups": {
+      "shape": [
+        {
+          "char": "即",
+          "why": "整體輪廓或主要部件相近，容易看錯。",
+          "difference": "節在即上面多竹字頭；即單獨沒有竹字頭。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "結",
+          "why": "節ㄐㄧㄝˊ；結在結果、結束中讀ㄐㄧㄝˊ，這些詞中同音；竹節與結束用字不同。",
+          "difference": "依語詞的意思選字，不只憑聽到的聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "段",
+          "why": "意思相關或可作對照。",
+          "difference": "一節與一段都可表示分出的部分；竹節是竹莖的節點，段通常指一截範圍。"
+        }
+      ],
+      "component": [
+        {
+          "char": "筷",
+          "why": "可用共同或不同部件作比較。",
+          "difference": "兩字都有竹字頭；節下方是即，筷下方是快。"
+        }
+      ]
+    },
+    "tip": "讀課文語詞，再比較字形：節在即上面多竹字頭；即單獨沒有竹字頭。"
+  },
+  "createdAt": "2026-10-15T21:52:23.804998+00:00"
+}

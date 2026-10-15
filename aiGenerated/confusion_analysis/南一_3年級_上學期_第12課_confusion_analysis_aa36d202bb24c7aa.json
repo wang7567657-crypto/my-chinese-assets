@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第12課_confusion_analysis_aa36d202bb24c7aa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "竹",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "竹",
+    "groups": {
+      "shape": [
+        {
+          "char": "竿",
+          "why": "整體輪廓或主要部件相近，容易看錯。",
+          "difference": "竿上方是竹字頭、下方是干；竹單獨成字沒有下方干。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "逐",
+          "why": "竹ㄓㄨˊ、逐ㄓㄨˊ，同音；竹子用竹，追逐用逐。",
+          "difference": "依語詞的意思選字，不只憑聽到的聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "木",
+          "why": "意思相關或可作對照。",
+          "difference": "竹和木都與植物材料有關；竹是竹類，木常指樹木或木材，不能當同一種植物。"
+        }
+      ],
+      "component": [
+        {
+          "char": "節",
+          "why": "可用共同或不同部件作比較。",
+          "difference": "節上方是竹字頭、下方是即；竹單獨沒有即。"
+        }
+      ]
+    },
+    "tip": "讀課文語詞，再比較字形：竿上方是竹字頭、下方是干；竹單獨成字沒有下方干。"
+  },
+  "createdAt": "2026-10-15T21:52:23.804998+00:00"
+}

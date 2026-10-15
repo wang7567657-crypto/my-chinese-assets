@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第12課_similar_shape_9f0ba2ac31478ccd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "攻",
+    "lessonChars": [
+      "昆",
+      "攻",
+      "擊",
+      "演",
+      "保",
+      "命",
+      "翅",
+      "敵",
+      "周",
+      "竹",
+      "節",
+      "逼",
+      "技",
+      "退",
+      "屁"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "攻",
+    "similarChars": [
+      {
+        "char": "功",
+        "similarity": "左半部同為「工」，右側都有斜筆。",
+        "difference": "「攻」右邊是四筆的「攵」；「功」右邊是兩筆的「力」。"
+      },
+      {
+        "char": "放",
+        "similarity": "右半部同為「攵」。",
+        "difference": "「攻」左邊是「工」；「放」左邊是「方」。"
+      },
+      {
+        "char": "政",
+        "similarity": "右半部同為「攵」，左側都有橫、豎。",
+        "difference": "「攻」左邊是「工」；「政」左邊是「正」，多出下方止形的筆畫。"
+      },
+      {
+        "char": "玫",
+        "similarity": "右半部同為「攵」，左側都以橫豎組合。",
+        "difference": "「攻」左邊是「工」；「玫」左邊是「王」，中間多一橫，末橫作提。"
+      },
+      {
+        "char": "改",
+        "similarity": "右半部同為「攵」。",
+        "difference": "「攻」左邊是「工」；「改」左邊是「己」，有橫折和豎曲鉤。"
+      },
+      {
+        "char": "故",
+        "similarity": "右半部同為「攵」。",
+        "difference": "「攻」左邊是「工」；「故」左邊是上「十」下「口」的「古」。"
+      }
+    ],
+    "teachingTip": "遮住相同的右半邊，先辨左邊；再把「攻、功」並排，看清「攵」和「力」的筆數及末筆方向。"
+  },
+  "createdAt": "2026-10-15T21:52:23.804998+00:00"
+}

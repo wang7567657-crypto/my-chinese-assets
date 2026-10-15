@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第12課_confusion_analysis_4dbd690bc917095e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "昆",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "昆",
+    "groups": {
+      "shape": [
+        {
+          "char": "昏",
+          "why": "整體輪廓或主要部件相近，容易看錯。",
+          "difference": "昆下方是比、上方是日；昏上方是氏、下方是日。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "坤",
+          "why": "昆ㄎㄨㄣ、坤ㄎㄨㄣ，同音；昆蟲與乾坤用字不同。",
+          "difference": "依語詞的意思選字，不只憑聽到的聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蟲",
+          "why": "意思相關或可作對照。",
+          "difference": "昆蟲是動物名稱；蟲可泛稱小蟲，不能把昆蟲寫成蟲蟲代替。"
+        }
+      ],
+      "component": [
+        {
+          "char": "比",
+          "why": "可用共同或不同部件作比較。",
+          "difference": "昆由日和比上下組合；比單獨沒有上方的日。"
+        }
+      ]
+    },
+    "tip": "讀課文語詞，再比較字形：昆下方是比、上方是日；昏上方是氏、下方是日。"
+  },
+  "createdAt": "2026-10-15T21:52:23.804998+00:00"
+}
