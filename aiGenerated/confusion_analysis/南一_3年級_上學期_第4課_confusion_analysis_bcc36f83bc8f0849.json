@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第4課_confusion_analysis_bcc36f83bc8f0849",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "悅",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "悅",
+    "groups": {
+      "shape": [
+        {
+          "char": "說",
+          "why": "右邊同是兌",
+          "difference": "悅左忄；說左言。"
+        },
+        {
+          "char": "閱",
+          "why": "門框內同是兌",
+          "difference": "悅把忄放左邊；閱用門包住兌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "月",
+          "why": "同音ㄩㄝˋ。",
+          "difference": "喜悅是心情，用忄的悅；月亮寫月。"
+        },
+        {
+          "char": "越",
+          "why": "同音ㄩㄝˋ。",
+          "difference": "喜悅用悅；超越、越過用越。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "樂",
+          "why": "喜悅和快樂都表示高興。",
+          "difference": "悅常用於喜悅、愉悅；樂常用於快樂。固定詞語要整組記。"
+        }
+      ],
+      "component": [
+        {
+          "char": "說",
+          "why": "右側同兌，需辨左偏旁。",
+          "difference": "悅左忄，提示心情；說左言，提示說話。"
+        }
+      ]
+    },
+    "tip": "右邊兌相同時，優先辨左邊忄、言、月、禾或虫；喜悅是心情。"
+  },
+  "createdAt": "2026-10-15T01:38:01.536388+00:00"
+}

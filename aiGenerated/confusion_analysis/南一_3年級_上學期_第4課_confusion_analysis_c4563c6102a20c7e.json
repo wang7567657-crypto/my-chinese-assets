@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第4課_confusion_analysis_c4563c6102a20c7e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "轉",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "轉",
+    "groups": {
+      "shape": [
+        {
+          "char": "傳",
+          "why": "右邊都是專",
+          "difference": "轉左車；傳左亻。"
+        },
+        {
+          "char": "團",
+          "why": "都保留完整的專",
+          "difference": "轉把車放左邊；團用囗包住專。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "賺",
+          "why": "聲母、韻母相同，聲調不同。",
+          "difference": "本課轉身讀ㄓㄨㄢˇ，第三聲；賺錢讀ㄓㄨㄢˋ，第四聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "回",
+          "why": "回頭與轉身都涉及改變朝向。",
+          "difference": "轉身是身體換方向；回頭主要是頭往後看，動作範圍不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "傳",
+          "why": "右邊專相同，需辨左偏旁。",
+          "difference": "轉左車，不能寫成傳的亻；本課動作是轉身。"
+        }
+      ]
+    },
+    "tip": "把共同的專遮住，只比較左邊車、亻、石；轉身讀ㄓㄨㄢˇ。"
+  },
+  "createdAt": "2026-10-15T01:38:01.536388+00:00"
+}

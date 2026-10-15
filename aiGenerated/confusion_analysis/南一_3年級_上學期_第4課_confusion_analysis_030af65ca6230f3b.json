@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第4課_confusion_analysis_030af65ca6230f3b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "店",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "店",
+    "groups": {
+      "shape": [
+        {
+          "char": "占",
+          "why": "是店裡面的完整部件",
+          "difference": "店在占外面加廣字頭「广」。"
+        },
+        {
+          "char": "站",
+          "why": "右邊同有占",
+          "difference": "店是广包著占；站是立、占左右排列。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "電",
+          "why": "同音ㄉㄧㄢˋ。",
+          "difference": "店家是做生意的地方；電是電力的電。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "家",
+          "why": "店家一詞同時出現這兩個字。",
+          "difference": "店是營業的場所；家可指住家，在店家中指商店或經營商店的人。"
+        }
+      ],
+      "component": [
+        {
+          "char": "占",
+          "why": "內外部件容易漏寫。",
+          "difference": "店要有广罩在占外面；只寫占就少了整個外部件。"
+        }
+      ]
+    },
+    "tip": "先看外面是否有广，再確認裡面是占；注意半包圍和左右結構的不同。"
+  },
+  "createdAt": "2026-10-15T01:38:01.536388+00:00"
+}

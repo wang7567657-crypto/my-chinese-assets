@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第4課_similar_shape_a6f4a0ca37074647",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "夕",
+    "lessonChars": [
+      "指",
+      "夕",
+      "賽",
+      "緊",
+      "店",
+      "逗",
+      "轉",
+      "露",
+      "業",
+      "專",
+      "勝",
+      "利",
+      "悅",
+      "乖",
+      "溫"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "夕",
+    "similarChars": [
+      {
+        "char": "多",
+        "similarity": "由兩個夕上下排列",
+        "difference": "夕只有一個；多有上下兩個。"
+      },
+      {
+        "char": "歹",
+        "similarity": "下方的斜筆與點近似夕",
+        "difference": "歹比夕多最上方一橫。"
+      },
+      {
+        "char": "外",
+        "similarity": "左側是完整的夕",
+        "difference": "外在夕的右邊加卜。"
+      },
+      {
+        "char": "夙",
+        "similarity": "外框內有歹，含近似夕的斜筆",
+        "difference": "夙有外側框形，裡面還多一橫；夕沒有外框。"
+      },
+      {
+        "char": "汐",
+        "similarity": "右邊是夕",
+        "difference": "汐左邊多氵；汐較少見，常見於潮汐。"
+      },
+      {
+        "char": "矽",
+        "similarity": "右邊是夕",
+        "difference": "矽左邊多石；矽較少見，先辨右側夕。"
+      }
+    ],
+    "teachingTip": "先看有幾組夕，再找是否多了橫筆或外框；不用讀音判斷字形。"
+  },
+  "createdAt": "2026-10-15T01:38:01.536388+00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第4課_confusion_analysis_c1110847578a6e5d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "指",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "指",
+    "groups": {
+      "shape": [
+        {
+          "char": "脂",
+          "why": "右邊同是「旨」",
+          "difference": "指左邊是扌；脂左邊是月。"
+        },
+        {
+          "char": "旨",
+          "why": "保留指的完整右半部",
+          "difference": "旨沒有左邊的扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "紙",
+          "why": "同音ㄓˇ。",
+          "difference": "指著用手，所以寫扌的指；紙張用糹的紙。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "點",
+          "why": "指和點都可能描述手部動作。",
+          "difference": "指著是朝某個方向示意；點一下通常有短暫接觸，兩種動作不一定相同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "脂",
+          "why": "同含旨，需辨左偏旁。",
+          "difference": "指左扌與手部動作有關；脂左月，不是把扌少寫一筆。"
+        }
+      ]
+    },
+    "tip": "先找左邊扌，再看右邊是否完整的旨；把指著夕陽的動作做一次。"
+  },
+  "createdAt": "2026-10-15T01:38:01.536388+00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第4課_confusion_analysis_0b3628cd228ad481",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "利",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "利",
+    "groups": {
+      "shape": [
+        {
+          "char": "梨",
+          "why": "上方就是利",
+          "difference": "利沒有下方的木。"
+        },
+        {
+          "char": "莉",
+          "why": "下方就是利",
+          "difference": "利沒有上方艹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "力",
+          "why": "同音ㄌㄧˋ。",
+          "difference": "勝利用禾、刂組成的利；力量寫力。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "贏",
+          "why": "勝利與贏了意思相關。",
+          "difference": "利在勝利中和勝合成一個詞；不能直接用利代替贏，說成「我利了」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "和",
+          "why": "左側同禾，需辨右部件。",
+          "difference": "利右側是兩筆的刂；和右側是口，不可只看左禾猜字。"
+        }
+      ]
+    },
+    "tip": "先找禾，再看右邊是刂、口或火；也留意利是否只是大字中的一部分。"
+  },
+  "createdAt": "2026-10-15T01:38:01.536388+00:00"
+}

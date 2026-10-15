@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第4課_similar_shape_c347ac42df424f82",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "專",
+    "lessonChars": [
+      "指",
+      "夕",
+      "賽",
+      "緊",
+      "店",
+      "逗",
+      "轉",
+      "露",
+      "業",
+      "專",
+      "勝",
+      "利",
+      "悅",
+      "乖",
+      "溫"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "專",
+    "similarChars": [
+      {
+        "char": "傳",
+        "similarity": "右邊就是專",
+        "difference": "專沒有左邊亻。"
+      },
+      {
+        "char": "轉",
+        "similarity": "右邊就是專",
+        "difference": "專沒有左邊車。"
+      },
+      {
+        "char": "團",
+        "similarity": "外框裡就是專",
+        "difference": "專沒有外面的囗。"
+      },
+      {
+        "char": "磚",
+        "similarity": "右邊就是專",
+        "difference": "專沒有左邊石。"
+      },
+      {
+        "char": "博",
+        "similarity": "右邊下方同有寸，上方都有框形與中央豎筆",
+        "difference": "專上部有厶形；博右邊是尃，上方右側有點，左邊另有十。"
+      },
+      {
+        "char": "傅",
+        "similarity": "右側下方同有寸，上方框形相近",
+        "difference": "專上部有厶形；傅右邊是尃，有右上點，左邊另有亻。"
+      }
+    ],
+    "teachingTip": "先用完整含專的字比較，再觀察博、傅右上角多出的點和上部差異。"
+  },
+  "createdAt": "2026-10-15T01:38:01.536388+00:00"
+}

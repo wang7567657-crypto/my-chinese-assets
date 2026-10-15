@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第4課_confusion_analysis_008c304ac42484aa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "露",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "露",
+    "groups": {
+      "shape": [
+        {
+          "char": "路",
+          "why": "是露下方的完整部件",
+          "difference": "露在路上面多雨字頭。"
+        },
+        {
+          "char": "霜",
+          "why": "都有雨字頭，下方都是左右組合",
+          "difference": "露下方路為足旁加各；霜下方相為木、目。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "漏",
+          "why": "按教育部簡編本，「露出」的露與漏水的漏同音ㄌㄡˋ。",
+          "difference": "露出是顯現；漏水是水從孔隙流出，字形和意思不同。露在露水中另讀ㄌㄨˋ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "現",
+          "why": "露出、出現都可表示變得看得見。",
+          "difference": "露出常指原本遮住的部分顯出來；現也可用於出現、顯現。本課詞語是露出笑臉，練寫時要照課文辨字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "路",
+          "why": "上下合成時容易漏掉雨字頭。",
+          "difference": "露完整包含雨字頭和路；路本身是足旁加各。"
+        }
+      ]
+    },
+    "tip": "露由上雨、下路組成。教育部簡編本「露出」標ㄌㄡˋㄔㄨ；應按詞語辨讀，不把露的所有用法讀成同一音。"
+  },
+  "createdAt": "2026-10-15T01:38:01.536388+00:00"
+}

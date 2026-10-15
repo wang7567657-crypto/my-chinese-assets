@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第4課_confusion_analysis_d43f96892cf35cfd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "溫",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "溫",
+    "groups": {
+      "shape": [
+        {
+          "char": "瘟",
+          "why": "右側／內部同有囚在皿上的部件",
+          "difference": "溫左氵；瘟外側疒。"
+        },
+        {
+          "char": "慍",
+          "why": "右邊部件相同",
+          "difference": "溫左氵；慍左忄。慍較少見，意思是惱怒。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "瘟",
+          "why": "同音ㄨㄣ，右側部件也相同。",
+          "difference": "溫暖用氵的溫；瘟疫用疒的瘟。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "熱",
+          "why": "都可形容溫度或感受。",
+          "difference": "溫暖通常是適中、舒服的暖；熱的溫度感較強。本課溫暖的微笑是在形容感受。"
+        }
+      ],
+      "component": [
+        {
+          "char": "慍",
+          "why": "右側相同，需辨左偏旁。",
+          "difference": "溫左氵是三個水旁筆畫；慍左忄有中央直筆。"
+        }
+      ]
+    },
+    "tip": "先看左側偏旁，再核對右上囚形、右下皿；少見字不用背讀，保持本課標準字形。"
+  },
+  "createdAt": "2026-10-15T01:38:01.536388+00:00"
+}
