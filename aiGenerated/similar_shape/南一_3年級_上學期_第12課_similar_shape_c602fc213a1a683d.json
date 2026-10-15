@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第12課_similar_shape_c602fc213a1a683d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "技",
+    "lessonChars": [
+      "昆",
+      "攻",
+      "擊",
+      "演",
+      "保",
+      "命",
+      "翅",
+      "敵",
+      "周",
+      "竹",
+      "節",
+      "逼",
+      "技",
+      "退",
+      "屁"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "技",
+    "similarChars": [
+      {
+        "char": "枝",
+        "similarity": "右半部同為「支」。",
+        "difference": "「技」左邊是「扌」；「枝」左邊是「木」，有向左下的撇。"
+      },
+      {
+        "char": "支",
+        "similarity": "「支」就是「技」的右半部。",
+        "difference": "「技」在「支」左側多了「扌」。"
+      },
+      {
+        "char": "伎",
+        "similarity": "右半部同為「支」；「伎」較少見。",
+        "difference": "「技」左邊是「扌」；「伎」左邊是兩筆的「亻」。"
+      },
+      {
+        "char": "岐",
+        "similarity": "右半部同為「支」。",
+        "difference": "「技」左邊是「扌」；「岐」左邊是「山」。"
+      },
+      {
+        "char": "歧",
+        "similarity": "右半部同為「支」。",
+        "difference": "「技」左邊是「扌」；「歧」左邊是「止」。"
+      },
+      {
+        "char": "肢",
+        "similarity": "右半部同為「支」。",
+        "difference": "「技」左邊是「扌」；「肢」左邊是「月」形。"
+      }
+    ],
+    "teachingTip": "先遮住共同的支，再看左偏旁。特別並排比較「扌、木、亻」，口頭說出增加或改換的筆畫，而非只靠讀音猜。"
+  },
+  "createdAt": "2026-10-15T21:52:23.804998+00:00"
+}

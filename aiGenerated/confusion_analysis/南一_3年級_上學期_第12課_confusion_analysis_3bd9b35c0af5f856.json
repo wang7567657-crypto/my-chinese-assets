@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第12課_confusion_analysis_3bd9b35c0af5f856",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "周",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "周",
+    "groups": {
+      "shape": [
+        {
+          "char": "同",
+          "why": "整體輪廓或主要部件相近，容易看錯。",
+          "difference": "兩字都有外框和口；周框內口上方是土，同是橫畫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "州",
+          "why": "周ㄓㄡ、州ㄓㄡ，同音；四周用周，州是行政區名稱用字。",
+          "difference": "依語詞的意思選字，不只憑聽到的聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "圍",
+          "why": "意思相關或可作對照。",
+          "difference": "四周與周圍都表示附近各方向；圍還能表示包圍的動作。"
+        }
+      ],
+      "component": [
+        {
+          "char": "週",
+          "why": "可用共同或不同部件作比較。",
+          "difference": "週在周外加辶；四周用周，一星期可寫一週。"
+        }
+      ]
+    },
+    "tip": "讀課文語詞，再比較字形：兩字都有外框和口；周框內口上方是土，同是橫畫。"
+  },
+  "createdAt": "2026-10-15T21:52:23.804998+00:00"
+}

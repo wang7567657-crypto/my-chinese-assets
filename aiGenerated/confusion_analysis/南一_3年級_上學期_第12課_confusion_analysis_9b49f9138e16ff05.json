@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第12課_confusion_analysis_9b49f9138e16ff05",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "命",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "命",
+    "groups": {
+      "shape": [
+        {
+          "char": "合",
+          "why": "整體輪廓或主要部件相近，容易看錯。",
+          "difference": "命比合在右下多卩；合的下方只有口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "名",
+          "why": "命ㄇㄧㄥˋ、名ㄇㄧㄥˊ，近音但聲調不同；生命用命，名字用名。",
+          "difference": "依語詞的意思選字，不只憑聽到的聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "生",
+          "why": "意思相關或可作對照。",
+          "difference": "生命可連用；生可表示出生或活著，命可指生命，不能任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "令",
+          "why": "可用共同或不同部件作比較。",
+          "difference": "命有口與右下卩；令的下方寫法不同，不能把命的口漏掉。"
+        }
+      ]
+    },
+    "tip": "讀課文語詞，再比較字形：命比合在右下多卩；合的下方只有口。"
+  },
+  "createdAt": "2026-10-15T21:52:23.804998+00:00"
+}

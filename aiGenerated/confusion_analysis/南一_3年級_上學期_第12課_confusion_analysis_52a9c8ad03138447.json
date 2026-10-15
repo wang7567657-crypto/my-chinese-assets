@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第12課_confusion_analysis_52a9c8ad03138447",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "技",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "技",
+    "groups": {
+      "shape": [
+        {
+          "char": "枝",
+          "why": "整體輪廓或主要部件相近，容易看錯。",
+          "difference": "技左邊是扌；枝左邊是木，右邊都是支。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "記",
+          "why": "技ㄐㄧˋ、記ㄐㄧˋ，同音；技術用技，記住用記。",
+          "difference": "依語詞的意思選字，不只憑聽到的聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "術",
+          "why": "意思相關或可作對照。",
+          "difference": "技術可連用；技偏指本領，術常指方法或技能，依語詞搭配判斷。"
+        }
+      ],
+      "component": [
+        {
+          "char": "支",
+          "why": "可用共同或不同部件作比較。",
+          "difference": "技在支左邊加扌；支單獨沒有扌。"
+        }
+      ]
+    },
+    "tip": "讀課文語詞，再比較字形：技左邊是扌；枝左邊是木，右邊都是支。"
+  },
+  "createdAt": "2026-10-15T21:52:23.804998+00:00"
+}

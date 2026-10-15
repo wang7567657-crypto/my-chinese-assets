@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第12課_confusion_analysis_8943858c0b94de1b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "翅",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "翅",
+    "groups": {
+      "shape": [
+        {
+          "char": "翊",
+          "why": "整體輪廓或主要部件相近，容易看錯。",
+          "difference": "兩字都有羽；翅配支，翊左邊是立。翊較少見。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "赤",
+          "why": "翅ㄔˋ、赤ㄔˋ，同音；翅膀用翅，赤紅用赤。",
+          "difference": "依語詞的意思選字，不只憑聽到的聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "翼",
+          "why": "意思相關或可作對照。",
+          "difference": "翅與翼都可指鳥或昆蟲的飛行器官；常用詞翅膀、羽翼的搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "羽",
+          "why": "可用共同或不同部件作比較。",
+          "difference": "翅含羽和支；羽單獨沒有支。"
+        }
+      ]
+    },
+    "tip": "讀課文語詞，再比較字形：兩字都有羽；翅配支，翊左邊是立。翊較少見。"
+  },
+  "createdAt": "2026-10-15T21:52:23.804998+00:00"
+}

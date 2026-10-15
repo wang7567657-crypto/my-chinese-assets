@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_3年級_上學期_第12課_feature_ai_batch_d25455da9ef14828",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 15,
+    "batchCharacters": [
+      "昆",
+      "攻",
+      "擊",
+      "演",
+      "保",
+      "命",
+      "翅",
+      "敵",
+      "周",
+      "竹",
+      "節",
+      "逼",
+      "技",
+      "退",
+      "屁"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_4dbd690bc917095e.json",
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_8bc998b5d3fbbe2d.json",
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_3ad46a55661f5929.json",
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_e9ecba329cb3a997.json",
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_39c972450ddc17eb.json",
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_9b49f9138e16ff05.json",
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_8943858c0b94de1b.json",
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_1de69684d8f01519.json",
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_3bd9b35c0af5f856.json",
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_aa36d202bb24c7aa.json",
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_0392c63568e44e21.json",
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_78bf6817441a610f.json",
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_52a9c8ad03138447.json",
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_5e20eb5eafe94309.json",
+      "aiGenerated/confusion_analysis/南一_3年級_上學期_第12課_confusion_analysis_65e1472350adff3a.json"
+    ]
+  },
+  "createdAt": "2026-10-15T21:52:23.804998+00:00"
+}

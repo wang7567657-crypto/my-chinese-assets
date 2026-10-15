@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第12課_confusion_analysis_1de69684d8f01519",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "敵",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "敵",
+    "groups": {
+      "shape": [
+        {
+          "char": "滴",
+          "why": "整體輪廓或主要部件相近，容易看錯。",
+          "difference": "敵右邊是攵、左邊是啇；滴左邊是氵、右邊是啇。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "笛",
+          "why": "敵ㄉㄧˊ、笛ㄉㄧˊ，同音；敵人用敵，笛子用笛。",
+          "difference": "依語詞的意思選字，不只憑聽到的聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "友",
+          "why": "意思相關或可作對照。",
+          "difference": "敵人與朋友在關係上相對；敵指對抗的一方，友指友好的一方。"
+        }
+      ],
+      "component": [
+        {
+          "char": "摘",
+          "why": "可用共同或不同部件作比較。",
+          "difference": "敵和摘共有啇；敵配右邊攵，摘配左邊扌。"
+        }
+      ]
+    },
+    "tip": "讀課文語詞，再比較字形：敵右邊是攵、左邊是啇；滴左邊是氵、右邊是啇。"
+  },
+  "createdAt": "2026-10-15T21:52:23.804998+00:00"
+}

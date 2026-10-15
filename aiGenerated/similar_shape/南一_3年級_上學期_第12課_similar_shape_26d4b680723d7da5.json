@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第12課_similar_shape_26d4b680723d7da5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "周",
+    "lessonChars": [
+      "昆",
+      "攻",
+      "擊",
+      "演",
+      "保",
+      "命",
+      "翅",
+      "敵",
+      "周",
+      "竹",
+      "節",
+      "逼",
+      "技",
+      "退",
+      "屁"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "周",
+    "similarChars": [
+      {
+        "char": "週",
+        "similarity": "「週」保留完整的「周」。",
+        "difference": "「週」在「周」外面加上從左下承托的「辶」。"
+      },
+      {
+        "char": "調",
+        "similarity": "右半部保留完整的「周」。",
+        "difference": "「調」在「周」左側加上「言」。"
+      },
+      {
+        "char": "凋",
+        "similarity": "右半部保留完整的「周」。",
+        "difference": "「凋」在「周」左側加上兩點水「冫」。"
+      },
+      {
+        "char": "雕",
+        "similarity": "左半部保留完整的「周」。",
+        "difference": "「雕」在「周」右側加上「隹」，不要把「隹」放到左側。"
+      },
+      {
+        "char": "稠",
+        "similarity": "右半部保留完整的「周」。",
+        "difference": "「稠」在「周」左側加上「禾」。"
+      },
+      {
+        "char": "綢",
+        "similarity": "右半部保留完整的「周」。",
+        "difference": "「綢」在「周」左側加上「糹」。"
+      }
+    ],
+    "teachingTip": "先認出被「冂」包住的「周」，再依左、右、左下三種位置找新增偏旁，特別比較「周、週」。"
+  },
+  "createdAt": "2026-10-15T21:52:23.804998+00:00"
+}

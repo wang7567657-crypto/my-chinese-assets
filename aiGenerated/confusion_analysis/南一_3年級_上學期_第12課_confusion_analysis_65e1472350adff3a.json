@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第12課_confusion_analysis_65e1472350adff3a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "屁",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "屁",
+    "groups": {
+      "shape": [
+        {
+          "char": "尼",
+          "why": "整體輪廓或主要部件相近，容易看錯。",
+          "difference": "兩字外面都是尸；屁裡面是比，尼裡面是匕。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "譬",
+          "why": "屁ㄆㄧˋ、譬ㄆㄧˋ，同音；放屁用屁，譬如用譬。",
+          "difference": "依語詞的意思選字，不只憑聽到的聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "氣",
+          "why": "意思相關或可作對照。",
+          "difference": "屁是由肛門排出的氣體；氣的範圍較廣，課文椿象排出防禦氣體的俗稱不可當成人體生理機制。"
+        }
+      ],
+      "component": [
+        {
+          "char": "昆",
+          "why": "可用共同或不同部件作比較。",
+          "difference": "屁和昆都有比；屁外面是尸，昆上面是日。"
+        }
+      ]
+    },
+    "tip": "讀課文語詞，再比較字形：兩字外面都是尸；屁裡面是比，尼裡面是匕。"
+  },
+  "createdAt": "2026-10-15T21:52:23.804998+00:00"
+}

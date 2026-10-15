@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第12課_confusion_analysis_5e20eb5eafe94309",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "退",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "退",
+    "groups": {
+      "shape": [
+        {
+          "char": "追",
+          "why": "整體輪廓或主要部件相近，容易看錯。",
+          "difference": "兩字都有辶；退裡面是艮，追裡面是𠂤，裡面橫折及撇捺形狀不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "腿",
+          "why": "退ㄊㄨㄟˋ、腿ㄊㄨㄟˇ，近音但聲調不同；擊退用退，腿是身體部位。",
+          "difference": "依語詞的意思選字，不只憑聽到的聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "進",
+          "why": "意思相關或可作對照。",
+          "difference": "進和退方向相對；進是向前，退是向後或離開。"
+        }
+      ],
+      "component": [
+        {
+          "char": "根",
+          "why": "可用共同或不同部件作比較。",
+          "difference": "退和根都有艮；退配辶，根配左邊木。"
+        }
+      ]
+    },
+    "tip": "讀課文語詞，再比較字形：兩字都有辶；退裡面是艮，追裡面是𠂤，裡面橫折及撇捺形狀不同。"
+  },
+  "createdAt": "2026-10-15T21:52:23.804998+00:00"
+}
