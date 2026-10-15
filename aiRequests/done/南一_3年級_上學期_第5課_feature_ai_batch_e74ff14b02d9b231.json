@@ -1,0 +1,272 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_3年級_上學期_第5課_feature_ai_batch_e74ff14b02d9b231",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 15,
+    "batchCharacters": [
+      "龍",
+      "沖",
+      "菱",
+      "兄",
+      "吐",
+      "歪",
+      "防",
+      "警",
+      "鈴",
+      "注",
+      "員",
+      "傷",
+      "死",
+      "諒",
+      "脾"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_40d22018c5279ba5",
+        "input": {
+          "char": "龍",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_baa5a942100f5108",
+        "input": {
+          "char": "沖",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_bcdc1e91d88949ac",
+        "input": {
+          "char": "菱",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_ae134650c4184dce",
+        "input": {
+          "char": "兄",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_26252dfb4924394e",
+        "input": {
+          "char": "吐",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_d62c869dfc1d6114",
+        "input": {
+          "char": "歪",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_29e8fe06c128a364",
+        "input": {
+          "char": "防",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_07cf8e4513f3f3ff",
+        "input": {
+          "char": "警",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_e60812bd745bc075",
+        "input": {
+          "char": "鈴",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_a19a175d4379f010",
+        "input": {
+          "char": "注",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_fe084329f7557df8",
+        "input": {
+          "char": "員",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_01c038f0ca34caec",
+        "input": {
+          "char": "傷",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_ecee99e2a695a7b0",
+        "input": {
+          "char": "死",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_0b1e9c294fa83633",
+        "input": {
+          "char": "諒",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_3年級_上學期_第5課_confusion_analysis_4137cd09b9d0c550",
+        "input": {
+          "char": "脾",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第5課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-15T03:46:08.152116+00:00",
+  "processedAt": "2026-10-15T03:46:08.152116+00:00",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_3年級_上學期_第5課_feature_ai_batch_e74ff14b02d9b231",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "南一",
+      "grade": "3年級",
+      "semester": "上學期",
+      "lesson": "第5課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 15,
+      "batchCharacters": [
+        "龍",
+        "沖",
+        "菱",
+        "兄",
+        "吐",
+        "歪",
+        "防",
+        "警",
+        "鈴",
+        "注",
+        "員",
+        "傷",
+        "死",
+        "諒",
+        "脾"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 15,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_40d22018c5279ba5.json",
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_baa5a942100f5108.json",
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_bcdc1e91d88949ac.json",
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_ae134650c4184dce.json",
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_26252dfb4924394e.json",
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_d62c869dfc1d6114.json",
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_29e8fe06c128a364.json",
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_07cf8e4513f3f3ff.json",
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_e60812bd745bc075.json",
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_a19a175d4379f010.json",
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_fe084329f7557df8.json",
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_01c038f0ca34caec.json",
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_ecee99e2a695a7b0.json",
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_0b1e9c294fa83633.json",
+        "aiGenerated/confusion_analysis/南一_3年級_上學期_第5課_confusion_analysis_4137cd09b9d0c550.json"
+      ]
+    },
+    "createdAt": "2026-10-15T03:46:08.152116+00:00"
+  }
+}

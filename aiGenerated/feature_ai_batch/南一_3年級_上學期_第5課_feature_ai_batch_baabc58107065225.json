@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_3年級_上學期_第5課_feature_ai_batch_baabc58107065225",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "龍",
+      "沖",
+      "菱",
+      "兄",
+      "吐",
+      "歪",
+      "防",
+      "警",
+      "鈴",
+      "注",
+      "員",
+      "傷",
+      "死",
+      "諒",
+      "脾"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_95e53d37f6ad2d23.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_7ae36841d76a9020.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_0991792d8a5e23d8.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_a0ce4d4b9d80c111.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_a1573826e1bff9b3.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_932262e2afa77a53.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_becfc66ae386b28b.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_4cc85d6cc438f62b.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_a6f5147dfee61e88.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_e31847fc22c59f86.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_ce1e98b0e33d0260.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_d10016ddcf2bfe2b.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_9c969152fa924000.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_45e16affb45bab06.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第5課_similar_shape_814ab0fe16644b4d.json"
+    ]
+  },
+  "createdAt": "2026-10-15T03:46:08.152116+00:00"
+}

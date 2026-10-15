@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第5課_confusion_analysis_0b1e9c294fa83633",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "諒",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "諒",
+    "groups": {
+      "shape": [
+        {
+          "char": "涼",
+          "why": "兩字右旁都是京，容易看錯左旁。",
+          "difference": "諒左旁是言，如「原諒」；涼左旁是氵，如「涼快」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "亮",
+          "why": "同音字：諒與亮都讀ㄌㄧㄤˋ。",
+          "difference": "「原諒」用諒；「明亮」用亮。"
+        },
+        {
+          "char": "涼",
+          "why": "近音字：諒ㄌㄧㄤˋ是四聲，涼ㄌㄧㄤˊ是二聲。",
+          "difference": "「體諒」讀四聲；「涼快」讀二聲，左旁也不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "忘",
+          "why": "原諒和忘記都可能出現在和好的情境裡。",
+          "difference": "原諒是願意不再責怪對方；忘記是沒有記住。原諒不表示事情從記憶中消失，也不代表錯事沒有造成影響。"
+        }
+      ],
+      "component": [
+        {
+          "char": "京",
+          "why": "京是諒的右旁，但讀音不同。",
+          "difference": "諒還有左邊言，讀ㄌㄧㄤˋ；京讀ㄐㄧㄥ，不能直接用右旁的音讀整個字。"
+        }
+      ]
+    },
+    "tip": "原諒要用言字旁，讀四聲ㄌㄧㄤˋ；涼快用三點水，讀二聲ㄌㄧㄤˊ。"
+  },
+  "createdAt": "2026-10-15T03:46:08.152116+00:00"
+}

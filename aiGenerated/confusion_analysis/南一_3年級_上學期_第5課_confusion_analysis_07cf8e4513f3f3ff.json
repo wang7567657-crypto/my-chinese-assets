@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第5課_confusion_analysis_07cf8e4513f3f3ff",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "警",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "警",
+    "groups": {
+      "shape": [
+        {
+          "char": "驚",
+          "why": "兩字上方都是敬，整體筆畫也都很多。",
+          "difference": "警下方是言，用在「警鈴」；驚下方是馬，用在「驚嚇」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "景",
+          "why": "同音字：警與景都讀ㄐㄧㄥˇ。",
+          "difference": "「警鈴」用警；「風景」用景。"
+        },
+        {
+          "char": "驚",
+          "why": "近音字：警ㄐㄧㄥˇ是三聲，驚ㄐㄧㄥ是一聲。",
+          "difference": "「警告」讀三聲；「吃驚」的驚讀一聲，並且下方部件不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "驚",
+          "why": "聽到警鈴時可能吃驚，兩個概念容易連在一起。",
+          "difference": "警含提醒、戒備的意思；驚是受到刺激而害怕或意外。「警鈴響了」不寫成驚鈴。"
+        }
+      ],
+      "component": [
+        {
+          "char": "敬",
+          "why": "敬是警的上方，容易把警誤當成敬的同音字。",
+          "difference": "警下方還有言；敬讀ㄐㄧㄥˋ，警讀ㄐㄧㄥˇ，字形和聲調都要辨認。"
+        }
+      ]
+    },
+    "tip": "看下方：有言是警，有馬是驚；「警鈴」的警讀第三聲。"
+  },
+  "createdAt": "2026-10-15T03:46:08.152116+00:00"
+}

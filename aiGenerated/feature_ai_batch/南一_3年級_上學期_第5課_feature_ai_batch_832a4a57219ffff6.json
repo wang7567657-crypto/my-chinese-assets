@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_3年級_上學期_第5課_feature_ai_batch_832a4a57219ffff6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 15,
+    "batchCharacters": [
+      "龍",
+      "沖",
+      "菱",
+      "兄",
+      "吐",
+      "歪",
+      "防",
+      "警",
+      "鈴",
+      "注",
+      "員",
+      "傷",
+      "死",
+      "諒",
+      "脾"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_f0cbbed4a5a28852.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_a4869834ff66dcd4.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_48ab5afb2bd0addf.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_c735033292e698f6.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_eb318395c2c86d3f.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_1e35e101e1e21803.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_754af9adab5f3c05.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_08d66a1cd97de11f.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_200e8bf071ea3906.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_6fded97be9c413f0.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_7d1ff1e2f59e63ab.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_604dd411121e2514.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_e2e15ece4fe84dbe.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_1632a812d4326802.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第5課_memory_strategy_fbd9e51d7ecaa173.json"
+    ]
+  },
+  "createdAt": "2026-10-15T03:46:08.152116+00:00"
+}
