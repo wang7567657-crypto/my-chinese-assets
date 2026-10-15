@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第7課_confusion_analysis_b97c7ae791afd5e8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "背",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "背",
+    "groups": {
+      "shape": [
+        {
+          "char": "胃",
+          "why": "兩字下方都有月形。",
+          "difference": "背上方為北；胃上方為田。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "貝",
+          "why": "手背的背與貝殼的貝都讀ㄅㄟˋ。",
+          "difference": "背是身體的後面或物體的反面；貝是貝類。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "面",
+          "why": "都可以表示物體的一側。",
+          "difference": "課文手背是手的外側；手掌面是另一側。"
+        }
+      ],
+      "component": [
+        {
+          "char": "北",
+          "why": "背的上方是北。",
+          "difference": "北沒有下方的月；背多了月。"
+        }
+      ]
+    },
+    "tip": "手背讀ㄅㄟˋ；背著書包讀ㄅㄟ，不要混讀。"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}

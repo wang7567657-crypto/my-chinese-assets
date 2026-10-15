@@ -1,0 +1,261 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_3年級_上學期_第7課_feature_ai_batch_8b7a6d5a6587fdc6",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "featureTaskType": "component_split",
+    "featureName": "部件拆分",
+    "itemCount": 15,
+    "batchCharacters": [
+      "背",
+      "斑",
+      "皺",
+      "懂",
+      "凡",
+      "梳",
+      "夾",
+      "藏",
+      "捏",
+      "摺",
+      "仔",
+      "藝",
+      "術",
+      "雖",
+      "創"
+    ],
+    "items": [
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_c12f211aa8745975",
+        "input": {
+          "char": "背",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_67dc9f8772c71d55",
+        "input": {
+          "char": "斑",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_304bdb7d2d0ea740",
+        "input": {
+          "char": "皺",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_fa47e6ca49a1572d",
+        "input": {
+          "char": "懂",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_262b5d9f158d3168",
+        "input": {
+          "char": "凡",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_7d3055d2635f8782",
+        "input": {
+          "char": "梳",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_6397d55fc2a5863f",
+        "input": {
+          "char": "夾",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_7dec31c0a9f3e767",
+        "input": {
+          "char": "藏",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_753f92987cf13ef9",
+        "input": {
+          "char": "捏",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_09eace8265e191b3",
+        "input": {
+          "char": "摺",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_f487a02218763073",
+        "input": {
+          "char": "仔",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_c72cdfd0096092e1",
+        "input": {
+          "char": "藝",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_3a88757b0599def6",
+        "input": {
+          "char": "術",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_090fc218d0767369",
+        "input": {
+          "char": "雖",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_3年級_上學期_第7課_component_split_e5a164fc2fda172a",
+        "input": {
+          "char": "創",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}

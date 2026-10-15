@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第7課_confusion_analysis_8ddaae5d6460ddfe",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "仔",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "仔",
+    "groups": {
+      "shape": [
+        {
+          "char": "好",
+          "why": "右邊都有子。",
+          "difference": "仔左邊亻；好左邊女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "子",
+          "why": "仔細的仔與孩子的子字本音同為ㄗˇ；孩子一詞的子常讀輕聲。",
+          "difference": "仔在仔細表示細心周密；子可指孩子，也常作詞尾。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "細",
+          "why": "仔細與細心都表示注意小地方。",
+          "difference": "仔常與細合用成仔細；細還可表示粗細的細。"
+        }
+      ],
+      "component": [
+        {
+          "char": "子",
+          "why": "仔右邊是子。",
+          "difference": "子單獨成字；仔另加亻。"
+        }
+      ]
+    },
+    "tip": "本課仔細讀ㄗˇㄒㄧˋ，不讀成其他語詞的音。"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第7課_confusion_analysis_1cd2e59036e6be58",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "凡",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "凡",
+    "groups": {
+      "shape": [
+        {
+          "char": "几",
+          "why": "外部輪廓相近。",
+          "difference": "凡內有一點；几沒有點。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "煩",
+          "why": "凡事的凡與煩惱的煩同讀ㄈㄢˊ。",
+          "difference": "凡事是所有的事；煩是煩悶或麻煩。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "每",
+          "why": "都能用來談一個範圍中的事物。",
+          "difference": "凡事指所有事情；每件事逐一指出各件事情，搭配方式不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "風",
+          "why": "外部都有近似的包圍輪廓。",
+          "difference": "凡裡面是點；風裡面還有較多筆畫，不能省成凡。"
+        }
+      ]
+    },
+    "tip": "凡事要用凡；看到風要再看內部。"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}

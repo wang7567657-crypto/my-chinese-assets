@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第7課_confusion_analysis_631d4717cb396456",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "雖",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "雖",
+    "groups": {
+      "shape": [
+        {
+          "char": "唯",
+          "why": "都有口和隹。",
+          "difference": "雖左邊口下還有虫；唯左邊只有口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "隨",
+          "why": "雖然的雖ㄙㄨㄟ與隨著的隨ㄙㄨㄟˊ近音，聲調不同。",
+          "difference": "雖表示讓步；隨表示跟著或順著。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "但",
+          "why": "都可出現在轉折句。",
+          "difference": "雖然先提出一種情況；但是接著說轉折後的重點，位置功能不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "隹",
+          "why": "雖右邊是隹。",
+          "difference": "隹是字形部件，也能獨立成字；雖左邊另有口、虫。"
+        }
+      ]
+    },
+    "tip": "雖然……可是……要搭配完整情況，不能只看單字猜句意。"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}
