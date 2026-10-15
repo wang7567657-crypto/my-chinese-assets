@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第6課_similar_shape_dd4ba28feb786ef0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "喵",
+    "lessonChars": [
+      "女",
+      "非",
+      "關",
+      "澡",
+      "怕",
+      "應",
+      "平",
+      "毛",
+      "肚",
+      "蓋",
+      "摸",
+      "柔",
+      "揉",
+      "副",
+      "喵",
+      "茸",
+      "黏",
+      "膠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "喵",
+    "similarChars": [
+      {
+        "char": "苗",
+        "similarity": "都含「苗」部件。",
+        "difference": "「喵」口在左、苗在右；「苗」只有上艹下田的苗，沒有口。"
+      },
+      {
+        "char": "描",
+        "similarity": "都含「苗」部件。",
+        "difference": "「喵」口在左、苗在右；「描」扌在左、苗在右。"
+      },
+      {
+        "char": "貓",
+        "similarity": "都含「苗」部件。",
+        "difference": "「喵」口在左、苗在右；「貓」豸在左、苗在右。"
+      },
+      {
+        "char": "瞄",
+        "similarity": "都含「苗」部件。",
+        "difference": "「喵」口在左、苗在右；「瞄」目在左、苗在右。"
+      },
+      {
+        "char": "錨",
+        "similarity": "都含「苗」部件。",
+        "difference": "「喵」口在左、苗在右；「錨」金字旁在左、苗在右。"
+      },
+      {
+        "char": "嘈",
+        "similarity": "左邊同是口，右邊都有橫豎組成的方框輪廓。",
+        "difference": "喵右邊是苗，上艹下田；嘈右邊是曹，最下方是日，上半不是艹。"
+      }
+    ],
+    "teachingTip": "先辨苗，再分喵的口、描的扌和瞄的目；不要因為貓會喵叫便混淆左旁。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

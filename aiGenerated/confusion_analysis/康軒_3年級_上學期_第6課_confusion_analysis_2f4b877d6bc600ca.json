@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_2f4b877d6bc600ca",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "副",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "副",
+    "groups": {
+      "shape": [
+        {
+          "char": "福",
+          "why": "都有畐這個部件。",
+          "difference": "副是畐在左、刂在右；福是礻在左、畐在右。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "服",
+          "why": "近音限常用詞：一副表情的副ㄈㄨˋ，衣服的服ㄈㄨˊ，聲調不同。",
+          "difference": "副可作量詞；服見於衣服，不能把一副表情寫成一服表情。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "套",
+          "why": "都可以作量詞，但搭配不同。",
+          "difference": "一副眼鏡、一副表情用副；一套衣服、一套方法用套。"
+        }
+      ],
+      "component": [
+        {
+          "char": "畐",
+          "why": "副左邊包含畐。",
+          "difference": "畐是較少獨立使用的字，可按一、口、田觀察；副右邊還有刂。"
+        }
+      ]
+    },
+    "tip": "一副表情用副，右邊立刀旁別漏寫。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_d3b1d1a8bac4088e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "應",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "應",
+    "groups": {
+      "shape": [
+        {
+          "char": "鷹",
+          "why": "上方都有广形和相似的內部筆畫。",
+          "difference": "應下方是心；鷹下方是鳥。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "映",
+          "why": "同音比較限本課語境：回應的應ㄧㄥˋ，映照的映ㄧㄥˋ。",
+          "difference": "回應是作出答覆；映照是光線照射或顯出影像。應該的應另讀ㄧㄥ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "答",
+          "why": "回應與回答都和答覆有關。",
+          "difference": "答常見於回答、答案；應常見於回應，也可表示用行動作出反應。"
+        }
+      ],
+      "component": [
+        {
+          "char": "心",
+          "why": "應的下方有心，但不等於只寫一個心。",
+          "difference": "心可獨立成字；應還要寫上方的广形與內部筆畫。"
+        }
+      ]
+    },
+    "tip": "本課讀回應的應ㄧㄥˋ，底下寫心，不寫鳥。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

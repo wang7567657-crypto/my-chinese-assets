@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第6課_similar_shape_2c68166e9b5978f7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "非",
+    "lessonChars": [
+      "女",
+      "非",
+      "關",
+      "澡",
+      "怕",
+      "應",
+      "平",
+      "毛",
+      "肚",
+      "蓋",
+      "摸",
+      "柔",
+      "揉",
+      "副",
+      "喵",
+      "茸",
+      "黏",
+      "膠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "非",
+    "similarChars": [
+      {
+        "char": "排",
+        "similarity": "都含「非」部件。",
+        "difference": "「非」只有左右相對的非形；「排」扌在左、非在右。"
+      },
+      {
+        "char": "菲",
+        "similarity": "都含「非」部件。",
+        "difference": "「非」只有左右相對的非形；「菲」艹在上、非在下。"
+      },
+      {
+        "char": "悲",
+        "similarity": "都含「非」部件。",
+        "difference": "「非」只有左右相對的非形；「悲」非在上、心在下。"
+      },
+      {
+        "char": "斐",
+        "similarity": "都含「非」部件。",
+        "difference": "「非」只有左右相對的非形；「斐」非在上、文在下。"
+      },
+      {
+        "char": "翡",
+        "similarity": "都含「非」部件。",
+        "difference": "「非」只有左右相對的非形；「翡」非在上、羽在下。"
+      },
+      {
+        "char": "霏",
+        "similarity": "都含「非」部件。",
+        "difference": "「非」只有左右相對的非形；「霏」雨在上、非在下。"
+      }
+    ],
+    "teachingTip": "先找非的左右兩組短橫，再看外加部件在左、上或下；斐、翡、霏作進階辨形。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

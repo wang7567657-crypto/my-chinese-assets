@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第6課_similar_shape_5e24fdb5db9e58c5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "澡",
+    "lessonChars": [
+      "女",
+      "非",
+      "關",
+      "澡",
+      "怕",
+      "應",
+      "平",
+      "毛",
+      "肚",
+      "蓋",
+      "摸",
+      "柔",
+      "揉",
+      "副",
+      "喵",
+      "茸",
+      "黏",
+      "膠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "澡",
+    "similarChars": [
+      {
+        "char": "操",
+        "similarity": "都含「喿」部件。",
+        "difference": "「澡」氵在左、喿在右；「操」扌在左、喿在右。"
+      },
+      {
+        "char": "燥",
+        "similarity": "都含「喿」部件。",
+        "difference": "「澡」氵在左、喿在右；「燥」火在左、喿在右。"
+      },
+      {
+        "char": "噪",
+        "similarity": "都含「喿」部件。",
+        "difference": "「澡」氵在左、喿在右；「噪」口在左、喿在右。"
+      },
+      {
+        "char": "躁",
+        "similarity": "都含「喿」部件。",
+        "difference": "「澡」氵在左、喿在右；「躁」足字旁在左、喿在右。"
+      },
+      {
+        "char": "藻",
+        "similarity": "都含「喿」部件。",
+        "difference": "「澡」氵在左、喿在右；「藻」艹在上、澡在下。"
+      },
+      {
+        "char": "臊",
+        "similarity": "都含「喿」部件。",
+        "difference": "「澡」氵在左、喿在右；「臊」月形肉旁在左、喿在右。"
+      }
+    ],
+    "teachingTip": "先辨共同的三個口與下方木，再圈出洗澡的三點水；臊較少見，只作辨形。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

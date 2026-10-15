@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_ae6883d37c07f1a7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "柔",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "柔",
+    "groups": {
+      "shape": [
+        {
+          "char": "揉",
+          "why": "揉裡面含完整的柔。",
+          "difference": "柔沒有左邊的扌；揉多扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "揉",
+          "why": "同音：柔、揉都讀ㄖㄡˊ。",
+          "difference": "柔軟用柔；用手揉動用揉。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "軟",
+          "why": "都可形容不硬的性質。",
+          "difference": "柔常見於柔軟、溫柔；軟也可說物體硬度低，如軟糖，兩字不是所有詞都能互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "矛",
+          "why": "柔上方是矛。",
+          "difference": "矛是整字；柔還有下方的木。"
+        }
+      ]
+    },
+    "tip": "柔是性質，揉是動作；用手揉才加手旁。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

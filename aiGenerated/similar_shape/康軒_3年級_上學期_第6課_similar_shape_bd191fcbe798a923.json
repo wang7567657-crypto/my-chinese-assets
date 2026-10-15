@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第6課_similar_shape_bd191fcbe798a923",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "副",
+    "lessonChars": [
+      "女",
+      "非",
+      "關",
+      "澡",
+      "怕",
+      "應",
+      "平",
+      "毛",
+      "肚",
+      "蓋",
+      "摸",
+      "柔",
+      "揉",
+      "副",
+      "喵",
+      "茸",
+      "黏",
+      "膠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "副",
+    "similarChars": [
+      {
+        "char": "福",
+        "similarity": "都含「畐」部件。",
+        "difference": "「副」畐在左、刂在右；「福」示字旁在左、畐在右。"
+      },
+      {
+        "char": "幅",
+        "similarity": "都含「畐」部件。",
+        "difference": "「副」畐在左、刂在右；「幅」巾在左、畐在右。"
+      },
+      {
+        "char": "富",
+        "similarity": "都含「畐」部件。",
+        "difference": "「副」畐在左、刂在右；「富」宀在上、畐在下。"
+      },
+      {
+        "char": "輻",
+        "similarity": "都含「畐」部件。",
+        "difference": "「副」畐在左、刂在右；「輻」車在左、畐在右。"
+      },
+      {
+        "char": "蝠",
+        "similarity": "都含「畐」部件。",
+        "difference": "「副」畐在左、刂在右；「蝠」虫在左、畐在右。"
+      },
+      {
+        "char": "逼",
+        "similarity": "都含「畐」部件。",
+        "difference": "「副」畐在左、刂在右；「逼」辶托住畐。"
+      }
+    ],
+    "teachingTip": "共同部件是一、口、田組成的畐；副的刂在右邊，與福、幅的左旁不同。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

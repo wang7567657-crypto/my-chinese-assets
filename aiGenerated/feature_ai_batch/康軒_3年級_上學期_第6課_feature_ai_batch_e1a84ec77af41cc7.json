@@ -1,0 +1,61 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_3年級_上學期_第6課_feature_ai_batch_e1a84ec77af41cc7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 18,
+    "batchCharacters": [
+      "女",
+      "非",
+      "關",
+      "澡",
+      "怕",
+      "應",
+      "平",
+      "毛",
+      "肚",
+      "蓋",
+      "摸",
+      "柔",
+      "揉",
+      "副",
+      "喵",
+      "茸",
+      "黏",
+      "膠"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 18,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_63b4f98559b3f8ae.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_45713872c38d1227.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_b2b6885184359ff5.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_ee3641f9a592fb87.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_2dc27593fbb40913.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_d3b1d1a8bac4088e.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_f59a96b64bdc0436.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_ecdb71f03047e42a.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_b98d6e8b3a53b147.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_788818d29fd93f24.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_1ce0bd8476d233ee.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_ae6883d37c07f1a7.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_44c990194cce2c26.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_2f4b877d6bc600ca.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_5f6631cc7d993588.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_2d32904dab49797e.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_ced81ae165866776.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第6課_confusion_analysis_381791139235220c.json"
+    ]
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

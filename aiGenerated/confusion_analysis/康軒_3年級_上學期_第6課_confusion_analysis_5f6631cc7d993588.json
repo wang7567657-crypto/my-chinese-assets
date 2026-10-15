@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_5f6631cc7d993588",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "喵",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "喵",
+    "groups": {
+      "shape": [
+        {
+          "char": "描",
+          "why": "右邊同是苗。",
+          "difference": "喵左邊口；描左邊扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "苗",
+          "why": "近音：喵ㄇㄧㄠ，苗ㄇㄧㄠˊ，聲調不同。",
+          "difference": "喵模擬貓叫；苗是幼小的植物等意思。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "吠",
+          "why": "都與動物發聲有關。",
+          "difference": "喵是模擬貓叫的聲音；吠是狗叫的動作。"
+        }
+      ],
+      "component": [
+        {
+          "char": "苗",
+          "why": "喵的右邊完整保留苗。",
+          "difference": "苗由艹與田組成；喵還要加左邊口。"
+        }
+      ]
+    },
+    "tip": "貓從口中喵喵叫，記口旁與第一聲。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_ced81ae165866776",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "黏",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "黏",
+    "groups": {
+      "shape": [
+        {
+          "char": "粘",
+          "why": "右邊都是占。",
+          "difference": "黏左邊是黍；粘左邊是米。粘也見於異體字用法，本課依課本寫黏。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "年",
+          "why": "同音：黏、年都讀ㄋㄧㄢˊ。",
+          "difference": "黏表示附著、不容易分開；年是時間單位。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "貼",
+          "why": "都可表示物體附著在一起。",
+          "difference": "黏強調黏性或不易分開；貼可指放得緊靠，也可指用膠固定。本課黏人是喜歡緊跟著人。"
+        }
+      ],
+      "component": [
+        {
+          "char": "占",
+          "why": "黏的右邊是占。",
+          "difference": "占可獨立成字；黏左邊還有黍，不可省略。"
+        }
+      ]
+    },
+    "tip": "黏人是比喻；黏字左黍右占，讀ㄋㄧㄢˊ。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

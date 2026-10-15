@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_44c990194cce2c26",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "揉",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "揉",
+    "groups": {
+      "shape": [
+        {
+          "char": "柔",
+          "why": "右邊是完整的柔。",
+          "difference": "揉左邊多扌；柔沒有扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "柔",
+          "why": "同音：揉、柔都讀ㄖㄡˊ。",
+          "difference": "揉肚子用揉；柔軟的毛用柔。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "搓",
+          "why": "都是手反覆摩擦的動作。",
+          "difference": "揉常有按壓、搓動或團成一團的意思；搓較強調來回摩擦，如搓手。"
+        }
+      ],
+      "component": [
+        {
+          "char": "操",
+          "why": "左邊同是扌。",
+          "difference": "揉右邊為上矛下木的柔；操右邊為三口在木上方的喿。"
+        }
+      ]
+    },
+    "tip": "揉的右邊是柔，不是操的喿；再用手旁連結動作。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_788818d29fd93f24",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蓋",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蓋",
+    "groups": {
+      "shape": [
+        {
+          "char": "盍",
+          "why": "都有去在皿上方的部分。",
+          "difference": "蓋上面多艹；盍沒有艹，是較少見的文言字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "概",
+          "why": "同音限常用詞：蓋子、蓋住的蓋ㄍㄞˋ，大概的概ㄍㄞˋ。",
+          "difference": "蓋可表示覆住；概見於大概、概念，左邊木。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "遮",
+          "why": "都可以表示擋住或覆住。",
+          "difference": "蓋常指把物品覆在上面，如蓋被；遮常用於擋光或視線，如遮陽。"
+        }
+      ],
+      "component": [
+        {
+          "char": "去",
+          "why": "蓋的中間有去。",
+          "difference": "去可獨立成字；蓋還有上方艹與下方皿。"
+        }
+      ]
+    },
+    "tip": "蓋要寫滿三層：艹、去、皿。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

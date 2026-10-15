@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_1ce0bd8476d233ee",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "摸",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "摸",
+    "groups": {
+      "shape": [
+        {
+          "char": "模",
+          "why": "右邊都是莫。",
+          "difference": "摸左邊扌；模左邊木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "模",
+          "why": "近音：摸ㄇㄛ，模型的模ㄇㄛˊ，聲調不同。",
+          "difference": "摸是手接觸；模型是按物體形狀製作的物品。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "碰",
+          "why": "都和接觸有關。",
+          "difference": "摸通常是主動用手接觸、感覺；碰可由手或其他物體接觸，也可能是不小心。"
+        }
+      ],
+      "component": [
+        {
+          "char": "漠",
+          "why": "都含莫。",
+          "difference": "摸左邊扌；漠左邊氵，沙漠不用摸。"
+        }
+      ]
+    },
+    "tip": "手摸用扌；先看左邊，再讀第一聲。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

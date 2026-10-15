@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第6課_memory_strategy_bf47b59fdbcb07c2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "摸",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "摸",
+    "components": [
+      "扌",
+      "莫"
+    ],
+    "association": "摸貓咪需要手，先找提手旁，再把右邊莫看成艹、日、大三層。（這是幫助記字的聯想，不是字源解釋。）",
+    "mnemonic": "手在左，莫在右，輕輕摸摸小貓頭。",
+    "visualPrompt": "保持「摸」的標準字形與筆畫，不變形、不把圖案嵌入字內。人物輕摸貓咪的背，完整的「摸」放在圖片旁。",
+    "teachingTip": "右下是大，不是小；以「手做動作」分辨摸與漠。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}
