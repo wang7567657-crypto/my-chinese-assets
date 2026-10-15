@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第9課_confusion_analysis_6a6d156177e9e385",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鞍",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鞍",
+    "groups": {
+      "shape": [
+        {
+          "char": "按",
+          "why": "兩字右邊都是安，容易只照右半邊認字。",
+          "difference": "鞍左邊是革，用在馬鞍；按左邊是扌，用在按鈕、按住。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "安",
+          "why": "鞍、安都讀ㄢ，鞍也包含安。",
+          "difference": "馬太鞍的鞍有革旁；平安、安全用安。地名必須保留原來的用字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "墊",
+          "why": "鞍的本義是一種供人騎坐的墊子，容易把近義字直接代換。",
+          "difference": "鞍特指放在牲畜背上供人騎坐的器具；墊泛指放在下面襯托的東西。馬太鞍是地名，不能改成馬太墊。"
+        }
+      ],
+      "component": [
+        {
+          "char": "鞋",
+          "why": "兩字都有革旁，容易忽略右邊的差別。",
+          "difference": "鞍右邊是安，鞋右邊是圭；馬鞍用鞍，穿的鞋子用鞋。"
+        }
+      ]
+    },
+    "tip": "馬太鞍是地名，鞍讀ㄢ、左革右安；不要用馬鞍的意思逐字解釋這個地名。"
+  },
+  "createdAt": "2026-10-15T20:30:12.236682Z"
+}

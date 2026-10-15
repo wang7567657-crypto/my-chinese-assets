@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第9課_confusion_analysis_3c4e2428b6e708ae",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "竹",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "竹",
+    "groups": {
+      "shape": [
+        {
+          "char": "竿",
+          "why": "竿的上方是竹字頭，容易把材料名稱與物品名稱混寫。",
+          "difference": "竹是單獨的字；竿上方是竹字頭，下方還有干。竹子用竹，釣竿用竿。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "築",
+          "why": "竹、築都讀ㄓㄨˊ，且都可能出現在造魚屋的情境中。",
+          "difference": "竹是植物或竹材，如竹子；築是建造，如築巢、建築。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "木",
+          "why": "竹材和木材都能拿來製作物品。",
+          "difference": "竹可指竹子或竹材，木可指樹或木材；竹子和樹木是不同的植物，說材料時要分清楚。"
+        }
+      ],
+      "component": [
+        {
+          "char": "笛",
+          "why": "竹作為部件時會變成竹字頭，可能忘記下方還有別的部分。",
+          "difference": "竹能單獨成字；笛是竹字頭下面加由，表示一種樂器。看到竹字頭，不等於整字都讀竹。"
+        }
+      ]
+    },
+    "tip": "造魚屋用的竹子寫竹；竹也會變成竹字頭，出現在竿、笛等字上方。"
+  },
+  "createdAt": "2026-10-15T20:30:12.236682Z"
+}

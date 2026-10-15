@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第9課_confusion_analysis_afd284f2e6537f83",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "捕",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "捕",
+    "groups": {
+      "shape": [
+        {
+          "char": "補",
+          "why": "兩字右邊都是甫，左邊的偏旁容易看錯。",
+          "difference": "捕左邊是扌，表示捕捉的動作；補左邊是衤，用在補衣服、補充。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "補",
+          "why": "捕、補都讀ㄅㄨˇ，字形又接近。",
+          "difference": "把魚捉住用捕，如捕魚；把缺少或破損的部分補足用補，如修補。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "釣",
+          "why": "捕與釣都可能把魚捉到。",
+          "difference": "捕是捉取的總稱；釣特指用釣具引魚等上鉤。釣魚是一種捕魚方式，兩字範圍不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "浦",
+          "why": "兩字都含甫，差別在左邊。",
+          "difference": "捕用扌，浦用氵；捕是捉取，浦是水邊或河流入海的地方，不能因為捕魚在水中就加水旁。"
+        }
+      ]
+    },
+    "tip": "想到「動手捕魚」就記扌；捕讀ㄅㄨˇ，和補同音，但偏旁與意思不同。"
+  },
+  "createdAt": "2026-10-15T20:30:12.236682Z"
+}

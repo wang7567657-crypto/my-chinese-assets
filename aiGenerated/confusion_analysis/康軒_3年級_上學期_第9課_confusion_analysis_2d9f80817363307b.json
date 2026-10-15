@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第9課_confusion_analysis_2d9f80817363307b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "智",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "智",
+    "groups": {
+      "shape": [
+        {
+          "char": "知",
+          "why": "智上面是知，容易漏掉下方的日。",
+          "difference": "智是知下加日，用在智慧、機智；知沒有下方的日，用在知道、知識。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "志",
+          "why": "智、志都讀ㄓˋ。",
+          "difference": "智慧、機智用智；心裡的目標或決心用志，如志向、立志。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "慧",
+          "why": "智與慧都和聰明、理解能力有關，也常合成智慧。",
+          "difference": "智可組機智、才智；慧可組聰慧、慧心。兩字意思相關，但機智不能任意改寫成機慧。"
+        }
+      ],
+      "component": [
+        {
+          "char": "短",
+          "why": "兩字都含有矢，容易只記住其中一部分。",
+          "difference": "智上方的知是矢和口，下方另有日；短是矢和豆，沒有智下面的日。"
+        }
+      ]
+    },
+    "tip": "智慧的智是上知、下日；用「知道後還會想辦法」幫助聯想，別漏寫日。"
+  },
+  "createdAt": "2026-10-15T20:30:12.236682Z"
+}

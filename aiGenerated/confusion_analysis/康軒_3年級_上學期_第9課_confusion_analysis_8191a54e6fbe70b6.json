@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第9課_confusion_analysis_8191a54e6fbe70b6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "造",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "造",
+    "groups": {
+      "shape": [
+        {
+          "char": "告",
+          "why": "造包含告，容易漏掉外側的辶。",
+          "difference": "造有辶，常表示做出東西，如建造；告沒有辶，用在告訴、報告。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "燥",
+          "why": "造、燥都讀ㄗㄠˋ。",
+          "difference": "把東西做出來用造，如造魚屋；水分少、乾燥用燥，如天氣乾燥。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "建",
+          "why": "建與造都可指興建，也常合成建造。",
+          "difference": "建常用在設立或興建，如建校；造也能指做出物品，如製造竹器。意思有重疊，仍要留意詞語搭配。"
+        }
+      ],
+      "component": [
+        {
+          "char": "進",
+          "why": "兩字都有辶，字的外框相似。",
+          "difference": "造的辶裡面是告，進的辶裡面是隹；建造用造，進入用進。"
+        }
+      ]
+    },
+    "tip": "先找到造裡面的告，再確認辶沒有漏寫；用「建造魚屋」記住意思。"
+  },
+  "createdAt": "2026-10-15T20:30:12.236682Z"
+}

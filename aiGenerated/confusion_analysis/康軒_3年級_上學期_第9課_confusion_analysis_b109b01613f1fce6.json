@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第9課_confusion_analysis_b109b01613f1fce6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "植",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "植",
+    "groups": {
+      "shape": [
+        {
+          "char": "值",
+          "why": "兩字右邊都是直，左邊容易混淆。",
+          "difference": "植左邊是木，用在植物、種植；值左邊是亻，用在值日、值得。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "直",
+          "why": "植、直都讀ㄓˊ，植還包含直。",
+          "difference": "植物、種植要有木旁；直表示不彎曲或直接，如直線、一直，沒有木旁。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "種",
+          "why": "植與種在栽種的意思上相近。",
+          "difference": "植可組種植、植樹；種表示栽種時讀ㄓㄨㄥˋ，如種花。但植物是一類生物的名稱，不能寫成種物。"
+        }
+      ],
+      "component": [
+        {
+          "char": "殖",
+          "why": "兩字都含直，容易只記住右邊。",
+          "difference": "植左邊是木；殖左邊是歹，常用在繁殖。植物與繁殖都有生命相關意思，仍要分清偏旁。"
+        }
+      ]
+    },
+    "tip": "植物的植用木旁；值日的值用人旁。用「水生植物」連起字形與意思。"
+  },
+  "createdAt": "2026-10-15T20:30:12.236682Z"
+}

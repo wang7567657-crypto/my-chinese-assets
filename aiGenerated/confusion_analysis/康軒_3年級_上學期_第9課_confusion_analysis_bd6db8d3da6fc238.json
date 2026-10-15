@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第9課_confusion_analysis_bd6db8d3da6fc238",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "溼",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "溼",
+    "groups": {
+      "shape": [
+        {
+          "char": "濕",
+          "why": "兩字都是水旁，在潮溼的意思上相通，容易以為只有一種寫法。",
+          "difference": "溼右下是土，濕右上是日、右下是灬；兩字有異體關係，本課採用溼。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "失",
+          "why": "溼、失都讀ㄕ，聽寫時容易只憑聲音選字。",
+          "difference": "水分多或沾到水用溼，如溼地、淋溼；不見了或沒有做到用失，如失去、失約。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "潤",
+          "why": "兩字都可能和水分有關。",
+          "difference": "溼強調含有水分或沾到水，如毛巾淋溼；潤常說滋潤、不乾燥，如嘴唇滋潤，詞語搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "滋",
+          "why": "兩字都有氵，右邊也都有兩個幺，容易混寫。",
+          "difference": "溼的右邊上有一、下有土；滋的右邊是茲，下方沒有土。"
+        }
+      ]
+    },
+    "tip": "記住「溼地有水」的水旁，並看清右下的土。溼、濕在含水義相通，本課統一寫溼。"
+  },
+  "createdAt": "2026-10-15T20:30:12.236682Z"
+}

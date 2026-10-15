@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第9課_confusion_analysis_65381e4a86b4ad30",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "層",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "層",
+    "groups": {
+      "shape": [
+        {
+          "char": "曾",
+          "why": "層裡面有曾，容易漏寫外面的尸。",
+          "difference": "層是尸包著曾，可說三層魚屋；曾沒有尸，用在曾經。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "曾",
+          "why": "層讀ㄘㄥˊ；曾在曾經裡也讀ㄘㄥˊ。",
+          "difference": "上下分出的部分用層，如三層；表示以前有過用曾，如曾經。曾作姓氏時讀ㄗㄥ，不能套用在曾經。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "樓",
+          "why": "層與樓都可能用來說上下分隔的空間。",
+          "difference": "層可指物體重疊或分隔的一部分，如魚屋有三層；樓可指樓房，也可說一樓、二樓，三層魚屋不是三座樓房。"
+        }
+      ],
+      "component": [
+        {
+          "char": "屋",
+          "why": "兩字都有尸，且都可能出現在房屋相關詞語中。",
+          "difference": "層的尸裡面是曾，屋的尸裡面是至；魚屋是整個構造，層是它上下分出的部分。"
+        }
+      ]
+    },
+    "tip": "三層魚屋有上、中、下的層次；寫層時別把外面的尸漏掉。"
+  },
+  "createdAt": "2026-10-15T20:30:12.236682Z"
+}

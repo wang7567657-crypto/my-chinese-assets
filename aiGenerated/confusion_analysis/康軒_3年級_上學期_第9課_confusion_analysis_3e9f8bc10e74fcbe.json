@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第9課_confusion_analysis_3e9f8bc10e74fcbe",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "式",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "式",
+    "groups": {
+      "shape": [
+        {
+          "char": "試",
+          "why": "試的右邊就是式，漏加或多加言旁就會變字。",
+          "difference": "式沒有言旁，表示方式、樣式；試有言旁，表示試做或測驗。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "事",
+          "why": "式、事都讀ㄕˋ。",
+          "difference": "表示做法或規格可用式，如方式、格式；事情、事件用事。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "法",
+          "why": "方式與方法都可用來說做事情的辦法。",
+          "difference": "兩詞有時意思接近，但字的搭配不同：式可組樣式、格式；法可組辦法、做法，要依完整詞語選字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "拭",
+          "why": "拭含有式，容易只記共同部件。",
+          "difference": "式本身沒有扌；拭是在式左邊加扌，表示擦，如擦拭。"
+        }
+      ]
+    },
+    "tip": "捕魚「方式」用式；「試一試」才用有言旁的試。式裡面是工，不要憑印象加筆。"
+  },
+  "createdAt": "2026-10-15T20:30:12.236682Z"
+}
