@@ -224,11 +224,11 @@
     "semester": "上學期"
   },
   "requestId": "康軒_3年級_上學期_第1課_feature_ai_batch_4d2617aedae52f3b",
-  "status": "completed",
+  "status": "done",
   "taskType": "feature_ai_batch",
   "version": "1.0",
   "completedAt": "2026-10-12T05:36:37Z",
-  "updatedAt": "2026-10-12T05:36:37Z",
+  "updatedAt": "2026-10-15T04:19:05.768Z",
   "progress": {
     "totalItems": 13,
     "completedItems": 13,
@@ -263,5 +263,58 @@
     "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_3daa7be9fda2cda3.json",
     "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_d63ae5ce227d08e1.json",
     "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_618fc5fe36b1cc97.json"
-  ]
+  ],
+  "processedAt": "2026-10-15T04:19:05.768Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "康軒_3年級_上學期_第1課_feature_ai_batch_4d2617aedae52f3b",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "batchCharacters": [
+        "字",
+        "舟",
+        "灑",
+        "載",
+        "讓",
+        "愁",
+        "嘆",
+        "忌",
+        "妒",
+        "訣",
+        "似",
+        "練",
+        "習"
+      ],
+      "featureName": "部件拆分",
+      "featureTaskType": "component_split",
+      "grade": "3年級",
+      "itemCount": 13,
+      "lesson": "第1課",
+      "publisher": "康軒",
+      "semester": "上學期"
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 13,
+      "resultPaths": [
+        "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_8eb7daddcb8d5677.json",
+        "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_b13e70bc5782ccf2.json",
+        "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_8949e3e314230808.json",
+        "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_9762e97d98ac56f5.json",
+        "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_a163c4b663c497c9.json",
+        "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_00c36dd81c3c8d61.json",
+        "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_9d22076796fb6f80.json",
+        "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_36bba9f0f4d3772f.json",
+        "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_763906d3aaab21d9.json",
+        "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_0a5bfcf131fc4334.json",
+        "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_3daa7be9fda2cda3.json",
+        "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_d63ae5ce227d08e1.json",
+        "aiGenerated/component_split/康軒_3年級_上學期_第1課_component_split_618fc5fe36b1cc97.json"
+      ]
+    },
+    "createdAt": "2026-10-08T21:30:54.386660+00:00",
+    "updatedAt": "2026-10-15T04:19:05.768Z"
+  }
 }
