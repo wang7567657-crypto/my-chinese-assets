@@ -6,7 +6,7 @@
   "source": "chatgpt",
   "input": {
     "char": "逗",
-    "strokeCount": 11,
+    "strokeCount": null,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "publisher": "南一",
@@ -52,7 +52,7 @@
     "structure": "半包圍",
     "verified": true,
     "radicalVerified": true,
-    "source": "c9s/zh-stroke-data: XML outline/track checked and radical-color rendering reviewed",
+    "source": "c9s/zh-stroke-data",
     "note": "只分部首與其餘部分；strokeGroups為1起算，每筆恰好一次，保留原字位置與筆順。",
     "validation": {
       "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/9017.xml",
@@ -60,6 +60,10 @@
       "coordinatesValid": true,
       "trackValid": true,
       "visualReviewed": true
+    },
+    "verification": {
+      "method": "重新下載原始 XML，核對 Stroke 數、Outline 無重複、有限合理座標及 Track 節點有效；依既有 strokeGroups 渲染部首藍色、其餘橘色後逐字視覺核對。每筆恰好分配一次；保留已核對的原筆畫分組。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/9017.xml"
     }
   },
   "createdAt": "2026-10-15T01:56:34.411Z"
