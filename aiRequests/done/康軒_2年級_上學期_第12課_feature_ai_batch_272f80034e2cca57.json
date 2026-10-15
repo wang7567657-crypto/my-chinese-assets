@@ -320,11 +320,11 @@
     "semester": "上學期"
   },
   "requestId": "康軒_2年級_上學期_第12課_feature_ai_batch_272f80034e2cca57",
-  "status": "completed",
+  "status": "done",
   "taskType": "feature_ai_batch",
   "version": "1.0",
   "completedAt": "2026-10-12T05:36:37Z",
-  "updatedAt": "2026-10-12T05:36:37Z",
+  "updatedAt": "2026-10-15T03:25:46.034Z",
   "progress": {
     "totalItems": 19,
     "completedItems": 19,
@@ -371,5 +371,70 @@
     "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_c6396227d2f3f72f.json",
     "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_b702bf64f011aca6.json",
     "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_b726bc59cdec96d8.json"
-  ]
+  ],
+  "processedAt": "2026-10-15T03:25:46.034Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "康軒_2年級_上學期_第12課_feature_ai_batch_272f80034e2cca57",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "batchCharacters": [
+        "灰",
+        "涼",
+        "牠",
+        "鼓",
+        "絡",
+        "欣",
+        "發",
+        "居",
+        "冒",
+        "冰",
+        "圍",
+        "咪",
+        "幸",
+        "團",
+        "聚",
+        "愉",
+        "鍋",
+        "妙",
+        "聊"
+      ],
+      "featureName": "部件拆分",
+      "featureTaskType": "component_split",
+      "grade": "2年級",
+      "itemCount": 19,
+      "lesson": "第12課",
+      "publisher": "康軒",
+      "semester": "上學期"
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 19,
+      "resultPaths": [
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_c38afc7ab62778e1.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_053845c88edc37ed.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_9991afaa50ebac1c.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_02083125f38fba26.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_fd6d2e12639207c6.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_a0a886d2edbd29ab.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_b569b1dbf99674b6.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_35bb475f3719cd4d.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_0d24c0ab73e56047.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_87ce8e86325722ea.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_028a447338633ec0.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_bc6fbb3689caf21a.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_e3888d4e1ec1978a.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_e5bf3fe4fcd693c3.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_16a056d6d8063147.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_a23ac62c74970d27.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_c6396227d2f3f72f.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_b702bf64f011aca6.json",
+        "aiGenerated/component_split/康軒_2年級_上學期_第12課_component_split_b726bc59cdec96d8.json"
+      ]
+    },
+    "createdAt": "2026-10-08T20:30:55.687283+00:00",
+    "updatedAt": "2026-10-15T03:25:46.034Z"
+  }
 }
