@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_4年級_上學期_第1課_memory_strategy_4a6f50988ebb5bca",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "灣",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "灣",
+    "components": [
+      "氵",
+      "䜌",
+      "弓"
+    ],
+    "association": "海灣有水，所以左邊是三點水；右邊彎的下方是弓。",
+    "mnemonic": "三點水加彎，海水彎進來成海灣。",
+    "visualPrompt": "",
+    "teachingTip": "先比較「彎、灣」，再辨認右上言兩旁的糸，避免漏寫。"
+  },
+  "createdAt": "2026-10-15T01:56:10.880Z"
+}

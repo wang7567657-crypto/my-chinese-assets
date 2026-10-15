@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_4年級_上學期_第1課_memory_strategy_085442565bbf6076",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "椰",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "椰",
+    "components": [
+      "木",
+      "耶"
+    ],
+    "association": "椰子樹是樹木，左邊是木；右邊的耶可以再看成耳與右耳旁。",
+    "mnemonic": "木在左，耶在右，椰子長在樹上頭。",
+    "visualPrompt": "",
+    "teachingTip": "先組木與耶，再比較只有耶時，意思和字形都不同。"
+  },
+  "createdAt": "2026-10-15T01:56:10.880Z"
+}

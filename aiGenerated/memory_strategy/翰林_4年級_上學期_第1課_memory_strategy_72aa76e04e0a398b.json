@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_4年級_上學期_第1課_memory_strategy_72aa76e04e0a398b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "寒",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "寒",
+    "components": [
+      "宀",
+      "中間部分",
+      "下方兩點"
+    ],
+    "association": "想到寒冷時待在屋內，注意字最下方是兩點。",
+    "mnemonic": "寒冷的寒，下方兩點別變成貝。",
+    "visualPrompt": "",
+    "teachingTip": "和「賽」對照，遮住上半部，辨認下方兩點與貝。"
+  },
+  "createdAt": "2026-10-15T01:56:10.879Z"
+}

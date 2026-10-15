@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_4年級_上學期_第1課_memory_strategy_f279a9a6f8fabe99",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "街",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "街",
+    "components": [
+      "彳",
+      "圭",
+      "亍"
+    ],
+    "association": "想像人在街道兩旁行走，中間的圭是兩個土上下疊。",
+    "mnemonic": "行的中間兩個土，合起來就是街。",
+    "visualPrompt": "",
+    "teachingTip": "先讀「街道」，再找中間兩個土，與衛的中間比較。"
+  },
+  "createdAt": "2026-10-15T01:56:10.880Z"
+}

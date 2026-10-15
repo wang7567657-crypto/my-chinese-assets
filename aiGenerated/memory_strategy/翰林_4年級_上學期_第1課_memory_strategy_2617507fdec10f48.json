@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_4年級_上學期_第1課_memory_strategy_2617507fdec10f48",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "童",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "童",
+    "components": [
+      "立",
+      "里"
+    ],
+    "association": "想像兒童站立在里民活動中心，用上立下里記字形。",
+    "mnemonic": "上面立，下面里，兒童的童要記起。",
+    "visualPrompt": "",
+    "teachingTip": "與「重」比較上半部，再找「撞、鐘」裡共同的童。"
+  },
+  "createdAt": "2026-10-15T01:56:10.880Z"
+}

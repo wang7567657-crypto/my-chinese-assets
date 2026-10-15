@@ -1,0 +1,224 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_4年級_上學期_第1課_feature_ai_batch_3f15d83f61dd0705",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 14,
+    "batchCharacters": [
+      "島",
+      "唾",
+      "沫",
+      "忠",
+      "衛",
+      "寒",
+      "椰",
+      "隊",
+      "蕉",
+      "街",
+      "灣",
+      "甜",
+      "糖",
+      "童"
+    ],
+    "items": [
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_1f628e355158866c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "島",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_ffccbf5fb06b555f",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "唾",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_7160f8f3ef8a418d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "沫",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_428a7ab557f79e14",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "忠",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_08ddfc4d6c1d0846",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "衛",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_72aa76e04e0a398b",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "寒",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_085442565bbf6076",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "椰",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_05515e6b503acffe",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "隊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_2f0590b485ea8153",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "蕉",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_f279a9a6f8fabe99",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "街",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_4a6f50988ebb5bca",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "灣",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_6a6a2987f59d6fd6",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "甜",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_fda400622f327794",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "糖",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "翰林_4年級_上學期_第1課_memory_strategy_2617507fdec10f48",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "char": "童",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 14,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/翰林_4年級_上學期_第1課_memory_strategy_1f628e355158866c.json",
+      "aiGenerated/memory_strategy/翰林_4年級_上學期_第1課_memory_strategy_ffccbf5fb06b555f.json",
+      "aiGenerated/memory_strategy/翰林_4年級_上學期_第1課_memory_strategy_7160f8f3ef8a418d.json",
+      "aiGenerated/memory_strategy/翰林_4年級_上學期_第1課_memory_strategy_428a7ab557f79e14.json",
+      "aiGenerated/memory_strategy/翰林_4年級_上學期_第1課_memory_strategy_08ddfc4d6c1d0846.json",
+      "aiGenerated/memory_strategy/翰林_4年級_上學期_第1課_memory_strategy_72aa76e04e0a398b.json",
+      "aiGenerated/memory_strategy/翰林_4年級_上學期_第1課_memory_strategy_085442565bbf6076.json",
+      "aiGenerated/memory_strategy/翰林_4年級_上學期_第1課_memory_strategy_05515e6b503acffe.json",
+      "aiGenerated/memory_strategy/翰林_4年級_上學期_第1課_memory_strategy_2f0590b485ea8153.json",
+      "aiGenerated/memory_strategy/翰林_4年級_上學期_第1課_memory_strategy_f279a9a6f8fabe99.json",
+      "aiGenerated/memory_strategy/翰林_4年級_上學期_第1課_memory_strategy_4a6f50988ebb5bca.json",
+      "aiGenerated/memory_strategy/翰林_4年級_上學期_第1課_memory_strategy_6a6a2987f59d6fd6.json",
+      "aiGenerated/memory_strategy/翰林_4年級_上學期_第1課_memory_strategy_fda400622f327794.json",
+      "aiGenerated/memory_strategy/翰林_4年級_上學期_第1課_memory_strategy_2617507fdec10f48.json"
+    ]
+  },
+  "createdAt": "2026-10-15T01:58:02.426Z"
+}

@@ -1,0 +1,53 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_3年級_上學期_第2課_component_split_5c564f3fc9356e7d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "已",
+    "grade": "3年級",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。",
+    "lesson": "第2課",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "semester": "上學期",
+    "strokeCount": 3,
+    "strokeSource": "c9s/zh-stroke-data"
+  },
+  "data": {
+    "radical": "己",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "strokeCount": 3,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3
+      ]
+    ],
+    "split": [
+      3
+    ],
+    "components": [
+      "已"
+    ],
+    "structure": "獨體",
+    "verified": true,
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data: XML outline/track checked and radical-color rendering reviewed",
+    "note": "獨體字保留整字，不強行拆分。",
+    "validation": {
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5df2.xml",
+      "outlineUnique": true,
+      "coordinatesValid": true,
+      "trackValid": true,
+      "visualReviewed": true
+    }
+  },
+  "createdAt": "2026-10-15T01:56:34.417Z"
+}

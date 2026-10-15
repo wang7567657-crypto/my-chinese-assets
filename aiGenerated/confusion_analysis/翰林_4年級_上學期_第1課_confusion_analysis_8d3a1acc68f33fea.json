@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_8d3a1acc68f33fea",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "童",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "童",
+    "groups": {
+      "shape": [
+        {
+          "char": "重",
+          "why": "整體輪廓相近",
+          "difference": "童上方是立；重上方不是立，先找有沒有立的點與橫。"
+        },
+        {
+          "char": "撞",
+          "why": "右邊包含童",
+          "difference": "童用於兒童；撞左邊多了扌，用於碰撞。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "與「重」比較上半部，再找「撞、鐘」裡共同的童。"
+  },
+  "createdAt": "2026-10-15T01:56:10.883Z"
+}

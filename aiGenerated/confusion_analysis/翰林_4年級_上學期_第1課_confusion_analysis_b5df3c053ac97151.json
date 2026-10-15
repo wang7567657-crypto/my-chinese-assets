@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_b5df3c053ac97151",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "忠",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "忠",
+    "groups": {
+      "shape": [
+        {
+          "char": "患",
+          "why": "下方都是心",
+          "difference": "忠上面是中；患上面是串。"
+        },
+        {
+          "char": "忡",
+          "why": "都含中與心形",
+          "difference": "忠是上下；忡是左右，左邊心變成忄，如憂心忡忡。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "先寫中，再寫心；和「患」比較上面是一個中還是一串口。"
+  },
+  "createdAt": "2026-10-15T01:56:10.882Z"
+}

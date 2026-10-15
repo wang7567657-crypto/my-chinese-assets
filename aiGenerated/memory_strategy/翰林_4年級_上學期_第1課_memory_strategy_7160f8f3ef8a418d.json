@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_4年級_上學期_第1課_memory_strategy_7160f8f3ef8a418d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "沫",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "沫",
+    "components": [
+      "氵",
+      "末"
+    ],
+    "association": "水面上的泡沫，用三點水搭配「末」來記。",
+    "mnemonic": "泡沫有水，右邊末：上橫長、下橫短。",
+    "visualPrompt": "",
+    "teachingTip": "和「沬」比較右邊的末與未，先指認長橫的位置。"
+  },
+  "createdAt": "2026-10-15T01:56:10.879Z"
+}

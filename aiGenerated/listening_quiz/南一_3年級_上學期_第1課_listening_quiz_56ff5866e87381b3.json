@@ -1,0 +1,232 @@
+{
+  "taskType": "listening_quiz",
+  "requestId": "南一_3年級_上學期_第1課_listening_quiz_56ff5866e87381b3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "chars": [
+      "泥",
+      "化",
+      "雀",
+      "輕",
+      "羽",
+      "衣",
+      "脆",
+      "髮",
+      "處",
+      "旅",
+      "行",
+      "平",
+      "男",
+      "朗",
+      "足"
+    ],
+    "count": 15,
+    "level": "國小中高年級"
+  },
+  "data": {
+    "questions": [
+      {
+        "char": "泥",
+        "zhuyin": "ㄋㄧˊ",
+        "options": [
+          "泥",
+          "池",
+          "你",
+          "地"
+        ],
+        "answer": "泥",
+        "answerIndex": 0,
+        "explanation": "「泥土」的「泥」讀ㄋㄧˊ。"
+      },
+      {
+        "char": "化",
+        "zhuyin": "ㄏㄨㄚˋ",
+        "options": [
+          "花",
+          "化",
+          "華",
+          "滑"
+        ],
+        "answer": "化",
+        "answerIndex": 1,
+        "explanation": "「融化」的「化」讀ㄏㄨㄚˋ。"
+      },
+      {
+        "char": "雀",
+        "zhuyin": "ㄑㄩㄝˋ",
+        "options": [
+          "鳥",
+          "省",
+          "雀",
+          "集"
+        ],
+        "answer": "雀",
+        "answerIndex": 2,
+        "explanation": "「麻雀」的「雀」讀ㄑㄩㄝˋ。"
+      },
+      {
+        "char": "輕",
+        "zhuyin": "ㄑㄧㄥ",
+        "options": [
+          "經",
+          "慶",
+          "京",
+          "輕"
+        ],
+        "answer": "輕",
+        "answerIndex": 3,
+        "explanation": "「輕重」的「輕」讀ㄑㄧㄥ。"
+      },
+      {
+        "char": "羽",
+        "zhuyin": "ㄩˇ",
+        "options": [
+          "羽",
+          "毛",
+          "習",
+          "飛"
+        ],
+        "answer": "羽",
+        "answerIndex": 0,
+        "explanation": "「羽毛」的「羽」讀ㄩˇ。"
+      },
+      {
+        "char": "衣",
+        "zhuyin": "ㄧ",
+        "options": [
+          "以",
+          "衣",
+          "椅",
+          "衷"
+        ],
+        "answer": "衣",
+        "answerIndex": 1,
+        "explanation": "「衣服」的「衣」讀ㄧ。"
+      },
+      {
+        "char": "脆",
+        "zhuyin": "ㄘㄨㄟˋ",
+        "options": [
+          "危",
+          "吹",
+          "脆",
+          "摧"
+        ],
+        "answer": "脆",
+        "answerIndex": 2,
+        "explanation": "「清脆」的「脆」讀ㄘㄨㄟˋ。"
+      },
+      {
+        "char": "髮",
+        "zhuyin": "ㄈㄚˇ",
+        "options": [
+          "發",
+          "伐",
+          "罰",
+          "髮"
+        ],
+        "answer": "髮",
+        "answerIndex": 3,
+        "explanation": "「頭髮」的「髮」讀ㄈㄚˇ。"
+      },
+      {
+        "char": "處",
+        "zhuyin": "ㄔㄨˋ",
+        "options": [
+          "處",
+          "楚",
+          "除",
+          "初"
+        ],
+        "answer": "處",
+        "answerIndex": 0,
+        "explanation": "「四處」的「處」讀ㄔㄨˋ。"
+      },
+      {
+        "char": "旅",
+        "zhuyin": "ㄌㄩˇ",
+        "options": [
+          "族",
+          "旅",
+          "放",
+          "施"
+        ],
+        "answer": "旅",
+        "answerIndex": 1,
+        "explanation": "「旅行」的「旅」讀ㄌㄩˇ。"
+      },
+      {
+        "char": "行",
+        "zhuyin": "ㄒㄧㄥˊ",
+        "options": [
+          "很",
+          "街",
+          "行",
+          "術"
+        ],
+        "answer": "行",
+        "answerIndex": 2,
+        "explanation": "「行人」的「行」讀ㄒㄧㄥˊ。"
+      },
+      {
+        "char": "平",
+        "zhuyin": "ㄆㄧㄥˊ",
+        "options": [
+          "半",
+          "年",
+          "干",
+          "平"
+        ],
+        "answer": "平",
+        "answerIndex": 3,
+        "explanation": "「平安」的「平」讀ㄆㄧㄥˊ。"
+      },
+      {
+        "char": "男",
+        "zhuyin": "ㄋㄢˊ",
+        "options": [
+          "男",
+          "田",
+          "力",
+          "勇"
+        ],
+        "answer": "男",
+        "answerIndex": 0,
+        "explanation": "「男孩」的「男」讀ㄋㄢˊ。"
+      },
+      {
+        "char": "朗",
+        "zhuyin": "ㄌㄤˇ",
+        "options": [
+          "郎",
+          "朗",
+          "浪",
+          "廊"
+        ],
+        "answer": "朗",
+        "answerIndex": 1,
+        "explanation": "「開朗」的「朗」讀ㄌㄤˇ。"
+      },
+      {
+        "char": "足",
+        "zhuyin": "ㄗㄨˊ",
+        "options": [
+          "走",
+          "促",
+          "足",
+          "捉"
+        ],
+        "answer": "足",
+        "answerIndex": 2,
+        "explanation": "「足球」的「足」讀ㄗㄨˊ。"
+      }
+    ]
+  },
+  "createdAt": "2026-10-15T01:56:10.878Z"
+}

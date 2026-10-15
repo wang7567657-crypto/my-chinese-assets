@@ -1,0 +1,325 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "南一_3年級_上學期_第1課_fillblank_generate_16bcc784764a014a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "title": "第1課 全課填空",
+    "items": [
+      {
+        "char": "泥",
+        "word": "泥"
+      },
+      {
+        "char": "化",
+        "word": "化"
+      },
+      {
+        "char": "雀",
+        "word": "雀"
+      },
+      {
+        "char": "輕",
+        "word": "輕"
+      },
+      {
+        "char": "羽",
+        "word": "羽"
+      },
+      {
+        "char": "衣",
+        "word": "衣"
+      },
+      {
+        "char": "脆",
+        "word": "脆"
+      },
+      {
+        "char": "髮",
+        "word": "髮"
+      },
+      {
+        "char": "處",
+        "word": "處"
+      },
+      {
+        "char": "旅",
+        "word": "旅"
+      },
+      {
+        "char": "行",
+        "word": "行"
+      },
+      {
+        "char": "平",
+        "word": "平"
+      },
+      {
+        "char": "男",
+        "word": "男"
+      },
+      {
+        "char": "朗",
+        "word": "朗"
+      },
+      {
+        "char": "足",
+        "word": "足"
+      }
+    ],
+    "level": "國小中高年級",
+    "sourceRequestId": "",
+    "autoLesson": true
+  },
+  "data": {
+    "title": "你好，新朋友｜全課生字填空",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "泥",
+        "word": "泥土",
+        "sentence": "下雨後，鞋底沾了許多＿＿土。",
+        "answer": "泥",
+        "options": [
+          "泥",
+          "呢",
+          "尼",
+          "你"
+        ],
+        "hint": "水和土混在一起，容易黏在鞋上。",
+        "explanation": "水和土混在一起，容易黏在鞋上。",
+        "answerIndex": 0
+      },
+      {
+        "id": "q2",
+        "targetChar": "化",
+        "word": "融化",
+        "sentence": "冰塊放在太陽下，慢慢融＿＿成水。",
+        "answer": "化",
+        "options": [
+          "花",
+          "化",
+          "話",
+          "畫"
+        ],
+        "hint": "冰變成水，叫作融化。",
+        "explanation": "冰變成水，叫作融化。",
+        "answerIndex": 1
+      },
+      {
+        "id": "q3",
+        "targetChar": "雀",
+        "word": "麻雀",
+        "sentence": "一隻麻＿＿停在樹枝上，啾啾地叫。",
+        "answer": "雀",
+        "options": [
+          "鵲",
+          "確",
+          "雀",
+          "卻"
+        ],
+        "hint": "麻雀是一種常見的小鳥。",
+        "explanation": "麻雀是一種常見的小鳥。",
+        "answerIndex": 2
+      },
+      {
+        "id": "q4",
+        "targetChar": "輕",
+        "word": "輕重",
+        "sentence": "這根羽毛很＿＿，風吹來就飄走了。",
+        "answer": "輕",
+        "options": [
+          "清",
+          "青",
+          "親",
+          "輕"
+        ],
+        "hint": "重量小，可以用輕來形容。",
+        "explanation": "重量小，可以用輕來形容。",
+        "answerIndex": 3
+      },
+      {
+        "id": "q5",
+        "targetChar": "羽",
+        "word": "羽毛",
+        "sentence": "小鳥用嘴巴整理身上的＿＿毛。",
+        "answer": "羽",
+        "options": [
+          "羽",
+          "雨",
+          "宇",
+          "語"
+        ],
+        "hint": "鳥身上的毛叫羽毛。",
+        "explanation": "鳥身上的毛叫羽毛。",
+        "answerIndex": 0
+      },
+      {
+        "id": "q6",
+        "targetChar": "衣",
+        "word": "衣服",
+        "sentence": "天氣冷了，出門要多穿一件＿＿服。",
+        "answer": "衣",
+        "options": [
+          "依",
+          "衣",
+          "一",
+          "醫"
+        ],
+        "hint": "衣服可以穿在身上保暖。",
+        "explanation": "衣服可以穿在身上保暖。",
+        "answerIndex": 1
+      },
+      {
+        "id": "q7",
+        "targetChar": "脆",
+        "word": "清脆",
+        "sentence": "鈴鐺發出清＿＿的聲音，叮噹叮噹真好聽。",
+        "answer": "脆",
+        "options": [
+          "翠",
+          "萃",
+          "脆",
+          "粹"
+        ],
+        "hint": "清脆形容聲音清亮悅耳。",
+        "explanation": "清脆形容聲音清亮悅耳。",
+        "answerIndex": 2
+      },
+      {
+        "id": "q8",
+        "targetChar": "髮",
+        "word": "頭髮",
+        "sentence": "洗完澡，我用吹風機吹乾頭＿＿。",
+        "answer": "髮",
+        "options": [
+          "發",
+          "法",
+          "乏",
+          "髮"
+        ],
+        "hint": "長在頭上的毛叫頭髮。",
+        "explanation": "長在頭上的毛叫頭髮。",
+        "answerIndex": 3
+      },
+      {
+        "id": "q9",
+        "targetChar": "處",
+        "word": "四處",
+        "sentence": "小狗四＿＿找球，最後在桌子底下找到了。",
+        "answer": "處",
+        "options": [
+          "處",
+          "楚",
+          "除",
+          "初"
+        ],
+        "hint": "四處表示各個地方，這裡讀ㄔㄨˋ。",
+        "explanation": "四處表示各個地方，這裡讀ㄔㄨˋ。",
+        "answerIndex": 0
+      },
+      {
+        "id": "q10",
+        "targetChar": "旅",
+        "word": "旅行",
+        "sentence": "放假時，我們搭火車去臺南＿＿行。",
+        "answer": "旅",
+        "options": [
+          "履",
+          "旅",
+          "呂",
+          "侶"
+        ],
+        "hint": "離開平常住的地方遊覽，叫旅行。",
+        "explanation": "離開平常住的地方遊覽，叫旅行。",
+        "answerIndex": 1
+      },
+      {
+        "id": "q11",
+        "targetChar": "行",
+        "word": "行人",
+        "sentence": "車子停下來，讓＿＿人先走過斑馬線。",
+        "answer": "行",
+        "options": [
+          "形",
+          "型",
+          "行",
+          "醒"
+        ],
+        "hint": "走路的人叫行人，這裡讀ㄒㄧㄥˊ。",
+        "explanation": "走路的人叫行人，這裡讀ㄒㄧㄥˊ。",
+        "answerIndex": 2
+      },
+      {
+        "id": "q12",
+        "targetChar": "平",
+        "word": "平安",
+        "sentence": "家人希望出門旅行的我們都能＿＿安回家。",
+        "answer": "平",
+        "options": [
+          "評",
+          "坪",
+          "萍",
+          "平"
+        ],
+        "hint": "平安表示沒有危險或意外。",
+        "explanation": "平安表示沒有危險或意外。",
+        "answerIndex": 3
+      },
+      {
+        "id": "q13",
+        "targetChar": "男",
+        "word": "男孩",
+        "sentence": "弟弟是個愛笑的＿＿孩。",
+        "answer": "男",
+        "options": [
+          "男",
+          "南",
+          "難",
+          "喃"
+        ],
+        "hint": "弟弟是男孩，男和女相對。",
+        "explanation": "弟弟是男孩，男和女相對。",
+        "answerIndex": 0
+      },
+      {
+        "id": "q14",
+        "targetChar": "朗",
+        "word": "開朗",
+        "sentence": "小美個性開＿＿，常常笑著和大家打招呼。",
+        "answer": "朗",
+        "options": [
+          "郎",
+          "朗",
+          "浪",
+          "廊"
+        ],
+        "hint": "開朗形容個性樂觀、愉快。",
+        "explanation": "開朗形容個性樂觀、愉快。",
+        "answerIndex": 1
+      },
+      {
+        "id": "q15",
+        "targetChar": "足",
+        "word": "足球",
+        "sentence": "下課後，我們到球場踢＿＿球。",
+        "answer": "足",
+        "options": [
+          "族",
+          "卒",
+          "足",
+          "竹"
+        ],
+        "hint": "主要用腳踢的球類活動叫足球。",
+        "explanation": "主要用腳踢的球類活動叫足球。",
+        "answerIndex": 2
+      }
+    ]
+  },
+  "createdAt": "2026-10-15T01:56:10.876Z"
+}

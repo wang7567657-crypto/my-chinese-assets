@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "翰林_4年級_上學期_第1課_memory_strategy_ffccbf5fb06b555f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "唾",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "唾",
+    "components": [
+      "口",
+      "垂"
+    ],
+    "association": "唾液從嘴巴分泌，左邊用「口」提醒意思，右邊看清「垂」。",
+    "mnemonic": "口加垂，唾液在嘴裡。",
+    "visualPrompt": "",
+    "teachingTip": "先說「唾液」，再指出口與垂，注意垂裡各橫畫的長短。"
+  },
+  "createdAt": "2026-10-15T01:56:10.879Z"
+}
