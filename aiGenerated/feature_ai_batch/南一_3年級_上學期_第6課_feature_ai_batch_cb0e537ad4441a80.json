@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_3年級_上學期_第6課_feature_ai_batch_cb0e537ad4441a80",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 15,
+    "batchCharacters": [
+      "幕",
+      "杯",
+      "撞",
+      "流",
+      "溼",
+      "透",
+      "雙",
+      "胸",
+      "負",
+      "慌",
+      "逃",
+      "辦",
+      "題",
+      "灰",
+      "剪"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_808eaae7527486ee.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_8035fd8a855c176b.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_99a14b88fcc04b6c.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_5863a68f97d3c4bb.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_3c5a2777206f209f.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_3f1bf62db757f0a9.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_daf2c3fa97359d77.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_f88638b8ad95e834.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_ca77b44b4d23d17c.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_164599411975ea6b.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_eedb468000063cbb.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_3f02d8db7afebd18.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_989dd15e083b7ff2.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_556706ed8bafcbfc.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第6課_memory_strategy_d3e2ab6d8f7da1bc.json"
+    ]
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

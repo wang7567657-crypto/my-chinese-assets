@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第6課_confusion_analysis_6e2edeb679db1b1d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "逃",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "逃",
+    "groups": {
+      "shape": [
+        {
+          "char": "桃",
+          "why": "都有完整的兆。",
+          "difference": "逃的兆外有辶；桃是左木右兆。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "桃",
+          "why": "同音：逃走的逃、桃子的桃都讀ㄊㄠˊ。",
+          "difference": "逃是離開、避開；桃指桃樹或桃子，逃走不能寫成桃走。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "跑",
+          "why": "逃與跑都可能涉及移動。",
+          "difference": "逃強調避開危險或問題；跑是移動方式，跑步不一定在逃，也不一定只有跑才能逃。"
+        }
+      ],
+      "component": [
+        {
+          "char": "跳",
+          "why": "都含兆。",
+          "difference": "逃外部辶，跳左邊足字旁；逃走與跳高不可只看兆選字。"
+        }
+      ]
+    },
+    "tip": "認清兆外的辶，依本課想避開問題的意思讀逃走。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

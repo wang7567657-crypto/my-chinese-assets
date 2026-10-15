@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第6課_similar_shape_c5d953a91ab23694",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "辦",
+    "lessonChars": [
+      "幕",
+      "杯",
+      "撞",
+      "流",
+      "溼",
+      "透",
+      "雙",
+      "胸",
+      "負",
+      "慌",
+      "逃",
+      "辦",
+      "題",
+      "灰",
+      "剪"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "辦",
+    "similarChars": [
+      {
+        "char": "辨",
+        "similarity": "兩側都有辛形部件，中間夾著另一組筆畫。",
+        "difference": "辦中間是力；辨中間是一撇、一點的刀形變體，不是完整的力。"
+      },
+      {
+        "char": "辯",
+        "similarity": "兩側都有辛形部件。",
+        "difference": "辦中間是力；辯中間是言，可以看見言下方的口。"
+      },
+      {
+        "char": "辮",
+        "similarity": "兩側都有辛形部件。",
+        "difference": "辦中間是力；辮中間是糸，筆畫較多。"
+      },
+      {
+        "char": "瓣",
+        "similarity": "兩側都有辛形部件。",
+        "difference": "辦中間是力；瓣中間是瓜，可看見瓜的撇、豎提等筆畫。"
+      },
+      {
+        "char": "辛",
+        "similarity": "辦兩側都可找到辛形部件。",
+        "difference": "辛只有一組；辦由左辛形、中力、右辛組成，左辛的末豎改為豎撇。"
+      },
+      {
+        "char": "辡",
+        "similarity": "都具有左右兩個辛形部件。",
+        "difference": "辦兩個辛形部件中間另有力；辡沒有中間的力。辡是少見字，只用來看兩側的共同結構。"
+      }
+    ],
+    "teachingTip": "先固定兩側，再比較中間。用「用力辦事」記力的位置；提醒左辛的末筆是豎撇，不要照抄右辛。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

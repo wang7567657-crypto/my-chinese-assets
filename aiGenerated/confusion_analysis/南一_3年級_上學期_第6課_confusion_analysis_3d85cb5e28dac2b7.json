@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第6課_confusion_analysis_3d85cb5e28dac2b7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "辦",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "辦",
+    "groups": {
+      "shape": [
+        {
+          "char": "辨",
+          "why": "兩側都有辛形部件，中間夾著另一組筆畫。",
+          "difference": "辦中間是力；辨中間是一撇、一點的刀形變體，不是完整的力。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "半",
+          "why": "同音：辦、半都讀ㄅㄢˋ。",
+          "difference": "辦表示處理事情，如辦法；半表示一半，不能把辦法寫成半法。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "做",
+          "why": "辦事與做事都與處理事情有關。",
+          "difference": "辦常用在辦理、辦法；做常用在製作或行動，如做飯，不能在所有詞裡互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "辯",
+          "why": "兩側都有辛形。",
+          "difference": "辦中間力，辯中間言；辦事與辯論的中間部件不同。"
+        }
+      ]
+    },
+    "tip": "用力辦事提醒中間力；辨、辯、辮、瓣要逐一看中間。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

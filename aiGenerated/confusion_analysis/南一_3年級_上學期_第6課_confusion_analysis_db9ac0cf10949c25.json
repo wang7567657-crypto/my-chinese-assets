@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第6課_confusion_analysis_db9ac0cf10949c25",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "透",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "透",
+    "groups": {
+      "shape": [
+        {
+          "char": "誘",
+          "why": "都有完整的「秀」。",
+          "difference": "透是辶包在秀的左下；誘是言在秀的左邊，沒有走之旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "頭",
+          "why": "近音：透讀ㄊㄡˋ，頭讀ㄊㄡˊ，聲調不同。",
+          "difference": "透用於溼透、透明；頭指頭部等，不能因韻母相同而互換。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "穿",
+          "why": "穿透與透過都涉及通過。",
+          "difference": "透在溼透裡強調程度；穿在穿衣裡是套上衣物，不能把溼透改成溼穿。"
+        }
+      ],
+      "component": [
+        {
+          "char": "誘",
+          "why": "兩字都含秀。",
+          "difference": "透由秀與辶組成；誘是左言右秀，偏旁位置不同。"
+        }
+      ]
+    },
+    "tip": "本課溼透指溼得很徹底；認清內秀與外辶。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

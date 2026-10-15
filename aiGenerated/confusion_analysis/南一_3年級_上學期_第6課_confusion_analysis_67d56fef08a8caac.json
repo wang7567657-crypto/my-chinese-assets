@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第6課_confusion_analysis_67d56fef08a8caac",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "負",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "負",
+    "groups": {
+      "shape": [
+        {
+          "char": "貝",
+          "why": "負的下半完整保留貝。",
+          "difference": "負在貝上方還有兩筆；貝本身沒有上面那兩筆。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "付",
+          "why": "同音：負責的負與付錢的付都讀ㄈㄨˋ。",
+          "difference": "負責是承擔責任；付錢是交出錢，不可把負責寫成付責。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "擔",
+          "why": "負責與承擔都有承受事情的意思。",
+          "difference": "負責是固定詞；擔可用於承擔、擔心，不能在這些詞中任意換字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "責",
+          "why": "兩字下方同為貝。",
+          "difference": "負上方兩筆，責上方多橫與豎；負責是兩個不同字，不重複寫同一字。"
+        }
+      ]
+    },
+    "tip": "依負責的語境解作承擔，讀ㄈㄨˋ；上方兩筆與下貝都要完整。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

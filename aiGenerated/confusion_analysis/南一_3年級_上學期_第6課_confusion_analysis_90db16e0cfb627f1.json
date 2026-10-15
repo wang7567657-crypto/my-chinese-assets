@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第6課_confusion_analysis_90db16e0cfb627f1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "剪",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "剪",
+    "groups": {
+      "shape": [
+        {
+          "char": "前",
+          "why": "前就是剪的上方部件。",
+          "difference": "剪在前下方另有刀；前本身沒有最下面這個刀。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "減",
+          "why": "同音：剪、減都讀ㄐㄧㄢˇ。",
+          "difference": "剪用剪刀使物品分開；減表示減少，剪紙不能寫成減紙來表示剪的動作。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "切",
+          "why": "剪與切都可使物品分開。",
+          "difference": "剪常用剪刀；切常用刀具，剪紙與切菜的動作、工具不同，不能只看分開的結果。"
+        }
+      ],
+      "component": [
+        {
+          "char": "煎",
+          "why": "上方同為前。",
+          "difference": "剪下刀，煎下灬；剪紙與煎蛋依最下方部件判別。"
+        }
+      ]
+    },
+    "tip": "前下面有刀才是剪；從剪小花的情境連結工具與動作。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

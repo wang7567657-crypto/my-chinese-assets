@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第6課_confusion_analysis_592e1453d90fd80a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "流",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "流",
+    "groups": {
+      "shape": [
+        {
+          "char": "琉",
+          "why": "右半有相同的筆畫組合，上下兩區都相同。",
+          "difference": "流左邊是氵；琉左邊是玉字旁「王」，如琉璃。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "留",
+          "why": "同音：流水的流與留下的留都讀ㄌㄧㄡˊ。",
+          "difference": "流表示液體等移動；留表示停下或保留，如留下，不寫成流下來的留。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "淌",
+          "why": "流與淌都能描述水移動。",
+          "difference": "流用途較廣，如流水、人流；淌常說液體向下流，不能把人流直接寫成人淌。"
+        }
+      ],
+      "component": [
+        {
+          "char": "梳",
+          "why": "右半相同。",
+          "difference": "流左氵，梳左木；水流與梳頭用字不同。"
+        }
+      ]
+    },
+    "tip": "用水流向卡片連結氵；留在原處的留不是流。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

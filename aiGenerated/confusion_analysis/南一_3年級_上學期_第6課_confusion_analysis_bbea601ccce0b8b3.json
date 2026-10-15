@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第6課_confusion_analysis_bbea601ccce0b8b3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "胸",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "胸",
+    "groups": {
+      "shape": [
+        {
+          "char": "匈",
+          "why": "胸右半就是匈。",
+          "difference": "胸左邊另有肉字旁；匈沒有左旁。匈古代可表示胸，亦是胸的異體之一；本課身體部位寫胸。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "兄",
+          "why": "同音：胸、兄都讀ㄒㄩㄥ。",
+          "difference": "胸是身體部位；兄指哥哥，如兄弟，抱胸不能寫成抱兄來表達相同動作。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "腹",
+          "why": "胸與腹都是軀幹部位，且有肉字旁。",
+          "difference": "胸在軀幹較上方，腹在胸下方；雙手抱胸時要指對位置。"
+        }
+      ],
+      "component": [
+        {
+          "char": "洶",
+          "why": "右半同為匈。",
+          "difference": "胸左肉字旁，洶左氵；胸部與洶湧依左旁及詞義區分。"
+        }
+      ]
+    },
+    "tip": "胸屬肉部；先指出身體位置，再看匈中凶的筆形。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第6課_confusion_analysis_21bf2af1a77624e8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "撞",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "撞",
+    "groups": {
+      "shape": [
+        {
+          "char": "憧",
+          "why": "右邊同為「童」。",
+          "difference": "撞左邊是「扌」；憧左邊是「忄」，注意提手旁有一橫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "壯",
+          "why": "同音：撞倒的撞與強壯的壯都讀ㄓㄨㄤˋ。",
+          "difference": "撞是碰擊；壯表示強健，撞倒杯子不能寫成壯倒。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "碰",
+          "why": "碰與撞都可能表示物體接觸。",
+          "difference": "撞常突出碰擊；碰也可指輕輕接觸，如碰一下，不能認為兩字在所有詞裡都能互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "鐘",
+          "why": "兩字右半都是童。",
+          "difference": "撞左扌表示動作線索；鐘左金，撞鐘是動作加物品。"
+        }
+      ]
+    },
+    "tip": "本課撞倒讀ㄓㄨㄤˋ，留意左扌，不把聲音相同當字義相同。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

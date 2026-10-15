@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第6課_confusion_analysis_79ce8b49bc97199c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "題",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "題",
+    "groups": {
+      "shape": [
+        {
+          "char": "提",
+          "why": "都有完整的是。",
+          "difference": "題是左是右頁；提是左扌右是，位置和另一部件都不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "提",
+          "why": "同音：問題的題與提起的提都讀ㄊㄧˊ。",
+          "difference": "題可用在題目、問題；提表示向上拿等，如提水，問題不能寫成問提。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "問",
+          "why": "問題與詢問都與疑問有關。",
+          "difference": "題可指題目或需要處理的事；問可表示提出疑問的動作，不能把問題兩字看成同義而重複。"
+        }
+      ],
+      "component": [
+        {
+          "char": "匙",
+          "why": "左邊同為是。",
+          "difference": "題右頁，匙右匕；題目與湯匙不同，右半不能漏看。"
+        }
+      ]
+    },
+    "tip": "先認左是右頁，再用問題、題目與提水比較同音字。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}
