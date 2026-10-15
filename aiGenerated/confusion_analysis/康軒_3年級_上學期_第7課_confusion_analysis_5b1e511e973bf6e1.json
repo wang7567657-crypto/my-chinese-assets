@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_5b1e511e973bf6e1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "盪",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "盪",
+    "groups": {
+      "shape": [
+        {
+          "char": "燙",
+          "why": "字形有相同部件或相近輪廓，容易混看。",
+          "difference": "盪下面是皿；燙下面是火；上面都是湯。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "當",
+          "why": "盪ㄉㄤˋ、上當的當ㄉㄤˋ，同音；當老師的當讀ㄉㄤ，須按詞判讀。",
+          "difference": "先說完整詞語，再依詞義選字；不要只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "搖",
+          "why": "在部分語境中意義相關。",
+          "difference": "搖偏重來回擺動；盪也表示擺動，常合成搖盪，部分詞語不能替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "燙",
+          "why": "比較整字及部件所在位置。",
+          "difference": "盪下面是皿；燙下面是火；上面都是湯。"
+        }
+      ]
+    },
+    "tip": "先比部件位置，再放回課文語詞確認。「盪」與「燙」要分清。"
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}

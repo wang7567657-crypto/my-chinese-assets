@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第7課_similar_shape_5db1483cf3ee8d1a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "盪",
+    "lessonChars": [
+      "統",
+      "商",
+      "阿",
+      "婆",
+      "鐵",
+      "硬",
+      "愈",
+      "嚼",
+      "蒼",
+      "坡",
+      "憶",
+      "夕",
+      "盪",
+      "網"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "盪",
+    "similarChars": [
+      {
+        "char": "蕩",
+        "similarity": "都有湯的形體。",
+        "difference": "盪在湯下加皿；蕩在湯上加艹。"
+      },
+      {
+        "char": "湯",
+        "similarity": "盪的上半部就是湯。",
+        "difference": "盪在湯下另有皿，湯沒有皿。"
+      },
+      {
+        "char": "燙",
+        "similarity": "上半部同為湯，都是上下結構。",
+        "difference": "盪下方為皿；燙下方為火。"
+      },
+      {
+        "char": "盟",
+        "similarity": "下方同為皿。",
+        "difference": "盪上為湯；盟上為明，可看到日與月。"
+      },
+      {
+        "char": "盥",
+        "similarity": "下方同為皿，上方都有水的相關字形。",
+        "difference": "盪上方是湯，氵在左；盥上方是臼形兩側包著水。盥是較少見字。"
+      },
+      {
+        "char": "盤",
+        "similarity": "下方同為皿，上方都有左右排列的部件。",
+        "difference": "盪上為湯；盤上為般，可看到舟與殳。"
+      }
+    ],
+    "teachingTip": "先比盪、蕩、燙：湯相同，附加的是下方皿、上方艹或下方火；不要只看筆畫多就混用。"
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}

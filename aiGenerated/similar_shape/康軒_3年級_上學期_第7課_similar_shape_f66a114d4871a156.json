@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第7課_similar_shape_f66a114d4871a156",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "愈",
+    "lessonChars": [
+      "統",
+      "商",
+      "阿",
+      "婆",
+      "鐵",
+      "硬",
+      "愈",
+      "嚼",
+      "蒼",
+      "坡",
+      "憶",
+      "夕",
+      "盪",
+      "網"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "愈",
+    "similarChars": [
+      {
+        "char": "俞",
+        "similarity": "愈的上半部就是俞。",
+        "difference": "愈下方多心，俞沒有下方的心。"
+      },
+      {
+        "char": "愉",
+        "similarity": "都含俞與心的部件。",
+        "difference": "愈是俞上心下；愉是忄左俞右，心的形體與位置都不同。"
+      },
+      {
+        "char": "喻",
+        "similarity": "都含俞。",
+        "difference": "愈是俞下加心；喻是俞左加口。"
+      },
+      {
+        "char": "逾",
+        "similarity": "都含俞。",
+        "difference": "愈的心在下；逾的辶在左下包住俞。"
+      },
+      {
+        "char": "榆",
+        "similarity": "都含俞。",
+        "difference": "愈下方為心；榆左側為木，是左右結構。"
+      },
+      {
+        "char": "癒",
+        "similarity": "癒的內部就是愈。",
+        "difference": "癒外面多疒，愈沒有這個病字旁。"
+      }
+    ],
+    "teachingTip": "先認俞，再辨心是在下方、變成左側忄，還是外面另加疒；愈和癒的外形要分清。"
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}

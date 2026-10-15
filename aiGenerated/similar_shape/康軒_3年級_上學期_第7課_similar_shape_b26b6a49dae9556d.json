@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第7課_similar_shape_b26b6a49dae9556d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "網",
+    "lessonChars": [
+      "統",
+      "商",
+      "阿",
+      "婆",
+      "鐵",
+      "硬",
+      "愈",
+      "嚼",
+      "蒼",
+      "坡",
+      "憶",
+      "夕",
+      "盪",
+      "網"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "網",
+    "similarChars": [
+      {
+        "char": "罔",
+        "similarity": "網的右半部就是罔。",
+        "difference": "網左邊多糹；罔沒有糹。"
+      },
+      {
+        "char": "惘",
+        "similarity": "都以罔作右半部。",
+        "difference": "網左為糹，惘左為忄。"
+      },
+      {
+        "char": "輞",
+        "similarity": "都以罔作右半部。",
+        "difference": "網左為糹，輞左為車；輞是少見字。"
+      },
+      {
+        "char": "綱",
+        "similarity": "左邊同為糹，右邊都有冂形外框。",
+        "difference": "網右為罔，框內下方是亡；綱右為岡，框內下方是山。"
+      },
+      {
+        "char": "綸",
+        "similarity": "左邊同為糹，右邊都有框狀的筆畫。",
+        "difference": "網右為罔，以冂作外框；綸右為侖，上有人字形，下面是冊形。"
+      },
+      {
+        "char": "綢",
+        "similarity": "左邊同為糹，右邊都有冂形外框。",
+        "difference": "網右為罔，內有亡；綢右為周，內有土與口。"
+      }
+    ],
+    "teachingTip": "先辨左旁，再比較右框裡是亡、山，還是土和口；網與綱尤其容易只看外框而認錯。"
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}

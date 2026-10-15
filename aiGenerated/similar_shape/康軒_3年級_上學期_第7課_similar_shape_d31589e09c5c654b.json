@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第7課_similar_shape_d31589e09c5c654b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "蒼",
+    "lessonChars": [
+      "統",
+      "商",
+      "阿",
+      "婆",
+      "鐵",
+      "硬",
+      "愈",
+      "嚼",
+      "蒼",
+      "坡",
+      "憶",
+      "夕",
+      "盪",
+      "網"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "蒼",
+    "similarChars": [
+      {
+        "char": "倉",
+        "similarity": "蒼的下半部就是倉。",
+        "difference": "蒼上面多艹；倉沒有草字頭。"
+      },
+      {
+        "char": "滄",
+        "similarity": "都含倉。",
+        "difference": "蒼是艹在倉上；滄是氵在倉左。"
+      },
+      {
+        "char": "槍",
+        "similarity": "都含倉。",
+        "difference": "蒼上有艹；槍左有木。"
+      },
+      {
+        "char": "搶",
+        "similarity": "都含倉。",
+        "difference": "蒼上有艹；搶左有扌。"
+      },
+      {
+        "char": "瘡",
+        "similarity": "都含倉。",
+        "difference": "蒼上有艹；瘡外面有疒，包在倉的左上方。"
+      },
+      {
+        "char": "艙",
+        "similarity": "都含倉。",
+        "difference": "蒼上有艹；艙左有舟，為左右結構。"
+      }
+    ],
+    "teachingTip": "先認共同的倉，再用手指出艹、氵、木、扌、疒、舟的位置。"
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}

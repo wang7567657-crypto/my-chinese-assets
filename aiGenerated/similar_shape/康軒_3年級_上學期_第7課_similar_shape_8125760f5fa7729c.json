@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第7課_similar_shape_8125760f5fa7729c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "硬",
+    "lessonChars": [
+      "統",
+      "商",
+      "阿",
+      "婆",
+      "鐵",
+      "硬",
+      "愈",
+      "嚼",
+      "蒼",
+      "坡",
+      "憶",
+      "夕",
+      "盪",
+      "網"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "硬",
+    "similarChars": [
+      {
+        "char": "更",
+        "similarity": "硬的右半部就是更。",
+        "difference": "硬左邊多石，單寫更時沒有石旁。"
+      },
+      {
+        "char": "便",
+        "similarity": "都以更作右半部。",
+        "difference": "硬左為石，便左為亻。"
+      },
+      {
+        "char": "梗",
+        "similarity": "都以更作右半部。",
+        "difference": "硬左為石，梗左為木。"
+      },
+      {
+        "char": "哽",
+        "similarity": "都以更作右半部。",
+        "difference": "硬左為石，哽左為口。"
+      },
+      {
+        "char": "埂",
+        "similarity": "都以更作右半部。",
+        "difference": "硬左為石，埂左為土。"
+      },
+      {
+        "char": "碩",
+        "similarity": "左邊同為石，右邊都有方形與伸展的撇筆。",
+        "difference": "硬右為更，碩右為頁；頁下方有八形，更有穿過中間的撇、捺。"
+      }
+    ],
+    "teachingTip": "先固定更的形體，比較左側偏旁；再與碩對照，注意更與頁下半部不同。"
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}

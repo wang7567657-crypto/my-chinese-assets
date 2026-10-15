@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第7課_similar_shape_aa074dd66f3b7157",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "夕",
+    "lessonChars": [
+      "統",
+      "商",
+      "阿",
+      "婆",
+      "鐵",
+      "硬",
+      "愈",
+      "嚼",
+      "蒼",
+      "坡",
+      "憶",
+      "夕",
+      "盪",
+      "網"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "夕",
+    "similarChars": [
+      {
+        "char": "汐",
+        "similarity": "汐的右半部就是夕。",
+        "difference": "汐在夕左邊加氵，夕沒有水旁。"
+      },
+      {
+        "char": "矽",
+        "similarity": "矽的右半部就是夕。",
+        "difference": "矽在夕左邊加石，夕沒有石旁。"
+      },
+      {
+        "char": "多",
+        "similarity": "多由上下兩個夕形組成。",
+        "difference": "夕只有一組三筆形體；多把相同形體上下排列。"
+      },
+      {
+        "char": "歹",
+        "similarity": "都有撇、橫撇與內部點的相似形體。",
+        "difference": "歹在上方多一橫；夕沒有頂端的一橫。"
+      },
+      {
+        "char": "名",
+        "similarity": "名的上方就是夕。",
+        "difference": "名在夕下方另有口，夕沒有下方的口。"
+      },
+      {
+        "char": "外",
+        "similarity": "外的左邊就是夕。",
+        "difference": "外在夕右邊另有卜，夕沒有右側的卜。"
+      }
+    ],
+    "teachingTip": "先指出完整的夕，再比較加在左、上、下、右的部件；夕與歹要特別看最上面的一橫。"
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}
