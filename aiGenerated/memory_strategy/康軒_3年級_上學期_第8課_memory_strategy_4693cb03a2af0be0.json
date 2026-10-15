@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第8課_memory_strategy_4693cb03a2af0be0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "駐",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "駐",
+    "components": [
+      "馬",
+      "主"
+    ],
+    "association": "想像騎馬的守衛停在主人指定的地方，記住馬加主。（記字聯想，不是字源解釋。）",
+    "mnemonic": "馬在左，主在右，駐守原地不亂走。",
+    "visualPrompt": "中央清楚呈現標準繁體「駐」，部件位置與筆畫完整不變；字旁另畫騎馬守衛停留在指定位置。插圖不得嵌入、替換或遮蓋字的筆畫。",
+    "teachingTip": "課文駐守是停留守衛；和住比較左側偏旁。"
+  },
+  "createdAt": "2026-10-15T19:32:46.552501Z"
+}

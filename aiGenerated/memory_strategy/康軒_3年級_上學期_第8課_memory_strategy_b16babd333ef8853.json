@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第8課_memory_strategy_b16babd333ef8853",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "史",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "史",
+    "components": [
+      "口形上部",
+      "穿過口形的撇捺"
+    ],
+    "association": "想像一隻手把往事寫進紀錄，撇捺從口形下方伸展。（記字聯想，不是字源解釋。）",
+    "mnemonic": "口形中間筆穿過，下面撇捺寫成史。",
+    "visualPrompt": "中央清楚呈現標準繁體「史」，部件位置與筆畫完整不變；字旁另畫手拿筆寫歷史紀錄。插圖不得嵌入、替換或遮蓋字的筆畫。",
+    "teachingTip": "比較史與吏：吏最上面多一橫，不能加到史上。"
+  },
+  "createdAt": "2026-10-15T19:32:46.552501Z"
+}

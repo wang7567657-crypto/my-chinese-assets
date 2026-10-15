@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第8課_confusion_analysis_f221beae4101b493",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "附",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "附",
+    "groups": {
+      "shape": [
+        {
+          "char": "防",
+          "why": "兩字左邊都是「阝」，只看左邊容易選錯。",
+          "difference": "「附」右邊是「付」；「防」右邊是「方」。附近寫「附」，防守寫「防」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "付",
+          "why": "同音：附、付都讀ㄈㄨˋ。",
+          "difference": "「附」用在附近、附上；「付」用在付款、付出。附近的「附」左邊不能漏掉「阝」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "近",
+          "why": "「附」和「近」在「附近」中都和距離接近有關。",
+          "difference": "「近」可單獨表示距離短，如很近；「附」另有依靠、加上的意思，如附上。表示周圍不遠的地方時，寫完整的「附近」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "府",
+          "why": "兩字都含有「付」部件。",
+          "difference": "「附」是左阝、右付；「府」是「广」裡面有「付」。附近寫「附」，政府寫「府」。"
+        }
+      ]
+    },
+    "tip": "「附近」的附讀ㄈㄨˋ，左阝、右付；不能漏掉左邊。"
+  },
+  "createdAt": "2026-10-15T19:32:46.552501Z"
+}

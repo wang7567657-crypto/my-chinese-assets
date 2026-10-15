@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第8課_confusion_analysis_27037f510bfe5e13",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鄭",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鄭",
+    "groups": {
+      "shape": [
+        {
+          "char": "擲",
+          "why": "兩字都有「奠」部件，整體又都較複雜，容易混寫。",
+          "difference": "「鄭」是左奠、右阝；「擲」是左扌、右鄭。「鄭成功」寫鄭，投擲寫擲。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "正",
+          "why": "同音：鄭和「正確」的正都讀ㄓㄥˋ。",
+          "difference": "「鄭」在本課是姓氏；「正」用在正確、正式。姓鄭不能依讀音改寫成正。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "奠",
+          "why": "「鄭」的左邊是完整的「奠」，容易漏掉右邊。",
+          "difference": "「鄭」在「奠」右邊還有「阝」；「奠」可用在奠定。鄭成功的姓要寫完整，右邊不能省。"
+        }
+      ]
+    },
+    "tip": "鄭成功的「鄭」是姓氏，讀ㄓㄥˋ；左奠、右阝，沒有提手旁。"
+  },
+  "createdAt": "2026-10-15T19:32:46.552501Z"
+}

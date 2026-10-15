@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第8課_confusion_analysis_608145629b734015",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "史",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "史",
+    "groups": {
+      "shape": [
+        {
+          "char": "吏",
+          "why": "兩字的中間和下方很像，只差上方的一橫，容易混寫。",
+          "difference": "「吏」比「史」上方多一橫；史料、歷史寫「史」，官吏寫「吏」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "始",
+          "why": "同音：史、始都讀ㄕˇ。",
+          "difference": "「史」和過去的記錄有關，如史料；「始」表示開始，如始終。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "事",
+          "why": "歷史和事情都與人們發生的事有關，容易只按意思猜字。",
+          "difference": "「史」指歷史或歷史記錄；「事」泛指事情，不限於過去。課文資料寫「史料」。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "查閱過去的記錄叫「史料」；「史」上方不要多加一橫變成「吏」。"
+  },
+  "createdAt": "2026-10-15T19:32:46.552501Z"
+}
