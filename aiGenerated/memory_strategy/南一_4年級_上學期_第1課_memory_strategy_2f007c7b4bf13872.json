@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第1課_memory_strategy_2f007c7b4bf13872",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "墨",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "墨",
+    "components": [
+      "黑",
+      "土"
+    ],
+    "association": "字旁畫一滴黑墨落在土色紙上，提醒下方另有土。這是記字聯想，不是字源解釋。",
+    "mnemonic": "黑在上，土在下，墨綠的墨記住啦。",
+    "visualPrompt": "中央完整呈現標準字形「墨」，依位置用不同顏色提示：黑、土。在字旁畫課文中欒樹或相關小圖，圖像不得替換、遮擋或扭曲筆畫。",
+    "teachingTip": "先看字並說出各部分位置，再遮住範字寫一次，對照檢查；本聯想不作為筆順或字源依據。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

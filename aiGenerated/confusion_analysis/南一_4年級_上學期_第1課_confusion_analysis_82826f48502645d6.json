@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第1課_confusion_analysis_82826f48502645d6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "素",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "素",
+    "groups": {
+      "shape": [
+        {
+          "char": "索",
+          "why": "下方同為糸",
+          "difference": "素上方為三橫一豎相交；索上方是十與冖。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "速",
+          "why": "素ㄙㄨˋ、速ㄙㄨˋ，同音。",
+          "difference": "素淨寫素；速度寫速。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "淨",
+          "why": "素淨一詞中都帶有不雜亂的感覺。",
+          "difference": "素強調樸實、不華麗；淨強調乾淨。"
+        }
+      ],
+      "component": [
+        {
+          "char": "紫",
+          "why": "下方同為糸",
+          "difference": "素上方不是此；紫上方是此。"
+        }
+      ]
+    },
+    "tip": "先比字形位置，再把字放回課文語詞；同音不代表同字，字形聯想也不代表字源。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

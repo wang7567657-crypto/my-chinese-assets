@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第1課_similar_shape_ab7df0a1dc27bbf7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "穫",
+    "lessonChars": [
+      "戶",
+      "漫",
+      "季",
+      "素",
+      "嫩",
+      "繁",
+      "墨",
+      "姿",
+      "簇",
+      "週",
+      "淡",
+      "穫",
+      "迎",
+      "幅",
+      "伴"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "穫",
+    "similarChars": [
+      {
+        "char": "獲",
+        "similarity": "右側同為蒦",
+        "difference": "穫左是禾，獲左是犭。"
+      },
+      {
+        "char": "護",
+        "similarity": "右側同為蒦",
+        "difference": "穫左是禾，護左是言。"
+      },
+      {
+        "char": "擭",
+        "similarity": "右側同為蒦",
+        "difference": "穫左是禾，擭左是扌；擭較少見。"
+      },
+      {
+        "char": "鑊",
+        "similarity": "右側同為蒦",
+        "difference": "穫左是禾，鑊左是金；鑊較少見。"
+      },
+      {
+        "char": "嚄",
+        "similarity": "右側同為蒦",
+        "difference": "穫左是禾，嚄左是口；嚄較少見。"
+      },
+      {
+        "char": "蠖",
+        "similarity": "右側同為蒦",
+        "difference": "穫左是禾，蠖左是虫；蠖較少見。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再指出換掉或移動的部分；用課文中的「收穫」確認目標字。少見字只用來觀察字形，不要求背寫。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

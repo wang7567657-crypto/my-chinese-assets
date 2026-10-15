@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第1課_confusion_analysis_8b28dd655672d121",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "季",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "季",
+    "groups": {
+      "shape": [
+        {
+          "char": "李",
+          "why": "下方同為子",
+          "difference": "季上是禾，比李的木多一撇。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "計",
+          "why": "季ㄐㄧˋ、計ㄐㄧˋ，同音。",
+          "difference": "四季寫季；計算寫計。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "年",
+          "why": "都是時間單位。",
+          "difference": "一年通常分四季；季是一年中的一段時期。"
+        }
+      ],
+      "component": [
+        {
+          "char": "秀",
+          "why": "上方同為禾",
+          "difference": "季下是子，秀下是乃。"
+        }
+      ]
+    },
+    "tip": "先比字形位置，再把字放回課文語詞；同音不代表同字，字形聯想也不代表字源。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

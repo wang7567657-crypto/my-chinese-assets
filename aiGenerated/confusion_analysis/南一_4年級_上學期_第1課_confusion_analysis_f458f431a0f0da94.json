@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第1課_confusion_analysis_f458f431a0f0da94",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "穫",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "穫",
+    "groups": {
+      "shape": [
+        {
+          "char": "獲",
+          "why": "右側同為蒦",
+          "difference": "穫左是禾，獲左是犭。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "獲",
+          "why": "收穫的穫ㄏㄨㄛˋ、獲得的獲ㄏㄨㄛˋ，同音。",
+          "difference": "收穫寫禾旁的穫；獲得寫犭旁的獲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "收",
+          "why": "都與取得成果有關。",
+          "difference": "穫特別指收割農作物，也用於所得；收還可指收起、收集。"
+        }
+      ],
+      "component": [
+        {
+          "char": "護",
+          "why": "右側同為蒦",
+          "difference": "穫左是禾，護左是言。"
+        }
+      ]
+    },
+    "tip": "先比字形位置，再把字放回課文語詞；同音不代表同字，字形聯想也不代表字源。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第1課_confusion_analysis_b52d24f7b66d1aa8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "嫩",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "嫩",
+    "groups": {
+      "shape": [
+        {
+          "char": "嗽",
+          "why": "右側同有束的輪廓",
+          "difference": "嫩左女、中束、右攵；嗽左口、中束、右欠。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "認",
+          "why": "嫩ㄋㄣˋ、認ㄖㄣˋ，韻母聲調相同而聲母不同，屬近音。",
+          "difference": "嫩葉寫嫩；認識寫認。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "幼",
+          "why": "都可描述生長初期。",
+          "difference": "嫩葉強調初生柔弱；幼強調年紀或生長階段小。"
+        }
+      ],
+      "component": [
+        {
+          "char": "漱",
+          "why": "右側同有束的輪廓",
+          "difference": "嫩左女、右端攵；漱左氵、右端欠。"
+        }
+      ]
+    },
+    "tip": "先比字形位置，再把字放回課文語詞；同音不代表同字，字形聯想也不代表字源。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

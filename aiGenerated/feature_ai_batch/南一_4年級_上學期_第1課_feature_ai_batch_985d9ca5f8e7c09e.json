@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第1課_feature_ai_batch_985d9ca5f8e7c09e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "戶",
+      "漫",
+      "季",
+      "素",
+      "嫩",
+      "繁",
+      "墨",
+      "姿",
+      "簇",
+      "週",
+      "淡",
+      "穫",
+      "迎",
+      "幅",
+      "伴"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_ed73f39bfbc59ddf.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_d64f1c86d288f005.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_8312f798f821040b.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_0cc1f0367b241b06.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_5e74150a446c855c.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_3b3482e31de73b30.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_f847a90fb9ea54e6.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_cfab2c81c9776efd.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_34731aafceb248d3.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_21aa1ff7bea3ea81.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_8cd8353f6563624c.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_ab7df0a1dc27bbf7.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_521a04def1a80c4d.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_4bc7a4b8fe320bb4.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第1課_similar_shape_35aedd71836e74ce.json"
+    ]
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}
