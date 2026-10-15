@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_f59a96b64bdc0436",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "平",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "平",
+    "groups": {
+      "shape": [
+        {
+          "char": "干",
+          "why": "都可見兩橫與一直。",
+          "difference": "平在兩橫之間另有兩個短筆畫；干沒有。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "瓶",
+          "why": "同音：平、瓶都讀ㄆㄧㄥˊ。",
+          "difference": "平坦、平常用平；裝水的瓶子用瓶。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "斜",
+          "why": "都是描述位置或方向的常用字。",
+          "difference": "平可表示不傾斜；斜表示歪向一邊。平常的平不能都解釋成水平。"
+        }
+      ],
+      "component": [
+        {
+          "char": "坪",
+          "why": "坪的右邊是平。",
+          "difference": "平是整字；坪左邊多土，用於草坪等詞。"
+        }
+      ]
+    },
+    "tip": "平與干比一比，找出中間兩個短筆畫。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

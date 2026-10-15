@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第6課_memory_strategy_5242044817d68c67",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "膠",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "膠",
+    "components": [
+      "月形肉旁",
+      "翏"
+    ],
+    "association": "用膠水瓶作情境提示，再把右邊翏的羽形上部和下方三撇看清楚。（這是幫助記字的聯想，不是字源解釋。）",
+    "mnemonic": "左肉旁，右翏形，三撇下方要看清。",
+    "visualPrompt": "保持「膠」的標準字形與筆畫，不變形、不把圖案嵌入字內。一瓶膠水放在完整「膠」字旁，不讓流出的膠水代替字的任何筆畫。",
+    "teachingTip": "左邊是肉旁；右邊不是交。課文的「膠水貓」比喻很黏人的貓，不是真的用膠黏貓。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第6課_similar_shape_ee7b2adf8bc48bf6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "平",
+    "lessonChars": [
+      "女",
+      "非",
+      "關",
+      "澡",
+      "怕",
+      "應",
+      "平",
+      "毛",
+      "肚",
+      "蓋",
+      "摸",
+      "柔",
+      "揉",
+      "副",
+      "喵",
+      "茸",
+      "黏",
+      "膠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "平",
+    "similarChars": [
+      {
+        "char": "坪",
+        "similarity": "都含「平」部件。",
+        "difference": "「平」只有平形；「坪」土在左、平在右。"
+      },
+      {
+        "char": "評",
+        "similarity": "都含「平」部件。",
+        "difference": "「平」只有平形；「評」言在左、平在右。"
+      },
+      {
+        "char": "砰",
+        "similarity": "都含「平」部件。",
+        "difference": "「平」只有平形；「砰」石在左、平在右。"
+      },
+      {
+        "char": "抨",
+        "similarity": "都含「平」部件。",
+        "difference": "「平」只有平形；「抨」扌在左、平在右。"
+      },
+      {
+        "char": "苹",
+        "similarity": "都含「平」部件。",
+        "difference": "「平」只有平形；「苹」艹在上、平在下；苹較少見，臺灣常用蘋果的蘋不能照此省寫。"
+      },
+      {
+        "char": "萍",
+        "similarity": "都含「平」部件。",
+        "difference": "「平」只有平形；「萍」艹在上，下方是氵與平。"
+      }
+    ],
+    "teachingTip": "平中間的點、撇和長豎都要看清楚；比較候選字時找多出的偏旁。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

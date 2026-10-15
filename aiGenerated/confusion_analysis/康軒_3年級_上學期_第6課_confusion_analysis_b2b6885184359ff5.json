@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_b2b6885184359ff5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "關",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "關",
+    "groups": {
+      "shape": [
+        {
+          "char": "開",
+          "why": "外面都是門。",
+          "difference": "關的門內上方有兩個幺形，下面另有交錯筆畫；開的門內是开形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "官",
+          "why": "同音：關、官都讀ㄍㄨㄢ。",
+          "difference": "關門用關；官員用官，字形是宀在上。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "閉",
+          "why": "關與閉都有使門不開的意思。",
+          "difference": "關門、閉門意思相近；「關心」不能寫成「閉心」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "閒",
+          "why": "外框同為門。",
+          "difference": "關的門內筆畫較多；閒的門內是月。"
+        }
+      ]
+    },
+    "tip": "先認門框，再比較門內；不要只看外框猜字。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

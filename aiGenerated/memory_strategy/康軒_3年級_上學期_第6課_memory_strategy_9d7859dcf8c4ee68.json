@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第6課_memory_strategy_9d7859dcf8c4ee68",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蓋",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蓋",
+    "components": [
+      "艹",
+      "去",
+      "皿"
+    ],
+    "association": "把字形分成上中下三層，聯想替容器蓋好蓋子的動作。（這是幫助記字的聯想，不是字源解釋。）",
+    "mnemonic": "草頭上，去在中，皿在下面排整齊。",
+    "visualPrompt": "保持「蓋」的標準字形與筆畫，不變形、不把圖案嵌入字內。一個有蓋子的盒子放在「蓋」字旁。",
+    "teachingTip": "中間是去，下方是皿；這是記形聯想，不代表蓋子的字源。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

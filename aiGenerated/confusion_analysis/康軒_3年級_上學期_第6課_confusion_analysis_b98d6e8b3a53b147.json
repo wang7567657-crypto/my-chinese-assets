@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_b98d6e8b3a53b147",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "肚",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "肚",
+    "groups": {
+      "shape": [
+        {
+          "char": "吐",
+          "why": "右邊同是土。",
+          "difference": "肚左邊為月形肉旁；吐左邊為口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "堵",
+          "why": "近音限本課：肚子的肚ㄉㄨˋ，堵住的堵ㄉㄨˇ，聲調不同。",
+          "difference": "肚指腹部；堵指阻塞。肚另有ㄉㄨˇ音，用於動物胃的名稱，不是本課讀音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "腹",
+          "why": "都可以指身體中間的部位。",
+          "difference": "肚子較口語；腹部較正式。不能把「肚子」直接換寫成「腹子」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "杜",
+          "why": "都含土，位置都在右邊。",
+          "difference": "肚左邊肉旁；杜左邊木。"
+        }
+      ]
+    },
+    "tip": "身體的肚子用肉旁，本課肚讀四聲。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

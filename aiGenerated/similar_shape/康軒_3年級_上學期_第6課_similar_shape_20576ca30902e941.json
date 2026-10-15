@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第6課_similar_shape_20576ca30902e941",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "肚",
+    "lessonChars": [
+      "女",
+      "非",
+      "關",
+      "澡",
+      "怕",
+      "應",
+      "平",
+      "毛",
+      "肚",
+      "蓋",
+      "摸",
+      "柔",
+      "揉",
+      "副",
+      "喵",
+      "茸",
+      "黏",
+      "膠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "肚",
+    "similarChars": [
+      {
+        "char": "杜",
+        "similarity": "都含「土」部件。",
+        "difference": "「肚」月形肉旁在左、土在右；「杜」木在左、土在右。"
+      },
+      {
+        "char": "吐",
+        "similarity": "都含「土」部件。",
+        "difference": "「肚」月形肉旁在左、土在右；「吐」口在左、土在右。"
+      },
+      {
+        "char": "牡",
+        "similarity": "都含「土」部件。",
+        "difference": "「肚」月形肉旁在左、土在右；「牡」牛字旁在左、土在右。"
+      },
+      {
+        "char": "社",
+        "similarity": "都含「土」部件。",
+        "difference": "「肚」月形肉旁在左、土在右；「社」示字旁在左、土在右。"
+      },
+      {
+        "char": "灶",
+        "similarity": "都含「土」部件。",
+        "difference": "「肚」月形肉旁在左、土在右；「灶」火在左、土在右。"
+      },
+      {
+        "char": "地",
+        "similarity": "都含「土」部件。",
+        "difference": "「肚」月形肉旁在左、土在右；「地」土在左、也在右。"
+      }
+    ],
+    "teachingTip": "優先比肚、杜、吐的左旁；再看地的土移到左邊，位置不同。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

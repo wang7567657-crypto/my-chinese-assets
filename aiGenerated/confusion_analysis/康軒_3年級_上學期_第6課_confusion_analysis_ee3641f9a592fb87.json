@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_ee3641f9a592fb87",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "澡",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "澡",
+    "groups": {
+      "shape": [
+        {
+          "char": "燥",
+          "why": "右邊都是喿。",
+          "difference": "澡左邊氵；燥左邊火。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "燥",
+          "why": "近音：洗澡的澡ㄗㄠˇ，乾燥的燥ㄗㄠˋ，聲調不同。",
+          "difference": "洗澡是清洗身體；乾燥指水分少。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "洗",
+          "why": "兩字都和清潔有關。",
+          "difference": "洗可搭配手、衣服、碗；澡常和洗組成洗澡，指清洗身體。"
+        }
+      ],
+      "component": [
+        {
+          "char": "操",
+          "why": "右邊都由三個口與木組成。",
+          "difference": "澡以氵在左；操以扌在左，操場不可寫成澡場。"
+        }
+      ]
+    },
+    "tip": "洗澡想到水，乾燥看火旁，再分辨三聲與四聲。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

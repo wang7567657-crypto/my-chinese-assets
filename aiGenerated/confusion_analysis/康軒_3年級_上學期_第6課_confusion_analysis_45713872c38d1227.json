@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_45713872c38d1227",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "非",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "非",
+    "groups": {
+      "shape": [
+        {
+          "char": "韭",
+          "why": "兩邊都有多條短橫。",
+          "difference": "非下方沒有連接左右的長橫；韭底下多一長橫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "飛",
+          "why": "同音：非、飛都讀ㄈㄟ。",
+          "difference": "非常的非表示詞語中的程度；飛鳥的飛表示飛行。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "是",
+          "why": "「是非」常用來表示正確與錯誤。",
+          "difference": "「是非」中的非可指錯誤；「非常」整個詞表示程度很高，不能拆成不是常常。"
+        }
+      ],
+      "component": [
+        {
+          "char": "排",
+          "why": "排的右邊是非。",
+          "difference": "非沒有提手旁；排是左扌右非。"
+        }
+      ]
+    },
+    "tip": "用「非常可愛」記詞義，用左右各三橫記字形。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

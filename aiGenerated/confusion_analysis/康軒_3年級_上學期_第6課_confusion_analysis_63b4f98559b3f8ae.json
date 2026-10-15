@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_63b4f98559b3f8ae",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "女",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "女",
+    "groups": {
+      "shape": [
+        {
+          "char": "文",
+          "why": "都有交叉的斜筆，快速看容易混淆。",
+          "difference": "女有撇點與橫；文上方是點、橫，下方撇捺。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "汝",
+          "why": "近音：女生的女ㄋㄩˇ，汝ㄖㄨˇ，聲母與韻母不同。",
+          "difference": "女可指女性；汝是文言文中表示「你」的字，較少用。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "男",
+          "why": "都可用來說明人的性別。",
+          "difference": "女生用女；男生用男。課文用小女生稱呼貓咪。"
+        }
+      ],
+      "component": [
+        {
+          "char": "如",
+          "why": "如的左邊含女，容易把部件當整字。",
+          "difference": "女是整字；如是左女右口。"
+        }
+      ]
+    },
+    "tip": "先看完整字形，再用女生與男生的詞語分辨。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

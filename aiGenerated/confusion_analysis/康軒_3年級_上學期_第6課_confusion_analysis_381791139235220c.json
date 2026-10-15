@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_381791139235220c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "膠",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "膠",
+    "groups": {
+      "shape": [
+        {
+          "char": "繆",
+          "why": "右半同為翏，整體都是左右結構。",
+          "difference": "膠左邊為肉旁；繆左邊為糸旁。繆較少見，這裡只用來辨形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "交",
+          "why": "同音：膠、交都讀ㄐㄧㄠ。",
+          "difference": "膠水用膠；交朋友用交。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "黏",
+          "why": "兩字在膠水黏住物品的情境中常同時出現。",
+          "difference": "膠可指黏合用的材料；黏可表示附著的動作或性質。"
+        }
+      ],
+      "component": [
+        {
+          "char": "謬",
+          "why": "右邊都含翏。",
+          "difference": "膠左邊肉旁；謬左邊言旁，見於錯謬。"
+        }
+      ]
+    },
+    "tip": "膠左肉旁、右翏；膠水貓是黏人的比喻。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

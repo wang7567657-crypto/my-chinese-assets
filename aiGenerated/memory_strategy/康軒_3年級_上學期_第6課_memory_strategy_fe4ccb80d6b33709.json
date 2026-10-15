@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第6課_memory_strategy_fe4ccb80d6b33709",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "喵",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "喵",
+    "components": [
+      "口",
+      "苗"
+    ],
+    "association": "貓咪用嘴發出喵的聲音，左邊記口，右邊苗分成草頭與田。（這是幫助記字的聯想，不是字源解釋。）",
+    "mnemonic": "口在苗旁邊，小貓喵喵喵。",
+    "visualPrompt": "保持「喵」的標準字形與筆畫，不變形、不把圖案嵌入字內。張嘴叫的貓咪和獨立的「喵」字並排。",
+    "teachingTip": "右邊是苗，上艹下田；不要把左邊口換成提手旁。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

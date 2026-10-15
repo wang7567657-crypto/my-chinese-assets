@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第6課_similar_shape_61b9889ec0ce8af3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "膠",
+    "lessonChars": [
+      "女",
+      "非",
+      "關",
+      "澡",
+      "怕",
+      "應",
+      "平",
+      "毛",
+      "肚",
+      "蓋",
+      "摸",
+      "柔",
+      "揉",
+      "副",
+      "喵",
+      "茸",
+      "黏",
+      "膠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "膠",
+    "similarChars": [
+      {
+        "char": "繆",
+        "similarity": "都含「翏」部件。",
+        "difference": "「膠」月形肉旁在左、翏在右；「繆」糸在左、翏在右；繆較少見。"
+      },
+      {
+        "char": "謬",
+        "similarity": "都含「翏」部件。",
+        "difference": "「膠」月形肉旁在左、翏在右；「謬」言在左、翏在右。"
+      },
+      {
+        "char": "戮",
+        "similarity": "都含翏。",
+        "difference": "膠左月形肉旁、右翏；戮左翏右戈，左右部件及位置不同。"
+      },
+      {
+        "char": "寥",
+        "similarity": "都含「翏」部件。",
+        "difference": "「膠」月形肉旁在左、翏在右；「寥」宀在上、翏在下。"
+      },
+      {
+        "char": "廖",
+        "similarity": "都含「翏」部件。",
+        "difference": "「膠」月形肉旁在左、翏在右；「廖」广包著翏。"
+      },
+      {
+        "char": "蓼",
+        "similarity": "都含「翏」部件。",
+        "difference": "「膠」月形肉旁在左、翏在右；「蓼」艹在上、翏在下；蓼較少見。"
+      }
+    ],
+    "teachingTip": "先找右半羽下面的人形與三撇，再看膠左邊的月形肉旁；少見字只作字形觀察。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

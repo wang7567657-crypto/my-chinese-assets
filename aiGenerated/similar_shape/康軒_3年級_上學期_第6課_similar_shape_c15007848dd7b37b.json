@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第6課_similar_shape_c15007848dd7b37b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "蓋",
+    "lessonChars": [
+      "女",
+      "非",
+      "關",
+      "澡",
+      "怕",
+      "應",
+      "平",
+      "毛",
+      "肚",
+      "蓋",
+      "摸",
+      "柔",
+      "揉",
+      "副",
+      "喵",
+      "茸",
+      "黏",
+      "膠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "蓋",
+    "similarChars": [
+      {
+        "char": "盍",
+        "similarity": "下半完全相同，上去下皿。",
+        "difference": "蓋上方另有艹；盍沒有艹，較少見。"
+      },
+      {
+        "char": "闔",
+        "similarity": "都含上去下皿的盍。",
+        "difference": "蓋在盍上加艹；闔用門包住盍。"
+      },
+      {
+        "char": "嗑",
+        "similarity": "都含盍。",
+        "difference": "蓋上艹下盍；嗑左口右盍，較少見。"
+      },
+      {
+        "char": "溘",
+        "similarity": "都含盍。",
+        "difference": "蓋上艹下盍；溘左氵右盍，較少見。"
+      },
+      {
+        "char": "益",
+        "similarity": "下方同為皿，上下輪廓接近。",
+        "difference": "蓋的皿上面是艹與去；益的皿上方有點撇橫及八形，沒有艹和去。"
+      },
+      {
+        "char": "盞",
+        "similarity": "下方同為皿。",
+        "difference": "蓋的皿上是艹與去；盞的皿上是兩個戈組成的戔。"
+      }
+    ],
+    "teachingTip": "先依序指艹、去、皿；盍、嗑、溘只用來比較部件，不要求背詞。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

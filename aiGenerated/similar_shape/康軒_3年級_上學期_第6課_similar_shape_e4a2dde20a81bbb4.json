@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第6課_similar_shape_e4a2dde20a81bbb4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "應",
+    "lessonChars": [
+      "女",
+      "非",
+      "關",
+      "澡",
+      "怕",
+      "應",
+      "平",
+      "毛",
+      "肚",
+      "蓋",
+      "摸",
+      "柔",
+      "揉",
+      "副",
+      "喵",
+      "茸",
+      "黏",
+      "膠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "應",
+    "similarChars": [
+      {
+        "char": "鷹",
+        "similarity": "上部都是广內含亻與隹的複合形。",
+        "difference": "應最下面是心；鷹最下面是鳥。"
+      },
+      {
+        "char": "膺",
+        "similarity": "上部都是广內含亻與隹的複合形。",
+        "difference": "應最下面是心；膺最下面是月形肉旁。膺較少見。"
+      },
+      {
+        "char": "雁",
+        "similarity": "都有厂或广包著亻與隹的輪廓。",
+        "difference": "應外為广且下面有心；雁外為厂，沒有頂點及最下方心。"
+      },
+      {
+        "char": "廣",
+        "similarity": "外面都有广。",
+        "difference": "應的广內有亻、隹，下接心；廣裡面是黃。"
+      },
+      {
+        "char": "慶",
+        "similarity": "外面上方都有广形，內部都有心，整體輪廓繁密。",
+        "difference": "應內部有亻與隹、心在底部；慶內部上方不是亻與隹，心下還有夂形。"
+      },
+      {
+        "char": "廳",
+        "similarity": "都是广包住繁密的內部。",
+        "difference": "應裡面是亻與隹、下接心；廳裡面是聽，包含耳與右側複合部件。"
+      }
+    ],
+    "teachingTip": "優先比較應、鷹、膺的最下方：心、鳥、月形肉旁；少見字膺只觀察字形。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

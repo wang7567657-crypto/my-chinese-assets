@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_2dc27593fbb40913",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "怕",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "怕",
+    "groups": {
+      "shape": [
+        {
+          "char": "拍",
+          "why": "右邊同是白。",
+          "difference": "怕左邊忄；拍左邊扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "拍",
+          "why": "近音：怕ㄆㄚˋ，拍ㄆㄞ，韻母與聲調都不同。",
+          "difference": "害怕說心情；拍手說動作。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "懼",
+          "why": "都能表示害怕的情緒。",
+          "difference": "怕較常見於口語，如怕水；懼常出現在恐懼、畏懼等詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "快",
+          "why": "左邊都是忄。",
+          "difference": "怕右邊白；快右邊夬，不是白。"
+        }
+      ]
+    },
+    "tip": "怕是心情，拍是用手，從左邊的偏旁判斷。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}

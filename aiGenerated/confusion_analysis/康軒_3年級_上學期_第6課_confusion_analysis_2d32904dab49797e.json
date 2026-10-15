@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第6課_confusion_analysis_2d32904dab49797e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "茸",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "茸",
+    "groups": {
+      "shape": [
+        {
+          "char": "耷",
+          "why": "下方都有耳。",
+          "difference": "茸上方是艹；耷上方是大，較少見，常見於耷拉一詞。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "容",
+          "why": "同音比較限本課：毛茸茸的茸、笑容的容都讀ㄖㄨㄥˊ。",
+          "difference": "茸見於毛茸茸；容見於笑容、容器。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "絨",
+          "why": "都會讓人想到細柔的毛。",
+          "difference": "茸可形容細柔的樣子，如毛茸茸；絨可指柔軟細毛或有細毛的織品，如絨布。"
+        }
+      ],
+      "component": [
+        {
+          "char": "耳",
+          "why": "茸下方是耳。",
+          "difference": "耳可獨立表示耳朵；茸上面還有艹，不是只寫耳。"
+        }
+      ]
+    },
+    "tip": "茸上草頭下耳，毛茸茸的茸讀第二聲。"
+  },
+  "createdAt": "2026-10-15T12:29:57.649071Z"
+}
