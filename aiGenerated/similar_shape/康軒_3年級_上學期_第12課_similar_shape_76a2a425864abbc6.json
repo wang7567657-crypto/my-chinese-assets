@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第12課_similar_shape_76a2a425864abbc6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "複",
+    "lessonChars": [
+      "障",
+      "漠",
+      "綿",
+      "央",
+      "男",
+      "複",
+      "疑",
+      "算",
+      "歲",
+      "帽",
+      "退",
+      "吞",
+      "蛇",
+      "訝",
+      "蟒"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "複",
+    "similarChars": [
+      {
+        "char": "復",
+        "similarity": "都含右側的复形部件。",
+        "difference": "複左邊是衤；復左邊是彳。"
+      },
+      {
+        "char": "腹",
+        "similarity": "都含右側的复形部件。",
+        "difference": "複左邊是衤；腹左邊是月字旁。"
+      },
+      {
+        "char": "蝮",
+        "similarity": "都含右側的复形部件。",
+        "difference": "複左邊是衤；蝮左邊是虫。蝮是較少見字。"
+      },
+      {
+        "char": "馥",
+        "similarity": "都含右側的复形部件。",
+        "difference": "複左邊是衤；馥左邊是香。馥是較少見字。"
+      },
+      {
+        "char": "覆",
+        "similarity": "覆的下半含復，與複共有复形部件。",
+        "difference": "複是衤加复形部件；覆在復上方還有罒。"
+      },
+      {
+        "char": "履",
+        "similarity": "履內含復，與複共有复形部件。",
+        "difference": "複是左右排列的衤與复形部件；履外側有尸，裡面是復。"
+      }
+    ],
+    "teachingTip": "先固定右側共同的复形部件，再看左側；複的衤有點，別寫成彳。覆和履要另外圈出外加的罒或尸。蝮、馥只作延伸辨形。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_0f93430e205897cb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "歲",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "歲",
+    "groups": {
+      "shape": [],
+      "sound": [
+        {
+          "char": "碎",
+          "why": "同音：歲、碎都讀ㄙㄨㄟˋ。",
+          "difference": "「八歲」的歲用來說年齡；「打碎」的碎是破成小塊。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "年",
+          "why": "都能表示以一年為單位的時間。",
+          "difference": "說年齡常用「八歲」；說一段時間常用「八年」。在這兩種說法中不能直接互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "止",
+          "why": "「歲」的上方含有「止」形。",
+          "difference": "「止」單獨可組停止；「歲」下方還有其他筆畫，不能只寫止，也不能寫成山字頭。"
+        }
+      ]
+    },
+    "tip": "說年齡用「歲」，如八歲；破成小塊用「碎」，如打碎。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_29a1374551d720d7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "複",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "複",
+    "groups": {
+      "shape": [
+        {
+          "char": "復",
+          "why": "右半部相同，左邊容易漏寫或換錯。",
+          "difference": "「複」左邊是衤，如複習；「復」左邊是彳，如恢復。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "復",
+          "why": "同音：複、復都讀ㄈㄨˋ。",
+          "difference": "「重複」用複；「恢復」用復，要連著整個詞一起記。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "單",
+          "why": "在單一或不只一個的意思上相對。",
+          "difference": "「複姓」是兩個以上字組成的姓，如歐陽；「單姓」是一個字的姓，如王。"
+        }
+      ],
+      "component": [
+        {
+          "char": "被",
+          "why": "左邊都是衣字旁「衤」。",
+          "difference": "「複」右邊不是皮；「被」右邊是皮，如被子。衣字旁別寫成示字旁礻。"
+        }
+      ]
+    },
+    "tip": "重複、複習有衣字旁「衤」；恢復用雙人旁「彳」。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

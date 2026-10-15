@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_f70b08a88fae6dc1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "疑",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "疑",
+    "groups": {
+      "shape": [
+        {
+          "char": "凝",
+          "why": "「凝」的右邊完整含有「疑」。",
+          "difference": "「疑」沒有左邊兩點；「凝」多了冫，如凝固。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "宜",
+          "why": "同音：疑、宜都讀ㄧˊ。",
+          "difference": "「疑問」表示不明白的問題；「適宜」表示合適，不能混用。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "問",
+          "why": "都可能和不明白的事情有關。",
+          "difference": "「疑」是心裡不確定，如懷疑；「問」是提出問題的動作，如詢問。"
+        }
+      ],
+      "component": [
+        {
+          "char": "擬",
+          "why": "「擬」右邊含有「疑」。",
+          "difference": "「疑」可組疑問；左邊加扌成「擬」，如模擬，不要多寫手旁。"
+        }
+      ]
+    },
+    "tip": "心中不確定是「疑」；加兩點成凝，加提手成擬。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

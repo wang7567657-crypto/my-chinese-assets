@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第12課_memory_strategy_65e3c2eefb8dde2f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "算",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "算",
+    "components": [
+      "⺮",
+      "目",
+      "廾"
+    ],
+    "association": "把上中下三層想成計算時先觀察、再動手的提醒。這是記字聯想，不是字源解釋。",
+    "mnemonic": "竹頭在上，目在中，廾在下，仔細算。",
+    "visualPrompt": "保持標準繁體字形，圖像放在字旁。三層分色；字旁畫算盤，不用算盤珠替換字內筆畫。",
+    "teachingTip": "中間是目，有兩道內橫；下方廾與開的下部相同。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_fba0739cecfc41ba",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "帽",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "帽",
+    "groups": {
+      "shape": [
+        {
+          "char": "冒",
+          "why": "「帽」右邊就是「冒」，容易漏掉左邊。",
+          "difference": "「帽」有巾字旁，是帽子的帽；「冒」沒有巾，如冒煙。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "冒",
+          "why": "同音：帽讀ㄇㄠˋ；冒在「冒煙」中也讀ㄇㄠˋ。",
+          "difference": "「戴帽子」用帽；「冒出煙」用冒，要看意思。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "幅",
+          "why": "左邊都是「巾」。",
+          "difference": "「帽」右邊是冒，是戴在頭上的物品；「幅」右邊不是冒，如一幅畫。"
+        }
+      ]
+    },
+    "tip": "帽子有巾字旁；冒煙的「冒」沒有巾。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_3年級_上學期_第12課_feature_ai_batch_196405bd210d8983",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "障",
+      "漠",
+      "綿",
+      "央",
+      "男",
+      "複",
+      "疑",
+      "算",
+      "歲",
+      "帽",
+      "退",
+      "吞",
+      "蛇",
+      "訝",
+      "蟒"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_78eb1c468dbfa2e2.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_72c46aaba234ea93.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_5d289e6e7938a04f.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_65fe6e8a86f4e183.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_5ac855919dc38e7d.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_76a2a425864abbc6.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_19574f49860003b8.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_11d77c8900868ddc.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_1f26134d135e0e62.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_835f49cb4a396411.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_09da019b9b0c9cb6.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_f60843ee32d91743.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_8b23d26d1cf093d3.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_43b8c54bc9741c13.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第12課_similar_shape_1091cf8e9c188e61.json"
+    ]
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

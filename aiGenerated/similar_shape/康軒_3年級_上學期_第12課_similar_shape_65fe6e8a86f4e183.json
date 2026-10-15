@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第12課_similar_shape_65fe6e8a86f4e183",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "央",
+    "lessonChars": [
+      "障",
+      "漠",
+      "綿",
+      "央",
+      "男",
+      "複",
+      "疑",
+      "算",
+      "歲",
+      "帽",
+      "退",
+      "吞",
+      "蛇",
+      "訝",
+      "蟒"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "央",
+    "similarChars": [
+      {
+        "char": "映",
+        "similarity": "右側完整含有央。",
+        "difference": "映比央多左邊的日。"
+      },
+      {
+        "char": "秧",
+        "similarity": "右側完整含有央。",
+        "difference": "秧比央多左邊的禾。"
+      },
+      {
+        "char": "殃",
+        "similarity": "右側完整含有央。",
+        "difference": "殃比央多左邊的歹。"
+      },
+      {
+        "char": "鴦",
+        "similarity": "上方完整含有央。",
+        "difference": "鴦在央下方另加鳥。"
+      },
+      {
+        "char": "英",
+        "similarity": "下方完整含有央。",
+        "difference": "英在央上方另加艹。"
+      },
+      {
+        "char": "盎",
+        "similarity": "上方完整含有央。",
+        "difference": "盎在央下方另加皿。"
+      }
+    ],
+    "teachingTip": "把央框起來，逐字說出額外部件在左、上或下；比較鴦和盎時，特別看央下方是鳥還是皿。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

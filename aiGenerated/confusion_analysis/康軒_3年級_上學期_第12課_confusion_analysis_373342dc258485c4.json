@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_373342dc258485c4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "訝",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "訝",
+    "groups": {
+      "shape": [
+        {
+          "char": "芽",
+          "why": "兩字都有「牙」，部件位置不同。",
+          "difference": "「訝」是左言右牙；「芽」是上艹下牙，如發芽。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "亞",
+          "why": "同音：訝、亞都讀ㄧㄚˋ。",
+          "difference": "「驚訝」表示覺得意外；「亞軍」指第二名，不能互換。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "疑",
+          "why": "都可能出現在遇到不明白事情的時候。",
+          "difference": "「訝」重在覺得意外、驚奇；「疑」重在不確定、不相信。驚訝不一定是懷疑。"
+        }
+      ],
+      "component": [
+        {
+          "char": "牙",
+          "why": "「訝」的右邊含有「牙」。",
+          "difference": "「訝」還有言字旁，如驚訝；單獨的「牙」是牙齒的牙，不能省略言旁。"
+        }
+      ]
+    },
+    "tip": "驚訝的「訝」左言右牙，讀四聲ㄧㄚˋ。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

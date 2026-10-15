@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_c6f79518ebfafe2b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "算",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "算",
+    "groups": {
+      "shape": [],
+      "sound": [
+        {
+          "char": "蒜",
+          "why": "同音：算、蒜都讀ㄙㄨㄢˋ。",
+          "difference": "「計算」用竹字頭的算；「大蒜」是食物，用草字頭的蒜。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "數",
+          "why": "都可能和數量有關。",
+          "difference": "「算」是運算，如算出總價；「數」在「數一數」中讀ㄕㄨˇ，是逐一點出數量。"
+        }
+      ],
+      "component": [
+        {
+          "char": "目",
+          "why": "「算」中間含有「目」。",
+          "difference": "「算」還有上面的竹字頭和下面的廾；中間的目有兩條內橫，不要寫成日。"
+        }
+      ]
+    },
+    "tip": "計算的「算」上竹、中目、下廾；大蒜的「蒜」才用草字頭。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

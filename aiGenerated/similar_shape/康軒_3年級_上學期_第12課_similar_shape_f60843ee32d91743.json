@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第12課_similar_shape_f60843ee32d91743",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "吞",
+    "lessonChars": [
+      "障",
+      "漠",
+      "綿",
+      "央",
+      "男",
+      "複",
+      "疑",
+      "算",
+      "歲",
+      "帽",
+      "退",
+      "吞",
+      "蛇",
+      "訝",
+      "蟒"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "吞",
+    "similarChars": [
+      {
+        "char": "天",
+        "similarity": "吞的上半部就是天。",
+        "difference": "吞在天下方多了口。"
+      },
+      {
+        "char": "否",
+        "similarity": "都是上方部件加下方的口。",
+        "difference": "吞上方是天；否上方是不。"
+      },
+      {
+        "char": "杏",
+        "similarity": "都是上方部件加下方的口。",
+        "difference": "吞上方是天，有兩橫；杏上方是木，有中央直豎。"
+      },
+      {
+        "char": "吝",
+        "similarity": "都是上方部件加下方的口。",
+        "difference": "吞上方是天；吝上方是文，頂端有點。"
+      },
+      {
+        "char": "含",
+        "similarity": "都是上下結構，底部都是口。",
+        "difference": "吞上方是天；含上方是今，有人字頭和轉折。"
+      },
+      {
+        "char": "忝",
+        "similarity": "上方都是天。",
+        "difference": "吞下方是口；忝下方是心的變形，有鉤和點。忝是少見字。"
+      }
+    ],
+    "teachingTip": "先遮住共同的口，分辨上方是天、不、木、文或今；吞要寫成天在口上。忝只用於比較下方部件。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

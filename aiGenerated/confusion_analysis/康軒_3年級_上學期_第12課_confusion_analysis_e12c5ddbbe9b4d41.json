@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_e12c5ddbbe9b4d41",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "綿",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "綿",
+    "groups": {
+      "shape": [
+        {
+          "char": "棉",
+          "why": "右邊同是「帛」，左邊容易混寫。",
+          "difference": "「綿」左邊是糹，如綿羊；「棉」左邊是木，如棉花。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "棉",
+          "why": "同音：綿、棉都讀ㄇㄧㄢˊ。",
+          "difference": "「綿延」用綿；「棉被」用棉，要看詞義分辨。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "棉",
+          "why": "兩字都能讓人想到柔軟的纖維。",
+          "difference": "「綿」本指絲絮，也可表示連續，如綿延；「棉」指棉花植物或其纖維，如棉布。"
+        }
+      ],
+      "component": [
+        {
+          "char": "錦",
+          "why": "都有右邊的「帛」。",
+          "difference": "「綿」左邊是糹；「錦」左邊是金，常見於錦旗。"
+        }
+      ]
+    },
+    "tip": "綿羊、綿延用糹旁的「綿」；棉花、棉被用木旁的「棉」。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

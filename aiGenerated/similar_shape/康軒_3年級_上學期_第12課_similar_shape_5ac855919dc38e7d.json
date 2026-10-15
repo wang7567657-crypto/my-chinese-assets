@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第12課_similar_shape_5ac855919dc38e7d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "男",
+    "lessonChars": [
+      "障",
+      "漠",
+      "綿",
+      "央",
+      "男",
+      "複",
+      "疑",
+      "算",
+      "歲",
+      "帽",
+      "退",
+      "吞",
+      "蛇",
+      "訝",
+      "蟒"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "男",
+    "similarChars": [
+      {
+        "char": "田",
+        "similarity": "男的上半部就是田。",
+        "difference": "男在田下方多了力。"
+      },
+      {
+        "char": "勇",
+        "similarity": "下方都有力，上方都有帶直筆的框形。",
+        "difference": "男上方是田；勇在力上方是甬，多了頂端的龴形。"
+      },
+      {
+        "char": "甥",
+        "similarity": "右半部完整含男。",
+        "difference": "甥比男多左側的生。"
+      },
+      {
+        "char": "舅",
+        "similarity": "下半部完整含男。",
+        "difference": "舅比男多上方的臼。"
+      },
+      {
+        "char": "畏",
+        "similarity": "上方都是田，下方都有向外伸展的筆畫。",
+        "difference": "男下方是力，有橫折鉤；畏下方沒有力的橫折鉤。"
+      },
+      {
+        "char": "畀",
+        "similarity": "上方都是田。",
+        "difference": "男下方是力；畀下方是丌，有一橫、撇與直豎。畀是少見字。"
+      }
+    ],
+    "teachingTip": "先遮住共同的田，比較下方是否為力；再找甥和舅中完整的男。畀只用於觀察下方筆畫，不要求背寫。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

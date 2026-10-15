@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_a42d075f8f4b7181",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蛇",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蛇",
+    "groups": {
+      "shape": [
+        {
+          "char": "它",
+          "why": "「蛇」右邊就是「它」。",
+          "difference": "「蛇」左邊還有虫；「它」沒有虫，是指稱事物的代詞。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "舌",
+          "why": "同音：蛇在「蟒蛇」中讀ㄕㄜˊ，舌也讀ㄕㄜˊ。",
+          "difference": "「蛇」是動物；「舌」是嘴裡的器官，如舌頭。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蟒",
+          "why": "兩字都和蛇類動物有關，但範圍不同。",
+          "difference": "「蛇」是較廣的名稱；「蟒」指一類大型、無毒的蛇。不是每一種蛇都叫蟒。"
+        }
+      ],
+      "component": [
+        {
+          "char": "蛙",
+          "why": "左邊都是虫字旁。",
+          "difference": "「蛇」右邊是它；「蛙」右邊是圭，如青蛙。不能只看虫旁就認成同一種動物。"
+        }
+      ]
+    },
+    "tip": "蟒蛇的「蛇」讀ㄕㄜˊ，左虫右它；舌頭的「舌」沒有虫旁。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

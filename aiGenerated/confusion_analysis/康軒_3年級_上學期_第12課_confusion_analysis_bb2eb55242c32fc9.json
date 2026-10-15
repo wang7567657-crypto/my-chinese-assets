@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_bb2eb55242c32fc9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "吞",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "吞",
+    "groups": {
+      "shape": [
+        {
+          "char": "吝",
+          "why": "下方同是「口」，上方容易混看。",
+          "difference": "「吞」上方是天；「吝」上方是文，如吝嗇。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "屯",
+          "why": "近音，聲調不同：吞讀ㄊㄨㄣ；屯在「屯積」中讀ㄊㄨㄣˊ。",
+          "difference": "「吞下」是吃進去；「屯積」是聚集、儲存，不能互換。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "吐",
+          "why": "都是口部動作，方向相反。",
+          "difference": "「吞」是往裡吃下去；「吐」在「吐出」中讀ㄊㄨˇ，是從嘴裡送出來。"
+        }
+      ],
+      "component": [
+        {
+          "char": "天",
+          "why": "「吞」的上方是「天」。",
+          "difference": "「吞」下方還有口，表示吞下；「天」沒有下方的口，如天空。"
+        }
+      ]
+    },
+    "tip": "吞是天在上、口在下；吞進去和吐出來的方向相反。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

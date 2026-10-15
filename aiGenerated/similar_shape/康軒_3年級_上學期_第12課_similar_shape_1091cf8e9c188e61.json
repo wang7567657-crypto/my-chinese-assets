@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第12課_similar_shape_1091cf8e9c188e61",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "蟒",
+    "lessonChars": [
+      "障",
+      "漠",
+      "綿",
+      "央",
+      "男",
+      "複",
+      "疑",
+      "算",
+      "歲",
+      "帽",
+      "退",
+      "吞",
+      "蛇",
+      "訝",
+      "蟒"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "蟒",
+    "similarChars": [
+      {
+        "char": "莽",
+        "similarity": "蟒的右半部就是莽。",
+        "difference": "蟒在莽左側多了虫。"
+      },
+      {
+        "char": "漭",
+        "similarity": "右邊都是莽。",
+        "difference": "蟒左邊是虫；漭左邊是氵。漭是少見字。"
+      },
+      {
+        "char": "蟆",
+        "similarity": "左邊都是虫，右上都是艹。",
+        "difference": "蟒右邊是莽，中間有犬、下有廾；蟆右邊是莫，中間是日、下是大。"
+      },
+      {
+        "char": "蠛",
+        "similarity": "左邊都是虫，右上都是艹，右下筆畫較密。",
+        "difference": "蟒右邊是莽；蠛右邊是蔑，艹下面有罒，不是犬。蠛是少見字。"
+      },
+      {
+        "char": "蠣",
+        "similarity": "左邊都是虫，右邊都有艹與多層部件。",
+        "difference": "蟒右邊是莽；蠣右邊是厲，有厂包住萬。"
+      },
+      {
+        "char": "蟑",
+        "similarity": "左邊都是虫，右側都有上、中、下分層的輪廓。",
+        "difference": "蟒右邊是莽，上有艹；蟑右邊是章，上有立、下有十。"
+      }
+    ],
+    "teachingTip": "先拆成虫與莽，再按艹、犬、廾觀察右半部；莽中間的犬有點，不能寫成大。蟆、蠛要比較艹下面的部件。漭、蠛只作辨形。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}
