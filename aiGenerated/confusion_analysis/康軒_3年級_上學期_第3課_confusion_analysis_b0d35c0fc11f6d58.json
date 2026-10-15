@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_b0d35c0fc11f6d58",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "急",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "急",
+    "groups": {
+      "shape": [
+        {
+          "char": "忽",
+          "why": "下方同有心，上方都有斜筆。",
+          "difference": "急的上方有橫折構成的部分；忽上方是勿，有連續撇筆。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "及",
+          "why": "同音：急、及都讀ㄐㄧˊ。",
+          "difference": "著急用急；來不及用及。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "快",
+          "why": "說話又急又快時，兩者容易混為一談。",
+          "difference": "急可指迫切、慌忙；快指速度高，快速不一定著急。"
+        }
+      ],
+      "component": [
+        {
+          "char": "心",
+          "why": "急下方是心，容易漏點或寫錯位置。",
+          "difference": "急上方還有其他筆畫；心單獨成字不含急的上部。"
+        }
+      ]
+    },
+    "tip": "讀「又急又快」，分清心情迫切與速度快。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_dc9d2c4cb2715d29",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "撞",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "撞",
+    "groups": {
+      "shape": [
+        {
+          "char": "幢",
+          "why": "右邊都含童。",
+          "difference": "撞左邊是扌；幢左邊是巾。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "狀",
+          "why": "同音：撞、狀都讀ㄓㄨㄤˋ。",
+          "difference": "撞到人用撞；形狀用狀。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "碰",
+          "why": "都有相接觸的意思。",
+          "difference": "撞常表示較突然或有力的衝擊；碰也能指輕輕接觸，力道要看句子。"
+        }
+      ],
+      "component": [
+        {
+          "char": "童",
+          "why": "撞右側完整保留童的輪廓。",
+          "difference": "撞左邊另有扌；童單獨成字沒有手旁。"
+        }
+      ]
+    },
+    "tip": "讀「撞到了我」，以手旁和童的組合辨字。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

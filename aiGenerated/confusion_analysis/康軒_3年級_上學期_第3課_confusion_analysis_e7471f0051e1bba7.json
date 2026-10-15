@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_e7471f0051e1bba7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "實",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "實",
+    "groups": {
+      "shape": [
+        {
+          "char": "貫",
+          "why": "實的宀下完整含貫，容易漏看最上方。",
+          "difference": "實上方多宀；貫沒有宀。兩字下方都要寫清楚貝。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "石",
+          "why": "同音：實、石都讀ㄕˊ。",
+          "difference": "實在用實；石子用石。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "真",
+          "why": "真實一詞中意思相關。",
+          "difference": "實在可指實際或不虛假；真可表示確實，真好不能直接改成實好。"
+        }
+      ],
+      "component": [
+        {
+          "char": "貫",
+          "why": "實的宀下是貫。",
+          "difference": "實比貫多宀；貫上部須依標準字形寫，不能改成母或毋。"
+        }
+      ]
+    },
+    "tip": "看清宀下的貫，讀「用料實在」理解真確、不虛假的意思。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

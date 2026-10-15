@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_9650d61315fa72ae",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "扶",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "扶",
+    "groups": {
+      "shape": [
+        {
+          "char": "抹",
+          "why": "左邊同是扌，右邊有兩橫。",
+          "difference": "扶右部是夫，有撇捺；抹右部是末，有中豎和左右分出的筆畫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "服",
+          "why": "同音：扶、衣服的服都讀ㄈㄨˊ。",
+          "difference": "扶著用扶；服裝用服。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "拉",
+          "why": "都可用手作用在人或物上。",
+          "difference": "扶是支持使不倒；拉是牽引移動，不是每次拉人都在扶人。"
+        }
+      ],
+      "component": [
+        {
+          "char": "夫",
+          "why": "扶的右半是夫。",
+          "difference": "扶多了左側扌；不能只寫夫來表示攙扶。"
+        }
+      ]
+    },
+    "tip": "用「扶著他」想支持的動作，寫時保留扌。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

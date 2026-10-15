@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_735a8d9dbba9b22a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "觀",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "觀",
+    "groups": {
+      "shape": [
+        {
+          "char": "歡",
+          "why": "左邊共同含雚，右邊容易忽略。",
+          "difference": "觀右側是見；歡右側是欠。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "關",
+          "why": "同音：參觀的觀、關門的關都讀ㄍㄨㄢ。",
+          "difference": "參觀用觀；開關用關。觀在道觀中另讀ㄍㄨㄢˋ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "看",
+          "why": "都與觀看有關。",
+          "difference": "觀常用於參觀、觀察等詞；看也能表示照顧，如看家，不可都換成觀。"
+        }
+      ],
+      "component": [
+        {
+          "char": "見",
+          "why": "觀右側是見。",
+          "difference": "觀在見左邊另有雚；不要把右部改成欠而寫成歡。"
+        }
+      ]
+    },
+    "tip": "「參觀」讀ㄘㄢ ㄍㄨㄢ，先找右側見。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

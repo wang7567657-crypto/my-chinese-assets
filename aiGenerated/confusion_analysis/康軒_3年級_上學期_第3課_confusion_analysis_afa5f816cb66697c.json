@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_afa5f816cb66697c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "繞",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "繞",
+    "groups": {
+      "shape": [
+        {
+          "char": "燒",
+          "why": "右半同有堯，容易只看右邊。",
+          "difference": "繞左邊是糸旁；燒左邊是火旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "擾",
+          "why": "近音：繞口令的繞讀ㄖㄠˋ；打擾的擾讀ㄖㄠˇ，聲調不同。",
+          "difference": "繞口令用繞；打擾別人用擾。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "圍",
+          "why": "都有環繞的相關意思。",
+          "difference": "繞可指沿周圍轉行；圍著重四周包住，不能把繞口令寫成圍口令。"
+        }
+      ],
+      "component": [
+        {
+          "char": "饒",
+          "why": "共同右部是堯。",
+          "difference": "繞是糸旁，饒是食旁；不要因右部相同就互換。"
+        }
+      ]
+    },
+    "tip": "先看糸旁，再讀「繞口令」的ㄖㄠˋ。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

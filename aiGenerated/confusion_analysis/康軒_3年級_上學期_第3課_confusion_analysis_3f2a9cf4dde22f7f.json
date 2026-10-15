@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_3f2a9cf4dde22f7f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "由",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "由",
+    "groups": {
+      "shape": [
+        {
+          "char": "甲",
+          "why": "都是方框與穿出的直筆。",
+          "difference": "由的中豎向上伸出框外；甲的中豎向下伸出。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "油",
+          "why": "同音：由、油都讀ㄧㄡˊ。",
+          "difference": "由於用由；食用油用油，油多了氵。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "因",
+          "why": "由於、因為都能引出原因。",
+          "difference": "由於用由；因為用因，固定詞不能只換其中一字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "田",
+          "why": "都有田形的框內分隔。",
+          "difference": "由的中豎向上突出；田的中豎不突出外框。"
+        }
+      ]
+    },
+    "tip": "比較由、甲、田，指出中豎伸向哪裡。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

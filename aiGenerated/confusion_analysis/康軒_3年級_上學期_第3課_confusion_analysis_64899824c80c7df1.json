@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_64899824c80c7df1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "留",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "留",
+    "groups": {
+      "shape": [
+        {
+          "char": "畝",
+          "why": "兩字都有田形，但田所在的位置不同，不能只看到田就認字。",
+          "difference": "留的田在整字下方；畝的田在左邊的亠下方，右邊另有久。畝只作辨形比較，不列為本課書寫要求。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "流",
+          "why": "同音：留、流都讀ㄌㄧㄡˊ。",
+          "difference": "停留用留；流水用流。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "停",
+          "why": "停留一詞中意思相關。",
+          "difference": "留著重留下、不離開；停著重停止動作，停止不能寫留止。"
+        }
+      ],
+      "component": [
+        {
+          "char": "田",
+          "why": "留下半是田。",
+          "difference": "留還有上半筆畫；上半不可簡化成卯，左末筆是點、右上為刀。"
+        }
+      ]
+    },
+    "tip": "停留是留下來，書寫留時確認田上方的點和刀形。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

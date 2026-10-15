@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第3課_similar_shape_482b072ac9acc0cf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "撞",
+    "lessonChars": [
+      "繞",
+      "由",
+      "迷",
+      "失",
+      "岸",
+      "撞",
+      "扶",
+      "急",
+      "店",
+      "機",
+      "料",
+      "實",
+      "留",
+      "觀",
+      "暴",
+      "闆",
+      "葡",
+      "萄"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "撞",
+    "similarChars": [
+      {
+        "char": "瞳",
+        "similarity": "右半同為「童」，都是左右結構。",
+        "difference": "「撞」左邊是提手旁；「瞳」左邊是目字旁。"
+      },
+      {
+        "char": "憧",
+        "similarity": "右半同為「童」。",
+        "difference": "「撞」左邊是提手旁；「憧」左邊是豎心旁。"
+      },
+      {
+        "char": "幢",
+        "similarity": "右半都有「童」，左旁都比較窄。",
+        "difference": "「撞」左邊是提手旁；「幢」左邊是巾字旁。"
+      },
+      {
+        "char": "鐘",
+        "similarity": "右半同為「童」。",
+        "difference": "「撞」左邊是提手旁；「鐘」左邊是金字旁。"
+      },
+      {
+        "char": "童",
+        "similarity": "「撞」右半就是完整的「童」。",
+        "difference": "「童」獨立成字；「撞」在它左邊加提手旁。"
+      },
+      {
+        "char": "僮",
+        "similarity": "右半同為「童」；「僮」是較少用字。",
+        "difference": "「撞」左邊是提手旁；「僮」左邊是單人旁。"
+      }
+    ],
+    "teachingTip": "先找共同的「童」，確認上「立」下「里」，再看左旁。可把扌、目、忄、巾、金、亻分別配上「童」，練習只換左旁辨字。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

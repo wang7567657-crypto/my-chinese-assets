@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_fd55687947e3e54f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "店",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "店",
+    "groups": {
+      "shape": [
+        {
+          "char": "站",
+          "why": "都能看見占的輪廓。",
+          "difference": "店的占在广內；站的占在立右邊。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "電",
+          "why": "同音：店、電都讀ㄉㄧㄢˋ。",
+          "difference": "一家店用店；電燈用電。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "鋪",
+          "why": "店和店鋪都與販售場所相關。",
+          "difference": "店是商業場所；鋪在店鋪中讀ㄆㄨˋ，在鋪路中讀ㄆㄨ，不可只憑字義套讀音。"
+        }
+      ],
+      "component": [
+        {
+          "char": "占",
+          "why": "店內是占，容易忘記外側。",
+          "difference": "店另有广包住占；占單獨成字沒有广。"
+        }
+      ]
+    },
+    "tip": "在「一家店」中辨義，寫完檢查广是否包住占。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

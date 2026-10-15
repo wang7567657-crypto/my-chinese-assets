@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第3課_memory_strategy_a171bd240afed428",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "機",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "機",
+    "components": [
+      "木",
+      "幾"
+    ],
+    "association": "想像木架旁的機器正在運轉，用「機器」連結字義；右邊的幾當作一整塊先記住。",
+    "mnemonic": "想像口訣（非字源）：木在左，幾在右，小小機器動起來。",
+    "visualPrompt": "製作兒童識字圖卡：左側用臺灣教育部標準楷體排出完整的「機」，右側畫放在木架旁的簡單機器，能看見齒輪和按鈕。圖與字分開，機器僅作記憶情境，不表示所有機器都由木頭製成。",
+    "teachingTip": "左窄右寬，先辨認木與幾，再對照課本寫右半部。提醒幾不是几，不能用「木加几」代替臺灣標準字「機」。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

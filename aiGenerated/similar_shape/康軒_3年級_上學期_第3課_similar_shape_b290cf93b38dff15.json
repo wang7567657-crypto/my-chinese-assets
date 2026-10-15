@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第3課_similar_shape_b290cf93b38dff15",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "店",
+    "lessonChars": [
+      "繞",
+      "由",
+      "迷",
+      "失",
+      "岸",
+      "撞",
+      "扶",
+      "急",
+      "店",
+      "機",
+      "料",
+      "實",
+      "留",
+      "觀",
+      "暴",
+      "闆",
+      "葡",
+      "萄"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "店",
+    "similarChars": [
+      {
+        "char": "站",
+        "similarity": "都含有「占」這個部件。",
+        "difference": "「店」是「广」包住「占」；「站」是左「立」、右「占」。"
+      },
+      {
+        "char": "貼",
+        "similarity": "都含有「占」。",
+        "difference": "「店」外側是「广」；「貼」左邊是「貝」，右邊是「占」。"
+      },
+      {
+        "char": "沾",
+        "similarity": "都有「占」，其下都是一個「口」。",
+        "difference": "「店」的「占」在「广」內；「沾」的「占」左側是三點水。"
+      },
+      {
+        "char": "占",
+        "similarity": "「店」裡面就是「占」形。",
+        "difference": "「占」沒有外框；「店」在「占」上方和左側加「广」。"
+      },
+      {
+        "char": "點",
+        "similarity": "都含有「占」。",
+        "difference": "「店」以「广」半包住「占」；「點」是左「黑」、右「占」。"
+      },
+      {
+        "char": "掂",
+        "similarity": "「掂」右半保留了完整的「店」。",
+        "difference": "「店」只有「广」和「占」；「掂」另外在左邊加提手旁。"
+      }
+    ],
+    "teachingTip": "找出共同的「占」，再看它外面或左邊的部件。「店」的「广」從上方包向左側，不要寫成左右並排的偏旁。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}
