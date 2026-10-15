@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第5課_similar_shape_4e2dc3210e511b0f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "李",
+    "lessonChars": [
+      "朝",
+      "努",
+      "總",
+      "段",
+      "利",
+      "害",
+      "整",
+      "該",
+      "紙",
+      "李",
+      "貴",
+      "必",
+      "通",
+      "場",
+      "絲",
+      "導",
+      "綁",
+      "鬆"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "李",
+    "similarChars": [
+      {
+        "char": "季",
+        "similarity": "下方同是子，上方木、禾輪廓接近。",
+        "difference": "「李」上方是木；「季」上方是禾，比木多頂上的一撇。"
+      },
+      {
+        "char": "字",
+        "similarity": "都是上下結構，下方同為子。",
+        "difference": "「李」上方是木；「字」上方是宀。"
+      },
+      {
+        "char": "孝",
+        "similarity": "下方都有子，整體為上下堆疊。",
+        "difference": "「李」上方是木；「孝」上方是耂形，橫、撇的位置不同。"
+      },
+      {
+        "char": "杍",
+        "similarity": "同樣由木與子組成。",
+        "difference": "「李」木在上、子在下；「杍」木在左、子在右。「杍」較少見。"
+      },
+      {
+        "char": "仔",
+        "similarity": "都有子。",
+        "difference": "「李」是木在上、子在下；「仔」是亻在左、子在右。"
+      },
+      {
+        "char": "好",
+        "similarity": "都有子。",
+        "difference": "「李」是木在上、子在下；「好」是女在左、子在右。"
+      }
+    ],
+    "teachingTip": "優先比較李和季：看頂端有沒有禾的撇，再確認下方子寫完整。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_a696ab429aef9015",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "場",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "場",
+    "groups": {
+      "shape": [
+        {
+          "char": "揚",
+          "why": "右邊同是昜，容易只看共同右半。",
+          "difference": "場左邊是土，指操場等地方；揚左邊是扌，如飛揚、表揚。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "長",
+          "why": "近音：場 ㄔㄤˇ，長短的長 ㄔㄤˊ。",
+          "difference": "操場的場是第三聲；長短的長是第二聲。長大之長另讀 ㄓㄤˇ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "地",
+          "why": "都可與地方、處所有關。",
+          "difference": "場常用於操場、會場等活動場所；地可表示土地或地點，不能把操場寫成操地。"
+        }
+      ],
+      "component": [
+        {
+          "char": "易",
+          "why": "場的右半昜容易少掉中間的一橫而變成易。",
+          "difference": "昜在日下有一長橫；易沒有這一長橫。寫場時要保留。"
+        }
+      ]
+    },
+    "tip": "用「操場」連結土旁；右邊日下還有一橫，場讀 ㄔㄤˇ。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

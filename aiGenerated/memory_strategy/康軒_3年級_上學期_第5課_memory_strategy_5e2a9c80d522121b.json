@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第5課_memory_strategy_5e2a9c80d522121b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "李",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "李",
+    "components": [
+      "木（上）",
+      "子（下）"
+    ],
+    "association": "教學聯想（非字源）：想像一棵李樹旁有孩子辨認李子，借木在上、子在下記位置；孩子並不是這個字的字源解釋。",
+    "mnemonic": "上木下子李，禾加子是季。",
+    "visualPrompt": "在畫面一側清楚呈現教育部標準楷體「李」，保持筆畫、比例及部件位置不變；另一側畫一棵結李子的樹與旁邊拿著「李」字卡的孩子。插圖只放在字旁，不拿圖案取代筆畫。標註「教學聯想，非字源」。",
+    "teachingTip": "先指出李文貴中的李是姓氏，再用李子補充常見用法；與季比較時只找木頂端是否多一撇。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

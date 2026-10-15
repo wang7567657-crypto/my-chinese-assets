@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_abf430769afcf155",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "通",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "通",
+    "groups": {
+      "shape": [
+        {
+          "char": "桶",
+          "why": "兩字都有甬，容易只看內部。",
+          "difference": "通有辶；桶左邊是木。通過用通，水桶用桶。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "同",
+          "why": "近音：通 ㄊㄨㄥ，同 ㄊㄨㄥˊ，聲調不同。",
+          "difference": "通過讀第一聲；同學讀第二聲，讀詞時一起分辨聲調。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "過",
+          "why": "通過一詞中兩字常連在一起。",
+          "difference": "通可表示沒有阻塞或傳達，如暢通、通知；過可表示經過、超過，不能把通知寫成過知。"
+        }
+      ],
+      "component": [
+        {
+          "char": "用",
+          "why": "通裡面的甬下部像用，容易漏掉甬上方。",
+          "difference": "通裡面是完整的甬，不是只有用；外面再有辶，兩部分都不能漏。"
+        }
+      ]
+    },
+    "tip": "看清「辶＋甬」，先認裡面的甬是否完整，再讀第一聲 ㄊㄨㄥ。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_a3a3524196e30b78",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "綁",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "綁",
+    "groups": {
+      "shape": [
+        {
+          "char": "邦",
+          "why": "右邊相同，容易忘記左側糸旁。",
+          "difference": "綁左邊有糸，表示綁上的動作；邦是另一個字，如友邦。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "榜",
+          "why": "同音：綁、榜都讀 ㄅㄤˇ。",
+          "difference": "綁絲帶用綁；榜單用榜，榜左邊是木。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "鬆",
+          "why": "在綁住、鬆開的動作中形成對照。",
+          "difference": "綁是用繩帶纏繞固定；鬆開是放開、減少緊束，做的動作不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "紙",
+          "why": "同樣有糸旁，容易認了左旁就選錯字。",
+          "difference": "綁右邊是邦，最右還有阝；紙右邊是氏，沒有阝。"
+        }
+      ]
+    },
+    "tip": "把動作說成「綁上絲帶」；寫字要保留左糸旁和邦最右邊的阝，綁讀 ㄅㄤˇ。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

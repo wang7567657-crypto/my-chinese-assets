@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第5課_similar_shape_b6b9ef4163bae28b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "該",
+    "lessonChars": [
+      "朝",
+      "努",
+      "總",
+      "段",
+      "利",
+      "害",
+      "整",
+      "該",
+      "紙",
+      "李",
+      "貴",
+      "必",
+      "通",
+      "場",
+      "絲",
+      "導",
+      "綁",
+      "鬆"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "該",
+    "similarChars": [
+      {
+        "char": "孩",
+        "similarity": "主要字形「亥」相同。",
+        "difference": "「該」是言在左、亥在右；「孩」改成子在左、亥在右。"
+      },
+      {
+        "char": "核",
+        "similarity": "主要字形「亥」相同。",
+        "difference": "「該」是言在左、亥在右；「核」改成木在左、亥在右。"
+      },
+      {
+        "char": "咳",
+        "similarity": "主要字形「亥」相同。",
+        "difference": "「該」是言在左、亥在右；「咳」改成口在左、亥在右。"
+      },
+      {
+        "char": "駭",
+        "similarity": "主要字形「亥」相同。",
+        "difference": "「該」是言在左、亥在右；「駭」改成馬在左、亥在右。"
+      },
+      {
+        "char": "刻",
+        "similarity": "主要字形「亥」相同。",
+        "difference": "「該」是言在左、亥在右；「刻」把亥放左邊、刂放右邊。"
+      },
+      {
+        "char": "賅",
+        "similarity": "主要字形「亥」相同。",
+        "difference": "「該」是言在左、亥在右；「賅」改成貝在左、亥在右；此字較少見。"
+      }
+    ],
+    "teachingTip": "圈出相同的亥，再逐一遮住、比較左邊偏旁；刻的亥在左邊，位置也要看。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

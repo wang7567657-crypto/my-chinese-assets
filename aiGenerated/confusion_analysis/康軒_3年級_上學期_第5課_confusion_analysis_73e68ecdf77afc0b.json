@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_73e68ecdf77afc0b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "利",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "利",
+    "groups": {
+      "shape": [
+        {
+          "char": "刮",
+          "why": "兩字右邊都是刂，左邊輪廓容易看得太快。",
+          "difference": "利左邊是禾；刮左邊是舌。利用時間用利，刮風用刮。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "力",
+          "why": "同音：利、力都讀 ㄌㄧˋ。",
+          "difference": "利用、利益用利；力量、努力用力，同音不代表意思相同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "害",
+          "why": "談好處、壞處時是一組相對概念。",
+          "difference": "有利表示有好處；有害表示會帶來壞處。先判斷句子說的是哪一邊。"
+        }
+      ],
+      "component": [
+        {
+          "char": "和",
+          "why": "左邊同有禾，容易只記住禾。",
+          "difference": "利右邊是刂；和右邊是口。寫利用時，右旁不能變成口。"
+        }
+      ]
+    },
+    "tip": "把「利用」和「努力」一起讀，再指認：利用是禾加刂，努力的力是單獨的力。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_4fc9fc8519ad5386",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "害",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "害",
+    "groups": {
+      "shape": [
+        {
+          "char": "割",
+          "why": "割含有完整的害，容易多寫刀旁。",
+          "difference": "害怕、害處用害；割開的割右側另加刂。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "海",
+          "why": "近音：害 ㄏㄞˋ，海 ㄏㄞˇ，聲調不同。",
+          "difference": "害怕的害是第四聲；大海的海是第三聲，海還有氵。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "傷",
+          "why": "傷害和受傷都和不好的影響有關。",
+          "difference": "害可見於害怕、害處；傷可指受傷的傷口。不能因意思相關就寫成傷怕。"
+        }
+      ],
+      "component": [
+        {
+          "char": "憲",
+          "why": "上方都能看到宀和相近的中間部件。",
+          "difference": "害下方是口；憲下方還有罒、心。害的中間依標準寫法，中豎不到口裡。"
+        }
+      ]
+    },
+    "tip": "用「害怕」練習讀 ㄏㄞˋ；字形分上、中、下看，最下方是口。此處是一般詞例。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第5課_memory_strategy_746e33527bc2814a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "總",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "總",
+    "components": [
+      "糸（左旁，下作三點）",
+      "囪（右上）",
+      "心（右下）"
+    ],
+    "association": "教學聯想（非字源）：把各小組的任務想成幾條線，由總指導留心整合，提醒左有糸、右下有心。",
+    "mnemonic": "左邊糸，右上囪，心在右下管總合。",
+    "visualPrompt": "在畫面一側清楚呈現教育部標準楷體「總」，保持筆畫、比例及部件位置不變；另一側畫幾個小組的練習圖卡，以細線連到總指導的工作表。插圖只放在字旁，不拿圖案取代筆畫。標註「教學聯想，非字源」。",
+    "teachingTip": "先描囪的完整外框，再描心；囪不可簡化成匆。故事只幫助記憶部件位置，不解釋造字由來。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_e6a78e97e7a84e49",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "朝",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "朝",
+    "groups": {
+      "shape": [
+        {
+          "char": "潮",
+          "why": "「潮」裡面含有完整的「朝」，容易多寫水旁。",
+          "difference": "朝會用「朝」；潮水的「潮」左邊另有氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "招",
+          "why": "同音：朝會的「朝」與招手的「招」都讀 ㄓㄠ。",
+          "difference": "看詞義選字：早晨的集會是朝會，揮手示意是招手。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "早",
+          "why": "兩字都可能與早晨有關。",
+          "difference": "「朝」可指早晨，如朝陽；「早」也能表示時間較前，如提早。兩字意思相關，寫特定語詞時仍要辨認原來用字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "乾",
+          "why": "左邊都有上十、中日、下十的部件。",
+          "difference": "朝的右邊是月；乾的右邊是乞。不能只看共同左半就認字。"
+        }
+      ]
+    },
+    "tip": "先讀「朝會 ㄓㄠ ㄏㄨㄟˋ」，再找右邊的月；朝陽也讀 ㄓㄠ，朝前、朝代則讀 ㄔㄠˊ，依語詞選音。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

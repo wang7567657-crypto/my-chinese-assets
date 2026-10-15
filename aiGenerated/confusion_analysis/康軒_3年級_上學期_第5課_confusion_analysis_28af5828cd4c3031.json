@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_28af5828cd4c3031",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "該",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "該",
+    "groups": {
+      "shape": [
+        {
+          "char": "孩",
+          "why": "右邊同是亥，差別集中在左旁。",
+          "difference": "該左邊是言；孩左邊是子。應該用該，孩子用孩。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "改",
+          "why": "近音：該 ㄍㄞ，改 ㄍㄞˇ，聲調不同。",
+          "difference": "應該的該讀第一聲；改正的改讀第三聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "必",
+          "why": "應該和必須都可表示要做某件事。",
+          "difference": "應該常表示合宜或應當；必須強調一定要做。讀句子時要分清語氣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "刻",
+          "why": "刻也含亥，容易看見亥就誤認。",
+          "difference": "該是左言、右亥；刻是左亥、右刂，共同部件的位置和另一旁都不同。"
+        }
+      ]
+    },
+    "tip": "先找言字旁，再讀「應該」；孩子用子旁，不能把左邊換掉。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

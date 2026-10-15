@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第5課_memory_strategy_7679836dac8cbe7e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "絲",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "絲",
+    "components": [
+      "糸（左旁，下作三點）",
+      "糸（右，上幺下小）"
+    ],
+    "association": "教學聯想（非字源）：想像左右放著兩束細絲，旁邊一條絲帶隨手臂飛舞，幫助記住兩組糸形部件。",
+    "mnemonic": "左糸右糸記住絲，左下三點右下小。",
+    "visualPrompt": "在畫面一側清楚呈現教育部標準楷體「絲」，保持筆畫、比例及部件位置不變；另一側畫兩束細絲與一條飛舞的彩色絲帶。插圖只放在字旁，不拿圖案取代筆畫。標註「教學聯想，非字源」。",
+    "teachingTip": "特別比較左右下方：左是三點，右是小；不可把兩邊畫成完全相同，也不把絲帶畫進字裡。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

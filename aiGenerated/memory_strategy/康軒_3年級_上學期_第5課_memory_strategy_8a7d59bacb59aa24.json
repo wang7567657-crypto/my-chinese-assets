@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第5課_memory_strategy_8a7d59bacb59aa24",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "場",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "場",
+    "components": [
+      "土（左）",
+      "昜（右，日下有一長橫）"
+    ],
+    "association": "教學聯想（非字源）：想像同學在平坦的操場練習，從地面聯想到左土旁；右昜保留標準字形，不另改成圖案。",
+    "mnemonic": "土旁是操場，日下一橫別漏光。",
+    "visualPrompt": "在畫面一側清楚呈現教育部標準楷體「場」，保持筆畫、比例及部件位置不變；另一側畫平坦操場上排隊練習大會操的同學。插圖只放在字旁，不拿圖案取代筆畫。標註「教學聯想，非字源」。",
+    "teachingTip": "將場、揚並排先辨土與扌，再查右側日下的一橫；操場的場讀ㄔㄤˇ。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

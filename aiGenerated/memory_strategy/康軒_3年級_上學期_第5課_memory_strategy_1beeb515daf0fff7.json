@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第5課_memory_strategy_1beeb515daf0fff7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "整",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "整",
+    "components": [
+      "束（左上）",
+      "攵（右上）",
+      "正（下）"
+    ],
+    "association": "教學聯想（非字源）：想像把散亂的物品收成一束，再放正、排齊，藉此記住束和下方的正。",
+    "mnemonic": "左上束，右上攵，下面正，整理才整齊。",
+    "visualPrompt": "在畫面一側清楚呈現教育部標準楷體「整」，保持筆畫、比例及部件位置不變；另一側畫左右對照的散亂書本與整理後排齊的書本。插圖只放在字旁，不拿圖案取代筆畫。標註「教學聯想，非字源」。",
+    "teachingTip": "分三區指讀：束、攵、正；右上不是欠，下方正不能漏。完成後用整理與整齊各說一句。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

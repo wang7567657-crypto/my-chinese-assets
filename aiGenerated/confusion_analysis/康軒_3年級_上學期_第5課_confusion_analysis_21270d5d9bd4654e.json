@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_21270d5d9bd4654e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "紙",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "紙",
+    "groups": {
+      "shape": [
+        {
+          "char": "低",
+          "why": "右半的氏和氐相近，容易多添一筆。",
+          "difference": "紙是糸加氏；低是亻加氐。依臺灣標準字形，氐在氏下另有短橫，紙的氏沒有這一橫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "指",
+          "why": "同音：紙、指都讀 ㄓˇ。",
+          "difference": "紙張是可書寫的材料；手指的指用扌，不能只靠讀音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "布",
+          "why": "兩者都是日常可接觸的材料，也都可能剪成條。",
+          "difference": "紙條通常用紙做；布條用布做。看到條狀物仍要按材料選字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "氏",
+          "why": "紙的右半是氏，容易漏掉左邊。",
+          "difference": "氏只有右半四畫；紙左邊還有糸旁，而且糸旁下方寫三點。"
+        }
+      ]
+    },
+    "tip": "記「紙張：左糸、右氏」；右下不添短橫或點。紙條是一般練習詞，不標成課文原句。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

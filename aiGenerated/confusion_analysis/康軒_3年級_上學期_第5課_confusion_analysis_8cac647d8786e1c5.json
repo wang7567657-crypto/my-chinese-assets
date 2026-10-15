@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_8cac647d8786e1c5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "整",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "整",
+    "groups": {
+      "shape": [
+        {
+          "char": "政",
+          "why": "都含正和攵，容易把部件位置記混。",
+          "difference": "整的正放在最下方，上方另有束和攵；政是左正、右攵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "正",
+          "why": "近音：整 ㄓㄥˇ，正確的正 ㄓㄥˋ。",
+          "difference": "整齊讀第三聲；正確讀第四聲，不因含有正就讀成第四聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "齊",
+          "why": "整齊一詞中兩字意義相關。",
+          "difference": "整理表示收拾、安排的動作；整齊表示排列有秩序，不能把整理寫成齊理。"
+        }
+      ],
+      "component": [
+        {
+          "char": "束",
+          "why": "整左上有束，容易只寫上面或漏掉底部。",
+          "difference": "束是一個獨立的字；整還要有右上的攵和下方的正。"
+        }
+      ]
+    },
+    "tip": "照「左上束、右上攵、下面正」檢查三區；整齊的整讀 ㄓㄥˇ。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

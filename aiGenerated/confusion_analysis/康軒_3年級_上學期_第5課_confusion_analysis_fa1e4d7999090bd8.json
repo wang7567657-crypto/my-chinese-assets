@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_fa1e4d7999090bd8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "努",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "努",
+    "groups": {
+      "shape": [
+        {
+          "char": "怒",
+          "why": "上方同是奴，下方只換一個部件。",
+          "difference": "努下方是力，表示盡力；怒下方是心，表示生氣。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "怒",
+          "why": "近音：努 ㄋㄨˇ，怒 ㄋㄨˋ，聲調不同。",
+          "difference": "努力讀第三聲；憤怒讀第四聲，跟讀時把聲調一起讀出。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "勤",
+          "why": "「努力」和「勤勞」都形容認真做事。",
+          "difference": "努力著重盡力去做；勤勞著重經常做、不懶惰，兩個字不能直接互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "奴",
+          "why": "努的上方是完整的奴，容易漏掉下方。",
+          "difference": "奴只有女、又；努還有下方的力，寫完要檢查底部。"
+        }
+      ]
+    },
+    "tip": "用「努有力，怒有心」辨形；努力的努讀 ㄋㄨˇ，不讀 ㄋㄨˋ。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第5課_similar_shape_bfc4352e751d5465",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "場",
+    "lessonChars": [
+      "朝",
+      "努",
+      "總",
+      "段",
+      "利",
+      "害",
+      "整",
+      "該",
+      "紙",
+      "李",
+      "貴",
+      "必",
+      "通",
+      "場",
+      "絲",
+      "導",
+      "綁",
+      "鬆"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "場",
+    "similarChars": [
+      {
+        "char": "揚",
+        "similarity": "右邊都為昜，上日下有橫與斜撇形。",
+        "difference": "「場」左邊是土；「揚」左邊是扌。"
+      },
+      {
+        "char": "楊",
+        "similarity": "右邊都為昜，上日下有橫與斜撇形。",
+        "difference": "「場」左邊是土；「楊」左邊是木。"
+      },
+      {
+        "char": "陽",
+        "similarity": "右邊都為昜，上日下有橫與斜撇形。",
+        "difference": "「場」左邊是土；「陽」左邊是阝。"
+      },
+      {
+        "char": "湯",
+        "similarity": "右邊都為昜，上日下有橫與斜撇形。",
+        "difference": "「場」左邊是土；「湯」左邊是氵。"
+      },
+      {
+        "char": "腸",
+        "similarity": "右邊都為昜，上日下有橫與斜撇形。",
+        "difference": "「場」左邊是土；「腸」左邊是月。"
+      },
+      {
+        "char": "傷",
+        "similarity": "右半大部分輪廓接近昜。",
+        "difference": "「場」左土右昜；「傷」左亻，右半在昜形上面還有一撇一橫。"
+      }
+    ],
+    "teachingTip": "用顏色圈出左邊土，與揚的扌比較；再檢查右邊不是把昜寫成易。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}

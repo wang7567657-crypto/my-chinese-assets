@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第5課_confusion_analysis_bef55198866585e8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "導",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "導",
+    "groups": {
+      "shape": [
+        {
+          "char": "道",
+          "why": "導的上方是完整的道，容易漏掉下面。",
+          "difference": "導下面多了寸；道路用道，指導用導。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "倒",
+          "why": "同音語境：導與跌倒的倒都讀 ㄉㄠˇ。",
+          "difference": "指導用導；跌倒用倒。倒水的倒另讀 ㄉㄠˋ，不能把所有倒都當同音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "教",
+          "why": "指導和教導都涉及幫助別人學會。",
+          "difference": "導在指導中強調引導、指點；教可用於教書、教室等詞，兩字不能任意替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "寸",
+          "why": "導的下方是寸，容易漏掉一點或把位置移錯。",
+          "difference": "寸放在完整的道下方；導不是左右的道、寸並排，寸的一點也要保留。"
+        }
+      ]
+    },
+    "tip": "先認上面的道，再看下面有沒有寸；「指導 ㄓˇ ㄉㄠˇ」的導是第三聲。"
+  },
+  "createdAt": "2026-10-15T10:35:19.904305Z"
+}
