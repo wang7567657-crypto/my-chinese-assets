@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第9課_similar_shape_15755ed70a4a4a2c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "蘋",
+    "lessonChars": [
+      "醫",
+      "穿",
+      "袍",
+      "戴",
+      "筒",
+      "啄",
+      "備",
+      "幹",
+      "敲",
+      "毒",
+      "體",
+      "淘",
+      "蘋",
+      "般",
+      "藥"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "蘋",
+    "similarChars": [
+      {
+        "char": "頻",
+        "similarity": "都含步與頁組成的頻。",
+        "difference": "蘋在頻上方多了艹；頻沒有艹。"
+      },
+      {
+        "char": "瀕",
+        "similarity": "都含頻。",
+        "difference": "蘋的艹在上方；瀕的氵在左邊，頻的位置隨之改變。"
+      },
+      {
+        "char": "顰",
+        "similarity": "都含頻，整體都有上下堆疊的輪廓。",
+        "difference": "蘋是上艹下頻；顰是上頻下卑。顰較少見。"
+      },
+      {
+        "char": "萍",
+        "similarity": "都以艹為字頭，下方含橫直相交的筆畫。",
+        "difference": "蘋下方是頻，右側有頁；萍下方是氵與平，沒有頁。"
+      },
+      {
+        "char": "藻",
+        "similarity": "都有艹，下半部寬而筆畫密。",
+        "difference": "蘋下方是頻；藻下方有氵、三個口和木，不是步、頁。"
+      },
+      {
+        "char": "薯",
+        "similarity": "都是艹字頭，下方有多個橫畫與框形。",
+        "difference": "蘋下方是頻；薯下方是署，可看到罒與者，沒有頁。"
+      }
+    ],
+    "teachingTip": "優先比較蘋、頻、瀕，找出頻是否完整保留，再比較蘋與萍的下半部。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

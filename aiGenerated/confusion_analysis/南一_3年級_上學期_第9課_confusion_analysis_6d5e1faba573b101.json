@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第9課_confusion_analysis_6d5e1faba573b101",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "體",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "體",
+    "groups": {
+      "shape": [
+        {
+          "char": "禮",
+          "why": "兩字右側都是豊，主體非常相近。",
+          "difference": "體左側是骨；禮左側是礻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "替",
+          "why": "近音：身體的體讀ㄊㄧˇ，代替的替讀ㄊㄧˋ，聲調不同。",
+          "difference": "體可指身體；替表示代換或代人做事，身體不能寫成身替。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "身",
+          "why": "身和體都能與身體有關，也能合成身體。",
+          "difference": "固定語詞不同：身高用身，體重用體，不能只依大意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "骨",
+          "why": "體的左側是骨。",
+          "difference": "體還有右側的豊；骨單獨成字表示骨頭，不能取代完整的體。"
+        }
+      ]
+    },
+    "tip": "身體有骨頭，先找左側骨；再確認右側是豊，讀第三聲。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

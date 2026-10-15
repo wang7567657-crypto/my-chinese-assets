@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第9課_similar_shape_385d2bcf4dab4b4b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "敲",
+    "lessonChars": [
+      "醫",
+      "穿",
+      "袍",
+      "戴",
+      "筒",
+      "啄",
+      "備",
+      "幹",
+      "敲",
+      "毒",
+      "體",
+      "淘",
+      "蘋",
+      "般",
+      "藥"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "敲",
+    "similarChars": [
+      {
+        "char": "高",
+        "similarity": "都含有高的完整輪廓。",
+        "difference": "敲在高的右邊多了攴；高沒有右側的攴。"
+      },
+      {
+        "char": "搞",
+        "similarity": "都含高。",
+        "difference": "敲的高在左、攴在右；搞是扌在左、高在右。"
+      },
+      {
+        "char": "稿",
+        "similarity": "都含高。",
+        "difference": "敲是高加攴；稿是禾加高，高的位置不同。"
+      },
+      {
+        "char": "槁",
+        "similarity": "都含高。",
+        "difference": "敲的攴在右；槁的木在左。槁較少見。"
+      },
+      {
+        "char": "犒",
+        "similarity": "都含高。",
+        "difference": "敲是左高右攴；犒是左牛字旁右高。犒可在犒賞一詞中觀察。"
+      },
+      {
+        "char": "敞",
+        "similarity": "都是左邊有方框、右邊有交叉筆畫的左右結構。",
+        "difference": "敲左邊是高、右邊是攴；敞左邊是尚、右邊是攵。攴與攵的上方寫法不同。"
+      }
+    ],
+    "teachingTip": "先辨認敲左邊的高，再放大右側攴，和敞的攵逐筆比較。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

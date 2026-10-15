@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第9課_confusion_analysis_640c50a04e53a781",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "幹",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "幹",
+    "groups": {
+      "shape": [
+        {
+          "char": "朝",
+          "why": "兩字左側都是十、日、十組成的形體。",
+          "difference": "幹右側是人形下面接干；朝右側是月。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "乾",
+          "why": "近音：樹幹的幹讀ㄍㄢˋ，乾燥的乾讀ㄍㄢ，聲調不同。",
+          "difference": "樹幹是樹木的主要支撐部分；乾燥表示水分少。乾另有其他讀音，這裡只比較乾燥。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "枝",
+          "why": "樹幹和樹枝都是樹木的部分。",
+          "difference": "幹是主要支撐部分；枝是從幹或其他枝條分出的部分，位置不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "翰",
+          "why": "兩字左側相同，右上也都有人形。",
+          "difference": "幹右下是干；翰右下是羽，不能只看左側。"
+        }
+      ]
+    },
+    "tip": "在樹的圖上指出主幹與分枝，再讀「樹幹」的第四聲。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第9課_similar_shape_c912f19f20d92a6e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "淘",
+    "lessonChars": [
+      "醫",
+      "穿",
+      "袍",
+      "戴",
+      "筒",
+      "啄",
+      "備",
+      "幹",
+      "敲",
+      "毒",
+      "體",
+      "淘",
+      "蘋",
+      "般",
+      "藥"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "淘",
+    "similarChars": [
+      {
+        "char": "陶",
+        "similarity": "右邊同為匋。",
+        "difference": "淘左邊是氵；陶左邊是阝。"
+      },
+      {
+        "char": "掏",
+        "similarity": "右邊同為匋。",
+        "difference": "淘左邊是氵；掏左邊是扌。"
+      },
+      {
+        "char": "萄",
+        "similarity": "都含匋。",
+        "difference": "淘是左氵右匋；萄是上艹下匋。"
+      },
+      {
+        "char": "啕",
+        "similarity": "右邊同為匋。",
+        "difference": "淘左邊是氵；啕左邊是口。啕常見於嚎啕。"
+      },
+      {
+        "char": "綯",
+        "similarity": "右邊同為匋。",
+        "difference": "淘左邊是氵；綯左邊是糹。綯較少見。"
+      },
+      {
+        "char": "匋",
+        "similarity": "完整保留淘的右半部。",
+        "difference": "淘在匋左邊加氵；匋沒有氵，是較少見的獨立字。"
+      }
+    ],
+    "teachingTip": "用手遮住右邊相同的匋，比較氵、阝、扌；再觀察萄的艹是在上方。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

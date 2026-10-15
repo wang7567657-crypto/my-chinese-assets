@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第9課_confusion_analysis_66574c05725b5b84",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "醫",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "醫",
+    "groups": {
+      "shape": [
+        {
+          "char": "醬",
+          "why": "兩字下方都有「酉」，上方都較複雜。",
+          "difference": "醫上方是「殹」；醬上方是「將」，不能只看到酉就認字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "衣",
+          "why": "同音：醫生的醫、衣服的衣都讀ㄧ。",
+          "difference": "醫和看病、治療有關；衣指衣服，醫生不能寫成衣生。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "治",
+          "why": "醫治、治療都和處理疾病有關。",
+          "difference": "醫生是職業名稱；治還能用於治理，不能把醫生改成治生。"
+        }
+      ],
+      "component": [
+        {
+          "char": "酪",
+          "why": "兩字都有酉部件，但位置不同。",
+          "difference": "醫的酉在下方；酪的酉在左側，右側是各。"
+        }
+      ]
+    },
+    "tip": "先找下方的酉，再看整個字；用「醫生穿衣服」區分醫與衣。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

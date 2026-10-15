@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_3年級_上學期_第9課_memory_strategy_400eeb2f7c7dc4fe",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "袍",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "袍",
+    "components": [
+      "衤",
+      "包"
+    ],
+    "association": "長袍是衣服，把左邊衣字旁和右邊包連在一起，想像長袍包住身體。這是記字聯想。",
+    "mnemonic": "衣字旁，加個包，醫生穿著白長袍。",
+    "visualPrompt": "呈現標準字形「袍」，左衤右包分色；字旁畫一件白色長袍，不用衣服輪廓取代衤。",
+    "teachingTip": "衤是衣字旁，與衣服有關；對照礻，找出衤多出的撇。再確認右方包裡面是巳。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

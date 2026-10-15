@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第9課_similar_shape_c5636f7bb30fd13a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "體",
+    "lessonChars": [
+      "醫",
+      "穿",
+      "袍",
+      "戴",
+      "筒",
+      "啄",
+      "備",
+      "幹",
+      "敲",
+      "毒",
+      "體",
+      "淘",
+      "蘋",
+      "般",
+      "藥"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "體",
+    "similarChars": [
+      {
+        "char": "禮",
+        "similarity": "右邊同為豊，上方曲形、下方豆形。",
+        "difference": "體左邊是骨；禮左邊是礻。"
+      },
+      {
+        "char": "醴",
+        "similarity": "右邊同為豊。",
+        "difference": "體左邊是骨；醴左邊是酉。醴較少見。"
+      },
+      {
+        "char": "豊",
+        "similarity": "完整保留體的右半部。",
+        "difference": "體在豊的左邊加骨；豊沒有骨旁，是較少見的獨立字。"
+      },
+      {
+        "char": "髓",
+        "similarity": "左邊同為骨，右側筆畫都較多。",
+        "difference": "體右邊是豊；髓右邊含辶，右下有延伸的捺。"
+      },
+      {
+        "char": "髒",
+        "similarity": "左邊同為骨。",
+        "difference": "體右邊是豊；髒右邊是葬，上方有艹。"
+      },
+      {
+        "char": "骼",
+        "similarity": "左邊同為骨。",
+        "difference": "體右邊是豊；骼右邊是各，只有下方一個口。"
+      }
+    ],
+    "teachingTip": "先用兩種顏色區分骨與豊，再比較禮、體的左旁。醴、豊只作進階觀察。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_3年級_上學期_第9課_feature_ai_batch_00ad28887a408c69",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "featureTaskType": "component_split",
+    "featureName": "部件拆分",
+    "itemCount": 15,
+    "batchCharacters": [
+      "醫",
+      "穿",
+      "袍",
+      "戴",
+      "筒",
+      "啄",
+      "備",
+      "幹",
+      "敲",
+      "毒",
+      "體",
+      "淘",
+      "蘋",
+      "般",
+      "藥"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_2d0d250427430f91.json",
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_c0cff5313584bfd0.json",
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_d5a5523dff609d6e.json",
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_71f9504f88542be5.json",
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_6aa970beffc20e22.json",
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_a8de27e1d1b41bd4.json",
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_9ec201a8b9445566.json",
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_e1a16856cf3dffcd.json",
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_9b7120dbc50921a9.json",
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_47889c0223b4e224.json",
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_752a3e0658b9f86b.json",
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_a8aa2ac6ae0f0156.json",
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_3104c9d8dba5f8ff.json",
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_af2a49481dc2bdc4.json",
+      "aiGenerated/component_split/南一_3年級_上學期_第9課_component_split_14ed7d3285e4f957.json"
+    ]
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

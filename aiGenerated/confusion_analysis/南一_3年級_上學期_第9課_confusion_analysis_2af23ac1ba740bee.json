@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第9課_confusion_analysis_2af23ac1ba740bee",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "袍",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "袍",
+    "groups": {
+      "shape": [
+        {
+          "char": "抱",
+          "why": "右側同為包，左側偏旁容易看錯。",
+          "difference": "袍左側是衤；抱左側是扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "跑",
+          "why": "近音：袍讀ㄆㄠˊ，跑步的跑讀ㄆㄠˇ，聲調不同。",
+          "difference": "袍是衣服；跑是移動的動作，白袍不能寫成白跑。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "衫",
+          "why": "袍和衫都指衣物。",
+          "difference": "袍通常指較長的衣服，如長袍、白袍；衫常見於襯衫，詞語不能任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "泡",
+          "why": "兩字右側都是包。",
+          "difference": "袍用衤，和衣物有關；泡用氵，常見於泡水、泡沫。"
+        }
+      ]
+    },
+    "tip": "白袍是衣服，先找衤；讀袍時把第二聲讀清楚。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

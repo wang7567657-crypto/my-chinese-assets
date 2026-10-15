@@ -1,0 +1,66 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_3年級_上學期_第9課_component_split_e1a16856cf3dffcd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "幹",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      3,
+      10
+    ],
+    "strokeGroups": [
+      [
+        11,
+        12,
+        13
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ],
+    "components": [
+      "干",
+      "其餘部分"
+    ],
+    "strokeCount": 13,
+    "radical": "干",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      11,
+      12,
+      13
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "採部首與其餘部分兩組，split為各組筆數；實際筆序依1起算strokeGroups，每筆恰好一次並保留原字位置。",
+    "verification": {
+      "method": "解析來源XML核對Stroke數、Outline無重複、有限合理座標與有效Track；渲染部首分色圖及每筆Track疊圖，逐字視覺核對。Track為描繪導引，不要求每個折點完全位於Outline內。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5e79.xml",
+      "sourceSha256": "61ca8f24d4ab3b0bac769951a702a02d845270f08e84d815e55c4163f11e4539",
+      "checkedAt": "2026-10-15T15:45:31.541913Z"
+    }
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

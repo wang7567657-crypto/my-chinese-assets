@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_3年級_上學期_第9課_feature_ai_batch_68ae28c8f775ab77",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "醫",
+      "穿",
+      "袍",
+      "戴",
+      "筒",
+      "啄",
+      "備",
+      "幹",
+      "敲",
+      "毒",
+      "體",
+      "淘",
+      "蘋",
+      "般",
+      "藥"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_ee211ac5c31cdcf9.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_ea2decb9a5ca4f21.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_7f802275857eb5da.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_c38b0ded5ac8828b.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_ac380311f1fa7438.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_cc39c3679757de05.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_7587478dc49caa28.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_f9c060b861fc7e86.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_385d2bcf4dab4b4b.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_23307431f4420683.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_c5636f7bb30fd13a.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_c912f19f20d92a6e.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_15755ed70a4a4a2c.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_44c81143fa3ec53e.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第9課_similar_shape_710fdff5a9ee59d5.json"
+    ]
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

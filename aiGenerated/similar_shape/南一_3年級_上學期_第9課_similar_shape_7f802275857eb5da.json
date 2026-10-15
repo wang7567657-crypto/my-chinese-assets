@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第9課_similar_shape_7f802275857eb5da",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "袍",
+    "lessonChars": [
+      "醫",
+      "穿",
+      "袍",
+      "戴",
+      "筒",
+      "啄",
+      "備",
+      "幹",
+      "敲",
+      "毒",
+      "體",
+      "淘",
+      "蘋",
+      "般",
+      "藥"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "袍",
+    "similarChars": [
+      {
+        "char": "抱",
+        "similarity": "右邊都保留包的輪廓。",
+        "difference": "袍的左邊是衤；抱的左邊是扌。"
+      },
+      {
+        "char": "泡",
+        "similarity": "右邊都保留包的輪廓。",
+        "difference": "袍的左邊是衤；泡的左邊是氵。"
+      },
+      {
+        "char": "跑",
+        "similarity": "右邊都保留包的輪廓。",
+        "difference": "袍的左邊是衤；跑的左邊是足字旁。"
+      },
+      {
+        "char": "砲",
+        "similarity": "右邊都保留包的輪廓。",
+        "difference": "袍的左邊是衤；砲的左邊是石。"
+      },
+      {
+        "char": "胞",
+        "similarity": "右邊都保留包的輪廓。",
+        "difference": "袍的左邊是衤；胞的左邊是月。"
+      },
+      {
+        "char": "刨",
+        "similarity": "都含有包的完整輪廓。",
+        "difference": "袍是左衤右包；刨是左包右刂，包的位置不同。"
+      }
+    ],
+    "teachingTip": "圈出共同的包，再比左邊。袍的衤有兩點，不要寫成扌或氵。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_3年級_上學期_第9課_memory_strategy_daf7e8d2dfe61482",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "醫",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "醫",
+    "components": [
+      "殹（上方）",
+      "酉（下方）"
+    ],
+    "association": "把上方複雜的殹看成醫生忙著照顧病人的工作區，下方酉像放用品的櫃子。這是記字聯想，不是字源。",
+    "mnemonic": "醫字上殹下酉，醫生照顧好朋友。",
+    "visualPrompt": "呈現標準字形「醫」，將上方殹與下方酉分色；字旁畫穿白袍、關心病人的醫生，不把圖案放進筆畫。",
+    "teachingTip": "先認出下方是酉：框內有短橫，不要寫成西。上方再分成左側匚內的矢與右側殳，分區觀察後完整書寫。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

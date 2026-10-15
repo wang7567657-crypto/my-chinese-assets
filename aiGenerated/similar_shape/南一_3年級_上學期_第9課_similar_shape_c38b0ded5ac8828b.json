@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第9課_similar_shape_c38b0ded5ac8828b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "戴",
+    "lessonChars": [
+      "醫",
+      "穿",
+      "袍",
+      "戴",
+      "筒",
+      "啄",
+      "備",
+      "幹",
+      "敲",
+      "毒",
+      "體",
+      "淘",
+      "蘋",
+      "般",
+      "藥"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "戴",
+    "similarChars": [
+      {
+        "char": "載",
+        "similarity": "都可看到十與斜鉤交錯的大輪廓。",
+        "difference": "戴內部是田與共；載內部是車。"
+      },
+      {
+        "char": "栽",
+        "similarity": "外側都有十與戈形的斜鉤。",
+        "difference": "戴內部有田、共；栽內部是木。"
+      },
+      {
+        "char": "裁",
+        "similarity": "外側都有十與戈形的斜鉤。",
+        "difference": "戴內部有田、共；裁內部是衣。"
+      },
+      {
+        "char": "截",
+        "similarity": "外側都有十與戈形的斜鉤。",
+        "difference": "戴內部有田、共；截內部是隹。"
+      },
+      {
+        "char": "戡",
+        "similarity": "都有右側斜鉤與點，字形較密。",
+        "difference": "戴內有田、共，頂部有十；戡左邊是甚，右邊是戈。戡較少見。"
+      },
+      {
+        "char": "戢",
+        "similarity": "都有戈形的斜鉤，以及方框和密集橫畫。",
+        "difference": "戴內部有田、共；戢的左側可看出口與耳，不是田、共。戢較少見。"
+      }
+    ],
+    "teachingTip": "優先並排戴、載、栽、裁，用色框標出內部部件；不要只憑最後的斜鉤判斷。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

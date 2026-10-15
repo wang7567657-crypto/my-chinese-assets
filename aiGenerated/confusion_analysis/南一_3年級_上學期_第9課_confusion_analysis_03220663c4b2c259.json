@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第9課_confusion_analysis_03220663c4b2c259",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "般",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "般",
+    "groups": {
+      "shape": [
+        {
+          "char": "船",
+          "why": "兩字左側都是舟，右側上方也有相近輪廓。",
+          "difference": "般右側下方是又；船右側下方是口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "搬",
+          "why": "同音：陽光般的般、搬家的搬都讀ㄅㄢ。",
+          "difference": "般在陽光般中表示像那樣；搬表示移動東西，陽光般不能寫成陽光搬。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "像",
+          "why": "陽光般和像陽光一樣都可表達比喻。",
+          "difference": "般接在用來作比喻的事物後面，如陽光般；像通常放在其前面，如像陽光一樣，句型不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "搬",
+          "why": "搬的右側是完整的般。",
+          "difference": "般左側沒有扌；搬是在般左邊加扌。"
+        }
+      ]
+    },
+    "tip": "對讀「陽光般溫暖」和「像陽光一樣溫暖」；般不用加提手旁。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

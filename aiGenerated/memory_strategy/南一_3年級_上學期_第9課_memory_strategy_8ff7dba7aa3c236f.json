@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_3年級_上學期_第9課_memory_strategy_8ff7dba7aa3c236f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "體",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "體",
+    "components": [
+      "骨",
+      "豊（右側，上曲下豆）"
+    ],
+    "association": "骨頭支撐身體，左邊骨提醒身體；右邊上曲下豆，按上下位置記住。這是記字聯想。",
+    "mnemonic": "骨在左，豊在右，曲下有豆記身體。",
+    "visualPrompt": "呈現標準字形「體」，左骨與右豊分色，右方再淡分曲、豆；字旁畫站直、伸展身體的人，不將身體畫入字內。",
+    "teachingTip": "右側是豊，上曲下豆，不是豐。骨的上方形體較複雜，請對照標準範字，不自行改成一般方框。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

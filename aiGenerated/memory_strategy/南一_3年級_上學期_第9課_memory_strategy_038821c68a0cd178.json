@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_3年級_上學期_第9課_memory_strategy_038821c68a0cd178",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "藥",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "藥",
+    "components": [
+      "艹",
+      "樂"
+    ],
+    "association": "想像按醫囑吃藥、休息後，身體漸漸舒服，心情也愉快，用艹下樂幫助記字。這是聯想，不是字源，也不表示吃藥一定立即痊癒。",
+    "mnemonic": "草字頭，下面樂，藥字上下別寫錯。",
+    "visualPrompt": "呈現標準字形「藥」，上艹下樂分色；字旁畫醫生交代用藥與休息的小圖，不把藥丸畫成字的筆畫。",
+    "teachingTip": "先認出草字頭與樂，再觀察樂中央的白、兩側細部和下方木，依標準範字書寫；提醒學生依醫師或藥師指示用藥。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

@@ -1,0 +1,67 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_3年級_上學期_第9課_component_split_af2a49481dc2bdc4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "般",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      6,
+      4
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      [
+        7,
+        8,
+        9,
+        10
+      ]
+    ],
+    "components": [
+      "舟",
+      "其餘部分"
+    ],
+    "strokeCount": 10,
+    "radical": "舟",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "採部首與其餘部分兩組，split為各組筆數；實際筆序依1起算strokeGroups，每筆恰好一次並保留原字位置。",
+    "verification": {
+      "method": "解析來源XML核對Stroke數、Outline無重複、有限合理座標與有效Track；渲染部首分色圖及每筆Track疊圖，逐字視覺核對。Track為描繪導引，不要求每個折點完全位於Outline內。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/822c.xml",
+      "sourceSha256": "2fef56075e79c258280777c83b454a9a233c6a00d9d9abefe880b2e0edd0fe85",
+      "checkedAt": "2026-10-15T15:45:31.541913Z",
+      "radicalReferenceUrl": "https://sutian.moe.edu.tw/zh-hant/poosiu/poosiu/137/%E8%88%AC/"
+    }
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

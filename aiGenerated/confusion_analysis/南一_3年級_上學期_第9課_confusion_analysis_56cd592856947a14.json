@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第9課_confusion_analysis_56cd592856947a14",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "戴",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "戴",
+    "groups": {
+      "shape": [
+        {
+          "char": "載",
+          "why": "兩字外圍都有相近的十、戈形，筆畫密集。",
+          "difference": "戴內側有異；載內側是車。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "帶",
+          "why": "同音：戴帽子的戴、帶東西的帶都讀ㄉㄞˋ。",
+          "difference": "戴表示把物品加在身上；帶可表示攜帶，戴帽子和帶帽子來的意思不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "穿",
+          "why": "都是把衣物或用品放到身上的動作。",
+          "difference": "通常說戴眼鏡、戴帽子、穿白袍；依物品與使用方式選字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "異",
+          "why": "戴的字形內側包含異的形體。",
+          "difference": "戴還有外圍的十、戈形；異沒有這些外圍筆畫。"
+        }
+      ]
+    },
+    "tip": "把「戴在身上」和「帶來教室」放在兩句中比較，再看戴裡面的異。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

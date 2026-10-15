@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第9課_confusion_analysis_61b351d5343ae4e8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "備",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "備",
+    "groups": {
+      "shape": [
+        {
+          "char": "憊",
+          "why": "憊的上方包含完整的備，容易只看上半部。",
+          "difference": "備下方沒有心；憊在備的下方還加心。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "背",
+          "why": "同音：準備的備、背部的背都讀ㄅㄟˋ。",
+          "difference": "備表示預先安排或具備；背部的背指身體後面。「背書」的背也讀ㄅㄟˋ；「背著書包」的背讀ㄅㄟ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "防",
+          "why": "準備和預防都可能是在事情發生以前採取行動。",
+          "difference": "備是預先安排所需事物；防是避免危險或問題發生，準備不一定是在防止事情。"
+        }
+      ],
+      "component": [
+        {
+          "char": "借",
+          "why": "兩字左側都有亻。",
+          "difference": "備右側下方有用形；借右側是昔，下方是日。"
+        }
+      ]
+    },
+    "tip": "把「準備工具」連成詞；寫完檢查左側亻，別多加心變成憊。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第9課_similar_shape_f9c060b861fc7e86",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "幹",
+    "lessonChars": [
+      "醫",
+      "穿",
+      "袍",
+      "戴",
+      "筒",
+      "啄",
+      "備",
+      "幹",
+      "敲",
+      "毒",
+      "體",
+      "淘",
+      "蘋",
+      "般",
+      "藥"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "幹",
+    "similarChars": [
+      {
+        "char": "乾",
+        "similarity": "左邊同為十、日、十組成的龺。",
+        "difference": "幹右邊是人下面接干；乾右邊是乞。"
+      },
+      {
+        "char": "韓",
+        "similarity": "左邊同為龺。",
+        "difference": "幹右邊是人、干；韓右邊是韋。"
+      },
+      {
+        "char": "斡",
+        "similarity": "左邊同為龺，右上都有人的形狀。",
+        "difference": "幹右下是干；斡右下是斗。斡較少見。"
+      },
+      {
+        "char": "翰",
+        "similarity": "左邊同為龺，右上都有人的形狀。",
+        "difference": "幹右下是干；翰右下是羽。"
+      },
+      {
+        "char": "榦",
+        "similarity": "左邊同為龺，右上都有人的形狀。",
+        "difference": "幹右下是干；榦右下是木。榦較少見，部分用法與幹相通；本課寫幹。"
+      },
+      {
+        "char": "朝",
+        "similarity": "左邊同為龺。",
+        "difference": "幹右邊是人、干；朝右邊是月。"
+      }
+    ],
+    "teachingTip": "先固定左邊的十、日、十，再集中比較右半部。幹的右下是干，不是木或羽。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

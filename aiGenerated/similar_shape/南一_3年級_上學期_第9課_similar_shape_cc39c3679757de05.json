@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第9課_similar_shape_cc39c3679757de05",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "啄",
+    "lessonChars": [
+      "醫",
+      "穿",
+      "袍",
+      "戴",
+      "筒",
+      "啄",
+      "備",
+      "幹",
+      "敲",
+      "毒",
+      "體",
+      "淘",
+      "蘋",
+      "般",
+      "藥"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "啄",
+    "similarChars": [
+      {
+        "char": "琢",
+        "similarity": "右邊同為豖。",
+        "difference": "啄左邊是口；琢左邊是王字旁。"
+      },
+      {
+        "char": "諑",
+        "similarity": "右邊同為豖。",
+        "difference": "啄左邊是口；諑左邊是言。諑較少見。"
+      },
+      {
+        "char": "豚",
+        "similarity": "右邊的豕與豖輪廓接近。",
+        "difference": "啄左口右豖；豚左月右豕。注意豖中間多出的點。"
+      },
+      {
+        "char": "逐",
+        "similarity": "都有豕形的主體。",
+        "difference": "啄是口加豖；逐是辶托住豕，沒有口旁，主體也少了豖中間的點。"
+      },
+      {
+        "char": "冢",
+        "similarity": "都含豖。",
+        "difference": "啄的口在左邊；冢的冖在上方。冢較少見。"
+      },
+      {
+        "char": "家",
+        "similarity": "下部的豕與啄右邊的豖相近。",
+        "difference": "啄左口右豖；家上宀下豕。除了位置不同，也要看豖中間的點。"
+      }
+    ],
+    "teachingTip": "用放大字形找出啄右邊豖中間的點，再比較啄、琢的左旁。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}
