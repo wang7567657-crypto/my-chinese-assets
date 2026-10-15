@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第4課_confusion_analysis_3da0b338cd3d1735",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "業",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "業",
+    "groups": {
+      "shape": [
+        {
+          "char": "叢",
+          "why": "上方密集的直筆、點撇及橫筆輪廓相近",
+          "difference": "業下方有向左右伸展的撇捺；叢下方可見取，不是業的下半部。"
+        },
+        {
+          "char": "樸",
+          "why": "右上方有與業上方相近的密集筆畫",
+          "difference": "業是單獨一字；樸左木、右菐，右下是三橫與撇捺的形狀。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "葉",
+          "why": "同音ㄧㄝˋ。",
+          "difference": "作業是要完成的學習任務；葉是樹葉。"
+        },
+        {
+          "char": "夜",
+          "why": "同音ㄧㄝˋ。",
+          "difference": "作業寫業；夜晚寫夜。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "功",
+          "why": "作業和功課都和學習任務有關。",
+          "difference": "作業寫業；功課寫功。這是不同詞語，不能把作業寫成作功。"
+        }
+      ],
+      "component": [
+        {
+          "char": "菐",
+          "why": "上半部相近，容易把下半部照抄。",
+          "difference": "業下方要看清中央直筆與撇捺；菐下方為三橫與撇捺的形狀。菐是罕見部件字，不要求背讀。"
+        }
+      ]
+    },
+    "tip": "以標準楷體並排觀察上方與下方，勿把樸、僕的完整右部件直接叫作業。少見部件字不要求讀寫。"
+  },
+  "createdAt": "2026-10-15T01:38:01.536388+00:00"
+}

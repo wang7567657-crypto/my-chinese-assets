@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第4課_confusion_analysis_e9e5e71371829b50",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "逗",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "逗",
+    "groups": {
+      "shape": [
+        {
+          "char": "豆",
+          "why": "是逗裡面的完整部件",
+          "difference": "逗比豆多辶。"
+        },
+        {
+          "char": "短",
+          "why": "右邊同是豆",
+          "difference": "逗用辶承托豆；短左邊是矢。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "豆",
+          "why": "同音ㄉㄡˋ，而且豆是逗的內部件。",
+          "difference": "逗留要寫辶；豆子不加辶。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "停",
+          "why": "逗留和停留意思相近。",
+          "difference": "逗留是停下來一段時間；逗另有逗笑等用法。學習詞語時要把逗留整組認讀。"
+        }
+      ],
+      "component": [
+        {
+          "char": "豆",
+          "why": "容易只記住內部豆而漏掉辶。",
+          "difference": "逗的辶在左下承托豆；豆本身沒有走之旁。"
+        }
+      ]
+    },
+    "tip": "先框出完整的豆，再用手指沿辶走一遍，避免漏寫走之旁。"
+  },
+  "createdAt": "2026-10-15T01:38:01.536388+00:00"
+}

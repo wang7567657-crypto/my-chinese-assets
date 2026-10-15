@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第4課_similar_shape_7f4d3ba8aa580b2a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "緊",
+    "lessonChars": [
+      "指",
+      "夕",
+      "賽",
+      "緊",
+      "店",
+      "逗",
+      "轉",
+      "露",
+      "業",
+      "專",
+      "勝",
+      "利",
+      "悅",
+      "乖",
+      "溫"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "緊",
+    "similarChars": [
+      {
+        "char": "堅",
+        "similarity": "上方同是臤（臣、又）",
+        "difference": "緊下糸；堅下土。"
+      },
+      {
+        "char": "豎",
+        "similarity": "上方同是臤",
+        "difference": "緊下糸；豎下豆。"
+      },
+      {
+        "char": "賢",
+        "similarity": "上方同是臤",
+        "difference": "緊下糸；賢下貝。"
+      },
+      {
+        "char": "腎",
+        "similarity": "上方同是臤",
+        "difference": "緊下糸；腎下月形。"
+      },
+      {
+        "char": "竪",
+        "similarity": "上方同是臤",
+        "difference": "緊下糸；竪下立。竪為豎的異體字，非本課練寫目標。"
+      },
+      {
+        "char": "繫",
+        "similarity": "都是上方較繁複、下方糸的上下結構",
+        "difference": "緊上方左邊是臣；繫上方可見車形等筆畫，不能只看下方糸。"
+      }
+    ],
+    "teachingTip": "先辨上方臣、又，再看下方糸；不要因上半部相同就猜成堅。"
+  },
+  "createdAt": "2026-10-15T01:38:01.536388+00:00"
+}

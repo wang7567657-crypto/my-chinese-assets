@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_3年級_上學期_第4課_memory_strategy_8985e67b2a5595fc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "利",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "利",
+    "components": [
+      "禾",
+      "刂"
+    ],
+    "association": "想像穀物旁放著一把收割工具，用禾和刂記住左右位置，再回到課文勝利一詞。",
+    "mnemonic": "左禾右立刀，勝利字記牢。",
+    "visualPrompt": "標準楷體「利」旁畫穀物和收割工具，工具安全置於地面；字內框出左禾、右刂，不改字形。",
+    "teachingTip": "本課詞義是勝利；穀物和工具只用來記部件，不把收割情境當成本課詞義。注意禾的撇捺與刂的直筆。"
+  },
+  "createdAt": "2026-10-15T01:38:01.536388+00:00"
+}

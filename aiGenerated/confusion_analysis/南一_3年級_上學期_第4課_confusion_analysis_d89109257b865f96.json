@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第4課_confusion_analysis_d89109257b865f96",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "賽",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "賽",
+    "groups": {
+      "shape": [
+        {
+          "char": "塞",
+          "why": "上方及中間輪廓相同",
+          "difference": "賽下方是貝；塞下方是土。"
+        },
+        {
+          "char": "寒",
+          "why": "上方宀及中間交錯橫豎的輪廓相近",
+          "difference": "賽下方是貝；寒下方是兩點。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "塞",
+          "why": "「邊塞」的塞也讀ㄙㄞˋ。",
+          "difference": "比賽寫下有貝的賽；邊塞寫下有土的塞。「阻塞」的塞則讀ㄙㄜˋ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "比",
+          "why": "都可用來說比較高低。",
+          "difference": "比可比較大小、長短；賽偏向競賽，常和比組成比賽。"
+        }
+      ],
+      "component": [
+        {
+          "char": "塞",
+          "why": "上半部相同，要辨底部。",
+          "difference": "賽底下貝有目形及下方兩筆；塞底下土只有三畫。"
+        }
+      ]
+    },
+    "tip": "遮住共同的上半部，只辨下方貝、土、木或其他部件；少見字僅供比較，不列入默寫。"
+  },
+  "createdAt": "2026-10-15T01:38:01.536388+00:00"
+}
