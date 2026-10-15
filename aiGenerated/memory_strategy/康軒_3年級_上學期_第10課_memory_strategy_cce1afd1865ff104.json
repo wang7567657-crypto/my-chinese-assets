@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第10課_memory_strategy_cce1afd1865ff104",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "狐",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "狐",
+    "components": [
+      "犭",
+      "瓜"
+    ],
+    "association": "把「犭」當作動物提醒，右邊牢記「瓜」，想起故事裡的狐狸。這是記憶聯想，不是字源解釋。",
+    "mnemonic": "左犭右瓜，狐狸藏在字裡。",
+    "visualPrompt": "中央呈現清楚、完整的標準繁體「狐」字；依上述聯想在字旁放小插圖，插圖不取代筆畫、不改動字形、不遮住任何筆畫。",
+    "teachingTip": "右邊同為瓜，但狐左犭、孤左子；辨清左偏旁。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

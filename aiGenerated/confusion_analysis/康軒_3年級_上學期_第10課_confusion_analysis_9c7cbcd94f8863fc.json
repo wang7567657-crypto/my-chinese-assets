@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_9c7cbcd94f8863fc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "踢",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "踢",
+    "groups": {
+      "shape": [
+        {
+          "char": "惕",
+          "why": "右邊都是易，容易只看共同部分。",
+          "difference": "踢左邊是足，表示腳的動作；惕左邊是忄，如警惕，和心裡保持小心有關。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "梯",
+          "why": "踢和梯都讀ㄊㄧ。",
+          "difference": "踢球是動作，用足旁；樓梯是供人上下的設施，用木旁。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "踩",
+          "why": "兩字都與腳的動作有關。",
+          "difference": "踢著重用腳擊碰，如踢球；踩著重把腳踏在物體上，如踩地板。動作不同，不能隨意交換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "易",
+          "why": "踢右邊是易，可能誤用部件的讀音讀整字。",
+          "difference": "易單字可讀ㄧˋ，如容易；踢加上足旁後讀ㄊㄧ，不能念成ㄧˋ。易下方是勿形，不要添成另一個部件。"
+        }
+      ]
+    },
+    "tip": "用腳踢，所以看足旁；踢讀ㄊㄧ，不因右邊是易就讀ㄧˋ。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_1b045a3bdc3dd57e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "里",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "里",
+    "groups": {
+      "shape": [
+        {
+          "char": "理",
+          "why": "理的右半部完整保留里，快速看字容易漏看左旁。",
+          "difference": "里本身沒有左偏旁；理左邊另有王形的玉旁，如道理。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "裡",
+          "why": "里和裡都讀ㄌㄧˇ，單聽聲音無法分辨。",
+          "difference": "萬里無雲、公里用里；書包裡、屋子裡用衤旁的裡。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "裡",
+          "why": "兩字常因同音而被誤認為意思也相同。",
+          "difference": "本課萬里的里與距離有關；裡表示內部。萬里無雲要寫里，不能寫成萬裡無雲。"
+        }
+      ],
+      "component": [
+        {
+          "char": "狸",
+          "why": "狸的右半部是里，容易把部件和整字混為一談。",
+          "difference": "里單字讀ㄌㄧˇ；加犭成狸，單字讀ㄌㄧˊ。多了一個部件，字義和聲調都不同。"
+        }
+      ]
+    },
+    "tip": "「萬里」的里沒有左旁。中央豎筆貫穿上下；觀察田、土形時，不要把共用的筆畫重寫。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

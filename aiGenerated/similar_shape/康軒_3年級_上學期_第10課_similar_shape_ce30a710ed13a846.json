@@ -1,0 +1,72 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第10課_similar_shape_ce30a710ed13a846",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "里",
+    "lessonChars": [
+      "狐",
+      "里",
+      "兄",
+      "密",
+      "入",
+      "呀",
+      "踢",
+      "棄",
+      "酸",
+      "鴉",
+      "肉",
+      "塊",
+      "計",
+      "壯",
+      "狸",
+      "萬"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "里",
+    "similarChars": [
+      {
+        "char": "理",
+        "similarity": "理的右半是完整的「里」。",
+        "difference": "里左邊沒有偏旁；理在左邊加「王」旁。"
+      },
+      {
+        "char": "狸",
+        "similarity": "狸的右半是完整的「里」。",
+        "difference": "里左邊沒有偏旁；狸在左邊加反犬旁「犭」。"
+      },
+      {
+        "char": "埋",
+        "similarity": "埋的右半是完整的「里」。",
+        "difference": "里左邊沒有偏旁；埋在左邊加「土」。"
+      },
+      {
+        "char": "哩",
+        "similarity": "哩的右半是完整的「里」。",
+        "difference": "里左邊沒有偏旁；哩在左邊加「口」。"
+      },
+      {
+        "char": "裡",
+        "similarity": "裡的右半是完整的「里」。",
+        "difference": "里左邊沒有偏旁；裡在左邊加衣字旁「衤」，不是示字旁。"
+      },
+      {
+        "char": "量",
+        "similarity": "量的下半是「里」。",
+        "difference": "里上方沒有其他部件；量在里上面多了「日」和一橫。"
+      }
+    ],
+    "teachingTip": "先認完整的里，再玩加偏旁辨字：王旁成理、反犬旁成狸、土旁成埋。里獨立成字時，不要多加偏旁；裡的左邊則要寫衣字旁。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

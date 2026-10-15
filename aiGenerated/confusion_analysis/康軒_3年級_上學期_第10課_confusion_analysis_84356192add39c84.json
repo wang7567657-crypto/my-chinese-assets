@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_84356192add39c84",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "兄",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "兄",
+    "groups": {
+      "shape": [
+        {
+          "char": "只",
+          "why": "上方都是口，下方都有向兩邊伸展的筆畫。",
+          "difference": "兄下方是儿形，右筆彎轉帶鉤；只下方是八形，沒有兄的豎彎鉤。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "胸",
+          "why": "兄和胸都讀ㄒㄩㄥ。",
+          "difference": "兄弟的兄指哥哥；胸口的胸指身體部位。聲音相同，不能交換使用。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "弟",
+          "why": "兄、弟都稱呼同一輩的男性親屬，容易把長幼關係弄反。",
+          "difference": "在本課兄弟關係中，兄是哥哥，年紀較大；弟是弟弟，年紀較小。"
+        }
+      ],
+      "component": [
+        {
+          "char": "祝",
+          "why": "祝的右邊含有完整的兄形。",
+          "difference": "兄單獨寫時只有口和儿；祝左邊另外有礻，如祝福，不能把礻加進兄弟的兄。"
+        }
+      ]
+    },
+    "tip": "先記「兄是哥哥」，再看「口下是儿」；兄與只要比較下方的收筆。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

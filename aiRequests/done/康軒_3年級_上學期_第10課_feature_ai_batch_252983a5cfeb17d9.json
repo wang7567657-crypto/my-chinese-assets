@@ -1,0 +1,287 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_3年級_上學期_第10課_feature_ai_batch_252983a5cfeb17d9",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 16,
+    "batchCharacters": [
+      "狐",
+      "里",
+      "兄",
+      "密",
+      "入",
+      "呀",
+      "踢",
+      "棄",
+      "酸",
+      "鴉",
+      "肉",
+      "塊",
+      "計",
+      "壯",
+      "狸",
+      "萬"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_a7d3d109cb749e6a",
+        "input": {
+          "char": "狐",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_1b045a3bdc3dd57e",
+        "input": {
+          "char": "里",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_84356192add39c84",
+        "input": {
+          "char": "兄",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_b538af60bb80c083",
+        "input": {
+          "char": "密",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_56fb1832b6839b0c",
+        "input": {
+          "char": "入",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_db32b90f769bcc3c",
+        "input": {
+          "char": "呀",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_9c7cbcd94f8863fc",
+        "input": {
+          "char": "踢",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_84cb6e12642d977a",
+        "input": {
+          "char": "棄",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_8000f6b6f96b9df3",
+        "input": {
+          "char": "酸",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_cbe2d086ab7e0c04",
+        "input": {
+          "char": "鴉",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_418f01149b799425",
+        "input": {
+          "char": "肉",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_aeac7fdff34a57e1",
+        "input": {
+          "char": "塊",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_6c5bc053f082cab3",
+        "input": {
+          "char": "計",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_97320789123500b4",
+        "input": {
+          "char": "壯",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_282398566aef3d54",
+        "input": {
+          "char": "狸",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_5acf2a78edcc5605",
+        "input": {
+          "char": "萬",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z",
+  "processedAt": "2026-10-15T21:31:18.181627Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "康軒_3年級_上學期_第10課_feature_ai_batch_252983a5cfeb17d9",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "康軒",
+      "grade": "3年級",
+      "semester": "上學期",
+      "lesson": "第10課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 16,
+      "batchCharacters": [
+        "狐",
+        "里",
+        "兄",
+        "密",
+        "入",
+        "呀",
+        "踢",
+        "棄",
+        "酸",
+        "鴉",
+        "肉",
+        "塊",
+        "計",
+        "壯",
+        "狸",
+        "萬"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 16,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_a7d3d109cb749e6a.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_1b045a3bdc3dd57e.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_84356192add39c84.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_b538af60bb80c083.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_56fb1832b6839b0c.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_db32b90f769bcc3c.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_9c7cbcd94f8863fc.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_84cb6e12642d977a.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_8000f6b6f96b9df3.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_cbe2d086ab7e0c04.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_418f01149b799425.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_aeac7fdff34a57e1.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_6c5bc053f082cab3.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_97320789123500b4.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_282398566aef3d54.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第10課_confusion_analysis_5acf2a78edcc5605.json"
+      ]
+    },
+    "createdAt": "2026-10-15T21:31:18.181627Z"
+  }
+}

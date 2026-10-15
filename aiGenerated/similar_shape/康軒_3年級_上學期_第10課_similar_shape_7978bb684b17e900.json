@@ -1,0 +1,72 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第10課_similar_shape_7978bb684b17e900",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "塊",
+    "lessonChars": [
+      "狐",
+      "里",
+      "兄",
+      "密",
+      "入",
+      "呀",
+      "踢",
+      "棄",
+      "酸",
+      "鴉",
+      "肉",
+      "塊",
+      "計",
+      "壯",
+      "狸",
+      "萬"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "塊",
+    "similarChars": [
+      {
+        "char": "鬼",
+        "similarity": "塊的右半就是「鬼」。",
+        "difference": "鬼左邊沒有偏旁；塊在鬼左邊加土。"
+      },
+      {
+        "char": "愧",
+        "similarity": "右邊同樣是「鬼」。",
+        "difference": "塊左邊是土；愧左邊是豎心旁「忄」。"
+      },
+      {
+        "char": "槐",
+        "similarity": "右邊同樣是「鬼」。",
+        "difference": "塊左邊是土；槐左邊是木。"
+      },
+      {
+        "char": "瑰",
+        "similarity": "右邊同樣是「鬼」。",
+        "difference": "塊左邊是土；瑰左邊是王旁，有三橫。"
+      },
+      {
+        "char": "魂",
+        "similarity": "右邊同樣是「鬼」。",
+        "difference": "塊左邊是土；魂左邊是云。"
+      },
+      {
+        "char": "魄",
+        "similarity": "右邊同樣是「鬼」。",
+        "difference": "塊左邊是土；魄左邊是白。"
+      }
+    ],
+    "teachingTip": "先圈出六字共同的鬼，再用土、忄、木、王、云、白分類。肉塊的塊用土旁，土旁只有兩橫，不要多寫成王旁。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

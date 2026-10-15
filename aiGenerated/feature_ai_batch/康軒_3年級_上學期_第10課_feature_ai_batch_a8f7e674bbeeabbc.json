@@ -1,0 +1,57 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_3年級_上學期_第10課_feature_ai_batch_a8f7e674bbeeabbc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 16,
+    "batchCharacters": [
+      "狐",
+      "里",
+      "兄",
+      "密",
+      "入",
+      "呀",
+      "踢",
+      "棄",
+      "酸",
+      "鴉",
+      "肉",
+      "塊",
+      "計",
+      "壯",
+      "狸",
+      "萬"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 16,
+    "resultPaths": [
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_6acbd83a8a759be3.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_ce30a710ed13a846.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_96119c89813eddc9.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_b56a88d761cf65cd.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_9d66b92d15458a67.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_cb41cc5bcbb416a2.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_0926d09f0ceffdbd.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_842c10c7d8f0ef20.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_2963a5ce5144fdbd.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_d574f542aa2849f4.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_569abbfd6722521b.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_7978bb684b17e900.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_cd3f24ec5600890e.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_952f14c38d06bbba.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_df610bf4cd0cee2c.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第10課_similar_shape_d6eaeb439da60491.json"
+    ]
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

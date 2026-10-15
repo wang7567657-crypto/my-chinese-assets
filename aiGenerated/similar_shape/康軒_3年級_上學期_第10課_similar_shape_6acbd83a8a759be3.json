@@ -1,0 +1,72 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第10課_similar_shape_6acbd83a8a759be3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "狐",
+    "lessonChars": [
+      "狐",
+      "里",
+      "兄",
+      "密",
+      "入",
+      "呀",
+      "踢",
+      "棄",
+      "酸",
+      "鴉",
+      "肉",
+      "塊",
+      "計",
+      "壯",
+      "狸",
+      "萬"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "狐",
+    "similarChars": [
+      {
+        "char": "孤",
+        "similarity": "右邊同樣是「瓜」。",
+        "difference": "狐左邊是反犬旁「犭」；孤左邊是「子」。"
+      },
+      {
+        "char": "弧",
+        "similarity": "右邊同樣是「瓜」。",
+        "difference": "狐左邊是「犭」；弧左邊是「弓」。"
+      },
+      {
+        "char": "呱",
+        "similarity": "右邊同樣是「瓜」。",
+        "difference": "狐左邊是「犭」；呱左邊是「口」。"
+      },
+      {
+        "char": "瓜",
+        "similarity": "狐的右半與瓜相同。",
+        "difference": "瓜是獨體字；狐在瓜的左邊加上「犭」。"
+      },
+      {
+        "char": "抓",
+        "similarity": "右邊的「瓜」與「爪」都有向下伸展的長筆畫。",
+        "difference": "狐是「犭＋瓜」，抓是「扌＋爪」；瓜中有豎挑與點，爪中是直豎，不可混寫。"
+      },
+      {
+        "char": "瓠",
+        "similarity": "右邊同樣是「瓜」。",
+        "difference": "狐左邊是「犭」；瓠左邊是「夸」。瓠較少見，可作延伸辨形。"
+      }
+    ],
+    "teachingTip": "先把「狐、孤、弧、呱」相同的瓜圈起來，再比較左旁。狐狸是動物，狐用反犬旁；尤其別把瓜寫成爪。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

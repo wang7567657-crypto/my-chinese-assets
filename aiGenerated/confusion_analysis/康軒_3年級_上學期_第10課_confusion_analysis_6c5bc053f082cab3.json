@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_6c5bc053f082cab3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "計",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "計",
+    "groups": {
+      "shape": [
+        {
+          "char": "汁",
+          "why": "右邊都是十，左旁容易寫錯。",
+          "difference": "計左邊是言，如妙計；汁左邊是氵，如果汁。言旁下方有口，不能簡寫成三點水。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "記",
+          "why": "計和記都讀ㄐㄧˋ，也都是言旁。",
+          "difference": "計右邊是十，如計畫、妙計；記右邊是己，如記住、日記。要再檢查右半部。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "策",
+          "why": "在表示辦法時，計與策意思接近。",
+          "difference": "本課妙計表示巧妙的辦法；對策、良策也說辦法，但固定搭配不同。妙計不能因近義就任意改字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "什",
+          "why": "計與什右邊都是十。",
+          "difference": "計左邊是言，什左邊是亻；共同的十只是一部分，不能據此把兩字讀音或意思當成相同。"
+        }
+      ]
+    },
+    "tip": "妙計是辦法；記住是留在記憶裡。兩字同音同偏旁，最重要看「十」和「己」。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

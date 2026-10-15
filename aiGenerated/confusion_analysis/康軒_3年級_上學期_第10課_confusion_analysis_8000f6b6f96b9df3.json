@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_8000f6b6f96b9df3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "酸",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "酸",
+    "groups": {
+      "shape": [
+        {
+          "char": "俊",
+          "why": "右邊都是夋，左旁不同。",
+          "difference": "酸左邊是酉，如酸味；俊左邊是亻，如英俊。不要只看右邊就認字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "算",
+          "why": "酸ㄙㄨㄢ和算ㄙㄨㄢˋ只有聲調不同。",
+          "difference": "葡萄很酸的酸讀第一聲；計算的算讀第四聲。前者說味道，後者說算數。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "甜",
+          "why": "兩字都是描述味道的字，容易把故事中的判斷記反。",
+          "difference": "酸像檸檬或醋帶來的味道；甜像糖的味道。說葡萄酸與說葡萄甜，意思不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "酒",
+          "why": "酸和酒都含有酉部件，但位置不同。",
+          "difference": "酸的酉在左邊；酒的酉在右邊，左邊另有氵。酉裡有短橫，不要把它寫成西。"
+        }
+      ]
+    },
+    "tip": "左酉右夋是酸；讀第一聲ㄙㄨㄢ。寫前先想是在說味道，還是在做計算。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

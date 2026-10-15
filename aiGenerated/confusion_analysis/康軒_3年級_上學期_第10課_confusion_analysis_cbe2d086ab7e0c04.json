@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_cbe2d086ab7e0c04",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鴉",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鴉",
+    "groups": {
+      "shape": [
+        {
+          "char": "鴨",
+          "why": "兩字右邊都是鳥，左邊輪廓接近。",
+          "difference": "鴉左邊是牙，鴨左邊是甲；烏鴉不能寫成烏鴨。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鴨",
+          "why": "鴉和鴨都讀ㄧㄚ，又同是鳥類名稱。",
+          "difference": "烏鴉用牙旁的鴉；鴨子用甲旁的鴨。聽音相同時，要靠詞義和左邊部件分辨。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "鳥",
+          "why": "鴉屬於鳥類，容易把類別名稱與特定名稱混用。",
+          "difference": "鳥是較大的類別；鴉指烏鴉。所有烏鴉都是鳥，但不能把所有鳥都叫作鴉。"
+        }
+      ],
+      "component": [
+        {
+          "char": "牙",
+          "why": "牙是鴉的左邊部件，但部件義不等於整字義。",
+          "difference": "牙單獨指牙齒；鴉右邊另有鳥，整字指烏鴉，不能把這個部件聯想成烏鴉長牙。"
+        }
+      ]
+    },
+    "tip": "鳥名「烏鴉」看右邊鳥，再用左牙分辨同音的鴨；不要用「抓呀」的呀來代替。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

@@ -1,0 +1,72 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第10課_similar_shape_d574f542aa2849f4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "鴉",
+    "lessonChars": [
+      "狐",
+      "里",
+      "兄",
+      "密",
+      "入",
+      "呀",
+      "踢",
+      "棄",
+      "酸",
+      "鴉",
+      "肉",
+      "塊",
+      "計",
+      "壯",
+      "狸",
+      "萬"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "鴉",
+    "similarChars": [
+      {
+        "char": "鴨",
+        "similarity": "右邊同樣是「鳥」。",
+        "difference": "鴉左邊是牙；鴨左邊是甲，中間直豎穿出田形的下方。"
+      },
+      {
+        "char": "鵝",
+        "similarity": "右邊同樣是「鳥」。",
+        "difference": "鴉左邊是牙；鵝左邊是我，有斜鉤和點。"
+      },
+      {
+        "char": "鳴",
+        "similarity": "右邊同樣是「鳥」。",
+        "difference": "鴉左邊是牙；鳴左邊是口。"
+      },
+      {
+        "char": "鳥",
+        "similarity": "鴉的右半就是「鳥」。",
+        "difference": "鳥獨立成字；鴉在鳥左邊加牙。"
+      },
+      {
+        "char": "雅",
+        "similarity": "左邊同樣是「牙」。",
+        "difference": "鴉右邊是鳥，下方有四點；雅右邊是隹，下方沒有四點。"
+      },
+      {
+        "char": "牙",
+        "similarity": "鴉的左半就是「牙」。",
+        "difference": "牙右邊沒有其他部件；鴉在牙右邊加鳥。"
+      }
+    ],
+    "teachingTip": "烏鴉的鴉是左牙右鳥。先用手遮住鳥比較鴉、鴨、鵝，再看鴉與雅的右半，確認鳥下面的四點。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

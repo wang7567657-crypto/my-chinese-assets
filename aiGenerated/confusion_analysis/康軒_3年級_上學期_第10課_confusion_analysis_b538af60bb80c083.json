@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_b538af60bb80c083",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "密",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "密",
+    "groups": {
+      "shape": [
+        {
+          "char": "蜜",
+          "why": "上方同樣有宀和必，只有最下方明顯不同。",
+          "difference": "密下方是山，如祕密；蜜下方是虫，如蜂蜜。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蜜",
+          "why": "密與蜜都讀ㄇㄧˋ，而且上半部也相同。",
+          "difference": "要保守的祕密用密；蜜蜂釀的蜂蜜用蜜。先判斷意思，再看下面是山還是虫。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "祕",
+          "why": "祕與密都與不公開有關，也一起出現在祕密中。",
+          "difference": "課文的祕密是固定詞語，先寫祕，再寫密；密還能用在濃密、密集，不能一律換成祕。"
+        }
+      ],
+      "component": [
+        {
+          "char": "必",
+          "why": "密的中間有必，抄寫時容易把中間當成心。",
+          "difference": "必有穿過中間的撇，不能省成心；完整的密還有上方宀和下方山。"
+        }
+      ]
+    },
+    "tip": "記住「祕密在山下、蜂蜜有虫旁」只是辨形聯想；寫密時依序檢查宀、必、山。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}
