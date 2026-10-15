@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第9課_confusion_analysis_002a4823bfe21b26",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蝦",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蝦",
+    "groups": {
+      "shape": [
+        {
+          "char": "暇",
+          "why": "兩字右邊相同，左邊的虫與日容易看漏。",
+          "difference": "蝦左邊是虫，表示水中動物；暇左邊是日，用在空暇、閒暇。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "瞎",
+          "why": "魚蝦的蝦與瞎猜的瞎都讀ㄒㄧㄚ。",
+          "difference": "水中的蝦用虫旁；瞎猜表示沒有根據地亂猜，用目旁的瞎。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "魚",
+          "why": "魚與蝦都生活在水中，也常合成魚蝦。",
+          "difference": "蝦有外殼和步足，魚有鰭，是不同類的動物；魚蝦是一起提到兩類動物，不能把兩字當成同義字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "假",
+          "why": "蝦與假右邊都是叚，容易把左旁寫錯。",
+          "difference": "蝦左邊是虫；假左邊是亻，用在真假、假日。共同部件相同，不代表整字的意思與讀音相同。"
+        }
+      ]
+    },
+    "tip": "魚蝦的蝦讀ㄒㄧㄚ，左邊是虫旁；蝦雖有虫旁，卻不是昆蟲。"
+  },
+  "createdAt": "2026-10-15T20:30:12.236682Z"
+}

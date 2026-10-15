@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第9課_confusion_analysis_46a07e9e87c5b3ed",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "釣",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "釣",
+    "groups": {
+      "shape": [
+        {
+          "char": "鈞",
+          "why": "兩字都有金旁，右邊的勺與勻外形接近。",
+          "difference": "釣右邊是勺，裡面有一點；鈞右邊是勻，裡面是二。釣魚要寫釣。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "吊",
+          "why": "釣、吊都讀ㄉㄧㄠˋ，動作情境也都可能有繩線。",
+          "difference": "用釣具引魚上鉤用釣，如釣魚；懸掛或提起用吊，如吊燈、吊起。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "捕",
+          "why": "釣與捕都能和魚連用。",
+          "difference": "釣魚特指用釣具使魚上鉤；捕魚包括多種捉魚方法，不一定使用釣鉤。"
+        }
+      ],
+      "component": [
+        {
+          "char": "約",
+          "why": "兩字右邊都是勺，容易把左旁寫錯。",
+          "difference": "釣左邊是金旁；約左邊是糸旁，用在約定、約會。釣魚的釣不能因為有釣線就改用糸旁。"
+        }
+      ]
+    },
+    "tip": "用金屬釣鉤聯想釣的金旁；右邊勺裡是一點，別寫成鈞。"
+  },
+  "createdAt": "2026-10-15T20:30:12.236682Z"
+}

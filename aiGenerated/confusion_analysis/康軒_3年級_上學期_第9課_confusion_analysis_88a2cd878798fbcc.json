@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第9課_confusion_analysis_88a2cd878798fbcc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "別",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "別",
+    "groups": {
+      "shape": [
+        {
+          "char": "列",
+          "why": "兩字右邊都有刂，整體都是左右排列。",
+          "difference": "別的左上有口，列的左邊是歹；分別用別，排列用列。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "憋",
+          "why": "別讀ㄅㄧㄝˊ，憋讀ㄅㄧㄝ，只有聲調不同。",
+          "difference": "特別、分別的別讀第二聲；憋氣的憋讀第一聲，表示強忍住。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "分",
+          "why": "分與別都能涉及區分，還會合成分別。",
+          "difference": "分可表示分開或分配，如分成三層；別可表示不同或其他，如別種方式，不能只因意思接近就互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "到",
+          "why": "兩字都有立刀旁刂，容易只記住相同的一邊。",
+          "difference": "別與到的右邊都是刂，但到的左邊是至；到達用到，特別用別。"
+        }
+      ]
+    },
+    "tip": "先讀完整詞語：「特別」是與一般不同，「分別」是區分；別右邊有刂。"
+  },
+  "createdAt": "2026-10-15T20:30:12.236682Z"
+}

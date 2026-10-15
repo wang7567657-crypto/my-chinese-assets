@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第9課_confusion_analysis_212d9b6eb137d66c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蓮",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蓮",
+    "groups": {
+      "shape": [
+        {
+          "char": "連",
+          "why": "蓮下面是完整的連，容易漏掉艹。",
+          "difference": "蓮上面有艹，用在蓮花、花蓮；連沒有艹，用在連接、連續。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "廉",
+          "why": "蓮、廉都讀ㄌㄧㄢˊ。",
+          "difference": "蓮花、花蓮用蓮；價格低或品行清正可用廉，如廉價、清廉。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "荷",
+          "why": "蓮與荷都能指荷花，可能以為任何詞語都能互換。",
+          "difference": "說植物時蓮花、荷花可以指同一種植物；但花蓮是地名，不能換成花荷。"
+        }
+      ],
+      "component": [
+        {
+          "char": "蓬",
+          "why": "兩字都有艹，下半部又都有辶，外形接近。",
+          "difference": "蓮下方是連，連裡有車；蓬下方是逢，逢裡不是車。花蓮用蓮，蓬鬆用蓬。"
+        }
+      ]
+    },
+    "tip": "花蓮的蓮，上方有艹，下方是連；地名用字要記牢，不能換同音字或近義字。"
+  },
+  "createdAt": "2026-10-15T20:30:12.236682Z"
+}

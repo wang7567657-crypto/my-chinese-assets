@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第9課_confusion_analysis_4c816e42c9d224a9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "態",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "態",
+    "groups": {
+      "shape": [
+        {
+          "char": "熊",
+          "why": "兩字上方都是能，差別集中在最下面。",
+          "difference": "態下面是心，用在生態、姿態；熊下面是灬，是動物名稱。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "太",
+          "why": "態、太都讀ㄊㄞˋ。",
+          "difference": "生態、態度用態；程度很高或太陽用太，如太多、太陽。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "狀",
+          "why": "狀態與生態都帶有態，容易把兩種意思混在一起。",
+          "difference": "狀態指某時的樣子或情況；生態說生物與生活環境的關係。描述魚蝦與溼地環境時，要依意思選詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "能",
+          "why": "態含有完整的能，容易漏掉下面的心。",
+          "difference": "態是能下面加心；能沒有心，表示能力或可以，如能做到。"
+        }
+      ]
+    },
+    "tip": "生態的態是上能、下心；別把心寫成熊下面的灬。"
+  },
+  "createdAt": "2026-10-15T20:30:12.236682Z"
+}
