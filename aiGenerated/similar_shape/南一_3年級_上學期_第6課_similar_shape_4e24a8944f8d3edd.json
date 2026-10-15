@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第6課_similar_shape_4e24a8944f8d3edd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "灰",
+    "lessonChars": [
+      "幕",
+      "杯",
+      "撞",
+      "流",
+      "溼",
+      "透",
+      "雙",
+      "胸",
+      "負",
+      "慌",
+      "逃",
+      "辦",
+      "題",
+      "灰",
+      "剪"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "灰",
+    "similarChars": [
+      {
+        "char": "炭",
+        "similarity": "都有火，上方都有橫、撇形成的遮蓋筆形。",
+        "difference": "炭在與灰相近的下部上方另有山；灰最上方沒有山。"
+      },
+      {
+        "char": "恢",
+        "similarity": "恢右半完整保留灰。",
+        "difference": "恢左邊另有忄；灰沒有心字旁。"
+      },
+      {
+        "char": "炊",
+        "similarity": "兩字都含有火。",
+        "difference": "灰的火位於橫、撇下方；炊是左火右欠，並非上下結構。"
+      },
+      {
+        "char": "炎",
+        "similarity": "下方都有火。",
+        "difference": "灰上方是橫、撇；炎上方也是火，所以炎有上下兩個火。"
+      },
+      {
+        "char": "災",
+        "similarity": "下方都是火。",
+        "difference": "灰上方是橫、撇；災上方是巛，不能把上方筆形混在一起。"
+      },
+      {
+        "char": "炅",
+        "similarity": "下方都是火。",
+        "difference": "灰上方是橫、撇；炅上方是日。炅是較少見的字，只供部件比較。"
+      }
+    ],
+    "teachingTip": "先看火的位置，再看上方是橫撇、山、火、巛還是日。本課「灰灰的」用來形容顏色，別與黑完全混為一談。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

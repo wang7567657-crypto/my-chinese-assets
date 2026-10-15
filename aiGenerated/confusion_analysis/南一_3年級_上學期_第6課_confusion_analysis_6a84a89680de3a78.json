@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第6課_confusion_analysis_6a84a89680de3a78",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "杯",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "杯",
+    "groups": {
+      "shape": [
+        {
+          "char": "抔",
+          "why": "右邊都是「不」，同為左右結構。",
+          "difference": "杯左邊是「木」；抔左邊是「扌」。抔是較少見的字，本課只作部件比較。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "悲",
+          "why": "同音：杯、悲都讀ㄅㄟ。",
+          "difference": "杯是容器，如水杯；悲用於悲傷，不能因同音換字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "碗",
+          "why": "杯和碗都可裝食物或飲料。",
+          "difference": "杯常用來喝水；碗常用來盛飯菜，兩者不是相同器具的固定名稱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "不",
+          "why": "杯右半是不。",
+          "difference": "杯另有左木；不沒有木字旁，杯右半下方也不加一橫。"
+        }
+      ]
+    },
+    "tip": "水杯要寫左木右不；先看器具與詞語，再認字形。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

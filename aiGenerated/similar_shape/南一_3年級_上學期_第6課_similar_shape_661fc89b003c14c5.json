@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第6課_similar_shape_661fc89b003c14c5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "撞",
+    "lessonChars": [
+      "幕",
+      "杯",
+      "撞",
+      "流",
+      "溼",
+      "透",
+      "雙",
+      "胸",
+      "負",
+      "慌",
+      "逃",
+      "辦",
+      "題",
+      "灰",
+      "剪"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "撞",
+    "similarChars": [
+      {
+        "char": "憧",
+        "similarity": "右邊同為「童」。",
+        "difference": "撞左邊是「扌」；憧左邊是「忄」，注意提手旁有一橫。"
+      },
+      {
+        "char": "瞳",
+        "similarity": "右邊同為「童」。",
+        "difference": "撞左邊是扌；瞳左邊是「目」，可看左旁是否封成長方形。"
+      },
+      {
+        "char": "潼",
+        "similarity": "右邊同為「童」。",
+        "difference": "撞左邊是扌；潼左邊是氵。潼較少見，常見於地名，只作換偏旁比較。"
+      },
+      {
+        "char": "僮",
+        "similarity": "右邊同為「童」。",
+        "difference": "撞左邊是扌；僮左邊是亻。僮是較少見的字，只作換偏旁比較。"
+      },
+      {
+        "char": "童",
+        "similarity": "童就是撞的完整右半。",
+        "difference": "撞在童左邊另有扌；童本身沒有提手旁。"
+      },
+      {
+        "char": "鐘",
+        "similarity": "右邊同為「童」。",
+        "difference": "撞左邊是扌；鐘左邊是金。比較時要認清左旁，不要把「撞鐘」的兩個字寫成相同字。"
+      }
+    ],
+    "teachingTip": "右邊童固定不動，逐一找左旁。用「撞倒杯子」和「撞鐘」練習看部件、看詞義選字。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

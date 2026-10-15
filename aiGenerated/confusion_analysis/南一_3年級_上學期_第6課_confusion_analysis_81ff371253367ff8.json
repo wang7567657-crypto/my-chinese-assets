@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第6課_confusion_analysis_81ff371253367ff8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "灰",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "灰",
+    "groups": {
+      "shape": [
+        {
+          "char": "炭",
+          "why": "都有火，上方都有橫、撇形成的遮蓋筆形。",
+          "difference": "炭在與灰相近的下部上方另有山；灰最上方沒有山。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "恢",
+          "why": "同音：灰色的灰與恢復的恢都讀ㄏㄨㄟ。",
+          "difference": "灰可指顏色或燃燒殘留物；恢用於恢復等詞，灰色不能寫成恢色。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "黑",
+          "why": "灰與黑都可描述較暗的顏色。",
+          "difference": "灰色介於白與黑之間；黑色更暗，本課黑黑灰灰是兩種顏色感受，不能當作完全相同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "炎",
+          "why": "都有下方火。",
+          "difference": "灰上橫撇，炎上方又是一個火；不能把灰寫成上下兩個火。"
+        }
+      ]
+    },
+    "tip": "本課灰灰的描述顏色；看清上方橫撇和下方火。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

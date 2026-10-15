@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第6課_similar_shape_282c3e0739cc2fb2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "剪",
+    "lessonChars": [
+      "幕",
+      "杯",
+      "撞",
+      "流",
+      "溼",
+      "透",
+      "雙",
+      "胸",
+      "負",
+      "慌",
+      "逃",
+      "辦",
+      "題",
+      "灰",
+      "剪"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "剪",
+    "similarChars": [
+      {
+        "char": "前",
+        "similarity": "前就是剪的上方部件。",
+        "difference": "剪在前下方另有刀；前本身沒有最下面這個刀。"
+      },
+      {
+        "char": "煎",
+        "similarity": "上方都是前。",
+        "difference": "剪下方是刀；煎下方是灬，要看最下面的部件。"
+      },
+      {
+        "char": "箭",
+        "similarity": "都含有完整的前。",
+        "difference": "剪是上前下刀；箭是上竹字頭下前，前的位置不同。"
+      },
+      {
+        "char": "翦",
+        "similarity": "上方都是前。",
+        "difference": "剪下方是刀；翦下方是羽。翦較少見，兼為剪的異體；本課剪紙寫剪。"
+      },
+      {
+        "char": "揃",
+        "similarity": "都含有完整的前。",
+        "difference": "剪是上前下刀；揃是左扌右前。揃是少見字，只作位置比較。"
+      },
+      {
+        "char": "湔",
+        "similarity": "都含有完整的前。",
+        "difference": "剪是上前下刀；湔是左氵右前。湔是較少見的字，只作部件比較。"
+      }
+    ],
+    "teachingTip": "主要比較剪、煎、箭，先找前，再找刀、灬或竹字頭。其餘少見字只看結構，不增加熟字背誦負擔。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

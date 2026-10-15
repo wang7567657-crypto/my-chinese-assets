@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第6課_confusion_analysis_96eaf1b1ff3545b4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "溼",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "溼",
+    "groups": {
+      "shape": [
+        {
+          "char": "濕",
+          "why": "都有氵，右半中間都有並列的兩個幺。",
+          "difference": "溼右半上面是一橫，下面是土；濕右半上面是日，下面是灬。濕可作溼的異體，本課依課文寫「溼」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "失",
+          "why": "同音：溼、失都讀ㄕ。",
+          "difference": "溼表示有水分；失表示失去，如失手，不能把溼透寫成失透。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "潮",
+          "why": "潮溼與溼都有水分的意思。",
+          "difference": "溼可說被水浸潤；潮常用在潮溼，另有潮汐等意思，不能將所有溼字直接換成潮。"
+        }
+      ],
+      "component": [
+        {
+          "char": "滋",
+          "why": "兩字有氵和並排雙幺。",
+          "difference": "溼右上一橫、右下土；滋右半茲頂部艹形、底下沒有土。"
+        }
+      ]
+    },
+    "tip": "本課採溼：右上一橫、中雙幺、下土；濕屬異體，不當作無關錯字。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

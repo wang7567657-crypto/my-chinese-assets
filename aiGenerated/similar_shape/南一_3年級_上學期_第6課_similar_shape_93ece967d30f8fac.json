@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第6課_similar_shape_93ece967d30f8fac",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "慌",
+    "lessonChars": [
+      "幕",
+      "杯",
+      "撞",
+      "流",
+      "溼",
+      "透",
+      "雙",
+      "胸",
+      "負",
+      "慌",
+      "逃",
+      "辦",
+      "題",
+      "灰",
+      "剪"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "慌",
+    "similarChars": [
+      {
+        "char": "荒",
+        "similarity": "慌的右半就是荒。",
+        "difference": "慌在荒左邊另有忄；荒沒有左側心字旁。"
+      },
+      {
+        "char": "謊",
+        "similarity": "右邊同為荒。",
+        "difference": "慌左邊是忄；謊左邊是言。慌張與說謊的字不同。"
+      },
+      {
+        "char": "巟",
+        "similarity": "巟與慌右半去掉艹後的部分相同。",
+        "difference": "慌除巟外，右上另有艹，左側另有忄；巟是少見字，只作部件觀察。"
+      },
+      {
+        "char": "忙",
+        "similarity": "左邊都有忄，右邊都含亡。",
+        "difference": "慌右邊是荒，在亡上有艹、下有三筆；忙右邊只有亡。"
+      },
+      {
+        "char": "恍",
+        "similarity": "左邊同為忄，右下都有向下伸出的筆畫。",
+        "difference": "慌右邊是荒，有艹和亡；恍右邊是光，不能把兩個右半當作相同。"
+      },
+      {
+        "char": "惶",
+        "similarity": "左邊同為忄，右半都是上下組合。",
+        "difference": "慌右邊是荒；惶右邊是皇，上白下王。這組只共用忄，須比較右半。"
+      }
+    ],
+    "teachingTip": "用慌、荒、謊作主要比較：感到慌張有忄，荒地沒有忄，說謊有言。巟只作延伸，不要求熟記。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

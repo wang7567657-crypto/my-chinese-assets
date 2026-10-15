@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第6課_confusion_analysis_cbe3a7c0a7e0c23a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "雙",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "雙",
+    "groups": {
+      "shape": [
+        {
+          "char": "隻",
+          "why": "都有隹和下方的又。",
+          "difference": "雙上方有兩個並排的隹；隻上方只有一個隹，下方同樣是又。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "霜",
+          "why": "同音：雙、霜都讀ㄕㄨㄤ。",
+          "difference": "雙表示一對；霜是天冷時形成的冰晶，雙手不是霜手。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "對",
+          "why": "一雙和一對都可表示成雙的兩個。",
+          "difference": "雙常作量詞，如一雙鞋；對還可表示面向、正確等，須依詞語判斷。"
+        }
+      ],
+      "component": [
+        {
+          "char": "隻",
+          "why": "上方有隹，下方有又。",
+          "difference": "雙上方兩個隹，隻上方一個隹；一雙手與一隻手數量不同。"
+        }
+      ]
+    },
+    "tip": "數上方隹的個數，說一雙有兩隻；下方又不可漏掉。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

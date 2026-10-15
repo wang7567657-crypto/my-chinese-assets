@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_3年級_上學期_第6課_feature_ai_batch_bc02befab9a05711",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "幕",
+      "杯",
+      "撞",
+      "流",
+      "溼",
+      "透",
+      "雙",
+      "胸",
+      "負",
+      "慌",
+      "逃",
+      "辦",
+      "題",
+      "灰",
+      "剪"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_f29b432bbe876751.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_a4ef0f6c7c83c70e.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_661fc89b003c14c5.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_1c22dcb5b32da183.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_0cb87b949c794c80.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_0433739951d0c004.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_502aa620fef231fb.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_4376cdf9c0280f17.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_8e4c80f6be3613d2.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_93ece967d30f8fac.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_88692771396e1569.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_c5d953a91ab23694.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_2bbef0cf4a9bc41e.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_4e24a8944f8d3edd.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第6課_similar_shape_282c3e0739cc2fb2.json"
+    ]
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}

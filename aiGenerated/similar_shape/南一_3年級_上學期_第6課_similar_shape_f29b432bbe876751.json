@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第6課_similar_shape_f29b432bbe876751",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "幕",
+    "lessonChars": [
+      "幕",
+      "杯",
+      "撞",
+      "流",
+      "溼",
+      "透",
+      "雙",
+      "胸",
+      "負",
+      "慌",
+      "逃",
+      "辦",
+      "題",
+      "灰",
+      "剪"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "幕",
+    "similarChars": [
+      {
+        "char": "慕",
+        "similarity": "上方都是「莫」。",
+        "difference": "幕下方是「巾」；慕下方是心部的變形「㣺」，沒有巾的中豎。"
+      },
+      {
+        "char": "暮",
+        "similarity": "上方都是「莫」，都是上下堆疊的字。",
+        "difference": "幕最下方是「巾」；暮最下方是「日」，要看最下面一層。"
+      },
+      {
+        "char": "墓",
+        "similarity": "上方都是「莫」。",
+        "difference": "幕下方是「巾」；墓下方是「土」，不可只看相同的上半。"
+      },
+      {
+        "char": "募",
+        "similarity": "上方都是「莫」。",
+        "difference": "幕下方是「巾」；募下方是「力」，彎鉤和撇的組合不同。"
+      },
+      {
+        "char": "摹",
+        "similarity": "上方都是「莫」。",
+        "difference": "幕下方是「巾」；摹下方是「手」，可找手的橫筆與豎鉤。"
+      },
+      {
+        "char": "莫",
+        "similarity": "莫就是幕上方的完整部件。",
+        "difference": "幕在莫下方另有「巾」；莫到「大」就結束。"
+      }
+    ],
+    "teachingTip": "先找共同的「莫」，再遮住上半，只比較最下面的巾、心形、日、土、力、手。記住布幕有「巾」。"
+  },
+  "createdAt": "2026-10-15T07:18:36.779917+00:00"
+}
