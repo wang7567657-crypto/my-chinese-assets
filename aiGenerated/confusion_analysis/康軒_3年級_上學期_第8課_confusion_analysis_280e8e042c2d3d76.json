@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第8課_confusion_analysis_280e8e042c2d3d76",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "博",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "博",
+    "groups": {
+      "shape": [
+        {
+          "char": "搏",
+          "why": "兩字右邊相同，左邊都不複雜，容易混寫。",
+          "difference": "「博」左邊是「十」；「搏」左邊是「扌」。博物館寫「博」，搏鬥寫「搏」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "伯",
+          "why": "同音：博、伯都讀ㄅㄛˊ。",
+          "difference": "「博」用在博物館、博學；「伯」用在伯父、伯伯。讀音相同，要靠詞語意思選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "廣",
+          "why": "「博」和「廣」都有範圍大的意思。",
+          "difference": "「博」常用來說知識多，如博學；「廣」可形容地方寬大，如廣場。「博物館」是固定名稱，不能換字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "傅",
+          "why": "兩字右邊都有「尃」部件。",
+          "difference": "「博」左邊是「十」；「傅」左邊是「亻」。博物館寫「博」，師傅寫「傅」。"
+        }
+      ]
+    },
+    "tip": "博物館的「博」讀ㄅㄛˊ；左邊只有「十」，右上方的一點也別漏掉。"
+  },
+  "createdAt": "2026-10-15T19:32:46.552501Z"
+}

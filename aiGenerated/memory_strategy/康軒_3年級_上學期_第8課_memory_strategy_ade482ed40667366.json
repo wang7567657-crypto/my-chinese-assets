@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第8課_memory_strategy_ade482ed40667366",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "荷",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "荷",
+    "components": [
+      "艹",
+      "何"
+    ],
+    "association": "先想荷花頭上有草字頭，再把何放在下面記形。（記字聯想，不是字源解釋。）",
+    "mnemonic": "草字頭，下面何，荷的樣子不寫錯。",
+    "visualPrompt": "中央清楚呈現標準繁體「荷」，部件位置與筆畫完整不變；字旁另畫一朵荷花及另一張荷蘭國名卡，兩圖分開。插圖不得嵌入、替換或遮蓋字的筆畫。",
+    "teachingTip": "課文荷蘭是國名，荷花只是記字形的聯想，不能拿來解釋國名來源。"
+  },
+  "createdAt": "2026-10-15T19:32:46.552501Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第8課_confusion_analysis_f2962e9cbbe34391",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "功",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "功",
+    "groups": {
+      "shape": [
+        {
+          "char": "攻",
+          "why": "兩字左邊都是「工」，右邊的筆畫容易混淆。",
+          "difference": "「功」右邊是「力」；「攻」右邊是「攵」。成功寫「功」，進攻寫「攻」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "工",
+          "why": "同音：功、工都讀ㄍㄨㄥ。",
+          "difference": "「功」用在成功、功勞；「工」用在工作、工人。「鄭成功」的人名要寫「功」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "勞",
+          "why": "「功」和「勞」都可能與努力做事有關，常合成「功勞」。",
+          "difference": "「功」偏重做出的成果、貢獻；「勞」偏重付出的辛苦。辛勞不一定立功，兩字不能任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "加",
+          "why": "兩字都有「力」部件，但位置不同。",
+          "difference": "「功」的「力」在右邊，左邊是「工」；「加」的「力」在左邊，右邊是「口」。"
+        }
+      ]
+    },
+    "tip": "「鄭成功」的功是左工、右力，讀ㄍㄨㄥ；不要寫成進攻的「攻」。"
+  },
+  "createdAt": "2026-10-15T19:32:46.552501Z"
+}

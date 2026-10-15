@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第8課_memory_strategy_47396b5f5f05bf50",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鄭",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鄭",
+    "components": [
+      "奠",
+      "阝（右）"
+    ],
+    "association": "鄭成功的姓名牌左側寫奠，右邊放阝作定位標記。（記字聯想，不是字源解釋。）",
+    "mnemonic": "左邊奠，右耳旁，鄭字左右要分明。",
+    "visualPrompt": "中央清楚呈現標準繁體「鄭」，部件位置與筆畫完整不變；字旁另畫寫有鄭成功的姓名牌。插圖不得嵌入、替換或遮蓋字的筆畫。",
+    "teachingTip": "右阝在右側，不能移到左邊；姓名牌只是記形聯想。"
+  },
+  "createdAt": "2026-10-15T19:32:46.552501Z"
+}

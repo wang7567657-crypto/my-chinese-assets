@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第8課_confusion_analysis_ac1b2910f10d8b90",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "敗",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "敗",
+    "groups": {
+      "shape": [
+        {
+          "char": "財",
+          "why": "兩字左邊都是「貝」，右邊容易看錯。",
+          "difference": "「敗」右邊是「攵」；「財」右邊是「才」。打敗寫「敗」，財物寫「財」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "拜",
+          "why": "同音：敗、拜都讀ㄅㄞˋ。",
+          "difference": "「敗」用在打敗、失敗；「拜」用在拜訪、拜託。讀音相同，意思不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "輸",
+          "why": "「敗」和「輸」都可與沒有獲勝有關，但句子中的勝負方向要看清楚。",
+          "difference": "「打敗對方」表示使對方失敗；「輸給對方」表示自己沒贏。課文的「打敗荷蘭人」不能改成「輸給荷蘭人」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "故",
+          "why": "兩字右邊都有「攵」。",
+          "difference": "「敗」左邊是「貝」；「故」左邊是「古」。失敗寫「敗」，故事寫「故」。"
+        }
+      ]
+    },
+    "tip": "讀「打敗」時先找誰贏、誰輸；寫「敗」時記住左貝、右攵。"
+  },
+  "createdAt": "2026-10-15T19:32:46.552501Z"
+}
