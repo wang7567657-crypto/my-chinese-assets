@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第7課_confusion_analysis_8c571db376862a9b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "藝",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "藝",
+    "groups": {
+      "shape": [
+        {
+          "char": "芸",
+          "why": "都有艹與云形。",
+          "difference": "藝在艹與云之間還有埶；蕓沒有這一層。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "異",
+          "why": "藝術的藝與不同的異同讀ㄧˋ。",
+          "difference": "藝是技藝或藝術；異是不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "技",
+          "why": "都與技能有關。",
+          "difference": "藝可指藝術或技藝；技偏重技巧、本領，搭配詞不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "云",
+          "why": "藝最下方是云。",
+          "difference": "云沒有上面的艹和埶；藝需保留三層。"
+        }
+      ]
+    },
+    "tip": "藝術是藝和術兩個字，不因同音寫成異術。"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}

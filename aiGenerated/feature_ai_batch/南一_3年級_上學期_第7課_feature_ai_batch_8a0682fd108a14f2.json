@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_3年級_上學期_第7課_feature_ai_batch_8a0682fd108a14f2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "背",
+      "斑",
+      "皺",
+      "懂",
+      "凡",
+      "梳",
+      "夾",
+      "藏",
+      "捏",
+      "摺",
+      "仔",
+      "藝",
+      "術",
+      "雖",
+      "創"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_32c506b28fdfcb35.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_07dee20fad904dae.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_76c94eb75eb71937.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_28bdbccc4eb3e145.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_804902e5e65b3d1c.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_2cbd5081eebadfb3.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_e990f9659ffe69c7.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_eff0d7f8d8f72006.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_0a879963cb1d2d1c.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_069848b0865f6750.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_95f4a28a829e3bb3.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_0b4d9849683b7dc6.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_4af71918218a87da.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_f1cdbf98b9db4295.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第7課_similar_shape_650d222f59d68b3f.json"
+    ]
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}

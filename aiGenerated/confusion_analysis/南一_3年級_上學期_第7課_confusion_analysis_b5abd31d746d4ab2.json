@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第7課_confusion_analysis_b5abd31d746d4ab2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "皺",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "皺",
+    "groups": {
+      "shape": [
+        {
+          "char": "雛",
+          "why": "左半同為芻。",
+          "difference": "皺右邊是皮；雛右邊是隹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "咒",
+          "why": "皺紋的皺與咒語的咒同讀ㄓㄡˋ。",
+          "difference": "皺指表面不平的紋路；咒是咒語或詛咒的咒。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "紋",
+          "why": "都可描述表面線條。",
+          "difference": "皺偏重表面起伏或摺痕；紋也包括平面的花紋。"
+        }
+      ],
+      "component": [
+        {
+          "char": "皮",
+          "why": "皺的右邊是皮。",
+          "difference": "皮單獨表示外皮；皺左邊另有芻。"
+        }
+      ]
+    },
+    "tip": "看皺紋要看皮；這是記憶聯想，不代表字源。"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}

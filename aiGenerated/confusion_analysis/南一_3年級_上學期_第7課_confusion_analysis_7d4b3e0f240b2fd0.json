@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第7課_confusion_analysis_7d4b3e0f240b2fd0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "藏",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "藏",
+    "groups": {
+      "shape": [
+        {
+          "char": "臧",
+          "why": "下方主體相同。",
+          "difference": "藏上有艹；臧沒有艹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "常",
+          "why": "藏寶的藏ㄘㄤˊ與常常的常ㄔㄤˊ近音，聲母不同。",
+          "difference": "藏是收起或隱藏；常表示經常。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "隱",
+          "why": "都有不讓人直接看見的意思。",
+          "difference": "藏常指把東西收在某處；隱可指不顯露或躲起來，搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "臧",
+          "why": "藏下部為臧。",
+          "difference": "臧是獨立字，藏另加艹；不把臧拆成任意簡單字。"
+        }
+      ]
+    },
+    "tip": "藏寶讀ㄘㄤˊ；西藏的藏讀ㄗㄤˋ，依語詞判讀。"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}

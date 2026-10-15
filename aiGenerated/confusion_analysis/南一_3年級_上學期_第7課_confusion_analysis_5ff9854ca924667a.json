@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第7課_confusion_analysis_5ff9854ca924667a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "捏",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "捏",
+    "groups": {
+      "shape": [
+        {
+          "char": "揑",
+          "why": "都是手旁，右側近似方框形。",
+          "difference": "捏右邊上日下土；揑右邊是臼下接工。揑為捏的異體，課堂以捏為準。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "涅",
+          "why": "捏ㄋㄧㄝ與涅ㄋㄧㄝˋ近音，聲調不同。",
+          "difference": "捏是用手指拿住或按壓；涅是較少見字，常見於涅槃一詞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "按",
+          "why": "都是施力的動作。",
+          "difference": "捏多用幾根手指相向施力；按是向下壓住。"
+        }
+      ],
+      "component": [
+        {
+          "char": "涅",
+          "why": "右半都為上日下土。",
+          "difference": "捏左邊扌；涅左邊氵。"
+        }
+      ]
+    },
+    "tip": "課文捏臉用手旁；練習可捏紙團，不捏同學的臉。"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}

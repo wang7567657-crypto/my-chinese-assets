@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第7課_confusion_analysis_42f5f991fa68c909",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "創",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "創",
+    "groups": {
+      "shape": [
+        {
+          "char": "搶",
+          "why": "都有倉。",
+          "difference": "創是倉右加刂；搶是倉左加扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "窗",
+          "why": "創意的創ㄔㄨㄤˋ與窗戶的窗ㄔㄨㄤ近音，聲調不同。",
+          "difference": "創意是新點子；窗是房屋通光通風的開口。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "造",
+          "why": "都能談做出事物。",
+          "difference": "創偏重開始或新的想法；造偏重製作、建造，語詞搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "倉",
+          "why": "創左邊是倉。",
+          "difference": "倉沒有刂；創多右邊刀旁。"
+        }
+      ]
+    },
+    "tip": "創意讀ㄔㄨㄤˋ；創傷讀ㄔㄨㄤ，語境不同。"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第7課_confusion_analysis_15c75d28a44c30f9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "夾",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "夾",
+    "groups": {
+      "shape": [
+        {
+          "char": "爽",
+          "why": "都有大形與兩側小筆畫。",
+          "difference": "夾兩側各一個人形；爽兩側有多個交叉筆畫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "頰",
+          "why": "夾住的夾與臉頰的頰同讀ㄐㄧㄚˊ。",
+          "difference": "夾是兩邊用力固定；頰是臉的兩側。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "捏",
+          "why": "都可用手固定東西。",
+          "difference": "夾從兩側夾住；捏常指用拇指和其他手指拿住或按壓。"
+        }
+      ],
+      "component": [
+        {
+          "char": "頰",
+          "why": "頰左邊含夾。",
+          "difference": "夾沒有右邊頁；頰多了頁。"
+        }
+      ]
+    },
+    "tip": "本課夾頭髮讀ㄐㄧㄚˊ，字裡的兩個人形要寫清楚。"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}

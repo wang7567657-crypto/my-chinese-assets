@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第7課_confusion_analysis_be41e5bc661efc75",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "懂",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "懂",
+    "groups": {
+      "shape": [
+        {
+          "char": "慟",
+          "why": "左邊都是忄，右邊都有重形。",
+          "difference": "懂右邊是董，重上有艹；慟右邊是動，重旁有力。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "董",
+          "why": "懂得的懂與姓董的董同讀ㄉㄨㄥˇ。",
+          "difference": "懂是明白；董可以是姓氏。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "知",
+          "why": "都與了解有關。",
+          "difference": "知可指知道某件事；懂偏重理解意思或做法。"
+        }
+      ],
+      "component": [
+        {
+          "char": "董",
+          "why": "懂的右邊是董。",
+          "difference": "董沒有忄；懂加上忄。"
+        }
+      ]
+    },
+    "tip": "不懂星座是不了解意思；懂得用懂。"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}

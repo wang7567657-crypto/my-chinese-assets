@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第7課_similar_shape_650d222f59d68b3f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "創",
+    "lessonChars": [
+      "背",
+      "斑",
+      "皺",
+      "懂",
+      "凡",
+      "梳",
+      "夾",
+      "藏",
+      "捏",
+      "摺",
+      "仔",
+      "藝",
+      "術",
+      "雖",
+      "創"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "創",
+    "similarChars": [
+      {
+        "char": "倉",
+        "similarity": "「創」左半部就是「倉」。",
+        "difference": "「創」右邊多了「刂」；「倉」沒有立刀旁。"
+      },
+      {
+        "char": "搶",
+        "similarity": "都包含「倉」。",
+        "difference": "「創」是左倉、右刂；「搶」是左扌、右倉。"
+      },
+      {
+        "char": "槍",
+        "similarity": "都包含「倉」。",
+        "difference": "「創」把倉放在左邊，右接刂；「槍」把倉放在右邊，左接木。"
+      },
+      {
+        "char": "瘡",
+        "similarity": "都包含「倉」。",
+        "difference": "「創」在倉右邊加刂；「瘡」是在倉的上方和左側加「疒」。"
+      },
+      {
+        "char": "蒼",
+        "similarity": "都包含「倉」。",
+        "difference": "「創」在倉右邊加刂；「蒼」在倉上方加艹，沒有立刀旁。"
+      },
+      {
+        "char": "愴",
+        "similarity": "都包含「倉」。",
+        "difference": "「創」是左倉、右刂；「愴」是左忄、右倉。愴較少見，可見於「悲愴」。"
+      }
+    ],
+    "teachingTip": "將倉當作固定字卡，試著在右邊加刂、左邊加扌或木、上方加艹。讀「創意、創作」時，檢查立刀旁是否放在右邊。"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}

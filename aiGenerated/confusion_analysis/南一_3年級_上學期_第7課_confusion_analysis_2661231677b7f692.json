@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第7課_confusion_analysis_2661231677b7f692",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "梳",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "梳",
+    "groups": {
+      "shape": [
+        {
+          "char": "流",
+          "why": "右半相同。",
+          "difference": "梳左邊木；流左邊氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "書",
+          "why": "梳頭的梳與書本的書同讀ㄕㄨ。",
+          "difference": "梳是整理頭髮或梳子；書是書籍或書寫。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "理",
+          "why": "都有整理的意思。",
+          "difference": "梳頭用梳子使頭髮順；整理的理適用範圍更廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "木",
+          "why": "梳左邊是木。",
+          "difference": "木單獨是樹木；梳在右邊另有㐬。"
+        }
+      ]
+    },
+    "tip": "先看木旁，再想梳頭；不要因同音寫成書。"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}

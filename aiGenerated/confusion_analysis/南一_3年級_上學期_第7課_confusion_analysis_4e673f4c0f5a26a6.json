@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第7課_confusion_analysis_4e673f4c0f5a26a6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "斑",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "斑",
+    "groups": {
+      "shape": [
+        {
+          "char": "班",
+          "why": "外框都可見左右王字形。",
+          "difference": "斑中間是文；班中間是刀的變形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "班",
+          "why": "斑點的斑與班級的班同讀ㄅㄢ。",
+          "difference": "斑是不同顏色的點或紋；班是分成的一組人。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "點",
+          "why": "都能描述小小的痕跡。",
+          "difference": "斑常指顏色不同的痕跡；點也能指位置或小記號。"
+        }
+      ],
+      "component": [
+        {
+          "char": "文",
+          "why": "斑中間有文。",
+          "difference": "文可單獨成字；斑在左右另加王字形。"
+        }
+      ]
+    },
+    "tip": "斑點用斑，班級用班，先看中間再選字。"
+  },
+  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+}
