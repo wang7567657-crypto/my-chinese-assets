@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_1b026e60f989027f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "灣",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "灣",
+    "groups": {
+      "shape": [
+        {
+          "char": "彎",
+          "why": "灣右邊就是彎",
+          "difference": "灣有三點水，用於海灣；彎沒有三點水，用於彎曲。"
+        },
+        {
+          "char": "巒",
+          "why": "含相同的䜌形",
+          "difference": "灣有氵且右下是弓；巒下方是山，如山巒。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "先比較「彎、灣」，再辨認右上言兩旁的糸，避免漏寫。"
+  },
+  "createdAt": "2026-10-15T01:56:10.882Z"
+}

@@ -1,0 +1,46 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_4年級_上學期_第1課_similar_shape_7341ee1c71b2e3f1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "targetChar": "街",
+    "lessonChars": [
+      "島",
+      "唾",
+      "沫",
+      "忠",
+      "衛",
+      "寒",
+      "椰",
+      "隊",
+      "蕉",
+      "街",
+      "灣",
+      "甜",
+      "糖",
+      "童"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "街",
+    "similarChars": [
+      "衛",
+      "衝",
+      "衍",
+      "術",
+      "衡",
+      "圭"
+    ],
+    "teachingTip": "先找街中間的圭（兩個土）；其他行框字的中間不同，圭本身沒有兩側的行。"
+  },
+  "createdAt": "2026-10-15T01:56:10.881Z"
+}

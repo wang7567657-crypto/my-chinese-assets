@@ -1,0 +1,46 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_4年級_上學期_第1課_similar_shape_28c5269023236c8d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "targetChar": "童",
+    "lessonChars": [
+      "島",
+      "唾",
+      "沫",
+      "忠",
+      "衛",
+      "寒",
+      "椰",
+      "隊",
+      "蕉",
+      "街",
+      "灣",
+      "甜",
+      "糖",
+      "童"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "童",
+    "similarChars": [
+      "撞",
+      "鐘",
+      "瞳",
+      "幢",
+      "僮",
+      "重"
+    ],
+    "teachingTip": "前五字都包含童，要比較偏旁；重與童整體相似，但上方不同。"
+  },
+  "createdAt": "2026-10-15T01:56:10.881Z"
+}

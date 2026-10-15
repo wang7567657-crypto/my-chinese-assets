@@ -1,0 +1,37 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第1課_confusion_analysis_a9cb4a63fc88ab2f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "char": "唾",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "唾",
+    "groups": {
+      "shape": [
+        {
+          "char": "睡",
+          "why": "右邊都是垂",
+          "difference": "唾左邊是口，用於唾液；睡左邊是目，用於睡覺。"
+        },
+        {
+          "char": "捶",
+          "why": "右邊都是垂",
+          "difference": "捶左邊是扌，表示用拳頭或工具敲打。"
+        }
+      ],
+      "sound": [],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "先說「唾液」，再指出口與垂，注意垂裡各橫畫的長短。"
+  },
+  "createdAt": "2026-10-15T01:56:10.881Z"
+}

@@ -1,0 +1,46 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_4年級_上學期_第1課_similar_shape_99552ce565d5978a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "targetChar": "隊",
+    "lessonChars": [
+      "島",
+      "唾",
+      "沫",
+      "忠",
+      "衛",
+      "寒",
+      "椰",
+      "隊",
+      "蕉",
+      "街",
+      "灣",
+      "甜",
+      "糖",
+      "童"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "隊",
+    "similarChars": [
+      "墜",
+      "遂",
+      "隧",
+      "逐",
+      "陳",
+      "除"
+    ],
+    "teachingTip": "隊與墜共用隊的字形；遂、隧和逐有相近的豕形，陳、除則要比較左耳旁右側。"
+  },
+  "createdAt": "2026-10-15T01:56:10.881Z"
+}

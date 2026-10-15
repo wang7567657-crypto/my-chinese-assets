@@ -343,11 +343,11 @@
       "char": "年",
       "taskType": "component_split",
       "requestId": "康軒_2年級_上學期_第1課_component_split_3a847891052daeb1",
-      "reason": "重新核對 c9s XML：共7筆，第7筆 Outline 與第6筆相同（Track 不同）；來源異常，未校正並確認前保留待辦，不標 verified。",
-      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5e74.xml"
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5e74.xml",
+      "reason": "c9s來源有7筆，第6與第7筆輪廓重複；尚未校正來源，不標記verified。"
     }
   ],
-  "lastCheckedAt": "2026-10-08T00:43:37Z",
+  "lastCheckedAt": "2026-10-15T01:58:02.426Z",
   "progress": {
     "totalItems": 20,
     "completedItems": 19,
@@ -373,6 +373,6 @@
       "康軒_2年級_上學期_第1課_component_split_5a467bdea99844ab",
       "康軒_2年級_上學期_第1課_component_split_1c1dc762170dafff"
     ],
-    "validation": "逐一讀取正式 aiGenerated 結果，確認 completed、verified、radicalVerified、分組筆畫完整且無重複、split 與 strokeGroups 筆數一致；重用既有完成資料。"
+    "validation": "重讀既有完成資料；未解決來源異常的項目保留待辦。"
   }
 }

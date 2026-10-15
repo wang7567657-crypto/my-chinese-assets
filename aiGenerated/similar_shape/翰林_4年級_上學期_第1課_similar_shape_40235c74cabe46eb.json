@@ -1,0 +1,46 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_4年級_上學期_第1課_similar_shape_40235c74cabe46eb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "targetChar": "甜",
+    "lessonChars": [
+      "島",
+      "唾",
+      "沫",
+      "忠",
+      "衛",
+      "寒",
+      "椰",
+      "隊",
+      "蕉",
+      "街",
+      "灣",
+      "甜",
+      "糖",
+      "童"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "甜",
+    "similarChars": [
+      "恬",
+      "舔",
+      "舌",
+      "括",
+      "酣",
+      "甘"
+    ],
+    "teachingTip": "甜由舌與甘組成；恬、舔、括包含舌，酣包含甘，要比較部件的位置。"
+  },
+  "createdAt": "2026-10-15T01:56:10.881Z"
+}

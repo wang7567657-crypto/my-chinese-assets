@@ -375,11 +375,11 @@
       "char": "粄",
       "taskType": "component_split",
       "requestId": "翰林_2年級_上學期_第7課_component_split_8003aff84557a8ce",
-      "reason": "重新讀取指定 c9s/zh-stroke-data 的 utf8/7c84.xml 回傳404，缺少原始筆畫來源；無法核對輪廓、Track及實際部首分色，保留待辦，不標 verified。",
-      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7c84.xml"
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7c84.xml",
+      "reason": "指定c9s原始XML回傳404，無法完成筆畫及部首分色驗證。"
     }
   ],
-  "lastCheckedAt": "2026-10-08T00:43:37Z",
+  "lastCheckedAt": "2026-10-15T01:58:02.426Z",
   "progress": {
     "totalItems": 22,
     "completedItems": 21,
@@ -407,6 +407,6 @@
       "翰林_2年級_上學期_第7課_component_split_a75a9479bee49d2f",
       "翰林_2年級_上學期_第7課_component_split_1c2a1a25163adedc"
     ],
-    "validation": "逐一讀取正式 aiGenerated 結果，確認 completed、verified、radicalVerified、分組筆畫完整且無重複、split 與 strokeGroups 筆數一致；重用既有完成資料。"
+    "validation": "重讀既有完成資料；未解決來源異常的項目保留待辦。"
   }
 }
