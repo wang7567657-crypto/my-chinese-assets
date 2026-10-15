@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_3年級_上學期_第10課_feature_ai_batch_b5801b95b124cc77",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "極",
+      "熊",
+      "雪",
+      "腦",
+      "實",
+      "根",
+      "反",
+      "射",
+      "膚",
+      "豬",
+      "呆",
+      "印",
+      "象",
+      "憶",
+      "滾"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_d55bce2dde093e17.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_887679e0b19c21b0.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_496b8eb309feb9fe.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_c756c589f5571df0.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_6d3a9fe2bb77b275.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_68eeb40bbe1778e0.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_d1ee68720df095ca.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_6da0bf7822d49709.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_92d4ec42f123db2c.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_b6f82cccc4728074.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_5a1daca24dd9c66b.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_29e9f89a68d2fafb.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_327b20b58606e1da.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_b5bc83035c4d308f.json",
+      "aiGenerated/similar_shape/南一_3年級_上學期_第10課_similar_shape_2d819845bc44fa97.json"
+    ]
+  },
+  "createdAt": "2026-10-15T16:54:12.858729+00:00"
+}

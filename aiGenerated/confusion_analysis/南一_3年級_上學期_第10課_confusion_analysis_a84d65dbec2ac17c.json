@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第10課_confusion_analysis_a84d65dbec2ac17c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "實",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "實",
+    "groups": {
+      "shape": [
+        {
+          "char": "寶",
+          "why": "兩字都有宀，最下方又都能看到貝，容易漏看中間。",
+          "difference": "實是宀下面接貫；寶在宀和貝之間還有其他部件。寫事實時，不能只憑屋頂和貝猜成寶。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "十",
+          "why": "同音：實ㄕˊ、十ㄕˊ。",
+          "difference": "實可用在事實、實在；十是數目，事實不能寫成事十。"
+        },
+        {
+          "char": "石",
+          "why": "同音：實ㄕˊ、石ㄕˊ。",
+          "difference": "事實用實，石頭用石；聽寫時要先想詞語的意思。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "真",
+          "why": "兩字都和確實、不虛假有關，也能組成真實。",
+          "difference": "真常與假相對；實可用在事實、實際。雖然意思相關，固定詞語事實不能改寫成事真。"
+        }
+      ],
+      "component": [
+        {
+          "char": "貫",
+          "why": "實的宀下面整塊是貫，容易漏掉屋頂。",
+          "difference": "實上方有宀；貫沒有宀。觀察貫時，上半也不要隨意改成田。"
+        }
+      ]
+    },
+    "tip": "事實的實：宀下放貫。讀完課文再看事實，能修正原本對動物的誤會。"
+  },
+  "createdAt": "2026-10-15T16:54:12.858729+00:00"
+}

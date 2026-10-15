@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第10課_confusion_analysis_71bb7fb164ae9c72",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "象",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "象",
+    "groups": {
+      "shape": [
+        {
+          "char": "像",
+          "why": "像比象只多一個亻，最容易多寫或漏寫。",
+          "difference": "象沒有單人旁；像左邊有亻。大象、印象用象，相像、畫像用像。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "像",
+          "why": "同音：象ㄒㄧㄤˋ、像ㄒㄧㄤˋ。",
+          "difference": "印象是心中留下的感受，畫像是畫出來的形象；同音仍要看詞語選字。"
+        },
+        {
+          "char": "向",
+          "why": "同音：象ㄒㄧㄤˋ、向ㄒㄧㄤˋ。",
+          "difference": "大象、印象用象；方向、向前用向，不能寫成印向。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "像",
+          "why": "象和像都能和外貌、形狀有關，詞義接近。",
+          "difference": "印象指留在心裡的感受或認識，用象；圖像、畫像指可看到的形象，用像。依完整詞語分辨。"
+        }
+      ],
+      "component": [
+        {
+          "char": "橡",
+          "why": "橡的右半部就是完整的象。",
+          "difference": "象單獨成字時沒有木字旁；橡左邊多木，如橡皮。印象不能多寫木字旁。"
+        }
+      ]
+    },
+    "tip": "把詞語成對記：印象用象，畫像用像，橡皮用橡。"
+  },
+  "createdAt": "2026-10-15T16:54:12.858729+00:00"
+}
