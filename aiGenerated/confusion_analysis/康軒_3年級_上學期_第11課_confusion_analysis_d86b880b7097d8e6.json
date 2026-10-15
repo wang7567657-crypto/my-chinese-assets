@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_d86b880b7097d8e6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "枯",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "枯",
+    "groups": {
+      "shape": [
+        {
+          "char": "估",
+          "why": "右邊都是「古」。",
+          "difference": "「枯」左邊是「木」，用在乾枯；「估」左邊是「亻」，用在估計。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "哭",
+          "why": "「枯、哭」都讀ㄎㄨ。",
+          "difference": "花草失去水分、生機寫「枯」；流淚出聲寫「哭」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "乾",
+          "why": "乾枯的植物通常水分不足。",
+          "difference": "「枯」著重花草樹木失去生機、萎縮；「乾」著重沒有水或水分少，乾衣服不表示衣服「枯」了。"
+        }
+      ],
+      "component": [
+        {
+          "char": "苦",
+          "why": "都含有「古」。",
+          "difference": "「枯」是左「木」右「古」；「苦」是上「艹」下「古」，表示苦味或辛苦。"
+        }
+      ]
+    },
+    "tip": "花草樹木乾枯，所以「枯」有木字旁；別把「乾枯」寫成「乾哭」。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

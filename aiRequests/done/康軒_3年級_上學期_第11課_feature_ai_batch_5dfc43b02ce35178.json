@@ -1,0 +1,302 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_3年級_上學期_第11課_feature_ai_batch_5dfc43b02ce35178",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 17,
+    "batchCharacters": [
+      "悅",
+      "拜",
+      "訪",
+      "免",
+      "離",
+      "漫",
+      "盼",
+      "枯",
+      "鑽",
+      "恍",
+      "悟",
+      "拆",
+      "盛",
+      "隨",
+      "築",
+      "顯",
+      "極"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_1dd3b68ee46d57a1",
+        "input": {
+          "char": "悅",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_663bdf75913e708a",
+        "input": {
+          "char": "拜",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_fc50c4c9e67a8f20",
+        "input": {
+          "char": "訪",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_fe483953f36f7828",
+        "input": {
+          "char": "免",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_78fabeaddaba1789",
+        "input": {
+          "char": "離",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_3363cfd250a0b3fc",
+        "input": {
+          "char": "漫",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_6da973a72a05abfa",
+        "input": {
+          "char": "盼",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_d86b880b7097d8e6",
+        "input": {
+          "char": "枯",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_bcad186b991b54db",
+        "input": {
+          "char": "鑽",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_19ae3cd4c6e822c3",
+        "input": {
+          "char": "恍",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_cdbf07366c3d796d",
+        "input": {
+          "char": "悟",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_4e75d7ef0b145d39",
+        "input": {
+          "char": "拆",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_fce7f822af793da1",
+        "input": {
+          "char": "盛",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_272f0bfe767af0ca",
+        "input": {
+          "char": "隨",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_a48139b917c1ee4f",
+        "input": {
+          "char": "築",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_b9b66057406fbee6",
+        "input": {
+          "char": "顯",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_f1e9fdf5958736df",
+        "input": {
+          "char": "極",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z",
+  "processedAt": "2026-10-15T22:31:09.540910Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "康軒_3年級_上學期_第11課_feature_ai_batch_5dfc43b02ce35178",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "康軒",
+      "grade": "3年級",
+      "semester": "上學期",
+      "lesson": "第11課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 17,
+      "batchCharacters": [
+        "悅",
+        "拜",
+        "訪",
+        "免",
+        "離",
+        "漫",
+        "盼",
+        "枯",
+        "鑽",
+        "恍",
+        "悟",
+        "拆",
+        "盛",
+        "隨",
+        "築",
+        "顯",
+        "極"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 17,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_1dd3b68ee46d57a1.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_663bdf75913e708a.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_fc50c4c9e67a8f20.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_fe483953f36f7828.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_78fabeaddaba1789.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_3363cfd250a0b3fc.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_6da973a72a05abfa.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_d86b880b7097d8e6.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_bcad186b991b54db.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_19ae3cd4c6e822c3.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_cdbf07366c3d796d.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_4e75d7ef0b145d39.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_fce7f822af793da1.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_272f0bfe767af0ca.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_a48139b917c1ee4f.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_b9b66057406fbee6.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第11課_confusion_analysis_f1e9fdf5958736df.json"
+      ]
+    },
+    "createdAt": "2026-10-15T22:31:09.540910Z"
+  }
+}

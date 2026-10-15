@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_6da973a72a05abfa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "盼",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "盼",
+    "groups": {
+      "shape": [
+        {
+          "char": "眨",
+          "why": "左邊都是「目」，右半也都有撇筆。",
+          "difference": "「盼」右邊是「分」，用在盼望；「眨」右邊是「乏」，用在眨眼。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "判",
+          "why": "「盼、判」都讀ㄆㄢˋ。",
+          "difference": "希望事情早點發生寫「盼望」；分辨、作決定寫「判斷」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "等",
+          "why": "盼著一件事時，也常在等待它。",
+          "difference": "「盼」強調心中希望它發生；「等」強調等待的動作，不一定很期待，如「等紅燈」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "分",
+          "why": "「盼」的右邊是「分」。",
+          "difference": "「盼」左邊還有「目」，表示盼望；獨體「分」沒有「目」，常表示分開、分配。"
+        }
+      ]
+    },
+    "tip": "想像睜著眼睛盼望春天來，可以記住「盼」左邊的「目」；右邊是「分」。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

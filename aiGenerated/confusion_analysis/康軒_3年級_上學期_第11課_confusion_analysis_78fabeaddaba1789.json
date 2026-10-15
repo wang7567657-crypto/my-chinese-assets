@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_78fabeaddaba1789",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "離",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "離",
+    "groups": {
+      "shape": [
+        {
+          "char": "漓",
+          "why": "都含有「离」，筆畫又多，容易忽略另一旁。",
+          "difference": "「離」的「离」在左邊，右邊有「隹」；「漓」左邊是「氵」，右邊才是「离」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "梨",
+          "why": "「離、梨」都讀ㄌㄧˊ。",
+          "difference": "從一個地方走開寫「離開」；水果寫「梨子」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "別",
+          "why": "「離開、告別」都與分開有關。",
+          "difference": "「離」可表示離開或距離；「別」在「告別」中表示辭別，也可表示另外的，如「別人」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "誰",
+          "why": "右邊都有「隹」。",
+          "difference": "「離」左邊是「离」；「誰」左邊是「言」。「隹」的四個橫筆都要寫清楚。"
+        }
+      ]
+    },
+    "tip": "「離開」的「離」右邊要有「隹」；別只寫左半，也別換成三點水。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

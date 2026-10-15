@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第11課_similar_shape_dc04883fba6cbc16",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "悅",
+    "lessonChars": [
+      "悅",
+      "拜",
+      "訪",
+      "免",
+      "離",
+      "漫",
+      "盼",
+      "枯",
+      "鑽",
+      "恍",
+      "悟",
+      "拆",
+      "盛",
+      "隨",
+      "築",
+      "顯",
+      "極"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "悅",
+    "similarChars": [
+      {
+        "char": "說",
+        "similarity": "右邊都有「兌」，都是左右結構。",
+        "difference": "悅左邊是「忄」，說左邊是「言」。"
+      },
+      {
+        "char": "脫",
+        "similarity": "右邊都有「兌」，右側的口和兒形相同。",
+        "difference": "悅左邊是「忄」，脫左邊是月形的肉旁。"
+      },
+      {
+        "char": "稅",
+        "similarity": "右邊都是「兌」。",
+        "difference": "悅左邊是「忄」，稅左邊是「禾」。"
+      },
+      {
+        "char": "銳",
+        "similarity": "右邊都是「兌」。",
+        "difference": "悅左邊是「忄」，銳左邊是「金」。"
+      },
+      {
+        "char": "兌",
+        "similarity": "「兌」就是悅的右半部。",
+        "difference": "兌沒有左邊的「忄」；加上「忄」才是悅。"
+      },
+      {
+        "char": "閱",
+        "similarity": "兩字都包含完整的「兌」。",
+        "difference": "悅是左忄右兌；閱是「門」包住「兌」。"
+      }
+    ],
+    "teachingTip": "先圈出共同的「兌」，再遮住右半部辨認偏旁。用「心裡喜悅」記住悅的「忄」，並與說、脫、稅逐一換旁比較。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

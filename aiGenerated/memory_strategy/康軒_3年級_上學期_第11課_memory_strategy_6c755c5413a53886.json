@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第11課_memory_strategy_6c755c5413a53886",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "築",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "築",
+    "components": [
+      "竹字頭",
+      "中部",
+      "木"
+    ],
+    "association": "上方竹字頭、下方木，中間照標準字形保留；字旁畫一塊塊積木築成牆。這是記憶聯想，不是字源解釋。",
+    "mnemonic": "竹頭木在下，築牆慢慢搭。",
+    "visualPrompt": "以標準楷體完整呈現「築」，部件保持正常位置與筆畫。字旁另畫：上方竹字頭、下方木，中間照標準字形保留；字旁畫一塊塊積木築成牆。圖與字分開，不把筆畫變成圖案，不增減筆畫。",
+    "teachingTip": "先觀察完整字形，再說出部件位置，遮住範字回想，最後與標準字形逐一比對。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

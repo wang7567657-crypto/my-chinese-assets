@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第11課_similar_shape_18cd283bf36b7e33",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "盛",
+    "lessonChars": [
+      "悅",
+      "拜",
+      "訪",
+      "免",
+      "離",
+      "漫",
+      "盼",
+      "枯",
+      "鑽",
+      "恍",
+      "悟",
+      "拆",
+      "盛",
+      "隨",
+      "築",
+      "顯",
+      "極"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "盛",
+    "similarChars": [
+      {
+        "char": "成",
+        "similarity": "盛的上半包含「成」。",
+        "difference": "盛在成的下面加了「皿」；成單獨寫時沒有皿。"
+      },
+      {
+        "char": "晟",
+        "similarity": "兩字都有「成」，整體都是上下組合。",
+        "difference": "盛是上成下皿；晟是上日下成。晟是較少見的字。"
+      },
+      {
+        "char": "盞",
+        "similarity": "下半都是「皿」，上半都有斜鉤形筆畫。",
+        "difference": "盛上面是成；盞上面是兩個戈組成的戔。"
+      },
+      {
+        "char": "盔",
+        "similarity": "下半都是「皿」，都是上部件加皿的結構。",
+        "difference": "盛上面是成；盔上面是灰，灰裡有火。"
+      },
+      {
+        "char": "盍",
+        "similarity": "下半都是「皿」。",
+        "difference": "盛上面是成；盍上面是去。盍是較少見的字。"
+      },
+      {
+        "char": "盆",
+        "similarity": "下半都是「皿」。",
+        "difference": "盛上面是成；盆上面是分，沒有成的斜鉤。"
+      }
+    ],
+    "teachingTip": "先確認盛是「上成、下皿」，再與晟比較部件位置。和盞、盔、盆比較時，先遮住相同的皿，只辨認上半部。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第11課_similar_shape_076ab82be023be4a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "恍",
+    "lessonChars": [
+      "悅",
+      "拜",
+      "訪",
+      "免",
+      "離",
+      "漫",
+      "盼",
+      "枯",
+      "鑽",
+      "恍",
+      "悟",
+      "拆",
+      "盛",
+      "隨",
+      "築",
+      "顯",
+      "極"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "恍",
+    "similarChars": [
+      {
+        "char": "光",
+        "similarity": "光就是恍的右半部。",
+        "difference": "光沒有左邊的「忄」。"
+      },
+      {
+        "char": "晃",
+        "similarity": "兩字都包含完整的「光」。",
+        "difference": "恍是左忄右光；晃是上日下光。"
+      },
+      {
+        "char": "幌",
+        "similarity": "兩字都包含「光」，光都在字的右側範圍。",
+        "difference": "恍是忄加光；幌是巾加晃，光上面還有一個日。"
+      },
+      {
+        "char": "洸",
+        "similarity": "右邊都是「光」。",
+        "difference": "恍左邊是「忄」，洸左邊是「氵」。洸是較少見的字。"
+      },
+      {
+        "char": "胱",
+        "similarity": "右邊都是「光」。",
+        "difference": "恍左邊是「忄」，胱左邊是月形的肉旁。胱常見於「膀胱」。"
+      },
+      {
+        "char": "咣",
+        "similarity": "右邊都是「光」。",
+        "difference": "恍左邊是「忄」，咣左邊是「口」。咣是較少見的擬聲字。"
+      }
+    ],
+    "teachingTip": "把光圈起來，先比較恍與晃，再比較恍與幌。恍只有忄加光；幌右邊是晃，不能漏掉光上面的日。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

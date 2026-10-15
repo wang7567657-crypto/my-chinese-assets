@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_19ae3cd4c6e822c3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "恍",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "恍",
+    "groups": {
+      "shape": [
+        {
+          "char": "慌",
+          "why": "左邊都是「忄」，右半也有向兩邊伸展的筆畫。",
+          "difference": "「恍」右邊是「光」，用在恍然大悟；「慌」右邊是「荒」，用在慌張。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "謊",
+          "why": "「恍、謊」都讀ㄏㄨㄤˇ。",
+          "difference": "突然明白寫「恍然大悟」；不真實的話寫「謊話」，用言字旁。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "忽",
+          "why": "「恍然」和「忽然」都帶有一下子、突然的意思。",
+          "difference": "「恍然」常形容突然明白的樣子，如「恍然大悟」；「忽然」可描述各種事突然發生，如「忽然下雨」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "光",
+          "why": "「恍」右邊是「光」。",
+          "difference": "「恍」在「光」左邊加「忄」，表示心理上的感受或變化；「光」獨立成字可表示光線。"
+        }
+      ]
+    },
+    "tip": "用「心裡忽然亮起一道光」幫忙記字：左「忄」右「光」，合成「恍」。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

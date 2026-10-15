@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_fc50c4c9e67a8f20",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "訪",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "訪",
+    "groups": {
+      "shape": [
+        {
+          "char": "仿",
+          "why": "右邊都是「方」。",
+          "difference": "「訪」左邊是「言」，用在拜訪、訪問；「仿」左邊是「亻」，用在模仿。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "紡",
+          "why": "「訪、紡」都讀ㄈㄤˇ。",
+          "difference": "探望朋友寫「訪友」；把纖維做成紗線寫「紡紗」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "探",
+          "why": "「訪問、探望」都有前往了解或看望的意思。",
+          "difference": "「訪」常指訪問、拜訪人；「探」還可指伸出或探查，如「探頭、探路」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "放",
+          "why": "都有「方」這個部件。",
+          "difference": "「訪」的「方」在右邊，左邊有「言」；「放」的「方」在左邊，右邊是「攵」。"
+        }
+      ]
+    },
+    "tip": "拜訪時會和人交談，可用這個畫面記住「訪」的言字旁；別和「模仿」混用。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

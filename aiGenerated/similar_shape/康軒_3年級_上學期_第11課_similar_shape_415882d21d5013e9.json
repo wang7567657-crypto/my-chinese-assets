@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第11課_similar_shape_415882d21d5013e9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "枯",
+    "lessonChars": [
+      "悅",
+      "拜",
+      "訪",
+      "免",
+      "離",
+      "漫",
+      "盼",
+      "枯",
+      "鑽",
+      "恍",
+      "悟",
+      "拆",
+      "盛",
+      "隨",
+      "築",
+      "顯",
+      "極"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "枯",
+    "similarChars": [
+      {
+        "char": "估",
+        "similarity": "右邊都是「古」。",
+        "difference": "枯左邊是「木」，估左邊是「亻」。"
+      },
+      {
+        "char": "姑",
+        "similarity": "右邊都是「古」。",
+        "difference": "枯左邊是「木」，姑左邊是「女」。"
+      },
+      {
+        "char": "沽",
+        "similarity": "右邊都是「古」。",
+        "difference": "枯左邊是「木」，沽左邊是「氵」。"
+      },
+      {
+        "char": "苦",
+        "similarity": "兩字都包含完整的「古」。",
+        "difference": "枯是左木右古；苦是上艹下古。"
+      },
+      {
+        "char": "故",
+        "similarity": "兩字都包含完整的「古」。",
+        "difference": "枯的古在右邊；故的古在左邊，右邊另有「攵」。"
+      },
+      {
+        "char": "固",
+        "similarity": "兩字都包含完整的「古」。",
+        "difference": "枯的古在木旁右側；固是「囗」包住古。"
+      }
+    ],
+    "teachingTip": "先把古圈起來，再找木、亻、女、氵、艹的位置。用「樹木枯了」記住枯的木旁，並比較枯、苦、固的結構。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

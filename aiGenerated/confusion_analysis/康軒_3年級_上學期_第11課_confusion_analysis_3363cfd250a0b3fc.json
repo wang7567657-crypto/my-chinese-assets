@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_3363cfd250a0b3fc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "漫",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "漫",
+    "groups": {
+      "shape": [
+        {
+          "char": "慢",
+          "why": "右邊都是「曼」，左邊的偏旁容易混淆。",
+          "difference": "「漫」左邊是「氵」，用在漫長；「慢」左邊是「忄」，用在快慢、慢走。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "慢",
+          "why": "「漫、慢」都讀ㄇㄢˋ。",
+          "difference": "時間長得彷彿沒有盡頭是「漫長」；速度不快是「緩慢」，不能寫成「慢長」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "長",
+          "why": "「漫長」和「長」都能形容時間很久。",
+          "difference": "「漫長」更強調時間延續很久、好像不易等到盡頭；「長」可單純描述長度或時間，不一定帶有這種感受。"
+        }
+      ],
+      "component": [
+        {
+          "char": "曼",
+          "why": "「漫」的右邊就是「曼」。",
+          "difference": "「漫」在「曼」左邊加三點水；「曼」獨立成字時沒有三點水，如「曼妙」。"
+        }
+      ]
+    },
+    "tip": "「漫長」說的是時間很長；「慢」說的是速度不快。先想意思，再選「氵」或「忄」。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

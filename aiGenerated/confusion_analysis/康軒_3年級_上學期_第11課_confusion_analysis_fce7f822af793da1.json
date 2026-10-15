@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_fce7f822af793da1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "盛",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "盛",
+    "groups": {
+      "shape": [
+        {
+          "char": "盆",
+          "why": "下面都是「皿」，都是上下結構。",
+          "difference": "「盛」上面是「成」；「盆」上面是「分」。百花盛開寫「盛」，花盆寫「盆」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "勝",
+          "why": "「盛開」的「盛」和「勝」都讀ㄕㄥˋ。",
+          "difference": "花朵開得繁茂寫「盛開」；比賽贏了寫「勝利」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "開",
+          "why": "都能用來描述花朵綻放。",
+          "difference": "「開」表示花朵展開；「盛」在「盛開」中更強調開得繁茂、旺盛。"
+        }
+      ],
+      "component": [
+        {
+          "char": "成",
+          "why": "「盛」的上半是「成」。",
+          "difference": "「盛」在「成」下面加「皿」；「成」獨立成字可表示完成、成功。「皿」不能漏寫。"
+        }
+      ]
+    },
+    "tip": "百花「盛開」讀ㄕㄥˋ；把飯裝進碗裡的「盛飯」讀ㄔㄥˊ。寫字時記住上「成」下「皿」。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}
