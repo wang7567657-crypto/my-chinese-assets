@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_e9561f308e67ce5e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "嚼",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "嚼",
+    "groups": {
+      "shape": [
+        {
+          "char": "爵",
+          "why": "字形有相同部件或相近輪廓，容易混看。",
+          "difference": "嚼比爵左邊多口；不要漏掉左側口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "覺",
+          "why": "嚼東西的嚼ㄐㄧㄠˊ，睡覺的覺ㄐㄧㄠˋ，聲調不同；咀嚼的嚼也有ㄐㄩㄝˊ讀音，依詞判讀。",
+          "difference": "先說完整詞語，再依詞義選字；不要只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "咬",
+          "why": "在部分語境中意義相關。",
+          "difference": "咬可指用牙齒夾住或切斷；嚼強調反覆磨碎食物。"
+        }
+      ],
+      "component": [
+        {
+          "char": "爵",
+          "why": "比較整字及部件所在位置。",
+          "difference": "嚼比爵左邊多口；不要漏掉左側口。"
+        }
+      ]
+    },
+    "tip": "先比部件位置，再放回課文語詞確認。「嚼」與「爵」要分清。"
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}

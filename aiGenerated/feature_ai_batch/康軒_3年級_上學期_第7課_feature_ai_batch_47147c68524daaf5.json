@@ -1,0 +1,53 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_3年級_上學期_第7課_feature_ai_batch_47147c68524daaf5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 14,
+    "batchCharacters": [
+      "統",
+      "商",
+      "阿",
+      "婆",
+      "鐵",
+      "硬",
+      "愈",
+      "嚼",
+      "蒼",
+      "坡",
+      "憶",
+      "夕",
+      "盪",
+      "網"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 14,
+    "resultPaths": [
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第7課_similar_shape_7212f5f766a57355.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第7課_similar_shape_3f0d695a4a68645e.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第7課_similar_shape_9205cb9153e0bbce.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第7課_similar_shape_4e76ab1e9fdc06a3.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第7課_similar_shape_e426dccce95e8dc4.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第7課_similar_shape_8125760f5fa7729c.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第7課_similar_shape_f66a114d4871a156.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第7課_similar_shape_a187025cf46c74f1.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第7課_similar_shape_d31589e09c5c654b.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第7課_similar_shape_a1d19827944bbbdd.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第7課_similar_shape_8d905bd85e01e672.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第7課_similar_shape_aa074dd66f3b7157.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第7課_similar_shape_5db1483cf3ee8d1a.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第7課_similar_shape_b26b6a49dae9556d.json"
+    ]
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}

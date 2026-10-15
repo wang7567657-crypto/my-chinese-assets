@@ -1,0 +1,53 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_3年級_上學期_第7課_feature_ai_batch_452fb97bec4ede78",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 14,
+    "batchCharacters": [
+      "統",
+      "商",
+      "阿",
+      "婆",
+      "鐵",
+      "硬",
+      "愈",
+      "嚼",
+      "蒼",
+      "坡",
+      "憶",
+      "夕",
+      "盪",
+      "網"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 14,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第7課_confusion_analysis_f6c8a84589aa2cc1.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第7課_confusion_analysis_3242549cf8841228.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第7課_confusion_analysis_f8b4e842e76bf459.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第7課_confusion_analysis_0c1f4384fd9fac2a.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第7課_confusion_analysis_49f7281a1232b66a.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第7課_confusion_analysis_f9c6380d9eb34a26.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第7課_confusion_analysis_14dc6d8e2a34cd6d.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第7課_confusion_analysis_e9561f308e67ce5e.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第7課_confusion_analysis_9cc5a084237c55f8.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第7課_confusion_analysis_c31d22665f4d96dc.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第7課_confusion_analysis_f45c46f1f961a28a.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第7課_confusion_analysis_03857b71b7679c4c.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第7課_confusion_analysis_5b1e511e973bf6e1.json",
+      "aiGenerated/confusion_analysis/康軒_3年級_上學期_第7課_confusion_analysis_1519c77d51bd48fe.json"
+    ]
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}

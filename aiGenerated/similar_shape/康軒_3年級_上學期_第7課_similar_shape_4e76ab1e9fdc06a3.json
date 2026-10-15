@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第7課_similar_shape_4e76ab1e9fdc06a3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "婆",
+    "lessonChars": [
+      "統",
+      "商",
+      "阿",
+      "婆",
+      "鐵",
+      "硬",
+      "愈",
+      "嚼",
+      "蒼",
+      "坡",
+      "憶",
+      "夕",
+      "盪",
+      "網"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "婆",
+    "similarChars": [
+      {
+        "char": "波",
+        "similarity": "婆的上半部就是波。",
+        "difference": "婆在波下方另有女；波沒有下方的女。"
+      },
+      {
+        "char": "玻",
+        "similarity": "都有皮的形體。",
+        "difference": "婆是波在上、女在下；玻是王在左、皮在右。"
+      },
+      {
+        "char": "破",
+        "similarity": "都有皮的形體。",
+        "difference": "婆上有氵和皮、下有女；破左為石、右為皮。"
+      },
+      {
+        "char": "跛",
+        "similarity": "都有皮的形體。",
+        "difference": "婆是上下結構；跛左為足旁、右為皮，是左右結構。"
+      },
+      {
+        "char": "姿",
+        "similarity": "都是上方一組部件、下方女。",
+        "difference": "婆上為波，姿上為次；上方左側分別是氵與冫，右側分別是皮與欠。"
+      },
+      {
+        "char": "娑",
+        "similarity": "下方都有女，上方左側都有氵。",
+        "difference": "婆上為波，娑上為沙；右上分別是皮與少。"
+      }
+    ],
+    "teachingTip": "先看下方女，再辨上方是波、次或沙；有皮的字也要分清左右與上下結構。"
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}

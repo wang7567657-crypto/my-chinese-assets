@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_f9c6380d9eb34a26",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "硬",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "硬",
+    "groups": {
+      "shape": [
+        {
+          "char": "梗",
+          "why": "字形有相同部件或相近輪廓，容易混看。",
+          "difference": "硬左石、梗左木；右邊都是更。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "映",
+          "why": "硬ㄧㄥˋ、映ㄧㄥˋ，同音；硬是質地，映是照映。",
+          "difference": "先說完整詞語，再依詞義選字；不要只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "堅",
+          "why": "在部分語境中意義相關。",
+          "difference": "堅硬都可描述不易變形；堅也常描述意志，如堅定。"
+        }
+      ],
+      "component": [
+        {
+          "char": "梗",
+          "why": "比較整字及部件所在位置。",
+          "difference": "硬左石、梗左木；右邊都是更。"
+        }
+      ]
+    },
+    "tip": "先比部件位置，再放回課文語詞確認。「硬」與「梗」要分清。"
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}

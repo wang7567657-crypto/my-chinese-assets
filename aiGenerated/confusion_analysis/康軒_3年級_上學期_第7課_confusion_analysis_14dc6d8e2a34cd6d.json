@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_14dc6d8e2a34cd6d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "愈",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "愈",
+    "groups": {
+      "shape": [
+        {
+          "char": "逾",
+          "why": "字形有相同部件或相近輪廓，容易混看。",
+          "difference": "愈是俞下加心；逾是辶包住俞。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "玉",
+          "why": "愈ㄩˋ、玉ㄩˋ，同音；愈來愈用愈，玉石用玉。",
+          "difference": "先說完整詞語，再依詞義選字；不要只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "越",
+          "why": "在部分語境中意義相關。",
+          "difference": "愈來愈與越來越意思相近；越還可指跨過，如越過河流。"
+        }
+      ],
+      "component": [
+        {
+          "char": "逾",
+          "why": "比較整字及部件所在位置。",
+          "difference": "愈是俞下加心；逾是辶包住俞。"
+        }
+      ]
+    },
+    "tip": "先比部件位置，再放回課文語詞確認。「愈」與「逾」要分清。"
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}

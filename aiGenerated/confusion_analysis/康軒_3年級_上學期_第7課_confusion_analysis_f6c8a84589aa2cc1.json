@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_f6c8a84589aa2cc1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "統",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "統",
+    "groups": {
+      "shape": [
+        {
+          "char": "充",
+          "why": "統的右半部是充。",
+          "difference": "統左側另有糹；充沒有左側糹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "桶",
+          "why": "統ㄊㄨㄥˇ、桶ㄊㄨㄥˇ，同音；統整用統，水桶用桶。",
+          "difference": "先說完整詞語，再依詞義選字；不要只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "總",
+          "why": "在部分語境中意義相關。",
+          "difference": "統整強調整理合併；總數強調合計的數量。"
+        }
+      ],
+      "component": [
+        {
+          "char": "充",
+          "why": "統的右半部是充。",
+          "difference": "統左側另有糹；充沒有左側糹。"
+        }
+      ]
+    },
+    "tip": "先看左側有沒有糹，再把統放回「傳統」一詞確認。"
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}

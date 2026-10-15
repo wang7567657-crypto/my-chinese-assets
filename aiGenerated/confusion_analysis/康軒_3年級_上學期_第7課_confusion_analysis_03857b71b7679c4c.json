@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第7課_confusion_analysis_03857b71b7679c4c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "夕",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "夕",
+    "groups": {
+      "shape": [
+        {
+          "char": "多",
+          "why": "字形有相同部件或相近輪廓，容易混看。",
+          "difference": "多由上下兩個夕組成；夕只有一個。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "西",
+          "why": "夕ㄒㄧˋ、西ㄒㄧ，聲母韻母相同、聲調不同，屬近音。",
+          "difference": "先說完整詞語，再依詞義選字；不要只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "晚",
+          "why": "在部分語境中意義相關。",
+          "difference": "夕指傍晚時分；晚可指晚上，也可指時間較遲。"
+        }
+      ],
+      "component": [
+        {
+          "char": "多",
+          "why": "比較整字及部件所在位置。",
+          "difference": "多由上下兩個夕組成；夕只有一個。"
+        }
+      ]
+    },
+    "tip": "先比部件位置，再放回課文語詞確認。「夕」與「多」要分清。"
+  },
+  "createdAt": "2026-10-15T17:22:01.512889Z"
+}
