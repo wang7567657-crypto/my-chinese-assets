@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第10課_confusion_analysis_92a9d0eb5587b4b7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "腦",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "腦",
+    "groups": {
+      "shape": [
+        {
+          "char": "惱",
+          "why": "兩字右半部相同，只差左邊偏旁。",
+          "difference": "腦左邊是月，指身體的腦；惱左邊是忄，常用在煩惱、惱怒。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "惱",
+          "why": "同音：腦ㄋㄠˇ、惱ㄋㄠˇ。",
+          "difference": "大腦、頭腦用腦；煩惱用惱，不能把頭腦寫成頭惱。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "頭",
+          "why": "頭腦常連在一起說，容易以為兩字完全相同。",
+          "difference": "頭指頭部；腦是頭部裡的器官，和思考、記憶等功能有關。腦不是整個頭部。"
+        }
+      ],
+      "component": [
+        {
+          "char": "胸",
+          "why": "兩字左邊都是與身體有關的月字旁。",
+          "difference": "腦右上是巛，右下是囟；胸右邊是勹裡面有凶。看見月字旁後，還要分辨右邊。"
+        }
+      ]
+    },
+    "tip": "身體的腦用月字旁，心裡的煩惱用忄；腦的右下是囟，不是田。"
+  },
+  "createdAt": "2026-10-15T16:54:12.858729+00:00"
+}

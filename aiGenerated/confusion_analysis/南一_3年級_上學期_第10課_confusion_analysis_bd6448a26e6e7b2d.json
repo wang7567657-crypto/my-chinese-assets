@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第10課_confusion_analysis_bd6448a26e6e7b2d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "熊",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "熊",
+    "groups": {
+      "shape": [
+        {
+          "char": "能",
+          "why": "熊的上半部就是能，漏寫下方四點就會變成另一個字。",
+          "difference": "熊下面有灬，共四點；能下面沒有灬。北極熊不能寫成北極能。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "雄",
+          "why": "同音：熊ㄒㄩㄥˊ、雄ㄒㄩㄥˊ。",
+          "difference": "熊是動物名稱；雄可表示雄性，如雄鳥，也用在英雄。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "獸",
+          "why": "兩字都可能用來談動物，但所指範圍不同。",
+          "difference": "熊是特定一類動物；獸是較概括的稱呼。說北極熊，能比說一隻獸更清楚地指出種類。"
+        }
+      ],
+      "component": [
+        {
+          "char": "照",
+          "why": "兩字下方都有灬，容易只記住相同的四點。",
+          "difference": "熊上方是能，照上方是昭。相同的灬不能決定整字讀音或意思。"
+        }
+      ]
+    },
+    "tip": "上能下四點，合起來才是熊；不能因為毛看起來白，就把北極熊的皮膚也想成白色。"
+  },
+  "createdAt": "2026-10-15T16:54:12.858729+00:00"
+}

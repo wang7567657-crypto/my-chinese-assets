@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第10課_confusion_analysis_beb36cd0b33d944f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "根",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "根",
+    "groups": {
+      "shape": [
+        {
+          "char": "跟",
+          "why": "兩字右邊同為艮，只差左邊偏旁。",
+          "difference": "根左邊是木，如樹根；跟左邊是足，如跟隨。課文「根本不是白色的」用根本的根。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "跟",
+          "why": "同音：根ㄍㄣ、跟ㄍㄣ。",
+          "difference": "一根毛、樹根用根；跟著、腳跟用跟，不能只靠讀音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "條",
+          "why": "根和條都能作量詞，用在細長的東西上。",
+          "difference": "一根毛、一根木棒常用根；一條河、一條繩子常用條。量詞要配合事物，不能隨意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "很",
+          "why": "兩字右邊都有艮。",
+          "difference": "根左邊是木；很左邊是彳。根表示樹根或作量詞，很常放在形容詞前，如很好。"
+        }
+      ]
+    },
+    "tip": "課文的根本用木字旁的根；跟著走用足字旁的跟。也可以用樹根、一根毛練習根的不同用法。"
+  },
+  "createdAt": "2026-10-15T16:54:12.858729+00:00"
+}

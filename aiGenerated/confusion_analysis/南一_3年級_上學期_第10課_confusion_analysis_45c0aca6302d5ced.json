@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第10課_confusion_analysis_45c0aca6302d5ced",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "雪",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "雪",
+    "groups": {
+      "shape": [
+        {
+          "char": "雲",
+          "why": "兩字都有雨字頭，下方筆畫也不多。",
+          "difference": "雪下面是彐；雲下面是云。雪花的雪，不要寫成白雲的雲。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "學",
+          "why": "近音：雪ㄒㄩㄝˇ、學ㄒㄩㄝˊ，聲母、韻母相同，聲調不同。",
+          "difference": "雪是第三聲，學是第二聲；讀雪白時，要讀ㄒㄩㄝˇ，不能讀成ㄒㄩㄝˊ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "冰",
+          "why": "兩者都和寒冷、凝結的水有關，容易混為一談。",
+          "difference": "雪常以雪花的樣子從雲中落下；冰是水凝固形成的固體。雪白是像雪一樣白，不必改成冰白。"
+        }
+      ],
+      "component": [
+        {
+          "char": "雷",
+          "why": "兩字上方都是雨字頭。",
+          "difference": "雪的雨字頭下面是彐；雷的下面是田。不要在雪的下半部多畫田的直線。"
+        }
+      ]
+    },
+    "tip": "雨字頭下接彐，雪白的雪讀第三聲；下方不要寫成雲的云或雷的田。"
+  },
+  "createdAt": "2026-10-15T16:54:12.858729+00:00"
+}
