@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第4課_similar_shape_2ae2e7b1f308e4a3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "危",
+    "lessonChars": [
+      "露",
+      "懷",
+      "居",
+      "準",
+      "射",
+      "刺",
+      "痛",
+      "使",
+      "毒",
+      "欺",
+      "負",
+      "感",
+      "遇",
+      "危",
+      "丑",
+      "葵",
+      "擺",
+      "觸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "危",
+    "similarChars": [
+      {
+        "char": "免",
+        "similarity": "頂端都有一撇、一橫撇，下部都有彎鉤輪廓",
+        "difference": "危中部是厂、下方㔾；免沒有厂，中段的豎撇一筆向下伸出，底部另有豎曲鉤。頂端均不寫成刀。"
+      },
+      {
+        "char": "色",
+        "similarity": "頂端都有一撇、一橫撇，下部都有彎鉤輪廓",
+        "difference": "危中間有厂、下方㔾；色下面是巴，沒有厂。危頂端是一短撇、一橫撇，不寫成刀。"
+      },
+      {
+        "char": "厄",
+        "similarity": "都有厂包住㔾",
+        "difference": "危比厄多了最上方的一短撇、一橫撇；這兩筆不寫成刀。"
+      },
+      {
+        "char": "卷",
+        "similarity": "下方都有㔾形",
+        "difference": "危上方是厃，由一短撇、一橫撇和厂構成；卷上方是龹形。"
+      },
+      {
+        "char": "跪",
+        "similarity": "都有危部件",
+        "difference": "跪在危左邊加足字旁；危沒有足字旁。"
+      },
+      {
+        "char": "脆",
+        "similarity": "都有危部件",
+        "difference": "脆在危左邊加月字旁；危沒有月字旁。"
+      }
+    ],
+    "teachingTip": "先指認共同部件，再用兩種顏色圈出不同部位；少見字只作辨形，不要求默寫。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}

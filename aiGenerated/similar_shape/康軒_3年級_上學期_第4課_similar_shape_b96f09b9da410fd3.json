@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第4課_similar_shape_b96f09b9da410fd3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "觸",
+    "lessonChars": [
+      "露",
+      "懷",
+      "居",
+      "準",
+      "射",
+      "刺",
+      "痛",
+      "使",
+      "毒",
+      "欺",
+      "負",
+      "感",
+      "遇",
+      "危",
+      "丑",
+      "葵",
+      "擺",
+      "觸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "觸",
+    "similarChars": [
+      {
+        "char": "獨",
+        "similarity": "右邊同是蜀",
+        "difference": "觸左邊是角；獨左邊是犭。"
+      },
+      {
+        "char": "濁",
+        "similarity": "右邊同是蜀",
+        "difference": "觸左邊是角；濁左邊是氵。"
+      },
+      {
+        "char": "燭",
+        "similarity": "右邊同是蜀",
+        "difference": "觸左邊是角；燭左邊是火。"
+      },
+      {
+        "char": "躅",
+        "similarity": "右邊同是蜀",
+        "difference": "觸左邊是角；躅左邊是足字旁。躅較少見，可在躑躅中見到。"
+      },
+      {
+        "char": "蜀",
+        "similarity": "都有蜀部件",
+        "difference": "觸在蜀左邊加角；蜀沒有角。"
+      },
+      {
+        "char": "解",
+        "similarity": "左邊同是角",
+        "difference": "觸右邊是蜀；解右邊是刀和牛。"
+      }
+    ],
+    "teachingTip": "先指認共同部件，再用兩種顏色圈出不同部位；少見字只作辨形，不要求默寫。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}

@@ -1,0 +1,317 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_3年級_上學期_第4課_feature_ai_batch_a457486901f85d50",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 18,
+    "batchCharacters": [
+      "露",
+      "懷",
+      "居",
+      "準",
+      "射",
+      "刺",
+      "痛",
+      "使",
+      "毒",
+      "欺",
+      "負",
+      "感",
+      "遇",
+      "危",
+      "丑",
+      "葵",
+      "擺",
+      "觸"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_a43212c4c0499510",
+        "input": {
+          "char": "露",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_bc75f75d6f34000f",
+        "input": {
+          "char": "懷",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_09e5a76ec58b2398",
+        "input": {
+          "char": "居",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_0d374735fdf041e4",
+        "input": {
+          "char": "準",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_8f66a954141c7223",
+        "input": {
+          "char": "射",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_0dd8a3490bbddf63",
+        "input": {
+          "char": "刺",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_47f86f115d215405",
+        "input": {
+          "char": "痛",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_bd8da914e79235c7",
+        "input": {
+          "char": "使",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_9dcb6dc2547e7d8e",
+        "input": {
+          "char": "毒",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_6306533a857bca5e",
+        "input": {
+          "char": "欺",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_bed86616707a59c5",
+        "input": {
+          "char": "負",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_a2670f5e9250b5a9",
+        "input": {
+          "char": "感",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_f96587191111a60a",
+        "input": {
+          "char": "遇",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_2b7a1192d42ada78",
+        "input": {
+          "char": "危",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_1fe69540cdac657d",
+        "input": {
+          "char": "丑",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_cecd177df71135ee",
+        "input": {
+          "char": "葵",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_9fc298591735084a",
+        "input": {
+          "char": "擺",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_838e97b2f76cd392",
+        "input": {
+          "char": "觸",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z",
+  "processedAt": "2026-10-15T08:33:47.317692Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "康軒_3年級_上學期_第4課_feature_ai_batch_a457486901f85d50",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "康軒",
+      "grade": "3年級",
+      "semester": "上學期",
+      "lesson": "第4課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 18,
+      "batchCharacters": [
+        "露",
+        "懷",
+        "居",
+        "準",
+        "射",
+        "刺",
+        "痛",
+        "使",
+        "毒",
+        "欺",
+        "負",
+        "感",
+        "遇",
+        "危",
+        "丑",
+        "葵",
+        "擺",
+        "觸"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 18,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_a43212c4c0499510.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_bc75f75d6f34000f.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_09e5a76ec58b2398.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_0d374735fdf041e4.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_8f66a954141c7223.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_0dd8a3490bbddf63.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_47f86f115d215405.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_bd8da914e79235c7.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_9dcb6dc2547e7d8e.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_6306533a857bca5e.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_bed86616707a59c5.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_a2670f5e9250b5a9.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_f96587191111a60a.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_2b7a1192d42ada78.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_1fe69540cdac657d.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_cecd177df71135ee.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_9fc298591735084a.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第4課_confusion_analysis_838e97b2f76cd392.json"
+      ]
+    },
+    "createdAt": "2026-10-15T08:33:47.317692Z"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第4課_similar_shape_89fcd3343c231356",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "準",
+    "lessonChars": [
+      "露",
+      "懷",
+      "居",
+      "準",
+      "射",
+      "刺",
+      "痛",
+      "使",
+      "毒",
+      "欺",
+      "負",
+      "感",
+      "遇",
+      "危",
+      "丑",
+      "葵",
+      "擺",
+      "觸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "準",
+    "similarChars": [
+      {
+        "char": "淮",
+        "similarity": "都有氵和隹",
+        "difference": "準在淮下面再加十；淮下面沒有十。"
+      },
+      {
+        "char": "隼",
+        "similarity": "都有上隹下十",
+        "difference": "準比隼多了左上方的氵。隼是鳥名用字。"
+      },
+      {
+        "char": "誰",
+        "similarity": "都有隹部件",
+        "difference": "準左上氵、下方十；誰左邊言，下面沒有另加十。"
+      },
+      {
+        "char": "堆",
+        "similarity": "都有隹部件",
+        "difference": "準左上氵、下方十；堆左邊土，下面沒有另加十。"
+      },
+      {
+        "char": "推",
+        "similarity": "都有隹部件",
+        "difference": "準左上氵、下方十；推左邊扌，下面沒有另加十。"
+      },
+      {
+        "char": "集",
+        "similarity": "都在隹下另有部件",
+        "difference": "準左上另有氵、下方十；集沒有氵，下方是木。"
+      }
+    ],
+    "teachingTip": "先指認共同部件，再用兩種顏色圈出不同部位；少見字只作辨形，不要求默寫。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}

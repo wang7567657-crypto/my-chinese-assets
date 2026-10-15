@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_47f86f115d215405",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "痛",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "痛",
+    "groups": {
+      "shape": [
+        {
+          "char": "通",
+          "why": "裡面都有甬，外側筆畫容易混淆。",
+          "difference": "痛外側是疒；通外側是辶。身體覺得好痛，用疒旁的痛；通過用辶旁的通。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "同",
+          "why": "近音比較：痛ㄊㄨㄥˋ、同ㄊㄨㄥˊ，聲調不同。",
+          "difference": "痛是第四聲，表示疼痛；同是第二聲，可組相同。同音節不代表同一個字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "疼",
+          "why": "疼和痛都可表示身體難受。",
+          "difference": "疼痛中的兩字意思接近；疼還可表示疼愛，如疼孩子。課文說好痛，是身體受刺激的感覺，不是疼愛的意思。"
+        }
+      ],
+      "component": [
+        {
+          "char": "病",
+          "why": "同樣有疒，都常用於描述身體狀態。",
+          "difference": "痛裡面是甬；病裡面是丙。疼痛是一種感覺，生病則是身體有疾病，不能只看疒就當成同一個字。"
+        }
+      ]
+    },
+    "tip": "好痛的痛用疒，裡面是甬；別寫成有辶的通。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}

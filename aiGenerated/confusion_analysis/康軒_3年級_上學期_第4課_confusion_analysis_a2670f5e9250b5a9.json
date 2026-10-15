@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_a2670f5e9250b5a9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "感",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "感",
+    "groups": {
+      "shape": [
+        {
+          "char": "惑",
+          "why": "下方都是心，上方也有斜鉤、口等相似筆畫。",
+          "difference": "感上方是咸；惑上方是或。感動用感，疑惑用惑。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "敢",
+          "why": "同音比較：感、敢都讀ㄍㄢˇ。",
+          "difference": "感可組感動、感謝；敢可組勇敢、不敢。受到幫助而感動，用下面有心的感。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "謝",
+          "why": "感動和感謝都可能出現在受到幫助之後。",
+          "difference": "感動著重心裡受到觸動；感謝著重對別人的好意表示謝意。兩者相關，卻不是每次都能互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "想",
+          "why": "下面都包含心，可用來比較上下結構。",
+          "difference": "感的上面是咸；想的上面是相。感動和想念的上半不同，不要只看見心就猜字。"
+        }
+      ]
+    },
+    "tip": "受到幫助，心裡感動：感下面是心，上面是咸；和勇敢的敢同音。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}

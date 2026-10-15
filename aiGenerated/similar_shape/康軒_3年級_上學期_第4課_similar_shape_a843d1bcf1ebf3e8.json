@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第4課_similar_shape_a843d1bcf1ebf3e8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "欺",
+    "lessonChars": [
+      "露",
+      "懷",
+      "居",
+      "準",
+      "射",
+      "刺",
+      "痛",
+      "使",
+      "毒",
+      "欺",
+      "負",
+      "感",
+      "遇",
+      "危",
+      "丑",
+      "葵",
+      "擺",
+      "觸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "欺",
+    "similarChars": [
+      {
+        "char": "期",
+        "similarity": "都有其部件",
+        "difference": "欺右邊是欠；期右邊是月。"
+      },
+      {
+        "char": "棋",
+        "similarity": "都有其部件",
+        "difference": "欺是左其右欠；棋是左木右其。"
+      },
+      {
+        "char": "旗",
+        "similarity": "都有其部件",
+        "difference": "欺右邊欠；旗左邊方，右上有𠂉，下方才是其。"
+      },
+      {
+        "char": "其",
+        "similarity": "都有其部件",
+        "difference": "欺在其右邊加欠；其沒有欠。"
+      },
+      {
+        "char": "歉",
+        "similarity": "都有右邊的欠",
+        "difference": "欺左邊是其；歉左邊是兼。"
+      },
+      {
+        "char": "斯",
+        "similarity": "都有左邊的其",
+        "difference": "欺右邊是欠；斯右邊是斤。"
+      }
+    ],
+    "teachingTip": "先指認共同部件，再用兩種顏色圈出不同部位；少見字只作辨形，不要求默寫。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}

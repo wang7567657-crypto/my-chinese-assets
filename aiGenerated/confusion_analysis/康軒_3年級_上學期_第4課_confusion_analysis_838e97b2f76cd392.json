@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_838e97b2f76cd392",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "觸",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "觸",
+    "groups": {
+      "shape": [
+        {
+          "char": "獨",
+          "why": "右邊都是蜀，筆畫很多時容易忽略左邊。",
+          "difference": "觸左邊是角；獨左邊是犭。觸手、接觸用觸，獨自用獨。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "處",
+          "why": "同音比較：觸和「到處」的處都讀ㄔㄨˋ。",
+          "difference": "觸可組觸手、接觸；處可組到處、住處。處理的處另讀ㄔㄨˇ，不能把處的不同語境讀音混用。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "碰",
+          "why": "接觸和碰到都與物體相接有關。",
+          "difference": "觸可表示碰到，也能出現在動物器官名稱「觸手」中；碰常表示碰撞、碰到。海葵的觸手不能改稱碰手。"
+        }
+      ],
+      "component": [
+        {
+          "char": "解",
+          "why": "左邊都包含角，可比較同部件的字。",
+          "difference": "觸右邊是蜀；解右邊是刀和牛。接觸用觸，解開用解，不要只看角字旁。"
+        }
+      ]
+    },
+    "tip": "觸手的觸：左角、右蜀，讀ㄔㄨˋ；觸手是海葵的身體構造，不能換成碰手。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}

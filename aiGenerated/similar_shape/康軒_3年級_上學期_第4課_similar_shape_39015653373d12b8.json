@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第4課_similar_shape_39015653373d12b8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "負",
+    "lessonChars": [
+      "露",
+      "懷",
+      "居",
+      "準",
+      "射",
+      "刺",
+      "痛",
+      "使",
+      "毒",
+      "欺",
+      "負",
+      "感",
+      "遇",
+      "危",
+      "丑",
+      "葵",
+      "擺",
+      "觸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "負",
+    "similarChars": [
+      {
+        "char": "貝",
+        "similarity": "都有貝部件",
+        "difference": "負在貝上面另有⺈（一撇、一橫撇，不作刀）；貝沒有字頭。"
+      },
+      {
+        "char": "頁",
+        "similarity": "下半部都有貝形",
+        "difference": "負上方是⺈（一撇、一橫撇，不作刀）；頁上方是一橫一撇。"
+      },
+      {
+        "char": "貨",
+        "similarity": "下方同是貝",
+        "difference": "負上方是⺈（一撇、一橫撇，不作刀）；貨上方是化。"
+      },
+      {
+        "char": "資",
+        "similarity": "下方同是貝",
+        "difference": "負上方是⺈（一撇、一橫撇，不作刀）；資上方是次。"
+      },
+      {
+        "char": "員",
+        "similarity": "下方同是貝",
+        "difference": "負上方是⺈（一撇、一橫撇，不作刀）；員上方是口。"
+      },
+      {
+        "char": "責",
+        "similarity": "下方同是貝",
+        "difference": "負上方是⺈（一撇、一橫撇，不作刀）；責上方是多橫筆和中豎構成的部件。"
+      }
+    ],
+    "teachingTip": "先指認共同部件，再用兩種顏色圈出不同部位；少見字只作辨形，不要求默寫。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}
