@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第2課_confusion_analysis_d0c81939843e4c0f",
+  "input": {
+    "char": "骨",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "骨",
+    "groups": {
+      "shape": [
+        {
+          "char": "滑",
+          "why": "字形含有相同或相近部件，需要看清差別。",
+          "difference": "滑左邊多氵，右邊是骨。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "古",
+          "why": "同音：骨在排骨中讀ㄍㄨˇ；古也讀ㄍㄨˇ。",
+          "difference": "排骨用骨，古代用古。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "肉",
+          "why": "比較本課用字與相關意思。",
+          "difference": "骨頭較堅硬、支撐身體；肉是身體的柔軟組織。"
+        }
+      ],
+      "component": [
+        {
+          "char": "骼",
+          "why": "觀察共用部件或部件位置。",
+          "difference": "骼左邊是骨，右邊多各；常見於骨骼一詞。"
+        }
+      ]
+    },
+    "tip": "滑左邊多氵，右邊是骨。 排骨用骨，古代用古。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

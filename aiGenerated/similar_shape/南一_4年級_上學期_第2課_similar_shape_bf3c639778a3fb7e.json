@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第2課_similar_shape_bf3c639778a3fb7e",
+  "input": {
+    "targetChar": "菜",
+    "lessonChars": [
+      "汽",
+      "煮",
+      "骨",
+      "粥",
+      "燙",
+      "換",
+      "即",
+      "菜",
+      "齒",
+      "餐",
+      "矯",
+      "餓",
+      "彷",
+      "彿",
+      "濃"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "菜",
+    "similarChars": [
+      {
+        "char": "採",
+        "similarity": "都含完整的采。",
+        "difference": "採在采左加扌；菜在采上加艹。"
+      },
+      {
+        "char": "彩",
+        "similarity": "都含完整的采。",
+        "difference": "彩在采右加彡；菜在采上加艹。"
+      },
+      {
+        "char": "采",
+        "similarity": "采就是菜去掉草字頭的部分。",
+        "difference": "采沒有艹；菜上方多艹。"
+      },
+      {
+        "char": "茶",
+        "similarity": "同為艹在上，下方有木形筆畫。",
+        "difference": "茶在艹下是人形與木形筆畫；菜在艹下是爫加木，注意爫的短撇與點。"
+      },
+      {
+        "char": "萊",
+        "similarity": "同為艹在上，下方都有木形主幹。",
+        "difference": "萊下方為來，主幹兩旁各有小人形；菜下方為采，木上有爫。"
+      },
+      {
+        "char": "菊",
+        "similarity": "同為艹在上，下方都有向四周伸出的米木形筆畫。",
+        "difference": "菊下方為勹包米；菜下方為采，沒有勹的外包筆畫。"
+      }
+    ],
+    "teachingTip": "記住「艹下面是采」，采又可看成爫加木；用蔬菜聯想到草字頭。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

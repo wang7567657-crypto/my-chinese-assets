@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第2課_confusion_analysis_cd2d01f82ad01186",
+  "input": {
+    "char": "齒",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "齒",
+    "groups": {
+      "shape": [
+        {
+          "char": "齡",
+          "why": "字形含有相同或相近部件，需要看清差別。",
+          "difference": "齡左齒右令；齒沒有右邊令。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "尺",
+          "why": "同音：都讀ㄔˇ。",
+          "difference": "牙齒用齒，尺子用尺。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "牙",
+          "why": "比較本課用字與相關意思。",
+          "difference": "牙和齒都可指口中的牙齒；齒還可指像牙齒的構造，如齒輪。"
+        }
+      ],
+      "component": [
+        {
+          "char": "止",
+          "why": "觀察共用部件或部件位置。",
+          "difference": "齒上方有止形，下方另有多個筆畫，不能只寫止。"
+        }
+      ]
+    },
+    "tip": "齡左齒右令；齒沒有右邊令。 牙齒用齒，尺子用尺。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

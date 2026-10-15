@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第2課_confusion_analysis_ca138455bd3706b9",
+  "input": {
+    "char": "彿",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "彿",
+    "groups": {
+      "shape": [
+        {
+          "char": "佛",
+          "why": "字形含有相同或相近部件，需要看清差別。",
+          "difference": "彿左彳；佛左亻，右邊都是弗。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "福",
+          "why": "同音：彿在彷彿中讀ㄈㄨˊ；福也讀ㄈㄨˊ。",
+          "difference": "彷彿用彿；幸福用福。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "像",
+          "why": "比較本課用字與相關意思。",
+          "difference": "彷彿表示好像；像還可表示形象，如畫像，不能處處互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "拂",
+          "why": "觀察共用部件或部件位置。",
+          "difference": "彿左彳，拂左扌，右邊都是弗。"
+        }
+      ]
+    },
+    "tip": "彿左彳；佛左亻，右邊都是弗。 彷彿用彿；幸福用福。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

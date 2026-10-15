@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第2課_memory_strategy_ea60304fd886dba6",
+  "input": {
+    "char": "換",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "換",
+    "components": [
+      "扌",
+      "奐"
+    ],
+    "association": "用手把原來的水倒掉，再換入清水，提醒提手旁。（記憶聯想，不代表字源。）",
+    "mnemonic": "換水用手做，左手右奐莫寫錯。",
+    "visualPrompt": "字旁畫兩杯水交換位置，扌分色。保持標準字形，圖在字旁，不以圖取代筆畫。",
+    "teachingTip": "右方奐依標準字形觀察，不把下部大改成夬；聯想不當字源。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

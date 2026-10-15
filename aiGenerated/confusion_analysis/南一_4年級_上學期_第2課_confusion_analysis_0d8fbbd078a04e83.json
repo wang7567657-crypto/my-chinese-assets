@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第2課_confusion_analysis_0d8fbbd078a04e83",
+  "input": {
+    "char": "煮",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "煮",
+    "groups": {
+      "shape": [
+        {
+          "char": "著",
+          "why": "字形含有相同或相近部件，需要看清差別。",
+          "difference": "煮下方灬；著上方艹、下方者。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "主",
+          "why": "同音：都讀ㄓㄨˇ。",
+          "difference": "煮飯用煮，主人用主。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蒸",
+          "why": "比較本課用字與相關意思。",
+          "difference": "煮通常把食物放在水或湯中加熱；蒸用蒸氣加熱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "者",
+          "why": "觀察共用部件或部件位置。",
+          "difference": "煮上方是者，下方還有灬；者可組作者。"
+        }
+      ]
+    },
+    "tip": "煮下方灬；著上方艹、下方者。 煮飯用煮，主人用主。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

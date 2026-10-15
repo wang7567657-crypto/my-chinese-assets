@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第2課_similar_shape_627edad8a055dec8",
+  "input": {
+    "targetChar": "骨",
+    "lessonChars": [
+      "汽",
+      "煮",
+      "骨",
+      "粥",
+      "燙",
+      "換",
+      "即",
+      "菜",
+      "齒",
+      "餐",
+      "矯",
+      "餓",
+      "彷",
+      "彿",
+      "濃"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "骨",
+    "similarChars": [
+      {
+        "char": "滑",
+        "similarity": "右側包含完整的骨。",
+        "difference": "滑在骨左加氵；骨本身沒有氵。"
+      },
+      {
+        "char": "猾",
+        "similarity": "右側包含完整的骨。",
+        "difference": "猾在骨左加犭；骨本身沒有犭。"
+      },
+      {
+        "char": "骼",
+        "similarity": "左側包含骨，上方與下方輪廓相同。",
+        "difference": "骼在骨右加各；骨右側沒有各。"
+      },
+      {
+        "char": "髓",
+        "similarity": "左側包含骨。",
+        "difference": "髓在骨右加包含辶的複雜部件；骨右側沒有這組筆畫。"
+      },
+      {
+        "char": "骸",
+        "similarity": "左側包含骨。",
+        "difference": "骸在骨右加亥；骨右側沒有亥。"
+      },
+      {
+        "char": "髒",
+        "similarity": "左側包含骨。",
+        "difference": "髒在骨右加葬；骨本身沒有右側上下疊置的葬。"
+      }
+    ],
+    "teachingTip": "用排骨的「骨」觀察上方框形與下方月形；先圈出完整的骨，再找形近字新增的部件。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

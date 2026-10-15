@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第2課_confusion_analysis_b1092ffb952eed13",
+  "input": {
+    "char": "燙",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "燙",
+    "groups": {
+      "shape": [
+        {
+          "char": "湯",
+          "why": "字形含有相同或相近部件，需要看清差別。",
+          "difference": "燙上方是湯，下方多火；湯沒有下方火。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "趟",
+          "why": "同音：都讀ㄊㄤˋ。",
+          "difference": "很燙表示溫度高；一趟用來計算往返的次數。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "熱",
+          "why": "比較本課用字與相關意思。",
+          "difference": "燙強調熱到接觸時可能不舒服；熱的使用範圍較廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "火",
+          "why": "觀察共用部件或部件位置。",
+          "difference": "燙下面是完整火；火本身可組火苗。"
+        }
+      ]
+    },
+    "tip": "燙上方是湯，下方多火；湯沒有下方火。 很燙表示溫度高；一趟用來計算往返的次數。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第2課_memory_strategy_52d9d1426a744dcc",
+  "input": {
+    "char": "矯",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "矯",
+    "components": [
+      "矢",
+      "喬"
+    ],
+    "association": "牙齒矯正是把不整齊的地方調整好，記住左矢右喬。（記憶聯想，不代表字源。）",
+    "mnemonic": "矢在左，喬在右，矯正牙齒記心頭。",
+    "visualPrompt": "整齊牙齒圖放字旁，左矢右喬分色。保持標準字形，圖在字旁，不以圖取代筆畫。",
+    "teachingTip": "矢與禾不同，別寫成嬌、橋；聯想不代表字源。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

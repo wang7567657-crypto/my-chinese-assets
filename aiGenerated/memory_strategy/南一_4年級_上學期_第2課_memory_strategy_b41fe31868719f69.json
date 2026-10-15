@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第2課_memory_strategy_b41fe31868719f69",
+  "input": {
+    "char": "骨",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "骨",
+    "components": [
+      "骨的上半部",
+      "下方肉部形"
+    ],
+    "association": "排骨裡有骨頭，用整字輪廓配合排骨圖片記憶。（記憶聯想，不代表字源。）",
+    "mnemonic": "上方骨字頭，下方肉部留。",
+    "visualPrompt": "排骨圖片放在標準骨字旁，上下兩部分分色。保持標準字形，圖在字旁，不以圖取代筆畫。",
+    "teachingTip": "上方轉折較多，對照標準字形逐段看，不把內部簡化成口。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

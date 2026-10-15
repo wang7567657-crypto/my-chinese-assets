@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第2課_memory_strategy_7ff8703404bc484d",
+  "input": {
+    "char": "餐",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "餐",
+    "components": [
+      "上方部件",
+      "食"
+    ],
+    "association": "餐桌上有食物，下方食提醒用餐。（記憶聯想，不代表字源。）",
+    "mnemonic": "餐字下面食，吃飯要按時。",
+    "visualPrompt": "餐桌圖片放在字旁，把下方食分色。保持標準字形，圖在字旁，不以圖取代筆畫。",
+    "teachingTip": "上半部較複雜，逐段對照標準字形；不要只寫成食。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

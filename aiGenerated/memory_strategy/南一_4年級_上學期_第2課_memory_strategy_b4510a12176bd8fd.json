@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第2課_memory_strategy_b4510a12176bd8fd",
+  "input": {
+    "char": "齒",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "齒",
+    "components": [
+      "止形上部",
+      "齒的下半部"
+    ],
+    "association": "用牙齒排列整齊的圖，幫助記住齒字下半部的密集筆畫。（記憶聯想，不代表字源。）",
+    "mnemonic": "牙齒齒，上有止，下方筆畫看仔細。",
+    "visualPrompt": "牙齒圖放在字旁，字內只分色不改線條。保持標準字形，圖在字旁，不以圖取代筆畫。",
+    "teachingTip": "本字先記上止形，再對照標準字形看下半部，不用牙代替。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}
