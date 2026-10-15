@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_09e5a76ec58b2398",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "居",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "居",
+    "groups": {
+      "shape": [
+        {
+          "char": "古",
+          "why": "居的內部是古，漏掉外側筆畫就會變成古。",
+          "difference": "居是尸下面放古；古只有十和口。「居心」的居，上方和左側的尸不能省略。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "拘",
+          "why": "同音比較：居、拘都讀ㄐㄩ。",
+          "difference": "居可組居心、居住；拘可組拘束、拘捕。「居心不良」用居，不用提手旁的拘。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "住",
+          "why": "居住中的居和住意思相近。",
+          "difference": "居在「居心」中指存著某種心意，不能用住替換；住在「住在海裡」中表示居住。要看整個詞，不能只套用居住的意思。"
+        }
+      ],
+      "component": [
+        {
+          "char": "屋",
+          "why": "都有外側的尸，且下方包住另一個部件。",
+          "difference": "居的尸下是古；屋的尸下是至。寫居心時，下半看清楚是十和口。"
+        }
+      ]
+    },
+    "tip": "「尸下古」寫成居；居心是心裡存著的想法，不是在心裡居住。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}

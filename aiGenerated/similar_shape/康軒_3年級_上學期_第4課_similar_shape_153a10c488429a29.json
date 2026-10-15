@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第4課_similar_shape_153a10c488429a29",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "擺",
+    "lessonChars": [
+      "露",
+      "懷",
+      "居",
+      "準",
+      "射",
+      "刺",
+      "痛",
+      "使",
+      "毒",
+      "欺",
+      "負",
+      "感",
+      "遇",
+      "危",
+      "丑",
+      "葵",
+      "擺",
+      "觸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "擺",
+    "similarChars": [
+      {
+        "char": "罷",
+        "similarity": "都有罷部件",
+        "difference": "擺在罷左邊加扌；罷沒有扌。"
+      },
+      {
+        "char": "襬",
+        "similarity": "右邊同是罷",
+        "difference": "擺左邊是扌；襬左邊是衤，常用於裙襬。"
+      },
+      {
+        "char": "擇",
+        "similarity": "都有扌，右上同有罒形",
+        "difference": "擺右下是能；擇右下是幸形。"
+      },
+      {
+        "char": "擋",
+        "similarity": "都有扌，右下有方框輪廓",
+        "difference": "擺右邊是罷，上方罒、下方能；擋右邊是當，上方尚形、下方田。"
+      },
+      {
+        "char": "擢",
+        "similarity": "都有扌，右邊上下分層且筆畫多",
+        "difference": "擺右邊是罷；擢右邊是翟，上羽下隹。擢較少見。"
+      },
+      {
+        "char": "擡",
+        "similarity": "都有扌，右邊上下分層且筆畫多",
+        "difference": "擺右邊是罷；擡右邊是臺。擡是抬的異體寫法。"
+      }
+    ],
+    "teachingTip": "先指認共同部件，再用兩種顏色圈出不同部位；少見字只作辨形，不要求默寫。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}

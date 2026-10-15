@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第4課_similar_shape_79cf1895daf0b41c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "感",
+    "lessonChars": [
+      "露",
+      "懷",
+      "居",
+      "準",
+      "射",
+      "刺",
+      "痛",
+      "使",
+      "毒",
+      "欺",
+      "負",
+      "感",
+      "遇",
+      "危",
+      "丑",
+      "葵",
+      "擺",
+      "觸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "感",
+    "similarChars": [
+      {
+        "char": "惑",
+        "similarity": "都是上下結構，下方心",
+        "difference": "感上方是咸；惑上方是或，或有口下短橫，沒有咸的外圍撇。"
+      },
+      {
+        "char": "憾",
+        "similarity": "都有感部件",
+        "difference": "憾在感左邊加忄；感沒有忄。"
+      },
+      {
+        "char": "減",
+        "similarity": "都有咸部件",
+        "difference": "感在咸下方加心；減在咸左邊加氵。"
+      },
+      {
+        "char": "喊",
+        "similarity": "都有咸部件",
+        "difference": "感在咸下方加心；喊在咸左邊加口。"
+      },
+      {
+        "char": "咸",
+        "similarity": "都有咸部件",
+        "difference": "感在咸下面加心；咸沒有心。"
+      },
+      {
+        "char": "威",
+        "similarity": "都有戌形外框及內部部件",
+        "difference": "感上方是咸、下方心；威裡面是女，下面沒有心。"
+      }
+    ],
+    "teachingTip": "先指認共同部件，再用兩種顏色圈出不同部位；少見字只作辨形，不要求默寫。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}

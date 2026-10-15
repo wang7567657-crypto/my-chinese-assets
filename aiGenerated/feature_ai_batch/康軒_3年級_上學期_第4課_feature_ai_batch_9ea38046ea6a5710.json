@@ -1,0 +1,61 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_3年級_上學期_第4課_feature_ai_batch_9ea38046ea6a5710",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 18,
+    "batchCharacters": [
+      "露",
+      "懷",
+      "居",
+      "準",
+      "射",
+      "刺",
+      "痛",
+      "使",
+      "毒",
+      "欺",
+      "負",
+      "感",
+      "遇",
+      "危",
+      "丑",
+      "葵",
+      "擺",
+      "觸"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 18,
+    "resultPaths": [
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_fd7f42d81863391d.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_5b97f985ad52a923.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_f2df77ca3d94a989.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_89fcd3343c231356.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_b9521aefecaff77a.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_1c7fe9d6800465e6.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_737097d90934164c.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_1473572f8233523c.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_8a98aab1ee6873b8.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_a843d1bcf1ebf3e8.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_39015653373d12b8.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_79cf1895daf0b41c.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_a420a39a7d4a5b1e.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_2ae2e7b1f308e4a3.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_e068ee9c2afdfdc2.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_b7b1507b7e5138ea.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_153a10c488429a29.json",
+      "aiGenerated/similar_shape/康軒_3年級_上學期_第4課_similar_shape_b96f09b9da410fd3.json"
+    ]
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}

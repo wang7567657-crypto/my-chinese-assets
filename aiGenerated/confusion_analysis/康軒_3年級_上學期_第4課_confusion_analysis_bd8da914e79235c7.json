@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_bd8da914e79235c7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "使",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "使",
+    "groups": {
+      "shape": [
+        {
+          "char": "便",
+          "why": "兩字左邊都有亻，右半也有交叉筆畫。",
+          "difference": "使右半是吏；便右半是更。寫使用的使時，不要把右半改成更。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "史",
+          "why": "同音比較：使、史都讀ㄕˇ。",
+          "difference": "使可組使用、使力；史可組歷史、史料。使有亻，右半是吏，不是把亻和史直接拼在一起。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "用",
+          "why": "使力和用力都與運用力量有關。",
+          "difference": "使在「使出全力」中表示運用；用可組用力、用品。使還可表示讓，例如使人感動，這裡不能直接換成用。"
+        }
+      ],
+      "component": [
+        {
+          "char": "吏",
+          "why": "吏是使的右半，容易少寫左邊的亻。",
+          "difference": "使是亻加吏，讀ㄕˇ；吏讀ㄌㄧˋ，古代指官員或辦事人員。共用部件不表示讀音、意思相同。"
+        }
+      ]
+    },
+    "tip": "用力做事寫「使」：左亻、右吏。右半不要誤寫成史或更。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}

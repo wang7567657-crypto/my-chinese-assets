@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_6306533a857bca5e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "欺",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "欺",
+    "groups": {
+      "shape": [
+        {
+          "char": "期",
+          "why": "左邊都是其，右邊的形狀容易看錯。",
+          "difference": "欺右邊是欠；期右邊是月。欺負用欺，日期用期。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "七",
+          "why": "同音比較：欺、七都讀ㄑㄧ。",
+          "difference": "欺可組欺負、欺騙；七表示數目。相同讀音仍要依詞義選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "騙",
+          "why": "欺騙中的兩字意思接近，容易以為欺總是說謊。",
+          "difference": "欺在「欺負」中指欺壓、侮辱別人；騙著重用假話或手段使人上當。欺負不一定是騙人，須看整個詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "歡",
+          "why": "右邊同樣有欠，可用來比較共同部件。",
+          "difference": "欺左邊是其；歡左邊的筆畫不同。欺負是不好的對待，歡喜是高興，不可因同有欠就混認。"
+        }
+      ]
+    },
+    "tip": "欺負的欺：左其、右欠。和日期的期比較，右邊不是月。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}

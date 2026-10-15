@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第4課_confusion_analysis_f96587191111a60a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "遇",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "遇",
+    "groups": {
+      "shape": [
+        {
+          "char": "過",
+          "why": "外側同樣是辶，裡面都是較密集的筆畫。",
+          "difference": "遇裡面是禺；過裡面是咼。遇到用遇，經過用過，不能只看辶就選字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "玉",
+          "why": "同音比較：遇、玉都讀ㄩˋ。",
+          "difference": "遇可組遇到、相遇；玉可組玉石。遇到危險要用有辶的遇。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "見",
+          "why": "遇見和看見都可能涉及碰到人或事物。",
+          "difference": "遇到強調碰上、遭逢；見到強調看見。遇到危險表示碰上危險情況，和只是見到某個危險景象不完全相同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "偶",
+          "why": "兩字都包含禺，容易把外側部件換錯。",
+          "difference": "遇是辶加禺；偶是亻加禺。遇到用遇，偶然用偶。"
+        }
+      ]
+    },
+    "tip": "遇到的遇：辶裡面是禺；別寫成亻旁的偶，也別和經過的過混淆。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}

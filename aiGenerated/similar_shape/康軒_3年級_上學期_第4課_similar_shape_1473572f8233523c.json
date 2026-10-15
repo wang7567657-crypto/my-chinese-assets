@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第4課_similar_shape_1473572f8233523c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "使",
+    "lessonChars": [
+      "露",
+      "懷",
+      "居",
+      "準",
+      "射",
+      "刺",
+      "痛",
+      "使",
+      "毒",
+      "欺",
+      "負",
+      "感",
+      "遇",
+      "危",
+      "丑",
+      "葵",
+      "擺",
+      "觸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "使",
+    "similarChars": [
+      {
+        "char": "便",
+        "similarity": "都是亻旁，右側有交叉長筆",
+        "difference": "使右邊是吏；便右邊是更，中央框形的橫筆不同。"
+      },
+      {
+        "char": "仗",
+        "similarity": "都有亻，右邊有撇捺",
+        "difference": "使右邊是吏，有口形；仗右邊是丈，沒有口形。"
+      },
+      {
+        "char": "侍",
+        "similarity": "都有亻，右側上部有橫豎筆",
+        "difference": "使右邊是吏；侍右邊是寺，下方是寸。"
+      },
+      {
+        "char": "吏",
+        "similarity": "都有吏部件",
+        "difference": "使比吏多了左邊的亻。"
+      },
+      {
+        "char": "史",
+        "similarity": "都有口形和向下交叉的筆畫",
+        "difference": "使左有亻、右是吏；史沒有亻，也沒有吏最上方的一橫。"
+      },
+      {
+        "char": "駛",
+        "similarity": "右側吏、史輪廓相近",
+        "difference": "使左邊亻、右邊吏；駛左邊馬、右邊史。吏比史上方多一橫。"
+      }
+    ],
+    "teachingTip": "先指認共同部件，再用兩種顏色圈出不同部位；少見字只作辨形，不要求默寫。"
+  },
+  "createdAt": "2026-10-15T08:33:47.317692Z"
+}
