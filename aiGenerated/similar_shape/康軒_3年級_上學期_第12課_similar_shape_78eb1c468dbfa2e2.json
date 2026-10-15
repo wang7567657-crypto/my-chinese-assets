@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第12課_similar_shape_78eb1c468dbfa2e2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "障",
+    "lessonChars": [
+      "障",
+      "漠",
+      "綿",
+      "央",
+      "男",
+      "複",
+      "疑",
+      "算",
+      "歲",
+      "帽",
+      "退",
+      "吞",
+      "蛇",
+      "訝",
+      "蟒"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "障",
+    "similarChars": [
+      {
+        "char": "章",
+        "similarity": "右側完整共用章部件。",
+        "difference": "障在章左邊有阝；章沒有左側偏旁。"
+      },
+      {
+        "char": "彰",
+        "similarity": "都含章，外加一個較窄的偏旁。",
+        "difference": "障的阝在左；彰的彡在右。"
+      },
+      {
+        "char": "樟",
+        "similarity": "右邊都是章，左右結構相同。",
+        "difference": "障左邊是阝；樟左邊是木。"
+      },
+      {
+        "char": "璋",
+        "similarity": "右邊都是章，左側都是窄偏旁。",
+        "difference": "障左邊是阝；璋左邊是王字旁。"
+      },
+      {
+        "char": "嶂",
+        "similarity": "右邊都是章。",
+        "difference": "障左邊是阝；嶂左邊是山。嶂是少見字。"
+      },
+      {
+        "char": "幛",
+        "similarity": "右邊都是章。",
+        "difference": "障左邊是阝；幛左邊是巾。幛是少見字。"
+      }
+    ],
+    "teachingTip": "先框出右邊的章，再遮住右半部，比較阝、木、王、山、巾；另指出彰的彡在右側。嶂、幛只作辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

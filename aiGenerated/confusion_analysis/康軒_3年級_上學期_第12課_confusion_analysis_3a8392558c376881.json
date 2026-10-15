@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_3a8392558c376881",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "男",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "男",
+    "groups": {
+      "shape": [
+        {
+          "char": "勇",
+          "why": "下方同是「力」，上半部容易混看。",
+          "difference": "「男」上方是田；「勇」上方是甬，如勇敢，筆畫較多。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "南",
+          "why": "同音：男讀ㄋㄢˊ；南在「南方」中也讀ㄋㄢˊ。",
+          "difference": "「男孩」的男表示性別；「南方」的南表示方向。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "女",
+          "why": "是一組常一起出現、需要分清的性別用字。",
+          "difference": "「男孩」用男；「女孩」用女。這是字義的對照，不代表能力或興趣的差別。"
+        }
+      ],
+      "component": [
+        {
+          "char": "思",
+          "why": "上方都含有「田」。",
+          "difference": "「男」下方是力；「思」下方是心，如思考。"
+        }
+      ]
+    },
+    "tip": "男是上田、下力；男孩用男，南方用南。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

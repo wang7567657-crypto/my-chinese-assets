@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_65d019762a024fc9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "障",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "障",
+    "groups": {
+      "shape": [
+        {
+          "char": "樟",
+          "why": "右邊同是「章」，左邊容易看錯。",
+          "difference": "「障」左邊是阝，如障礙；「樟」左邊是木，如樟樹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "帳",
+          "why": "同音：障、帳都讀ㄓㄤˋ。",
+          "difference": "「故障」用障；「帳篷」用帳。不能只靠讀音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "阻",
+          "why": "都有阻擋、不讓通過的意思。",
+          "difference": "「障」可指遮擋的東西，如路障；「阻」常指阻止的動作，如阻擋。"
+        }
+      ],
+      "component": [
+        {
+          "char": "章",
+          "why": "「障」的右邊就是「章」。",
+          "difference": "「障」還有左邊的阝；少寫阝就成了文章的「章」。"
+        }
+      ]
+    },
+    "tip": "故障、障礙都用「障」：左阝、右章，不要換成樟樹的木字旁。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_891ec2d8dbba1cd5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "漠",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "漠",
+    "groups": {
+      "shape": [
+        {
+          "char": "模",
+          "why": "右邊同是「莫」，只差左邊偏旁。",
+          "difference": "「漠」左邊是氵，如沙漠；「模」左邊是木，如模型。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "默",
+          "why": "同音：漠、默都讀ㄇㄛˋ。",
+          "difference": "「冷漠」是態度不關心；「沉默」是不說話，不能互換。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "沙",
+          "why": "都會出現在沙漠相關的詞語中。",
+          "difference": "「沙」是細小的石粒；「漠」可指乾燥、大片積沙的地帶。沙子和沙漠大小、範圍不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "莫",
+          "why": "「漠」含有右邊的「莫」。",
+          "difference": "「漠」多了氵，組成沙漠；單獨的「莫」可表示不要，如莫急。"
+        }
+      ]
+    },
+    "tip": "沙漠的「漠」有三點水；冷漠和沉默雖然同音，意思不同。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

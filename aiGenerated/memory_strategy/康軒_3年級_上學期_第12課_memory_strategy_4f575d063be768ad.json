@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第12課_memory_strategy_4f575d063be768ad",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蛇",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蛇",
+    "components": [
+      "虫",
+      "它"
+    ],
+    "association": "用虫旁和它當作積木；旁邊一條蛇幫助連結意思。這是記字聯想，不是字源解釋。",
+    "mnemonic": "左虫右它，蛇身彎彎爬。",
+    "visualPrompt": "保持標準繁體字形，圖像放在字旁。虫與它分色；字旁畫蛇，不把蛇身塞進字內。",
+    "teachingTip": "右邊它上方是宀，下方是匕，與他、她的也不同。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第12課_memory_strategy_7ceb9c3ea12f4385",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "複",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "複",
+    "components": [
+      "衤",
+      "复形部件"
+    ],
+    "association": "把衣服摺好再展開，反覆做幾次，幫助記住重複。這是記字聯想，不是字源解釋。",
+    "mnemonic": "衣字旁在左，右邊复形，重複再做一次。",
+    "visualPrompt": "保持標準繁體字形，圖像放在字旁。衤和右側复形部件分色；字旁畫衣服摺疊的兩個步驟。",
+    "teachingTip": "複與復的右半相同，左旁分別是衤與彳；不是在完整的復字左邊再加衤。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

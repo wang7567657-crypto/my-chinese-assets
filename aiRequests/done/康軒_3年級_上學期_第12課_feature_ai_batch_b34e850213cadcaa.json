@@ -1,0 +1,272 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_3年級_上學期_第12課_feature_ai_batch_b34e850213cadcaa",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 15,
+    "batchCharacters": [
+      "障",
+      "漠",
+      "綿",
+      "央",
+      "男",
+      "複",
+      "疑",
+      "算",
+      "歲",
+      "帽",
+      "退",
+      "吞",
+      "蛇",
+      "訝",
+      "蟒"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_65d019762a024fc9",
+        "input": {
+          "char": "障",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_891ec2d8dbba1cd5",
+        "input": {
+          "char": "漠",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_e12c5ddbbe9b4d41",
+        "input": {
+          "char": "綿",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_e12c581985dd5c4d",
+        "input": {
+          "char": "央",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_3a8392558c376881",
+        "input": {
+          "char": "男",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_29a1374551d720d7",
+        "input": {
+          "char": "複",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_f70b08a88fae6dc1",
+        "input": {
+          "char": "疑",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_c6f79518ebfafe2b",
+        "input": {
+          "char": "算",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_0f93430e205897cb",
+        "input": {
+          "char": "歲",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_fba0739cecfc41ba",
+        "input": {
+          "char": "帽",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_6476fde8a4734787",
+        "input": {
+          "char": "退",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_bb2eb55242c32fc9",
+        "input": {
+          "char": "吞",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_a42d075f8f4b7181",
+        "input": {
+          "char": "蛇",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_373342dc258485c4",
+        "input": {
+          "char": "訝",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_5e31c16da357e54a",
+        "input": {
+          "char": "蟒",
+          "publisher": "康軒",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z",
+  "processedAt": "2026-10-15T23:25:01.988538Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "康軒_3年級_上學期_第12課_feature_ai_batch_b34e850213cadcaa",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "康軒",
+      "grade": "3年級",
+      "semester": "上學期",
+      "lesson": "第12課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 15,
+      "batchCharacters": [
+        "障",
+        "漠",
+        "綿",
+        "央",
+        "男",
+        "複",
+        "疑",
+        "算",
+        "歲",
+        "帽",
+        "退",
+        "吞",
+        "蛇",
+        "訝",
+        "蟒"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 15,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_65d019762a024fc9.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_891ec2d8dbba1cd5.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_e12c5ddbbe9b4d41.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_e12c581985dd5c4d.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_3a8392558c376881.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_29a1374551d720d7.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_f70b08a88fae6dc1.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_c6f79518ebfafe2b.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_0f93430e205897cb.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_fba0739cecfc41ba.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_6476fde8a4734787.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_bb2eb55242c32fc9.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_a42d075f8f4b7181.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_373342dc258485c4.json",
+        "aiGenerated/confusion_analysis/康軒_3年級_上學期_第12課_confusion_analysis_5e31c16da357e54a.json"
+      ]
+    },
+    "createdAt": "2026-10-15T23:25:01.988538Z"
+  }
+}

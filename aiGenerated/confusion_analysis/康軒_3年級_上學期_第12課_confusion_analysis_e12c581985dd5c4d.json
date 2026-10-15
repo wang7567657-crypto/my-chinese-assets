@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第12課_confusion_analysis_e12c581985dd5c4d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "央",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "央",
+    "groups": {
+      "shape": [
+        {
+          "char": "夾",
+          "why": "都是中間有撇、捺的字，容易看錯中間。",
+          "difference": "「央」上方有冂形；「夾」是大字兩側各有一個小人形，不能把中央寫成中夾。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "秧",
+          "why": "同音：央、秧都讀ㄧㄤ。",
+          "difference": "「中央」用央；「秧苗」是植物幼苗，用禾旁的秧。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "中",
+          "why": "在位置的意思上，都和中間有關。",
+          "difference": "「中央」表示中間位置；「中」還能表示裡面，如盒子中，不能改成盒子央。"
+        }
+      ],
+      "component": [
+        {
+          "char": "映",
+          "why": "「映」右邊含有「央」。",
+          "difference": "「央」可組中央；左邊加日成「映」，如倒映，意思和讀音都不同。"
+        }
+      ]
+    },
+    "tip": "中央的「央」不加偏旁；秧苗的「秧」有禾，倒映的「映」有日。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

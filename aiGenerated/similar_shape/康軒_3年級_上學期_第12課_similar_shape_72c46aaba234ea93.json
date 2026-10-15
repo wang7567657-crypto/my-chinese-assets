@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第12課_similar_shape_72c46aaba234ea93",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "漠",
+    "lessonChars": [
+      "障",
+      "漠",
+      "綿",
+      "央",
+      "男",
+      "複",
+      "疑",
+      "算",
+      "歲",
+      "帽",
+      "退",
+      "吞",
+      "蛇",
+      "訝",
+      "蟒"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "漠",
+    "similarChars": [
+      {
+        "char": "模",
+        "similarity": "右邊都是莫。",
+        "difference": "漠左邊是氵；模左邊是木。"
+      },
+      {
+        "char": "摸",
+        "similarity": "右邊都是莫。",
+        "difference": "漠左邊是氵；摸左邊是扌。"
+      },
+      {
+        "char": "膜",
+        "similarity": "右邊都是莫。",
+        "difference": "漠左邊是氵；膜左邊是月字旁。"
+      },
+      {
+        "char": "寞",
+        "similarity": "都含完整的莫部件。",
+        "difference": "漠是氵在莫左邊；寞是宀在莫上方。"
+      },
+      {
+        "char": "幕",
+        "similarity": "都含完整的莫部件。",
+        "difference": "漠是氵在莫左邊；幕是巾在莫下方。"
+      },
+      {
+        "char": "莫",
+        "similarity": "漠的右半部就是莫。",
+        "difference": "漠比莫多了左側的氵。"
+      }
+    ],
+    "teachingTip": "用同一顏色圈出莫，再比較附加部件位於左、上或下；漠左側的三點水要分開看清楚。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}

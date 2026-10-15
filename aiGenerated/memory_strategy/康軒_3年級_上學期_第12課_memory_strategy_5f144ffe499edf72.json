@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_3年級_上學期_第12課_memory_strategy_5f144ffe499edf72",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "男",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "男",
+    "components": [
+      "田",
+      "力"
+    ],
+    "association": "把田與力當作兩塊積木，上田下力拼成男。這是記字聯想，不是字源解釋。",
+    "mnemonic": "田在上，力在下，男字上下排。",
+    "visualPrompt": "保持標準繁體字形，圖像放在字旁。田與力分色；字旁畫標示上下位置的積木。",
+    "teachingTip": "這是字形記憶，不表示某種工作或力量只屬於男性。"
+  },
+  "createdAt": "2026-10-15T23:25:01.988538Z"
+}
