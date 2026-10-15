@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_3年級_上學期_第11課_memory_strategy_591493a84f270f5f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "貓",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "貓",
+    "components": [
+      "豸",
+      "苗"
+    ],
+    "association": "左邊動物旁，右邊像田裡長苗；想像貓走過田邊。（這是記憶聯想，不是字源解釋。）",
+    "mnemonic": "左豸右苗，貓走田邊瞧。",
+    "visualPrompt": "在標準「貓」字旁畫貓走過田邊，不把圖案放進筆畫裡。 保持標準字形，圖畫放在字旁。",
+    "teachingTip": "「豸」不要誤寫成犬字旁；右邊是苗。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

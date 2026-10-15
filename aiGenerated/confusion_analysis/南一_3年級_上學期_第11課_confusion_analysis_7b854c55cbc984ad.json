@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第11課_confusion_analysis_7b854c55cbc984ad",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "虎",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "虎",
+    "groups": {
+      "shape": [
+        {
+          "char": "虛",
+          "why": "上半部都有虍，整體輪廓相近。",
+          "difference": "「虎」下方是儿；「虛」下方筆畫較多，不是儿。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "苦",
+          "why": "近音：虎ㄏㄨˇ、苦ㄎㄨˇ，聲母不同。",
+          "difference": "石虎用「虎」；味道很苦用「苦」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "豹",
+          "why": "都是貓科動物的名稱，容易因外觀聯想而混用。",
+          "difference": "虎和豹是不同動物；課文「石虎」也是完整的動物名稱，不是老虎的另一種叫法。"
+        }
+      ],
+      "component": [
+        {
+          "char": "處",
+          "why": "都能看到虍部件。",
+          "difference": "「虎」下方是儿；「處」在虍下有夂和几的組合。"
+        }
+      ]
+    },
+    "tip": "「石虎」兩字一起記；寫虎時看清下方的儿。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

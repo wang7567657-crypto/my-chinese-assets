@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第11課_confusion_analysis_bdf61d3e7945f0f4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "威",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "威",
+    "groups": {
+      "shape": [
+        {
+          "char": "成",
+          "why": "外圍都有斜鉤等相近筆畫，整體外形易混。",
+          "difference": "「威」裡面有一和女；「成」裡面不是女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "微",
+          "why": "近音：威ㄨㄟ、微ㄨㄟˊ，聲調不同。",
+          "difference": "威風用「威」；微小、微笑用「微」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "嚴",
+          "why": "都可和使人敬畏的感覺有關，但用法不同。",
+          "difference": "「威」可指使人敬畏的力量或氣勢，如威風；「嚴」常指嚴格或莊重，如嚴格。"
+        }
+      ],
+      "component": [
+        {
+          "char": "女",
+          "why": "「威」內部有女，容易漏寫或寫歪。",
+          "difference": "「女」是獨立的字；「威」還有上方和外圍筆畫，不能只寫女。"
+        }
+      ]
+    },
+    "tip": "威風的威，裡面有女；斜鉤與裡面的筆畫要分清楚。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

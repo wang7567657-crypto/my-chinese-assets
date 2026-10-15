@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第11課_confusion_analysis_8634780079755a67",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "獨",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "獨",
+    "groups": {
+      "shape": [
+        {
+          "char": "燭",
+          "why": "右邊都是蜀，左邊易混。",
+          "difference": "「獨」左邊是犭；「燭」左邊是火，如蠟燭。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "讀",
+          "why": "同音：在「讀書」中，讀和獨都讀ㄉㄨˊ。",
+          "difference": "獨自用「獨」；讀書用「讀」。不要只靠讀音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "單",
+          "why": "都可能表示只有一個，但用法不同。",
+          "difference": "「獨」常強調自己一個，如獨來獨往；「單」可指一個或不成雙，如單數。"
+        }
+      ],
+      "component": [
+        {
+          "char": "狗",
+          "why": "左邊都是犭，右邊不同。",
+          "difference": "「獨」右邊是蜀；「狗」右邊是句。"
+        }
+      ]
+    },
+    "tip": "獨來獨往的獨，左犭右蜀；右邊下方別漏掉虫。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

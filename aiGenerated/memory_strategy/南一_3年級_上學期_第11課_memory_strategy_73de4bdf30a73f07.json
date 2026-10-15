@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_3年級_上學期_第11課_memory_strategy_73de4bdf30a73f07",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "灣",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "灣",
+    "components": [
+      "氵",
+      "彎"
+    ],
+    "association": "海水沿著彎曲的岸邊流，形成海灣。（這是記憶聯想，不是字源解釋。）",
+    "mnemonic": "三點水，配個彎，彎彎海岸是海灣。",
+    "visualPrompt": "在標準「灣」字旁畫彎曲海岸，海水用藍色。 保持標準字形，圖畫放在字旁。",
+    "teachingTip": "右邊是完整的彎，下面有弓；比較灣和彎。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

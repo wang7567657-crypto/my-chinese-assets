@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_3年級_上學期_第11課_feature_ai_batch_98d6fccf7663925c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 15,
+    "batchCharacters": [
+      "額",
+      "虎",
+      "貓",
+      "臺",
+      "灣",
+      "獨",
+      "萬",
+      "祖",
+      "蛙",
+      "捉",
+      "類",
+      "占",
+      "雞",
+      "肉",
+      "威"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_6023c190f81f4382.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_16185dd0562f272b.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_591493a84f270f5f.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_52a6d786baa02e83.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_73de4bdf30a73f07.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_2fb303f7710dfb17.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_da85668f71cca8da.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_2942b058d2331a9e.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_c6cc87f5ce7e717b.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_1dd94c5881f5ae9a.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_9d0cbc59e1e30170.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_c1d581614d3ddee1.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_1f23207241cc585e.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_742d7f53402f3c16.json",
+      "aiGenerated/memory_strategy/南一_3年級_上學期_第11課_memory_strategy_76ffb001b5a43be0.json"
+    ]
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

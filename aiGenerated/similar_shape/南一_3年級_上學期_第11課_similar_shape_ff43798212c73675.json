@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第11課_similar_shape_ff43798212c73675",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "貓",
+    "lessonChars": [
+      "額",
+      "虎",
+      "貓",
+      "臺",
+      "灣",
+      "獨",
+      "萬",
+      "祖",
+      "蛙",
+      "捉",
+      "類",
+      "占",
+      "雞",
+      "肉",
+      "威"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "貓",
+    "similarChars": [
+      {
+        "char": "豺",
+        "similarity": "左邊都有「豸」。",
+        "difference": "「貓」右邊是「苗」；「豺」右邊是「才」。"
+      },
+      {
+        "char": "豹",
+        "similarity": "左邊都有「豸」。",
+        "difference": "「貓」右邊是「苗」；「豹」右邊是「勺」。"
+      },
+      {
+        "char": "貂",
+        "similarity": "左邊都有「豸」。",
+        "difference": "「貓」右邊是「苗」；「貂」右邊是「召」。"
+      },
+      {
+        "char": "貌",
+        "similarity": "左邊都有「豸」。",
+        "difference": "「貓」右邊是「苗」；「貌」右邊上面是「白」、下面是「儿」。"
+      },
+      {
+        "char": "貉",
+        "similarity": "左邊都有「豸」。",
+        "difference": "「貓」右邊是「苗」；「貉」右邊是「各」。「貉」較少見。"
+      },
+      {
+        "char": "貘",
+        "similarity": "左邊都有「豸」。",
+        "difference": "「貓」右邊是「苗」，下方為田；「貘」右邊是「莫」，有日和大。「貘」較少見。"
+      }
+    ],
+    "teachingTip": "把「貓」分成豸和苗；苗再看成艹與田。左邊不可寫成三筆的犭。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第11課_confusion_analysis_3bdbd0347b49cedc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "祖",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "祖",
+    "groups": {
+      "shape": [
+        {
+          "char": "租",
+          "why": "右邊都是且，左邊易混。",
+          "difference": "「祖」左邊是礻；「租」左邊是禾，如租借。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "組",
+          "why": "同音：都讀ㄗㄨˇ。",
+          "difference": "祖先用「祖」；小組用「組」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "先",
+          "why": "「祖先」中兩字一起表示先代的人，但單字意思不同。",
+          "difference": "「祖」與家族前代有關；「先」也可表示時間或次序在前，如先後。"
+        }
+      ],
+      "component": [
+        {
+          "char": "祝",
+          "why": "左邊都是礻。",
+          "difference": "「祖」右邊是且；「祝」右邊是兄。礻不要寫成多一筆的衤。"
+        }
+      ]
+    },
+    "tip": "祖先的祖，左礻右且；礻和衣字旁衤不同。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第11課_confusion_analysis_e68eae5baa5fe628",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "捉",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "捉",
+    "groups": {
+      "shape": [
+        {
+          "char": "促",
+          "why": "右邊都是足，左邊易混。",
+          "difference": "「捉」左邊是扌；「促」左邊是亻，如催促。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "桌",
+          "why": "同音：都讀ㄓㄨㄛ。",
+          "difference": "捉到、捉迷藏用「捉」；桌子用「桌」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "抓",
+          "why": "都可表示用手拿住，但搭配不同。",
+          "difference": "「捉」常表示捕捉或尋找後逮到，如捉到青蛙；「抓」也可表示搔，如抓癢。"
+        }
+      ],
+      "component": [
+        {
+          "char": "足",
+          "why": "「捉」右邊有完整的足。",
+          "difference": "「捉」比「足」多了左邊的扌；足可指腳，捉表示動作。"
+        }
+      ]
+    },
+    "tip": "捉到的捉，手字旁加足；別少了左邊的扌。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

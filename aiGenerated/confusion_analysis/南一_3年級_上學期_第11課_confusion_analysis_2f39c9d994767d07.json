@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第11課_confusion_analysis_2f39c9d994767d07",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "類",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "類",
+    "groups": {
+      "shape": [
+        {
+          "char": "煩",
+          "why": "兩字右邊都是頁，左邊的點、撇容易看漏。",
+          "difference": "「類」左邊是米在上、犬在下；「煩」左邊只有火，如煩惱。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "累",
+          "why": "同音：在「疲累」中，累和類都讀ㄌㄟˋ。",
+          "difference": "人類、種類用「類」；疲累用「累」。「累積」的累讀ㄌㄟˇ，讀音須看詞語。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "種",
+          "why": "兩字都可用於分類，容易混用。",
+          "difference": "「類」指相似事物合成的一群，如人類；「種」可指種類，也可作量詞，如三種動物。"
+        }
+      ],
+      "component": [
+        {
+          "char": "額",
+          "why": "右邊都是頁，左邊不同。",
+          "difference": "「類」左邊是米在上、犬在下；「額」左邊是客。"
+        }
+      ]
+    },
+    "tip": "人類的類，左上米、左下犬、右邊頁；犬的點不能漏。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

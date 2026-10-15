@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第11課_similar_shape_9c6ce177bf1d3df8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "額",
+    "lessonChars": [
+      "額",
+      "虎",
+      "貓",
+      "臺",
+      "灣",
+      "獨",
+      "萬",
+      "祖",
+      "蛙",
+      "捉",
+      "類",
+      "占",
+      "雞",
+      "肉",
+      "威"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "額",
+    "similarChars": [
+      {
+        "char": "顏",
+        "similarity": "右邊都有「頁」。",
+        "difference": "「額」左邊是「客」；「顏」左邊是「彥」。"
+      },
+      {
+        "char": "顧",
+        "similarity": "右邊都有「頁」。",
+        "difference": "「額」左邊是「客」；「顧」左邊是「雇」。"
+      },
+      {
+        "char": "頑",
+        "similarity": "右邊都有「頁」。",
+        "difference": "「額」左邊是「客」；「頑」左邊是「元」。"
+      },
+      {
+        "char": "頭",
+        "similarity": "右邊都有「頁」。",
+        "difference": "「額」左邊是「客」；「頭」左邊是「豆」。"
+      },
+      {
+        "char": "頰",
+        "similarity": "右邊都有「頁」。",
+        "difference": "「額」左邊是「客」；「頰」左邊是「夾」。"
+      },
+      {
+        "char": "頸",
+        "similarity": "右邊都有「頁」。",
+        "difference": "「額」左邊是「客」；「頸」左邊是「巠」。"
+      }
+    ],
+    "teachingTip": "先圈出右邊相同的「頁」，再看左邊。「額」的左邊是完整的「客」，上有宀，下有各。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

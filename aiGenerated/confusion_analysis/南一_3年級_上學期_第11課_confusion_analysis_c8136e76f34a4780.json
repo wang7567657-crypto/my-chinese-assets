@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第11課_confusion_analysis_c8136e76f34a4780",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "占",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "占",
+    "groups": {
+      "shape": [
+        {
+          "char": "古",
+          "why": "都是上方筆畫加下方口，容易看錯。",
+          "difference": "「占」上方是卜；「古」上方是十。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "站",
+          "why": "同音：課文「占為己有」的占與站都讀ㄓㄢˋ。",
+          "difference": "據為自己所有用「占」；站起來用「站」。「占卜」的占讀ㄓㄢ，不能套用課文讀音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "佔",
+          "why": "兩字在占有、據有的意思上可以相通。",
+          "difference": "「占」也用於占卜，讀ㄓㄢ；「佔」不能直接替代這個用法。課文「占為己有」依課本寫占，讀ㄓㄢˋ。"
+        }
+      ],
+      "component": [
+        {
+          "char": "店",
+          "why": "「店」裡面含有占。",
+          "difference": "「占」是卜加口；「店」在外面多了广，如商店。"
+        }
+      ]
+    },
+    "tip": "占為己有讀ㄓㄢˋ；占卜讀ㄓㄢ。先看詞義，再決定讀音。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}
