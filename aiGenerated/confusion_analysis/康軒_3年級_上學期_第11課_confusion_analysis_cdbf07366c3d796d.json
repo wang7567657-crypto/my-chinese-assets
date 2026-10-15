@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_cdbf07366c3d796d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "悟",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "悟",
+    "groups": {
+      "shape": [
+        {
+          "char": "梧",
+          "why": "右邊都是「吾」。",
+          "difference": "「悟」左邊是「忄」，用在領悟；「梧」左邊是「木」，用在梧桐樹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "物",
+          "why": "「悟、物」都讀ㄨˋ。",
+          "difference": "心裡明白了寫「悟」；東西、物品寫「物」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "懂",
+          "why": "都和明白道理、了解事情有關。",
+          "difference": "「悟」常強調經過思考或提醒而想通，如「領悟」；「懂」可表示一般的了解，如「懂英文」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "語",
+          "why": "右邊都有「吾」，「吾」是上「五」下「口」。",
+          "difference": "「悟」左邊是「忄」；「語」左邊是「言」。明白道理寫「悟」，語言、說話寫「語」。"
+        }
+      ]
+    },
+    "tip": "「恍然大悟」的「悟」是心裡明白，所以用「忄」；右邊「吾」是「五」下面一個「口」。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

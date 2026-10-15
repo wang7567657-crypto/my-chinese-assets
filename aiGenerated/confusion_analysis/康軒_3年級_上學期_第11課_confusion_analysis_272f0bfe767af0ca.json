@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_272f0bfe767af0ca",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "隨",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "隨",
+    "groups": {
+      "shape": [
+        {
+          "char": "隋",
+          "why": "兩字都含「阝」和相近的右半部。",
+          "difference": "「隨」比「隋」多了「辶」；「隨著」要有「辶」，「隋」常用在隋朝。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "雖",
+          "why": "「隨」讀ㄙㄨㄟˊ，「雖」讀ㄙㄨㄟ，聲母、韻母相同，聲調不同。",
+          "difference": "跟著或伴隨寫「隨著」，讀第二聲；「雖然」的「雖」讀第一聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "跟",
+          "why": "「跟隨、隨著」都有跟著的意思。",
+          "difference": "「跟」常用來說跟在後面，如「跟著老師走」；「隨」還常表示伴隨變化，如「隨著時間過去」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "隊",
+          "why": "左邊都有「阝」，都是阜部的字。",
+          "difference": "「隨」右邊含有「辶」；「隊」右邊沒有「辶」。不能只看到雙耳旁就認成同一字。"
+        }
+      ]
+    },
+    "tip": "「隨著」讀ㄙㄨㄟˊ ˙ㄓㄜ；「隨」左邊有「阝」，右邊還要寫出「辶」。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

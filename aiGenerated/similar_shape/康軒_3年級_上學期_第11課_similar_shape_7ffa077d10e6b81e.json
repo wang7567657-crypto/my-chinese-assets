@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第11課_similar_shape_7ffa077d10e6b81e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "盼",
+    "lessonChars": [
+      "悅",
+      "拜",
+      "訪",
+      "免",
+      "離",
+      "漫",
+      "盼",
+      "枯",
+      "鑽",
+      "恍",
+      "悟",
+      "拆",
+      "盛",
+      "隨",
+      "築",
+      "顯",
+      "極"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "盼",
+    "similarChars": [
+      {
+        "char": "粉",
+        "similarity": "右邊都是「分」。",
+        "difference": "盼左邊是「目」，粉左邊是「米」。"
+      },
+      {
+        "char": "份",
+        "similarity": "右邊都是「分」。",
+        "difference": "盼左邊是「目」，份左邊是「亻」。"
+      },
+      {
+        "char": "紛",
+        "similarity": "右邊都是「分」。",
+        "difference": "盼左邊是「目」，紛左邊是「糸」。"
+      },
+      {
+        "char": "扮",
+        "similarity": "右邊都是「分」。",
+        "difference": "盼左邊是「目」，扮左邊是「扌」。"
+      },
+      {
+        "char": "芬",
+        "similarity": "兩字都包含「分」。",
+        "difference": "盼是左目右分；芬是上艹下分。"
+      },
+      {
+        "char": "分",
+        "similarity": "分就是盼的右半部。",
+        "difference": "分沒有左邊的「目」；加上目旁才是盼。"
+      }
+    ],
+    "teachingTip": "用眼睛盼望，記住盼的目旁。將共同的分塗同色，再觀察偏旁的位置；目裡有兩條短橫，不要寫成日。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

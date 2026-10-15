@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第11課_similar_shape_2e099010497eab84",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "漫",
+    "lessonChars": [
+      "悅",
+      "拜",
+      "訪",
+      "免",
+      "離",
+      "漫",
+      "盼",
+      "枯",
+      "鑽",
+      "恍",
+      "悟",
+      "拆",
+      "盛",
+      "隨",
+      "築",
+      "顯",
+      "極"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "漫",
+    "similarChars": [
+      {
+        "char": "慢",
+        "similarity": "右邊都是「曼」，都是左右結構。",
+        "difference": "漫左邊是「氵」，慢左邊是「忄」。"
+      },
+      {
+        "char": "曼",
+        "similarity": "曼就是漫的右半部。",
+        "difference": "曼沒有左邊的三點水。"
+      },
+      {
+        "char": "幔",
+        "similarity": "右邊都是「曼」。",
+        "difference": "漫左邊是「氵」，幔左邊是「巾」。"
+      },
+      {
+        "char": "蔓",
+        "similarity": "兩字都包含完整的「曼」。",
+        "difference": "漫是左氵右曼；蔓是上艹下曼。"
+      },
+      {
+        "char": "饅",
+        "similarity": "右邊都是「曼」。",
+        "difference": "漫左邊是「氵」，饅左邊是食字旁。"
+      },
+      {
+        "char": "鰻",
+        "similarity": "右邊都是「曼」。",
+        "difference": "漫左邊是「氵」，鰻左邊是「魚」。"
+      }
+    ],
+    "teachingTip": "固定右邊的曼，用換偏旁字卡比較漫、慢、幔、饅、鰻。寫「漫」時先檢查左邊是三點水，避免寫成慢慢的慢。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

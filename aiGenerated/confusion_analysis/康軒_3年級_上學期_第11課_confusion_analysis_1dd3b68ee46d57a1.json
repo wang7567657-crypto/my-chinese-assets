@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_1dd3b68ee46d57a1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "悅",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "悅",
+    "groups": {
+      "shape": [
+        {
+          "char": "說",
+          "why": "右邊都有「兌」，只看右半容易認錯。",
+          "difference": "「悅」左邊是「忄」，表示愉快；「說」左邊是「言」，表示說話。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "月",
+          "why": "「悅、月」都讀ㄩㄝˋ。",
+          "difference": "心情愉快寫「愉悅」；天空中的月亮寫「月」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "喜",
+          "why": "都能表示高興的心情。",
+          "difference": "「悅」常組成「愉悅、喜悅」；「喜」還能表示喜愛，如「喜歡」，不能寫成「悅歡」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "情",
+          "why": "左邊都有由「心」變成的「忄」。",
+          "difference": "「悅」右邊是「兌」；「情」右邊是「青」。同有心字旁，右半仍要分清楚。"
+        }
+      ]
+    },
+    "tip": "記住「愉悅」是心情愉快，所以「悅」有「忄」；右半寫「兌」，別寫成「說」。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

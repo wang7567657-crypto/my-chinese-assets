@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第11課_similar_shape_b6b15f68547f2fc8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "拆",
+    "lessonChars": [
+      "悅",
+      "拜",
+      "訪",
+      "免",
+      "離",
+      "漫",
+      "盼",
+      "枯",
+      "鑽",
+      "恍",
+      "悟",
+      "拆",
+      "盛",
+      "隨",
+      "築",
+      "顯",
+      "極"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "拆",
+    "similarChars": [
+      {
+        "char": "折",
+        "similarity": "左邊同為「扌」，右邊只差一點，整體輪廓很接近。",
+        "difference": "拆右邊是有點的「斥」；折右邊是沒有這一點的「斤」。"
+      },
+      {
+        "char": "斥",
+        "similarity": "斥就是拆的右半部。",
+        "difference": "斥沒有左邊的「扌」；拆則是扌加斥。"
+      },
+      {
+        "char": "訴",
+        "similarity": "右邊都是「斥」。",
+        "difference": "拆左邊是「扌」，訴左邊是「言」。"
+      },
+      {
+        "char": "坼",
+        "similarity": "右邊都是「斥」。",
+        "difference": "拆左邊是「扌」，坼左邊是「土」。坼是較少見的字。"
+      },
+      {
+        "char": "柝",
+        "similarity": "右邊都是「斥」。",
+        "difference": "拆左邊是「扌」，柝左邊是「木」。柝是較少見的字。"
+      },
+      {
+        "char": "泝",
+        "similarity": "右邊都是「斥」。",
+        "difference": "拆左邊是「扌」，泝左邊是「氵」。泝較少見，亦是溯的異體。"
+      }
+    ],
+    "teachingTip": "最先比較拆和折：把拆右邊多出的一點用紅色標出，再逐字找出斥。用「用手拆開」記住提手旁；少見字只供換旁辨識。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

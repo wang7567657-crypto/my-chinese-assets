@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_fe483953f36f7828",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "免",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "免",
+    "groups": {
+      "shape": [
+        {
+          "char": "兔",
+          "why": "外形非常接近，容易漏看右下的一點。",
+          "difference": "「免」右下沒有點；「兔」右下有一點，表示動物兔子。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "勉",
+          "why": "「免、勉」都讀ㄇㄧㄢˇ。",
+          "difference": "避免某事發生寫「免得」；鼓勵別人寫「勉勵」，「勉」多了「力」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "避",
+          "why": "都和不讓某種情況發生或避開它有關。",
+          "difference": "「免得」常用來接不希望發生的結果，如「免得淋雨」；「避」常組成「避免、躲避」，不能寫成「避得淋雨」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "晚",
+          "why": "「晚」的右邊也有「免」。",
+          "difference": "「免」是獨立的字；「晚」在「免」左邊加「日」，表示晚上或時間較後。"
+        }
+      ]
+    },
+    "tip": "「免得」用沒有點的「免」；右下加一點就變成「兔」。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

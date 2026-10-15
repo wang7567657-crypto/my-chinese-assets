@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第11課_similar_shape_9abd5ed542d20685",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "免",
+    "lessonChars": [
+      "悅",
+      "拜",
+      "訪",
+      "免",
+      "離",
+      "漫",
+      "盼",
+      "枯",
+      "鑽",
+      "恍",
+      "悟",
+      "拆",
+      "盛",
+      "隨",
+      "築",
+      "顯",
+      "極"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "免",
+    "similarChars": [
+      {
+        "char": "兔",
+        "similarity": "主體輪廓非常接近，都有上方的刀形、中間的口形和下方的兒形。",
+        "difference": "兔的右下方有一點；免沒有這一點。"
+      },
+      {
+        "char": "晚",
+        "similarity": "晚的右半是完整的「免」。",
+        "difference": "晚左邊多了「日」；免沒有日旁。"
+      },
+      {
+        "char": "挽",
+        "similarity": "挽的右半是完整的「免」。",
+        "difference": "挽左邊多了「扌」；免沒有提手旁。"
+      },
+      {
+        "char": "勉",
+        "similarity": "勉的左側包含「免」。",
+        "difference": "勉在免的右側加「力」；免沒有力旁。"
+      },
+      {
+        "char": "逸",
+        "similarity": "逸的內部與免十分接近。",
+        "difference": "逸的內部是有右下點的「兔」，外面再加「辶」；不能把它當成辶加免。"
+      },
+      {
+        "char": "冕",
+        "similarity": "冕的下半是「免」。",
+        "difference": "冕上面多了帽形的「冃」，免單獨成字時沒有這一層。"
+      }
+    ],
+    "teachingTip": "先練「免沒有點、兔右下有點」，再找晚、挽、勉裡的免。特別提醒：逸裡面是兔，要保留右下的一點。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}

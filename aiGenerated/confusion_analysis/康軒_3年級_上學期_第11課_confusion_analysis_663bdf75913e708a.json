@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第11課_confusion_analysis_663bdf75913e708a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "拜",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "拜",
+    "groups": {
+      "shape": [
+        {
+          "char": "拌",
+          "why": "都是左右結構，左右兩邊都有橫、豎筆畫。",
+          "difference": "「拜」左邊是「手」的變形，右邊有四橫一豎；「拌」左邊是「扌」，右邊是「半」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "敗",
+          "why": "「拜、敗」都讀ㄅㄞˋ。",
+          "difference": "有禮貌地探望別人寫「拜訪」；比賽輸了寫「失敗」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "訪",
+          "why": "都可用在前往見人的情境，並合成「拜訪」。",
+          "difference": "「拜」帶有禮貌、恭敬的意味；「訪」著重探望或查問，如「訪友、訪問」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "手",
+          "why": "「拜」左半由「手」變形而來。",
+          "difference": "獨體「手」末筆是彎鉤；「拜」左半把彎鉤改成豎撇，右邊還要寫完整，不能只寫一個「手」。"
+        }
+      ]
+    },
+    "tip": "「拜訪」的「拜」左邊不是三畫的「扌」；右邊四橫要寫齊。"
+  },
+  "createdAt": "2026-10-15T22:31:09.540910Z"
+}
