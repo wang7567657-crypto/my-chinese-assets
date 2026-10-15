@@ -1,0 +1,272 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_3年級_上學期_第9課_feature_ai_batch_e551a3a5cc9c73ec",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 15,
+    "batchCharacters": [
+      "醫",
+      "穿",
+      "袍",
+      "戴",
+      "筒",
+      "啄",
+      "備",
+      "幹",
+      "敲",
+      "毒",
+      "體",
+      "淘",
+      "蘋",
+      "般",
+      "藥"
+    ],
+    "items": [
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_daf7e8d2dfe61482",
+        "input": {
+          "char": "醫",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_534bbc75fe38cb25",
+        "input": {
+          "char": "穿",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_400eeb2f7c7dc4fe",
+        "input": {
+          "char": "袍",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_663a94dbc568f839",
+        "input": {
+          "char": "戴",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_24eff277f5fca541",
+        "input": {
+          "char": "筒",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_0fc306992d612136",
+        "input": {
+          "char": "啄",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_c8867ec07a2f43ce",
+        "input": {
+          "char": "備",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_3e104f1469fc6bd3",
+        "input": {
+          "char": "幹",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_973c8ffb4df532c4",
+        "input": {
+          "char": "敲",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_e986a9e228d8768c",
+        "input": {
+          "char": "毒",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_8ff7dba7aa3c236f",
+        "input": {
+          "char": "體",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_926ecee64ec4fb0f",
+        "input": {
+          "char": "淘",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_b96a0cf12d0e6df7",
+        "input": {
+          "char": "蘋",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_1f802ed548905f0e",
+        "input": {
+          "char": "般",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_3年級_上學期_第9課_memory_strategy_038821c68a0cd178",
+        "input": {
+          "char": "藥",
+          "publisher": "南一",
+          "grade": "3年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-15T15:42:14.542248Z",
+  "processedAt": "2026-10-15T15:46:04.664487Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_3年級_上學期_第9課_feature_ai_batch_e551a3a5cc9c73ec",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "南一",
+      "grade": "3年級",
+      "semester": "上學期",
+      "lesson": "第9課",
+      "featureTaskType": "memory_strategy",
+      "featureName": "記憶策略",
+      "itemCount": 15,
+      "batchCharacters": [
+        "醫",
+        "穿",
+        "袍",
+        "戴",
+        "筒",
+        "啄",
+        "備",
+        "幹",
+        "敲",
+        "毒",
+        "體",
+        "淘",
+        "蘋",
+        "般",
+        "藥"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 15,
+      "resultPaths": [
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_daf7e8d2dfe61482.json",
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_534bbc75fe38cb25.json",
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_400eeb2f7c7dc4fe.json",
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_663a94dbc568f839.json",
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_24eff277f5fca541.json",
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_0fc306992d612136.json",
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_c8867ec07a2f43ce.json",
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_3e104f1469fc6bd3.json",
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_973c8ffb4df532c4.json",
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_e986a9e228d8768c.json",
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_8ff7dba7aa3c236f.json",
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_926ecee64ec4fb0f.json",
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_b96a0cf12d0e6df7.json",
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_1f802ed548905f0e.json",
+        "aiGenerated/memory_strategy/南一_3年級_上學期_第9課_memory_strategy_038821c68a0cd178.json"
+      ]
+    },
+    "createdAt": "2026-10-15T15:46:04.664487Z"
+  }
+}

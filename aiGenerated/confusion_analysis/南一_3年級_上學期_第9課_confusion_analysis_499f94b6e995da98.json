@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第9課_confusion_analysis_499f94b6e995da98",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "毒",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "毒",
+    "groups": {
+      "shape": [
+        {
+          "char": "素",
+          "why": "兩字上半部輪廓相同，都是上下排列。",
+          "difference": "毒下方是毋形；素下方是糸，收尾筆畫不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "讀",
+          "why": "同音：有毒的毒、讀書的讀都讀ㄉㄨˊ。",
+          "difference": "毒與有害物質等意思有關；讀是閱讀，消毒不能寫成消讀。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "害",
+          "why": "毒和害都可能與損傷身體有關。",
+          "difference": "毒可指有害物質；害可表示造成損傷。毒物可能造成傷害，但兩字不能任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "毋",
+          "why": "毒下方有毋形，毋也是毒的部首。",
+          "difference": "毒比單獨的毋多了上半部；不要把毋內的筆畫改成母的兩點。"
+        }
+      ]
+    },
+    "tip": "用「消毒」記住毒，並特別看下方毋的筆畫；不要因讀音相同而寫成讀。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

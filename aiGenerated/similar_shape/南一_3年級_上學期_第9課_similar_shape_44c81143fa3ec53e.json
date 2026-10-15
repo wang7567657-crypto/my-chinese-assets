@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第9課_similar_shape_44c81143fa3ec53e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "般",
+    "lessonChars": [
+      "醫",
+      "穿",
+      "袍",
+      "戴",
+      "筒",
+      "啄",
+      "備",
+      "幹",
+      "敲",
+      "毒",
+      "體",
+      "淘",
+      "蘋",
+      "般",
+      "藥"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "般",
+    "similarChars": [
+      {
+        "char": "搬",
+        "similarity": "完整保留般的字形。",
+        "difference": "搬在般左邊加扌；般沒有扌。"
+      },
+      {
+        "char": "盤",
+        "similarity": "上半部就是般。",
+        "difference": "盤在般下面加皿；般下面沒有皿。"
+      },
+      {
+        "char": "磐",
+        "similarity": "上半部就是般。",
+        "difference": "磐在般下面加石；般下面沒有石。磐較少見。"
+      },
+      {
+        "char": "槃",
+        "similarity": "上半部就是般。",
+        "difference": "槃在般下面加木；般下面沒有木。槃為較少見字，某些用法與盤相通。"
+      },
+      {
+        "char": "船",
+        "similarity": "左邊同為舟。",
+        "difference": "般右邊是殳，下面有又；船右邊下方是口。"
+      },
+      {
+        "char": "舫",
+        "similarity": "左邊同為舟。",
+        "difference": "般右邊是殳；舫右邊是方。舫較少見。"
+      }
+    ],
+    "teachingTip": "先圈出般，再觀察搬加在左邊，盤、磐、槃加在下面；寫般時不要多加部件。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

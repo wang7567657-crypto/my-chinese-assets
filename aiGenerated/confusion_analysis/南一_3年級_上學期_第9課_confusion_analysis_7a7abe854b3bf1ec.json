@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第9課_confusion_analysis_7a7abe854b3bf1ec",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "淘",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "淘",
+    "groups": {
+      "shape": [
+        {
+          "char": "掏",
+          "why": "兩字右側相同，都有勹包著缶。",
+          "difference": "淘左側是氵；掏左側是扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "桃",
+          "why": "同音：淘氣的淘、桃子的桃都讀ㄊㄠˊ。",
+          "difference": "淘氣形容頑皮；桃是一種果樹或果實，淘氣不能寫成桃氣。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "洗",
+          "why": "淘米和洗米都與用水清理米有關。",
+          "difference": "淘在淘米時可指用水攪洗；本課淘氣的淘屬固定詞語，不能把淘氣換成洗氣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "陶",
+          "why": "兩字右側都有勹與缶組成的部件。",
+          "difference": "淘左側是氵；陶左側是阝。"
+        }
+      ]
+    },
+    "tip": "本課先整詞認讀「淘氣」；淘用三點水，掏東西才用提手旁。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

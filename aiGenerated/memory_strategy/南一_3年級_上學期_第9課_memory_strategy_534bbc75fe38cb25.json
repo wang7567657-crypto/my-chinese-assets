@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_3年級_上學期_第9課_memory_strategy_534bbc75fe38cb25",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "穿",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "穿",
+    "components": [
+      "穴",
+      "牙"
+    ],
+    "association": "想像一件衣服的領口像小洞，頭從洞口穿過；用上穴下牙的位置幫助記字。這不是字源解釋。",
+    "mnemonic": "穴在上，牙在下，穿好衣服再出發。",
+    "visualPrompt": "呈現標準字形「穿」，上方穴與下方牙分色；字旁畫小朋友穿外套，保留字形完整。",
+    "teachingTip": "由上往下辨認穴、牙，注意下方是牙，不是才；搭配課文的「穿白袍」理解穿的用法。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

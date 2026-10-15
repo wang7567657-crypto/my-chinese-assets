@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第9課_confusion_analysis_6df9cd8870b27d52",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "筒",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "筒",
+    "groups": {
+      "shape": [
+        {
+          "char": "桶",
+          "why": "兩字都有近似長方形的內部輪廓，讀音也相同，容易混寫。",
+          "difference": "筒是竹字頭下面接同；桶是木字旁右邊接甬，不能只換偏旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "桶",
+          "why": "同音：聽筒的筒、水桶的桶都讀ㄊㄨㄥˇ。",
+          "difference": "筒常指管狀物；桶常指盛裝東西的容器，聽筒不能寫成聽桶。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "管",
+          "why": "筒和管都可能指中空的長形物。",
+          "difference": "筒常見於聽筒、筆筒；管常見於水管、吸管，固定名稱要分清。"
+        }
+      ],
+      "component": [
+        {
+          "char": "簡",
+          "why": "兩字上方都有竹字頭。",
+          "difference": "筒下方是同；簡下方是間，間有門包著日。"
+        }
+      ]
+    },
+    "tip": "聽筒用筒：上看竹字頭，下看同；水桶才用木字旁。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

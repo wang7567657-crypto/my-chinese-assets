@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第9課_confusion_analysis_96434b8c9ffa8e15",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "敲",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "敲",
+    "groups": {
+      "shape": [
+        {
+          "char": "稿",
+          "why": "兩字都有高，若只看高容易混淆。",
+          "difference": "敲是高在左、攴在右；稿是禾在左、高在右。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鍬",
+          "why": "同音：敲門的敲、鐵鍬的鍬都讀ㄑㄧㄠ。",
+          "difference": "敲是擊打的動作；鍬是挖土工具，敲樹幹不能寫成鍬樹幹。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "打",
+          "why": "敲和打都可能表示擊打物體。",
+          "difference": "敲常用於敲門、敲鐘等動作；打的用法更廣，如打球、打電話，並非都能換成敲。"
+        }
+      ],
+      "component": [
+        {
+          "char": "高",
+          "why": "敲左側包含高。",
+          "difference": "敲還有右側的攴；只寫高會漏掉整個右部件。"
+        }
+      ]
+    },
+    "tip": "先分清左右位置：高在左、攴在右；用敲門的動作幫助理解。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

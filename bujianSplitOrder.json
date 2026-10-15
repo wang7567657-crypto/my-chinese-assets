@@ -36830,9 +36830,509 @@
       "strokeMappingVerified": false,
       "note": "教師指定：米＋反。此為已確認的文字分法；尚未完成可用筆畫來源及分色索引的驗證，不宣告verified。",
       "updatedAt": "2026-10-15T13:06:15.147Z"
+    },
+    "醫": {
+      "structure": "上下",
+      "split": [
+        7,
+        11
+      ],
+      "strokeGroups": [
+        [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "酉",
+        "其餘部分"
+      ],
+      "strokeCount": 18,
+      "radical": "酉",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split為各組筆數；實際筆序依1起算strokeGroups，每筆恰好一次並保留原字位置。",
+      "verification": {
+        "method": "解析來源XML核對Stroke數、Outline無重複、有限合理座標與有效Track；渲染部首分色圖及每筆Track疊圖，逐字視覺核對。Track為描繪導引，不要求每個折點完全位於Outline內。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/91ab.xml",
+        "sourceSha256": "961d6691fc7589b9802d09c433728e0507035f55d289e50e397c694cfe5a3a04",
+        "checkedAt": "2026-10-15T15:45:31.541913Z",
+        "radicalReferenceUrl": "https://stroke-order.learningweb.moe.edu.tw/dictMean.jsp?ID=37291&la=0"
+      },
+      "updatedAt": "2026-10-15T15:47:17.737Z"
+    },
+    "穿": {
+      "structure": "上下",
+      "split": [
+        5,
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "components": [
+        "穴",
+        "其餘部分"
+      ],
+      "strokeCount": 9,
+      "radical": "穴",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split為各組筆數；實際筆序依1起算strokeGroups，每筆恰好一次並保留原字位置。",
+      "verification": {
+        "method": "解析來源XML核對Stroke數、Outline無重複、有限合理座標與有效Track；渲染部首分色圖及每筆Track疊圖，逐字視覺核對。Track為描繪導引，不要求每個折點完全位於Outline內。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7a7f.xml",
+        "sourceSha256": "af8edfab46dffc842734f9650031228d2ce1bf843b66fb656249052e2f76c691",
+        "checkedAt": "2026-10-15T15:45:31.541913Z"
+      },
+      "updatedAt": "2026-10-15T15:47:17.737Z"
+    },
+    "袍": {
+      "structure": "左右",
+      "split": [
+        5,
+        5
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "components": [
+        "衤",
+        "其餘部分"
+      ],
+      "strokeCount": 10,
+      "radical": "衣",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split為各組筆數；實際筆序依1起算strokeGroups，每筆恰好一次並保留原字位置。",
+      "verification": {
+        "method": "解析來源XML核對Stroke數、Outline無重複、有限合理座標與有效Track；渲染部首分色圖及每筆Track疊圖，逐字視覺核對。Track為描繪導引，不要求每個折點完全位於Outline內。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/888d.xml",
+        "sourceSha256": "051d61f7dd8d7363071d5c8f051b4bfed2e436e26f02f6cd7f5db43c4c92ad99",
+        "checkedAt": "2026-10-15T15:45:31.541913Z"
+      },
+      "updatedAt": "2026-10-15T15:47:17.737Z"
+    },
+    "啄": {
+      "structure": "左右",
+      "split": [
+        3,
+        8
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "口",
+        "其餘部分"
+      ],
+      "strokeCount": 11,
+      "radical": "口",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split為各組筆數；實際筆序依1起算strokeGroups，每筆恰好一次並保留原字位置。",
+      "verification": {
+        "method": "解析來源XML核對Stroke數、Outline無重複、有限合理座標與有效Track；渲染部首分色圖及每筆Track疊圖，逐字視覺核對。Track為描繪導引，不要求每個折點完全位於Outline內。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5544.xml",
+        "sourceSha256": "0d2bc940df20880adcaacf2c020e389354a944302c6d6c387a385679a46bd914",
+        "checkedAt": "2026-10-15T15:45:31.541913Z"
+      },
+      "updatedAt": "2026-10-15T15:47:17.737Z"
+    },
+    "備": {
+      "structure": "左右",
+      "split": [
+        2,
+        10
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      ],
+      "components": [
+        "亻",
+        "其餘部分"
+      ],
+      "strokeCount": 12,
+      "radical": "人",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split為各組筆數；實際筆序依1起算strokeGroups，每筆恰好一次並保留原字位置。",
+      "verification": {
+        "method": "解析來源XML核對Stroke數、Outline無重複、有限合理座標與有效Track；渲染部首分色圖及每筆Track疊圖，逐字視覺核對。Track為描繪導引，不要求每個折點完全位於Outline內。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5099.xml",
+        "sourceSha256": "419f41911e32a2b92ddf43fb360b8f1ff218d13ef344c492eb4b412a288d6e94",
+        "checkedAt": "2026-10-15T15:45:31.541913Z"
+      },
+      "updatedAt": "2026-10-15T15:47:17.737Z"
+    },
+    "敲": {
+      "structure": "左右",
+      "split": [
+        4,
+        10
+      ],
+      "strokeGroups": [
+        [
+          11,
+          12,
+          13,
+          14
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "components": [
+        "攴",
+        "其餘部分"
+      ],
+      "strokeCount": 14,
+      "radical": "攴",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split為各組筆數；實際筆序依1起算strokeGroups，每筆恰好一次並保留原字位置。",
+      "verification": {
+        "method": "解析來源XML核對Stroke數、Outline無重複、有限合理座標與有效Track；渲染部首分色圖及每筆Track疊圖，逐字視覺核對。Track為描繪導引，不要求每個折點完全位於Outline內。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6572.xml",
+        "sourceSha256": "ddb3980a9d24e93b456dd4fc0610823757b0d0078169b6359377f98f9dd21464",
+        "checkedAt": "2026-10-15T15:45:31.541913Z",
+        "radicalReferenceUrl": "https://stroke-order.learningweb.moe.edu.tw/dictMean.jsp?ID=25970&la=0"
+      },
+      "updatedAt": "2026-10-15T15:47:17.737Z"
+    },
+    "淘": {
+      "structure": "左右",
+      "split": [
+        3,
+        8
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "components": [
+        "氵",
+        "其餘部分"
+      ],
+      "strokeCount": 11,
+      "radical": "水",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split為各組筆數；實際筆序依1起算strokeGroups，每筆恰好一次並保留原字位置。",
+      "verification": {
+        "method": "解析來源XML核對Stroke數、Outline無重複、有限合理座標與有效Track；渲染部首分色圖及每筆Track疊圖，逐字視覺核對。Track為描繪導引，不要求每個折點完全位於Outline內。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6dd8.xml",
+        "sourceSha256": "20bcc2eeeae54783b9253632a067b190b7811babcf89e51d06398d9e48010eb3",
+        "checkedAt": "2026-10-15T15:45:31.541913Z"
+      },
+      "updatedAt": "2026-10-15T15:47:17.737Z"
+    },
+    "蘋": {
+      "structure": "上下",
+      "split": [
+        4,
+        16
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      ],
+      "components": [
+        "艹",
+        "其餘部分"
+      ],
+      "strokeCount": 20,
+      "radical": "艸",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split為各組筆數；實際筆序依1起算strokeGroups，每筆恰好一次並保留原字位置。",
+      "verification": {
+        "method": "解析來源XML核對Stroke數、Outline無重複、有限合理座標與有效Track；渲染部首分色圖及每筆Track疊圖，逐字視覺核對。Track為描繪導引，不要求每個折點完全位於Outline內。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/860b.xml",
+        "sourceSha256": "2dba850b183f885e6cbc42a36fc3c9b0bda9338f6c0709dd90c866647bec9900",
+        "checkedAt": "2026-10-15T15:45:31.541913Z"
+      },
+      "updatedAt": "2026-10-15T15:47:17.737Z"
+    },
+    "般": {
+      "structure": "左右",
+      "split": [
+        6,
+        4
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        [
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "components": [
+        "舟",
+        "其餘部分"
+      ],
+      "strokeCount": 10,
+      "radical": "舟",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split為各組筆數；實際筆序依1起算strokeGroups，每筆恰好一次並保留原字位置。",
+      "verification": {
+        "method": "解析來源XML核對Stroke數、Outline無重複、有限合理座標與有效Track；渲染部首分色圖及每筆Track疊圖，逐字視覺核對。Track為描繪導引，不要求每個折點完全位於Outline內。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/822c.xml",
+        "sourceSha256": "2fef56075e79c258280777c83b454a9a233c6a00d9d9abefe880b2e0edd0fe85",
+        "checkedAt": "2026-10-15T15:45:31.541913Z",
+        "radicalReferenceUrl": "https://sutian.moe.edu.tw/zh-hant/poosiu/poosiu/137/%E8%88%AC/"
+      },
+      "updatedAt": "2026-10-15T15:47:17.737Z"
+    },
+    "藥": {
+      "structure": "上下",
+      "split": [
+        4,
+        15
+      ],
+      "strokeGroups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      ],
+      "components": [
+        "艹",
+        "其餘部分"
+      ],
+      "strokeCount": 19,
+      "radical": "艸",
+      "radicalVerified": true,
+      "radicalStrokeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "c9s/zh-stroke-data",
+      "verified": true,
+      "note": "採部首與其餘部分兩組，split為各組筆數；實際筆序依1起算strokeGroups，每筆恰好一次並保留原字位置。",
+      "verification": {
+        "method": "解析來源XML核對Stroke數、Outline無重複、有限合理座標與有效Track；渲染部首分色圖及每筆Track疊圖，逐字視覺核對。Track為描繪導引，不要求每個折點完全位於Outline內。",
+        "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/85e5.xml",
+        "sourceSha256": "785e3d569ff5302e0994eb21bd4de1aff837a92db53f91d634b04f72e7ce19bc",
+        "checkedAt": "2026-10-15T15:45:31.541913Z"
+      },
+      "updatedAt": "2026-10-15T15:47:17.737Z"
     }
   },
   "description": "陽光智慧黑板部件拆分字典。只有 verified=true 的資料可用於教學分色與部件拼貼。",
   "version": "1.0",
-  "updatedAt": "2026-10-15T13:06:15.147Z"
+  "updatedAt": "2026-10-15T15:47:17.737Z"
 }

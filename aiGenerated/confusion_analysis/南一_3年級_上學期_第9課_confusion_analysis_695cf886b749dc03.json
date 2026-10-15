@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第9課_confusion_analysis_695cf886b749dc03",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "藥",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "藥",
+    "groups": {
+      "shape": [
+        {
+          "char": "樂",
+          "why": "藥下方就是樂，容易漏掉上半部。",
+          "difference": "藥上面有艹；樂沒有艹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "要",
+          "why": "同音：吃藥的藥、需要的要都讀ㄧㄠˋ。",
+          "difference": "藥指治療等用途的藥物；要可表示需要，用「我要吃藥」分清兩字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "醫",
+          "why": "藥和醫都常出現在治病的情境。",
+          "difference": "藥是藥物；醫可表示治療或用於醫生，吃藥不能寫成吃醫。"
+        }
+      ],
+      "component": [
+        {
+          "char": "樂",
+          "why": "藥由上方艹和下方樂的字形組成。",
+          "difference": "這是字形觀察，不能照樂的常見讀音讀藥；藥讀ㄧㄠˋ。"
+        }
+      ]
+    },
+    "tip": "寫藥時保留艹和完整的樂；用「我要吃藥」比較同音的要、藥。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}

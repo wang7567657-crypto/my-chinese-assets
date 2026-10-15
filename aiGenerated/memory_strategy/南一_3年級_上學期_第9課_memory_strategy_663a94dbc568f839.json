@@ -1,0 +1,29 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_3年級_上學期_第9課_memory_strategy_663a94dbc568f839",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "戴",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "戴",
+    "components": [
+      "十（上方）",
+      "田（中間）",
+      "共（下方）",
+      "戈形筆畫（右側，與上方交接）"
+    ],
+    "association": "想像田字是一頂小帽子的正面，共字像下面站著的人，用戴帽子的畫面記住戴。這是圖像聯想，不是字源。",
+    "mnemonic": "十下田，田下共，右邊戈形別漏掉。",
+    "visualPrompt": "呈現標準字形「戴」，以淡色區分上方十、中間田、下方共及右側戈形筆畫；字旁畫戴帽子的人，圖不改動字形。",
+    "teachingTip": "這是觀察字形的位置提示，不是連續筆順分組。先找田與共，再對照範字檢查右側斜鉤、撇、點；注意戴與載的內部不同。"
+  },
+  "createdAt": "2026-10-15T15:46:04.664487Z"
+}
