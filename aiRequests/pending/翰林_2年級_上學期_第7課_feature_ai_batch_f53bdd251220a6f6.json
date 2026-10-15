@@ -376,10 +376,14 @@
       "taskType": "component_split",
       "requestId": "翰林_2年級_上學期_第7課_component_split_8003aff84557a8ce",
       "reason": "指定c9s原始XML回傳404，缺少可供驗證的來源。",
-      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7c84.xml"
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7c84.xml",
+      "teacherSpecifiedDecomposition": [
+        "米",
+        "反"
+      ]
     }
   ],
-  "lastCheckedAt": "2026-10-15T12:51:02.716Z",
+  "lastCheckedAt": "2026-10-15T13:06:15.147Z",
   "progress": {
     "totalItems": 22,
     "completedItems": 21,
@@ -408,5 +412,15 @@
       "翰林_2年級_上學期_第7課_component_split_1c2a1a25163adedc"
     ],
     "validation": "已通過XML輪廓、座標、Track及部首分色核對的項目回傳；來源異常項目保留待辦。"
+  },
+  "teacherOverrides": {
+    "粄": {
+      "components": [
+        "米",
+        "反"
+      ],
+      "noSplit": false,
+      "confirmedAt": "2026-10-15T13:06:15.147Z"
+    }
   }
 }

@@ -337,8 +337,22 @@
       "taskType": "component_split",
       "requestId": "康軒_3年級_上學期_第6課_component_split_5dffb52acb00e43c",
       "reason": "指定c9s原始XML回傳404，缺少可供驗證的來源。",
-      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/55b5.xml"
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/55b5.xml",
+      "teacherSpecifiedDecomposition": [
+        "口",
+        "苗"
+      ]
     }
   ],
-  "lastCheckedAt": "2026-10-15T12:51:02.716Z"
+  "lastCheckedAt": "2026-10-15T13:06:15.147Z",
+  "teacherOverrides": {
+    "喵": {
+      "components": [
+        "口",
+        "苗"
+      ],
+      "noSplit": false,
+      "confirmedAt": "2026-10-15T13:06:15.147Z"
+    }
+  }
 }
