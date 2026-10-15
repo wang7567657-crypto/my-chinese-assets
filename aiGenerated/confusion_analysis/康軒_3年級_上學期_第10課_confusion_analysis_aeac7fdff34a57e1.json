@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_aeac7fdff34a57e1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "塊",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "塊",
+    "groups": {
+      "shape": [
+        {
+          "char": "愧",
+          "why": "右邊都是鬼，容易忽略左偏旁。",
+          "difference": "塊左邊是土，如肉塊、土塊；愧左邊是忄，如慚愧。先找左旁，再認整字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "快",
+          "why": "塊和快都讀ㄎㄨㄞˋ。",
+          "difference": "一塊肉的塊用來說塊狀東西或計量；跑得快的快表示速度。肉塊不能寫成肉快。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "片",
+          "why": "塊、片都能計算物品，容易忽略形狀。",
+          "difference": "塊常著重塊狀，如一塊肉；片常著重薄平的形狀，如一片肉。要配合實物形狀，不能只背成完全互斥。"
+        }
+      ],
+      "component": [
+        {
+          "char": "鬼",
+          "why": "塊右邊含有完整的鬼形，可能只記右半。",
+          "difference": "鬼可以單獨成字；塊還要加左邊的土。記字時可以拆開觀察，但肉塊的意思與鬼怪無關。"
+        }
+      ]
+    },
+    "tip": "一塊肉用「土＋鬼」的塊；速度快用快。寫完先檢查左邊是不是土。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

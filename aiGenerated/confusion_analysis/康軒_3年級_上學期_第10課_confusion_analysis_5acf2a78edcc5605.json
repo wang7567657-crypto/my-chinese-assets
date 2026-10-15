@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_5acf2a78edcc5605",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "萬",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "萬",
+    "groups": {
+      "shape": [
+        {
+          "char": "禹",
+          "why": "下方都有相近的框形與斜筆，容易只看下半部。",
+          "difference": "萬上方有艹形字頭；禹最上方是一撇，沒有艹。比較上端和整體輪廓，不要把萬省成禹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "腕",
+          "why": "萬和腕都讀ㄨㄢˋ。",
+          "difference": "萬用在一萬、萬里無雲；腕用在手腕，左邊有肉旁。先分清數量、距離和身體部位。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "千",
+          "why": "兩字都表示數量，也常一起出現。",
+          "difference": "一萬等於十個一千。在萬里無雲中，萬里形容天空十分遼闊，不必理解為實際量過一萬里。"
+        }
+      ],
+      "component": [
+        {
+          "char": "邁",
+          "why": "邁含有萬部件，容易把部件與完整字混淆。",
+          "difference": "萬本身沒有辶；邁左下另有辶，如邁步。萬里無雲的萬不能多加辶變成邁。"
+        }
+      ]
+    },
+    "tip": "萬里無雲的萬讀ㄨㄢˋ。觀察上方艹形和下方禺形來記字；這是辨形，不是把萬的部首說成艸。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

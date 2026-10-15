@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第10課_confusion_analysis_a7d3d109cb749e6a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "狐",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "狐",
+    "groups": {
+      "shape": [
+        {
+          "char": "孤",
+          "why": "右邊都是瓜，整體輪廓接近。",
+          "difference": "狐左邊是犭，指狐狸；孤左邊是子，如孤單。狐讀ㄏㄨˊ，孤讀ㄍㄨ，兩字不是同音。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "湖",
+          "why": "狐和湖都讀ㄏㄨˊ，聽寫容易選錯字。",
+          "difference": "狐狸是動物，用犭旁的狐；湖水與水有關，用氵旁的湖。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "狼",
+          "why": "兩字都可以指故事裡的野生動物。",
+          "difference": "狐指狐狸，狼指另一種動物，如野狼；不能因為都在動物故事中就互換名稱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "瓜",
+          "why": "瓜就是狐右邊的部件，可能漏掉左旁。",
+          "difference": "瓜可以單獨成字，如西瓜；狐要在瓜左邊加犭，整字仍讀ㄏㄨˊ。"
+        }
+      ]
+    },
+    "tip": "先看左邊犭，再看右邊瓜；動物「狐狸」的狐不要寫成「孤單」的孤或「湖水」的湖。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

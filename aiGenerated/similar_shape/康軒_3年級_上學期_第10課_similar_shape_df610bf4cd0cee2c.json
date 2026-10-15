@@ -1,0 +1,72 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第10課_similar_shape_df610bf4cd0cee2c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "狸",
+    "lessonChars": [
+      "狐",
+      "里",
+      "兄",
+      "密",
+      "入",
+      "呀",
+      "踢",
+      "棄",
+      "酸",
+      "鴉",
+      "肉",
+      "塊",
+      "計",
+      "壯",
+      "狸",
+      "萬"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "狸",
+    "similarChars": [
+      {
+        "char": "理",
+        "similarity": "右邊同樣是「里」。",
+        "difference": "狸左邊是反犬旁「犭」；理左邊是王旁。"
+      },
+      {
+        "char": "裡",
+        "similarity": "右邊同樣是「里」。",
+        "difference": "狸左邊是犭；裡左邊是衣字旁「衤」。"
+      },
+      {
+        "char": "埋",
+        "similarity": "右邊同樣是「里」。",
+        "difference": "狸左邊是犭；埋左邊是土。"
+      },
+      {
+        "char": "哩",
+        "similarity": "右邊同樣是「里」。",
+        "difference": "狸左邊是犭；哩左邊是口。"
+      },
+      {
+        "char": "鯉",
+        "similarity": "右邊同樣是「里」。",
+        "difference": "狸左邊是犭；鯉左邊是魚，下方有四點。"
+      },
+      {
+        "char": "里",
+        "similarity": "狸的右半就是「里」。",
+        "difference": "里沒有左旁；狸在里左邊加犭。"
+      }
+    ],
+    "teachingTip": "把狐狸兩字並排，找出共同的反犬旁；再把狸與理、裡並排，遮住相同的里，練習只看左旁辨字。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

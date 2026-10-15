@@ -1,0 +1,72 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第10課_similar_shape_96119c89813eddc9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "兄",
+    "lessonChars": [
+      "狐",
+      "里",
+      "兄",
+      "密",
+      "入",
+      "呀",
+      "踢",
+      "棄",
+      "酸",
+      "鴉",
+      "肉",
+      "塊",
+      "計",
+      "壯",
+      "狸",
+      "萬"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "兄",
+    "similarChars": [
+      {
+        "char": "兌",
+        "similarity": "都有「口」和下方的「儿」。",
+        "difference": "兄上面是口；兌在口上面另有向兩側分開的兩筆「八」。"
+      },
+      {
+        "char": "況",
+        "similarity": "況的右半就是「兄」。",
+        "difference": "兄左邊沒有偏旁；況左邊多三點水「氵」。"
+      },
+      {
+        "char": "祝",
+        "similarity": "祝的右半就是「兄」。",
+        "difference": "兄左邊沒有偏旁；祝左邊多示字旁「礻」。"
+      },
+      {
+        "char": "克",
+        "similarity": "下方同樣看得到「口」與「儿」。",
+        "difference": "兄上面沒有十；克是在兄上面加「十」。"
+      },
+      {
+        "char": "兒",
+        "similarity": "下面同樣是「儿」。",
+        "difference": "兄上面是「口」；兒上面是「臼」，裡面另有短橫。"
+      },
+      {
+        "char": "只",
+        "similarity": "上面同樣是「口」，下方都有兩筆。",
+        "difference": "兄下面是「儿」，右筆彎鉤；只下面是「八」，右筆為點，沒有彎鉤。"
+      }
+    ],
+    "teachingTip": "把兄弟的兄放在正中，觀察下面右筆的彎鉤，再和只比較；加十是克、加八是兌，新增筆畫要放在口的上面。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

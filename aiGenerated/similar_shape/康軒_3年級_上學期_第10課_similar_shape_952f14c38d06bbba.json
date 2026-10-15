@@ -1,0 +1,72 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第10課_similar_shape_952f14c38d06bbba",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "壯",
+    "lessonChars": [
+      "狐",
+      "里",
+      "兄",
+      "密",
+      "入",
+      "呀",
+      "踢",
+      "棄",
+      "酸",
+      "鴉",
+      "肉",
+      "塊",
+      "計",
+      "壯",
+      "狸",
+      "萬"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "壯",
+    "similarChars": [
+      {
+        "char": "狀",
+        "similarity": "左邊同樣是「爿」。",
+        "difference": "壯右邊是士，上橫長、下橫短；狀右邊是犬，有撇、捺及一點。"
+      },
+      {
+        "char": "妝",
+        "similarity": "左邊同樣是「爿」。",
+        "difference": "壯右邊是士；妝右邊是女，有撇點及交叉的筆畫。"
+      },
+      {
+        "char": "裝",
+        "similarity": "裝的上半就是「壯」。",
+        "difference": "壯下面沒有其他部件；裝在壯下面加衣。"
+      },
+      {
+        "char": "莊",
+        "similarity": "莊的下半就是「壯」。",
+        "difference": "壯上面沒有其他部件；莊在壯上面加艹。"
+      },
+      {
+        "char": "士",
+        "similarity": "壯的右半就是「士」。",
+        "difference": "士獨立成字；壯在士左邊加爿。"
+      },
+      {
+        "char": "牡",
+        "similarity": "都呈左右結構，右半都有兩橫、一豎。",
+        "difference": "壯左邊是爿，右邊是士，上橫長；牡左邊是牛字旁，右邊是土，下橫長。"
+      }
+    ],
+    "teachingTip": "強壯的壯先找左邊爿，再檢查右邊是否為上長下短的士。與牡比較時，左右兩邊都要看，不能只看都有兩橫一豎。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}

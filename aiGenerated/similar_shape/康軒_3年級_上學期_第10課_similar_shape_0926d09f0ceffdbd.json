@@ -1,0 +1,72 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第10課_similar_shape_0926d09f0ceffdbd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "踢",
+    "lessonChars": [
+      "狐",
+      "里",
+      "兄",
+      "密",
+      "入",
+      "呀",
+      "踢",
+      "棄",
+      "酸",
+      "鴉",
+      "肉",
+      "塊",
+      "計",
+      "壯",
+      "狸",
+      "萬"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "踢",
+    "similarChars": [
+      {
+        "char": "剔",
+        "similarity": "都含有「易」這個部件。",
+        "difference": "踢是左足旁、右易；剔是左易、右立刀旁「刂」。"
+      },
+      {
+        "char": "惕",
+        "similarity": "右邊同樣是「易」。",
+        "difference": "踢左邊是足字旁；惕左邊是豎心旁「忄」。"
+      },
+      {
+        "char": "錫",
+        "similarity": "右邊同樣是「易」。",
+        "difference": "踢左邊是足字旁；錫左邊是金字旁。"
+      },
+      {
+        "char": "賜",
+        "similarity": "右邊同樣是「易」。",
+        "difference": "踢左邊是足字旁；賜左邊是貝。"
+      },
+      {
+        "char": "易",
+        "similarity": "踢的右半就是「易」。",
+        "difference": "易沒有左旁；踢在易左邊加足字旁。"
+      },
+      {
+        "char": "踏",
+        "similarity": "左邊同樣是足字旁，右邊也都有日形。",
+        "difference": "踢右邊是易，日下面是勿；踏右邊是沓，水在日上面。"
+      }
+    ],
+    "teachingTip": "用踢球的動作提醒足字旁，再把易上面的日、下面的勿分開看。與踏比較時，要找日是在右半的上方還是下方。"
+  },
+  "createdAt": "2026-10-15T21:31:18.181627Z"
+}
