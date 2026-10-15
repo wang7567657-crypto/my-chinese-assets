@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第1課_similar_shape_0cc1f0367b241b06",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "素",
+    "lessonChars": [
+      "戶",
+      "漫",
+      "季",
+      "素",
+      "嫩",
+      "繁",
+      "墨",
+      "姿",
+      "簇",
+      "週",
+      "淡",
+      "穫",
+      "迎",
+      "幅",
+      "伴"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "素",
+    "similarChars": [
+      {
+        "char": "索",
+        "similarity": "下方同為糸",
+        "difference": "素上方為三橫一豎相交；索上方是十與冖。"
+      },
+      {
+        "char": "紫",
+        "similarity": "下方同為糸",
+        "difference": "素上方不是此；紫上方是此。"
+      },
+      {
+        "char": "累",
+        "similarity": "下方同為糸",
+        "difference": "素上方不是田；累上方是田。"
+      },
+      {
+        "char": "紊",
+        "similarity": "下方同為糸",
+        "difference": "素上方不是文；紊上方是文。"
+      },
+      {
+        "char": "絮",
+        "similarity": "下方同為糸",
+        "difference": "素上方不是如；絮上方是如。"
+      },
+      {
+        "char": "緊",
+        "similarity": "下方同為糸",
+        "difference": "素上方是橫豎組合，緊上方是臤。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再指出換掉或移動的部分；用課文中的「素淨」確認目標字。少見字只用來觀察字形，不要求背寫。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

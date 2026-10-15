@@ -1,0 +1,272 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第1課_feature_ai_batch_2d887de6ca564b11",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 15,
+    "batchCharacters": [
+      "戶",
+      "漫",
+      "季",
+      "素",
+      "嫩",
+      "繁",
+      "墨",
+      "姿",
+      "簇",
+      "週",
+      "淡",
+      "穫",
+      "迎",
+      "幅",
+      "伴"
+    ],
+    "items": [
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_30481c4745fcd3b5",
+        "input": {
+          "char": "戶",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_3243ab3e5801966c",
+        "input": {
+          "char": "漫",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_c3a26ef03b6a5d7c",
+        "input": {
+          "char": "季",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_c131d1e33d0a64ff",
+        "input": {
+          "char": "素",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_a972be0c24308a5d",
+        "input": {
+          "char": "嫩",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_cc3be1714ba023ad",
+        "input": {
+          "char": "繁",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_2f007c7b4bf13872",
+        "input": {
+          "char": "墨",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_24708a754f5bbd60",
+        "input": {
+          "char": "姿",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_b209f02fee0ff1bd",
+        "input": {
+          "char": "簇",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_6634fc5bff252e7d",
+        "input": {
+          "char": "週",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_1651344792f8b870",
+        "input": {
+          "char": "淡",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_4d1dbd54eee7413b",
+        "input": {
+          "char": "穫",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_f1e26fecae1f6af9",
+        "input": {
+          "char": "迎",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_f1d47879d10ddf93",
+        "input": {
+          "char": "幅",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_4年級_上學期_第1課_memory_strategy_7fc8169b34ff7b67",
+        "input": {
+          "char": "伴",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00",
+  "processedAt": "2026-10-15T22:41:45.175423+00:00",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_4年級_上學期_第1課_feature_ai_batch_2d887de6ca564b11",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "南一",
+      "grade": "4年級",
+      "semester": "上學期",
+      "lesson": "第1課",
+      "featureTaskType": "memory_strategy",
+      "featureName": "記憶策略",
+      "itemCount": 15,
+      "batchCharacters": [
+        "戶",
+        "漫",
+        "季",
+        "素",
+        "嫩",
+        "繁",
+        "墨",
+        "姿",
+        "簇",
+        "週",
+        "淡",
+        "穫",
+        "迎",
+        "幅",
+        "伴"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 15,
+      "resultPaths": [
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_30481c4745fcd3b5.json",
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_3243ab3e5801966c.json",
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_c3a26ef03b6a5d7c.json",
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_c131d1e33d0a64ff.json",
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_a972be0c24308a5d.json",
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_cc3be1714ba023ad.json",
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_2f007c7b4bf13872.json",
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_24708a754f5bbd60.json",
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_b209f02fee0ff1bd.json",
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_6634fc5bff252e7d.json",
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_1651344792f8b870.json",
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_4d1dbd54eee7413b.json",
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_f1e26fecae1f6af9.json",
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_f1d47879d10ddf93.json",
+        "aiGenerated/memory_strategy/南一_4年級_上學期_第1課_memory_strategy_7fc8169b34ff7b67.json"
+      ]
+    },
+    "createdAt": "2026-10-15T22:41:45.175423+00:00"
+  }
+}

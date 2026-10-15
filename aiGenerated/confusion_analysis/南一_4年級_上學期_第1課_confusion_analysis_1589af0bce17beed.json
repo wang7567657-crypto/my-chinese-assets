@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第1課_confusion_analysis_1589af0bce17beed",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "幅",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "幅",
+    "groups": {
+      "shape": [
+        {
+          "char": "福",
+          "why": "右側同為畐",
+          "difference": "幅左是巾，福左是礻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "福",
+          "why": "幅ㄈㄨˊ、福ㄈㄨˊ，同音。",
+          "difference": "一幅畫寫巾旁幅；幸福寫礻旁福。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "張",
+          "why": "都能計算平面的物品。",
+          "difference": "幅常用於畫或布；張常用於紙、桌子等，搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "副",
+          "why": "都含畐",
+          "difference": "幅在畐左加巾；副在畐右加刂。"
+        }
+      ]
+    },
+    "tip": "先比字形位置，再把字放回課文語詞；同音不代表同字，字形聯想也不代表字源。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

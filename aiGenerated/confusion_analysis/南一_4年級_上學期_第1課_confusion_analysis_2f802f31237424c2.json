@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第1課_confusion_analysis_2f802f31237424c2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "迎",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "迎",
+    "groups": {
+      "shape": [
+        {
+          "char": "仰",
+          "why": "右側同含卬",
+          "difference": "迎以辶包在左下；仰左側是亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "營",
+          "why": "迎ㄧㄥˊ、營ㄧㄥˊ，同音。",
+          "difference": "迎接寫迎；營地寫營。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "接",
+          "why": "都可用在歡迎來者的情境。",
+          "difference": "迎強調朝對方來的方向相見；接也可指接住、接連。"
+        }
+      ],
+      "component": [
+        {
+          "char": "抑",
+          "why": "右側同含卬",
+          "difference": "迎用辶，抑左側是扌。"
+        }
+      ]
+    },
+    "tip": "先比字形位置，再把字放回課文語詞；同音不代表同字，字形聯想也不代表字源。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

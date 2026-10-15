@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第1課_confusion_analysis_7ca4228cca327301",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "姿",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "姿",
+    "groups": {
+      "shape": [
+        {
+          "char": "資",
+          "why": "上方同為次",
+          "difference": "姿下方是女，資下方是貝。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "資",
+          "why": "姿ㄗ、資ㄗ，同音。",
+          "difference": "姿態寫姿；資料寫資。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "態",
+          "why": "都可指外在的樣子。",
+          "difference": "姿多指外形或動作樣貌；態也可指神情或狀況。"
+        }
+      ],
+      "component": [
+        {
+          "char": "咨",
+          "why": "上方同為次",
+          "difference": "姿下方是女，咨下方是口。"
+        }
+      ]
+    },
+    "tip": "先比字形位置，再把字放回課文語詞；同音不代表同字，字形聯想也不代表字源。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

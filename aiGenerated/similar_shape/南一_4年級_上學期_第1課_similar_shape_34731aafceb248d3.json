@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第1課_similar_shape_34731aafceb248d3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "簇",
+    "lessonChars": [
+      "戶",
+      "漫",
+      "季",
+      "素",
+      "嫩",
+      "繁",
+      "墨",
+      "姿",
+      "簇",
+      "週",
+      "淡",
+      "穫",
+      "迎",
+      "幅",
+      "伴"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "簇",
+    "similarChars": [
+      {
+        "char": "族",
+        "similarity": "都含族",
+        "difference": "簇在族上方加⺮。"
+      },
+      {
+        "char": "簾",
+        "similarity": "上方同為⺮",
+        "difference": "簇下方是族，簾下方是廉。"
+      },
+      {
+        "char": "簽",
+        "similarity": "上方同為⺮",
+        "difference": "簇下方是族，簽下方是僉。"
+      },
+      {
+        "char": "箭",
+        "similarity": "上方同為⺮",
+        "difference": "簇下方是族，箭下方是前。"
+      },
+      {
+        "char": "筷",
+        "similarity": "上方同為⺮",
+        "difference": "簇下方是族，筷下方是快。"
+      },
+      {
+        "char": "範",
+        "similarity": "上方同為⺮，下部較密集。",
+        "difference": "簇下方是族；範下方左邊有車，右邊是㔾。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再指出換掉或移動的部分；用課文中的「一簇」確認目標字。少見字只用來觀察字形，不要求背寫。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

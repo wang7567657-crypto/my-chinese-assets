@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第1課_similar_shape_521a04def1a80c4d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "迎",
+    "lessonChars": [
+      "戶",
+      "漫",
+      "季",
+      "素",
+      "嫩",
+      "繁",
+      "墨",
+      "姿",
+      "簇",
+      "週",
+      "淡",
+      "穫",
+      "迎",
+      "幅",
+      "伴"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "迎",
+    "similarChars": [
+      {
+        "char": "仰",
+        "similarity": "右側同含卬",
+        "difference": "迎以辶包在左下；仰左側是亻。"
+      },
+      {
+        "char": "抑",
+        "similarity": "右側同含卬",
+        "difference": "迎用辶，抑左側是扌。"
+      },
+      {
+        "char": "昂",
+        "similarity": "都含卬",
+        "difference": "迎的辶在左下；昂在卬上方加日。"
+      },
+      {
+        "char": "印",
+        "similarity": "右側都可見卩形",
+        "difference": "迎內部是卬且外有辶；印左側是撇橫與豎提的組合，沒有辶。"
+      },
+      {
+        "char": "近",
+        "similarity": "都有辶",
+        "difference": "迎內部是卬；近內部是斤。"
+      },
+      {
+        "char": "返",
+        "similarity": "都有辶",
+        "difference": "迎內部是卬；返內部是反。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再指出換掉或移動的部分；用課文中的「迎接」確認目標字。少見字只用來觀察字形，不要求背寫。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

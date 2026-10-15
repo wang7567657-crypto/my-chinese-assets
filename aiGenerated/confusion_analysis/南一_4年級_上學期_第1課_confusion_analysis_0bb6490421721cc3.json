@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第1課_confusion_analysis_0bb6490421721cc3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "戶",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "戶",
+    "groups": {
+      "shape": [
+        {
+          "char": "尸",
+          "why": "上部與長撇輪廓接近",
+          "difference": "戶上端是撇，尸上端是橫折形成的框。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "互",
+          "why": "戶ㄏㄨˋ、互ㄏㄨˋ，同音。",
+          "difference": "窗戶寫戶；互相寫互。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "窗",
+          "why": "都與住家開口有關。",
+          "difference": "戶可指門或人家；窗是牆上的透光通風開口。"
+        }
+      ],
+      "component": [
+        {
+          "char": "房",
+          "why": "含有戶部件",
+          "difference": "房在戶的下方加方。"
+        }
+      ]
+    },
+    "tip": "先比字形位置，再把字放回課文語詞；同音不代表同字，字形聯想也不代表字源。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

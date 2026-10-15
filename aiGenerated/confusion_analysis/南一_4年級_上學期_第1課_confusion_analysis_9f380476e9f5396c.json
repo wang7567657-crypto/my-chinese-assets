@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第1課_confusion_analysis_9f380476e9f5396c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "漫",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "漫",
+    "groups": {
+      "shape": [
+        {
+          "char": "慢",
+          "why": "右側同為曼",
+          "difference": "漫左是氵，慢左是忄。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "慢",
+          "why": "漫ㄇㄢˋ、慢ㄇㄢˋ，同音。",
+          "difference": "浪漫寫漫；快慢寫慢。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "溢",
+          "why": "都有水向外擴展的意思。",
+          "difference": "漫可指水滿而四散，也用在浪漫；溢強調超過容器邊緣流出。"
+        }
+      ],
+      "component": [
+        {
+          "char": "蔓",
+          "why": "都含曼",
+          "difference": "漫是左氵右曼；蔓是上艹下曼。"
+        }
+      ]
+    },
+    "tip": "先比字形位置，再把字放回課文語詞；同音不代表同字，字形聯想也不代表字源。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

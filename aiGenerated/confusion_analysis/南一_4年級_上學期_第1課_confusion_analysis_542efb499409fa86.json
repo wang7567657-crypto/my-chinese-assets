@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第1課_confusion_analysis_542efb499409fa86",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "淡",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "淡",
+    "groups": {
+      "shape": [
+        {
+          "char": "談",
+          "why": "右側同為炎",
+          "difference": "淡左是氵，談左是言。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "但",
+          "why": "淡ㄉㄢˋ、但ㄉㄢˋ，同音。",
+          "difference": "淡紅寫淡；但是寫但。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "淺",
+          "why": "都可形容顏色不深。",
+          "difference": "淡還可形容味道不濃；淺還可形容深度小。"
+        }
+      ],
+      "component": [
+        {
+          "char": "痰",
+          "why": "都含炎",
+          "difference": "淡左氵右炎；痰以疒包住炎。"
+        }
+      ]
+    },
+    "tip": "先比字形位置，再把字放回課文語詞；同音不代表同字，字形聯想也不代表字源。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

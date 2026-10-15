@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第1課_similar_shape_ed73f39bfbc59ddf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "戶",
+    "lessonChars": [
+      "戶",
+      "漫",
+      "季",
+      "素",
+      "嫩",
+      "繁",
+      "墨",
+      "姿",
+      "簇",
+      "週",
+      "淡",
+      "穫",
+      "迎",
+      "幅",
+      "伴"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "data": {
+    "targetChar": "戶",
+    "similarChars": [
+      {
+        "char": "尸",
+        "similarity": "上部與長撇輪廓接近",
+        "difference": "戶上端是撇，尸上端是橫折形成的框。"
+      },
+      {
+        "char": "房",
+        "similarity": "含有戶部件",
+        "difference": "房在戶的下方加方。"
+      },
+      {
+        "char": "所",
+        "similarity": "左側含戶",
+        "difference": "所在戶右側加斤。"
+      },
+      {
+        "char": "扇",
+        "similarity": "上方含戶",
+        "difference": "扇在戶下方加羽。"
+      },
+      {
+        "char": "肩",
+        "similarity": "上方含戶",
+        "difference": "肩在戶下方加月形部件。"
+      },
+      {
+        "char": "扁",
+        "similarity": "上方含戶",
+        "difference": "扁在戶下方加冊形部件。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再指出換掉或移動的部分；用課文中的「窗戶」確認目標字。少見字只用來觀察字形，不要求背寫。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

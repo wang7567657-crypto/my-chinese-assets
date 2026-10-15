@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第1課_confusion_analysis_1948d213b42a8d2f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "墨",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "墨",
+    "groups": {
+      "shape": [
+        {
+          "char": "黑",
+          "why": "都含黑部件",
+          "difference": "墨在黑下方加土。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "默",
+          "why": "墨ㄇㄛˋ、默ㄇㄛˋ，同音。",
+          "difference": "墨綠寫墨；沉默寫默。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "黑",
+          "why": "都與深暗顏色有關。",
+          "difference": "墨可指書寫顏料，也可形容深黑；黑是顏色名稱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "黨",
+          "why": "都含黑",
+          "difference": "墨是黑下加土；黨是黑上加尚的上部及口。"
+        }
+      ]
+    },
+    "tip": "先比字形位置，再把字放回課文語詞；同音不代表同字，字形聯想也不代表字源。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第1課_confusion_analysis_8617ca7e24cf906c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "伴",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "伴",
+    "groups": {
+      "shape": [
+        {
+          "char": "半",
+          "why": "都含半",
+          "difference": "伴在半左邊加亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "辦",
+          "why": "伴ㄅㄢˋ、辦ㄅㄢˋ，同音。",
+          "difference": "相伴寫伴；辦事寫辦。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "陪",
+          "why": "都有一起在旁的意思。",
+          "difference": "伴可指同伴或相伴；陪多用作陪同、陪伴的動作。"
+        }
+      ],
+      "component": [
+        {
+          "char": "拌",
+          "why": "右側同為半",
+          "difference": "伴左是亻，拌左是扌。"
+        }
+      ]
+    },
+    "tip": "先比字形位置，再把字放回課文語詞；同音不代表同字，字形聯想也不代表字源。"
+  },
+  "createdAt": "2026-10-15T22:41:45.175423+00:00"
+}
