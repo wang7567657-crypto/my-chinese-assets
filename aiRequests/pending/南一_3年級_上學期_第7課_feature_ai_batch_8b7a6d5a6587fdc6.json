@@ -257,5 +257,37 @@
     ],
     "instruction": "只處理本功能所有items"
   },
-  "createdAt": "2026-10-15T10:46:59.689972+00:00"
+  "createdAt": "2026-10-15T10:46:59.689972+00:00",
+  "progress": {
+    "totalItems": 15,
+    "completedItems": 14,
+    "blockedItems": 1,
+    "completedRequestIds": [
+      "南一_3年級_上學期_第7課_component_split_c12f211aa8745975",
+      "南一_3年級_上學期_第7課_component_split_67dc9f8772c71d55",
+      "南一_3年級_上學期_第7課_component_split_304bdb7d2d0ea740",
+      "南一_3年級_上學期_第7課_component_split_262b5d9f158d3168",
+      "南一_3年級_上學期_第7課_component_split_7d3055d2635f8782",
+      "南一_3年級_上學期_第7課_component_split_6397d55fc2a5863f",
+      "南一_3年級_上學期_第7課_component_split_7dec31c0a9f3e767",
+      "南一_3年級_上學期_第7課_component_split_753f92987cf13ef9",
+      "南一_3年級_上學期_第7課_component_split_09eace8265e191b3",
+      "南一_3年級_上學期_第7課_component_split_f487a02218763073",
+      "南一_3年級_上學期_第7課_component_split_c72cdfd0096092e1",
+      "南一_3年級_上學期_第7課_component_split_3a88757b0599def6",
+      "南一_3年級_上學期_第7課_component_split_090fc218d0767369",
+      "南一_3年級_上學期_第7課_component_split_e5a164fc2fda172a"
+    ],
+    "validation": "已通過XML輪廓、座標、Track及部首分色核對的項目回傳；來源異常項目保留待辦。"
+  },
+  "blockedItems": [
+    {
+      "char": "懂",
+      "taskType": "component_split",
+      "requestId": "南一_3年級_上學期_第7課_component_split_fa47e6ca49a1572d",
+      "reason": "指定c9s來源共有32筆，含重複輪廓與兩套筆畫；未校正來源前不可標記verified。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/61c2.xml"
+    }
+  ],
+  "lastCheckedAt": "2026-10-15T12:51:02.716Z"
 }

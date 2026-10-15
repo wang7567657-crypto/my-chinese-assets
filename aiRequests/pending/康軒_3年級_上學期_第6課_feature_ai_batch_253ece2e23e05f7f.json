@@ -305,5 +305,40 @@
     ],
     "instruction": "只處理本功能所有items"
   },
-  "createdAt": "2026-10-15T12:29:57.649071Z"
+  "createdAt": "2026-10-15T12:29:57.649071Z",
+  "progress": {
+    "totalItems": 18,
+    "completedItems": 17,
+    "blockedItems": 1,
+    "completedRequestIds": [
+      "康軒_3年級_上學期_第6課_component_split_1b5d26e8af4b313a",
+      "康軒_3年級_上學期_第6課_component_split_503a8eb0d9b5e0f3",
+      "康軒_3年級_上學期_第6課_component_split_52c16a09c337baa2",
+      "康軒_3年級_上學期_第6課_component_split_f34b8422affd6ab2",
+      "康軒_3年級_上學期_第6課_component_split_10a53a8830f42574",
+      "康軒_3年級_上學期_第6課_component_split_b3c9fcb018e566da",
+      "康軒_3年級_上學期_第6課_component_split_882fed5136c3b95d",
+      "康軒_3年級_上學期_第6課_component_split_e0b7c7d025231a4b",
+      "康軒_3年級_上學期_第6課_component_split_58e1714ebc35d62e",
+      "康軒_3年級_上學期_第6課_component_split_b79ff70c29e930a4",
+      "康軒_3年級_上學期_第6課_component_split_9619b9f8013a3f8d",
+      "康軒_3年級_上學期_第6課_component_split_16b97911b8840881",
+      "康軒_3年級_上學期_第6課_component_split_202958830f587bc8",
+      "康軒_3年級_上學期_第6課_component_split_7d8164a60ad84de7",
+      "康軒_3年級_上學期_第6課_component_split_97cff36bb4866fdd",
+      "康軒_3年級_上學期_第6課_component_split_07091ff79aad3483",
+      "康軒_3年級_上學期_第6課_component_split_0fd14f4a742697f9"
+    ],
+    "validation": "已通過XML輪廓、座標、Track及部首分色核對的項目回傳；來源異常項目保留待辦。"
+  },
+  "blockedItems": [
+    {
+      "char": "喵",
+      "taskType": "component_split",
+      "requestId": "康軒_3年級_上學期_第6課_component_split_5dffb52acb00e43c",
+      "reason": "指定c9s原始XML回傳404，缺少可供驗證的來源。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/55b5.xml"
+    }
+  ],
+  "lastCheckedAt": "2026-10-15T12:51:02.716Z"
 }

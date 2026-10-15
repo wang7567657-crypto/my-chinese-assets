@@ -2,6 +2,7 @@
   "taskType": "component_split",
   "requestId": "康軒_3年級_上學期_第3課_component_split_ee2dfdd1c2831f5f",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
     "publisher": "康軒",
@@ -13,21 +14,12 @@
     "strokeSource": "c9s/zh-stroke-data"
   },
   "data": {
-    "components": [
-      "由"
-    ],
-    "note": "「由」為獨體字，不硬拆；部首為「田」，5筆皆屬完整字形。",
     "radical": "田",
     "radicalStrokeIndices": [
       1,
       2,
       3,
       4,
-      5
-    ],
-    "radicalVerified": true,
-    "source": "c9s_strokes_reviewed",
-    "split": [
       5
     ],
     "strokeCount": 5,
@@ -40,14 +32,22 @@
         5
       ]
     ],
+    "split": [
+      5
+    ],
+    "components": [
+      "由"
+    ],
     "structure": "獨體",
-    "updatedAt": "2026-09-18T01:52:39.308Z",
+    "verified": true,
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "保留獨體字整字，不強行拆分。",
     "verification": {
-      "method": "逐筆核對 c9s 原始 Outline/Track；確認共5筆。依獨體字規則保留完整字，不虛構拆分。",
-      "sourceBlobSha": "9ceb70db20d96d5e36d68c57aad348329be9ebae",
-      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/7531.xml"
-    },
-    "verified": true
+      "method": "核對原始XML的Stroke數、輪廓無重複、有限合理座標及有效Track，並完成字形與部首分色視覺核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7531.xml",
+      "checkedAt": "2026-10-15T12:51:02.716Z"
+    }
   },
-  "createdAt": "2026-09-18T01:52:39.308Z"
+  "createdAt": "2026-10-15T12:51:02.716Z"
 }

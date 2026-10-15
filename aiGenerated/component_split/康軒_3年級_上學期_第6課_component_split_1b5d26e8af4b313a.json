@@ -1,0 +1,51 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_3年級_上學期_第6課_component_split_1b5d26e8af4b313a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "女",
+    "strokeCount": 3,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "radical": "女",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "strokeCount": 3,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3
+      ]
+    ],
+    "split": [
+      3
+    ],
+    "components": [
+      "女"
+    ],
+    "structure": "獨體",
+    "verified": true,
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "保留獨體字整字，不強行拆分。",
+    "verification": {
+      "method": "核對原始XML的Stroke數、輪廓無重複、有限合理座標及有效Track，並完成字形與部首分色視覺核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5973.xml",
+      "checkedAt": "2026-10-15T12:51:02.716Z"
+    }
+  },
+  "createdAt": "2026-10-15T12:51:02.716Z"
+}

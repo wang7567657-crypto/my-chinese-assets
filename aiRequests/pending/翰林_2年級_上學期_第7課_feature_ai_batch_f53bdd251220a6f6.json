@@ -375,11 +375,11 @@
       "char": "粄",
       "taskType": "component_split",
       "requestId": "翰林_2年級_上學期_第7課_component_split_8003aff84557a8ce",
-      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7c84.xml",
-      "reason": "指定c9s原始XML回傳404，無法完成筆畫及部首分色驗證。"
+      "reason": "指定c9s原始XML回傳404，缺少可供驗證的來源。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7c84.xml"
     }
   ],
-  "lastCheckedAt": "2026-10-15T01:58:02.426Z",
+  "lastCheckedAt": "2026-10-15T12:51:02.716Z",
   "progress": {
     "totalItems": 22,
     "completedItems": 21,
@@ -407,6 +407,6 @@
       "翰林_2年級_上學期_第7課_component_split_a75a9479bee49d2f",
       "翰林_2年級_上學期_第7課_component_split_1c2a1a25163adedc"
     ],
-    "validation": "重讀既有完成資料；未解決來源異常的項目保留待辦。"
+    "validation": "已通過XML輪廓、座標、Track及部首分色核對的項目回傳；來源異常項目保留待辦。"
   }
 }

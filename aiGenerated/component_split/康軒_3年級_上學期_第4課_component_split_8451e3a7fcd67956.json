@@ -1,0 +1,66 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_3年級_上學期_第4課_component_split_8451e3a7fcd67956",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "感",
+    "strokeCount": 13,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "radical": "心",
+    "radicalStrokeIndices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "strokeCount": 13,
+    "strokeGroups": [
+      [
+        7,
+        8,
+        9,
+        10
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        11,
+        12,
+        13
+      ]
+    ],
+    "split": [
+      4,
+      9
+    ],
+    "components": [
+      "心",
+      "其餘部分"
+    ],
+    "structure": "上下",
+    "verified": true,
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首與其餘部分分組；strokeGroups使用來源XML的1起算筆畫索引，每筆恰好一次，保留原字位置與來源筆順。此來源的心部筆畫位於第7至10筆，依實際輪廓對應，不套用連續尾段。",
+    "verification": {
+      "method": "核對原始XML的Stroke數、輪廓無重複、有限合理座標及有效Track，並完成字形與部首分色視覺核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/611f.xml",
+      "checkedAt": "2026-10-15T12:51:02.716Z"
+    }
+  },
+  "createdAt": "2026-10-15T12:51:02.716Z"
+}

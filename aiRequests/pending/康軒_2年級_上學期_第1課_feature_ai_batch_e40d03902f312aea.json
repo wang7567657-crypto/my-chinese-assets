@@ -343,11 +343,11 @@
       "char": "年",
       "taskType": "component_split",
       "requestId": "康軒_2年級_上學期_第1課_component_split_3a847891052daeb1",
-      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5e74.xml",
-      "reason": "c9s來源有7筆，第6與第7筆輪廓重複；尚未校正來源，不標記verified。"
+      "reason": "指定c9s來源共有7筆，第6與第7筆輪廓重複；未校正來源前不可標記verified。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5e74.xml"
     }
   ],
-  "lastCheckedAt": "2026-10-15T01:58:02.426Z",
+  "lastCheckedAt": "2026-10-15T12:51:02.716Z",
   "progress": {
     "totalItems": 20,
     "completedItems": 19,
@@ -373,6 +373,6 @@
       "康軒_2年級_上學期_第1課_component_split_5a467bdea99844ab",
       "康軒_2年級_上學期_第1課_component_split_1c1dc762170dafff"
     ],
-    "validation": "重讀既有完成資料；未解決來源異常的項目保留待辦。"
+    "validation": "已通過XML輪廓、座標、Track及部首分色核對的項目回傳；來源異常項目保留待辦。"
   }
 }
