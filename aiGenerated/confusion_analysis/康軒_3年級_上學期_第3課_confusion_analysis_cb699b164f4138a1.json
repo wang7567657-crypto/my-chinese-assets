@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_cb699b164f4138a1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "料",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "料",
+    "groups": {
+      "shape": [
+        {
+          "char": "科",
+          "why": "右側同是斗，左側都有撇捺。",
+          "difference": "料左側是米；科左側是禾，頂部筆畫不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "廖",
+          "why": "同音：料、姓氏廖都讀ㄌㄧㄠˋ。",
+          "difference": "材料用料；姓氏廖用廖，不能因同音互換。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "材",
+          "why": "材料一詞使兩字意思相近。",
+          "difference": "料可指所用的物質，也可指預料；材可指材料或才質，預料不能寫預材。"
+        }
+      ],
+      "component": [
+        {
+          "char": "斗",
+          "why": "料右側是斗。",
+          "difference": "料左側還有米；斗單獨成字沒有米。"
+        }
+      ]
+    },
+    "tip": "「用料實在」指所用材料，先辨左米、右斗。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

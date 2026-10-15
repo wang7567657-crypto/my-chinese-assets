@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_6532c68b82d88750",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "葡",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "葡",
+    "groups": {
+      "shape": [
+        {
+          "char": "匍",
+          "why": "下方或內部都有匍形。",
+          "difference": "葡在匍上方加艸頭；匍沒有艸頭，常見於匍匐。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蒲",
+          "why": "同音：葡、蒲都讀ㄆㄨˊ。",
+          "difference": "葡萄用葡；蒲公英用蒲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "桃",
+          "why": "葡萄與桃都是水果，不能只按類別替換。",
+          "difference": "水果名稱是完整的「葡萄」；葡在這個詞中不單獨表示一種水果。桃可指桃子，不能拿來替換葡萄中的葡。"
+        }
+      ],
+      "component": [
+        {
+          "char": "甫",
+          "why": "葡下半包圍內能辨出甫。",
+          "difference": "葡還有艸頭及勹，不能只寫甫或漏掉勹。"
+        }
+      ]
+    },
+    "tip": "以水果圖片搭配整詞「葡萄」認讀，再找出第一個字葡；葡內是甫，萄內是缶。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第3課_similar_shape_2f6b86e74b4c01b4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "繞",
+    "lessonChars": [
+      "繞",
+      "由",
+      "迷",
+      "失",
+      "岸",
+      "撞",
+      "扶",
+      "急",
+      "店",
+      "機",
+      "料",
+      "實",
+      "留",
+      "觀",
+      "暴",
+      "闆",
+      "葡",
+      "萄"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "繞",
+    "similarChars": [
+      {
+        "char": "澆",
+        "similarity": "右半都有「堯」，都是左右結構。",
+        "difference": "「繞」左邊是糸字旁；「澆」左邊是三點水。"
+      },
+      {
+        "char": "燒",
+        "similarity": "右半同為「堯」，整體輪廓相近。",
+        "difference": "「繞」左邊是糸字旁；「燒」左邊是火字旁。"
+      },
+      {
+        "char": "曉",
+        "similarity": "右半同為「堯」。",
+        "difference": "「繞」左邊是糸字旁；「曉」左邊是日字旁。"
+      },
+      {
+        "char": "饒",
+        "similarity": "右半都有「堯」，左邊各有一個偏旁。",
+        "difference": "「繞」左邊是糸字旁；「饒」左邊是食字旁。"
+      },
+      {
+        "char": "僥",
+        "similarity": "右半同為「堯」。",
+        "difference": "「繞」左邊是糸字旁；「僥」左邊是單人旁。"
+      },
+      {
+        "char": "撓",
+        "similarity": "右半同為「堯」，都是左窄右寬。",
+        "difference": "「繞」左邊是糸字旁；「撓」左邊是提手旁。"
+      }
+    ],
+    "teachingTip": "先遮住左旁，找出共同的「堯」，再逐一比較左旁。寫「繞」時，右部保持不變，左部一定寫糸字旁。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

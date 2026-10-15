@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_e6349f9b0f24e5d8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "失",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "失",
+    "groups": {
+      "shape": [
+        {
+          "char": "矢",
+          "why": "上半輪廓相近，下方都有撇捺。",
+          "difference": "失中間的長撇向上穿出第一橫；矢中間的長撇從第一橫處起筆，不向上穿出。兩字都要對照標準字形，不能只看總筆畫數。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "詩",
+          "why": "同音：失、詩都讀ㄕ。",
+          "difference": "迷失用失；詩歌用詩。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "丟",
+          "why": "都可和東西不見有關。",
+          "difference": "失去表示不再擁有；丟也可指拋擲，丟球不等於失球。"
+        }
+      ],
+      "component": [
+        {
+          "char": "夫",
+          "why": "都有兩橫與撇捺，容易忽略頂部。",
+          "difference": "失最上方多一撇；夫沒有這一撇。"
+        }
+      ]
+    },
+    "tip": "對照失、夫，確認失上端的小撇，別把失去和丟擲混用。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

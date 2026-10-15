@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_3年級_上學期_第3課_similar_shape_0d7568912eaa81e0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "由",
+    "lessonChars": [
+      "繞",
+      "由",
+      "迷",
+      "失",
+      "岸",
+      "撞",
+      "扶",
+      "急",
+      "店",
+      "機",
+      "料",
+      "實",
+      "留",
+      "觀",
+      "暴",
+      "闆",
+      "葡",
+      "萄"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "由",
+    "similarChars": [
+      {
+        "char": "田",
+        "similarity": "都有方框，框內有橫、豎交叉。",
+        "difference": "「由」的中豎伸出框頂；「田」的中豎留在框內。"
+      },
+      {
+        "char": "甲",
+        "similarity": "都有方框和一條穿過框內的中豎。",
+        "difference": "「由」中豎向上出頭、不向下伸出；「甲」中豎向下伸出、不向上出頭。"
+      },
+      {
+        "char": "申",
+        "similarity": "都有方框及穿過框內的中豎。",
+        "difference": "「由」中豎只向上出頭；「申」中豎上下都出頭。"
+      },
+      {
+        "char": "油",
+        "similarity": "都含有完整的「由」形。",
+        "difference": "「由」獨立成字；「油」在「由」左邊加三點水。"
+      },
+      {
+        "char": "抽",
+        "similarity": "都含有「由」形。",
+        "difference": "「由」沒有左旁；「抽」在「由」左邊加提手旁。"
+      },
+      {
+        "char": "笛",
+        "similarity": "都含有「由」形。",
+        "difference": "「由」獨立成字；「笛」在「由」上方加竹字頭。"
+      }
+    ],
+    "teachingTip": "把「田、由、甲、申」排在一起，只看中豎是否出框：田不出，由上出，甲下出，申上下出。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

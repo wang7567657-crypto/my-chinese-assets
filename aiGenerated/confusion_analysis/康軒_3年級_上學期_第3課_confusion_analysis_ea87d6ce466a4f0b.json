@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_ea87d6ce466a4f0b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "機",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "機",
+    "groups": {
+      "shape": [
+        {
+          "char": "幾",
+          "why": "機的右半和幾相同。",
+          "difference": "機多了左邊木；幾沒有木旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "雞",
+          "why": "同音：飛機的機、大公雞的雞都讀ㄐㄧ。",
+          "difference": "交通工具飛機用機；動物公雞用雞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "器",
+          "why": "機器一詞中的兩字都和工具有關。",
+          "difference": "機可指機械，也可指機會；器可指器具，機會不能寫器會。"
+        }
+      ],
+      "component": [
+        {
+          "char": "木",
+          "why": "機以木作左旁，但整字筆畫多。",
+          "difference": "左木要和右側幾分清；不可把木旁併進幾的斜筆。"
+        }
+      ]
+    },
+    "tip": "課文把雞和機放進繞口令：同音仍要看詞義選字。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

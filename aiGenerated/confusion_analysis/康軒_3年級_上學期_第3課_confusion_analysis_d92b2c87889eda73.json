@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_d92b2c87889eda73",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "萄",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "萄",
+    "groups": {
+      "shape": [
+        {
+          "char": "陶",
+          "why": "右側或下部同含匋。",
+          "difference": "萄上方是艸頭；陶左側是阜旁阝。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "桃",
+          "why": "同音：萄單字讀ㄊㄠˊ，桃也讀ㄊㄠˊ。",
+          "difference": "葡萄的萄不能寫成桃；葡萄一詞也可讀ㄆㄨˊ ˙ㄊㄠ，須整詞示範。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "葡",
+          "why": "兩字共同組成水果名葡萄。",
+          "difference": "葡在詞的前面，萄在後面；這裡要以完整詞「葡萄」表示水果，不把兩個單字當成同義詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "缶",
+          "why": "萄下半包圍內是缶。",
+          "difference": "缶外還有勹，上方還有艸頭；不要把內部改成葡的甫。"
+        }
+      ]
+    },
+    "tip": "用「葡萄」整詞對照：葡內甫，萄內缶；先讀完整詞語，再指出第二個字萄。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

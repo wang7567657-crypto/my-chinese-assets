@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_e84511dd94abf4cb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "岸",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "岸",
+    "groups": {
+      "shape": [
+        {
+          "char": "岩",
+          "why": "上方都有山，下方筆畫密集。",
+          "difference": "岸下方為厂內有干；岩下方是石。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "按",
+          "why": "同音：岸、按都讀ㄢˋ。",
+          "difference": "上岸用岸；按鈕用按。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "邊",
+          "why": "岸和邊都可表示邊界附近。",
+          "difference": "岸特指水邊的陸地；邊適用範圍較廣，桌邊不是桌岸。"
+        }
+      ],
+      "component": [
+        {
+          "char": "干",
+          "why": "岸的下部可辨出干。",
+          "difference": "岸在干外還有厂，上方還有山；不可漏掉任何部分。"
+        }
+      ]
+    },
+    "tip": "用水邊陸地理解岸，再看清山、厂與干的位置。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}

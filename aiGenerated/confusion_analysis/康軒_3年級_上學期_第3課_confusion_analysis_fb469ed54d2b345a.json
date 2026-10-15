@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_3年級_上學期_第3課_confusion_analysis_fb469ed54d2b345a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "闆",
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "闆",
+    "groups": {
+      "shape": [
+        {
+          "char": "問",
+          "why": "外框同是門，內部都有口。",
+          "difference": "闆門內是品，有三個口；問門內只有一個口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "板",
+          "why": "同音：老闆的闆、木板的板都讀ㄅㄢˇ。",
+          "difference": "老闆用闆；木板用板。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "主",
+          "why": "店主和老闆都可指經營店的人。",
+          "difference": "闆常用在老闆；主的用途較廣，如主人，不可寫成闆人。"
+        }
+      ],
+      "component": [
+        {
+          "char": "品",
+          "why": "闆內部是品。",
+          "difference": "闆外面另有門；門內三個口不能減成一個口。"
+        }
+      ]
+    },
+    "tip": "先看門，再數門內三個口，完成「老闆」。"
+  },
+  "createdAt": "2026-10-15T06:31:26.666397Z"
+}
