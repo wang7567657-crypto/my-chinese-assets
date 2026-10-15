@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第2課_memory_strategy_fba94523c1ba0891",
+  "input": {
+    "char": "燙",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "燙",
+    "components": [
+      "湯",
+      "火"
+    ],
+    "association": "熱湯很燙，下方火提醒溫度高。（記憶聯想，不代表字源。）",
+    "mnemonic": "湯在上，火在下，太燙先等一下。",
+    "visualPrompt": "字旁畫熱湯與小心標誌，上湯下火分色。保持標準字形，圖在字旁，不以圖取代筆畫。",
+    "teachingTip": "下方是完整的火，不是四點底。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

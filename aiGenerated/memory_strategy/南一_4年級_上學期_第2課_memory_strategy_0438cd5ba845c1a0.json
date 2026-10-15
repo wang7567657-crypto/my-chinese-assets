@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第2課_memory_strategy_0438cd5ba845c1a0",
+  "input": {
+    "char": "粥",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "粥",
+    "components": [
+      "弓",
+      "米",
+      "弓"
+    ],
+    "association": "想像米在兩邊弓形之間，煮成一碗粥。（記憶聯想，不代表字源。）",
+    "mnemonic": "左弓右弓，中間米，奶奶煮粥真歡喜。",
+    "visualPrompt": "一碗粥畫在字旁，兩個弓同色、米另一色。保持標準字形，圖在字旁，不以圖取代筆畫。",
+    "teachingTip": "左右都是弓，中間是米；這是記憶聯想。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

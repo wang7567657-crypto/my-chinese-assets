@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第2課_similar_shape_14abacf47991e8b9",
+  "input": {
+    "targetChar": "齒",
+    "lessonChars": [
+      "汽",
+      "煮",
+      "骨",
+      "粥",
+      "燙",
+      "換",
+      "即",
+      "菜",
+      "齒",
+      "餐",
+      "矯",
+      "餓",
+      "彷",
+      "彿",
+      "濃"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "齒",
+    "similarChars": [
+      {
+        "char": "齡",
+        "similarity": "左側包含完整的齒。",
+        "difference": "齡在齒右加令；齒右邊沒有令。"
+      },
+      {
+        "char": "齦",
+        "similarity": "左側包含完整的齒。",
+        "difference": "齦在齒右加艮；齒右邊沒有艮。"
+      },
+      {
+        "char": "齜",
+        "similarity": "左側包含完整的齒。",
+        "difference": "此為較少見字。齜在齒右加此；齒右邊沒有此。"
+      },
+      {
+        "char": "齟",
+        "similarity": "左側包含完整的齒。",
+        "difference": "齟是較少見字，在齒右加且；齒右邊沒有且。"
+      },
+      {
+        "char": "齣",
+        "similarity": "左側包含完整的齒。",
+        "difference": "齣在齒右加句；齒右邊沒有句。"
+      },
+      {
+        "char": "齪",
+        "similarity": "左側包含完整的齒。",
+        "difference": "齪是較少見字，在齒右加足；齒右邊沒有足。"
+      }
+    ],
+    "teachingTip": "以牙齒的「齒」為基準，觀察上方止與下方框內筆畫；延伸字只比較右邊多了什麼。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

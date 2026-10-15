@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第2課_similar_shape_715f94d30d5e0981",
+  "input": {
+    "targetChar": "粥",
+    "lessonChars": [
+      "汽",
+      "煮",
+      "骨",
+      "粥",
+      "燙",
+      "換",
+      "即",
+      "菜",
+      "齒",
+      "餐",
+      "矯",
+      "餓",
+      "彷",
+      "彿",
+      "濃"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "粥",
+    "similarChars": [
+      {
+        "char": "弼",
+        "similarity": "左右兩側同為弓，都是左中右結構。",
+        "difference": "此為較少見字。弼中間為百；粥中間為米。"
+      },
+      {
+        "char": "糊",
+        "similarity": "都有米部件，整體呈左中右三部分的輪廓。",
+        "difference": "糊是左米、中古、右月；粥是左弓、中米、右弓。"
+      },
+      {
+        "char": "鬻",
+        "similarity": "上半部就是粥。",
+        "difference": "鬻是少見字，在粥下再加鬲；粥沒有下方的鬲。"
+      },
+      {
+        "char": "弱",
+        "similarity": "都有兩個弓形，左右外輪廓相近。",
+        "difference": "弱在兩個弓形下各有點、提；粥在兩弓中間有米。"
+      },
+      {
+        "char": "粱",
+        "similarity": "都有米，且上方或兩側有較多細筆畫。",
+        "difference": "粱的米在下方，上方有氵、刅；粥的米在中間，左右為弓。"
+      },
+      {
+        "char": "粲",
+        "similarity": "都有米，整體筆畫密集。",
+        "difference": "此為較少見字。粲的米在下方，上方為歺、又；粥的米在中間，左右為弓。"
+      }
+    ],
+    "teachingTip": "優先辨認「左弓、中米、右弓」，與弼、弱比較弓形，再找米的位置。鬻是少見的延伸辨形字，不要求學生會寫。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

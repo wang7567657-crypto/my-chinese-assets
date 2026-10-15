@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第2課_memory_strategy_324f09de6494a488",
+  "input": {
+    "char": "菜",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "菜",
+    "components": [
+      "艹",
+      "采"
+    ],
+    "association": "青菜是植物，所以用草字頭提醒。（記憶聯想，不代表字源。）",
+    "mnemonic": "草在上，采在下，青菜上桌笑哈哈。",
+    "visualPrompt": "青菜畫在字旁，上艹、下采分色。保持標準字形，圖在字旁，不以圖取代筆畫。",
+    "teachingTip": "下方采包含爫與木，別誤寫成米；此為記字聯想。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

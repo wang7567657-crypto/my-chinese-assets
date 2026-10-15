@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第2課_confusion_analysis_c323c1e192e3b520",
+  "input": {
+    "char": "即",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "即",
+    "groups": {
+      "shape": [
+        {
+          "char": "既",
+          "why": "字形含有相同或相近部件，需要看清差別。",
+          "difference": "即右卩；既右旡。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "及",
+          "why": "同音：都讀ㄐㄧˊ。",
+          "difference": "即使的即不同於以及的及。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "就",
+          "why": "比較本課用字與相關意思。",
+          "difference": "立即可表示馬上；本課入口即化的即接近就的意思，但即使不能換成就使。"
+        }
+      ],
+      "component": [
+        {
+          "char": "節",
+          "why": "觀察共用部件或部件位置。",
+          "difference": "節上方有竹字頭，下方是即；即沒有竹字頭。"
+        }
+      ]
+    },
+    "tip": "即右卩；既右旡。 即使的即不同於以及的及。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第2課_memory_strategy_91b3679aabf719fd",
+  "input": {
+    "char": "餓",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "餓",
+    "components": [
+      "飠",
+      "我"
+    ],
+    "association": "肚子餓的我想吃食物，提醒左食右我。（記憶聯想，不代表字源。）",
+    "mnemonic": "食字旁，加上我，肚子餓了要吃粥。",
+    "visualPrompt": "字旁畫孩子端粥，飠與我分色。保持標準字形，圖在字旁，不以圖取代筆畫。",
+    "teachingTip": "左邊是食字旁，不是鳥、虫或扌；此為記憶聯想。"
+  },
+  "createdAt": "2026-10-15T23:50:20.629999Z"
+}
