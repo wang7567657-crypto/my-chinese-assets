@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_3年級_上學期_第11課_memory_strategy_52a6d786baa02e83",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "臺",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "臺",
+    "components": [
+      "上方吉形",
+      "冖",
+      "至"
+    ],
+    "association": "把字想成一座分層的高臺，從上到下逐層看清楚。（這是記憶聯想，不是字源解釋。）",
+    "mnemonic": "臺有層層樓，底下至記牢。",
+    "visualPrompt": "在標準「臺」字旁畫分層平臺，用線對照各層位置。 保持標準字形，圖畫放在字旁。",
+    "teachingTip": "上方橫畫長短要看範字；不要省略中間冖或底部至。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第11課_similar_shape_cde4909ee0812402",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "祖",
+    "lessonChars": [
+      "額",
+      "虎",
+      "貓",
+      "臺",
+      "灣",
+      "獨",
+      "萬",
+      "祖",
+      "蛙",
+      "捉",
+      "類",
+      "占",
+      "雞",
+      "肉",
+      "威"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "祖",
+    "similarChars": [
+      {
+        "char": "租",
+        "similarity": "右邊都是「且」。",
+        "difference": "「祖」左邊是礻；「租」左邊是禾。"
+      },
+      {
+        "char": "組",
+        "similarity": "右邊都是「且」。",
+        "difference": "「祖」左邊是礻；「組」左邊是糹。"
+      },
+      {
+        "char": "阻",
+        "similarity": "右邊都是「且」。",
+        "difference": "「祖」左邊是礻；「阻」左邊是阝。"
+      },
+      {
+        "char": "粗",
+        "similarity": "右邊都是「且」。",
+        "difference": "「祖」左邊是礻；「粗」左邊是米。"
+      },
+      {
+        "char": "祝",
+        "similarity": "左邊都是「礻」。",
+        "difference": "「祖」右邊是且；「祝」右邊是兄。"
+      },
+      {
+        "char": "神",
+        "similarity": "左邊都是「礻」。",
+        "difference": "「祖」右邊是且；「神」右邊是申，中央直畫穿過日。"
+      }
+    ],
+    "teachingTip": "左右分開看：左邊礻，右邊且。且的最下一橫要寫出來，不要寫成申。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

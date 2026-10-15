@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第11課_similar_shape_29bbad056c576e6e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "萬",
+    "lessonChars": [
+      "額",
+      "虎",
+      "貓",
+      "臺",
+      "灣",
+      "獨",
+      "萬",
+      "祖",
+      "蛙",
+      "捉",
+      "類",
+      "占",
+      "雞",
+      "肉",
+      "威"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "萬",
+    "similarChars": [
+      {
+        "char": "邁",
+        "similarity": "都含有完整的「萬」。",
+        "difference": "「萬」單獨成字；「邁」在萬的外側加辶。"
+      },
+      {
+        "char": "厲",
+        "similarity": "都含有完整的「萬」。",
+        "difference": "「萬」外面沒有厂；「厲」以厂包住萬的上方和左方。"
+      },
+      {
+        "char": "勵",
+        "similarity": "都含有「萬」這個部件。",
+        "difference": "「勵」先以厂包住萬形成厲，再在右邊加力；「萬」沒有厂和力。"
+      },
+      {
+        "char": "蠆",
+        "similarity": "都含有完整的「萬」。",
+        "difference": "「萬」下面沒有另一個虫；「蠆」在萬下方加虫。「蠆」較少見。"
+      },
+      {
+        "char": "躉",
+        "similarity": "都含有完整的「萬」。",
+        "difference": "「萬」下面沒有足；「躉」在萬下方加足。「躉」較少見。"
+      },
+      {
+        "char": "禺",
+        "similarity": "下方都有框形及向外伸出的筆畫。",
+        "difference": "「萬」有艹，下方上段呈田形；「禺」沒有艹，上方呈日形，兩者不能只靠有無艹區分。"
+      }
+    ],
+    "teachingTip": "先認出艹，再逐段看下方框形與伸出的筆畫；比較邁、厲時，注意周圍多出的辶或厂。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

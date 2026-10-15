@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第11課_similar_shape_afc14d0328f6bbe6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "虎",
+    "lessonChars": [
+      "額",
+      "虎",
+      "貓",
+      "臺",
+      "灣",
+      "獨",
+      "萬",
+      "祖",
+      "蛙",
+      "捉",
+      "類",
+      "占",
+      "雞",
+      "肉",
+      "威"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "虎",
+    "similarChars": [
+      {
+        "char": "虐",
+        "similarity": "上方都有「虍」。",
+        "difference": "「虎」下方是「儿」；「虐」下方是開口朝右、形似反向「彐」的部分。"
+      },
+      {
+        "char": "虔",
+        "similarity": "上方都有「虍」。",
+        "difference": "「虎」下方是「儿」；「虔」下方是「文」。"
+      },
+      {
+        "char": "虛",
+        "similarity": "上方都有「虍」。",
+        "difference": "「虎」下方是「儿」；「虛」下方筆畫較多，底部有一長橫。"
+      },
+      {
+        "char": "處",
+        "similarity": "上方都有「虍」。",
+        "difference": "「虎」下方是「儿」；「處」下方另有「夂」和「几」的組合。"
+      },
+      {
+        "char": "慮",
+        "similarity": "上方都有「虍」。",
+        "difference": "「虎」下方是「儿」；「慮」下方是「思」。"
+      },
+      {
+        "char": "虜",
+        "similarity": "上方都有「虍」。",
+        "difference": "「虎」下方是「儿」；「虜」下方有「田」和「力」。"
+      }
+    ],
+    "teachingTip": "先找共同的虍，再遮住上半部比較下面。「虎」下面只有儿，不加田、心或力。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第11課_similar_shape_e6385d4cd2d7b76c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "灣",
+    "lessonChars": [
+      "額",
+      "虎",
+      "貓",
+      "臺",
+      "灣",
+      "獨",
+      "萬",
+      "祖",
+      "蛙",
+      "捉",
+      "類",
+      "占",
+      "雞",
+      "肉",
+      "威"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "灣",
+    "similarChars": [
+      {
+        "char": "彎",
+        "similarity": "都含有「䜌」下接「弓」的整體字形。",
+        "difference": "「灣」左邊有氵，右邊是彎；「彎」沒有左邊的氵。"
+      },
+      {
+        "char": "戀",
+        "similarity": "都有兩側的糸夾住中間的言。",
+        "difference": "「灣」左邊另有氵，右下是弓；「戀」沒有氵，下方是心。"
+      },
+      {
+        "char": "變",
+        "similarity": "都有兩側的糸夾住中間的言。",
+        "difference": "「灣」左邊另有氵，右下是弓；「變」沒有氵，下方是攵。"
+      },
+      {
+        "char": "蠻",
+        "similarity": "都有兩側的糸夾住中間的言。",
+        "difference": "「灣」左邊另有氵，右下是弓；「蠻」沒有氵，下方是虫。"
+      },
+      {
+        "char": "巒",
+        "similarity": "都有兩側的糸夾住中間的言。",
+        "difference": "「灣」左邊另有氵，右下是弓；「巒」沒有氵，下方是山。"
+      },
+      {
+        "char": "鸞",
+        "similarity": "都有兩側的糸夾住中間的言。",
+        "difference": "「灣」左邊另有氵，右下是弓；「鸞」沒有氵，下方是鳥。「鸞」較少見。"
+      }
+    ],
+    "teachingTip": "先看最左邊是否有氵，再看右下是否為弓。右上兩側都是糸，中間是言。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

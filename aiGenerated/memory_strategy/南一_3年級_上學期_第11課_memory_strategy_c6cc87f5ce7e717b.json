@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_3年級_上學期_第11課_memory_strategy_c6cc87f5ce7e717b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蛙",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蛙",
+    "components": [
+      "虫",
+      "圭"
+    ],
+    "association": "一隻青蛙跳上兩層土堆；左虫右圭，右邊兩個土上下排。（這是記憶聯想，不是字源解釋。）",
+    "mnemonic": "虫旁兩個土，青蛙跳上去。",
+    "visualPrompt": "在標準「蛙」字旁畫青蛙與兩層小土堆。 保持標準字形，圖畫放在字旁。",
+    "teachingTip": "虫旁是字形線索，青蛙在動物分類上是兩棲類。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

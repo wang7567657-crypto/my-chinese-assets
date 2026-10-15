@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_3年級_上學期_第11課_similar_shape_c57f76fb019a4410",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "臺",
+    "lessonChars": [
+      "額",
+      "虎",
+      "貓",
+      "臺",
+      "灣",
+      "獨",
+      "萬",
+      "祖",
+      "蛙",
+      "捉",
+      "類",
+      "占",
+      "雞",
+      "肉",
+      "威"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "臺",
+    "similarChars": [
+      {
+        "char": "檯",
+        "similarity": "都含有完整的「臺」。",
+        "difference": "「臺」單獨成字；「檯」在左邊加「木」。"
+      },
+      {
+        "char": "薹",
+        "similarity": "都含有完整的「臺」。",
+        "difference": "「臺」上面不加艹；「薹」在臺上方加艹。「薹」較少見。"
+      },
+      {
+        "char": "擡",
+        "similarity": "都含有完整的「臺」。",
+        "difference": "「臺」單獨成字；「擡」在左邊加扌。「擡」較少見，本課以「臺」為辨認目標。"
+      },
+      {
+        "char": "吉",
+        "similarity": "上方都有「士」接「口」的形狀。",
+        "difference": "「吉」寫到口就結束；「臺」在口下方還有冖和至。"
+      },
+      {
+        "char": "室",
+        "similarity": "下方都有「至」。",
+        "difference": "「臺」的至上方是士、口和冖；「室」的至上方是宀。"
+      },
+      {
+        "char": "至",
+        "similarity": "都看得到「至」這個部件。",
+        "difference": "「至」單獨成字；「臺」在至上方還有冖和吉。"
+      }
+    ],
+    "teachingTip": "由上往下分段看：士、口、冖、至。先確認最上面是士，再確認最下面的至沒有漏寫。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

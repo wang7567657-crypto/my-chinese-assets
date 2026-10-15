@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_3年級_上學期_第11課_memory_strategy_1f23207241cc585e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "雞",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "雞",
+    "components": [
+      "奚",
+      "隹"
+    ],
+    "association": "右邊隹讓我聯想到鳥，左邊奚完整排好，就是雞。（這是記憶聯想，不是字源解釋。）",
+    "mnemonic": "左奚右隹，雞在旁邊啼。",
+    "visualPrompt": "在標準「雞」字旁畫一隻雞，右邊隹用單一顏色提示。 保持標準字形，圖畫放在字旁。",
+    "teachingTip": "奚上爫中幺下大；右隹不可誤寫成住。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

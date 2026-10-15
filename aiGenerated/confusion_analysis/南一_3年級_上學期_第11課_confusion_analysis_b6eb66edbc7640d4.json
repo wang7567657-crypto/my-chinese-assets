@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第11課_confusion_analysis_b6eb66edbc7640d4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "雞",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "雞",
+    "groups": {
+      "shape": [
+        {
+          "char": "雌",
+          "why": "右邊都是隹，左右結構相近。",
+          "difference": "「雞」左邊是奚；「雌」左邊是此。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "機",
+          "why": "同音：都讀ㄐㄧ。",
+          "difference": "雞肉、母雞用「雞」；機器、機會用「機」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "鳥",
+          "why": "雞屬於鳥類，但兩字範圍不同。",
+          "difference": "「鳥」是較廣的名稱；「雞」指其中一類，不能把雞肉任意改成鳥肉。"
+        }
+      ],
+      "component": [
+        {
+          "char": "溪",
+          "why": "都含有奚，但位置與另一半不同。",
+          "difference": "「雞」是左奚右隹；「溪」是左氵右奚。"
+        }
+      ]
+    },
+    "tip": "雞肉的雞，左奚右隹；隹不是鳥字，也不是住。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

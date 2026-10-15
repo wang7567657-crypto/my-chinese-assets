@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第11課_confusion_analysis_00ab9780ab847873",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "貓",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "貓",
+    "groups": {
+      "shape": [
+        {
+          "char": "描",
+          "why": "右邊都是苗，容易忽略左邊。",
+          "difference": "「貓」左邊是豸；「描」左邊是扌，如描寫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "毛",
+          "why": "近音：貓ㄇㄠ、毛ㄇㄠˊ，聲調不同。",
+          "difference": "動物用「貓」；毛髮用「毛」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "狗",
+          "why": "都可能是家中的寵物，但不能互換。",
+          "difference": "「貓」和「狗」是不同動物；課文比較石虎與貓時，要依實際特徵辨認。"
+        }
+      ],
+      "component": [
+        {
+          "char": "豹",
+          "why": "左邊同是豸，右邊不同。",
+          "difference": "「貓」右邊是苗；「豹」右邊是勺。"
+        }
+      ]
+    },
+    "tip": "貓是左豸右苗；別把左邊寫成描寫的扌。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

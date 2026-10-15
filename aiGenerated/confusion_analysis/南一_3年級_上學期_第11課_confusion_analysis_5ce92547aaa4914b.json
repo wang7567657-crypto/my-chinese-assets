@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第11課_confusion_analysis_5ce92547aaa4914b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "臺",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "臺",
+    "groups": {
+      "shape": [
+        {
+          "char": "室",
+          "why": "下方都有至，上方都有覆蓋的形狀。",
+          "difference": "「臺」上方是士、口、冖；「室」上方只有宀。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "抬",
+          "why": "同音：都讀ㄊㄞˊ。",
+          "difference": "地名臺灣用「臺」；用手抬起東西用「抬」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "桌",
+          "why": "「臺」與「桌」都可能和放東西的平面有關。",
+          "difference": "「桌」常指家具；「臺」可指高起的平台，如舞臺。課文的「臺灣」是地名，要整詞理解。"
+        }
+      ],
+      "component": [
+        {
+          "char": "室",
+          "why": "都含有至，但上方不同。",
+          "difference": "「臺」的至上方還有士、口、冖；「室」是宀下面加至。"
+        }
+      ]
+    },
+    "tip": "臺灣的臺，上面是士，不是土；最下方記得寫至。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}

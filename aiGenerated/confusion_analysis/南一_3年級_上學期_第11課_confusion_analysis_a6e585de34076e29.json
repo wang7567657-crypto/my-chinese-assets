@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_3年級_上學期_第11課_confusion_analysis_a6e585de34076e29",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "萬",
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "萬",
+    "groups": {
+      "shape": [
+        {
+          "char": "禹",
+          "why": "下半部都有相近的框形與向外伸出的筆畫。",
+          "difference": "「萬」最上方有艹；「禹」沒有艹，上方筆畫也不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "慢",
+          "why": "近音：萬ㄨㄢˋ、慢ㄇㄢˋ，聲母不同。",
+          "difference": "數量一萬用「萬」；速度很慢用「慢」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "千",
+          "why": "都是數量單位，大小不同。",
+          "difference": "一萬等於十個一千；讀寫數量時不能把萬和千互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "邁",
+          "why": "「邁」裡面含有完整的萬。",
+          "difference": "「萬」表示數量；「邁」多了辶，如邁步。"
+        }
+      ]
+    },
+    "tip": "一萬有十個一千；寫萬時，上方艹和下方筆畫都要完整。"
+  },
+  "createdAt": "2026-10-15T19:43:56.424864+00:00"
+}
