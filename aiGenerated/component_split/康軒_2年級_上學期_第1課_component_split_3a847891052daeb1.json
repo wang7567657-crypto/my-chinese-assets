@@ -1,0 +1,39 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_2年級_上學期_第1課_component_split_3a847891052daeb1",
+  "version": "1.0",
+  "status": "awaiting_stroke_source",
+  "source": "teacher_specified",
+  "input": {
+    "char": "年",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "components": [
+      "年"
+    ],
+    "split": [
+      6
+    ],
+    "structure": "獨體",
+    "radical": "干",
+    "noSplit": true,
+    "strokeCount": 6,
+    "source": "teacher_specified",
+    "teacherConfirmed": true,
+    "decompositionVerified": true,
+    "verified": false,
+    "radicalVerified": false,
+    "strokeMappingVerified": false,
+    "note": "教師指定保留整字，不做部件拆分。原始筆畫來源重複尚未校正。",
+    "updatedAt": "2026-10-15T13:06:15.147Z"
+  },
+  "createdAt": "2026-10-15T13:06:15.147Z"
+}

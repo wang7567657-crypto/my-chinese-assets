@@ -36743,9 +36743,96 @@
         "checkedAt": "2026-10-15T12:51:02.716Z"
       },
       "updatedAt": "2026-10-15T12:51:02.716Z"
+    },
+    "懂": {
+      "components": [
+        "忄",
+        "董"
+      ],
+      "displayComponents": [
+        "心",
+        "董"
+      ],
+      "split": [
+        3,
+        13
+      ],
+      "structure": "左右",
+      "radical": "心",
+      "strokeCount": 16,
+      "source": "teacher_specified",
+      "teacherConfirmed": true,
+      "decompositionVerified": true,
+      "verified": false,
+      "radicalVerified": false,
+      "strokeMappingVerified": false,
+      "note": "教師指定：心＋董。此為已確認的文字分法；尚未完成可用筆畫來源及分色索引的驗證，不宣告verified。",
+      "updatedAt": "2026-10-15T13:06:15.147Z"
+    },
+    "年": {
+      "components": [
+        "年"
+      ],
+      "split": [
+        6
+      ],
+      "structure": "獨體",
+      "radical": "干",
+      "noSplit": true,
+      "strokeCount": 6,
+      "source": "teacher_specified",
+      "teacherConfirmed": true,
+      "decompositionVerified": true,
+      "verified": false,
+      "radicalVerified": false,
+      "strokeMappingVerified": false,
+      "note": "教師指定保留整字，不做部件拆分。原始筆畫來源重複尚未校正。",
+      "updatedAt": "2026-10-15T13:06:15.147Z"
+    },
+    "喵": {
+      "components": [
+        "口",
+        "苗"
+      ],
+      "split": [
+        3,
+        9
+      ],
+      "structure": "左右",
+      "radical": "口",
+      "strokeCount": 12,
+      "source": "teacher_specified",
+      "teacherConfirmed": true,
+      "decompositionVerified": true,
+      "verified": false,
+      "radicalVerified": false,
+      "strokeMappingVerified": false,
+      "note": "教師指定：口＋苗。此為已確認的文字分法；尚未完成可用筆畫來源及分色索引的驗證，不宣告verified。",
+      "updatedAt": "2026-10-15T13:06:15.147Z"
+    },
+    "粄": {
+      "components": [
+        "米",
+        "反"
+      ],
+      "split": [
+        6,
+        4
+      ],
+      "structure": "左右",
+      "radical": "米",
+      "strokeCount": 10,
+      "source": "teacher_specified",
+      "teacherConfirmed": true,
+      "decompositionVerified": true,
+      "verified": false,
+      "radicalVerified": false,
+      "strokeMappingVerified": false,
+      "note": "教師指定：米＋反。此為已確認的文字分法；尚未完成可用筆畫來源及分色索引的驗證，不宣告verified。",
+      "updatedAt": "2026-10-15T13:06:15.147Z"
     }
   },
   "description": "陽光智慧黑板部件拆分字典。只有 verified=true 的資料可用於教學分色與部件拼貼。",
   "version": "1.0",
-  "updatedAt": "2026-10-15T12:51:02.716Z"
+  "updatedAt": "2026-10-15T13:06:15.147Z"
 }

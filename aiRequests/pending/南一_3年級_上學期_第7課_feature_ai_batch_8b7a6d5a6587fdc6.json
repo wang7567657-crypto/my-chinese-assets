@@ -286,8 +286,22 @@
       "taskType": "component_split",
       "requestId": "南一_3年級_上學期_第7課_component_split_fa47e6ca49a1572d",
       "reason": "指定c9s來源共有32筆，含重複輪廓與兩套筆畫；未校正來源前不可標記verified。",
-      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/61c2.xml"
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/61c2.xml",
+      "teacherSpecifiedDecomposition": [
+        "心",
+        "董"
+      ]
     }
   ],
-  "lastCheckedAt": "2026-10-15T12:51:02.716Z"
+  "lastCheckedAt": "2026-10-15T13:06:15.147Z",
+  "teacherOverrides": {
+    "懂": {
+      "components": [
+        "心",
+        "董"
+      ],
+      "noSplit": false,
+      "confirmedAt": "2026-10-15T13:06:15.147Z"
+    }
+  }
 }
