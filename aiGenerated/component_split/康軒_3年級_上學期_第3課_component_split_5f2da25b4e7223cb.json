@@ -2,6 +2,7 @@
   "taskType": "component_split",
   "requestId": "康軒_3年級_上學期_第3課_component_split_5f2da25b4e7223cb",
   "version": "1.0",
+  "status": "completed",
   "source": "chatgpt",
   "input": {
     "publisher": "康軒",
@@ -13,11 +14,6 @@
     "strokeSource": "c9s/zh-stroke-data"
   },
   "data": {
-    "components": [
-      "米",
-      "辶"
-    ],
-    "note": "米為第1–6筆；部首「辵」（辶）為第7–10筆。6+4=10，保留原筆順。",
     "radical": "辵",
     "radicalStrokeIndices": [
       7,
@@ -25,14 +21,14 @@
       9,
       10
     ],
-    "radicalVerified": true,
-    "source": "c9s_strokes_reviewed",
-    "split": [
-      6,
-      4
-    ],
     "strokeCount": 10,
     "strokeGroups": [
+      [
+        7,
+        8,
+        9,
+        10
+      ],
       [
         1,
         2,
@@ -40,22 +36,26 @@
         4,
         5,
         6
-      ],
-      [
-        7,
-        8,
-        9,
-        10
       ]
     ],
-    "structure": "左下包圍",
-    "updatedAt": "2026-09-18T01:52:39.308Z",
+    "split": [
+      4,
+      6
+    ],
+    "components": [
+      "辶",
+      "其餘部分"
+    ],
+    "structure": "半包圍",
+    "verified": true,
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首與其餘部分分組；strokeGroups使用來源XML的1起算筆畫索引，每筆恰好一次，保留原字位置與來源筆順。",
     "verification": {
-      "method": "逐筆核對 c9s 原始 Outline/Track；依米與辵分組，保留原字位置及原筆順。",
-      "sourceBlobSha": "c5c2c51225c1810ce198847ce51eb5166fdfac70",
-      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/8ff7.xml"
-    },
-    "verified": true
+      "method": "核對原始XML的Stroke數、輪廓無重複、有限合理座標及有效Track，並完成字形與部首分色視覺核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/8ff7.xml",
+      "checkedAt": "2026-10-15T12:51:02.716Z"
+    }
   },
-  "createdAt": "2026-09-18T01:52:39.308Z"
+  "createdAt": "2026-10-15T12:51:02.716Z"
 }
