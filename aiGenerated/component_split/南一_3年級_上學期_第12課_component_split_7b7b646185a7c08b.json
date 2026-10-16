@@ -1,0 +1,57 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_3年級_上學期_第12課_component_split_7b7b646185a7c08b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "竹",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "data": {
+    "structure": "獨體",
+    "split": [
+      6
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    ],
+    "components": [
+      "竹"
+    ],
+    "strokeCount": 6,
+    "radical": "竹",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "竹為獨體字，整字即部首，保留六筆完整字形。",
+    "verification": {
+      "method": "2026-10-16重新下載c9s原始XML，核對Stroke數、Outline輪廓不重複、座標有限合理、每筆Track有效；依1起算strokeGroups檢查每筆恰好一次，實際渲染部首藍色、其餘橘色逐字視覺核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7af9.xml",
+      "radicalReferenceUrl": "https://stroke-order.learningweb.moe.edu.tw/dictMean.jsp?ID=31481&la=0"
+    }
+  },
+  "createdAt": "2026-10-16T19:42:50.967Z"
+}
