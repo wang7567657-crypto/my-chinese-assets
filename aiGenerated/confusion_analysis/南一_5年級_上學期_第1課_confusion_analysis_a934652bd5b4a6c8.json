@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_a934652bd5b4a6c8",
+  "input": {
+    "char": "擦",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "擦",
+    "groups": {
+      "shape": [
+        {
+          "char": "察",
+          "why": "擦的右半就是察，漏掉左旁會變另一字。",
+          "difference": "擦有扌，例：擦拭；察沒有扌，例：觀察。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "插",
+          "why": "近音：擦讀ㄘㄚ，插讀ㄔㄚ，聲母不同。",
+          "difference": "抹去表面污漬寫「擦」；把東西放入縫隙寫「插」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "抹",
+          "why": "都能表示用手或工具在表面移動。",
+          "difference": "擦常用於摩擦或去掉污漬；抹還可指塗上東西，如抹奶油。"
+        }
+      ],
+      "component": [
+        {
+          "char": "察",
+          "why": "擦是扌加察，可用完整部件記形。",
+          "difference": "擦要保留察的宀和下方祭；不要漏掉宀，也不要把察直接當成擦。"
+        }
+      ]
+    },
+    "tip": "用手擦桌子，所以左邊有扌；擦ㄘㄚ和插ㄔㄚ聲母不同。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

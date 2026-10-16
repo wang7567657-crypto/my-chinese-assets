@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_d1da923918276f65",
+  "input": {
+    "char": "恩",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "恩",
+    "groups": {
+      "shape": [
+        {
+          "char": "思",
+          "why": "下方同是心，上方都有外框。",
+          "difference": "恩上方是因，框內有大；思上方是田，框內是十。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "因",
+          "why": "近音：恩讀ㄣ，因讀ㄧㄣ，韻音不同。",
+          "difference": "受到的好處寫「恩惠」；事情的起因寫「原因」，恩不要加讀ㄧ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "惠",
+          "why": "都能表示給人的好處，常合成恩惠。",
+          "difference": "恩常著重受人照顧後應感念的情分；惠也可指實際利益，如優惠。不能將優惠寫成優恩。"
+        }
+      ],
+      "component": [
+        {
+          "char": "因",
+          "why": "恩的上半完整保留因。",
+          "difference": "因是囗內有大；恩在因下面加心。感恩的恩不能漏掉心。"
+        }
+      ]
+    },
+    "tip": "上面是因、下面是心；恩讀ㄣ，別讀成ㄧㄣ。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

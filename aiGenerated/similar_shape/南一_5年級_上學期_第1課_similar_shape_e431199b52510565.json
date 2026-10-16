@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_e431199b52510565",
+  "input": {
+    "targetChar": "謹",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "謹",
+    "similarChars": [
+      {
+        "char": "僅",
+        "similarity": "右邊都是堇。",
+        "difference": "謹左邊是言；僅左邊是亻。"
+      },
+      {
+        "char": "勤",
+        "similarity": "都含堇。",
+        "difference": "謹是言左、堇右；勤是堇左、力右。"
+      },
+      {
+        "char": "瑾",
+        "similarity": "右邊都是堇。",
+        "difference": "謹左邊是言；瑾左邊是玉旁，寫作王形。瑾較少見。"
+      },
+      {
+        "char": "槿",
+        "similarity": "右邊都是堇。",
+        "difference": "謹左邊是言；槿左邊是木。槿較少見。"
+      },
+      {
+        "char": "覲",
+        "similarity": "都含堇。",
+        "difference": "謹是言左、堇右；覲是堇左、見右。覲為罕見字。"
+      },
+      {
+        "char": "饉",
+        "similarity": "右邊都是堇。",
+        "difference": "謹左邊是言；饉左邊是食旁。饉為罕見字。"
+      }
+    ],
+    "teachingTip": "先找共同的堇，再看左右位置；謹左邊必須是言。堇下方有三橫，別少寫；少見字只作延伸辨形。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

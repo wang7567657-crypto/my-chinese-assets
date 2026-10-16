@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_41d3d73e53404d68",
+  "input": {
+    "char": "擁",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "擁",
+    "groups": {
+      "shape": [
+        {
+          "char": "雍",
+          "why": "擁的右半與雍相同，容易漏掉左旁。",
+          "difference": "擁有扌，例：擁抱；雍沒有扌，例：雍容。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "勇",
+          "why": "同音：擁、勇都讀ㄩㄥˇ。",
+          "difference": "張開雙臂抱住寫「擁抱」；有膽量寫「勇敢」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "抱",
+          "why": "擁和抱都能表示用手臂摟住。",
+          "difference": "擁還能用於擁有、擁擠；抱還能說抱小孩。不能把擁有換成抱有而仍當作完全同義。"
+        }
+      ],
+      "component": [
+        {
+          "char": "雍",
+          "why": "擁由扌和雍組成，雍是完整的右側部件。",
+          "difference": "擁抱的擁讀ㄩㄥˇ；雍容的雍讀ㄩㄥ。相同部件不代表聲調相同。"
+        }
+      ]
+    },
+    "tip": "擁抱要用手，擁左邊是扌；讀第三聲ㄩㄥˇ。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

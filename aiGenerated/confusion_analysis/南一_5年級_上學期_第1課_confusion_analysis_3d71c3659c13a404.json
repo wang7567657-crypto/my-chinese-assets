@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_3d71c3659c13a404",
+  "input": {
+    "char": "拖",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "拖",
+    "groups": {
+      "shape": [
+        {
+          "char": "施",
+          "why": "右方都有「也」，左側結構容易看混。",
+          "difference": "拖左邊是扌；施左邊是方。拖地是動作，施展是發揮本領。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "脫",
+          "why": "同音：拖、脫都讀ㄊㄨㄛ。",
+          "difference": "拉著移動寫「拖」；拿掉衣物寫「脫」。拖鞋和脫鞋意思不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "拉",
+          "why": "都可指用力使物體移動。",
+          "difference": "拖通常讓物體貼著地面移動；拉是牽引，物體不一定接觸地面。"
+        }
+      ],
+      "component": [
+        {
+          "char": "他",
+          "why": "兩字都看得到「也」，但拖不是扌加也。",
+          "difference": "拖的扌右邊，上方還有撇、橫，下方才是也；他則是亻加也。"
+        }
+      ]
+    },
+    "tip": "拖的右上兩筆不能漏；「穿拖鞋」的拖與「脫下鞋」的脫要分清。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

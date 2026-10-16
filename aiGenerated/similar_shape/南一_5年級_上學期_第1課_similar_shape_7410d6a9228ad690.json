@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_7410d6a9228ad690",
+  "input": {
+    "targetChar": "恩",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "恩",
+    "similarChars": [
+      {
+        "char": "因",
+        "similarity": "恩上方就是因。",
+        "difference": "恩在因下方加心；因沒有心。"
+      },
+      {
+        "char": "茵",
+        "similarity": "都含完整的因。",
+        "difference": "恩是因下加心；茵是因上加艹。"
+      },
+      {
+        "char": "姻",
+        "similarity": "都含完整的因。",
+        "difference": "恩是因上心下；姻是女左因右。"
+      },
+      {
+        "char": "咽",
+        "similarity": "都含完整的因。",
+        "difference": "恩是因上心下；咽是口左因右。"
+      },
+      {
+        "char": "思",
+        "similarity": "都是框形部件在上、心在下。",
+        "difference": "恩上方是因，框內是大；思上方是田，框內是十形筆畫。"
+      },
+      {
+        "char": "嗯",
+        "similarity": "嗯的右邊完整保留恩。",
+        "difference": "嗯在恩左邊加口；恩沒有左側的口。"
+      }
+    ],
+    "teachingTip": "先看上方「因」裡面是大，再補下方的心；不要把因看成田，也不要漏寫心。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

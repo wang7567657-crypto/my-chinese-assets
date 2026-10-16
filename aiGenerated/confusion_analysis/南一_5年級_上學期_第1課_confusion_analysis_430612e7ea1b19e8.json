@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_430612e7ea1b19e8",
+  "input": {
+    "char": "疲",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "疲",
+    "groups": {
+      "shape": [
+        {
+          "char": "彼",
+          "why": "都含皮，外側部件不同。",
+          "difference": "疲外側是疒，例：疲倦；彼左邊是彳，例：彼此。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "皮",
+          "why": "同音：疲、皮都讀ㄆㄧˊ。",
+          "difference": "身體很累寫「疲倦」；身體表層寫「皮膚」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "倦",
+          "why": "都可表達累，常合成疲倦。",
+          "difference": "疲常指體力或精神耗弱；倦也能表示厭煩、懈怠，如厭倦。不能把疲勞寫成倦勞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "披",
+          "why": "疲與披都包含皮。",
+          "difference": "疲用疒包住皮；披在皮左邊加扌，例：披上外套。"
+        }
+      ]
+    },
+    "tip": "疲倦的疲用疒，裡面是皮；不是彳旁的彼。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

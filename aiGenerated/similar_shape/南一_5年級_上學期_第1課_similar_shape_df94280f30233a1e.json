@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_df94280f30233a1e",
+  "input": {
+    "targetChar": "遇",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "遇",
+    "similarChars": [
+      {
+        "char": "禺",
+        "similarity": "遇內部完整保留禺。",
+        "difference": "遇在禺外加辶；禺沒有辶。禺較少單獨使用。"
+      },
+      {
+        "char": "偶",
+        "similarity": "都含完整的禺。",
+        "difference": "遇是辶加禺；偶是亻左、禺右。"
+      },
+      {
+        "char": "寓",
+        "similarity": "都含完整的禺。",
+        "difference": "遇用辶托住禺；寓在禺上方加宀。"
+      },
+      {
+        "char": "愚",
+        "similarity": "都含完整的禺。",
+        "difference": "遇用辶托住禺；愚在禺下方加心。"
+      },
+      {
+        "char": "隅",
+        "similarity": "都含完整的禺。",
+        "difference": "遇是辶加禺；隅是阝左、禺右。"
+      },
+      {
+        "char": "邁",
+        "similarity": "同有辶，內部下方都有禺的字形。",
+        "difference": "遇內部是禺；邁內部是萬，在禺上方多艹形筆畫。"
+      }
+    ],
+    "teachingTip": "辨認辶裡的「禺」，特別看下半部的轉折與點；換偏旁時仍要保留完整禺。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

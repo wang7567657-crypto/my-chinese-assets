@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_8ba1228a5d5984ac",
+  "input": {
+    "targetChar": "擁",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "擁",
+    "similarChars": [
+      {
+        "char": "雍",
+        "similarity": "擁的右邊就是雍。",
+        "difference": "擁在雍左邊加扌；雍沒有扌。"
+      },
+      {
+        "char": "壅",
+        "similarity": "都含完整的雍。",
+        "difference": "擁在雍左邊加扌；壅在雍下方加土。"
+      },
+      {
+        "char": "臃",
+        "similarity": "右邊都是雍。",
+        "difference": "擁左邊是扌；臃左邊是肉旁，外形近月。臃較少見。"
+      },
+      {
+        "char": "饔",
+        "similarity": "都含完整的雍。",
+        "difference": "擁在雍左邊加扌；饔在雍下方加食。饔為罕見字。"
+      },
+      {
+        "char": "推",
+        "similarity": "左邊同為扌，右側都有隹。",
+        "difference": "推右邊只有隹；擁右邊是雍，比推多出上方和隹左側的筆畫。"
+      },
+      {
+        "char": "攜",
+        "similarity": "左邊同為扌，右部都有隹。",
+        "difference": "擁右邊是雍；攜右部上方有山，下方還有冏形部件。"
+      }
+    ],
+    "teachingTip": "先看左扌、右雍，再圈出右下的隹。雍左下末筆是撇，不要直接寫成幺；饔只作延伸。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

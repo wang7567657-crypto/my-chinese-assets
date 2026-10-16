@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_d8107a6ef47b2c34",
+  "input": {
+    "char": "邁",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "邁",
+    "groups": {
+      "shape": [
+        {
+          "char": "萬",
+          "why": "邁內部是萬，漏寫辶就成了萬。",
+          "difference": "邁有辶，例：邁步；萬沒有辶，例：一萬。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "賣",
+          "why": "同音：邁、賣都讀ㄇㄞˋ。",
+          "difference": "向前跨步寫「邁進」；出售東西寫「販賣」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "跨",
+          "why": "都能表示抬腿移動。",
+          "difference": "邁著重向前踏步，如邁步；跨常指越過或跨在兩邊，如跨過水溝。"
+        }
+      ],
+      "component": [
+        {
+          "char": "遇",
+          "why": "同有辶，內部的萬與禺容易寫混。",
+          "difference": "邁的內部是萬，上方有艹；遇的內部是禺，上方沒有艹。"
+        }
+      ]
+    },
+    "tip": "邁步用辶，裡面保留完整的萬；不要因同音寫成「賣進」。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

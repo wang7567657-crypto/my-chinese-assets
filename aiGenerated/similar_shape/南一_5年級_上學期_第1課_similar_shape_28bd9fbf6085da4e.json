@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_28bd9fbf6085da4e",
+  "input": {
+    "targetChar": "灘",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "灘",
+    "similarChars": [
+      {
+        "char": "攤",
+        "similarity": "右邊都是「難」，整體都是左窄右寬。",
+        "difference": "灘左邊是氵；攤左邊是扌。"
+      },
+      {
+        "char": "難",
+        "similarity": "都含完整的「難」部件。",
+        "difference": "灘在難的左邊多了氵；難沒有氵。"
+      },
+      {
+        "char": "癱",
+        "similarity": "都保留「難」的主要字形。",
+        "difference": "灘的氵在左；癱以疒包住難的上方和左側。"
+      },
+      {
+        "char": "漢",
+        "similarity": "左邊同為氵，右部有相同的密集橫畫輪廓。",
+        "difference": "灘右部比漢多出最右側的隹。"
+      },
+      {
+        "char": "嘆",
+        "similarity": "嘆的右部與灘右部的左半相同。",
+        "difference": "嘆左邊是口，且沒有灘最右側的隹。"
+      },
+      {
+        "char": "灌",
+        "similarity": "都是氵在左，右側都有隹。",
+        "difference": "灘右部是難；灌右部上方是艹和兩個口。"
+      }
+    ],
+    "teachingTip": "先找左邊三點水，再確認右邊完整的「難」；與「漢」比較時，特別圈出最右邊的「隹」。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

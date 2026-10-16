@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_f2504de4c46a5031",
+  "input": {
+    "char": "遇",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "遇",
+    "groups": {
+      "shape": [
+        {
+          "char": "過",
+          "why": "都有辶，內部都帶有框形，略看容易混。",
+          "difference": "遇內部是禺；過內部是咼。相遇與經過用字不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "玉",
+          "why": "同音：遇、玉都讀ㄩˋ。",
+          "difference": "碰見寫「遇見」；玉石寫「玉」。遇見不是玉見。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "逢",
+          "why": "都有碰上、遇到的意思。",
+          "difference": "遇常搭配遇見、遇到，如遇見朋友、遇到問題；逢常見於相逢、重逢，如久別重逢。練習時用完整詞語區分搭配。"
+        }
+      ],
+      "component": [
+        {
+          "char": "偶",
+          "why": "遇和偶都含禺，另加的部件不同。",
+          "difference": "遇用辶，例：相遇；偶用亻，例：偶然。右半相同，讀音仍不同。"
+        }
+      ]
+    },
+    "tip": "相遇有辶，偶然有亻；右方都是禺，別和過的咼混寫。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

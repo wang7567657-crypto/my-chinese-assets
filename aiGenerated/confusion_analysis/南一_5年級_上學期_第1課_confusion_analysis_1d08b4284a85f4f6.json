@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_1d08b4284a85f4f6",
+  "input": {
+    "char": "灌",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "灌",
+    "groups": {
+      "shape": [
+        {
+          "char": "罐",
+          "why": "右半相同，只看右邊容易認錯。",
+          "difference": "灌左邊是氵，例：灌溉；罐左邊是缶，例：罐頭。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "罐",
+          "why": "同音：灌、罐都讀ㄍㄨㄢˋ。",
+          "difference": "把水注入寫「灌水」；盛裝東西的容器寫「罐子」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "澆",
+          "why": "都有把水加到物體上的意思。",
+          "difference": "灌常指把水大量注入或導入，如灌溉；澆常指把水淋上去，如澆花。"
+        }
+      ],
+      "component": [
+        {
+          "char": "觀",
+          "why": "灌和觀都含「雚」，但位置和另一部件不同。",
+          "difference": "灌是氵在左、雚在右；觀是雚在左、見在右，例：觀看。"
+        }
+      ]
+    },
+    "tip": "水進田裡是灌溉，盛水的容器是罐子；先辨氵和缶。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

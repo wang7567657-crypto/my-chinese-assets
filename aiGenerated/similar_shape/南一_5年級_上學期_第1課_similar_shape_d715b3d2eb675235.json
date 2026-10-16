@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_d715b3d2eb675235",
+  "input": {
+    "targetChar": "擦",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "擦",
+    "similarChars": [
+      {
+        "char": "察",
+        "similarity": "擦的右邊就是察。",
+        "difference": "擦在察左邊加扌；察沒有扌。"
+      },
+      {
+        "char": "祭",
+        "similarity": "擦右邊察的下部是祭。",
+        "difference": "擦比祭多左側扌及祭上方的宀。"
+      },
+      {
+        "char": "蔡",
+        "similarity": "都含祭，上方都有覆蓋形部件。",
+        "difference": "擦是扌加察，祭上有宀；蔡沒有扌，祭上是艹。"
+      },
+      {
+        "char": "際",
+        "similarity": "都含祭，都是左窄右寬。",
+        "difference": "擦左邊是扌，祭上還有宀；際左邊是阝，右邊只有祭。"
+      },
+      {
+        "char": "嚓",
+        "similarity": "右邊都是察。",
+        "difference": "擦左邊是扌；嚓左邊是口。嚓較少見，僅供延伸。"
+      },
+      {
+        "char": "檫",
+        "similarity": "右邊都是察。",
+        "difference": "擦左邊是扌；檫左邊是木。檫為罕見字，僅供延伸。"
+      }
+    ],
+    "teachingTip": "先把右邊看成完整「察」，留意察上方有宀；再確認左邊是扌。嚓、檫僅作延伸辨形。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

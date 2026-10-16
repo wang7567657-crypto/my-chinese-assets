@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_7fa5089350dec5e7",
+  "input": {
+    "char": "謹",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "謹",
+    "groups": {
+      "shape": [
+        {
+          "char": "勤",
+          "why": "都含堇，但另一部件的位置不同。",
+          "difference": "謹是言在左、堇在右；勤是堇在左、力在右。謹慎與勤勞別混寫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "緊",
+          "why": "同音：謹、緊都讀ㄐㄧㄣˇ。",
+          "difference": "小心慎重寫「謹慎」；不鬆弛或情緒不放鬆寫「緊」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "慎",
+          "why": "都能表示小心，常組成謹慎。",
+          "difference": "謹常用於謹記、謹言；慎常用於慎重、慎行。意思相近，固定搭配仍要分清。"
+        }
+      ],
+      "component": [
+        {
+          "char": "僅",
+          "why": "謹與僅右邊同是堇。",
+          "difference": "謹左邊是言，例：謹慎；僅左邊是亻，例：僅有。"
+        }
+      ]
+    },
+    "tip": "謹言慎行的謹用言字旁，讀第三聲ㄐㄧㄣˇ，不讀ㄐㄧㄥˇ。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

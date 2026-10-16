@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_47211f18db0385da",
+  "input": {
+    "targetChar": "疲",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "疲",
+    "similarChars": [
+      {
+        "char": "皮",
+        "similarity": "疲內部完整保留皮。",
+        "difference": "疲外面加疒；皮沒有疒。"
+      },
+      {
+        "char": "被",
+        "similarity": "都含皮。",
+        "difference": "疲以疒包住皮；被的衤在皮左邊。"
+      },
+      {
+        "char": "波",
+        "similarity": "都含皮。",
+        "difference": "疲以疒包住皮；波的氵在皮左邊。"
+      },
+      {
+        "char": "坡",
+        "similarity": "都含皮。",
+        "difference": "疲以疒包住皮；坡的土在皮左邊。"
+      },
+      {
+        "char": "披",
+        "similarity": "都含皮。",
+        "difference": "疲以疒包住皮；披的扌在皮左邊。"
+      },
+      {
+        "char": "破",
+        "similarity": "都含皮。",
+        "difference": "疲以疒包住皮；破的石在皮左邊。"
+      }
+    ],
+    "teachingTip": "保留完整「皮」，檢查外面包住它的是疒。用顏色標出疒的兩個側點，避免寫成衣旁或提手旁。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

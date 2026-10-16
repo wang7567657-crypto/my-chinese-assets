@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_a1264c8a4369b18d",
+  "input": {
+    "targetChar": "灌",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "灌",
+    "similarChars": [
+      {
+        "char": "罐",
+        "similarity": "右邊都是雚。",
+        "difference": "灌左邊是氵；罐左邊是缶。"
+      },
+      {
+        "char": "權",
+        "similarity": "右邊都是雚。",
+        "difference": "灌左邊是氵；權左邊是木。"
+      },
+      {
+        "char": "觀",
+        "similarity": "都含雚，筆畫密集。",
+        "difference": "灌是氵左、雚右；觀是雚左、見右。"
+      },
+      {
+        "char": "歡",
+        "similarity": "都含雚。",
+        "difference": "灌是氵左、雚右；歡是雚左、欠右。"
+      },
+      {
+        "char": "勸",
+        "similarity": "都含雚。",
+        "difference": "灌是氵左、雚右；勸是雚左、力右。"
+      },
+      {
+        "char": "鸛",
+        "similarity": "都含雚。",
+        "difference": "灌是氵左、雚右；鸛是雚左、鳥右。鸛較少見，僅供延伸。"
+      }
+    ],
+    "teachingTip": "把右邊當作完整的「雚」來觀察：上方艹、中間兩個口、下方隹；再辨認左邊的三點水。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

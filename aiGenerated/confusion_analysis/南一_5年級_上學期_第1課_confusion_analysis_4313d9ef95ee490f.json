@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_4313d9ef95ee490f",
+  "input": {
+    "char": "灘",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "灘",
+    "groups": {
+      "shape": [
+        {
+          "char": "攤",
+          "why": "都含「難」，整體右半相同。",
+          "difference": "灘左邊是氵，例：沙灘；攤左邊是扌，例：攤開。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "攤",
+          "why": "同音：灘、攤都讀ㄊㄢ。",
+          "difference": "水邊的沙地寫「沙灘」；把東西展開寫「攤開」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "岸",
+          "why": "都可以指水邊的地方。",
+          "difference": "灘常指水邊沙石形成的平地；岸指水域兩旁的陸地，未必有沙。"
+        }
+      ],
+      "component": [
+        {
+          "char": "難",
+          "why": "灘的右半是「難」。",
+          "difference": "灘比難多左邊的氵；沙灘的灘讀ㄊㄢ，困難的難讀ㄋㄢˊ。"
+        }
+      ]
+    },
+    "tip": "看到「沙灘」先想水邊，左邊記得寫氵，不寫扌。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

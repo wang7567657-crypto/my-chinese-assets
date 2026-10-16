@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_9cba7dae494ee7cc",
+  "input": {
+    "char": "倦",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "倦",
+    "groups": {
+      "shape": [
+        {
+          "char": "捲",
+          "why": "右邊同是卷，容易把左旁寫錯。",
+          "difference": "倦左邊是亻，例：疲倦；捲左邊是扌，例：捲起。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "眷",
+          "why": "同音：倦、眷都讀ㄐㄩㄢˋ。",
+          "difference": "感到累寫「疲倦」；思念、捨不得離開寫「眷戀」。眷下方是目，倦左邊有亻。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "累",
+          "why": "都可以形容疲乏。",
+          "difference": "累常直接說「我累了」；倦常組成疲倦、厭倦，厭倦還有失去興趣的意思。"
+        }
+      ],
+      "component": [
+        {
+          "char": "卷",
+          "why": "倦的右半是卷，不是券。",
+          "difference": "卷下方的形體與券下方的刀不同；倦要寫亻加卷，不要寫成亻加券。"
+        }
+      ]
+    },
+    "tip": "人累了寫亻旁的倦；右半是卷，不要把下方寫成刀。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}
