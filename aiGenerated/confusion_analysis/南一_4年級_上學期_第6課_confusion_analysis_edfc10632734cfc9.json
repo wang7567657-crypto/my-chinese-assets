@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第6課_confusion_analysis_edfc10632734cfc9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "層",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "層",
+    "groups": {
+      "shape": [
+        {
+          "char": "增",
+          "why": "部件或整體輪廓接近，容易看混。",
+          "difference": "層的尸從上左包住曾；增的土在曾左邊。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "曾",
+          "why": "層ㄘㄥˊ與曾經的曾ㄘㄥˊ是同音；曾作姓氏常讀ㄗㄥ，須看語境。",
+          "difference": "層ㄘㄥˊ與曾經的曾ㄘㄥˊ是同音；曾作姓氏常讀ㄗㄥ，須看語境。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "樓",
+          "why": "放入相關語詞比較意思與用法。",
+          "difference": "層可計算樓房的層次；樓可指樓房或樓層，兩層樓中的兩字功能不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "贈",
+          "why": "觀察共用或相近部件的位置。",
+          "difference": "層與贈都含曾；層用尸字頭，贈用左貝旁。"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀整個語詞，最後用句子確認意思。層的尸從上左包住曾；增的土在曾左邊。"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}

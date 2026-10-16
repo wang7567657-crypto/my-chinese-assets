@@ -1,0 +1,272 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第6課_feature_ai_batch_e24090012ecc7c76",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 15,
+    "batchCharacters": [
+      "尺",
+      "亞",
+      "洲",
+      "鋼",
+      "跨",
+      "護",
+      "層",
+      "鈔",
+      "仍",
+      "標",
+      "融",
+      "仰",
+      "內",
+      "俯",
+      "煙"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_591febbc33a31777",
+        "input": {
+          "char": "尺",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_860519425107b693",
+        "input": {
+          "char": "亞",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_2e2197275899d733",
+        "input": {
+          "char": "洲",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_6a230c6faa056058",
+        "input": {
+          "char": "鋼",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_ead018511eca1140",
+        "input": {
+          "char": "跨",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_debff2cb92646572",
+        "input": {
+          "char": "護",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_edfc10632734cfc9",
+        "input": {
+          "char": "層",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_dde311256b1a235f",
+        "input": {
+          "char": "鈔",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_aede18c92f9f3944",
+        "input": {
+          "char": "仍",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_306092cd15da4084",
+        "input": {
+          "char": "標",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_df0e90e3ceb6d839",
+        "input": {
+          "char": "融",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_16dafbb1471cf4fa",
+        "input": {
+          "char": "仰",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_2dd956cb7a07795f",
+        "input": {
+          "char": "內",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_d8bdb041d0d01eeb",
+        "input": {
+          "char": "俯",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第6課_confusion_analysis_b63ff450c1ad78b1",
+        "input": {
+          "char": "煙",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00",
+  "processedAt": "2026-10-16T04:44:56.185426+00:00",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_4年級_上學期_第6課_feature_ai_batch_e24090012ecc7c76",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "南一",
+      "grade": "4年級",
+      "semester": "上學期",
+      "lesson": "第6課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 15,
+      "batchCharacters": [
+        "尺",
+        "亞",
+        "洲",
+        "鋼",
+        "跨",
+        "護",
+        "層",
+        "鈔",
+        "仍",
+        "標",
+        "融",
+        "仰",
+        "內",
+        "俯",
+        "煙"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 15,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_591febbc33a31777.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_860519425107b693.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_2e2197275899d733.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_6a230c6faa056058.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_ead018511eca1140.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_debff2cb92646572.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_edfc10632734cfc9.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_dde311256b1a235f.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_aede18c92f9f3944.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_306092cd15da4084.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_df0e90e3ceb6d839.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_16dafbb1471cf4fa.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_2dd956cb7a07795f.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_d8bdb041d0d01eeb.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第6課_confusion_analysis_b63ff450c1ad78b1.json"
+      ]
+    },
+    "createdAt": "2026-10-16T04:44:56.185426+00:00"
+  }
+}

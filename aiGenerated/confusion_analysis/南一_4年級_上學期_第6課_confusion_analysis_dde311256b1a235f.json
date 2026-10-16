@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第6課_confusion_analysis_dde311256b1a235f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鈔",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鈔",
+    "groups": {
+      "shape": [
+        {
+          "char": "抄",
+          "why": "部件或整體輪廓接近，容易看混。",
+          "difference": "鈔左金，抄左扌；右邊都是少。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "抄",
+          "why": "鈔與抄都讀ㄔㄠ，是同音字；紙鈔用鈔，抄寫用抄。",
+          "difference": "鈔與抄都讀ㄔㄠ，是同音字；紙鈔用鈔，抄寫用抄。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "幣",
+          "why": "放入相關語詞比較意思與用法。",
+          "difference": "鈔多指紙製的貨幣；幣的範圍較廣，還能指硬幣等。"
+        }
+      ],
+      "component": [
+        {
+          "char": "妙",
+          "why": "觀察共用或相近部件的位置。",
+          "difference": "鈔與妙都含少；左邊金與女不同。"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀整個語詞，最後用句子確認意思。鈔左金，抄左扌；右邊都是少。"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}

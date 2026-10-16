@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第6課_confusion_analysis_aede18c92f9f3944",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "仍",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "仍",
+    "groups": {
+      "shape": [
+        {
+          "char": "仞",
+          "why": "部件或整體輪廓接近，容易看混。",
+          "difference": "仍的右邊是乃；仞的右邊是刃，輪廓及點的位置不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "扔",
+          "why": "仍然的仍讀ㄖㄥˊ，扔掉的扔讀ㄖㄥ，是近音，聲調不同；此處按扔掉的語境比較。",
+          "difference": "仍然的仍讀ㄖㄥˊ，扔掉的扔讀ㄖㄥ，是近音，聲調不同；此處按扔掉的語境比較。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "還",
+          "why": "放入相關語詞比較意思與用法。",
+          "difference": "仍然和還是可表持續，但還有其他用法；須放入整句判斷能否替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "奶",
+          "why": "觀察共用或相近部件的位置。",
+          "difference": "仍與奶右邊同為乃，左邊亻與女不同。"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀整個語詞，最後用句子確認意思。仍的右邊是乃；仞的右邊是刃，輪廓及點的位置不同。"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}

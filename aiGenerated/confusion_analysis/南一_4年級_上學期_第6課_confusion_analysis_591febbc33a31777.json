@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第6課_confusion_analysis_591febbc33a31777",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "尺",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "尺",
+    "groups": {
+      "shape": [
+        {
+          "char": "戶",
+          "why": "部件或整體輪廓接近，容易看混。",
+          "difference": "尺末筆向右下伸出；戶的上方起筆與下部輪廓不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "齒",
+          "why": "尺與齒都讀ㄔˇ，是同音字；公尺用尺，牙齒用齒。",
+          "difference": "尺與齒都讀ㄔˇ，是同音字；公尺用尺，牙齒用齒。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "寸",
+          "why": "放入相關語詞比較意思與用法。",
+          "difference": "尺與寸都可表示長度單位，但單位大小不同，不可任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "咫",
+          "why": "觀察共用或相近部件的位置。",
+          "difference": "咫左邊包含尺，右邊多出只；尺保持完整字形。"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀整個語詞，最後用句子確認意思。尺末筆向右下伸出；戶的上方起筆與下部輪廓不同。"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}

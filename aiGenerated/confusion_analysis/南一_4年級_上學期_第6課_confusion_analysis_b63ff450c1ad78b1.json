@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第6課_confusion_analysis_b63ff450c1ad78b1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "煙",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "煙",
+    "groups": {
+      "shape": [
+        {
+          "char": "湮",
+          "why": "部件或整體輪廓接近，容易看混。",
+          "difference": "煙左火，湮左氵；右邊同為垔。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "淹",
+          "why": "煙與淹都讀ㄧㄢ，是同音字；煙火用煙，淹水用淹。",
+          "difference": "煙與淹都讀ㄧㄢ，是同音字；煙火用煙，淹水用淹。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "霧",
+          "why": "放入相關語詞比較意思與用法。",
+          "difference": "煙多由燃燒等產生；霧是空氣中懸浮的小水滴，外觀看似朦朧但成因不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "垔",
+          "why": "觀察共用或相近部件的位置。",
+          "difference": "煙右邊的垔可獨立成字，屬少見字；煙比垔多左火旁。"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀整個語詞，最後用句子確認意思。煙左火，湮左氵；右邊同為垔。"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}
