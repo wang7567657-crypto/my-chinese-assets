@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第10課_similar_shape_21728923c553823e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "罷",
+    "lessonChars": [
+      "唐",
+      "恬",
+      "罷",
+      "暮",
+      "掩",
+      "柴",
+      "扉",
+      "歸",
+      "畢",
+      "陋",
+      "傍",
+      "確",
+      "閒",
+      "詠",
+      "幽",
+      "眠",
+      "職",
+      "吟",
+      "曠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "罷",
+    "similarChars": [
+      {
+        "char": "擺",
+        "similarity": "右邊完整保留罷",
+        "difference": "擺左邊多扌。"
+      },
+      {
+        "char": "羆",
+        "similarity": "上半完整保留罷",
+        "difference": "羆下方多灬；羆是較少見的熊類名稱。"
+      },
+      {
+        "char": "置",
+        "similarity": "上方同為罒",
+        "difference": "罷下方能，置下方直。"
+      },
+      {
+        "char": "罪",
+        "similarity": "上方同為罒",
+        "difference": "罷下方能，罪下方非。"
+      },
+      {
+        "char": "羅",
+        "similarity": "上方同為罒",
+        "difference": "罷下方能；羅下方有糹與隹。"
+      },
+      {
+        "char": "能",
+        "similarity": "保留罷下方的形狀",
+        "difference": "能沒有罷上方的罒。"
+      }
+    ],
+    "teachingTip": "先找相同部件，再遮住共同部分比較差異；以本課標準字「罷」練習，少見字只用來觀察字形。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

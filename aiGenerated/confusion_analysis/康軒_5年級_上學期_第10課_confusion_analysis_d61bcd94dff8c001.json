@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_d61bcd94dff8c001",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "陋",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "陋",
+    "groups": {
+      "shape": [
+        {
+          "char": "陸",
+          "why": "左邊同為阝",
+          "difference": "陋右部有包圍折筆；陸右部上下都有土形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "漏",
+          "why": "同音：簡陋的陋、漏水的漏都讀ㄌㄡˋ。",
+          "difference": "陋形容簡單粗糙等；漏指水從孔隙流出等。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "簡",
+          "why": "簡陋、簡單都可能說東西不繁複。",
+          "difference": "陋帶有粗糙、不完善的意思；簡單不一定不好。"
+        }
+      ],
+      "component": [
+        {
+          "char": "限",
+          "why": "左邊同為阝",
+          "difference": "陋右部不是艮；限右部艮有向右伸出的捺形。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「陋」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

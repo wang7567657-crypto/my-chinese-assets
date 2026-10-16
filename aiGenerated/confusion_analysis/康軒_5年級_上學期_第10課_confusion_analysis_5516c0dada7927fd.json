@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_5516c0dada7927fd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "扉",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "扉",
+    "groups": {
+      "shape": [
+        {
+          "char": "非",
+          "why": "保留扉內部非形",
+          "difference": "非沒有外面的戶。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "非",
+          "why": "同音：柴扉的扉、是非的非都讀ㄈㄟ。",
+          "difference": "扉指門扇；非可表示不是或不對。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "門",
+          "why": "扉是門扇，柴扉就是柴門。",
+          "difference": "扉偏重門扇；門還可指整個出入口，使用範圍較廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "排",
+          "why": "都含非",
+          "difference": "扉是戶包非；排是扌在非左邊。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「扉」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

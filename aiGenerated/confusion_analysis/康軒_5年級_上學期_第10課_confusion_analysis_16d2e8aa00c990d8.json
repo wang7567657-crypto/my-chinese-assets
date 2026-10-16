@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_16d2e8aa00c990d8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "暮",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "暮",
+    "groups": {
+      "shape": [
+        {
+          "char": "幕",
+          "why": "上方同為莫",
+          "difference": "暮底下日，幕底下巾。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "幕",
+          "why": "同音：日暮的暮、布幕的幕都讀ㄇㄨˋ。",
+          "difference": "暮指傍晚；幕是遮蔽用的布。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "晚",
+          "why": "日暮和傍晚都與一天將結束的時間有關。",
+          "difference": "暮多指黃昏；晚也能說時間遲，例如遲到太晚。"
+        }
+      ],
+      "component": [
+        {
+          "char": "墓",
+          "why": "上方同為莫",
+          "difference": "暮底下日，墓底下土。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「暮」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第10課_similar_shape_947c9158f23953cb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "閒",
+    "lessonChars": [
+      "唐",
+      "恬",
+      "罷",
+      "暮",
+      "掩",
+      "柴",
+      "扉",
+      "歸",
+      "畢",
+      "陋",
+      "傍",
+      "確",
+      "閒",
+      "詠",
+      "幽",
+      "眠",
+      "職",
+      "吟",
+      "曠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "閒",
+    "similarChars": [
+      {
+        "char": "間",
+        "similarity": "外面同為門",
+        "difference": "閒裡面月，間裡面日。"
+      },
+      {
+        "char": "閑",
+        "similarity": "外面同為門",
+        "difference": "閒裡面月，閑裡面木；閑與閒在部分用法相通，本課用閒。"
+      },
+      {
+        "char": "閃",
+        "similarity": "外面同為門",
+        "difference": "閒裡面月，閃裡面人。"
+      },
+      {
+        "char": "問",
+        "similarity": "外面同為門",
+        "difference": "閒裡面月，問裡面口。"
+      },
+      {
+        "char": "開",
+        "similarity": "外面同為門",
+        "difference": "閒裡面月；開裡面是橫畫與兩直畫組合。"
+      },
+      {
+        "char": "閏",
+        "similarity": "外面同為門",
+        "difference": "閒裡面月，閏裡面王。"
+      }
+    ],
+    "teachingTip": "先找相同部件，再遮住共同部分比較差異；以本課標準字「閒」練習，少見字只用來觀察字形。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

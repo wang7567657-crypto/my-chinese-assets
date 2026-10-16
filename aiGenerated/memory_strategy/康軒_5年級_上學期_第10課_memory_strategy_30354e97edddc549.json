@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第10課_memory_strategy_30354e97edddc549",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "柴",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "柴",
+    "components": [
+      "此",
+      "木"
+    ],
+    "association": "記憶聯想，非字源：指著「此」處的一捆木頭，說這些可以當柴，也可以編成柴門。",
+    "mnemonic": "此在上，木在下，木枝捆好就是柴。",
+    "visualPrompt": "呈現教育部標準楷體「柴」，完整字形保持不變；旁邊畫一捆木枝和一扇簡單柴門，插圖不替換、不遮蓋任何筆畫。",
+    "teachingTip": "上面是「此」，下面是「木」。比較「柴、紫」的下半部；「柴扉」指用樹枝等材料做成的簡陋門扇。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

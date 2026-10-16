@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_220c6f1f73874d55",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "閒",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "閒",
+    "groups": {
+      "shape": [
+        {
+          "char": "間",
+          "why": "外面同為門",
+          "difference": "閒裡面月，間裡面日。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "閑",
+          "why": "同音：清閒的閒、閑靜的閑都讀ㄒㄧㄢˊ。",
+          "difference": "兩字部分用法相通；本課閒適採用閒，記住門內是月。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "忙",
+          "why": "清閒與忙碌的意思相對。",
+          "difference": "閒是有空、事少；忙是事情多。"
+        }
+      ],
+      "component": [
+        {
+          "char": "閑",
+          "why": "外面同為門",
+          "difference": "閒裡面月，閑裡面木；閑與閒在部分用法相通，本課用閒。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「閒」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_1e0778aeb2801b73",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "曠",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "曠",
+    "groups": {
+      "shape": [
+        {
+          "char": "擴",
+          "why": "右邊同為廣",
+          "difference": "曠左日，擴左扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "礦",
+          "why": "同音：空曠的曠、礦石的礦都讀ㄎㄨㄤˋ。",
+          "difference": "曠形容寬廣空闊；礦與地下礦物相關。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "闊",
+          "why": "空曠與寬闊都描述空間廣大。",
+          "difference": "空曠通常還有空、少遮擋的意思；寬闊主要說寬廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "礦",
+          "why": "右邊同為廣",
+          "difference": "曠左日，礦左石。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「曠」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

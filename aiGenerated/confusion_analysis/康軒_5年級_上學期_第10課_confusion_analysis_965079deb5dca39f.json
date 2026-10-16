@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_965079deb5dca39f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "唐",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "唐",
+    "groups": {
+      "shape": [
+        {
+          "char": "糖",
+          "why": "右邊完整保留唐",
+          "difference": "糖左邊多米；唐沒有米旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "堂",
+          "why": "同音：唐朝的唐、禮堂的堂都讀ㄊㄤˊ。",
+          "difference": "唐用於朝代或姓氏；堂可指廳堂。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "朝",
+          "why": "本課唐朝合起來表示朝代。",
+          "difference": "唐是特定朝代名稱；朝是朝代的通稱，不可把唐朝寫成朝朝。"
+        }
+      ],
+      "component": [
+        {
+          "char": "塘",
+          "why": "右邊完整保留唐",
+          "difference": "塘左邊多土；唐沒有土旁。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「唐」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

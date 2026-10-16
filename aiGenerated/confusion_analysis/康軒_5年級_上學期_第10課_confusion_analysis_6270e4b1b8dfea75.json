@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_6270e4b1b8dfea75",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "吟",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "吟",
+    "groups": {
+      "shape": [
+        {
+          "char": "含",
+          "why": "都含口與今",
+          "difference": "吟左口右今；含上今下口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "銀",
+          "why": "同音：吟詩的吟、銀色的銀都讀ㄧㄣˊ。",
+          "difference": "吟是吟誦；銀是金屬名稱，也可用來說顏色。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "詠",
+          "why": "吟與詠都可指有聲調地讀唱詩文。",
+          "difference": "吟常組吟詩，詠常組吟詠、歌詠；仍須按詞語寫對字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "唸",
+          "why": "左邊同為口，右上都有今",
+          "difference": "吟右邊只有今；唸右邊念在今下面多心。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「吟」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

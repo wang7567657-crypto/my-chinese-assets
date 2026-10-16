@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_271cf759754647a9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "歸",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "歸",
+    "groups": {
+      "shape": [
+        {
+          "char": "帥",
+          "why": "左側上部有相近的直豎折形，右邊都有巾形",
+          "difference": "歸左下還有止形，右邊為帚；帥右邊只有巾。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "龜",
+          "why": "同音：回歸的歸、烏龜的龜都讀ㄍㄨㄟ。",
+          "difference": "歸表示返回；龜在烏龜中指動物，其他語境可能有別的讀音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "返",
+          "why": "歸與返都有回來、回去的意思。",
+          "difference": "歸常組成歸家；返常組成返回，字形與搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "師",
+          "why": "左側上部相近，右邊都有巾形",
+          "difference": "歸左下有止，右為帚；師右為帀，沒有帚上方彐、冖的層次。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「歸」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

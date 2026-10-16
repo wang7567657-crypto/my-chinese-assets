@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_520e97cd1d387ad5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "眠",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "眠",
+    "groups": {
+      "shape": [
+        {
+          "char": "泯",
+          "why": "右邊同為民",
+          "difference": "眠左目，泯左氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "棉",
+          "why": "同音：睡眠的眠、棉花的棉都讀ㄇㄧㄢˊ。",
+          "difference": "眠表示睡覺；棉是植物或纖維。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "睡",
+          "why": "眠與睡都有睡覺的意思。",
+          "difference": "眠多見於睡眠、安眠等書面詞；睡可直接說睡了。"
+        }
+      ],
+      "component": [
+        {
+          "char": "抿",
+          "why": "右邊同為民",
+          "difference": "眠左目，抿左扌；抿常見於抿嘴。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「眠」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

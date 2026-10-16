@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第10課_similar_shape_497bc9a57d4f3d33",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "確",
+    "lessonChars": [
+      "唐",
+      "恬",
+      "罷",
+      "暮",
+      "掩",
+      "柴",
+      "扉",
+      "歸",
+      "畢",
+      "陋",
+      "傍",
+      "確",
+      "閒",
+      "詠",
+      "幽",
+      "眠",
+      "職",
+      "吟",
+      "曠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "確",
+    "similarChars": [
+      {
+        "char": "榷",
+        "similarity": "右邊同為隺形",
+        "difference": "確左石，榷左木；榷較常見於商榷。"
+      },
+      {
+        "char": "搉",
+        "similarity": "右邊同為隺形",
+        "difference": "確左石，搉左扌；搉是較少見字。"
+      },
+      {
+        "char": "鶴",
+        "similarity": "都含隺形",
+        "difference": "確左石右隺；鶴左隺右鳥。"
+      },
+      {
+        "char": "礁",
+        "similarity": "左邊同為石，右邊都有隹形",
+        "difference": "確右上冖形；礁右下灬，上方沒有這個冖形。"
+      },
+      {
+        "char": "碓",
+        "similarity": "左邊同為石，右邊都有隹形",
+        "difference": "碓右為隹；確右部在隹上方還有冖形。碓是較少見的舂米工具用字。"
+      },
+      {
+        "char": "隺",
+        "similarity": "保留確的右半部",
+        "difference": "隺少了確左邊的石；隺是罕用字，這裡只作字形觀察。"
+      }
+    ],
+    "teachingTip": "先找相同部件，再遮住共同部分比較差異；以本課標準字「確」練習，少見字只用來觀察字形。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

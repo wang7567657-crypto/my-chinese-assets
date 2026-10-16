@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_b3b11f66d149b271",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "幽",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "幽",
+    "groups": {
+      "shape": [
+        {
+          "char": "幻",
+          "why": "都含幺形與折筆",
+          "difference": "幽有兩個幺並置在山形內；幻只有一個幺，右側為折鉤。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "優",
+          "why": "同音：幽靜的幽、優良的優都讀ㄧㄡ。",
+          "difference": "幽靜形容深遠安靜；優良表示很好。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "隱",
+          "why": "幽人與隱居的人在本課語境有關。",
+          "difference": "幽強調深遠、清靜等；隱強調不顯露或避居。"
+        }
+      ],
+      "component": [
+        {
+          "char": "幼",
+          "why": "都含幺形",
+          "difference": "幽有兩個幺和山形；幼左幺右力。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「幽」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

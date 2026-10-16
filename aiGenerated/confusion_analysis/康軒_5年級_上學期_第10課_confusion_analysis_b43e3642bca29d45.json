@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_b43e3642bca29d45",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "確",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "確",
+    "groups": {
+      "shape": [
+        {
+          "char": "榷",
+          "why": "右邊同為隺形",
+          "difference": "確左石，榷左木；榷較常見於商榷。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "卻",
+          "why": "同音：確定的確、退卻的卻都讀ㄑㄩㄝˋ。",
+          "difference": "確定是不再疑惑；退卻是退後。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "定",
+          "why": "確定與肯定都可表示不疑惑。",
+          "difference": "確強調真實可靠；定還可表示固定或決定，搭配不完全相同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "搉",
+          "why": "右邊同為隺形",
+          "difference": "確左石，搉左扌；搉是較少見字。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「確」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}
