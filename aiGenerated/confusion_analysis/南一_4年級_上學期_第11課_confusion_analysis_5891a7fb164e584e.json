@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第11課_confusion_analysis_5891a7fb164e584e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "陰",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "陰",
+    "groups": {
+      "shape": [
+        {
+          "char": "陽",
+          "why": "字形有相近部位，容易看漏差異。",
+          "difference": "左邊同為阝；陰右邊侌，陽右邊昜。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "音",
+          "why": "讀音相同或相近，需要連同語詞辨別。",
+          "difference": "陰ㄧㄣ和聲音的音ㄧㄣ同音；陰暗用陰，聲音用音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "暗",
+          "why": "意思或使用情境相關，需分清範圍。",
+          "difference": "陰可形容缺少陽光，也見於陰森；暗指光線不足，不能把陰天寫成暗天。"
+        }
+      ],
+      "component": [
+        {
+          "char": "冷",
+          "why": "觀察相同或容易誤認的部件及位置。",
+          "difference": "陰右邊是今下云組成的侌；冷右邊令，不能把侌上半寫成令。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回課文語詞判斷。陰ㄧㄣ和聲音的音ㄧㄣ同音；陰暗用陰，聲音用音。"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第11課_confusion_analysis_d695e30244c8c242",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "拚",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "拚",
+    "groups": {
+      "shape": [
+        {
+          "char": "拼",
+          "why": "字形有相近部位，容易看漏差異。",
+          "difference": "兩字左扌；拚右弁上方厶，拼右并上方兩點撇形，不能混寫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "判",
+          "why": "讀音相同或相近，需要連同語詞辨別。",
+          "difference": "本課拚命的拚ㄆㄢˋ與判斷的判ㄆㄢˋ同音；拚命是奮力、不顧一切，判斷是辨別。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "搏",
+          "why": "意思或使用情境相關，需分清範圍。",
+          "difference": "拚命著重不顧一切地用力；搏鬥的搏指搏擊、爭鬥，拚命奔逃不等於與人搏鬥。"
+        }
+      ],
+      "component": [
+        {
+          "char": "弁",
+          "why": "觀察相同或容易誤認的部件及位置。",
+          "difference": "拚右邊是弁，左邊加扌；不能把弁誤寫成升。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回課文語詞判斷。本課拚命的拚ㄆㄢˋ與判斷的判ㄆㄢˋ同音；拚命是奮力、不顧一切，判斷是辨別。讀音核對：教育部《國語辭典簡編本》拚命 https://dict.concised.moe.edu.tw/dictView.jsp?ID=2810&la=0&powerMode=0"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}

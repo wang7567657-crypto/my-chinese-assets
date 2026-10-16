@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第11課_confusion_analysis_6c77c10888f58bd3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "婆",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "婆",
+    "groups": {
+      "shape": [
+        {
+          "char": "波",
+          "why": "字形有相近部位，容易看漏差異。",
+          "difference": "婆是上波下女；波只有氵與皮，沒有下面的女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "坡",
+          "why": "讀音相同或相近，需要連同語詞辨別。",
+          "difference": "婆ㄆㄛˊ與山坡的坡ㄆㄛ是近音，聲調不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "奶",
+          "why": "意思或使用情境相關，需分清範圍。",
+          "difference": "婆婆可稱年長婦女；奶奶常用來稱祖母，不能在所有稱呼中互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "姿",
+          "why": "觀察相同或容易誤認的部件及位置。",
+          "difference": "兩字下方都是女；婆上面波，姿上面次。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回課文語詞判斷。婆ㄆㄛˊ與山坡的坡ㄆㄛ是近音，聲調不同。"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}

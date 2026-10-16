@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第11課_confusion_analysis_03dcba50ae9ed898",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "哀",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "哀",
+    "groups": {
+      "shape": [
+        {
+          "char": "衰",
+          "why": "字形有相近部位，容易看漏差異。",
+          "difference": "兩字輪廓近似；哀中間是口，衰中間有穿出的橫筆，不能多加。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "唉",
+          "why": "讀音相同或相近，需要連同語詞辨別。",
+          "difference": "哀ㄞ與表示嘆息的唉ㄞ可同音；哀求寫哀，嘆氣的唉是口旁。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "求",
+          "why": "意思或使用情境相關，需分清範圍。",
+          "difference": "哀求是帶著悲傷、懇切地請求；求是一般請求，語氣較廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "裳",
+          "why": "觀察相同或容易誤認的部件及位置。",
+          "difference": "兩字有衣形；哀的口嵌在衣的上下部分之間，裳是上尚下衣。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回課文語詞判斷。哀ㄞ與表示嘆息的唉ㄞ可同音；哀求寫哀，嘆氣的唉是口旁。"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}

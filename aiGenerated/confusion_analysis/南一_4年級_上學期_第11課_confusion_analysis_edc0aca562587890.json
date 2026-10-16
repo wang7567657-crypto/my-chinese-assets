@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第11課_confusion_analysis_edc0aca562587890",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "缸",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "缸",
+    "groups": {
+      "shape": [
+        {
+          "char": "杠",
+          "why": "字形有相近部位，容易看漏差異。",
+          "difference": "兩字右邊都是工；缸左缶，杠左木。杠較少見。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "剛",
+          "why": "讀音相同或相近，需要連同語詞辨別。",
+          "difference": "缸ㄍㄤ與剛才的剛ㄍㄤ同音；水缸是容器，剛才表示時間。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "桶",
+          "why": "意思或使用情境相關，需分清範圍。",
+          "difference": "缸通常是較大且固定放置的容器；桶常可提取搬動，用途可能相近但名稱不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "罐",
+          "why": "觀察相同或容易誤認的部件及位置。",
+          "difference": "兩字同為缶旁；缸右工，罐右雚，不能只看左旁就認成同字。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回課文語詞判斷。缸ㄍㄤ與剛才的剛ㄍㄤ同音；水缸是容器，剛才表示時間。"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}
