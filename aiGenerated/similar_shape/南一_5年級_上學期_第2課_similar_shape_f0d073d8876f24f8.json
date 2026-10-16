@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第2課_similar_shape_f0d073d8876f24f8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "延",
+    "lessonChars": [
+      "傅",
+      "釘",
+      "延",
+      "遞",
+      "富",
+      "穩",
+      "按",
+      "熟",
+      "確",
+      "掃",
+      "務",
+      "讚",
+      "碑",
+      "績",
+      "障",
+      "率",
+      "涵",
+      "預"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "延",
+    "similarChars": [
+      {
+        "char": "廷",
+        "similarity": "都有廴包住內部。",
+        "difference": "延內部含止形；廷內部是壬形，底部橫畫與豎畫不同。"
+      },
+      {
+        "char": "建",
+        "similarity": "都有廴的長捺。",
+        "difference": "延內部含止形；建內部是聿，有多道橫畫。"
+      },
+      {
+        "char": "誕",
+        "similarity": "共用延。",
+        "difference": "延是整字；誕在左側加言。"
+      },
+      {
+        "char": "涎",
+        "similarity": "共用延。",
+        "difference": "涎比延多左側氵。"
+      },
+      {
+        "char": "蜒",
+        "similarity": "共用延。",
+        "difference": "蜒比延多左側虫。"
+      },
+      {
+        "char": "筵",
+        "similarity": "共用延。",
+        "difference": "筵比延多上方竹字頭。"
+      }
+    ],
+    "teachingTip": "先看整體結構，再圈共用部件；差異處用另一種顏色標示，少見字只用於辨形。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

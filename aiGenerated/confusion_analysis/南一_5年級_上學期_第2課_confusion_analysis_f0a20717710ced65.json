@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第2課_confusion_analysis_f0a20717710ced65",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "掃",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "掃",
+    "groups": {
+      "shape": [
+        {
+          "char": "婦",
+          "why": "右邊同為帚，左邊不同。",
+          "difference": "掃左邊是扌，婦左邊是女。掃地用掃，婦女用婦。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "嫂",
+          "why": "「掃地」的掃與嫂同音，都是ㄙㄠˇ。",
+          "difference": "掃是清除的動作；嫂用於嫂嫂。掃把的掃改讀ㄙㄠˋ。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "帚",
+          "why": "掃含有帚，容易漏寫左邊。",
+          "difference": "帚可指清掃的工具，如掃帚；掃另加扌，表示清掃等意思。"
+        }
+      ]
+    },
+    "tip": "掃地讀ㄙㄠˇ，掃把讀ㄙㄠˋ；掃左邊是扌。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

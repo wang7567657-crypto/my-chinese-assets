@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第2課_similar_shape_8054e494ec688b85",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "掃",
+    "lessonChars": [
+      "傅",
+      "釘",
+      "延",
+      "遞",
+      "富",
+      "穩",
+      "按",
+      "熟",
+      "確",
+      "掃",
+      "務",
+      "讚",
+      "碑",
+      "績",
+      "障",
+      "率",
+      "涵",
+      "預"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "掃",
+    "similarChars": [
+      {
+        "char": "婦",
+        "similarity": "右邊同為帚。",
+        "difference": "掃左扌；婦左女。"
+      },
+      {
+        "char": "帚",
+        "similarity": "共用帚。",
+        "difference": "帚比掃少左側扌。"
+      },
+      {
+        "char": "歸",
+        "similarity": "右側都有帚。",
+        "difference": "掃左扌；歸左側是較複雜的止與𠂤形，不能只添一筆。"
+      },
+      {
+        "char": "浸",
+        "similarity": "左側窄、右上都有彐形。",
+        "difference": "掃左扌、右下巾；浸左氵、右下又。"
+      },
+      {
+        "char": "侵",
+        "similarity": "右上都有彐與冖形。",
+        "difference": "掃左扌、右下巾；侵左亻、右下又。"
+      },
+      {
+        "char": "寢",
+        "similarity": "都有彐、冖一類的橫折形。",
+        "difference": "掃左扌、右下巾；寢上宀、內部左爿右下又，整體結構不同。"
+      }
+    ],
+    "teachingTip": "先看整體結構，再圈共用部件；差異處用另一種顏色標示，少見字只用於辨形。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

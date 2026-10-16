@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第2課_memory_strategy_cefff5d80febbd70",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "按",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "按",
+    "components": [
+      "扌",
+      "安（上宀、下女）"
+    ],
+    "association": "記字聯想（非字源解釋）：用手輕按電梯按鈕，安心等候；扌提醒手的動作，安提醒右側字形。",
+    "mnemonic": "手在左，安在右，輕輕一按等開門。",
+    "visualPrompt": "僅文字構想，未生成圖片。標準「按」字旁另畫一隻手按電梯按鈕，不把手指畫進字內。",
+    "teachingTip": "左邊是扌；右邊安的宀與女都要完整，並比較「按」與「安」。 所有聯想僅用於記憶，不代表字源。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

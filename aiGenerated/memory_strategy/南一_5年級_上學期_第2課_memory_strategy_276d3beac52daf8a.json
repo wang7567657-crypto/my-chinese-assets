@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第2課_memory_strategy_276d3beac52daf8a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "掃",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "掃",
+    "components": [
+      "扌",
+      "帚"
+    ],
+    "association": "記字聯想（非字源解釋）：手拿掃帚掃地；扌連到手的動作，帚連到掃帚這個生活物品。",
+    "mnemonic": "手旁配上帚，地面掃乾淨。",
+    "visualPrompt": "僅文字構想，未生成圖片。標準「掃」字旁另畫手持掃帚清掃地面，圖畫不進入字的筆畫。",
+    "teachingTip": "右邊帚上下都要寫完整，尤其下方巾的中豎；不可只寫右上部。 所有聯想僅用於記憶，不代表字源。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

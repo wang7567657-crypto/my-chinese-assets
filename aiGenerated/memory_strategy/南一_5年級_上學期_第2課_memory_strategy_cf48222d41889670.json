@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第2課_memory_strategy_cf48222d41889670",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "傅",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "傅",
+    "components": [
+      "亻",
+      "尃（上甫、下寸）"
+    ],
+    "association": "記字聯想（非字源解釋）：把「亻」想成師傅本人；看見右邊下方的「寸」，聯想到師傅用手示範細小步驟。",
+    "mnemonic": "人旁站師傅，甫下寸記住。",
+    "visualPrompt": "僅文字構想，未生成圖片。左側放標準「傅」字，右側另畫師傅示範組裝積木；用細線指向亻與寸，不改動筆畫。",
+    "teachingTip": "比較傅、傳：傅右邊是尃，上方甫有點，下方寸；不要把右半寫成專。 所有聯想僅用於記憶，不代表字源。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

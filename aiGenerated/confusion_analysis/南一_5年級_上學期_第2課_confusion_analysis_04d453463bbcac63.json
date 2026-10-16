@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第2課_confusion_analysis_04d453463bbcac63",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "釘",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "釘",
+    "groups": {
+      "shape": [
+        {
+          "char": "訂",
+          "why": "右邊同為丁，只有左邊不同。",
+          "difference": "釘是金字旁，如鐵釘；訂是言字旁，如訂正。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "丁",
+          "why": "「鐵釘」的釘與丁同音，都是ㄉㄧㄥ。",
+          "difference": "丁可用於人丁；釘指固定東西的用品。釘也讀ㄉㄧㄥˋ，如釘門牌。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "盯",
+          "why": "都含丁，容易只看右邊選字。",
+          "difference": "盯左邊是目，表示注視；釘左邊是金，鐵釘與金屬有關。"
+        }
+      ]
+    },
+    "tip": "鐵釘的釘讀ㄉㄧㄥ；釘門牌的釘讀ㄉㄧㄥˋ。先看它指物品還是固定的動作。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

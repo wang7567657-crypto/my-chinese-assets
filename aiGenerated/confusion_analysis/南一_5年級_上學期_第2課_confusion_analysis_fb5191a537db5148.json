@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第2課_confusion_analysis_fb5191a537db5148",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "穩",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "穩",
+    "groups": {
+      "shape": [
+        {
+          "char": "隱",
+          "why": "右邊相同，左邊易混。",
+          "difference": "穩左邊是禾，用於穩定；隱左邊是阝，用於隱藏。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "吻",
+          "why": "同音字，都讀ㄨㄣˇ。",
+          "difference": "穩表示安定，如平穩；吻是嘴唇接觸的動作，如親吻。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "定",
+          "why": "穩定與安定意思相近。",
+          "difference": "穩強調不搖晃或不輕浮，如站穩；定還可表示決定，如訂定日期。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "穩定用禾字旁的穩，隱藏才用阝；右邊底下的心別漏。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

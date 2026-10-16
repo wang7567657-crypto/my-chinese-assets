@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第2課_confusion_analysis_c379c1023e937bf7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "障",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "障",
+    "groups": {
+      "shape": [
+        {
+          "char": "彰",
+          "why": "都含章，但部件位置不同。",
+          "difference": "障左邊是阝、右邊是章；彰左邊是章、右邊是彡。障礙用障，表彰用彰。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "帳",
+          "why": "同音字，都讀ㄓㄤˋ。",
+          "difference": "障用於障礙；帳用於帳篷、帳目。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "阻",
+          "why": "障礙、阻礙都和妨礙通行或進展有關。",
+          "difference": "障常見於障礙、屏障；阻常見於阻止、阻擋，不能把阻止寫成障止。"
+        }
+      ],
+      "component": [
+        {
+          "char": "章",
+          "why": "障中含章，容易漏掉左邊。",
+          "difference": "章可指文章的段落；障須加阝，常有阻隔之意。"
+        }
+      ]
+    },
+    "tip": "障礙的障左阝右章；別寫成表彰的彰。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

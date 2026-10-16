@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第2課_similar_shape_9f64debb24f947db",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "熟",
+    "lessonChars": [
+      "傅",
+      "釘",
+      "延",
+      "遞",
+      "富",
+      "穩",
+      "按",
+      "熟",
+      "確",
+      "掃",
+      "務",
+      "讚",
+      "碑",
+      "績",
+      "障",
+      "率",
+      "涵",
+      "預"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "熟",
+    "similarChars": [
+      {
+        "char": "熱",
+        "similarity": "下方都有灬，上方右側有丸。",
+        "difference": "熟上方左側是享；熱上方左側是坴，有土形。"
+      },
+      {
+        "char": "孰",
+        "similarity": "共用上方孰。",
+        "difference": "孰比熟少下方四點灬。"
+      },
+      {
+        "char": "塾",
+        "similarity": "上方同為孰。",
+        "difference": "熟下方灬；塾下方土。塾可見於私塾。"
+      },
+      {
+        "char": "敦",
+        "similarity": "左上都有享的形。",
+        "difference": "熟上方右邊是丸、底下灬；敦右邊是攵，沒有灬。"
+      },
+      {
+        "char": "郭",
+        "similarity": "都有享的形。",
+        "difference": "熟在享右側有丸、下方灬；郭在享右側是阝。"
+      },
+      {
+        "char": "淳",
+        "similarity": "共用享形。",
+        "difference": "熟的享在上方左側；淳是左氵、右享，沒有丸和灬。"
+      }
+    ],
+    "teachingTip": "先看整體結構，再圈共用部件；差異處用另一種顏色標示，少見字只用於辨形。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

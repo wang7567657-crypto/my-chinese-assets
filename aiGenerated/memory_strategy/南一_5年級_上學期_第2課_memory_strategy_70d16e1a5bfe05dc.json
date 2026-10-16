@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第2課_memory_strategy_70d16e1a5bfe05dc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "務",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "務",
+    "components": [
+      "矛",
+      "攵",
+      "力"
+    ],
+    "association": "記字聯想（非字源解釋）：值日生完成服務工作需要出力；用右下「力」記住努力做事，再固定左矛、右上攵的位置。",
+    "mnemonic": "左邊矛，右上攵，右下用力做服務。",
+    "visualPrompt": "僅文字構想，未生成圖片。標準「務」字旁另畫值日生整理桌椅，分色標示矛、攵、力，不將工具變成字的筆畫。",
+    "teachingTip": "右上是攵、右下是力，勿把攵寫成夂；左邊矛也要保留完整。 所有聯想僅用於記憶，不代表字源。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

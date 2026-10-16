@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第2課_memory_strategy_f669999f0255e804",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "碑",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "碑",
+    "components": [
+      "石",
+      "卑"
+    ],
+    "association": "記字聯想（非字源解釋）：公園的石碑刻著文字，石旁連到材質；右邊卑是辨認與書寫的固定組塊。",
+    "mnemonic": "石在左，卑在右，石碑文字看得久。",
+    "visualPrompt": "僅文字構想，未生成圖片。標準「碑」字旁另畫公園石碑，碑面使用簡單線條示意文字，不遮擋標準字。",
+    "teachingTip": "先辨認石與卑，再照字帖寫卑；不要因為故事而把右側改成牌。 所有聯想僅用於記憶，不代表字源。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

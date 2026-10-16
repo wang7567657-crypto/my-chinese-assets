@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第2課_memory_strategy_5cef513445622c21",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "遞",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "遞",
+    "components": [
+      "辶",
+      "虒"
+    ],
+    "association": "記字聯想（非字源解釋）：辶讓人聯想到移動，右側虒當作固定的字形組塊；想像快遞員一路把包裹送到家。",
+    "mnemonic": "辶走一程，虒在裡面，包裹遞到手。",
+    "visualPrompt": "僅文字構想，未生成圖片。標準「遞」字旁另畫快遞員交付包裹，單獨框出虒，不用包裹遮住字。",
+    "teachingTip": "右側是虒，先觀察整塊輪廓再臨寫；不可把遞寫成簡化字递。 所有聯想僅用於記憶，不代表字源。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

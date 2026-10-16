@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第2課_memory_strategy_5484a655b4934fd9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "延",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "延",
+    "components": [
+      "廴",
+      "內部上方的撇",
+      "內部止形部件"
+    ],
+    "association": "記字聯想（非字源解釋）：把外側「廴」的長捺聯想成延長的步道，旁邊的人沿著步道繼續走。",
+    "mnemonic": "上有撇，內看止形，廴的長捺向外延。",
+    "visualPrompt": "僅文字構想，未生成圖片。標準「延」字旁另畫一條延長的步道；以顏色標示廴，維持字形完整。",
+    "teachingTip": "內部只是止形部件，須照標準字帖寫；廴不要寫成帶點的辶。 所有聯想僅用於記憶，不代表字源。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

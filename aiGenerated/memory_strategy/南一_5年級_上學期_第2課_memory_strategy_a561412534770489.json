@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第2課_memory_strategy_a561412534770489",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "熟",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "熟",
+    "components": [
+      "孰",
+      "灬"
+    ],
+    "association": "記字聯想（非字源解釋）：下方四點灬讓人聯想到爐火，鍋裡食物煮熟了；上方孰整塊保留觀察。",
+    "mnemonic": "孰在上，四點下，食物煮熟香味發。",
+    "visualPrompt": "僅文字構想，未生成圖片。標準「熟」字旁另畫爐火與煮熟的飯，標出字底灬，不以火苗取代四點。",
+    "teachingTip": "底下灬共四點；上方右側是丸，不要漏點或寫成九。 所有聯想僅用於記憶，不代表字源。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

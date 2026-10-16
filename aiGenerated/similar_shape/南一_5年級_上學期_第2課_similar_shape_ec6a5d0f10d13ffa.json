@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第2課_similar_shape_ec6a5d0f10d13ffa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "遞",
+    "lessonChars": [
+      "傅",
+      "釘",
+      "延",
+      "遞",
+      "富",
+      "穩",
+      "按",
+      "熟",
+      "確",
+      "掃",
+      "務",
+      "讚",
+      "碑",
+      "績",
+      "障",
+      "率",
+      "涵",
+      "預"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "遞",
+    "similarChars": [
+      {
+        "char": "遁",
+        "similarity": "都有辶，內部上方有向左下伸出的撇形。",
+        "difference": "遞內部是虒，有虎腳形；遁內部是盾，下方為目。"
+      },
+      {
+        "char": "遲",
+        "similarity": "都有辶包住較密的內部。",
+        "difference": "遞內部有虒；遲內部有犀，頂部是尸形。"
+      },
+      {
+        "char": "逮",
+        "similarity": "都有辶包住直向的內部。",
+        "difference": "遞內部有虒；逮內部是隶，有左右伸出的筆畫。"
+      },
+      {
+        "char": "遷",
+        "similarity": "都有辶和較高的內部。",
+        "difference": "遞內部有虒；遷內部上方是覀形，不是厂。"
+      },
+      {
+        "char": "褫",
+        "similarity": "共用虒。",
+        "difference": "遞外側為辶；褫左側為衤。褫較少見，可認形即可。"
+      },
+      {
+        "char": "虒",
+        "similarity": "共用虒。",
+        "difference": "虒沒有遞外側的辶。虒是罕用字，只比較字形。"
+      }
+    ],
+    "teachingTip": "先看整體結構，再圈共用部件；差異處用另一種顏色標示，少見字只用於辨形。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

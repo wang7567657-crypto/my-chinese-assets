@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第2課_memory_strategy_1cd99ac86d41ee2e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "績",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "績",
+    "components": [
+      "糹",
+      "責"
+    ],
+    "association": "記字聯想（非字源解釋）：把每天的練習想成一條條線，慢慢累積成一份成績；糹提醒細線，責提醒右側字形。",
+    "mnemonic": "糹在左，責在右，努力成果成績收。",
+    "visualPrompt": "僅文字構想，未生成圖片。標準「績」字旁另畫一條條練習紀錄連到成績單，標出糹與責，字形不變。",
+    "teachingTip": "左邊是糹，不是扌；右邊責下方是貝，和積的禾字旁作比較。 所有聯想僅用於記憶，不代表字源。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

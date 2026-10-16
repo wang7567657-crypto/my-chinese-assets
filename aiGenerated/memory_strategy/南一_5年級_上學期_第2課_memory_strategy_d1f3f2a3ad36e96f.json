@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第2課_memory_strategy_d1f3f2a3ad36e96f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "確",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "確",
+    "components": [
+      "石",
+      "隺"
+    ],
+    "association": "記字聯想（非字源解釋）：石頭穩固，聯想到反覆檢查後，答案確實可靠；右邊隺獨立當作字形組塊辨認。",
+    "mnemonic": "石在左，隺在右，確認答案再動手。",
+    "visualPrompt": "僅文字構想，未生成圖片。標準「確」字旁另畫學生核對答案並打勾，標出石與隺，保留標準筆畫。",
+    "teachingTip": "右邊是隺，不是角，也不是完整的鶴；分清確與礁的右側。 所有聯想僅用於記憶，不代表字源。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

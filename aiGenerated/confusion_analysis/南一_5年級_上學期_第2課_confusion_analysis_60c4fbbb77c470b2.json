@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第2課_confusion_analysis_60c4fbbb77c470b2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "確",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "確",
+    "groups": {
+      "shape": [
+        {
+          "char": "鶴",
+          "why": "都含隺，但搭配的部件不同。",
+          "difference": "確是左石右隺；鶴是左隺右鳥。正確用確，白鶴用鶴。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "卻",
+          "why": "同音字，都讀ㄑㄩㄝˋ。",
+          "difference": "確可表示真實、肯定，如確實；卻常表示轉折，如想去卻沒空。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "準",
+          "why": "正確與準確都表示符合要求或事實。",
+          "difference": "確著重真實或肯定，如確定；準還可表示標準、允許，如批准。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "正確的確左邊是石，別寫成白鶴的鶴。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

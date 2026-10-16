@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第2課_confusion_analysis_59eee83a3760fcb7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "延",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "延",
+    "groups": {
+      "shape": [
+        {
+          "char": "廷",
+          "why": "都有廴，內部輪廓相近。",
+          "difference": "延內部下方有止形；廷內部下方是壬形。延長用延，宮廷用廷。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "言",
+          "why": "同音字，都讀ㄧㄢˊ。",
+          "difference": "延用於延長、延期；言用於語言、發言。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "遲",
+          "why": "延期與遲到都可能和時間往後有關。",
+          "difference": "延期是把原定日期往後移；遲到是晚於規定時間到達。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "延長、延期都用延；別把內部寫成宮廷的廷。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}
