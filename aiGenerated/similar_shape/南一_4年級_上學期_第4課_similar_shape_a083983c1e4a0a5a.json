@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第4課_similar_shape_a083983c1e4a0a5a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "領",
+    "lessonChars": [
+      "淺",
+      "搧",
+      "針",
+      "縫",
+      "嶼",
+      "峰",
+      "領",
+      "拂",
+      "頑",
+      "奏",
+      "曲",
+      "溪",
+      "聆",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "領",
+    "similarChars": [
+      {
+        "char": "鈴",
+        "similarity": "都有完整的「令」。",
+        "difference": "領是左令右頁；鈴是左金右令。"
+      },
+      {
+        "char": "玲",
+        "similarity": "都有完整的「令」。",
+        "difference": "領是左令右頁；玲是左王右令。"
+      },
+      {
+        "char": "伶",
+        "similarity": "都有完整的「令」。",
+        "difference": "領是左令右頁；伶是左亻右令。"
+      },
+      {
+        "char": "冷",
+        "similarity": "都有完整的「令」。",
+        "difference": "領是左令右頁；冷是左冫右令。"
+      },
+      {
+        "char": "頌",
+        "similarity": "都是右邊頁，左上有向兩側分開的筆畫。",
+        "difference": "領左邊是令；頌左邊是公，公的上方是八，下方是厶。"
+      },
+      {
+        "char": "頑",
+        "similarity": "右邊同為「頁」。",
+        "difference": "領左邊是令；頑左邊是元，上方為兩橫，下方為儿。"
+      }
+    ],
+    "teachingTip": "先認左邊完整的令，再認右邊頁；不要只看上方的人字形，還要檢查令的下半部。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

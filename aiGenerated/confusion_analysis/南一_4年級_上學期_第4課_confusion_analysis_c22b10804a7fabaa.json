@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第4課_confusion_analysis_c22b10804a7fabaa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "領",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "領",
+    "groups": {
+      "shape": [
+        {
+          "char": "頑",
+          "why": "部件或整體輪廓接近，容易看錯。",
+          "difference": "右側都是頁；領左令，頑左元。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "嶺",
+          "why": "同音字需用語意區分。",
+          "difference": "領與嶺同音ㄌㄧㄥˇ；領受用領，山嶺用嶺。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "受",
+          "why": "相關詞義容易混用。",
+          "difference": "領受是接受；領還能表示帶領，受沒有帶路的意思。"
+        }
+      ],
+      "component": [
+        {
+          "char": "鈴",
+          "why": "有共同部件，需比較部件位置。",
+          "difference": "同有令；領是左令右頁，鈴是左金右令。"
+        }
+      ]
+    },
+    "tip": "右側都是頁；領左令，頑左元。讀回課文語詞，再決定用字。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

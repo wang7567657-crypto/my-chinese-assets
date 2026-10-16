@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第4課_similar_shape_41513b2d74aa32cc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "搧",
+    "lessonChars": [
+      "淺",
+      "搧",
+      "針",
+      "縫",
+      "嶼",
+      "峰",
+      "領",
+      "拂",
+      "頑",
+      "奏",
+      "曲",
+      "溪",
+      "聆",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "搧",
+    "similarChars": [
+      {
+        "char": "扇",
+        "similarity": "整個「扇」都是搧的右半部。",
+        "difference": "搧在扇左邊多了扌。"
+      },
+      {
+        "char": "煽",
+        "similarity": "右邊同為「扇」。",
+        "difference": "搧左邊是扌，煽左邊是火。"
+      },
+      {
+        "char": "傓",
+        "similarity": "右邊同為「扇」；傓是罕用字。",
+        "difference": "搧左邊是扌，傓左邊是亻。"
+      },
+      {
+        "char": "騸",
+        "similarity": "右邊同為「扇」；騸是罕用字。",
+        "difference": "搧左邊是扌，騸左邊是馬。"
+      },
+      {
+        "char": "掮",
+        "similarity": "都是左扌，右上有戶。",
+        "difference": "搧右邊是扇，戶下是羽；掮右邊是肩，戶下是月。"
+      },
+      {
+        "char": "摺",
+        "similarity": "都是左扌，右邊都有羽部件。",
+        "difference": "搧右邊是扇，上戶下羽；摺右邊是習，上羽下白。"
+      }
+    ],
+    "teachingTip": "把字分成「扌＋扇」，再把扇分成「戶＋羽」；比較時先找左邊的手部，再找右下的羽。傓、騸是罕用對照字，只需辨形。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第4課_confusion_analysis_a6d1382b11f22fd2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "嶼",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "嶼",
+    "groups": {
+      "shape": [
+        {
+          "char": "與",
+          "why": "部件或整體輪廓接近，容易看錯。",
+          "difference": "嶼比與多左邊山；右側與不能省筆。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "雨",
+          "why": "同音字需用語意區分。",
+          "difference": "嶼與雨同音ㄩˇ；島嶼用嶼，下雨用雨。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "島",
+          "why": "相關詞義容易混用。",
+          "difference": "島嶼都可指水中陸地，嶼多指小島；島較常單獨使用。"
+        }
+      ],
+      "component": [
+        {
+          "char": "譽",
+          "why": "有共同部件，需比較部件位置。",
+          "difference": "都可辨出與；嶼是左山右與，譽是上與下言。"
+        }
+      ]
+    },
+    "tip": "嶼比與多左邊山；右側與不能省筆。讀回課文語詞，再決定用字。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

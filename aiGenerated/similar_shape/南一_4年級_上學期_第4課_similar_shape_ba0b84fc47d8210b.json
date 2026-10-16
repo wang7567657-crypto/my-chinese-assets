@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第4課_similar_shape_ba0b84fc47d8210b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "針",
+    "lessonChars": [
+      "淺",
+      "搧",
+      "針",
+      "縫",
+      "嶼",
+      "峰",
+      "領",
+      "拂",
+      "頑",
+      "奏",
+      "曲",
+      "溪",
+      "聆",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "針",
+    "similarChars": [
+      {
+        "char": "汁",
+        "similarity": "右邊同為「十」。",
+        "difference": "針左邊是金，汁左邊是氵。"
+      },
+      {
+        "char": "計",
+        "similarity": "右邊同為「十」。",
+        "difference": "針左邊是金，計左邊是言。"
+      },
+      {
+        "char": "什",
+        "similarity": "右邊同為「十」。",
+        "difference": "針左邊是金，什左邊是亻。"
+      },
+      {
+        "char": "釘",
+        "similarity": "都是左金，右邊筆畫簡單。",
+        "difference": "針右邊是十，豎畫穿過橫畫；釘右邊是丁，豎鉤接在橫畫下。"
+      },
+      {
+        "char": "仟",
+        "similarity": "右側都有橫豎交叉的輪廓。",
+        "difference": "針是金加十；仟是亻加千，千比十多一撇。"
+      },
+      {
+        "char": "釬",
+        "similarity": "都是左金，右側有橫豎交叉；釬是罕用字。",
+        "difference": "針右邊是十；釬右邊是干，比十多一橫。"
+      }
+    ],
+    "teachingTip": "先找左邊的金，再檢查右邊只有「十」；右邊不是丁，也不是千。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

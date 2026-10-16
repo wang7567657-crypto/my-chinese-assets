@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第4課_similar_shape_fe1c511c7fb65f3e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "曲",
+    "lessonChars": [
+      "淺",
+      "搧",
+      "針",
+      "縫",
+      "嶼",
+      "峰",
+      "領",
+      "拂",
+      "頑",
+      "奏",
+      "曲",
+      "溪",
+      "聆",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "曲",
+    "similarChars": [
+      {
+        "char": "由",
+        "similarity": "都有外框、框內橫畫與伸出上方的直畫。",
+        "difference": "曲有兩條內部直畫；由只有一條中央直畫。"
+      },
+      {
+        "char": "田",
+        "similarity": "都有封閉外框與框內橫、直畫。",
+        "difference": "曲有兩條內部直畫，且上端伸出框頂；田只有一條內部直畫，留在框內。"
+      },
+      {
+        "char": "甲",
+        "similarity": "都有方框、內部橫畫和直畫。",
+        "difference": "曲有兩條內部直畫伸出框頂；甲只有一條中央直畫，向下伸出框底。"
+      },
+      {
+        "char": "申",
+        "similarity": "都有方框、內部橫畫和伸出框外的直畫。",
+        "difference": "曲有兩條內部直畫伸出框頂；申只有一條中央直畫，向上、向下都伸出。"
+      },
+      {
+        "char": "目",
+        "similarity": "都有外框及框內的分隔筆畫。",
+        "difference": "曲框內是兩直一橫；目框內是兩橫，沒有中央直畫。"
+      },
+      {
+        "char": "冊",
+        "similarity": "都有兩條內部直畫和橫向穿過的筆畫。",
+        "difference": "曲下方有封口的底橫；冊下方不封口，且中間橫畫向兩側伸出。"
+      }
+    ],
+    "teachingTip": "數一數框內的直畫：曲有兩條，田只有一條；再看直畫是否伸出框外，分清由、甲、申。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

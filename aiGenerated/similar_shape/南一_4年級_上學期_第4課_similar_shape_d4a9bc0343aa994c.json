@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第4課_similar_shape_d4a9bc0343aa994c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "嶼",
+    "lessonChars": [
+      "淺",
+      "搧",
+      "針",
+      "縫",
+      "嶼",
+      "峰",
+      "領",
+      "拂",
+      "頑",
+      "奏",
+      "曲",
+      "溪",
+      "聆",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "嶼",
+    "similarChars": [
+      {
+        "char": "與",
+        "similarity": "整個「與」就是嶼的右半部。",
+        "difference": "嶼在與左邊多了山。"
+      },
+      {
+        "char": "嬩",
+        "similarity": "右邊同為「與」；嬩是罕用字。",
+        "difference": "嶼左邊是山，嬩左邊是女。"
+      },
+      {
+        "char": "歟",
+        "similarity": "都有完整的「與」；歟較少用。",
+        "difference": "嶼是左山右與；歟是左與右欠。"
+      },
+      {
+        "char": "嵎",
+        "similarity": "都是左山，右邊為密集的方框、豎畫；嵎較少用。",
+        "difference": "嶼右邊是與；嵎右邊是禺，上方為日形，下方帶冂及內部筆畫。"
+      },
+      {
+        "char": "嶺",
+        "similarity": "都有山與筆畫密集的另一部件。",
+        "difference": "嶼是左右結構，山在左、與在右；嶺是上下結構，山在上、領在下。"
+      },
+      {
+        "char": "嶽",
+        "similarity": "都有山與筆畫密集的另一部件。",
+        "difference": "嶼是左山右與；嶽是上山下獄，獄中間有言。"
+      }
+    ],
+    "teachingTip": "先確認左山右與；與的下方有分開的撇、點。嬩、歟為罕用對照字，不必當成本課生字記憶。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

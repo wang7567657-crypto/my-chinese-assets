@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第4課_similar_shape_e3d947ff73ebdfea",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "奏",
+    "lessonChars": [
+      "淺",
+      "搧",
+      "針",
+      "縫",
+      "嶼",
+      "峰",
+      "領",
+      "拂",
+      "頑",
+      "奏",
+      "曲",
+      "溪",
+      "聆",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "奏",
+    "similarChars": [
+      {
+        "char": "秦",
+        "similarity": "上半部都有三橫與向兩側展開的撇捺。",
+        "difference": "奏下方是天；秦下方是禾。"
+      },
+      {
+        "char": "春",
+        "similarity": "上半部都有三橫與向兩側展開的撇捺。",
+        "difference": "奏下方是天；春下方是日。"
+      },
+      {
+        "char": "泰",
+        "similarity": "上半部都有三橫與向兩側展開的撇捺。",
+        "difference": "奏下方是天；泰下方是水的變形筆畫。"
+      },
+      {
+        "char": "奉",
+        "similarity": "上半部都有三橫與向兩側展開的撇捺。",
+        "difference": "奏下方是天；奉下方為兩橫被一豎貫穿的形狀。"
+      },
+      {
+        "char": "湊",
+        "similarity": "右半部就是完整的「奏」。",
+        "difference": "奏沒有左偏旁；湊在奏左邊加上氵。"
+      },
+      {
+        "char": "揍",
+        "similarity": "右半部就是完整的「奏」。",
+        "difference": "奏沒有左偏旁；揍在奏左邊加上扌。"
+      }
+    ],
+    "teachingTip": "先比共同的上半部，再看最下方：奏下面是天，不是夭，末筆寫作頓點；秦、春、泰、奉的下方都不同。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

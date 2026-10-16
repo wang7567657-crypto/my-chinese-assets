@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第4課_similar_shape_a8c0328efa92a6fb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "翻",
+    "lessonChars": [
+      "淺",
+      "搧",
+      "針",
+      "縫",
+      "嶼",
+      "峰",
+      "領",
+      "拂",
+      "頑",
+      "奏",
+      "曲",
+      "溪",
+      "聆",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "翻",
+    "similarChars": [
+      {
+        "char": "番",
+        "similarity": "整個「番」就是翻的左半部。",
+        "difference": "翻在番右邊多了羽。"
+      },
+      {
+        "char": "播",
+        "similarity": "都有完整的「番」。",
+        "difference": "翻是左番右羽；播是左扌右番。"
+      },
+      {
+        "char": "潘",
+        "similarity": "都有完整的「番」。",
+        "difference": "翻是左番右羽；潘是左氵右番。"
+      },
+      {
+        "char": "幡",
+        "similarity": "都有完整的「番」；幡較少用。",
+        "difference": "翻是左番右羽；幡是左巾右番。"
+      },
+      {
+        "char": "翩",
+        "similarity": "右邊同為「羽」。",
+        "difference": "翻左邊是番，下方是田；翩左邊是扁，上方是戶，下方是冊形。"
+      },
+      {
+        "char": "翔",
+        "similarity": "右邊同為「羽」。",
+        "difference": "翻左邊是番；翔左邊是羊，有中央豎畫與多道橫畫。"
+      }
+    ],
+    "teachingTip": "把翻分成「番＋羽」；先確認番在左，再確認右邊是兩組像翅膀的羽，不要只看到番就選字。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}
