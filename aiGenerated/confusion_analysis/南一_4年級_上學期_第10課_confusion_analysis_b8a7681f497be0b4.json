@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_b8a7681f497be0b4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "隊",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "隊",
+    "groups": {
+      "shape": [
+        {
+          "char": "隧",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "都有左耳旁；隊右側沒有辶，隧的右側外面有辶。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "對",
+          "why": "隊與對都讀ㄉㄨㄟˋ，是同音。",
+          "difference": "排隊是依序排列；答對表示答案正確。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "群",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "隊常指有組織或排成行列的人；群泛指聚集的人或動物。隊伍不能隨意寫成群伍。"
+        }
+      ],
+      "component": [
+        {
+          "char": "豕",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "隊右下含豕形，還有右上兩點與左阝；不可寫成只有豕。"
+        }
+      ]
+    },
+    "tip": "排隊用隊，答對用對；隊的耳旁在左。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

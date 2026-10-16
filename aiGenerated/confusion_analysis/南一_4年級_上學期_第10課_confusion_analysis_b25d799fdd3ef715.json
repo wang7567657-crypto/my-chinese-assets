@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_b25d799fdd3ef715",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "強",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "強",
+    "groups": {
+      "shape": [
+        {
+          "char": "彊",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "都以弓在左；強右邊厶加虫，彊右邊畺。彊為少見字，先辨形即可。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "牆",
+          "why": "最強的強與牆都讀ㄑㄧㄤˊ，是同音；勉強的強讀ㄑㄧㄤˇ。",
+          "difference": "強大表示有力量；牆壁是建築的一部分。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "壯",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "強著重力量或能力勝過別人；壯著重健壯或雄壯，不能把最強任意換成最壯。"
+        }
+      ],
+      "component": [
+        {
+          "char": "弦",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "同有弓旁；強右厶與虫，弦右玄。"
+        }
+      ]
+    },
+    "tip": "最強讀ㄑㄧㄤˊ；右上寫厶，右下寫虫。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

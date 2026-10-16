@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第10課_similar_shape_e3555e4d2c1fc576",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "哄",
+    "lessonChars": [
+      "妞",
+      "郎",
+      "丈",
+      "哄",
+      "眾",
+      "羞",
+      "強",
+      "嫁",
+      "架",
+      "初",
+      "丟",
+      "既",
+      "轎",
+      "隊",
+      "伍"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "哄",
+    "similarChars": [
+      {
+        "char": "洪",
+        "similarity": "右半都是「共」。",
+        "difference": "「哄」左邊是口；「洪」左邊是氵，為分開的三點。"
+      },
+      {
+        "char": "拱",
+        "similarity": "右半都是「共」。",
+        "difference": "「哄」左邊是口；「拱」左邊是扌，有橫、豎鉤和提。"
+      },
+      {
+        "char": "供",
+        "similarity": "右半都是「共」。",
+        "difference": "「哄」左邊是口；「供」左邊是亻，只有撇和豎。"
+      },
+      {
+        "char": "烘",
+        "similarity": "右半都是「共」。",
+        "difference": "「哄」左邊是口；「烘」左邊是火，有點、撇及伸展的筆畫。"
+      },
+      {
+        "char": "共",
+        "similarity": "「共」就是「哄」的右半，兩字都有共形的橫畫與下方兩點。",
+        "difference": "「哄」在共左邊多一個口；「共」是單獨的部件形。"
+      },
+      {
+        "char": "鬨",
+        "similarity": "兩字都含有「共」。",
+        "difference": "「鬨」是較少見字，外面以鬥包住共；「哄」是口和共左右並排。"
+      }
+    ],
+    "teachingTip": "先框出共同的「共」，再辨左側；哄是口加共。鬨的鬥形在外面包住共，不能把它當成哄的口旁。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

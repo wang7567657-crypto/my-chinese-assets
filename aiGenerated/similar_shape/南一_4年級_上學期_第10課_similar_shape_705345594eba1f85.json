@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第10課_similar_shape_705345594eba1f85",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "嫁",
+    "lessonChars": [
+      "妞",
+      "郎",
+      "丈",
+      "哄",
+      "眾",
+      "羞",
+      "強",
+      "嫁",
+      "架",
+      "初",
+      "丟",
+      "既",
+      "轎",
+      "隊",
+      "伍"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "嫁",
+    "similarChars": [
+      {
+        "char": "稼",
+        "similarity": "右半都是「家」，有宀和豕形。",
+        "difference": "「嫁」左邊是女；「稼」左邊是禾，頂端多一撇。"
+      },
+      {
+        "char": "傢",
+        "similarity": "右半都是「家」。",
+        "difference": "「嫁」左邊是女；「傢」左邊是亻，筆畫較少。"
+      },
+      {
+        "char": "家",
+        "similarity": "「家」就是「嫁」的右半。",
+        "difference": "「嫁」在家左側加女；「家」沒有女旁。"
+      },
+      {
+        "char": "鎵",
+        "similarity": "兩字右半同為「家」。",
+        "difference": "「鎵」是較少見字，左邊是金字旁；「嫁」左邊是女。"
+      },
+      {
+        "char": "糘",
+        "similarity": "兩字右半同為「家」。",
+        "difference": "「糘」是罕見字，左邊是米，有上方點撇與下方撇點；「嫁」左邊是女。"
+      },
+      {
+        "char": "榢",
+        "similarity": "兩字右半同為「家」。",
+        "difference": "「榢」是「架」的少見異體，左邊是木；「嫁」左邊是女。"
+      }
+    ],
+    "teachingTip": "先找右邊完整的家，再辨左旁；嫁左邊一定是女。鎵、糘和榢只作部件觀察，其中榢是架的異體，不能拿來代替課文的嫁。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

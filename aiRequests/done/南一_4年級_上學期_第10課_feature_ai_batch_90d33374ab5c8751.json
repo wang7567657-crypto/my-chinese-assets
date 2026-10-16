@@ -1,0 +1,569 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第10課_feature_ai_batch_90d33374ab5c8751",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "context": {
+      "publisher": "南一",
+      "grade": "4年級",
+      "semester": "上學期",
+      "lesson": "第10課"
+    },
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "妞",
+      "郎",
+      "丈",
+      "哄",
+      "眾",
+      "羞",
+      "強",
+      "嫁",
+      "架",
+      "初",
+      "丟",
+      "既",
+      "轎",
+      "隊",
+      "伍"
+    ],
+    "items": [
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_f1b7222e6e3d2938",
+        "input": {
+          "targetChar": "妞",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_025fc0e3df51c014",
+        "input": {
+          "targetChar": "郎",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_6e24cd4bc081885e",
+        "input": {
+          "targetChar": "丈",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_e3555e4d2c1fc576",
+        "input": {
+          "targetChar": "哄",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_a4f18ce92c57d660",
+        "input": {
+          "targetChar": "眾",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_b1c3aa865b5356bc",
+        "input": {
+          "targetChar": "羞",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_69bb64412313d1b0",
+        "input": {
+          "targetChar": "強",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_705345594eba1f85",
+        "input": {
+          "targetChar": "嫁",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_308a3bcdaebac711",
+        "input": {
+          "targetChar": "架",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_681c032aee34ab70",
+        "input": {
+          "targetChar": "初",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_caeddf5c2c4fb1b7",
+        "input": {
+          "targetChar": "丟",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_76a5879bd714a2d9",
+        "input": {
+          "targetChar": "既",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_2e7b1e5fc7f9d4ac",
+        "input": {
+          "targetChar": "轎",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_b5823c76ce13a386",
+        "input": {
+          "targetChar": "隊",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "南一_4年級_上學期_第10課_similar_shape_873816e4bc014f45",
+        "input": {
+          "targetChar": "伍",
+          "lessonChars": [
+            "妞",
+            "郎",
+            "丈",
+            "哄",
+            "眾",
+            "羞",
+            "強",
+            "嫁",
+            "架",
+            "初",
+            "丟",
+            "既",
+            "轎",
+            "隊",
+            "伍"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第10課"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00",
+  "processedAt": "2026-10-16T08:54:19.742696+00:00",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_4年級_上學期_第10課_feature_ai_batch_90d33374ab5c8751",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "context": {
+        "publisher": "南一",
+        "grade": "4年級",
+        "semester": "上學期",
+        "lesson": "第10課"
+      },
+      "publisher": "南一",
+      "grade": "4年級",
+      "semester": "上學期",
+      "lesson": "第10課",
+      "featureTaskType": "similar_shape",
+      "featureName": "形近字探索",
+      "itemCount": 15,
+      "batchCharacters": [
+        "妞",
+        "郎",
+        "丈",
+        "哄",
+        "眾",
+        "羞",
+        "強",
+        "嫁",
+        "架",
+        "初",
+        "丟",
+        "既",
+        "轎",
+        "隊",
+        "伍"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 15,
+      "resultPaths": [
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_f1b7222e6e3d2938.json",
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_025fc0e3df51c014.json",
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_6e24cd4bc081885e.json",
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_e3555e4d2c1fc576.json",
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_a4f18ce92c57d660.json",
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_b1c3aa865b5356bc.json",
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_69bb64412313d1b0.json",
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_705345594eba1f85.json",
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_308a3bcdaebac711.json",
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_681c032aee34ab70.json",
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_caeddf5c2c4fb1b7.json",
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_76a5879bd714a2d9.json",
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_2e7b1e5fc7f9d4ac.json",
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_b5823c76ce13a386.json",
+        "aiGenerated/similar_shape/南一_4年級_上學期_第10課_similar_shape_873816e4bc014f45.json"
+      ]
+    },
+    "createdAt": "2026-10-16T08:54:19.742696+00:00"
+  }
+}

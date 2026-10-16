@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_03b942a318c2b6ac",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "羞",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "羞",
+    "groups": {
+      "shape": [
+        {
+          "char": "差",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "上方都有羊的變形；羞下方丑，差下方工。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "修",
+          "why": "羞與修都讀ㄒㄧㄡ，是同音。",
+          "difference": "害羞是不好意思；修理是把損壞物品修好。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "恥",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "害羞常指靦腆、不好意思；羞恥指因不當行為感到難堪。鼠妞害羞不表示她做錯事。"
+        }
+      ],
+      "component": [
+        {
+          "char": "丑",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "羞包含丑形，但上方還有羊的變形；丑本身不是醜字。"
+        }
+      ]
+    },
+    "tip": "害羞寫羞；修理寫修；下方看清丑。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

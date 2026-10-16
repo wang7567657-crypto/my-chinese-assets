@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_fbc86362547d6c8a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "郎",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "郎",
+    "groups": {
+      "shape": [
+        {
+          "char": "朗",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "郎右阝，朗右月；左部輪廓相近。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "狼",
+          "why": "郎與狼都讀ㄌㄤˊ，是同音。",
+          "difference": "新郎指結婚的男子；狼是動物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "夫",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "郎可指年輕男子，也用在新郎；丈夫的夫指配偶。鼠郎是故事角色名字，不能隨意改成鼠夫。"
+        }
+      ],
+      "component": [
+        {
+          "char": "廊",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "廊是广裡放郎，郎外面沒有广。"
+        }
+      ]
+    },
+    "tip": "新郎用右耳旁；月光明朗用月。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

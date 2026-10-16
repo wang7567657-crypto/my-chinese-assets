@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_214bed77251710a2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "既",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "既",
+    "groups": {
+      "shape": [
+        {
+          "char": "即",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "左部相近；既右旡，即右卩，右側末筆形狀不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "記",
+          "why": "既與記都讀ㄐㄧˋ，是同音。",
+          "difference": "既然用來提出已知情況；記得表示沒有忘記。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "已",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "既可表示已經或既然的條件；已表示已經。課文既然不能直接換成已然而維持同一用法。"
+        }
+      ],
+      "component": [
+        {
+          "char": "概",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "概右部含既，左邊多木；既本身沒有木旁。"
+        }
+      ]
+    },
+    "tip": "既然用既；立即用即；記得用記。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

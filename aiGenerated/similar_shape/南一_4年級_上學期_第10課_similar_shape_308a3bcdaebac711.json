@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第10課_similar_shape_308a3bcdaebac711",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "架",
+    "lessonChars": [
+      "妞",
+      "郎",
+      "丈",
+      "哄",
+      "眾",
+      "羞",
+      "強",
+      "嫁",
+      "架",
+      "初",
+      "丟",
+      "既",
+      "轎",
+      "隊",
+      "伍"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "架",
+    "similarChars": [
+      {
+        "char": "駕",
+        "similarity": "兩字上方都是「加」，都是上下結構。",
+        "difference": "「架」下方是木；「駕」下方是馬，底下有四點。"
+      },
+      {
+        "char": "賀",
+        "similarity": "兩字上方都是「加」。",
+        "difference": "「架」下方是木，有向左右伸展的撇捺；「賀」下方是貝，有目形與下方兩點。"
+      },
+      {
+        "char": "加",
+        "similarity": "「加」就是「架」的上半部。",
+        "difference": "「架」在加下方多木；「加」下方沒有木。"
+      },
+      {
+        "char": "枷",
+        "similarity": "兩字都由「加」和「木」組成。",
+        "difference": "「架」是上加下木；「枷」是左木右加，部件位置不同。"
+      },
+      {
+        "char": "咖",
+        "similarity": "兩字都保留完整的「加」形。",
+        "difference": "「咖」是左口右加；「架」是上加下木，沒有額外的左口。"
+      },
+      {
+        "char": "茄",
+        "similarity": "兩字都保留完整的「加」形。",
+        "difference": "「茄」是上艹下加；「架」是上加下木，加所在的位置不同。"
+      }
+    ],
+    "teachingTip": "架要分成上加、下木。枷也有木和加，但排列成左木右加；駕和賀則保留上面的加，換掉下方部件。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

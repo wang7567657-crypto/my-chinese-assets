@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_aef44244cb894d2c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "妞",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "妞",
+    "groups": {
+      "shape": [
+        {
+          "char": "扭",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "妞左女，扭左扌；右邊同為丑。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "牛",
+          "why": "妞ㄋㄧㄡ、牛ㄋㄧㄡˊ，聲調不同，是近音。",
+          "difference": "鼠妞是角色名；牛是動物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "女",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "妞是對女孩的稱呼，本課是鼠妞的名字；女指女性或女兒，範圍不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "鈕",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "同有丑；妞左女，鈕左金。"
+        }
+      ]
+    },
+    "tip": "鼠妞是角色名稱，扭動才用手旁。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

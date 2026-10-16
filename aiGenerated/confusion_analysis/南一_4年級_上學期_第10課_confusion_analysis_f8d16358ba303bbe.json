@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_f8d16358ba303bbe",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "丈",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "丈",
+    "groups": {
+      "shape": [
+        {
+          "char": "大",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "丈的捺從上橫下方起筆，不接上橫，再與撇相交；大的捺從橫、撇交會處附近向右下展開。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "仗",
+          "why": "丈與仗都讀ㄓㄤˋ，是同音。",
+          "difference": "丈夫用丈；打仗指作戰。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "尺",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "丈與尺都可作長度單位；同一套市制中一丈為十尺。本課丈夫不是長度。"
+        }
+      ],
+      "component": [
+        {
+          "char": "杖",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "杖是木加丈；丈本身沒有木旁。"
+        }
+      ]
+    },
+    "tip": "丈夫寫丈，打仗寫仗，拐杖寫杖。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

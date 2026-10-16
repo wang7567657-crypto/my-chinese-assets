@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_c22cb8b1c3b464ad",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "架",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "架",
+    "groups": {
+      "shape": [
+        {
+          "char": "駕",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "上方同為加；架下木，駕下馬。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "假",
+          "why": "架與放假的假都讀ㄐㄧㄚˋ，是同音；真假的假讀ㄐㄧㄚˇ。",
+          "difference": "書架用來放書；放假指停止上班或上課休息。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "擋",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "招架指抵擋、應付；擋可單指遮住或攔住。課文招架不住表示應付不了。"
+        }
+      ],
+      "component": [
+        {
+          "char": "加",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "架在加的下面多木；加是左右組合，架整體呈上下組合。"
+        }
+      ]
+    },
+    "tip": "木頭架子下木，駕駛下馬；本課招架是抵擋。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

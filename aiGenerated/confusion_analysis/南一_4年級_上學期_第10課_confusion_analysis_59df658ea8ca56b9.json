@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_59df658ea8ca56b9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "伍",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "伍",
+    "groups": {
+      "shape": [
+        {
+          "char": "仵",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "左邊同為亻；伍右五，仵右午。仵較少見，可認識字形而不要求造詞。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "五",
+          "why": "伍與五都讀ㄨˇ，是同音。",
+          "difference": "隊伍是一群有組織的人；五個表示數量。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "隊",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "隊和伍都和成組的人有關；隊伍是一個詞，隊長指帶領隊伍的人，不能寫成伍長來表示同一職稱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "吾",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "同有五形；伍左亻右五，吾上五下口。"
+        }
+      ]
+    },
+    "tip": "隊伍寫人旁伍；數量五個通常寫五。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

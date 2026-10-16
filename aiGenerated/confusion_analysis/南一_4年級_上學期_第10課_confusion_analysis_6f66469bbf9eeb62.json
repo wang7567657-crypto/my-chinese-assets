@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_6f66469bbf9eeb62",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "眾",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "眾",
+    "groups": {
+      "shape": [
+        {
+          "char": "聚",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "兩字下方都有多筆向下伸展的撇捺；眾上方與聚的取部不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "重",
+          "why": "眾ㄓㄨㄥˋ與重量的重ㄓㄨㄥˋ同音；重複的重讀ㄔㄨㄥˊ。",
+          "difference": "眾人表示很多人；重量表示物體的輕重。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "群",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "眾著重人數多，如眾人；群可指集合成的一群人或動物。不能把觀眾改成觀群。"
+        }
+      ],
+      "component": [
+        {
+          "char": "衆",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "衆是眾的異體字，上部形體不同；本課書寫使用眾，不混寫異體。"
+        }
+      ]
+    },
+    "tip": "眾鼠指許多老鼠，觀眾也用眾。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}
