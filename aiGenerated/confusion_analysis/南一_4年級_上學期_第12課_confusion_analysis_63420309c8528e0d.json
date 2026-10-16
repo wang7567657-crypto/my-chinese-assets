@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_63420309c8528e0d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "耐",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "耐",
+    "groups": {
+      "shape": [
+        {
+          "char": "耍",
+          "why": "都含而",
+          "difference": "耐是左而右寸；耍是上而下女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "奈",
+          "why": "同音：耐用的耐與無奈的奈都讀ㄋㄞˋ。",
+          "difference": "耐是能承受；奈出現在無奈、奈何。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "忍",
+          "why": "都有承受的意思",
+          "difference": "忍耐常指承受感受；耐用指物品能用很久，不能說物品忍用。"
+        }
+      ],
+      "component": [
+        {
+          "char": "寸",
+          "why": "耐右側含寸",
+          "difference": "寸是一個字，也可作部件；耐左側另有而。"
+        }
+      ]
+    },
+    "tip": "看清左而右寸的位置；聯想不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

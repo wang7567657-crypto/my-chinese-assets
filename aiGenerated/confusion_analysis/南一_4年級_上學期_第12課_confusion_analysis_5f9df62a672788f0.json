@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_5f9df62a672788f0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "離",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "離",
+    "groups": {
+      "shape": [
+        {
+          "char": "籬",
+          "why": "都含離",
+          "difference": "籬在離上面加竹字頭。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "梨",
+          "why": "同音：離開的離與梨子都讀ㄌㄧˊ。",
+          "difference": "離指分開或距離；梨是水果。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "別",
+          "why": "都有分開的意思",
+          "difference": "離開指走開；告別指道別，兩個詞語用法不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "隹",
+          "why": "離右側含隹",
+          "difference": "隹要寫在右側，不是左側；離還包含完整左部。"
+        }
+      ]
+    },
+    "tip": "离在此作字形部件辨識，不拿它代替繁體離；聯想不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

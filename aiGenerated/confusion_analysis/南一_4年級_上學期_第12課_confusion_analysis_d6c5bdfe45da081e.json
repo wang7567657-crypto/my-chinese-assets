@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_d6c5bdfe45da081e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "宜",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "宜",
+    "groups": {
+      "shape": [
+        {
+          "char": "宣",
+          "why": "上面同是宀",
+          "difference": "宜下且；宣下亘，中間是日並有上下橫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "移",
+          "why": "單字同音：宜與移都可讀ㄧˊ；本課便宜的宜讀輕聲˙ㄧ。",
+          "difference": "宜可表示適合；移是移動。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "適",
+          "why": "合宜與適合意思相關",
+          "difference": "宜與適可用於適當的意思；本課便宜是價格低，不能解成移動或搬家。"
+        }
+      ],
+      "component": [
+        {
+          "char": "且",
+          "why": "宜下方含且",
+          "difference": "且可獨立使用；宜在上方加宀。"
+        }
+      ]
+    },
+    "tip": "本課便宜指價錢低，宜隨詞讀輕聲；字形聯想不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_72e9990d9d749f10",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "漸",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "漸",
+    "groups": {
+      "shape": [
+        {
+          "char": "慚",
+          "why": "右側同是斬",
+          "difference": "漸左氵，慚左忄。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "見",
+          "why": "同音：漸漸的漸與看見的見都讀ㄐㄧㄢˋ。",
+          "difference": "漸表示逐步；見表示看到。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "慢",
+          "why": "都有不是一下完成的感覺",
+          "difference": "漸漸強調逐步變化；慢強調速度，如慢走，不能完全互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "斬",
+          "why": "漸右側是斬",
+          "difference": "斬可獨立成字；漸加氵後意思不同，不把部件意思硬套整字。"
+        }
+      ]
+    },
+    "tip": "漸漸表示逐步改變；右斬的車與斤都要保留。聯想不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

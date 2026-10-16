@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_b71a9c91fce48020",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "隱",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "隱",
+    "groups": {
+      "shape": [
+        {
+          "char": "穩",
+          "why": "右部相同",
+          "difference": "隱左阝，穩左禾。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "引",
+          "why": "同音：隱約的隱與引導的引都讀ㄧㄣˇ。",
+          "difference": "隱可表示藏起來；引表示帶領或拉動。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "藏",
+          "why": "都可表示不顯露",
+          "difference": "隱約表示不明顯，不能把隱約寫成藏約；收藏的藏則常指收存。"
+        }
+      ],
+      "component": [
+        {
+          "char": "心",
+          "why": "隱右下方含心",
+          "difference": "心在隱的右下，不是左側忄；其他部件也須寫完整。"
+        }
+      ]
+    },
+    "tip": "左阝是阜字旁；右下為心，上面的細節依標準字形觀察，心上方的中長橫須向右出頭，不可草率寫成急。聯想不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

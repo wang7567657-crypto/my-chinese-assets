@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_b5db9d10874c31bd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "茫",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "茫",
+    "groups": {
+      "shape": [
+        {
+          "char": "芒",
+          "why": "都有艹與亡",
+          "difference": "茫比芒多了下部左側的氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "忙",
+          "why": "同音：茫茫與忙碌的首字都讀ㄇㄤˊ。",
+          "difference": "茫形容模糊遼闊；忙表示事情多。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "模",
+          "why": "都可和看不清楚相關",
+          "difference": "白茫茫重在一大片景色；模糊重在不清楚，詞語不能直接互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "亡",
+          "why": "茫下部右邊含亡",
+          "difference": "亡可獨立成字；茫另有艹與氵。"
+        }
+      ]
+    },
+    "tip": "茫的下部是氵與亡，不是忙；聯想不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

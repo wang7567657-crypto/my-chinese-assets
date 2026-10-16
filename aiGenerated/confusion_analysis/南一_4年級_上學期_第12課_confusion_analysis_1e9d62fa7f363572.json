@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_1e9d62fa7f363572",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "祈",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "祈",
+    "groups": {
+      "shape": [
+        {
+          "char": "祉",
+          "why": "左側同是礻",
+          "difference": "祈右斤，祉右止。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "期",
+          "why": "同音：祈求的祈與日期的期都讀ㄑㄧˊ。",
+          "difference": "祈是請求、祝禱；期可指時間。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "求",
+          "why": "祈求中兩字都有請求的意思",
+          "difference": "祈常用於祝禱或敬語；求使用範圍較廣，如求救。"
+        }
+      ],
+      "component": [
+        {
+          "char": "斤",
+          "why": "祈右方是斤",
+          "difference": "斤可表示重量單位；祈在左邊添礻，整字不表示重量。"
+        }
+      ]
+    },
+    "tip": "左側是示字旁，不是衣字旁；聯想不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

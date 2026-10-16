@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_055f80790a0c5245",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "繼",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "繼",
+    "groups": {
+      "shape": [
+        {
+          "char": "斷",
+          "why": "左、右能找到相近的幺形組合",
+          "difference": "繼左糹；斷右斤，兩字幺形所在的整體部位不同，不能整塊對調。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "記",
+          "why": "同音：繼續的繼與記錄的記都讀ㄐㄧˋ。",
+          "difference": "繼表示接續；記表示記住或記載。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "續",
+          "why": "繼續一詞兩字都有接下去之意",
+          "difference": "繼可用在繼承；續可用在續杯，不能任意換成對方。"
+        }
+      ],
+      "component": [
+        {
+          "char": "糸",
+          "why": "繼左側是糸的偏旁形糹",
+          "difference": "糸獨立字形與糹略有不同；繼還要加上右部。"
+        }
+      ]
+    },
+    "tip": "右部上下各有兩個幺形，外側折筆也要保留；不可只寫成幾。聯想不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

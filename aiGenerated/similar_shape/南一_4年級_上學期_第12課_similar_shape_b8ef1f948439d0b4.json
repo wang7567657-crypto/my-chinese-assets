@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第12課_similar_shape_b8ef1f948439d0b4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "宜",
+    "lessonChars": [
+      "貧",
+      "妻",
+      "茫",
+      "算",
+      "祈",
+      "繼",
+      "續",
+      "宜",
+      "耐",
+      "離",
+      "傍",
+      "隱",
+      "託",
+      "納",
+      "漸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "宜",
+    "similarChars": [
+      {
+        "char": "宣",
+        "similarity": "上方同為宀，下方都有方框與橫畫。",
+        "difference": "宜下面是且，宣下面是亘。"
+      },
+      {
+        "char": "宙",
+        "similarity": "上方同為宀，下方都有方框。",
+        "difference": "宜下面是且；宙下面是由，有穿出上橫的中豎。"
+      },
+      {
+        "char": "誼",
+        "similarity": "完整保留宜字部件。",
+        "difference": "誼在宜左邊加言字旁。"
+      },
+      {
+        "char": "姐",
+        "similarity": "局部相似：同有且。",
+        "difference": "姐左邊是女，沒有宜上方的宀。"
+      },
+      {
+        "char": "祖",
+        "similarity": "局部相似：同有且。",
+        "difference": "祖左邊是示字旁，沒有宜上方的宀。"
+      },
+      {
+        "char": "租",
+        "similarity": "局部相似：同有且。",
+        "difference": "租左邊是禾，沒有宜上方的宀。"
+      }
+    ],
+    "teachingTip": "先比較宀下面是且、亘還是由，再找其他包含宜或且的字；姐、祖、租僅為局部部件相似。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}
