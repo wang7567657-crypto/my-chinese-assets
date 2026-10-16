@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_5d11b87e961aa0f6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "孵",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "孵",
+    "groups": {
+      "shape": [
+        {
+          "char": "浮",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "孵左卵，浮左氵，右邊同為孚。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "夫",
+          "why": "孵化的孵與夫人的夫同音ㄈㄨ。",
+          "difference": "依詞語分辨：「孵化」要用「孵」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "育",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "孵指卵中的幼體發育出來；育可指養育、教育，範圍更廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "孚",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "孵右邊是孚，上爫下子，不要只寫成子。"
+        }
+      ]
+    },
+    "tip": "用「孵化」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第6課_similar_shape_1f5016914888ff80",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "愈",
+    "lessonChars": [
+      "綻",
+      "暇",
+      "螃",
+      "乎",
+      "召",
+      "溝",
+      "緩",
+      "蹲",
+      "腹",
+      "浸",
+      "陸",
+      "殖",
+      "愈",
+      "悲",
+      "顯",
+      "阻",
+      "孵",
+      "歷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "愈",
+    "similarChars": [
+      {
+        "char": "癒",
+        "similarity": "癒裡面完整保留上俞下心的愈。",
+        "difference": "愈沒有外框；癒在外側加疒，包住愈的上方與左側。"
+      },
+      {
+        "char": "愉",
+        "similarity": "兩字都含俞，也都含心的部件。",
+        "difference": "愈是上俞下心；愉把心改為忄放到俞左側。"
+      },
+      {
+        "char": "俞",
+        "similarity": "愈的上半就是俞，人字頭與右下刂都相同。",
+        "difference": "俞單獨成字；愈在俞下方多一個心。"
+      },
+      {
+        "char": "喻",
+        "similarity": "兩字都含俞，俞內部的月與刂相同。",
+        "difference": "愈在俞下方加心；喻在俞左邊加口。"
+      },
+      {
+        "char": "諭",
+        "similarity": "兩字都含完整的俞。",
+        "difference": "愈是上俞下心；諭是左言右俞，沒有下方的心。"
+      },
+      {
+        "char": "逾",
+        "similarity": "兩字都含俞，上方都可見人字頭。",
+        "difference": "愈在俞下方加心；逾以辶從左下方承托俞，沒有心。"
+      }
+    ],
+    "teachingTip": "用位置辨認：愈的心在下方，愉的忄在左邊，癒則在愈外加疒。俞右下是刂，不要漏掉豎鉤。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

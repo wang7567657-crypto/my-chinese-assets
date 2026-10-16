@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_4b8288df31fbb115",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "顯",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "顯",
+    "groups": {
+      "shape": [
+        {
+          "char": "濕",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "濕是溼的異體字，僅供辨形。顯的左側字形是濕的右側；顯另有右頁，濕另有左氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "險",
+          "why": "明顯的顯與危險的險同音ㄒㄧㄢˇ。",
+          "difference": "依詞語分辨：「明顯」要用「顯」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "明",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "明顯指容易看出；明也可指光亮，如明亮。"
+        }
+      ],
+      "component": [
+        {
+          "char": "頁",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "顯右邊是頁，頁的上方與下方兩筆不可省略。"
+        }
+      ]
+    },
+    "tip": "用「明顯」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

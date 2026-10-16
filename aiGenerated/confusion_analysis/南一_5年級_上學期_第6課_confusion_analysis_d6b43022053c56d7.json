@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_d6b43022053c56d7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "螃",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "螃",
+    "groups": {
+      "shape": [
+        {
+          "char": "榜",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "螃左虫，榜左木，右邊同為旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "旁",
+          "why": "螃蟹的螃與旁邊的旁同音ㄆㄤˊ。",
+          "difference": "依詞語分辨：「螃蟹」要用「螃」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蟹",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "螃蟹是雙字詞；蟹可單獨指這種動物，螃通常和蟹合用。"
+        }
+      ],
+      "component": [
+        {
+          "char": "旁",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "螃保留右邊完整的旁，左邊加虫。"
+        }
+      ]
+    },
+    "tip": "用「螃蟹」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

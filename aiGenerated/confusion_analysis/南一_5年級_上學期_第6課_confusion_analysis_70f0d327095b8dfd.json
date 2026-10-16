@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_70f0d327095b8dfd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "腹",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "腹",
+    "groups": {
+      "shape": [
+        {
+          "char": "複",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "腹左月形肉旁，複左衤，右邊同為复。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "復",
+          "why": "腹部的腹與恢復的復同音ㄈㄨˋ。",
+          "difference": "依詞語分辨：「腹部」要用「腹」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "肚",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "腹和肚都可指肚子；腹部較常用於正式描述。"
+        }
+      ],
+      "component": [
+        {
+          "char": "覆",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "腹右為复；覆上方有覀，下部含復，不是把月換成覀。"
+        }
+      ]
+    },
+    "tip": "用「腹部」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

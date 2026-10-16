@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第6課_similar_shape_013523c571b10596",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "蹲",
+    "lessonChars": [
+      "綻",
+      "暇",
+      "螃",
+      "乎",
+      "召",
+      "溝",
+      "緩",
+      "蹲",
+      "腹",
+      "浸",
+      "陸",
+      "殖",
+      "愈",
+      "悲",
+      "顯",
+      "阻",
+      "孵",
+      "歷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "蹲",
+    "similarChars": [
+      {
+        "char": "尊",
+        "similarity": "蹲右半就是完整的尊，上酋下寸。",
+        "difference": "尊單獨成字；蹲在左邊加足字旁。"
+      },
+      {
+        "char": "遵",
+        "similarity": "兩字都含完整的尊，最下方都有寸。",
+        "difference": "蹲左邊是足字旁；遵以辶從左下方承托尊。"
+      },
+      {
+        "char": "樽",
+        "similarity": "兩字右半都是尊，右側筆畫相同。",
+        "difference": "蹲左邊是足字旁；樽左邊是木。「樽」較少見。"
+      },
+      {
+        "char": "鱒",
+        "similarity": "兩字右半同為尊，上下層次相同。",
+        "difference": "蹲左邊是足字旁；鱒左邊是魚。"
+      },
+      {
+        "char": "撙",
+        "similarity": "右半完整保留尊，上酋下寸的結構相同。",
+        "difference": "蹲左邊是足字旁；撙左邊是扌。「撙」較少見。"
+      },
+      {
+        "char": "蹬",
+        "similarity": "左邊都是足字旁，右半皆上下堆疊並有方框形。",
+        "difference": "蹲右邊是尊，上酋下寸；蹬右邊是登，上癶下豆。"
+      }
+    ],
+    "teachingTip": "蹲先看左邊足字旁，再看右下的寸。與蹬比較時，把尊和登整組圈出，確認蹲右下有寸的點與鉤。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

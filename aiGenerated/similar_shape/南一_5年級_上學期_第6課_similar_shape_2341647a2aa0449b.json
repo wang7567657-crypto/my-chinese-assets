@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第6課_similar_shape_2341647a2aa0449b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "悲",
+    "lessonChars": [
+      "綻",
+      "暇",
+      "螃",
+      "乎",
+      "召",
+      "溝",
+      "緩",
+      "蹲",
+      "腹",
+      "浸",
+      "陸",
+      "殖",
+      "愈",
+      "悲",
+      "顯",
+      "阻",
+      "孵",
+      "歷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "悲",
+    "similarChars": [
+      {
+        "char": "輩",
+        "similarity": "兩字上半都是非，左右成對的短橫排列相同。",
+        "difference": "悲下方是心；輩下方是車。"
+      },
+      {
+        "char": "斐",
+        "similarity": "上半同為非，整體都是上下結構。",
+        "difference": "悲下方是心；斐下方是文。"
+      },
+      {
+        "char": "翡",
+        "similarity": "兩字上方都是非。",
+        "difference": "悲下方是心；翡下方是羽，由左右兩組筆形組成。"
+      },
+      {
+        "char": "菲",
+        "similarity": "兩字都含完整的非。",
+        "difference": "悲把心放在非下方；菲把艹放在非上方。"
+      },
+      {
+        "char": "扉",
+        "similarity": "兩字都含非，非的兩列短橫相同。",
+        "difference": "悲下方是心；扉以戶從上方與左側罩住非，沒有心。"
+      },
+      {
+        "char": "匪",
+        "similarity": "兩字都保留非的成對短橫。",
+        "difference": "悲是非下加心；匪在非外加向右開口的匚，沒有心。"
+      }
+    ],
+    "teachingTip": "先認出固定的非，再用手指指出新增部件的位置。悲的下方只有心，與輩的車、斐的文、翡的羽逐一對照。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

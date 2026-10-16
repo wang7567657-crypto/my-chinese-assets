@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_dd18b8f27730b15c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "召",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "召",
+    "groups": {
+      "shape": [
+        {
+          "char": "招",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "招左邊有扌，召沒有扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "照",
+          "why": "召集的召與照明的照同音ㄓㄠˋ。",
+          "difference": "依詞語分辨：「召集」要用「召」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "叫",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "叫可指大聲發出聲音；召較常指召集、召見。"
+        }
+      ],
+      "component": [
+        {
+          "char": "招",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "招右邊是完整的召，左邊增加扌。"
+        }
+      ]
+    },
+    "tip": "用「召集」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

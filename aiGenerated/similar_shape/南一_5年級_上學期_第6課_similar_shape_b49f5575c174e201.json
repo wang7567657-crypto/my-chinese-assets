@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第6課_similar_shape_b49f5575c174e201",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "阻",
+    "lessonChars": [
+      "綻",
+      "暇",
+      "螃",
+      "乎",
+      "召",
+      "溝",
+      "緩",
+      "蹲",
+      "腹",
+      "浸",
+      "陸",
+      "殖",
+      "愈",
+      "悲",
+      "顯",
+      "阻",
+      "孵",
+      "歷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "阻",
+    "similarChars": [
+      {
+        "char": "祖",
+        "similarity": "兩字右半都是且，框內橫畫相同。",
+        "difference": "阻左邊是阝；祖左邊是礻。"
+      },
+      {
+        "char": "組",
+        "similarity": "右半同為且，最下方都有較長的橫筆。",
+        "difference": "阻左邊是阝；組左邊是糹。"
+      },
+      {
+        "char": "姐",
+        "similarity": "兩字右半完整保留且。",
+        "difference": "阻左邊是阝；姐左邊是女。"
+      },
+      {
+        "char": "租",
+        "similarity": "右半同為且，皆左右排列。",
+        "difference": "阻左邊是阝；租左邊是禾。"
+      },
+      {
+        "char": "沮",
+        "similarity": "兩字右邊都是且，右側輪廓相同。",
+        "difference": "阻左邊是阝；沮左邊是氵。"
+      },
+      {
+        "char": "狙",
+        "similarity": "右半都是且，框內都有兩道短橫。",
+        "difference": "阻左邊是阝；狙左邊是犭。"
+      }
+    ],
+    "teachingTip": "把右半且遮住，只辨認左邊的阝，再露出且檢查框內兩道短橫。阻的左阝不要寫成礻或犭。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

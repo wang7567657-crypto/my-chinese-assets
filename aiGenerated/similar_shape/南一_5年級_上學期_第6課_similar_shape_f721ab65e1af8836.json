@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第6課_similar_shape_f721ab65e1af8836",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "螃",
+    "lessonChars": [
+      "綻",
+      "暇",
+      "螃",
+      "乎",
+      "召",
+      "溝",
+      "緩",
+      "蹲",
+      "腹",
+      "浸",
+      "陸",
+      "殖",
+      "愈",
+      "悲",
+      "顯",
+      "阻",
+      "孵",
+      "歷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "螃",
+    "similarChars": [
+      {
+        "char": "膀",
+        "similarity": "右半都是「旁」，上方與下方的方完全對應。",
+        "difference": "螃左邊是虫；膀左邊是月。"
+      },
+      {
+        "char": "傍",
+        "similarity": "兩字右半同為「旁」，皆左右排列。",
+        "difference": "螃左邊是虫；傍左邊是亻。"
+      },
+      {
+        "char": "榜",
+        "similarity": "右半同為「旁」，下方都有方。",
+        "difference": "螃左邊是虫；榜左邊是木。"
+      },
+      {
+        "char": "磅",
+        "similarity": "兩字右半都是「旁」，上密下疏的輪廓相同。",
+        "difference": "螃左邊是虫；磅左邊是石。"
+      },
+      {
+        "char": "謗",
+        "similarity": "右半同為「旁」，中間都有冖形。",
+        "difference": "螃左邊是虫；謗左邊是言。"
+      },
+      {
+        "char": "蟀",
+        "similarity": "左邊同為虫，右上都可見點與橫，整體都是左窄右寬。",
+        "difference": "螃右邊是旁，下方為方；蟀右邊是率，下方為十。"
+      }
+    ],
+    "teachingTip": "先找左邊的虫，再沿右半由上往下找旁，最後確認右下是方。不要只看頂端就與蟀混淆。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_43839f11186df9e2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "綻",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "綻",
+    "groups": {
+      "shape": [
+        {
+          "char": "錠",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "糸旁與金旁不同，右邊同為定。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "站",
+          "why": "綻放的綻與車站的站同音ㄓㄢˋ。",
+          "difference": "依詞語分辨：「綻放」要用「綻」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "開",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "開的用途很廣；綻常用於綻放、破綻。"
+        }
+      ],
+      "component": [
+        {
+          "char": "定",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "綻右邊是定，左邊另有糸。"
+        }
+      ]
+    },
+    "tip": "用「綻放」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_2b2aa46ae6cb7464",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "陸",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "陸",
+    "groups": {
+      "shape": [
+        {
+          "char": "陵",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "同有左阝；陸右下是土，陵右下是夂。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "路",
+          "why": "陸地的陸與道路的路同音ㄌㄨˋ；大寫數字陸讀ㄌㄧㄡˋ。",
+          "difference": "依詞語分辨：「陸地」要用「陸」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "地",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "陸常與海相對，指陸地；地還可指地點、地面。"
+        }
+      ],
+      "component": [
+        {
+          "char": "睦",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "同含坴；陸左阝，睦左目。"
+        }
+      ]
+    },
+    "tip": "用「陸地」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}
