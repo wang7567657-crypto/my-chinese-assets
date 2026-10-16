@@ -1,0 +1,29 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第6課_memory_strategy_6b366471454c9b58",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "顯",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "顯",
+    "components": [
+      "左上日",
+      "左中兩組幺形",
+      "左下灬",
+      "右頁"
+    ],
+    "association": "把左上日想像成照亮旁邊的標記，連結明顯；左中幺形、左下灬與右頁仍維持標準字形。這是記憶聯想，不是字源。",
+    "mnemonic": "左上日，中幺形，下有灬，右頁分清。",
+    "visualPrompt": "以大字呈現標準繁體「顯」，保持全部筆畫與比例；在字旁畫與「明顯」有關的簡單情境，圖像不可取代字內筆畫。",
+    "teachingTip": "先把顯分成左、右兩組，再找左上日、左中兩組幺形及左下灬，最後確認右邊頁。這是字形觀察順序，不是書寫筆順。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

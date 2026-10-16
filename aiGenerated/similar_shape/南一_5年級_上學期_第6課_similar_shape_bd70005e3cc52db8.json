@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第6課_similar_shape_bd70005e3cc52db8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "腹",
+    "lessonChars": [
+      "綻",
+      "暇",
+      "螃",
+      "乎",
+      "召",
+      "溝",
+      "緩",
+      "蹲",
+      "腹",
+      "浸",
+      "陸",
+      "殖",
+      "愈",
+      "悲",
+      "顯",
+      "阻",
+      "孵",
+      "歷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "腹",
+    "similarChars": [
+      {
+        "char": "複",
+        "similarity": "兩字右半都是「复」，中段都有日。",
+        "difference": "腹左邊是月；複左邊是衤。"
+      },
+      {
+        "char": "復",
+        "similarity": "右半同為复，中間日與下方夂的排列相同。",
+        "difference": "腹左邊是月；復左邊是彳。"
+      },
+      {
+        "char": "蝮",
+        "similarity": "兩字右半完整保留复。",
+        "difference": "腹左邊是月；蝮左邊是虫。「蝮」較少見。"
+      },
+      {
+        "char": "愎",
+        "similarity": "右半都是复，右側上中下的輪廓相同。",
+        "difference": "腹左邊是月；愎左邊是忄。「愎」較少見。"
+      },
+      {
+        "char": "馥",
+        "similarity": "兩字右半同為复，中段都有日。",
+        "difference": "腹左邊是月；馥左邊是香，左側上禾下日。「馥」較少見。"
+      },
+      {
+        "char": "覆",
+        "similarity": "腹右半與覆的右下方都可看見复。",
+        "difference": "腹是左月右复；覆上方是覀，下方是復，復左邊另有彳。"
+      }
+    ],
+    "teachingTip": "把右半复分成上方短撇、橫，中間日，下方夂，逐層對照。腹左邊是月，不要添成複的衤或復的彳。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

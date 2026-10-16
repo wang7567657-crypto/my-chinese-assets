@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_209f9df3033159c3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "緩",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "緩",
+    "groups": {
+      "shape": [
+        {
+          "char": "暖",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "緩左糸，暖左日，右邊同為爰。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "換",
+          "why": "緩ㄏㄨㄢˇ與換ㄏㄨㄢˋ近音，聲調不同。",
+          "difference": "依詞語分辨：「緩慢」要用「緩」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "慢",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "緩和慢都可指速度不快；緩還用於緩和、緩衝。"
+        }
+      ],
+      "component": [
+        {
+          "char": "援",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "同含爰；緩左糸，援左扌。"
+        }
+      ]
+    },
+    "tip": "用「緩慢」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

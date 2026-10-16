@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第6課_similar_shape_d83092fa626f2a3a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "殖",
+    "lessonChars": [
+      "綻",
+      "暇",
+      "螃",
+      "乎",
+      "召",
+      "溝",
+      "緩",
+      "蹲",
+      "腹",
+      "浸",
+      "陸",
+      "殖",
+      "愈",
+      "悲",
+      "顯",
+      "阻",
+      "孵",
+      "歷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "殖",
+    "similarChars": [
+      {
+        "char": "植",
+        "similarity": "兩字右半都是直，十與目形的排列相同。",
+        "difference": "殖左邊是歹；植左邊是木。"
+      },
+      {
+        "char": "值",
+        "similarity": "右半同為直，右側整體輪廓相同。",
+        "difference": "殖左邊是歹；值左邊是亻。"
+      },
+      {
+        "char": "置",
+        "similarity": "兩字都含完整的直。",
+        "difference": "殖是左歹右直；置是上罒下直。"
+      },
+      {
+        "char": "埴",
+        "similarity": "右半完整保留直，皆左右排列。",
+        "difference": "殖左邊是歹；埴左邊是土。「埴」較少見。"
+      },
+      {
+        "char": "稙",
+        "similarity": "兩字右半都是直，上方都有十。",
+        "difference": "殖左邊是歹；稙左邊是禾。「稙」較少見。"
+      },
+      {
+        "char": "直",
+        "similarity": "殖右半與直的字形相同。",
+        "difference": "直單獨成字；殖在左邊加歹。"
+      }
+    ],
+    "teachingTip": "先固定右半直，再逐一比較左側的歹、木、亻、土與禾。殖左邊歹的斜筆與點要保留，不要把它寫成木。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

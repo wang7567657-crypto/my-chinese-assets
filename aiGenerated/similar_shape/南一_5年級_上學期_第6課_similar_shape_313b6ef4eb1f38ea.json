@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第6課_similar_shape_313b6ef4eb1f38ea",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "召",
+    "lessonChars": [
+      "綻",
+      "暇",
+      "螃",
+      "乎",
+      "召",
+      "溝",
+      "緩",
+      "蹲",
+      "腹",
+      "浸",
+      "陸",
+      "殖",
+      "愈",
+      "悲",
+      "顯",
+      "阻",
+      "孵",
+      "歷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "召",
+    "similarChars": [
+      {
+        "char": "招",
+        "similarity": "招右半完整保留上刀下口的「召」。",
+        "difference": "召單獨成字；招在左邊加扌。"
+      },
+      {
+        "char": "昭",
+        "similarity": "昭右半與召相同，上刀下口的位置不變。",
+        "difference": "召單獨成字；昭在左邊加日。"
+      },
+      {
+        "char": "沼",
+        "similarity": "兩字都可看見完整的「召」。",
+        "difference": "召單獨成字；沼在左邊加氵。"
+      },
+      {
+        "char": "紹",
+        "similarity": "紹右半是召，刀與口上下相接的輪廓相同。",
+        "difference": "召單獨成字；紹在左邊加糹。"
+      },
+      {
+        "char": "詔",
+        "similarity": "詔右半完整保留召的字形。",
+        "difference": "召單獨成字；詔在左邊加言。"
+      },
+      {
+        "char": "迢",
+        "similarity": "兩字都含上刀下口的「召」。",
+        "difference": "召沒有外圍部件；迢另有辶從左下方承托召。"
+      }
+    ],
+    "teachingTip": "先把召分成上刀、下口，再檢查外側是否另加部件。刀的撇不向上出頭，與力的撇不同。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

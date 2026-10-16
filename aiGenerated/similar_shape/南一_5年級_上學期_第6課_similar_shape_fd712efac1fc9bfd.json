@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第6課_similar_shape_fd712efac1fc9bfd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "綻",
+    "lessonChars": [
+      "綻",
+      "暇",
+      "螃",
+      "乎",
+      "召",
+      "溝",
+      "緩",
+      "蹲",
+      "腹",
+      "浸",
+      "陸",
+      "殖",
+      "愈",
+      "悲",
+      "顯",
+      "阻",
+      "孵",
+      "歷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "綻",
+    "similarChars": [
+      {
+        "char": "錠",
+        "similarity": "兩字右半都是「定」，皆為左右結構。",
+        "difference": "綻左邊是糹；錠左邊是金。"
+      },
+      {
+        "char": "淀",
+        "similarity": "右半同為「定」，右上都有宀。",
+        "difference": "綻左邊是糹；淀左邊是氵。「淀」較少見。"
+      },
+      {
+        "char": "碇",
+        "similarity": "右半完整保留「定」，下部輪廓相同。",
+        "difference": "綻左邊是糹；碇左邊是石。「碇」較少見。"
+      },
+      {
+        "char": "靛",
+        "similarity": "兩字右邊都是「定」，整體左右並排。",
+        "difference": "綻左邊是糹；靛左邊是青。"
+      },
+      {
+        "char": "腚",
+        "similarity": "右半都是「定」，宀與下面的筆形相同。",
+        "difference": "綻左邊是糹；腚左邊是月。「腚」較少見。"
+      },
+      {
+        "char": "綜",
+        "similarity": "左邊同為糹，右邊上方同有宀。",
+        "difference": "綻右邊是定；綜右邊是宗，宀下面是示。"
+      }
+    ],
+    "teachingTip": "先遮住右半，辨認左邊的糹；再看右邊完整的定。與綜比較時，特別指出宀下方的形狀不同。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

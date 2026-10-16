@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_0fe4f4de37c5e609",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "浸",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "浸",
+    "groups": {
+      "shape": [
+        {
+          "char": "侵",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "浸左氵，侵左亻，右側筆形相同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "進",
+          "why": "浸泡的浸與前進的進同音ㄐㄧㄣˋ。",
+          "difference": "依詞語分辨：「浸泡」要用「浸」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "泡",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "浸強調放入液體中；泡也可指液體中的氣泡，需看詞語。"
+        }
+      ],
+      "component": [
+        {
+          "char": "寢",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "寢右下含浸的右側筆形，但另有宀、爿，不能只換偏旁。"
+        }
+      ]
+    },
+    "tip": "用「浸泡」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_a134820f9b601dd3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "溝",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "溝",
+    "groups": {
+      "shape": [
+        {
+          "char": "構",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "溝左氵，構左木，右邊同為冓。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "勾",
+          "why": "水溝的溝與勾選的勾同音ㄍㄡ。",
+          "difference": "依詞語分辨：「水溝」要用「溝」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "渠",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "溝可指地面長形凹槽；渠常指引水的人工水道。"
+        }
+      ],
+      "component": [
+        {
+          "char": "購",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "同含冓；溝配氵，購配貝。"
+        }
+      ]
+    },
+    "tip": "用「水溝」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

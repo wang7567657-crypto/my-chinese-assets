@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_0e9ade958e4c4b91",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "阻",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "阻",
+    "groups": {
+      "shape": [
+        {
+          "char": "祖",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "阻左阝，祖左礻，右邊同為且。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "組",
+          "why": "阻擋的阻與組合的組同音ㄗㄨˇ。",
+          "difference": "依詞語分辨：「阻擋」要用「阻」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "擋",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "阻常用於阻止、阻礙；擋可指用物體遮住，如擋雨。"
+        }
+      ],
+      "component": [
+        {
+          "char": "且",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "阻右邊完整保留且，左側加阝。"
+        }
+      ]
+    },
+    "tip": "用「阻擋」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

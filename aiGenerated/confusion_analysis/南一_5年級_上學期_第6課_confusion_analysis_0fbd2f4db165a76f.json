@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_0fbd2f4db165a76f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "暇",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "暇",
+    "groups": {
+      "shape": [
+        {
+          "char": "假",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "暇左日，假左亻，右邊同為叚。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "霞",
+          "why": "空暇的暇與晚霞的霞同音ㄒㄧㄚˊ。",
+          "difference": "依詞語分辨：「空暇」要用「暇」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "閒",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "暇指可利用的空閒時間；閒還可形容事情少，如清閒。"
+        }
+      ],
+      "component": [
+        {
+          "char": "瑕",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "同含叚，暇左日，瑕左玉旁王。"
+        }
+      ]
+    },
+    "tip": "用「空暇」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_8ce81e7b43e610b6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蹲",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蹲",
+    "groups": {
+      "shape": [
+        {
+          "char": "遵",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "蹲左足旁；遵是辶承托尊。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "敦",
+          "why": "蹲下的蹲與敦厚的敦同音ㄉㄨㄣ。",
+          "difference": "依詞語分辨：「蹲下」要用「蹲」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "坐",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "蹲時彎曲雙腿支撐身體；坐通常讓臀部接觸座位。"
+        }
+      ],
+      "component": [
+        {
+          "char": "尊",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "蹲右邊是尊，左邊再加足旁。"
+        }
+      ]
+    },
+    "tip": "用「蹲下」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

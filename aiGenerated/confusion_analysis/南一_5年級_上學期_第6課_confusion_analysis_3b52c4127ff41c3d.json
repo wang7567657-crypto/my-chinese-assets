@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_3b52c4127ff41c3d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "悲",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "悲",
+    "groups": {
+      "shape": [
+        {
+          "char": "斐",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "同有上方非；悲下心，斐下文。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "杯",
+          "why": "悲傷的悲與杯子的杯同音ㄅㄟ。",
+          "difference": "依詞語分辨：「悲傷」要用「悲」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "哀",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "悲和哀都與傷心有關；哀也可用於哀求，不能一律替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "非",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "悲由上方非和下方心組合，非本身沒有心。"
+        }
+      ]
+    },
+    "tip": "用「悲傷」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

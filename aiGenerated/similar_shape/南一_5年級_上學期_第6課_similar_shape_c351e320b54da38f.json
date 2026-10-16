@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第6課_similar_shape_c351e320b54da38f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "暇",
+    "lessonChars": [
+      "綻",
+      "暇",
+      "螃",
+      "乎",
+      "召",
+      "溝",
+      "緩",
+      "蹲",
+      "腹",
+      "浸",
+      "陸",
+      "殖",
+      "愈",
+      "悲",
+      "顯",
+      "阻",
+      "孵",
+      "歷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "暇",
+    "similarChars": [
+      {
+        "char": "瑕",
+        "similarity": "右半同為「叚」，橫折與右下又的排列相同。",
+        "difference": "暇左邊是日；瑕左邊是玉字旁。"
+      },
+      {
+        "char": "假",
+        "similarity": "兩字右半都是「叚」，皆左右排列。",
+        "difference": "暇左邊是日；假左邊是亻。"
+      },
+      {
+        "char": "蝦",
+        "similarity": "右半完整保留「叚」，字的右側輪廓相同。",
+        "difference": "暇左邊是日；蝦左邊是虫。"
+      },
+      {
+        "char": "遐",
+        "similarity": "兩字都含完整的「叚」。",
+        "difference": "暇把日放在叚左邊；遐以辶從左下方承托叚。「遐」較少見。"
+      },
+      {
+        "char": "霞",
+        "similarity": "兩字都含「叚」，叚的右下方都有又。",
+        "difference": "暇是左日右叚；霞是上雨下叚。"
+      },
+      {
+        "char": "葭",
+        "similarity": "兩字都有「叚」，叚內部的折筆相同。",
+        "difference": "暇在叚左邊加日；葭在叚上方加艹。「葭」較少見。"
+      }
+    ],
+    "teachingTip": "把右半叚圈成一組，只替換周圍部件。暇的日位於左側，不要移到上方，也不要把日寫成目。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

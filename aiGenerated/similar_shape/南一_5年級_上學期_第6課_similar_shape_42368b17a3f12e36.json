@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第6課_similar_shape_42368b17a3f12e36",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "歷",
+    "lessonChars": [
+      "綻",
+      "暇",
+      "螃",
+      "乎",
+      "召",
+      "溝",
+      "緩",
+      "蹲",
+      "腹",
+      "浸",
+      "陸",
+      "殖",
+      "愈",
+      "悲",
+      "顯",
+      "阻",
+      "孵",
+      "歷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "歷",
+    "similarChars": [
+      {
+        "char": "曆",
+        "similarity": "兩字上方都是厤：厂內並排兩個禾。",
+        "difference": "歷最下方是止；曆最下方是日。"
+      },
+      {
+        "char": "瀝",
+        "similarity": "瀝右半完整保留歷，最下方同為止。",
+        "difference": "歷單獨成字；瀝在左邊加氵。"
+      },
+      {
+        "char": "靂",
+        "similarity": "兩字都含完整的歷，內部都有兩個禾及下方止。",
+        "difference": "歷沒有上方部件；靂在歷上方加雨。"
+      },
+      {
+        "char": "癧",
+        "similarity": "癧內部保留完整的歷。",
+        "difference": "歷沒有外框；癧外側另加疒，包住上方與左側。「癧」較少見。"
+      },
+      {
+        "char": "櫪",
+        "similarity": "櫪右半就是歷，右下同為止。",
+        "difference": "歷單獨成字；櫪在左邊加木。「櫪」較少見。"
+      },
+      {
+        "char": "壢",
+        "similarity": "壢右半完整保留歷。",
+        "difference": "歷單獨成字；壢在左邊加土。"
+      }
+    ],
+    "teachingTip": "先看最下方：歷是止，曆是日。再看厂內並排的兩個禾，兩者頂端都有撇，不要省成兩個木。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

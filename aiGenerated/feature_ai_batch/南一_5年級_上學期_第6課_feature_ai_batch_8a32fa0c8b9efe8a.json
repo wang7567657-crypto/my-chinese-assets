@@ -1,0 +1,67 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_5年級_上學期_第6課_feature_ai_batch_8a32fa0c8b9efe8a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "context": {
+      "publisher": "南一",
+      "grade": "5年級",
+      "semester": "上學期",
+      "lesson": "第6課"
+    },
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 18,
+    "batchCharacters": [
+      "綻",
+      "暇",
+      "螃",
+      "乎",
+      "召",
+      "溝",
+      "緩",
+      "蹲",
+      "腹",
+      "浸",
+      "陸",
+      "殖",
+      "愈",
+      "悲",
+      "顯",
+      "阻",
+      "孵",
+      "歷"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 18,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_fd712efac1fc9bfd.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_c351e320b54da38f.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_f721ab65e1af8836.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_cc01aa2de7cc0750.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_313b6ef4eb1f38ea.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_bcab577a30fcace4.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_9efab0ba2138c94c.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_013523c571b10596.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_bd70005e3cc52db8.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_e657efed96d83c84.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_697399157d60ae80.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_d83092fa626f2a3a.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_1f5016914888ff80.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_2341647a2aa0449b.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_4e66e6fdb05201c7.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_b49f5575c174e201.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_a7af6ce8d1b674e5.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第6課_similar_shape_42368b17a3f12e36.json"
+    ]
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

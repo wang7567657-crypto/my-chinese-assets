@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_c8eed2ce4c3f59f1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "乎",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "乎",
+    "groups": {
+      "shape": [
+        {
+          "char": "手",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "兩字中央都有下伸的帶鉤筆畫；乎中間有分開的點、撇，手的中上部則有兩道橫畫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "呼",
+          "why": "在乎的乎單字音ㄏㄨ，與呼吸的呼同音；詞中輕重依實際語流。",
+          "difference": "依詞語分辨：「在乎」要用「乎」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "嗎",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "文言乎可放在問句末；現代嗎也可表示疑問，但不能把在乎寫成在嗎。"
+        }
+      ],
+      "component": [
+        {
+          "char": "呼",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "呼是口加乎，乎本身沒有口旁。"
+        }
+      ]
+    },
+    "tip": "用「在乎」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

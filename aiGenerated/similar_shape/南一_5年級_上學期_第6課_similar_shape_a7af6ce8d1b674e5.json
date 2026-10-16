@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第6課_similar_shape_a7af6ce8d1b674e5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "孵",
+    "lessonChars": [
+      "綻",
+      "暇",
+      "螃",
+      "乎",
+      "召",
+      "溝",
+      "緩",
+      "蹲",
+      "腹",
+      "浸",
+      "陸",
+      "殖",
+      "愈",
+      "悲",
+      "顯",
+      "阻",
+      "孵",
+      "歷"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "孵",
+    "similarChars": [
+      {
+        "char": "孚",
+        "similarity": "孵右半就是孚，上爫下子。",
+        "difference": "孚單獨成字；孵在孚左邊多一個卵。"
+      },
+      {
+        "char": "浮",
+        "similarity": "兩字右半都是孚，爫與子的排列相同。",
+        "difference": "孵左邊是卵；浮左邊是氵。"
+      },
+      {
+        "char": "俘",
+        "similarity": "兩字右半同為孚，下方都有子。",
+        "difference": "孵左邊是卵；俘左邊是亻。"
+      },
+      {
+        "char": "乳",
+        "similarity": "兩字都含上爫下子的孚。",
+        "difference": "孵是左卵右孚；乳把孚放在左邊，右邊另有豎彎鉤。"
+      },
+      {
+        "char": "卵",
+        "similarity": "孵左半與卵相同，左右兩部分內各有一點。",
+        "difference": "卵單獨成字；孵在卵右邊再加孚。"
+      },
+      {
+        "char": "卯",
+        "similarity": "卯的左右分列輪廓，與孵左半的卵相近。",
+        "difference": "孵左半是卵，比卯在左右各多一點；孵右邊還有孚。"
+      }
+    ],
+    "teachingTip": "孵先分成左卵、右孚。先數卵左右各一點，再確認右邊上爫下子，避免漏點寫得像卯，或漏掉整個左半。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

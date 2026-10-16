@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_901a956e584a3c50",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "殖",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "殖",
+    "groups": {
+      "shape": [
+        {
+          "char": "植",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "殖左歹，植左木，右邊同為直。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "直",
+          "why": "繁殖的殖與直線的直同音ㄓˊ。",
+          "difference": "依詞語分辨：「繁殖」要用「殖」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "生",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "繁殖指生物產生後代；生的用法更廣，如生活、學生。"
+        }
+      ],
+      "component": [
+        {
+          "char": "值",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "同含直；殖左歹，值左亻。"
+        }
+      ]
+    },
+    "tip": "用「繁殖」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}

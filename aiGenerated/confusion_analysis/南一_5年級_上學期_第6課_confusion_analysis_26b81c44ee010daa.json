@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第6課_confusion_analysis_26b81c44ee010daa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "愈",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "愈",
+    "groups": {
+      "shape": [
+        {
+          "char": "癒",
+          "why": "字形相近，容易看錯部件。",
+          "difference": "癒比愈多外面的疒，癒內仍為愈。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "遇",
+          "why": "愈來愈的愈與遇見的遇同音ㄩˋ。",
+          "difference": "依詞語分辨：「愈來愈」要用「愈」，不可只靠發音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "更",
+          "why": "部分語意接近，需依詞語選字。",
+          "difference": "愈和更都可表程度增加；愈常用在愈來愈、愈……愈……。"
+        }
+      ],
+      "component": [
+        {
+          "char": "俞",
+          "why": "含共同部件或相近局部，需核對位置。",
+          "difference": "愈在俞的下方加心。"
+        }
+      ]
+    },
+    "tip": "用「愈來愈」確認用字，再比較形近字的部件位置。此處使用通用詞語，不推定課文語境。"
+  },
+  "createdAt": "2026-10-16T16:54:08.292608Z"
+}
