@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第8課_similar_shape_fbb2334fcdff11ac",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "復",
+    "lessonChars": [
+      "坦",
+      "性",
+      "恐",
+      "怖",
+      "組",
+      "占",
+      "播",
+      "控",
+      "制",
+      "傷",
+      "攻",
+      "擊",
+      "權",
+      "脅",
+      "復",
+      "武",
+      "撼",
+      "懼"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "復",
+    "similarChars": [
+      {
+        "char": "複",
+        "similarity": "右邊都是复",
+        "difference": "復左彳；複左衤。"
+      },
+      {
+        "char": "腹",
+        "similarity": "右邊都是复",
+        "difference": "復左彳；腹左月形。"
+      },
+      {
+        "char": "覆",
+        "similarity": "下方含復",
+        "difference": "覆在復上加覀。"
+      },
+      {
+        "char": "履",
+        "similarity": "都含復的筆形",
+        "difference": "復為左右結構；履在復外加尸，形成左上包圍結構。"
+      },
+      {
+        "char": "徹",
+        "similarity": "左邊都是彳，右下都有撇捺",
+        "difference": "復右复，下方是夊；徹右有育及攵。復右下夊的末捺起筆須出頭。"
+      },
+      {
+        "char": "愎",
+        "similarity": "右邊都是复",
+        "difference": "復左彳；愎左忄。愎較少見，見於剛愎自用。"
+      }
+    ],
+    "teachingTip": "先圈出共用部件，再比較部件位置與不同筆畫；少見字、異體與簡體只作辨形觀察，書寫仍使用課本標準正體字。"
+  },
+  "createdAt": "2026-10-16T13:35:14.993991Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第8課_similar_shape_58b97f339e4e1548",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "制",
+    "lessonChars": [
+      "坦",
+      "性",
+      "恐",
+      "怖",
+      "組",
+      "占",
+      "播",
+      "控",
+      "制",
+      "傷",
+      "攻",
+      "擊",
+      "權",
+      "脅",
+      "復",
+      "武",
+      "撼",
+      "懼"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "制",
+    "similarChars": [
+      {
+        "char": "製",
+        "similarity": "上方含完整的制",
+        "difference": "制下加衣成製。"
+      },
+      {
+        "char": "刺",
+        "similarity": "右邊都是刂，左邊有中豎與框形",
+        "difference": "制左下是巾形；刺左是朿，上方有木的橫，左右有撇捺。"
+      },
+      {
+        "char": "刹",
+        "similarity": "右邊都是刂",
+        "difference": "制左部有巾形；刹左為杀形，比標準字剎的左部少一點。刹是剎的異體寫法，本課不採用。"
+      },
+      {
+        "char": "剎",
+        "similarity": "右邊都是刂",
+        "difference": "制左下為巾形；剎左為殺的左部，下段作朮形，末筆有一點，不能只寫成木。"
+      },
+      {
+        "char": "利",
+        "similarity": "右邊都是刂，左邊有撇及中豎",
+        "difference": "制左下有巾形；利左是禾。"
+      },
+      {
+        "char": "刷",
+        "similarity": "右邊都是刂，左邊都有巾形",
+        "difference": "制左上有撇橫；刷左上為尸。"
+      }
+    ],
+    "teachingTip": "先圈出共用部件，再比較部件位置與不同筆畫；少見字、異體與簡體只作辨形觀察，書寫仍使用課本標準正體字。"
+  },
+  "createdAt": "2026-10-16T13:35:14.993991Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第8課_similar_shape_c92f573bfcbb02c7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "恐",
+    "lessonChars": [
+      "坦",
+      "性",
+      "恐",
+      "怖",
+      "組",
+      "占",
+      "播",
+      "控",
+      "制",
+      "傷",
+      "攻",
+      "擊",
+      "權",
+      "脅",
+      "復",
+      "武",
+      "撼",
+      "懼"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "恐",
+    "similarChars": [
+      {
+        "char": "恭",
+        "similarity": "都是上部較寬、下方帶心的筆形",
+        "difference": "恐上方為工與右側三畫形，下方是心；恭上共、下方為心的變形㣺。"
+      },
+      {
+        "char": "恕",
+        "similarity": "下方都是心",
+        "difference": "恐上方為工與右側三畫形；恕上如。"
+      },
+      {
+        "char": "怒",
+        "similarity": "下方都是心",
+        "difference": "恐上方為工與右側三畫形；怒上奴。"
+      },
+      {
+        "char": "鞏",
+        "similarity": "上方都是工與右側三畫形的組合",
+        "difference": "恐下心；鞏下革，整體更長。"
+      },
+      {
+        "char": "筑",
+        "similarity": "都有工與右側三畫形組成的共同筆形",
+        "difference": "共同筆形在恐的心上方，在筑的竹字頭下方。筑是較少見的古代樂器名稱字，不等同建築的築。"
+      },
+      {
+        "char": "忐",
+        "similarity": "下方都是心，上部都有橫豎筆形",
+        "difference": "恐上方有工與右側部件；忐上方只有上。忐常與忑連用。"
+      }
+    ],
+    "teachingTip": "先圈出共用部件，再比較部件位置與不同筆畫；少見字、異體與簡體只作辨形觀察，書寫仍使用課本標準正體字。"
+  },
+  "createdAt": "2026-10-16T13:35:14.993991Z"
+}

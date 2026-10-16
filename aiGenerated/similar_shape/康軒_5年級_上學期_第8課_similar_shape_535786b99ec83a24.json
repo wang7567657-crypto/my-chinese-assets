@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第8課_similar_shape_535786b99ec83a24",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "撼",
+    "lessonChars": [
+      "坦",
+      "性",
+      "恐",
+      "怖",
+      "組",
+      "占",
+      "播",
+      "控",
+      "制",
+      "傷",
+      "攻",
+      "擊",
+      "權",
+      "脅",
+      "復",
+      "武",
+      "撼",
+      "懼"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "撼",
+    "similarChars": [
+      {
+        "char": "憾",
+        "similarity": "右邊都是感",
+        "difference": "撼左扌；憾左忄。"
+      },
+      {
+        "char": "感",
+        "similarity": "都含感",
+        "difference": "撼在感左加扌。"
+      },
+      {
+        "char": "喊",
+        "similarity": "右邊都含咸",
+        "difference": "撼左扌，右下還有心；喊左口，右為咸。"
+      },
+      {
+        "char": "減",
+        "similarity": "右邊都含咸",
+        "difference": "撼左扌，右下有心；減左氵，右為咸。"
+      },
+      {
+        "char": "緘",
+        "similarity": "右邊都含咸",
+        "difference": "撼左扌，右下有心；緘左糹，右為咸。緘較少見。"
+      },
+      {
+        "char": "撿",
+        "similarity": "同為扌旁，右邊筆畫密集且下部向兩側分開",
+        "difference": "撼右感，下方是心；撿右僉，下方有兩個人形。"
+      }
+    ],
+    "teachingTip": "先圈出共用部件，再比較部件位置與不同筆畫；少見字、異體與簡體只作辨形觀察，書寫仍使用課本標準正體字。"
+  },
+  "createdAt": "2026-10-16T13:35:14.993991Z"
+}

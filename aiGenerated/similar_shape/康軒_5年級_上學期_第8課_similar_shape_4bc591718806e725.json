@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第8課_similar_shape_4bc591718806e725",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "武",
+    "lessonChars": [
+      "坦",
+      "性",
+      "恐",
+      "怖",
+      "組",
+      "占",
+      "播",
+      "控",
+      "制",
+      "傷",
+      "攻",
+      "擊",
+      "權",
+      "脅",
+      "復",
+      "武",
+      "撼",
+      "懼"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "武",
+    "similarChars": [
+      {
+        "char": "賦",
+        "similarity": "右邊都是武",
+        "difference": "賦在武左加貝。"
+      },
+      {
+        "char": "鵡",
+        "similarity": "左邊是武",
+        "difference": "鵡在武右加鳥。"
+      },
+      {
+        "char": "斌",
+        "similarity": "右邊是武",
+        "difference": "斌在武左加文。斌常見於人名。"
+      },
+      {
+        "char": "珷",
+        "similarity": "右邊是武",
+        "difference": "珷在武左加王字旁。珷是碔的少見異體字，只作辨形觀察。"
+      },
+      {
+        "char": "碔",
+        "similarity": "右邊是武",
+        "difference": "碔在武左加石。碔是罕用字。"
+      },
+      {
+        "char": "娬",
+        "similarity": "右邊是武",
+        "difference": "娬在武左加女。娬是嫵的少見異體字，只作辨形觀察。"
+      }
+    ],
+    "teachingTip": "先圈出共用部件，再比較部件位置與不同筆畫；少見字、異體與簡體只作辨形觀察，書寫仍使用課本標準正體字。"
+  },
+  "createdAt": "2026-10-16T13:35:14.993991Z"
+}

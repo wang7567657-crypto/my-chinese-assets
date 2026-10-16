@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第8課_confusion_analysis_772e49aae2648944",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "坦",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "坦",
+    "groups": {
+      "shape": [
+        {
+          "char": "但",
+          "why": "兩字右邊都是「旦」，容易只看右半部就認錯。",
+          "difference": "「坦」左邊是「土」；「但」左邊是「亻」。國名「巴基斯坦」寫坦，「但是」寫但。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "毯",
+          "why": "同音：坦、毯都讀ㄊㄢˇ。",
+          "difference": "「坦」用在巴基斯坦、平坦；「毯」指鋪蓋用的織物，如地毯。國名不能只憑讀音選字。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "旦",
+          "why": "「坦」右邊含有完整的「旦」，容易漏寫左邊。",
+          "difference": "「坦」是左土、右旦；「旦」可以單獨成字，如元旦。巴基斯坦的坦不能少了土字旁。"
+        }
+      ]
+    },
+    "tip": "「巴基斯坦」的坦讀ㄊㄢˇ，左土右旦；這裡是國名音譯用字，不用「平坦」的意思解釋國名。"
+  },
+  "createdAt": "2026-10-16T13:35:14.993991Z"
+}

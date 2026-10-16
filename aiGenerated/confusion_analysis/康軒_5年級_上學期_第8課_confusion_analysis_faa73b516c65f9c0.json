@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第8課_confusion_analysis_faa73b516c65f9c0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "性",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "性",
+    "groups": {
+      "shape": [
+        {
+          "char": "姓",
+          "why": "兩字右邊都是「生」，左邊偏旁容易混淆。",
+          "difference": "「性」左邊是「忄」；「姓」左邊是「女」。女性寫性，姓名寫姓，不能因「女性」有女字就選女字旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "幸",
+          "why": "同音：性、幸都讀ㄒㄧㄥˋ。",
+          "difference": "「性」用在女性、性別；「幸」用在幸福、幸運。聽到相同讀音，要看詞語的意思。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "星",
+          "why": "兩字都含有「生」，但排列方式不同。",
+          "difference": "「性」是左忄、右生；「星」是上日、下生。女性的性不能寫成星星的星。"
+        }
+      ]
+    },
+    "tip": "「女性」的性是忄加生，讀ㄒㄧㄥˋ；「姓名」的姓才是女加生。"
+  },
+  "createdAt": "2026-10-16T13:35:14.993991Z"
+}
