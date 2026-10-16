@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_e0ad39ab74eb18bb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "框",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "框",
+    "groups": {
+      "shape": [
+        {
+          "char": "眶",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "框左木，眶左目；右邊同為匡。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "筐",
+          "why": "框、筐同音ㄎㄨㄤ；框架與竹筐不同。",
+          "difference": "依語詞辨別：框、筐同音ㄎㄨㄤ；框架與竹筐不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "架",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "框重在周圍的邊界；架重在支撐物體的構造。"
+        }
+      ],
+      "component": [
+        {
+          "char": "匡",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "框比匡多左邊木；匡內是王形，不是玉。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「框」字語詞，再比較「眶」：框左木，眶左目；右邊同為匡。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

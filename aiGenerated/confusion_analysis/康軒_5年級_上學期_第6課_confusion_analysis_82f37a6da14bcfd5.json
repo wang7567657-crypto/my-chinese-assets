@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_82f37a6da14bcfd5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "責",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "責",
+    "groups": {
+      "shape": [
+        {
+          "char": "貴",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "責上方是龶形，貴上方是中下一橫；下方同為貝。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "則",
+          "why": "責、則同音ㄗㄜˊ；負責與規則不同。",
+          "difference": "依語詞辨別：責、則同音ㄗㄜˊ；負責與規則不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "任",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "責任指應負擔的職責；任務指交付去做的工作，不能把負責寫成負任。"
+        }
+      ],
+      "component": [
+        {
+          "char": "債",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "債右邊是責，另有左側亻。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「責」字語詞，再比較「貴」：責上方是龶形，貴上方是中下一橫；下方同為貝。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

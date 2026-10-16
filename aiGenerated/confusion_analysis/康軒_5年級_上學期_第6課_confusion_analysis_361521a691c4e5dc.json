@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_361521a691c4e5dc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "娛",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "娛",
+    "groups": {
+      "shape": [
+        {
+          "char": "誤",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "娛左女，誤左言；右邊都是吳。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "魚",
+          "why": "娛、魚同音ㄩˊ；娛樂與魚兒的意思不同。",
+          "difference": "依語詞辨別：娛、魚同音ㄩˊ；娛樂與魚兒的意思不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "樂",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "娛樂指使人快樂的活動；快樂形容愉快的心情。"
+        }
+      ],
+      "component": [
+        {
+          "char": "吳",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "娛在吳左側加女；吳可作姓氏。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「娛」字語詞，再比較「誤」：娛左女，誤左言；右邊都是吳。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

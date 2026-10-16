@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第6課_similar_shape_7cd72780dbe6e059",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "框",
+    "lessonChars": [
+      "娛",
+      "汽",
+      "哨",
+      "典",
+      "框",
+      "劇",
+      "父",
+      "責",
+      "判",
+      "鳴",
+      "穎",
+      "獲",
+      "佳",
+      "膩",
+      "效",
+      "隊",
+      "益",
+      "貌",
+      "官",
+      "增"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "框",
+    "similarChars": [
+      {
+        "char": "眶",
+        "similarity": "兩字右側同為匡。",
+        "difference": "框左旁是木，眶左旁是目；目是有兩條內橫的直框。"
+      },
+      {
+        "char": "筐",
+        "similarity": "兩字都完整包含匡。",
+        "difference": "框是左木右匡；筐是上竹下匡，部件排列不同。"
+      },
+      {
+        "char": "誆",
+        "similarity": "兩字右側同為匡。",
+        "difference": "框左旁是木，誆左旁是言；言下方有口。"
+      },
+      {
+        "char": "匡",
+        "similarity": "匡是框的完整右側部件。",
+        "difference": "框在匡左側加木；匡本身沒有木旁。"
+      },
+      {
+        "char": "恇",
+        "similarity": "兩字右側同為匡。",
+        "difference": "框左木，恇左忄；恇為較少見的字。"
+      },
+      {
+        "char": "櫃",
+        "similarity": "兩字左旁都是木，右側都有匚形外框。",
+        "difference": "框的匚內是王；櫃的匚內是貴，內部筆畫較多，不能只換讀音而混寫。"
+      }
+    ],
+    "teachingTip": "先認右側匡：外面匚、裡面王，王不要多點成玉。再比較左木、左目、左言、左忄與上竹；恇較少見，只作延伸辨形。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

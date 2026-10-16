@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_c0a30532b9d70e60",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "汽",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "汽",
+    "groups": {
+      "shape": [
+        {
+          "char": "氣",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "汽是氵加气，氣是气裡有米。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "氣",
+          "why": "汽、氣同音ㄑㄧˋ；汽船用汽，空氣用氣。",
+          "difference": "依語詞辨別：汽、氣同音ㄑㄧˋ；汽船用汽，空氣用氣。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蒸",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "汽可指水蒸氣；蒸是加熱使水變蒸氣或用蒸氣煮食。"
+        }
+      ],
+      "component": [
+        {
+          "char": "气",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "汽左側有氵；气是右側部件。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「汽」字語詞，再比較「氣」：汽是氵加气，氣是气裡有米。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

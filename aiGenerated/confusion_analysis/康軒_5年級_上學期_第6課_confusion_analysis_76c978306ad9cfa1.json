@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_76c978306ad9cfa1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "佳",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "佳",
+    "groups": {
+      "shape": [
+        {
+          "char": "住",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "佳右圭是上下兩土；住右主只有一點加王形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "家",
+          "why": "佳、家同音ㄐㄧㄚ；最佳與家庭不同。",
+          "difference": "依語詞辨別：佳、家同音ㄐㄧㄚ；最佳與家庭不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "好",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "佳與好都有美好之意；課文「最佳」也可說「最好」，但美好不寫成美佳。"
+        }
+      ],
+      "component": [
+        {
+          "char": "圭",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "佳比圭多左邊亻；圭是上下兩土。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「佳」字語詞，再比較「住」：佳右圭是上下兩土；住右主只有一點加王形。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第6課_similar_shape_bcbc37b4b8debc16",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "獲",
+    "lessonChars": [
+      "娛",
+      "汽",
+      "哨",
+      "典",
+      "框",
+      "劇",
+      "父",
+      "責",
+      "判",
+      "鳴",
+      "穎",
+      "獲",
+      "佳",
+      "膩",
+      "效",
+      "隊",
+      "益",
+      "貌",
+      "官",
+      "增"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "獲",
+    "similarChars": [
+      {
+        "char": "穫",
+        "similarity": "兩字右側同為蒦。",
+        "difference": "獲左側是犭；穫左側是禾，禾有上撇和橫。"
+      },
+      {
+        "char": "護",
+        "similarity": "兩字右側同為蒦。",
+        "difference": "獲左側是犭；護左側是言，言下方有口。"
+      },
+      {
+        "char": "鑊",
+        "similarity": "兩字右側同為蒦。",
+        "difference": "獲左側是犭；鑊左側是金。鑊為較少見的字。"
+      },
+      {
+        "char": "嚄",
+        "similarity": "兩字右側同為蒦。",
+        "difference": "獲左側是犭；嚄左側是口。嚄為較少見的字。"
+      },
+      {
+        "char": "蒦",
+        "similarity": "蒦是獲的完整右側部件，由艹、隹、又組成。",
+        "difference": "獲在蒦左側另有犭；單寫蒦沒有犭。蒦單獨使用較少見。"
+      },
+      {
+        "char": "攫",
+        "similarity": "兩字右側下部都有隹、又，上方都有並排的筆畫。",
+        "difference": "獲左犭，右上是艹；攫左扌，右上是兩個目，下方同有隹、又。"
+      }
+    ],
+    "teachingTip": "先認獲的左犭，再把右側蒦按艹、隹、又分層看。與穫、護比較只換左旁；鑊、嚄、蒦較少見，只作部件辨認延伸。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

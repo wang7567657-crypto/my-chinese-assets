@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_ce81f7a306c2fd55",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "判",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "判",
+    "groups": {
+      "shape": [
+        {
+          "char": "叛",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "判右刂，叛右反；左邊同為半。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "盼",
+          "why": "判、盼同音ㄆㄢˋ；判斷與盼望不同。",
+          "difference": "依語詞辨別：判、盼同音ㄆㄢˋ；判斷與盼望不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "斷",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "判斷是分析後做決定；斷還可指切斷，意思較多。"
+        }
+      ],
+      "component": [
+        {
+          "char": "半",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "判在半的右邊加刂。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「判」字語詞，再比較「叛」：判右刂，叛右反；左邊同為半。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

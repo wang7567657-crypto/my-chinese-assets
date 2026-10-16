@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_74ce34c1e490a2a9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "穎",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "穎",
+    "groups": {
+      "shape": [
+        {
+          "char": "頴",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "穎左下是禾；頴左下是示，頴是穎的異體字，學寫採穎。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "影",
+          "why": "穎、影同音ㄧㄥˇ；脫穎而出與影子不同。",
+          "difference": "依語詞辨別：穎、影同音ㄧㄥˇ；脫穎而出與影子不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "秀",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "穎可指聰明出眾，如聰穎；秀可指優秀，兩字搭配詞不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "頁",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "穎右邊是頁；左側另有匕、禾，不能只寫頁。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「穎」字語詞，再比較「頴」：穎左下是禾；頴左下是示，頴是穎的異體字，學寫採穎。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

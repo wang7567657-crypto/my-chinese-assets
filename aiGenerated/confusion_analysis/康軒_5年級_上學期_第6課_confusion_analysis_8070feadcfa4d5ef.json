@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_8070feadcfa4d5ef",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "獲",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "獲",
+    "groups": {
+      "shape": [
+        {
+          "char": "穫",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "獲左犭，穫左禾；右邊都是蒦。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "或",
+          "why": "獲、或同音ㄏㄨㄛˋ；獲得與或者不同。",
+          "difference": "依語詞辨別：獲、或同音ㄏㄨㄛˋ；獲得與或者不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "得",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "獲得常指取得成果或物品；得還有得到、可以等用法，並非處處可互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "蒦",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "獲右側蒦由艹、隹、又組成，左邊另有犭。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「獲」字語詞，再比較「穫」：獲左犭，穫左禾；右邊都是蒦。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

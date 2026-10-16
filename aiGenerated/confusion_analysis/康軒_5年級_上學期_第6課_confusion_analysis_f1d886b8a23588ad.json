@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_f1d886b8a23588ad",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "貌",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "貌",
+    "groups": {
+      "shape": [
+        {
+          "char": "藐",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "藐下方是貌，上面多艹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "帽",
+          "why": "貌、帽同音ㄇㄠˋ；樣貌與帽子不同。",
+          "difference": "依語詞辨別：貌、帽同音ㄇㄠˋ；樣貌與帽子不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "容",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "容貌指面容；包容的容指接納，不等於貌。"
+        }
+      ],
+      "component": [
+        {
+          "char": "白",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "貌右上有白，下方有儿，左側還有豸。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「貌」字語詞，再比較「藐」：藐下方是貌，上面多艹。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

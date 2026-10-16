@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_73f289b5cf0e6c77",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "官",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "官",
+    "groups": {
+      "shape": [
+        {
+          "char": "宮",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "官下部㠯形，兩層框的左側相接；宮下方呂形，上下口之間有撇形連接。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "關",
+          "why": "官、關同音ㄍㄨㄢ；感官與開關不同。",
+          "difference": "依語詞辨別：官、關同音ㄍㄨㄢ；感官與開關不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "職",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "官可指公職人員，也用於感官；職指職務，不能把感官換成感職。"
+        }
+      ],
+      "component": [
+        {
+          "char": "管",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "管上竹下官；官自己上面是宀。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「官」字語詞，再比較「宮」：官下部㠯形，兩層框的左側相接；宮下方呂形，上下口之間有撇形連接。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

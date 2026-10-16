@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_e454309c25ad0d72",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鳴",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鳴",
+    "groups": {
+      "shape": [
+        {
+          "char": "嗚",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "鳴右鳥，嗚右烏；烏比鳥少眼睛位置的一短橫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "明",
+          "why": "鳴、明同音ㄇㄧㄥˊ；共鳴與明亮不同。",
+          "difference": "依語詞辨別：鳴、明同音ㄇㄧㄥˊ；共鳴與明亮不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "響",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "共鳴可指產生相同感受；聲響泛指聽見的聲音。"
+        }
+      ],
+      "component": [
+        {
+          "char": "鳥",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "鳴在鳥左邊有口；鳥本身沒有左口。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「鳴」字語詞，再比較「嗚」：鳴右鳥，嗚右烏；烏比鳥少眼睛位置的一短橫。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

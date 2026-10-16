@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第6課_similar_shape_c63074ffddf8d1ca",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "官",
+    "lessonChars": [
+      "娛",
+      "汽",
+      "哨",
+      "典",
+      "框",
+      "劇",
+      "父",
+      "責",
+      "判",
+      "鳴",
+      "穎",
+      "獲",
+      "佳",
+      "膩",
+      "效",
+      "隊",
+      "益",
+      "貌",
+      "官",
+      "增"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "官",
+    "similarChars": [
+      {
+        "char": "宮",
+        "similarity": "兩字都有宀，下方都有上下兩層框形。",
+        "difference": "官下方是㠯形，兩層框的左側相接；宮下方是呂，上下口之間有撇形連接。"
+      },
+      {
+        "char": "宦",
+        "similarity": "兩字上方同為宀，下方都有折框與內部短橫。",
+        "difference": "官下方是㠯形；宦下方是臣，左側長豎與向右的兩個框格位置不同。"
+      },
+      {
+        "char": "管",
+        "similarity": "管的下方完整包含官。",
+        "difference": "管在官上方另加竹頭；官最上方只有宀。"
+      },
+      {
+        "char": "館",
+        "similarity": "館的右側完整包含官。",
+        "difference": "館在官左側另加食字旁；官本身沒有食字旁。"
+      },
+      {
+        "char": "棺",
+        "similarity": "棺的右側完整包含官。",
+        "difference": "棺在官左側另加木；官本身沒有木旁。"
+      },
+      {
+        "char": "倌",
+        "similarity": "倌的右側完整包含官。",
+        "difference": "倌在官左側另加亻；官本身沒有亻。"
+      }
+    ],
+    "teachingTip": "先看宀，再看下方的㠯形：兩層框的左側相接，不是呂。比較宮時特別找上下口之間的撇；管是在完整官字上再加竹頭。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

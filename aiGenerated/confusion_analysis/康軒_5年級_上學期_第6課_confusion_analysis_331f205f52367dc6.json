@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_331f205f52367dc6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "隊",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "隊",
+    "groups": {
+      "shape": [
+        {
+          "char": "隧",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "隊右側㒸，隧右側遂比㒸多辶。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "對",
+          "why": "隊、對同音ㄉㄨㄟˋ；團隊與對錯不同。",
+          "difference": "依語詞辨別：隊、對同音ㄉㄨㄟˋ；團隊與對錯不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "組",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "隊常指有共同任務的一群人；組可指分組的單位，詞語搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "豕",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "隊右側下部有豕形，上方另有點、撇，左側有阝。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「隊」字語詞，再比較「隧」：隊右側㒸，隧右側遂比㒸多辶。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

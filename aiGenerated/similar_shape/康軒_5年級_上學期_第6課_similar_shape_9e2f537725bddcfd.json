@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第6課_similar_shape_9e2f537725bddcfd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "增",
+    "lessonChars": [
+      "娛",
+      "汽",
+      "哨",
+      "典",
+      "框",
+      "劇",
+      "父",
+      "責",
+      "判",
+      "鳴",
+      "穎",
+      "獲",
+      "佳",
+      "膩",
+      "效",
+      "隊",
+      "益",
+      "貌",
+      "官",
+      "增"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "增",
+    "similarChars": [
+      {
+        "char": "贈",
+        "similarity": "兩字右側同為曾。",
+        "difference": "增左側是土；贈左側是貝，貝框下有撇、點。"
+      },
+      {
+        "char": "憎",
+        "similarity": "兩字右側同為曾。",
+        "difference": "增左側是土；憎左側是忄，沒有土的兩橫。"
+      },
+      {
+        "char": "僧",
+        "similarity": "兩字右側同為曾。",
+        "difference": "增左側是土；僧左側是亻，只有撇、豎兩筆。"
+      },
+      {
+        "char": "繒",
+        "similarity": "兩字右側同為曾。",
+        "difference": "增左側是土；繒左側是糹。繒為較少見的字。"
+      },
+      {
+        "char": "蹭",
+        "similarity": "兩字右側同為曾。",
+        "difference": "增左側是土；蹭左側是足字旁，上有口、下有足旁筆畫。"
+      },
+      {
+        "char": "曾",
+        "similarity": "曾是增的完整右側部件。",
+        "difference": "增在曾左邊另有土；曾本身沒有土旁。"
+      }
+    ],
+    "teachingTip": "固定右曾，只換左旁來辨字。先看增的左土，不要寫成貝、忄或亻；繒較少見，只用來觀察同一部件的組合。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

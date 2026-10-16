@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_61dcc8b8f8a5ef3b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "父",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "父",
+    "groups": {
+      "shape": [
+        {
+          "char": "交",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "交比父多最上方的點、橫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "付",
+          "why": "父親的父與付錢的付同音ㄈㄨˋ。",
+          "difference": "依語詞辨別：父親的父與付錢的付同音ㄈㄨˋ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "母",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "父親與母親指不同的親屬稱謂。"
+        }
+      ],
+      "component": [
+        {
+          "char": "爺",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "爺的上方含父，下方另有耶；父本身沒有下方耶。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「父」字語詞，再比較「交」：交比父多最上方的點、橫。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

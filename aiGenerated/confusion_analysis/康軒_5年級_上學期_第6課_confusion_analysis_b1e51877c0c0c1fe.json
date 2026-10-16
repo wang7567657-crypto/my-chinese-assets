@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_b1e51877c0c0c1fe",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "典",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "典",
+    "groups": {
+      "shape": [
+        {
+          "char": "曲",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "典有向左右伸出的底橫，橫下另有撇、點；曲沒有下方撇、點。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "點",
+          "why": "典、點同音ㄉㄧㄢˇ；經典與點心不同。",
+          "difference": "依語詞辨別：典、點同音ㄉㄧㄢˇ；經典與點心不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "範",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "經典指具代表性、值得學習的作品；典範是可供效法的榜樣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "共",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "典與共下方都有八形；上方典是冊形，共的上方較簡單。"
+        }
+      ]
+    },
+    "tip": "讀課文「經典」，再比較「曲」：典有向左右伸出的底橫，橫下另有撇、點；曲沒有下方撇、點。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

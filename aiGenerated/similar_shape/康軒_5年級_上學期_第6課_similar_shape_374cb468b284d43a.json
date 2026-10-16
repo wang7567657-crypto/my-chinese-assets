@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第6課_similar_shape_374cb468b284d43a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "鳴",
+    "lessonChars": [
+      "娛",
+      "汽",
+      "哨",
+      "典",
+      "框",
+      "劇",
+      "父",
+      "責",
+      "判",
+      "鳴",
+      "穎",
+      "獲",
+      "佳",
+      "膩",
+      "效",
+      "隊",
+      "益",
+      "貌",
+      "官",
+      "增"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "鳴",
+    "similarChars": [
+      {
+        "char": "嗚",
+        "similarity": "兩字左側都是口，右側鳥、烏只差上框內的短橫。",
+        "difference": "鳴右側是鳥，上框內有一短橫；嗚右側是烏，沒有這條短橫。"
+      },
+      {
+        "char": "鳥",
+        "similarity": "鳥是鳴的完整右側部件。",
+        "difference": "鳴在鳥左側另加口；鳥本身沒有左口。"
+      },
+      {
+        "char": "鴨",
+        "similarity": "兩字右側同為鳥，左側都有框形。",
+        "difference": "鳴左側是口；鴨左側是甲，框內有一橫，並有豎筆向下伸出。"
+      },
+      {
+        "char": "鳩",
+        "similarity": "兩字右側同為鳥。",
+        "difference": "鳴左側是口；鳩左側是九，沒有封閉的口框。"
+      },
+      {
+        "char": "鵑",
+        "similarity": "兩字右側同為鳥，左上都有口。",
+        "difference": "鳴左側只有口；鵑左側是肙，口下還有肉月形。"
+      },
+      {
+        "char": "鴉",
+        "similarity": "兩字右側同為鳥。",
+        "difference": "鳴左側是口；鴉左側是牙，有豎鉤與撇，沒有口框。"
+      }
+    ],
+    "teachingTip": "用一種顏色標左口，另一種顏色標右鳥。鳴與嗚要專看鳥上框內的一短橫，不能只看下方四點。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

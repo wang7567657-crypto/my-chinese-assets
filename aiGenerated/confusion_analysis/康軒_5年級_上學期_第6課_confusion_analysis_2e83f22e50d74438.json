@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_2e83f22e50d74438",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "哨",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "哨",
+    "groups": {
+      "shape": [
+        {
+          "char": "稍",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "哨左口，稍左禾；右側同為肖。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "少",
+          "why": "哨ㄕㄠˋ與多少的少ㄕㄠˇ近音，聲調不同。",
+          "difference": "依語詞辨別：哨ㄕㄠˋ與多少的少ㄕㄠˇ近音，聲調不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "笛",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "哨可指口哨或哨子；笛是有音孔的吹奏樂器。"
+        }
+      ],
+      "component": [
+        {
+          "char": "肖",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "哨是口加肖；肖沒有左側口。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「哨」字語詞，再比較「稍」：哨左口，稍左禾；右側同為肖。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}
