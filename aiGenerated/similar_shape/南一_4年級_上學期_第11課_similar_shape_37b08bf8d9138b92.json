@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第11課_similar_shape_37b08bf8d9138b92",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "痛",
+    "lessonChars": [
+      "婆",
+      "頰",
+      "陰",
+      "血",
+      "哀",
+      "嘗",
+      "蓆",
+      "栗",
+      "橫",
+      "蟹",
+      "缸",
+      "漆",
+      "黏",
+      "痛",
+      "拚"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "痛",
+    "similarChars": [
+      {
+        "char": "甬",
+        "similarity": "「痛」的內部就是「甬」。",
+        "difference": "「痛」外面多疒；「甬」沒有外面的病字旁。"
+      },
+      {
+        "char": "通",
+        "similarity": "都完整保留「甬」部件。",
+        "difference": "「痛」是疒包著甬；「通」是辶包著甬，左下有走之底。"
+      },
+      {
+        "char": "桶",
+        "similarity": "都含有相同的「甬」。",
+        "difference": "「痛」的甬在疒裡面；「桶」的甬在木的右邊。"
+      },
+      {
+        "char": "捅",
+        "similarity": "都含有相同的「甬」。",
+        "difference": "「痛」外面是疒；「捅」左邊是扌，兩字包圍方式不同。"
+      },
+      {
+        "char": "誦",
+        "similarity": "都含有相同的「甬」。",
+        "difference": "「痛」是疒包甬；「誦」是左言右甬。"
+      },
+      {
+        "char": "勇",
+        "similarity": "都完整保留「甬」部件。",
+        "difference": "「痛」是外疒內甬；「勇」是上甬下力，沒有病字旁。"
+      }
+    ],
+    "teachingTip": "先認內部的甬，再辨外面加什麼：疒是痛，辶是通，木是桶，扌是捅。痛左上除了广形輪廓，還有病字旁的兩個小筆畫。"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}

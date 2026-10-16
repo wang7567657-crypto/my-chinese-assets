@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第11課_confusion_analysis_5438fa5424b94d82",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "漆",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "漆",
+    "groups": {
+      "shape": [
+        {
+          "char": "膝",
+          "why": "字形有相近部位，容易看漏差異。",
+          "difference": "兩字右邊都是桼；漆左氵，膝左月。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "七",
+          "why": "讀音相同或相近，需要連同語詞辨別。",
+          "difference": "漆ㄑㄧ與數字七ㄑㄧ同音；黑漆漆是顏色描述，七是數量。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "黑",
+          "why": "意思或使用情境相關，需分清範圍。",
+          "difference": "漆可指塗料；黑漆漆形容很黑，漆單獨不等於所有用法中的黑。"
+        }
+      ],
+      "component": [
+        {
+          "char": "膝",
+          "why": "兩字共用右邊的桼，要連左旁一起辨識。",
+          "difference": "漆左邊氵，膝左邊月；右邊桼可觀察上木、中人、下水的配置。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回課文語詞判斷。漆ㄑㄧ與數字七ㄑㄧ同音；黑漆漆是顏色描述，七是數量。"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}

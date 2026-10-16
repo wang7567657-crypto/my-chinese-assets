@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第11課_confusion_analysis_9003d5e8ba202372",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "嘗",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "嘗",
+    "groups": {
+      "shape": [
+        {
+          "char": "常",
+          "why": "字形有相近部位，容易看漏差異。",
+          "difference": "兩字上半相同；嘗下面是旨，常下面是巾。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "嚐",
+          "why": "讀音相同或相近，需要連同語詞辨別。",
+          "difference": "嘗ㄔㄤˊ與嚐ㄔㄤˊ同音；嚐多口旁，課本品嘗依原文寫嘗。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "吃",
+          "why": "意思或使用情境相關，需分清範圍。",
+          "difference": "嘗著重試味道；吃可指把食物吃下去，不一定仔細辨味。"
+        }
+      ],
+      "component": [
+        {
+          "char": "旨",
+          "why": "觀察相同或容易誤認的部件及位置。",
+          "difference": "嘗的下方是旨，上匕下日；不能把旨寫成甘。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回課文語詞判斷。嘗ㄔㄤˊ與嚐ㄔㄤˊ同音；嚐多口旁，課本品嘗依原文寫嘗。"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}

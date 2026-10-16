@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第11課_confusion_analysis_9f8d8df83a2eff9c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蟹",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蟹",
+    "groups": {
+      "shape": [
+        {
+          "char": "解",
+          "why": "字形有相近部位，容易看漏差異。",
+          "difference": "蟹比解在下方多虫；上方解不可漏掉角、刀、牛的形狀。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "謝",
+          "why": "讀音相同或相近，需要連同語詞辨別。",
+          "difference": "蟹ㄒㄧㄝˋ與謝謝的謝ㄒㄧㄝˋ同音；藍蟹用蟹，道謝用謝。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蝦",
+          "why": "意思或使用情境相關，需分清範圍。",
+          "difference": "蟹有較寬的身體，蝦身較細長；兩者都是動物名，不能互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "懈",
+          "why": "兩字都有解，但排列位置及另一部件不同。",
+          "difference": "蟹是上解下虫；懈是左忄右解，不可把蟹寫成左右排列。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回課文語詞判斷。蟹ㄒㄧㄝˋ與謝謝的謝ㄒㄧㄝˋ同音；藍蟹用蟹，道謝用謝。"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}

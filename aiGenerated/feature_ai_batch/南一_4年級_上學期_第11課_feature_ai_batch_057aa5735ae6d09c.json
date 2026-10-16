@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第11課_feature_ai_batch_057aa5735ae6d09c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "婆",
+      "頰",
+      "陰",
+      "血",
+      "哀",
+      "嘗",
+      "蓆",
+      "栗",
+      "橫",
+      "蟹",
+      "缸",
+      "漆",
+      "黏",
+      "痛",
+      "拚"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_6848f8b9054a4653.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_dd66f36c7d3efece.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_bccec566cd2e0ebd.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_6aff741448b544de.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_1da020c8c52bd091.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_fc353462b3dc8e8c.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_9fbb1e423fc08c77.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_5fc10cd248f2036b.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_d96f975b66c0a3d7.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_18a4d5e1bef477ea.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_5f47e1656d7e061e.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_232e85bbe064d6f4.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_555eea9aaf1c2735.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_37b08bf8d9138b92.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第11課_similar_shape_25a7a7a73a938574.json"
+    ]
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}

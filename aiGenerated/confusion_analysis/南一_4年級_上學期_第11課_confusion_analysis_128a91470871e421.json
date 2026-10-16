@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第11課_confusion_analysis_128a91470871e421",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "頰",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "頰",
+    "groups": {
+      "shape": [
+        {
+          "char": "頸",
+          "why": "字形有相近部位，容易看漏差異。",
+          "difference": "兩字右邊都是頁；頰左邊夾，頸左邊巠。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "夾",
+          "why": "讀音相同或相近，需要連同語詞辨別。",
+          "difference": "臉頰的頰ㄐㄧㄚˊ與夾住的夾ㄐㄧㄚˊ同音；前者是臉部，後者是動作。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "臉",
+          "why": "意思或使用情境相關，需分清範圍。",
+          "difference": "頰是臉的兩側；臉是較大的整個面部範圍。"
+        }
+      ],
+      "component": [
+        {
+          "char": "狹",
+          "why": "觀察相同或容易誤認的部件及位置。",
+          "difference": "兩字都有夾；頰是左夾右頁，狹是左犭右夾。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回課文語詞判斷。臉頰的頰ㄐㄧㄚˊ與夾住的夾ㄐㄧㄚˊ同音；前者是臉部，後者是動作。"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}

@@ -1,0 +1,272 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第11課_feature_ai_batch_f2733321639eea5e",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 15,
+    "batchCharacters": [
+      "婆",
+      "頰",
+      "陰",
+      "血",
+      "哀",
+      "嘗",
+      "蓆",
+      "栗",
+      "橫",
+      "蟹",
+      "缸",
+      "漆",
+      "黏",
+      "痛",
+      "拚"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_6c77c10888f58bd3",
+        "input": {
+          "char": "婆",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_128a91470871e421",
+        "input": {
+          "char": "頰",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_5891a7fb164e584e",
+        "input": {
+          "char": "陰",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_c9ea4e860a073ffb",
+        "input": {
+          "char": "血",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_03dcba50ae9ed898",
+        "input": {
+          "char": "哀",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_9003d5e8ba202372",
+        "input": {
+          "char": "嘗",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_df02f7b858fe5bf2",
+        "input": {
+          "char": "蓆",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_007ba82b4f1fdae4",
+        "input": {
+          "char": "栗",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_a5cf8c130d1f5c33",
+        "input": {
+          "char": "橫",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_9f8d8df83a2eff9c",
+        "input": {
+          "char": "蟹",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_edc0aca562587890",
+        "input": {
+          "char": "缸",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_5438fa5424b94d82",
+        "input": {
+          "char": "漆",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_0a86ba0c74af7257",
+        "input": {
+          "char": "黏",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_0334fae2ffbbf0a0",
+        "input": {
+          "char": "痛",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第11課_confusion_analysis_d695e30244c8c242",
+        "input": {
+          "char": "拚",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00",
+  "processedAt": "2026-10-16T09:45:01.585851+00:00",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_4年級_上學期_第11課_feature_ai_batch_f2733321639eea5e",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "南一",
+      "grade": "4年級",
+      "semester": "上學期",
+      "lesson": "第11課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 15,
+      "batchCharacters": [
+        "婆",
+        "頰",
+        "陰",
+        "血",
+        "哀",
+        "嘗",
+        "蓆",
+        "栗",
+        "橫",
+        "蟹",
+        "缸",
+        "漆",
+        "黏",
+        "痛",
+        "拚"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 15,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_6c77c10888f58bd3.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_128a91470871e421.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_5891a7fb164e584e.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_c9ea4e860a073ffb.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_03dcba50ae9ed898.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_9003d5e8ba202372.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_df02f7b858fe5bf2.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_007ba82b4f1fdae4.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_a5cf8c130d1f5c33.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_9f8d8df83a2eff9c.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_edc0aca562587890.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_5438fa5424b94d82.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_0a86ba0c74af7257.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_0334fae2ffbbf0a0.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第11課_confusion_analysis_d695e30244c8c242.json"
+      ]
+    },
+    "createdAt": "2026-10-16T09:45:01.585851+00:00"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第11課_similar_shape_dd66f36c7d3efece",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "頰",
+    "lessonChars": [
+      "婆",
+      "頰",
+      "陰",
+      "血",
+      "哀",
+      "嘗",
+      "蓆",
+      "栗",
+      "橫",
+      "蟹",
+      "缸",
+      "漆",
+      "黏",
+      "痛",
+      "拚"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "頰",
+    "similarChars": [
+      {
+        "char": "夾",
+        "similarity": "「頰」的左半就是「夾」。",
+        "difference": "「頰」右邊另有頁；「夾」只有大字兩旁各夾一個人的形體。"
+      },
+      {
+        "char": "峽",
+        "similarity": "都完整保留「夾」部件。",
+        "difference": "「頰」是左夾右頁；「峽」是左山右夾，夾的位置不同。"
+      },
+      {
+        "char": "俠",
+        "similarity": "都含有中間較大的「大」、兩側較小的人所組成的「夾」。",
+        "difference": "「頰」是夾在左、頁在右；「俠」是亻在左、夾在右。"
+      },
+      {
+        "char": "挾",
+        "similarity": "都含有「夾」部件。",
+        "difference": "「頰」右邊是頁；「挾」左邊是扌，夾移到右邊。"
+      },
+      {
+        "char": "狹",
+        "similarity": "都含有「夾」部件。",
+        "difference": "「頰」為夾加頁的左右結構；「狹」為犭加夾的左右結構。"
+      },
+      {
+        "char": "莢",
+        "similarity": "都含有完整的「夾」。",
+        "difference": "「頰」是左右排列的夾、頁；「莢」是上下排列的艹、夾。"
+      }
+    ],
+    "teachingTip": "先辨認「夾」的兩個小人，再找它的位置。「頰」的夾在左，右邊一定有頁；別把夾內的小人寫成兩點。"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}

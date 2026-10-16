@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第11課_confusion_analysis_df02f7b858fe5bf2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蓆",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蓆",
+    "groups": {
+      "shape": [
+        {
+          "char": "席",
+          "why": "字形有相近部位，容易看漏差異。",
+          "difference": "蓆比席多上方艹；草蓆的蓆保留草字頭。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "習",
+          "why": "讀音相同或相近，需要連同語詞辨別。",
+          "difference": "蓆ㄒㄧˊ與學習的習ㄒㄧˊ同音；草蓆是物品，學習是活動。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "墊",
+          "why": "意思或使用情境相關，需分清範圍。",
+          "difference": "蓆常指草竹等編成的鋪具；墊的材料用途更廣，如軟墊，不能一律互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "蔗",
+          "why": "觀察相同或容易誤認的部件及位置。",
+          "difference": "兩字都有艹與广形；蓆下方席內有巾，蔗下方庶內有灬。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回課文語詞判斷。蓆ㄒㄧˊ與學習的習ㄒㄧˊ同音；草蓆是物品，學習是活動。"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}

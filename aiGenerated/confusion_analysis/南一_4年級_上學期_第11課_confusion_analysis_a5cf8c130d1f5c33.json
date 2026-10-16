@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第11課_confusion_analysis_a5cf8c130d1f5c33",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "橫",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "橫",
+    "groups": {
+      "shape": [
+        {
+          "char": "黃",
+          "why": "字形有相近部位，容易看漏差異。",
+          "difference": "橫左邊多木旁；右邊完整保留黃。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "恆",
+          "why": "讀音相同或相近，需要連同語詞辨別。",
+          "difference": "橫放的橫ㄏㄥˊ與永恆的恆ㄏㄥˊ同音；本課還橫指蠻橫，讀ㄏㄥˋ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "凶",
+          "why": "意思或使用情境相關，需分清範圍。",
+          "difference": "本課橫表示不講理、強硬；凶著重凶狠，兩者相關但意思不完全相同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "簧",
+          "why": "觀察相同或容易誤認的部件及位置。",
+          "difference": "兩字都有黃；橫是左木右黃，簧是上竹下黃。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回課文語詞判斷。橫放的橫ㄏㄥˊ與永恆的恆ㄏㄥˊ同音；本課還橫指蠻橫，讀ㄏㄥˋ。課文「比我們還橫」是蠻橫的意思，讀ㄏㄥˋ；橫放才讀ㄏㄥˊ。核對：教育部國語小字典 https://dict.mini.moe.edu.tw/SearchIndex/word_detail?wordID=D0003097"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}

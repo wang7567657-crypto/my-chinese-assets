@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第11課_confusion_analysis_0a86ba0c74af7257",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "黏",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "黏",
+    "groups": {
+      "shape": [
+        {
+          "char": "粘",
+          "why": "字形有相近部位，容易看漏差異。",
+          "difference": "黏左黍，粘左米，右邊都是占；粘有異體用法，本課依標準寫黏。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "年",
+          "why": "讀音相同或相近，需要連同語詞辨別。",
+          "difference": "黏ㄋㄧㄢˊ與年糕的年ㄋㄧㄢˊ同音；年糕會黏，兩字不能混寫。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "貼",
+          "why": "意思或使用情境相關，需分清範圍。",
+          "difference": "黏著重附著或有黏性；貼著重把東西附在表面，如貼海報，語意不完全相同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "黍",
+          "why": "觀察相同或容易誤認的部件及位置。",
+          "difference": "黏左半為黍，右半多占；黍下方的水形不能省略。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回課文語詞判斷。黏ㄋㄧㄢˊ與年糕的年ㄋㄧㄢˊ同音；年糕會黏，兩字不能混寫。讀音核對：教育部《國語辭典簡編本》 https://dict.concised.moe.edu.tw/dictView.jsp?ID=12839&la=0&powerMode=0"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}

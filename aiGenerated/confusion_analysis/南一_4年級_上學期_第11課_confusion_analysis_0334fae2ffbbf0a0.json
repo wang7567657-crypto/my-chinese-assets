@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第11課_confusion_analysis_0334fae2ffbbf0a0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "痛",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "痛",
+    "groups": {
+      "shape": [
+        {
+          "char": "通",
+          "why": "字形有相近部位，容易看漏差異。",
+          "difference": "兩字都有甬；痛用疒包住，通用辶從左下包住。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "同",
+          "why": "讀音相同或相近，需要連同語詞辨別。",
+          "difference": "痛ㄊㄨㄥˋ與相同的同ㄊㄨㄥˊ是近音，聲調不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "疼",
+          "why": "意思或使用情境相關，需分清範圍。",
+          "difference": "疼痛中的疼與痛意思接近；疼也能表示疼愛，痛不能直接代替此義。"
+        }
+      ],
+      "component": [
+        {
+          "char": "病",
+          "why": "觀察相同或容易誤認的部件及位置。",
+          "difference": "兩字外面都是疒；痛內甬，病內丙。"
+        }
+      ]
+    },
+    "tip": "先看字形，再放回課文語詞判斷。痛ㄊㄨㄥˋ與相同的同ㄊㄨㄥˊ是近音，聲調不同。"
+  },
+  "createdAt": "2026-10-16T09:45:01.585851+00:00"
+}
