@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第4課_similar_shape_ed148ceb0c689045",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "係",
+    "lessonChars": [
+      "乳",
+      "渲",
+      "臭",
+      "滲",
+      "漿",
+      "泉",
+      "產",
+      "質",
+      "囪",
+      "列",
+      "羅",
+      "耀",
+      "螢",
+      "眩",
+      "係",
+      "漲",
+      "殊",
+      "呈",
+      "貌"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "係",
+    "similarChars": [
+      {
+        "char": "系",
+        "similarity": "係右半就是系。",
+        "difference": "係左邊另有亻；系沒有。"
+      },
+      {
+        "char": "繫",
+        "similarity": "都含糸形，且下部都有小形筆畫。",
+        "difference": "係是亻加系的左右結構；繫上方有車形與殳形部件，下方是糸，屬上下結構。"
+      },
+      {
+        "char": "孫",
+        "similarity": "右側都是系。",
+        "difference": "係左邊是亻；孫左邊是子。"
+      },
+      {
+        "char": "糸",
+        "similarity": "係右側的系含糸形。",
+        "difference": "係右邊的系在糸上多一撇，左邊另有亻；糸沒有這兩部分。糸單獨使用較少見。"
+      },
+      {
+        "char": "絲",
+        "similarity": "都有糸的字形線索，整體皆左右排列。",
+        "difference": "係左邊是亻、右邊是系；絲左右都是糸的變形，沒有亻。"
+      },
+      {
+        "char": "累",
+        "similarity": "都含糸形。",
+        "difference": "係是亻加系，系上為一撇；累是田在糸上方，且沒有亻。"
+      }
+    ],
+    "teachingTip": "先認出亻，再完整讀出右側的系；與孫比較左邊，與系比較有無亻。繫、絲、累只作共同局部的比較，不能當作係的替換寫法。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

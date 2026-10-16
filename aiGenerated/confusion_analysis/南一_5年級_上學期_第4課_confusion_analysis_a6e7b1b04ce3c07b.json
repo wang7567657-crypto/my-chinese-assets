@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_a6e7b1b04ce3c07b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "眩",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "眩",
+    "groups": {
+      "shape": [
+        {
+          "char": "炫",
+          "why": "右側同為玄",
+          "difference": "眩左目，炫左火。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "炫",
+          "why": "同音：目眩的眩、炫耀的炫都讀ㄒㄩㄢˋ",
+          "difference": "目眩談視覺昏花；炫耀談誇示，固定詞不能換字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "暈",
+          "why": "眩暈都可描述不適感",
+          "difference": "眩著重眼睛昏花；暈另有暈倒等用法，不能處處互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "玄",
+          "why": "眩右為玄",
+          "difference": "眩加左側目，單寫玄不能表目眩。"
+        }
+      ]
+    },
+    "tip": "頭暈目眩的眩讀ㄒㄩㄢˋ；此為一般詞例，非假定課文詞。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_0697b8611230158c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "質",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "質",
+    "groups": {
+      "shape": [
+        {
+          "char": "貿",
+          "why": "下方都是貝",
+          "difference": "質上方兩個斤，貿上方不是兩個斤。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "直",
+          "why": "同音：品質的質、直接的直都讀ㄓˊ",
+          "difference": "品質談性質好壞，直接或筆直用直。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "量",
+          "why": "品質與數量常一起比較",
+          "difference": "質問好不好，量問多少，兩字並非同義。"
+        }
+      ],
+      "component": [
+        {
+          "char": "貝",
+          "why": "質下方是貝",
+          "difference": "質上方有兩個斤，不能寫成只含貝。"
+        }
+      ]
+    },
+    "tip": "品質依臺灣國語讀ㄆㄧㄣˇ ㄓˊ；勿套用其他詞的質音。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

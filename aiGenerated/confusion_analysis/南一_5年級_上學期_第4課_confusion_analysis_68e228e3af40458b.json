@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_68e228e3af40458b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "泉",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "泉",
+    "groups": {
+      "shape": [
+        {
+          "char": "線",
+          "why": "右半含泉",
+          "difference": "線左有糹，泉沒有。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "全",
+          "why": "同音：泉水的泉、全部的全都讀ㄑㄩㄢˊ",
+          "difference": "泉指水源，全部的全指完整。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "水",
+          "why": "泉與水有關",
+          "difference": "泉特指湧出地下水的水源或泉水；水是較廣泛的名稱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "白",
+          "why": "泉上半是白",
+          "difference": "泉白下接水；不要把白寫成日。"
+        }
+      ]
+    },
+    "tip": "從上白、下水辨字形，再用泉水組詞。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

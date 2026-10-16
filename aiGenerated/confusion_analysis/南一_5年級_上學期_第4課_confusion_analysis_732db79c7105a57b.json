@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_732db79c7105a57b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "滲",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "滲",
+    "groups": {
+      "shape": [
+        {
+          "char": "摻",
+          "why": "右側都有參",
+          "difference": "滲左氵，摻左扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "腎",
+          "why": "同音：滲水的滲、腎臟的腎都讀ㄕㄣˋ",
+          "difference": "滲是液體穿入或流出；腎指器官。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "漏",
+          "why": "都可描述液體穿過",
+          "difference": "滲常是慢慢透過細縫或材質；漏也可指從孔洞流失。"
+        }
+      ],
+      "component": [
+        {
+          "char": "參",
+          "why": "滲右側為參",
+          "difference": "參可單獨成字；滲需保留左側氵。"
+        }
+      ]
+    },
+    "tip": "用滲水與漏水比較現象，再辨氵和扌。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

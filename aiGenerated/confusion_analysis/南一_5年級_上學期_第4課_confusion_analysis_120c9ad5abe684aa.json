@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_120c9ad5abe684aa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "貌",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "貌",
+    "groups": {
+      "shape": [
+        {
+          "char": "貓",
+          "why": "左半同為豸",
+          "difference": "貌右為皃形，貓右為苗。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "帽",
+          "why": "同音：外貌的貌、帽子的帽都讀ㄇㄠˋ",
+          "difference": "外貌指外觀，帽子是穿戴物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "容",
+          "why": "容貌與外貌都談外觀",
+          "difference": "容另有容納、容易等用法，不能一律換貌。"
+        }
+      ],
+      "component": [
+        {
+          "char": "豸",
+          "why": "貌左半為豸",
+          "difference": "豸是左側部件，貌右還有皃；不能只寫左半。"
+        }
+      ]
+    },
+    "tip": "外貌右邊上白下儿，和貓的右邊苗分開記。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

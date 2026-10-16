@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_05973f4c67a40956",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "產",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "產",
+    "groups": {
+      "shape": [
+        {
+          "char": "鏟",
+          "why": "鏟右含產",
+          "difference": "鏟另有左側釒；產不含金旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鏟",
+          "why": "同音：生產的產、鏟子的鏟都讀ㄔㄢˇ",
+          "difference": "生產表示製造或生出；鏟是工具或剷除動作。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "生",
+          "why": "生產與出生都與產生有關",
+          "difference": "生範圍較廣；產品、產量的產不可一律換生。"
+        }
+      ],
+      "component": [
+        {
+          "char": "生",
+          "why": "產下方含生",
+          "difference": "產另有上方筆形，不能只寫生；標準產上部不要直接改寫成文。"
+        }
+      ]
+    },
+    "tip": "生產、鏟子分別造句，記得鏟有金旁。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

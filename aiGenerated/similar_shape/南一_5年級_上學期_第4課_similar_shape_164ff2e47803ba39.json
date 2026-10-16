@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第4課_similar_shape_164ff2e47803ba39",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "螢",
+    "lessonChars": [
+      "乳",
+      "渲",
+      "臭",
+      "滲",
+      "漿",
+      "泉",
+      "產",
+      "質",
+      "囪",
+      "列",
+      "羅",
+      "耀",
+      "螢",
+      "眩",
+      "係",
+      "漲",
+      "殊",
+      "呈",
+      "貌"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "螢",
+    "similarChars": [
+      {
+        "char": "營",
+        "similarity": "上方都有兩個火形及其下的冖。",
+        "difference": "螢最下面是虫；營最下面是呂。"
+      },
+      {
+        "char": "熒",
+        "similarity": "上方都有兩個火形及其下的冖。",
+        "difference": "螢最下面是虫；熒最下面是火。熒較少見。"
+      },
+      {
+        "char": "瑩",
+        "similarity": "上方都有兩個火形及其下的冖。",
+        "difference": "螢最下面是虫；瑩最下面是玉，要看清右下的點。"
+      },
+      {
+        "char": "縈",
+        "similarity": "上方都有兩個火形及其下的冖。",
+        "difference": "螢最下面是虫；縈最下面是糸。縈較少見。"
+      },
+      {
+        "char": "鶯",
+        "similarity": "上方都有兩個火形及其下的冖。",
+        "difference": "螢最下面是虫；鶯最下面是鳥。"
+      },
+      {
+        "char": "勞",
+        "similarity": "上方都有兩個火形及其下的冖。",
+        "difference": "螢最下面是虫；勞最下面是力。"
+      }
+    ],
+    "teachingTip": "先將共同的上半用同色標示，再比較最下面的虫、呂、火、玉、糸、鳥、力。若用「螢火蟲」協助記住虫，只是詞語聯想，不是字源解釋。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

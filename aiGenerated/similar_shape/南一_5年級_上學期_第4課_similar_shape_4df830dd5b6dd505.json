@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第4課_similar_shape_4df830dd5b6dd505",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "呈",
+    "lessonChars": [
+      "乳",
+      "渲",
+      "臭",
+      "滲",
+      "漿",
+      "泉",
+      "產",
+      "質",
+      "囪",
+      "列",
+      "羅",
+      "耀",
+      "螢",
+      "眩",
+      "係",
+      "漲",
+      "殊",
+      "呈",
+      "貌"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "呈",
+    "similarChars": [
+      {
+        "char": "程",
+        "similarity": "右半保留完整的呈。",
+        "difference": "程左邊多禾；呈沒有。"
+      },
+      {
+        "char": "逞",
+        "similarity": "保留完整的呈形部件。",
+        "difference": "逞外側多辶；呈沒有。"
+      },
+      {
+        "char": "聖",
+        "similarity": "都有口，且下方都有𡈼形。",
+        "difference": "呈上方只有口；聖上方是耳與口，兩者上部寬度和組成都不同。"
+      },
+      {
+        "char": "廷",
+        "similarity": "都含𡈼形。",
+        "difference": "呈是口在𡈼上方；廷是廴配上𡈼，沒有口。"
+      },
+      {
+        "char": "庭",
+        "similarity": "都能找到𡈼形。",
+        "difference": "呈是口在𡈼上方；庭是广內有廷，還有廴，沒有呈上方的口。"
+      },
+      {
+        "char": "挺",
+        "similarity": "都能找到𡈼形。",
+        "difference": "呈是口在𡈼上方；挺是扌加廷，廷內有廴，沒有呈上方的口。"
+      }
+    ],
+    "teachingTip": "以臺灣標準楷體示範：呈下面是𡈼形，底部從土形觀察，不直接等同王或壬。先練程、逞中完整的呈，再比較聖、廷的共同下部；𡈼只作辨形標記，不要求另背罕用字。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

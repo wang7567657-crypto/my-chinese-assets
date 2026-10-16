@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第4課_similar_shape_1125b0508a2aebc9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "質",
+    "lessonChars": [
+      "乳",
+      "渲",
+      "臭",
+      "滲",
+      "漿",
+      "泉",
+      "產",
+      "質",
+      "囪",
+      "列",
+      "羅",
+      "耀",
+      "螢",
+      "眩",
+      "係",
+      "漲",
+      "殊",
+      "呈",
+      "貌"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "質",
+    "similarChars": [
+      {
+        "char": "賢",
+        "similarity": "下半都是貝。",
+        "difference": "質上半是兩個斤；賢上半左邊是臣、右邊是又。"
+      },
+      {
+        "char": "貨",
+        "similarity": "下半都是貝。",
+        "difference": "質上半是兩個斤；貨上半是化。"
+      },
+      {
+        "char": "資",
+        "similarity": "下半都是貝。",
+        "difference": "質上半是兩個斤；資上半是次。"
+      },
+      {
+        "char": "貫",
+        "similarity": "下半都是貝。",
+        "difference": "質上半是兩個斤；貫上半是毌，要注意框形及中間貫穿的豎筆。"
+      },
+      {
+        "char": "賃",
+        "similarity": "下半都是貝。",
+        "difference": "質上半是兩個斤；賃上半是任。"
+      },
+      {
+        "char": "貝",
+        "similarity": "質下半就是貝。",
+        "difference": "質在貝上方另有兩個斤；貝沒有。"
+      }
+    ],
+    "teachingTip": "辨認重點放在貝上面：質須有兩個斤。把下半共同的貝遮住，比較上面的兩斤、化、次、毌、任；同部件不表示整字意思相同。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

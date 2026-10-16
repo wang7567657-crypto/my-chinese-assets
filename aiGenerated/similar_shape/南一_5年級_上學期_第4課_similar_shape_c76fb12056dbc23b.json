@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第4課_similar_shape_c76fb12056dbc23b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "貌",
+    "lessonChars": [
+      "乳",
+      "渲",
+      "臭",
+      "滲",
+      "漿",
+      "泉",
+      "產",
+      "質",
+      "囪",
+      "列",
+      "羅",
+      "耀",
+      "螢",
+      "眩",
+      "係",
+      "漲",
+      "殊",
+      "呈",
+      "貌"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "貌",
+    "similarChars": [
+      {
+        "char": "貓",
+        "similarity": "左半都是豸。",
+        "difference": "貌右半是皃形，即白下接儿；貓右半是苗。"
+      },
+      {
+        "char": "貂",
+        "similarity": "左半都是豸。",
+        "difference": "貌右半是皃形，即白下接儿；貂右半是召。"
+      },
+      {
+        "char": "豹",
+        "similarity": "左半都是豸。",
+        "difference": "貌右半是皃形，即白下接儿；豹右半是勺。"
+      },
+      {
+        "char": "貉",
+        "similarity": "左半都是豸。",
+        "difference": "貌右半是皃形，即白下接儿；貉右半是各。貉較少見。"
+      },
+      {
+        "char": "藐",
+        "similarity": "藐的下半保留完整的貌。",
+        "difference": "藐在貌上方多艹；貌沒有艹。"
+      },
+      {
+        "char": "邈",
+        "similarity": "邈保留完整的貌形部件。",
+        "difference": "邈在貌外側多辶；貌沒有。邈較少見，可作延伸辨形。"
+      }
+    ],
+    "teachingTip": "先圈出左側豸，再觀察右側的白下接儿，不把白誤寫成臼。與貓、貂比較時只看右半；藐、邈則練習找出完整的貌。這是現代字形拆看，不是字源故事。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}
