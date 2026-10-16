@@ -1,0 +1,17 @@
+[
+  {
+    "word": "日曆",
+    "meaning": "用來記錄日期的冊子，通常一天撕一張，可以看到今天的日期和星期。",
+    "en_prompt": "A daily tear-off calendar showing a single date"
+  },
+  {
+    "word": "月曆",
+    "meaning": "以一個月為小單位的表格或冊子，可以清楚看到這一個月的所有日期。",
+    "en_prompt": "A monthly wall calendar with a grid layout"
+  },
+  {
+    "word": "農曆",
+    "meaning": "華人傳統使用的曆法，用來決定像春節、中秋節等傳統節日的日期。",
+    "en_prompt": "A traditional Chinese lunar calendar with red decorative elements"
+  }
+]
