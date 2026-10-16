@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第7課_confusion_analysis_87d3081df599aa36",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鄰",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鄰",
+    "groups": {
+      "shape": [
+        {
+          "char": "憐",
+          "why": "整字輪廓或主要部件相近。",
+          "difference": "鄰左粦右阝；憐左忄右粦。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "林",
+          "why": "鄰ㄌㄧㄣˊ、林ㄌㄧㄣˊ同音。",
+          "difference": "鄰居住在附近，森林有許多樹木。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "近",
+          "why": "意思或使用情境容易聯想到一起。",
+          "difference": "鄰表示相鄰或鄰居；近只表示距離不遠。"
+        }
+      ],
+      "component": [
+        {
+          "char": "憐",
+          "why": "比對相同部分與改變的部分。",
+          "difference": "鄰左粦右阝；憐左忄右粦。"
+        }
+      ]
+    },
+    "tip": "看字形、讀語詞、說意思三步核對。鄰左粦右阝；憐左忄右粦。"
+  },
+  "createdAt": "2026-10-16T12:31:13.298528Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第7課_confusion_analysis_01a8980c0b74bbe9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "脈",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "脈",
+    "groups": {
+      "shape": [
+        {
+          "char": "派",
+          "why": "整字輪廓或主要部件相近。",
+          "difference": "右側相同；脈左月，派左氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "麥",
+          "why": "脈絡的脈ㄇㄞˋ與麥ㄇㄞˋ同音；含情脈脈的脈另讀ㄇㄛˋ。",
+          "difference": "脈絡是線索條理，小麥是植物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "絡",
+          "why": "意思或使用情境容易聯想到一起。",
+          "difference": "脈絡指線索條理；絡也用於聯絡，不可寫成聯脈。"
+        }
+      ],
+      "component": [
+        {
+          "char": "派",
+          "why": "比對相同部分與改變的部分。",
+          "difference": "右側相同；脈左月，派左氵。"
+        }
+      ]
+    },
+    "tip": "看字形、讀語詞、說意思三步核對。右側相同；脈左月，派左氵。"
+  },
+  "createdAt": "2026-10-16T12:31:13.298528Z"
+}

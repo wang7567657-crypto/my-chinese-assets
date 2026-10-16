@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第7課_confusion_analysis_f9a088caed850a58",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "抗",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "抗",
+    "groups": {
+      "shape": [
+        {
+          "char": "杭",
+          "why": "整字輪廓或主要部件相近。",
+          "difference": "右都是亢，抗左扌，杭左木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "亢",
+          "why": "抗ㄎㄤˋ、亢ㄎㄤˋ同音。",
+          "difference": "抵抗是抵擋，高亢形容聲音高昂。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "抵",
+          "why": "意思或使用情境容易聯想到一起。",
+          "difference": "抵抗都可表示抵擋；抵也有到達，如抵達。"
+        }
+      ],
+      "component": [
+        {
+          "char": "杭",
+          "why": "比對相同部分與改變的部分。",
+          "difference": "右都是亢，抗左扌，杭左木。"
+        }
+      ]
+    },
+    "tip": "看字形、讀語詞、說意思三步核對。右都是亢，抗左扌，杭左木。"
+  },
+  "createdAt": "2026-10-16T12:31:13.298528Z"
+}

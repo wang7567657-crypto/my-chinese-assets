@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第7課_confusion_analysis_9e479f93a1c8218d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "穩",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "穩",
+    "groups": {
+      "shape": [
+        {
+          "char": "隱",
+          "why": "整字輪廓或主要部件相近。",
+          "difference": "右側相同，穩左禾，隱左阝。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "吻",
+          "why": "穩ㄨㄣˇ、吻ㄨㄣˇ同音；安穩與親吻意思不同。",
+          "difference": "安穩表示平穩，親吻是接吻的動作。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "定",
+          "why": "意思或使用情境容易聯想到一起。",
+          "difference": "穩強調不搖晃；定強調固定或不改變。"
+        }
+      ],
+      "component": [
+        {
+          "char": "隱",
+          "why": "比對相同部分與改變的部分。",
+          "difference": "右側相同，穩左禾，隱左阝。"
+        }
+      ]
+    },
+    "tip": "看字形、讀語詞、說意思三步核對。右側相同，穩左禾，隱左阝。"
+  },
+  "createdAt": "2026-10-16T12:31:13.298528Z"
+}
