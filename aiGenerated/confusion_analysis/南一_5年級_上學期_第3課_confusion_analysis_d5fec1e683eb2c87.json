@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第3課_confusion_analysis_d5fec1e683eb2c87",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "慚",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "慚",
+    "groups": {
+      "shape": [
+        {
+          "char": "漸",
+          "why": "共用斬",
+          "difference": "左忄換氵"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蠶",
+          "why": "慚愧的慚與蠶寶寶的蠶都讀ㄘㄢˊ",
+          "difference": "慚表示羞愧；蠶是昆蟲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "羞",
+          "why": "都可表示不好意思",
+          "difference": "慚常因自己的不足而羞愧；羞也可指害羞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "漸",
+          "why": "共用斬，適合比對部件位置。",
+          "difference": "左忄換氵"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀例詞並說出意思。例詞為獨立教學示例；目前課文檔與生字清單不符，不據此推定課文讀音或用法。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

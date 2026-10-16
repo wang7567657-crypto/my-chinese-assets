@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第3課_confusion_analysis_e7190d6990cf4a56",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "忌",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "忌",
+    "groups": {
+      "shape": [
+        {
+          "char": "忘",
+          "why": "下都有心",
+          "difference": "忘上亡，忌上己"
+        }
+      ],
+      "sound": [
+        {
+          "char": "記",
+          "why": "禁忌的忌、記住的記都讀ㄐㄧˋ",
+          "difference": "忌指禁戒或顧忌；記指記錄、記住。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "禁",
+          "why": "禁忌都涉及避免某事",
+          "difference": "禁可表示禁止；忌可指忌諱或顧忌。"
+        }
+      ],
+      "component": [
+        {
+          "char": "忘",
+          "why": "下都有心，適合比對部件位置。",
+          "difference": "忘上亡，忌上己"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀例詞並說出意思。例詞為獨立教學示例；目前課文檔與生字清單不符，不據此推定課文讀音或用法。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

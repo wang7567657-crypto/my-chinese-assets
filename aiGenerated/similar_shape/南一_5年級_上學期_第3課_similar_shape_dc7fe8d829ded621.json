@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第3課_similar_shape_dc7fe8d829ded621",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "愧",
+    "lessonChars": [
+      "評",
+      "性",
+      "似",
+      "卷",
+      "楚",
+      "綵",
+      "橡",
+      "塗",
+      "拼",
+      "眉",
+      "秀",
+      "妒",
+      "忌",
+      "屏",
+      "惜",
+      "慈",
+      "慚",
+      "愧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "愧",
+    "similarChars": [
+      {
+        "char": "槐",
+        "similarity": "共用鬼",
+        "difference": "左忄換木"
+      },
+      {
+        "char": "塊",
+        "similarity": "共用鬼",
+        "difference": "左忄換土"
+      },
+      {
+        "char": "瑰",
+        "similarity": "共用鬼",
+        "difference": "左忄換王"
+      },
+      {
+        "char": "魂",
+        "similarity": "都有鬼",
+        "difference": "魂左云，愧左忄"
+      },
+      {
+        "char": "魄",
+        "similarity": "共用鬼",
+        "difference": "魄左白，愧左忄"
+      },
+      {
+        "char": "鬼",
+        "similarity": "都有鬼",
+        "difference": "鬼沒有左忄"
+      }
+    ],
+    "teachingTip": "先找共同輪廓或部件，再指出位置與筆形差異；少見字僅供辨識，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

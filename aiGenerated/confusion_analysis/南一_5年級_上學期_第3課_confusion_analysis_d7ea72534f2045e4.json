@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第3課_confusion_analysis_d7ea72534f2045e4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "卷",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "卷",
+    "groups": {
+      "shape": [
+        {
+          "char": "券",
+          "why": "上半相同",
+          "difference": "卷下㔾，券下刀"
+        }
+      ],
+      "sound": [
+        {
+          "char": "倦",
+          "why": "試卷的卷、疲倦的倦都讀ㄐㄩㄢˋ",
+          "difference": "卷在試卷指紙本；倦表示疲累。此處不用卷的其他音義。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "捲",
+          "why": "都可能涉及捲曲的形象",
+          "difference": "試卷用卷；把紙捲起來通常寫捲，讀ㄐㄩㄢˇ。"
+        }
+      ],
+      "component": [
+        {
+          "char": "券",
+          "why": "上半相同，適合比對部件位置。",
+          "difference": "卷下㔾，券下刀"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀例詞並說出意思。例詞為獨立教學示例；目前課文檔與生字清單不符，不據此推定課文讀音或用法。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

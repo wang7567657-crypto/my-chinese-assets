@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第3課_memory_strategy_53d1c249daaebdd0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "塗",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "塗",
+    "components": [
+      "涂（氵與余）",
+      "土"
+    ],
+    "association": "先看上方的涂，再看下方的土；想像用帶水的顏料替泥土作品塗色，連結塗抹的動作。這是記字聯想，不是字源解釋。",
+    "mnemonic": "上面涂，下面土；塗色的塗分層記。",
+    "visualPrompt": "標準楷體『塗』保持上涂下土，上方再標示左氵右余；字旁畫用畫筆替泥土小屋塗色的手。所有插圖都放在字外。",
+    "teachingTip": "引導學生由上到下看結構：上方氵和余，下方土。不要漏寫最下面的土，也不要把余寫成佘。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

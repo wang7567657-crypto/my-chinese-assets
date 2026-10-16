@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第3課_memory_strategy_d311a34ff9b0303b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "卷",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "卷",
+    "components": [
+      "上方兩點、兩橫與撇捺的字形",
+      "㔾"
+    ],
+    "association": "將下方㔾的彎曲輪廓聯想成捲起紙張的樣子，提醒試卷也是紙張；只借輪廓記憶，不把它當作字源。",
+    "mnemonic": "上面兩點兩橫，撇捺向外展；下面㔾彎彎，試卷的卷記全。",
+    "visualPrompt": "完整呈現標準楷體『卷』，上半部與下方㔾分色；字旁畫一張標有題目的試卷和一小段捲起的紙角，圖畫不可改變字內筆畫。",
+    "teachingTip": "用『試卷』練習本字；特別觀察下方是㔾，不要寫成完整的己。提示『卷』與有扌的『捲』是不同字，不能任意互換。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

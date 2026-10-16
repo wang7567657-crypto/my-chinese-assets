@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第3課_similar_shape_ebdae9d1c8b2bcf1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "卷",
+    "lessonChars": [
+      "評",
+      "性",
+      "似",
+      "卷",
+      "楚",
+      "綵",
+      "橡",
+      "塗",
+      "拼",
+      "眉",
+      "秀",
+      "妒",
+      "忌",
+      "屏",
+      "惜",
+      "慈",
+      "慚",
+      "愧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "卷",
+    "similarChars": [
+      {
+        "char": "券",
+        "similarity": "上半相同",
+        "difference": "卷下㔾，券下刀"
+      },
+      {
+        "char": "捲",
+        "similarity": "共用卷",
+        "difference": "捲左多扌"
+      },
+      {
+        "char": "倦",
+        "similarity": "共用卷",
+        "difference": "倦左多亻"
+      },
+      {
+        "char": "圈",
+        "similarity": "共用卷",
+        "difference": "圈外多囗"
+      },
+      {
+        "char": "眷",
+        "similarity": "上半相同",
+        "difference": "眷下目，卷下㔾"
+      },
+      {
+        "char": "拳",
+        "similarity": "上半相同",
+        "difference": "拳下手，卷下㔾"
+      }
+    ],
+    "teachingTip": "先找共同輪廓或部件，再指出位置與筆形差異；少見字僅供辨識，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

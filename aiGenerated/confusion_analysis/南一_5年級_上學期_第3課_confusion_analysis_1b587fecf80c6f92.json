@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第3課_confusion_analysis_1b587fecf80c6f92",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "慈",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "慈",
+    "groups": {
+      "shape": [
+        {
+          "char": "滋",
+          "why": "都有茲",
+          "difference": "滋左氵右茲，慈茲在心上"
+        }
+      ],
+      "sound": [
+        {
+          "char": "詞",
+          "why": "慈愛的慈、詞語的詞都讀ㄘˊ",
+          "difference": "慈指仁愛；詞是語言單位。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "善",
+          "why": "慈善都與善意有關",
+          "difference": "慈著重仁愛；善可指善良或擅長。"
+        }
+      ],
+      "component": [
+        {
+          "char": "滋",
+          "why": "都有茲，適合比對部件位置。",
+          "difference": "滋左氵右茲，慈茲在心上"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀例詞並說出意思。例詞為獨立教學示例；目前課文檔與生字清單不符，不據此推定課文讀音或用法。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

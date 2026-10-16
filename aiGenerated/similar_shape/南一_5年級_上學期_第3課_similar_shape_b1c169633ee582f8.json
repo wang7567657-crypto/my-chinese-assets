@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第3課_similar_shape_b1c169633ee582f8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "性",
+    "lessonChars": [
+      "評",
+      "性",
+      "似",
+      "卷",
+      "楚",
+      "綵",
+      "橡",
+      "塗",
+      "拼",
+      "眉",
+      "秀",
+      "妒",
+      "忌",
+      "屏",
+      "惜",
+      "慈",
+      "慚",
+      "愧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "性",
+    "similarChars": [
+      {
+        "char": "姓",
+        "similarity": "共用生",
+        "difference": "左忄換女"
+      },
+      {
+        "char": "牲",
+        "similarity": "共用生",
+        "difference": "左忄換牜"
+      },
+      {
+        "char": "生",
+        "similarity": "都有生",
+        "difference": "生沒有左忄"
+      },
+      {
+        "char": "惺",
+        "similarity": "左忄右有生",
+        "difference": "惺右為星，生上多日"
+      },
+      {
+        "char": "甥",
+        "similarity": "共用生",
+        "difference": "甥的生在左、男在右，性的忄在左、生在右"
+      },
+      {
+        "char": "怔",
+        "similarity": "同為忄加簡單直線部件",
+        "difference": "怔右正，性右生；正頂橫，生頂有撇"
+      }
+    ],
+    "teachingTip": "先找共同輪廓或部件，再指出位置與筆形差異；少見字僅供辨識，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

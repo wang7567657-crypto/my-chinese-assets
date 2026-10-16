@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第3課_memory_strategy_14900d9e3bdbb166",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "拼",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "拼",
+    "components": [
+      "扌",
+      "并"
+    ],
+    "association": "左邊扌讓人想到手，字旁想像用手把拼圖片接起來，提醒拼合的意思；右邊并完整記住。這是記字聯想，不是字源解釋。",
+    "mnemonic": "提手旁，右邊并；動手拼圖片，拼字記分明。",
+    "visualPrompt": "標準楷體『拼』左扌右并分色；字旁畫兩隻手把兩片拼圖接合。拼圖片不得替換右側并的筆畫。",
+    "teachingTip": "辨認扌的三筆，再觀察右邊并的上方兩筆與下方結構；可用『拼圖』、『拼音』造詞。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

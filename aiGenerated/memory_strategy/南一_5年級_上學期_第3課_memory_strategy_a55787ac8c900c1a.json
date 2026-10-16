@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第3課_memory_strategy_a55787ac8c900c1a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "秀",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "秀",
+    "components": [
+      "禾",
+      "乃"
+    ],
+    "association": "上方禾聯想成長得好的禾苗，搭配『優秀』獎章的圖像，幫助記住秀；下方乃完整保留。這是記字聯想，不是字源解釋。",
+    "mnemonic": "禾在上，乃在下；優秀的秀記住它。",
+    "visualPrompt": "標準楷體『秀』以上禾下乃分色；字旁畫一株禾苗和一枚寫著『優秀』的獎章。圖像不能伸入字內或替代乃的筆畫。",
+    "teachingTip": "指認上方是禾，頂端的一撇不要漏寫；比較下方乃與及的字形，避免混寫。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}
