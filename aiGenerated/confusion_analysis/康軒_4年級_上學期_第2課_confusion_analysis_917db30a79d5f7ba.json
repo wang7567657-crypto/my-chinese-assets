@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第2課_confusion_analysis_917db30a79d5f7ba",
+  "input": {
+    "char": "警",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "警",
+    "groups": {
+      "shape": [
+        {
+          "char": "譬",
+          "why": "都有下方言，上半部複雜。",
+          "difference": "警上敬；譬上辟。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "景",
+          "why": "警ㄐㄧㄥˇ與風景的景ㄐㄧㄥˇ同音。",
+          "difference": "警可表示警戒或警察；景是景色。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "戒",
+          "why": "警戒與戒備都有提醒、防備危險的意思。",
+          "difference": "警也可指警察；戒也可表示戒除習慣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "言",
+          "why": "警下方是言。",
+          "difference": "警在言上多敬；言獨立成字。"
+        }
+      ]
+    },
+    "tip": "先比較字形，再讀課文中的詞語；警上敬；譬上辟。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

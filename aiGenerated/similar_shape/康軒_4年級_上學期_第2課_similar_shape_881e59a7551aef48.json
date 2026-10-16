@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_4年級_上學期_第2課_similar_shape_881e59a7551aef48",
+  "input": {
+    "targetChar": "招",
+    "lessonChars": [
+      "招",
+      "湯",
+      "拋",
+      "糧",
+      "姐",
+      "爭",
+      "警",
+      "偷",
+      "則",
+      "繩",
+      "依",
+      "捨",
+      "束",
+      "暫",
+      "幸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "招",
+    "similarChars": [
+      {
+        "char": "沼",
+        "similarity": "右邊都是「召」，都有上「刀」、下「口」。",
+        "difference": "招的左邊是扌；沼的左邊是氵。"
+      },
+      {
+        "char": "昭",
+        "similarity": "右邊同樣是「召」，整體都是左右結構。",
+        "difference": "招左邊是扌；昭左邊是日。"
+      },
+      {
+        "char": "召",
+        "similarity": "都有「刀」在上、「口」在下的部件。",
+        "difference": "召只有這個上下部件；招在召的左邊再加扌。"
+      },
+      {
+        "char": "拐",
+        "similarity": "左邊都是扌，右邊都由刀形和口形上下排列。",
+        "difference": "招右邊是刀在上、口在下；拐右邊是口在上、刀在下，次序相反。"
+      },
+      {
+        "char": "抬",
+        "similarity": "左邊都是扌，右下都有口。",
+        "difference": "招的口上是刀；抬的口上是厶。"
+      },
+      {
+        "char": "拓",
+        "similarity": "左邊都是扌，右下都有口，輪廓接近。",
+        "difference": "招右邊是召，上面寫刀；拓右邊是石，上面寫橫、撇。"
+      }
+    ],
+    "teachingTip": "先圈出左邊扌，再看右邊「刀在上、口在下」。用招、沼、昭比較左旁，用招、拐比較上下位置。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

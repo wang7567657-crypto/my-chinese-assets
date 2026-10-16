@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第2課_confusion_analysis_0cde4af84c525b35",
+  "input": {
+    "char": "則",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "則",
+    "groups": {
+      "shape": [
+        {
+          "char": "側",
+          "why": "都有則的形狀。",
+          "difference": "側多左亻；則沒有。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "責",
+          "why": "則ㄗㄜˊ與責任的責ㄗㄜˊ同音。",
+          "difference": "則可指規則或表示轉折、承接；責可表示責任。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "規",
+          "why": "規則中的兩字都和準則有關。",
+          "difference": "規可指規定或規劃；則可作條文量詞，如一則消息。"
+        }
+      ],
+      "component": [
+        {
+          "char": "貝",
+          "why": "則左邊為貝。",
+          "difference": "則右另有刂；貝下有兩筆分開的腳。"
+        }
+      ]
+    },
+    "tip": "先比較字形，再讀課文中的詞語；側多左亻；則沒有。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

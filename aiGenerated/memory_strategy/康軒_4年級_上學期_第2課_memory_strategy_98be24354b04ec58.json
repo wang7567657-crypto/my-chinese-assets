@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_4年級_上學期_第2課_memory_strategy_98be24354b04ec58",
+  "input": {
+    "char": "姐",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "姐",
+    "components": [
+      "女",
+      "且"
+    ],
+    "association": "姐姐坐在字旁和我一起看報。這是記字聯想，不是字源說明。",
+    "mnemonic": "女字在左，且在右，姐姐陪我讀故事。",
+    "visualPrompt": "保留標準正體「姐」完整字形，姐姐坐在字旁和我一起看報。插圖放在字旁，不以圖代替或遮住筆畫。",
+    "teachingTip": "先觀察「女、且」的位置，再遮住範字回想；最後放回課文詞語中讀一次。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

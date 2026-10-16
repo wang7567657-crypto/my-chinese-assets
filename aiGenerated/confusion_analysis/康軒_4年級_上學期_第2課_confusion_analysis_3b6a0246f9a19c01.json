@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第2課_confusion_analysis_3b6a0246f9a19c01",
+  "input": {
+    "char": "捨",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "捨",
+    "groups": {
+      "shape": [
+        {
+          "char": "拾",
+          "why": "都有扌，右側上方像人、下方有口。",
+          "difference": "捨右邊的舍，在人字形屋頂與口之間有干形；拾右邊的合，在屋頂與口之間只有一橫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "社",
+          "why": "不捨的捨ㄕㄜˇ與社會的社ㄕㄜˋ近音，聲調不同。",
+          "difference": "捨是放棄、離開；社可指團體或社會。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "棄",
+          "why": "都可有放棄之意。",
+          "difference": "捨也可表施予；棄常指丟棄或不用。"
+        }
+      ],
+      "component": [
+        {
+          "char": "舍",
+          "why": "捨右邊是舍。",
+          "difference": "捨有左扌；宿舍的舍沒有扌，讀ㄕㄜˋ。"
+        }
+      ]
+    },
+    "tip": "比較右部舍與合：舍中間有干形，包含橫豎交叉；合在屋頂與口之間只有一橫。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

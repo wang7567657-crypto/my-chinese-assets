@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_4年級_上學期_第2課_feature_ai_batch_df06dc8105f6f745",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 15,
+    "batchCharacters": [
+      "招",
+      "湯",
+      "拋",
+      "糧",
+      "姐",
+      "爭",
+      "警",
+      "偷",
+      "則",
+      "繩",
+      "依",
+      "捨",
+      "束",
+      "暫",
+      "幸"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_f3e88b9c6c7944c6.json",
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_8de8662924b31488.json",
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_746cfe52bef8c0e1.json",
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_938c867160b899e2.json",
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_3d50828a7dd8e860.json",
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_57910f55779011a6.json",
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_917db30a79d5f7ba.json",
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_6e1ecb82c977939c.json",
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_0cde4af84c525b35.json",
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_5835728b95913e82.json",
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_dd2d26da135ecd0b.json",
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_3b6a0246f9a19c01.json",
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_7b772d84edf7bf9b.json",
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_607189fcee2e6639.json",
+      "aiGenerated/confusion_analysis/康軒_4年級_上學期_第2課_confusion_analysis_7234ab0f3ab94349.json"
+    ]
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

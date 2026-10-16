@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第2課_confusion_analysis_7234ab0f3ab94349",
+  "input": {
+    "char": "幸",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "幸",
+    "groups": {
+      "shape": [
+        {
+          "char": "辛",
+          "why": "中央豎與多條橫畫相似。",
+          "difference": "幸上方是土，辛上方由點起筆；下方兩橫中，幸的末橫較長，辛的上橫較長。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "姓",
+          "why": "幸ㄒㄧㄥˋ與姓名的姓ㄒㄧㄥˋ同音。",
+          "difference": "幸可表示幸福或幸運；姓是家族名稱。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "福",
+          "why": "幸福兩字都能表達美好生活。",
+          "difference": "幸還可表示僥倖、幸好；福可指福氣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "土",
+          "why": "幸上端可觀察到土形。",
+          "difference": "幸在土形下還有中間兩點和干形；土本身只有三筆。"
+        }
+      ]
+    },
+    "tip": "先比較上方：幸是土，辛由點起筆；再比較下方兩橫：幸的末橫較長，辛的上橫較長。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}
