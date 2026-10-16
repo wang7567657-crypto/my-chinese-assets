@@ -1,0 +1,75 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_4年級_上學期_第1課_component_split_62a7e69c5661d11a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "轉",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      7,
+      11
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    ],
+    "components": [
+      "車",
+      "其餘部分"
+    ],
+    "strokeCount": 18,
+    "radical": "車",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "只分部首與其餘部分；strokeGroups為1起算，每筆恰好一次，保留原字位置與筆順。",
+    "verification": {
+      "method": "重新讀取來源XML，核對Stroke數、Outline不重複、有限合理座標、有效Track、每筆恰好一次及分組筆數；渲染部首藍色與其餘橘色逐字視覺核對，與最新共用字典相同條目一致。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/8f49.xml",
+      "sourceSha256": "93e685a614ba3e4a0abb335801b2fe2da4d0256d54bfb5e89c56c084f20bd306",
+      "checkedAt": "2026-10-16T23:23:10.307943+00:00"
+    }
+  },
+  "createdAt": "2026-10-16T23:23:10.307959+00:00"
+}
