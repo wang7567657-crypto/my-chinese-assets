@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第7課_similar_shape_52ba1a3dbf676246",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "鱗",
+    "lessonChars": [
+      "設",
+      "弧",
+      "杆",
+      "棟",
+      "磁",
+      "鱗",
+      "薑",
+      "霜",
+      "爪",
+      "聖",
+      "際",
+      "瞪",
+      "繪",
+      "玻",
+      "璃",
+      "遺",
+      "投",
+      "堅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "鱗",
+    "similarChars": [
+      {
+        "char": "麟",
+        "similarity": "共用粦",
+        "difference": "鱗左魚，麟左鹿。"
+      },
+      {
+        "char": "磷",
+        "similarity": "共用粦",
+        "difference": "鱗左魚，磷左石。"
+      },
+      {
+        "char": "燐",
+        "similarity": "共用粦",
+        "difference": "鱗左魚，燐左火；燐為較少見字。"
+      },
+      {
+        "char": "粼",
+        "similarity": "共用粦",
+        "difference": "鱗的魚在粦左，粼的另一部件在粦右；粼較少見。"
+      },
+      {
+        "char": "鄰",
+        "similarity": "共用粦",
+        "difference": "鱗左魚右粦，鄰左粦右阝。"
+      },
+      {
+        "char": "憐",
+        "similarity": "共用粦",
+        "difference": "鱗左魚，憐左忄。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再用兩色標出差異；少見字只作字形觀察，不要求背誦。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

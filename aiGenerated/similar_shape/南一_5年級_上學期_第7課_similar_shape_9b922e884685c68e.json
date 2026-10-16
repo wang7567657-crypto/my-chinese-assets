@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第7課_similar_shape_9b922e884685c68e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "霜",
+    "lessonChars": [
+      "設",
+      "弧",
+      "杆",
+      "棟",
+      "磁",
+      "鱗",
+      "薑",
+      "霜",
+      "爪",
+      "聖",
+      "際",
+      "瞪",
+      "繪",
+      "玻",
+      "璃",
+      "遺",
+      "投",
+      "堅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "霜",
+    "similarChars": [
+      {
+        "char": "箱",
+        "similarity": "下方同為相",
+        "difference": "霜上雨，箱上竹。"
+      },
+      {
+        "char": "廂",
+        "similarity": "都含相",
+        "difference": "霜的雨在相上，廂的广包住相的上方和左側。"
+      },
+      {
+        "char": "湘",
+        "similarity": "都含相",
+        "difference": "霜上雨下相，湘左氵右相。"
+      },
+      {
+        "char": "想",
+        "similarity": "都含相",
+        "difference": "霜的雨在相上，想的心在相下。"
+      },
+      {
+        "char": "相",
+        "similarity": "霜含相",
+        "difference": "相沒有上方雨字頭。"
+      },
+      {
+        "char": "霧",
+        "similarity": "同為雨字頭",
+        "difference": "霜下是相，霧下是務。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再用兩色標出差異；少見字只作字形觀察，不要求背誦。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

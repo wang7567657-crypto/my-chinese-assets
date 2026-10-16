@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_7d4ca20a892ebb97",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "投",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "投",
+    "groups": {
+      "shape": [
+        {
+          "char": "沒",
+          "why": "右下都有又，上方輪廓相近。",
+          "difference": "投右部是殳；沒的右上寫法不同，不能直接當成殳。左旁分別是扌與氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "頭",
+          "why": "都讀 ㄊㄡˊ。",
+          "difference": "投球用投；頭部用頭。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "拋",
+          "why": "都可指把物品丟出去。",
+          "difference": "投常搭配投球、投稿；拋常搭配拋物、拋棄，不同詞語不能任意替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "設",
+          "why": "共用殳。",
+          "difference": "投配扌，表投擲等動作；設配言，常用於設計。"
+        }
+      ]
+    },
+    "tip": "先做投球動作，再檢查左手字旁與右部殳。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

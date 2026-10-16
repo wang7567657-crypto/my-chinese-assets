@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_df4aa7a2fe9269c5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "霜",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "霜",
+    "groups": {
+      "shape": [
+        {
+          "char": "箱",
+          "why": "下方都是相。",
+          "difference": "霜上雨；箱上竹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "雙",
+          "why": "都讀 ㄕㄨㄤ。",
+          "difference": "白霜用霜；一雙鞋用雙。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "露",
+          "why": "都可能出現在清晨的草葉上。",
+          "difference": "霜是冰晶；露是液態水滴，形成條件不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "相",
+          "why": "霜包含相。",
+          "difference": "霜比相多雨字頭；相的右邊是目，不是日。"
+        }
+      ]
+    },
+    "tip": "以葉面冰晶圖記霜，以水滴圖辨露；書寫時保留雨字頭。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

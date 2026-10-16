@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_4c944976ecdb1b73",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "弧",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "弧",
+    "groups": {
+      "shape": [
+        {
+          "char": "孤",
+          "why": "右邊都是瓜。",
+          "difference": "弧左邊是弓；孤左邊是子。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "胡",
+          "why": "都讀 ㄏㄨˊ。",
+          "difference": "弧線用弧；胡說用胡。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "曲",
+          "why": "都能與彎曲線條有關。",
+          "difference": "弧指弧形或圓周的一段；曲的彎曲義範圍較廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "狐",
+          "why": "共用瓜部件。",
+          "difference": "弧配弓；狐配犭，狐狸是動物。"
+        }
+      ]
+    },
+    "tip": "用手畫弧線，再檢查左邊是否寫成弓。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

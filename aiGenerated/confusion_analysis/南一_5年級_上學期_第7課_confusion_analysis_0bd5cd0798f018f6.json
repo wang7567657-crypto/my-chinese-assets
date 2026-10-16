@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_0bd5cd0798f018f6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "設",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "設",
+    "groups": {
+      "shape": [
+        {
+          "char": "沒",
+          "why": "右下都有又，上方輪廓相近。",
+          "difference": "設右部是殳；沒的右上寫法不同，不能直接當成殳。左旁分別是言與氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "射",
+          "why": "都讀 ㄕㄜˋ。",
+          "difference": "設計用設；射箭用射。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "建",
+          "why": "設立與建立都可說開始辦理或成立。",
+          "difference": "設可用於設定、設計；建常用於建造、建立，需依詞搭配。"
+        }
+      ],
+      "component": [
+        {
+          "char": "投",
+          "why": "共用右部殳。",
+          "difference": "設配言，用於設計；投配扌，用於投球。"
+        }
+      ]
+    },
+    "tip": "先看左旁，再用「設計」驗證意思；別只看相同的殳。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

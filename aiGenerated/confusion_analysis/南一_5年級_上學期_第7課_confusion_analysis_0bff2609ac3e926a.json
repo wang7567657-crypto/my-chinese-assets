@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_0bff2609ac3e926a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "棟",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "棟",
+    "groups": {
+      "shape": [
+        {
+          "char": "凍",
+          "why": "右邊都是東，左旁容易混。",
+          "difference": "棟左木；凍左冫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "動",
+          "why": "都讀 ㄉㄨㄥˋ。",
+          "difference": "一棟房子用棟；活動用動。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "幢",
+          "why": "都可作計算建築物的量詞。",
+          "difference": "一棟、一幢皆有使用；棟也指房屋正梁，如棟梁，不能一律互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "東",
+          "why": "棟包含東。",
+          "difference": "東表示方向等意思；棟比東多木字旁。"
+        }
+      ]
+    },
+    "tip": "把「一棟房屋」連起來記，再確認右部是東而不是束。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第7課_similar_shape_73be421dc7cad917",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "繪",
+    "lessonChars": [
+      "設",
+      "弧",
+      "杆",
+      "棟",
+      "磁",
+      "鱗",
+      "薑",
+      "霜",
+      "爪",
+      "聖",
+      "際",
+      "瞪",
+      "繪",
+      "玻",
+      "璃",
+      "遺",
+      "投",
+      "堅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "繪",
+    "similarChars": [
+      {
+        "char": "會",
+        "similarity": "繪含會",
+        "difference": "會沒有左側糸。"
+      },
+      {
+        "char": "儈",
+        "similarity": "右側同為會",
+        "difference": "繪左糸，儈左亻；儈較少見。"
+      },
+      {
+        "char": "檜",
+        "similarity": "右側同為會",
+        "difference": "繪左糸，檜左木。"
+      },
+      {
+        "char": "燴",
+        "similarity": "右側同為會",
+        "difference": "繪左糸，燴左火。"
+      },
+      {
+        "char": "膾",
+        "similarity": "右側同為會",
+        "difference": "繪左糸，膾左月形；膾較少見。"
+      },
+      {
+        "char": "薈",
+        "similarity": "都含會",
+        "difference": "繪左糸右會，薈上艹下會；薈較少見。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再用兩色標出差異；少見字只作字形觀察，不要求背誦。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

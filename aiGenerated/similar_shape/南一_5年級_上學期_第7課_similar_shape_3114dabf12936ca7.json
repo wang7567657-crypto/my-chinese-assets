@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第7課_similar_shape_3114dabf12936ca7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "際",
+    "lessonChars": [
+      "設",
+      "弧",
+      "杆",
+      "棟",
+      "磁",
+      "鱗",
+      "薑",
+      "霜",
+      "爪",
+      "聖",
+      "際",
+      "瞪",
+      "繪",
+      "玻",
+      "璃",
+      "遺",
+      "投",
+      "堅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "際",
+    "similarChars": [
+      {
+        "char": "祭",
+        "similarity": "際含祭",
+        "difference": "祭沒有左側阝。"
+      },
+      {
+        "char": "擦",
+        "similarity": "右半都含祭形",
+        "difference": "際左阝右祭；擦左扌右察，察在祭上還多宀。"
+      },
+      {
+        "char": "察",
+        "similarity": "都含祭",
+        "difference": "際的阝在祭左，察的宀在祭上。"
+      },
+      {
+        "char": "蔡",
+        "similarity": "都含祭",
+        "difference": "際左阝右祭，蔡上艹下祭。"
+      },
+      {
+        "char": "傺",
+        "similarity": "右側同為祭",
+        "difference": "際左阝，傺左亻；傺較少見。"
+      },
+      {
+        "char": "漈",
+        "similarity": "右側同為祭",
+        "difference": "際左阝，漈左氵；漈較少見。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再用兩色標出差異；少見字只作字形觀察，不要求背誦。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

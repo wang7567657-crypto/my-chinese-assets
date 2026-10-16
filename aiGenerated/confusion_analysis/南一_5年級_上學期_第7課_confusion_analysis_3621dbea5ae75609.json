@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_3621dbea5ae75609",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "繪",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "繪",
+    "groups": {
+      "shape": [
+        {
+          "char": "會",
+          "why": "繪的右半就是會。",
+          "difference": "繪左邊多糸；會沒有糸旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "慧",
+          "why": "都讀 ㄏㄨㄟˋ。",
+          "difference": "繪畫用繪；智慧用慧。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "畫",
+          "why": "繪與畫都可表示畫圖。",
+          "difference": "繪常見於繪畫、描繪；畫另可作量詞，如筆畫，不能處處換成繪。"
+        }
+      ],
+      "component": [
+        {
+          "char": "給",
+          "why": "左旁都是糸，右部外形也易混。",
+          "difference": "繪右會；給右合，不能省去會的中下部。"
+        }
+      ]
+    },
+    "tip": "讀繪本時找繪字，先認糸，再檢查右邊完整的會。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

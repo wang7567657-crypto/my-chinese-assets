@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第7課_similar_shape_c528b6fb4b1d638e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "玻",
+    "lessonChars": [
+      "設",
+      "弧",
+      "杆",
+      "棟",
+      "磁",
+      "鱗",
+      "薑",
+      "霜",
+      "爪",
+      "聖",
+      "際",
+      "瞪",
+      "繪",
+      "玻",
+      "璃",
+      "遺",
+      "投",
+      "堅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "玻",
+    "similarChars": [
+      {
+        "char": "波",
+        "similarity": "右側同為皮",
+        "difference": "玻左王旁，波左氵。"
+      },
+      {
+        "char": "破",
+        "similarity": "右側同為皮",
+        "difference": "玻左王旁，破左石。"
+      },
+      {
+        "char": "坡",
+        "similarity": "右側同為皮",
+        "difference": "玻左王旁，坡左土。"
+      },
+      {
+        "char": "披",
+        "similarity": "右側同為皮",
+        "difference": "玻左王旁，披左扌。"
+      },
+      {
+        "char": "彼",
+        "similarity": "右側同為皮",
+        "difference": "玻左王旁，彼左彳。"
+      },
+      {
+        "char": "皮",
+        "similarity": "玻含皮",
+        "difference": "皮沒有玻左側的王旁。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再用兩色標出差異；少見字只作字形觀察，不要求背誦。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

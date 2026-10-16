@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_7957a790904ac75e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "玻",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "玻",
+    "groups": {
+      "shape": [
+        {
+          "char": "波",
+          "why": "右部都是皮。",
+          "difference": "玻左玉字旁；波左氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "波",
+          "why": "都讀 ㄅㄛ。",
+          "difference": "玻璃用玉字旁的玻；波浪用水旁的波。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "晶",
+          "why": "玻璃與水晶常因透明外觀混淆。",
+          "difference": "玻用於玻璃；晶可用於水晶、晶體，透明不代表材料相同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "坡",
+          "why": "共用皮。",
+          "difference": "玻左玉字旁；坡左土，山坡用坡。"
+        }
+      ]
+    },
+    "tip": "把「玻璃」兩字一起辨認；右皮、左玉字旁各自保持完整。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

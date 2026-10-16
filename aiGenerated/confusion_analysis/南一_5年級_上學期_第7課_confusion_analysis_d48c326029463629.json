@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_d48c326029463629",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "聖",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "聖",
+    "groups": {
+      "shape": [
+        {
+          "char": "聲",
+          "why": "都有耳，且筆畫較多。",
+          "difference": "聖的耳在左上，右上有口；聲的耳在下方。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "勝",
+          "why": "在勝利一詞中，勝與聖都讀 ㄕㄥˋ。",
+          "difference": "神聖用聖；勝利用勝。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "賢",
+          "why": "都可用來稱讚德行或才識。",
+          "difference": "聖常指造詣極高或受尊崇；賢著重有才德，如賢人，搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "呈",
+          "why": "聖的構形與呈有關。",
+          "difference": "聖多了左上的耳，口移到右上；下方依標準字體寫，別直接套用壬。"
+        }
+      ]
+    },
+    "tip": "先定位耳、口，再描下方結構；讀 ㄕㄥˋ，不與聲的 ㄕㄥ 混讀。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

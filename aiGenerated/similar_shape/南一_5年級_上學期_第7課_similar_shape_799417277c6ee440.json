@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第7課_similar_shape_799417277c6ee440",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "遺",
+    "lessonChars": [
+      "設",
+      "弧",
+      "杆",
+      "棟",
+      "磁",
+      "鱗",
+      "薑",
+      "霜",
+      "爪",
+      "聖",
+      "際",
+      "瞪",
+      "繪",
+      "玻",
+      "璃",
+      "遺",
+      "投",
+      "堅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "遺",
+    "similarChars": [
+      {
+        "char": "遣",
+        "similarity": "辶與內部上方輪廓相似",
+        "difference": "遺內為貴，下方是貝；遣內部下方不是貝，注意橫折結構。"
+      },
+      {
+        "char": "貴",
+        "similarity": "遺含貴",
+        "difference": "貴沒有外側的辶。"
+      },
+      {
+        "char": "潰",
+        "similarity": "都含貴",
+        "difference": "遺以辶承托貴，潰在貴左加氵。"
+      },
+      {
+        "char": "饋",
+        "similarity": "都含貴",
+        "difference": "遺用辶，饋在貴左加食旁。"
+      },
+      {
+        "char": "匱",
+        "similarity": "都含貴",
+        "difference": "遺外側是辶，匱外側是匚；匱較少見。"
+      },
+      {
+        "char": "還",
+        "similarity": "都有辶包住密集內部",
+        "difference": "遺內部是貴，還內部是睘，有罒與衣形的下部。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再用兩色標出差異；少見字只作字形觀察，不要求背誦。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

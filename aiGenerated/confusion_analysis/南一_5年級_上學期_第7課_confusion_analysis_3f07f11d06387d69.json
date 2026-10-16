@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_3f07f11d06387d69",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "爪",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "爪",
+    "groups": {
+      "shape": [
+        {
+          "char": "瓜",
+          "why": "外形相近，容易多寫內部筆畫。",
+          "difference": "爪共四畫；瓜共五畫，內部寫法不同，逐筆對照。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "找",
+          "why": "爪讀 ㄓㄠˇ 時與找同音。",
+          "difference": "鷹爪用爪；尋找用找。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "掌",
+          "why": "都與手腳部位有關。",
+          "difference": "爪可指動物的掌和趾或尖甲；掌偏重手掌、腳掌部位，需依詞義區分。"
+        }
+      ],
+      "component": [
+        {
+          "char": "抓",
+          "why": "抓的右邊是爪。",
+          "difference": "爪是部位名稱；抓多了扌，表示用手抓取。"
+        }
+      ]
+    },
+    "tip": "按詞認讀：鷹爪 ㄓㄠˇ、爪子 ㄓㄨㄚˇ；不要把兩種讀音判成一對錯。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

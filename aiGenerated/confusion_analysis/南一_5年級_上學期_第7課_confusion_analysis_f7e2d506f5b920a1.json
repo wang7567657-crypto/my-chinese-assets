@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_f7e2d506f5b920a1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "際",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "際",
+    "groups": {
+      "shape": [
+        {
+          "char": "祭",
+          "why": "右部完全相同。",
+          "difference": "際左邊多阝；祭沒有左耳旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "季",
+          "why": "都讀 ㄐㄧˋ。",
+          "difference": "國際用際；季節用季。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "界",
+          "why": "都可與邊界或範圍有關。",
+          "difference": "天際指天空的邊際；世界、界線用界，須按詞選字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "擦",
+          "why": "都含祭。",
+          "difference": "際是阝加祭；擦是扌加察，察上方還有宀。"
+        }
+      ]
+    },
+    "tip": "把際分成左阝、右祭；使用「天際、國際、交際」辨認不同語境。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

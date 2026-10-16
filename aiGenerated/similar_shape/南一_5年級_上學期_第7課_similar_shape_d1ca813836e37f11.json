@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第7課_similar_shape_d1ca813836e37f11",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "杆",
+    "lessonChars": [
+      "設",
+      "弧",
+      "杆",
+      "棟",
+      "磁",
+      "鱗",
+      "薑",
+      "霜",
+      "爪",
+      "聖",
+      "際",
+      "瞪",
+      "繪",
+      "玻",
+      "璃",
+      "遺",
+      "投",
+      "堅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "杆",
+    "similarChars": [
+      {
+        "char": "桿",
+        "similarity": "左側同為木，右側都有干形",
+        "difference": "杆右是干，桿右是較複雜的旱；勿混寫。"
+      },
+      {
+        "char": "肝",
+        "similarity": "右側同為干",
+        "difference": "杆左木，肝左月形。"
+      },
+      {
+        "char": "汗",
+        "similarity": "右側同為干",
+        "difference": "杆左木，汗左氵。"
+      },
+      {
+        "char": "旱",
+        "similarity": "都含干",
+        "difference": "杆的木在干左，旱的日在干上。"
+      },
+      {
+        "char": "竿",
+        "similarity": "都含干",
+        "difference": "杆左木右干，竿上竹下干。"
+      },
+      {
+        "char": "刊",
+        "similarity": "都含干",
+        "difference": "杆是木在干左，刊是刂在干右。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再用兩色標出差異；少見字只作字形觀察，不要求背誦。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

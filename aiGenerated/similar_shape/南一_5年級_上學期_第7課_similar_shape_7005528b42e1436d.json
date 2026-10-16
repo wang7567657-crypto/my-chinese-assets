@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第7課_similar_shape_7005528b42e1436d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "聖",
+    "lessonChars": [
+      "設",
+      "弧",
+      "杆",
+      "棟",
+      "磁",
+      "鱗",
+      "薑",
+      "霜",
+      "爪",
+      "聖",
+      "際",
+      "瞪",
+      "繪",
+      "玻",
+      "璃",
+      "遺",
+      "投",
+      "堅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "聖",
+    "similarChars": [
+      {
+        "char": "呈",
+        "similarity": "共享呈的字形配置",
+        "difference": "聖在上方口的左邊另有耳，呈沒有耳；下方寫法都應依標準字形，不當作壬。"
+      },
+      {
+        "char": "望",
+        "similarity": "下方三橫一豎的輪廓近似，上部較寬",
+        "difference": "聖上有耳與口，望上有亡與月；下方不可只按外形猜寫。"
+      },
+      {
+        "char": "皇",
+        "similarity": "下方三橫一豎的輪廓近似",
+        "difference": "皇上白，聖上耳與口；聖下部從土，末橫較長，不是壬。"
+      },
+      {
+        "char": "聲",
+        "similarity": "都含耳形且筆畫密集",
+        "difference": "聖的耳在左上，聲的耳在下部。"
+      },
+      {
+        "char": "聽",
+        "similarity": "都含左側耳形",
+        "difference": "聖上方是耳與口，聽右半較長且含心的形狀。"
+      },
+      {
+        "char": "耳",
+        "similarity": "聖的左上保留耳形",
+        "difference": "耳單獨成字，沒有聖右上的口及下部。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再用兩色標出差異；少見字只作字形觀察，不要求背誦。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

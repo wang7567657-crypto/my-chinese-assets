@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_86fbcbae4f842a3a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "遺",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "遺",
+    "groups": {
+      "shape": [
+        {
+          "char": "遣",
+          "why": "都有辶，上半也相似。",
+          "difference": "遺裡面是貴，下有貝；遣的內部不是貴，不可混寫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "移",
+          "why": "在遺失、遺留中，遺與移都讀 ㄧˊ。",
+          "difference": "遺失用遺；移動用移。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "失",
+          "why": "都可與東西不見有關。",
+          "difference": "遺可指留下，如遺留；失常指失去或錯失，如失敗，不能一律互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "貴",
+          "why": "遺包含貴。",
+          "difference": "遺比貴多辶；貴重用貴，遺失用遺。"
+        }
+      ]
+    },
+    "tip": "用「遺失」記 ㄧˊ，以貴下方的貝區別遣；不把所有用法都概括成弄丟。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}
