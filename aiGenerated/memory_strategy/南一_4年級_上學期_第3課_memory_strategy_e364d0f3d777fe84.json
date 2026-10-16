@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第3課_memory_strategy_e364d0f3d777fe84",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蓮",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蓮",
+    "components": [
+      "艹",
+      "連"
+    ],
+    "association": "草字頭下連著蓮葉，池邊一排相連。這是記憶聯想，不是字源解釋。",
+    "mnemonic": "草在上，連在下，蓮花開在池塘旁。",
+    "visualPrompt": "以標準楷體完整呈現「蓮」，保持筆畫與部件位置不變；在字旁畫出聯想情境，不用圖案替代筆畫。",
+    "teachingTip": "先觀察「艹、連」的位置，再遮字回想口訣，最後對照標準字形檢查。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

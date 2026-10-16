@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第3課_similar_shape_85d2b49831438e8b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "蓮",
+    "lessonChars": [
+      "蓮",
+      "式",
+      "士",
+      "拆",
+      "民",
+      "志",
+      "酸",
+      "辣",
+      "存",
+      "靠",
+      "獲",
+      "態",
+      "與",
+      "支",
+      "未"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "蓮",
+    "similarChars": [
+      {
+        "char": "連",
+        "similarity": "兩字都有完整的「連」形。",
+        "difference": "蓮在連上方加艹；連沒有艹。"
+      },
+      {
+        "char": "漣",
+        "similarity": "兩字都含「連」。",
+        "difference": "蓮是艹在上、連在下；漣是氵在左、連在右。"
+      },
+      {
+        "char": "鏈",
+        "similarity": "兩字都含「連」，可看見車與辶。",
+        "difference": "蓮的附加部件是上方艹；鏈的附加部件是左方金。"
+      },
+      {
+        "char": "蓬",
+        "similarity": "兩字上方都有艹，下方都有辶。",
+        "difference": "蓮的辶裡是車；蓬的辶裡是夆，上方像夂、下方是丰。"
+      },
+      {
+        "char": "璉",
+        "similarity": "兩字都含「連」。",
+        "difference": "璉是較少見字，左邊是王字旁；蓮是上方艹。"
+      },
+      {
+        "char": "槤",
+        "similarity": "兩字都含「連」。",
+        "difference": "槤較少見，常見於「榴槤」；槤左邊是木，蓮上方是艹。"
+      }
+    ],
+    "teachingTip": "先找上方的艹，再找下方「連」中的車和辶；比較「蓬」時，要看辶裡面是車還是夆。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第3課_confusion_analysis_7d5c471e7aace3ef",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "未",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "未",
+    "groups": {
+      "shape": [
+        {
+          "char": "末",
+          "why": "外形或主要部件相近。",
+          "difference": "未上橫短、下橫長；末上長、下短。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "位",
+          "why": "讀音比較。",
+          "difference": "未ㄨㄟˋ與位ㄨㄟˋ同音；未來寫未，座位寫位。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "沒",
+          "why": "詞義有相關之處，需分辨用法。",
+          "difference": "未表示尚未，如未完成；沒也可表示沒有，如沒鉛筆，不能換未鉛筆。"
+        }
+      ],
+      "component": [
+        {
+          "char": "味",
+          "why": "共用或相近部件。",
+          "difference": "味左口右未，未沒有口。"
+        }
+      ]
+    },
+    "tip": "未上橫短、下橫長；末上長、下短。請放回課文語詞辨認，不只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

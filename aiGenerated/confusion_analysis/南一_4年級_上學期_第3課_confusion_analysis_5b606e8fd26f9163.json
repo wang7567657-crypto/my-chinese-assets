@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第3課_confusion_analysis_5b606e8fd26f9163",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "態",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "態",
+    "groups": {
+      "shape": [
+        {
+          "char": "熊",
+          "why": "外形或主要部件相近。",
+          "difference": "態下心，熊下灬，上方都是能。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "太",
+          "why": "讀音比較。",
+          "difference": "態ㄊㄞˋ與太ㄊㄞˋ同音；態度寫態，太陽寫太。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "狀",
+          "why": "詞義有相關之處，需分辨用法。",
+          "difference": "狀態表示情形；態可指神態，狀可指形狀，不能任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "能",
+          "why": "共用或相近部件。",
+          "difference": "態上能下心，能沒有下面心。"
+        }
+      ]
+    },
+    "tip": "態下心，熊下灬，上方都是能。請放回課文語詞辨認，不只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

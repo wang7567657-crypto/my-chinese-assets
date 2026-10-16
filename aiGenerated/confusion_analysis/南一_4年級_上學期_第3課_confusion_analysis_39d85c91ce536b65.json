@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第3課_confusion_analysis_39d85c91ce536b65",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "酸",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "酸",
+    "groups": {
+      "shape": [
+        {
+          "char": "酥",
+          "why": "外形或主要部件相近。",
+          "difference": "酸右夋，酥右禾，左邊都有酉。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蒜",
+          "why": "讀音比較。",
+          "difference": "酸ㄙㄨㄢ與蒜ㄙㄨㄢˋ近音，聲調不同；酸味與大蒜不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "醋",
+          "why": "詞義有相關之處，需分辨用法。",
+          "difference": "酸是味道，醋是常帶酸味的調味料。"
+        }
+      ],
+      "component": [
+        {
+          "char": "俊",
+          "why": "共用或相近部件。",
+          "difference": "酸左酉，俊左亻，右邊都是夋。"
+        }
+      ]
+    },
+    "tip": "酸右夋，酥右禾，左邊都有酉。請放回課文語詞辨認，不只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

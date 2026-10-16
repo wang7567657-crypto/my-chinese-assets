@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第3課_confusion_analysis_74f845baa56092a7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "志",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "志",
+    "groups": {
+      "shape": [
+        {
+          "char": "吉",
+          "why": "外形或主要部件相近。",
+          "difference": "志下心，吉下口，上面都是士。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "至",
+          "why": "讀音比較。",
+          "difference": "志ㄓˋ與至ㄓˋ同音；志工寫志，至今寫至。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "願",
+          "why": "詞義有相關之處，需分辨用法。",
+          "difference": "志常指志向，願常指願望；志工是固定稱呼。"
+        }
+      ],
+      "component": [
+        {
+          "char": "誌",
+          "why": "共用或相近部件。",
+          "difference": "誌左言右志；志沒有言字旁。"
+        }
+      ]
+    },
+    "tip": "志下心，吉下口，上面都是士。請放回課文語詞辨認，不只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

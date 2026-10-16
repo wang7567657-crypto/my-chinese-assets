@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第3課_confusion_analysis_042a86f139b5dd8a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "民",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "民",
+    "groups": {
+      "shape": [
+        {
+          "char": "氏",
+          "why": "外形或主要部件相近。",
+          "difference": "民上有框形且筆畫不同；氏沒有民上方的框形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "名",
+          "why": "讀音比較。",
+          "difference": "民ㄇㄧㄣˊ與名ㄇㄧㄥˊ近音，韻尾不同；人民不是人名。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "眾",
+          "why": "詞義有相關之處，需分辨用法。",
+          "difference": "民常指人民，眾強調人數多；民國不可換眾國。"
+        }
+      ],
+      "component": [
+        {
+          "char": "眠",
+          "why": "共用或相近部件。",
+          "difference": "眠左目右民；民本身沒有目。"
+        }
+      ]
+    },
+    "tip": "民上有框形且筆畫不同；氏沒有民上方的框形。請放回課文語詞辨認，不只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

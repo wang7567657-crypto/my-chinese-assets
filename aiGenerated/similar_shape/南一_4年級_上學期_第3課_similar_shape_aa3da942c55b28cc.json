@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第3課_similar_shape_aa3da942c55b28cc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "士",
+    "lessonChars": [
+      "蓮",
+      "式",
+      "士",
+      "拆",
+      "民",
+      "志",
+      "酸",
+      "辣",
+      "存",
+      "靠",
+      "獲",
+      "態",
+      "與",
+      "支",
+      "未"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "士",
+    "similarChars": [
+      {
+        "char": "土",
+        "similarity": "兩字都是兩橫加一豎。",
+        "difference": "士上橫長、下橫短；土上橫短、下橫長。"
+      },
+      {
+        "char": "吉",
+        "similarity": "吉的上方是「士」。",
+        "difference": "吉在士下面加口；士下面沒有口。"
+      },
+      {
+        "char": "志",
+        "similarity": "志的上方是「士」。",
+        "difference": "志在士下面加心；士下面沒有心。"
+      },
+      {
+        "char": "仕",
+        "similarity": "仕的右邊是「士」。",
+        "difference": "仕左邊多了亻；士沒有亻。"
+      },
+      {
+        "char": "壯",
+        "similarity": "壯的右邊是「士」。",
+        "difference": "壯左邊多了爿；士是單獨的士形。"
+      },
+      {
+        "char": "壹",
+        "similarity": "壹的最上方是「士」。",
+        "difference": "壹在士下方還有冖和豆；士沒有這些部件。"
+      }
+    ],
+    "teachingTip": "「士」上橫長、下橫短；先與「土」比較，再圈出吉、志、仕、壯、壹中的士形。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

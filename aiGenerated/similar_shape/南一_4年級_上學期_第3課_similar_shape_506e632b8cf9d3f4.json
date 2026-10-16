@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第3課_similar_shape_506e632b8cf9d3f4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "獲",
+    "lessonChars": [
+      "蓮",
+      "式",
+      "士",
+      "拆",
+      "民",
+      "志",
+      "酸",
+      "辣",
+      "存",
+      "靠",
+      "獲",
+      "態",
+      "與",
+      "支",
+      "未"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "獲",
+    "similarChars": [
+      {
+        "char": "穫",
+        "similarity": "兩字右邊都是「蒦」，由艹、隹、又組成。",
+        "difference": "獲左邊是犭；穫左邊是禾。"
+      },
+      {
+        "char": "護",
+        "similarity": "兩字右邊都是「蒦」，由艹、隹、又組成。",
+        "difference": "獲左邊是犭；護左邊是言字旁。"
+      },
+      {
+        "char": "鑊",
+        "similarity": "兩字右邊都是「蒦」。",
+        "difference": "鑊是較少見字，左邊是金；獲左邊是犭。"
+      },
+      {
+        "char": "蠖",
+        "similarity": "兩字右邊都是「蒦」。",
+        "difference": "蠖是較少見字，左邊是虫；獲左邊是犭。"
+      },
+      {
+        "char": "獾",
+        "similarity": "兩字左邊都是犭，右邊上方都有艹，並含隹形。",
+        "difference": "獾是較少見字，右邊是雚，含兩個口；獲右邊是蒦，最下方是又。"
+      },
+      {
+        "char": "蒦",
+        "similarity": "獲的右邊就是「蒦」。",
+        "difference": "蒦是罕見字，可用來觀察部件；獲在蒦左邊多了犭。"
+      }
+    ],
+    "teachingTip": "「獲」左邊是犭，右邊由艹、隹、又上下組成；與穫、護比較時先看左旁，與獾比較時再看右邊下方。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

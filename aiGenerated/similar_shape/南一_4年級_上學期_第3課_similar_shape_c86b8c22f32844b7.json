@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第3課_similar_shape_c86b8c22f32844b7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "式",
+    "lessonChars": [
+      "蓮",
+      "式",
+      "士",
+      "拆",
+      "民",
+      "志",
+      "酸",
+      "辣",
+      "存",
+      "靠",
+      "獲",
+      "態",
+      "與",
+      "支",
+      "未"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "式",
+    "similarChars": [
+      {
+        "char": "試",
+        "similarity": "試的右邊就是「式」。",
+        "difference": "試左邊多了言字旁；式沒有言字旁。"
+      },
+      {
+        "char": "拭",
+        "similarity": "拭的右邊就是「式」。",
+        "difference": "拭左邊多了扌；式沒有扌。"
+      },
+      {
+        "char": "軾",
+        "similarity": "軾的右邊就是「式」。",
+        "difference": "軾是較少見字，左邊多了車；式沒有車字旁。"
+      },
+      {
+        "char": "弒",
+        "similarity": "弒的右邊含完整的「式」。",
+        "difference": "弒是較少見字，左邊多了「殺」的左半部，右邊才是式；式沒有這個左半部。"
+      },
+      {
+        "char": "武",
+        "similarity": "兩字都有斜鉤、右上點和內部橫豎筆畫。",
+        "difference": "式內部是工；武下方有止，不能把式的工寫成止。"
+      },
+      {
+        "char": "忒",
+        "similarity": "兩字外圍都有「弋」形。",
+        "difference": "忒是較少見字，弋裡面是心；式裡面是工。"
+      }
+    ],
+    "teachingTip": "把「式」看成弋中放一個工；工不能寫成止，也不要把整個字誤加成試或拭。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

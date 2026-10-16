@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第3課_confusion_analysis_c0bd5a6fb2aa26f7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "獲",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "獲",
+    "groups": {
+      "shape": [
+        {
+          "char": "穫",
+          "why": "外形或主要部件相近。",
+          "difference": "獲左犭，穫左禾，右邊都是蒦。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "穫",
+          "why": "讀音比較。",
+          "difference": "獲ㄏㄨㄛˋ與穫ㄏㄨㄛˋ同音；獲得機會，收穫稻米。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "得",
+          "why": "詞義有相關之處，需分辨用法。",
+          "difference": "獲得指取得；得的用法更廣，如得分，不能每處都替換獲。"
+        }
+      ],
+      "component": [
+        {
+          "char": "護",
+          "why": "共用或相近部件。",
+          "difference": "獲左犭，護左言，右邊同蒦。"
+        }
+      ]
+    },
+    "tip": "獲左犭，穫左禾，右邊都是蒦。請放回課文語詞辨認，不只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

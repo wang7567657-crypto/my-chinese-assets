@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第3課_similar_shape_e34fa94ae5b3713a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "未",
+    "lessonChars": [
+      "蓮",
+      "式",
+      "士",
+      "拆",
+      "民",
+      "志",
+      "酸",
+      "辣",
+      "存",
+      "靠",
+      "獲",
+      "態",
+      "與",
+      "支",
+      "未"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "未",
+    "similarChars": [
+      {
+        "char": "末",
+        "similarity": "兩字都有兩橫、一豎和撇捺，只有橫畫長短配置不同。",
+        "difference": "未上橫短、下橫長；末上橫長、下橫短。"
+      },
+      {
+        "char": "朱",
+        "similarity": "兩字下半都有木形般的直豎與撇捺。",
+        "difference": "未上方是短橫；朱左上多了撇，形成牛形的上半部。"
+      },
+      {
+        "char": "味",
+        "similarity": "味的右邊就是「未」。",
+        "difference": "味左邊多了口；未沒有口字旁。"
+      },
+      {
+        "char": "妹",
+        "similarity": "妹的右邊就是「未」。",
+        "difference": "妹左邊多了女；未沒有女字旁。"
+      },
+      {
+        "char": "昧",
+        "similarity": "昧的右邊就是未。",
+        "difference": "昧左邊多了日；未沒有日字旁，兩字中的未都是上橫短、下橫長。"
+      },
+      {
+        "char": "沫",
+        "similarity": "沫右邊的末與未筆畫配置相近。",
+        "difference": "沫左邊有氵，右邊是上橫長的末；未沒有氵，且上橫短。"
+      }
+    ],
+    "teachingTip": "記住「未」上橫短、下橫長，「末」相反。找出味、妹、昧裡的未，再與沫裡的末比較兩橫長短。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

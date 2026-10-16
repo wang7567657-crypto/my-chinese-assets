@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第3課_feature_ai_batch_56e94cc94f084f7b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "蓮",
+      "式",
+      "士",
+      "拆",
+      "民",
+      "志",
+      "酸",
+      "辣",
+      "存",
+      "靠",
+      "獲",
+      "態",
+      "與",
+      "支",
+      "未"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_85d2b49831438e8b.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_c86b8c22f32844b7.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_aa3da942c55b28cc.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_0a8a4ddee0bb7380.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_c9f1779acb7ebd70.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_e4efc1d1aa7ec4b8.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_1faaea649539b251.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_8b2229de6def7a46.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_b937b2dd37de9a16.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_1ad8fe8dc7ba9b96.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_506e632b8cf9d3f4.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_5372b76ca0bf42c4.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_0ed08dc291a02a53.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_6329481b6e39c6d3.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第3課_similar_shape_e34fa94ae5b3713a.json"
+    ]
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

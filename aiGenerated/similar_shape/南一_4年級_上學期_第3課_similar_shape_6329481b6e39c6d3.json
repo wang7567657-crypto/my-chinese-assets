@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第3課_similar_shape_6329481b6e39c6d3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "支",
+    "lessonChars": [
+      "蓮",
+      "式",
+      "士",
+      "拆",
+      "民",
+      "志",
+      "酸",
+      "辣",
+      "存",
+      "靠",
+      "獲",
+      "態",
+      "與",
+      "支",
+      "未"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "支",
+    "similarChars": [
+      {
+        "char": "枝",
+        "similarity": "枝的右邊就是「支」。",
+        "difference": "枝左邊多了木；支沒有木字旁。"
+      },
+      {
+        "char": "技",
+        "similarity": "技的右邊就是「支」。",
+        "difference": "技左邊多了扌；支沒有扌。"
+      },
+      {
+        "char": "肢",
+        "similarity": "肢的右邊就是「支」。",
+        "difference": "肢左邊多了月字旁；支沒有月字旁。"
+      },
+      {
+        "char": "吱",
+        "similarity": "吱的右邊就是「支」。",
+        "difference": "吱左邊多了口；支沒有口字旁。"
+      },
+      {
+        "char": "岐",
+        "similarity": "岐的右邊就是「支」。",
+        "difference": "岐較少見，左邊多了山；支沒有山字旁。"
+      },
+      {
+        "char": "伎",
+        "similarity": "伎的右邊就是「支」。",
+        "difference": "伎較少見，左邊多了亻；支沒有亻。"
+      }
+    ],
+    "teachingTip": "「支」是上十下又；比較形近字時先遮住左旁，再確認右邊都是支，最後指出木、扌、月、口、山、亻的差別。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}
