@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第7課_confusion_analysis_99696bea4e825f3b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "陶",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "陶",
+    "groups": {
+      "shape": [
+        {
+          "char": "淘",
+          "why": "右邊相同",
+          "difference": "陶左阝，淘左氵"
+        }
+      ],
+      "sound": [
+        {
+          "char": "桃",
+          "why": "同音，陶器的陶與桃子的桃都讀ㄊㄠˊ。",
+          "difference": "陶器是燒製器物，桃是植物"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "瓷",
+          "why": "陶器與瓷器的材料和燒製條件有差異",
+          "difference": "都可指燒製器物，陶與瓷不能任意替換"
+        }
+      ],
+      "component": [
+        {
+          "char": "淘",
+          "why": "比較共同部件及其位置。右邊相同",
+          "difference": "陶左阝，淘左氵"
+        }
+      ]
+    },
+    "tip": "把字放回課文詞語，再比較字形、讀音與意思。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

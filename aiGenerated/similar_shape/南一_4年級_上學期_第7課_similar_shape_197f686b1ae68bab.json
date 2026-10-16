@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第7課_similar_shape_197f686b1ae68bab",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "育",
+    "lessonChars": [
+      "育",
+      "晴",
+      "陶",
+      "目",
+      "芒",
+      "返",
+      "劇",
+      "斗",
+      "索",
+      "禁",
+      "渡",
+      "念",
+      "麵",
+      "統",
+      "值"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "育",
+    "similarChars": [
+      {
+        "char": "肩",
+        "similarity": "下方都有月形",
+        "difference": "肩上是戶，育上不是戶"
+      },
+      {
+        "char": "肯",
+        "similarity": "下方都有月形",
+        "difference": "肯上是止，育上是亠與厶形"
+      },
+      {
+        "char": "肓",
+        "similarity": "下方都有月形",
+        "difference": "肓上是亡，育上是𠫓（亠與厶形）；兩字下方都有月形"
+      },
+      {
+        "char": "盲",
+        "similarity": "上窄下方框形相近",
+        "difference": "盲上亡下目，育下為月形"
+      },
+      {
+        "char": "胄",
+        "similarity": "下方都有月形",
+        "difference": "胄上是由；胄較少見"
+      },
+      {
+        "char": "宵",
+        "similarity": "下方都有月形",
+        "difference": "宵上宀和小形，育上亠與厶形"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再指認不同部件的位置；少見字只作字形觀察，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

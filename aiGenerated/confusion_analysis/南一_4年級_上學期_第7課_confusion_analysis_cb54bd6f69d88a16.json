@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第7課_confusion_analysis_cb54bd6f69d88a16",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "劇",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "劇",
+    "groups": {
+      "shape": [
+        {
+          "char": "據",
+          "why": "都含豦",
+          "difference": "劇右刂，據左扌"
+        }
+      ],
+      "sound": [
+        {
+          "char": "巨",
+          "why": "同音，劇場的劇與巨大的巨都讀ㄐㄩˋ。",
+          "difference": "劇指戲劇，巨指很大"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "戲",
+          "why": "劇與戲都與表演相關，詞語搭配不同",
+          "difference": "劇場與戲院相關，遊戲不能寫遊劇"
+        }
+      ],
+      "component": [
+        {
+          "char": "據",
+          "why": "比較共同部件及其位置。都含豦",
+          "difference": "劇右刂，據左扌"
+        }
+      ]
+    },
+    "tip": "把字放回課文詞語，再比較字形、讀音與意思。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

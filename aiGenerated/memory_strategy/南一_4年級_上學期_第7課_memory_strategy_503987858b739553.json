@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第7課_memory_strategy_503987858b739553",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "陶",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "陶",
+    "components": [
+      "阝（左耳旁）",
+      "匋"
+    ],
+    "association": "把陶器展示區當作記憶場景，看到陶碗就回想『左耳旁，右邊匋』。",
+    "mnemonic": "左耳旁，右邊匋，陶器一件件瞧。",
+    "visualPrompt": "畫孩子欣賞陶碗與陶罐，旁邊獨立顯示標準繁體字『陶』。用色框標出左阝與右匋，右側完整保留，不以陶罐代替筆畫。",
+    "teachingTip": "右邊是匋，外圍是勹，內部是缶；不要誤寫成淘的三點水。聯想畫面只幫助記憶，不當作造字來源。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

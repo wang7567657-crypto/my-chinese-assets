@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第7課_confusion_analysis_57ed537b5440d007",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "禁",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "禁",
+    "groups": {
+      "shape": [
+        {
+          "char": "林",
+          "why": "都有兩個木",
+          "difference": "禁在林下多示"
+        }
+      ],
+      "sound": [
+        {
+          "char": "金",
+          "why": "同音，此課不禁的禁讀ㄐㄧㄣ，金讀ㄐㄧㄣ",
+          "difference": "不禁指忍不住；禁止的禁另讀ㄐㄧㄣˋ"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "止",
+          "why": "禁止指不准做，停止指不再繼續",
+          "difference": "此課不禁不是禁止，必須連詞判斷"
+        }
+      ],
+      "component": [
+        {
+          "char": "林",
+          "why": "比較共同部件及其位置。都有兩個木",
+          "difference": "禁在林下多示"
+        }
+      ]
+    },
+    "tip": "把字放回課文詞語，再比較字形、讀音與意思。本課「不禁」讀ㄅㄨˋ ㄐㄧㄣ，不能套用「禁止」的讀音。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

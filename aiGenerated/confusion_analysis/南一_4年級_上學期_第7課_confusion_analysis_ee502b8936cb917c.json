@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第7課_confusion_analysis_ee502b8936cb917c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "目",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "目",
+    "groups": {
+      "shape": [
+        {
+          "char": "日",
+          "why": "直立方框內有橫",
+          "difference": "目內兩橫，日內一橫"
+        }
+      ],
+      "sound": [
+        {
+          "char": "木",
+          "why": "同音，目不轉睛的目與木頭的木都讀ㄇㄨˋ。",
+          "difference": "目是眼睛，木是樹木或木材"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "眼",
+          "why": "目與眼都可指眼睛，但固定詞不同",
+          "difference": "目標不能換成眼標"
+        }
+      ],
+      "component": [
+        {
+          "char": "日",
+          "why": "比較共同部件及其位置。直立方框內有橫",
+          "difference": "目內兩橫，日內一橫"
+        }
+      ]
+    },
+    "tip": "把字放回課文詞語，再比較字形、讀音與意思。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

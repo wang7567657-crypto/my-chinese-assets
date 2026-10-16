@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第7課_confusion_analysis_1399cfec756090a6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "返",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "返",
+    "groups": {
+      "shape": [
+        {
+          "char": "近",
+          "why": "都有辶",
+          "difference": "返內反，近內斤"
+        }
+      ],
+      "sound": [
+        {
+          "char": "反",
+          "why": "同音，忘返的返與反面的反都讀ㄈㄢˇ。",
+          "difference": "返是回去，反可指相反"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "回",
+          "why": "返與回都有返回的意思，固定搭配不同",
+          "difference": "返鄉與回家可比較，但回答不能寫返答"
+        }
+      ],
+      "component": [
+        {
+          "char": "近",
+          "why": "比較共同部件及其位置。都有辶",
+          "difference": "返內反，近內斤"
+        }
+      ]
+    },
+    "tip": "把字放回課文詞語，再比較字形、讀音與意思。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

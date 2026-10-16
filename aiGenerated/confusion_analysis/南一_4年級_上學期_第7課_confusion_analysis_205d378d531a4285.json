@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第7課_confusion_analysis_205d378d531a4285",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "斗",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "斗",
+    "groups": {
+      "shape": [
+        {
+          "char": "升",
+          "why": "外形都有交叉的長筆畫",
+          "difference": "斗左上兩點，升左上為撇，交叉筆畫也不同"
+        }
+      ],
+      "sound": [
+        {
+          "char": "抖",
+          "why": "同音，翻跟斗的斗與發抖的抖都讀ㄉㄡˇ",
+          "difference": "跟斗是翻身動作，抖是顫動；不要混入鬥爭的鬥"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "翻",
+          "why": "翻跟斗中，翻是動作，跟斗是整個詞的一部分",
+          "difference": "不能把斗單獨當作翻的同義字"
+        }
+      ],
+      "component": [
+        {
+          "char": "升",
+          "why": "比較共同部件及其位置。外形都有交叉的長筆畫",
+          "difference": "斗左上兩點，升左上為撇，交叉筆畫也不同"
+        }
+      ]
+    },
+    "tip": "把字放回課文詞語，再比較字形、讀音與意思。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

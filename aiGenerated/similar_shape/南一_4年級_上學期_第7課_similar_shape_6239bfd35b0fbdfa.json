@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第7課_similar_shape_6239bfd35b0fbdfa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "斗",
+    "lessonChars": [
+      "育",
+      "晴",
+      "陶",
+      "目",
+      "芒",
+      "返",
+      "劇",
+      "斗",
+      "索",
+      "禁",
+      "渡",
+      "念",
+      "麵",
+      "統",
+      "值"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "斗",
+    "similarChars": [
+      {
+        "char": "升",
+        "similarity": "外形都有交叉的長筆畫",
+        "difference": "斗左上兩點，升左上為撇，交叉筆畫也不同"
+      },
+      {
+        "char": "汁",
+        "similarity": "都可見十字形",
+        "difference": "斗左上兩點，汁左有三點水"
+      },
+      {
+        "char": "料",
+        "similarity": "都含斗",
+        "difference": "料左多米"
+      },
+      {
+        "char": "科",
+        "similarity": "都含斗",
+        "difference": "科左多禾"
+      },
+      {
+        "char": "斜",
+        "similarity": "都含斗",
+        "difference": "斜左多余"
+      },
+      {
+        "char": "抖",
+        "similarity": "都含斗",
+        "difference": "抖左多扌"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再指認不同部件的位置；少見字只作字形觀察，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

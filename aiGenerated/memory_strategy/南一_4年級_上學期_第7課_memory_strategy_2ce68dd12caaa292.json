@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第7課_memory_strategy_2ce68dd12caaa292",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "渡",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "渡",
+    "components": [
+      "氵",
+      "度"
+    ],
+    "association": "在渡船頭搭船過水，把水的情境連結左邊的三點水。",
+    "mnemonic": "三點水，右邊度，渡船載我過水路。",
+    "visualPrompt": "畫渡船頭停靠的船與河水，旁邊獨立放標準繁體字『渡』。左氵右度分色，水波只放在圖中，不取代三點水。",
+    "teachingTip": "用渡船、渡河理解渡與過水有關。比較渡與度：渡多了三點水；溫度的度沒有三點水。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

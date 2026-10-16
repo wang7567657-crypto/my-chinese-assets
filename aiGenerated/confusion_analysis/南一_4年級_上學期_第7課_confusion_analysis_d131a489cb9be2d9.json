@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第7課_confusion_analysis_d131a489cb9be2d9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "晴",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "晴",
+    "groups": {
+      "shape": [
+        {
+          "char": "清",
+          "why": "右邊同為青",
+          "difference": "晴左是日，清左是氵"
+        }
+      ],
+      "sound": [
+        {
+          "char": "情",
+          "why": "同音，晴朗的晴與心情的情都讀ㄑㄧㄥˊ",
+          "difference": "晴說天氣，情說情感或情況"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "朗",
+          "why": "晴指天空少雲，朗指明亮或清楚",
+          "difference": "晴朗可搭配，朗讀不可寫成晴讀"
+        }
+      ],
+      "component": [
+        {
+          "char": "清",
+          "why": "比較共同部件及其位置。右邊同為青",
+          "difference": "晴左是日，清左是氵"
+        }
+      ]
+    },
+    "tip": "把字放回課文詞語，再比較字形、讀音與意思。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第7課_confusion_analysis_131cecb24cdd54de",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "值",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "值",
+    "groups": {
+      "shape": [
+        {
+          "char": "植",
+          "why": "都含直",
+          "difference": "值左亻，植左木"
+        }
+      ],
+      "sound": [
+        {
+          "char": "植",
+          "why": "同音，值得的值與植物的植都讀ㄓˊ。",
+          "difference": "值說價值或值得，植說種植"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "價",
+          "why": "價可指價格，值可指價值或相當的程度",
+          "difference": "價值是常用詞，值得不能改成價得"
+        }
+      ],
+      "component": [
+        {
+          "char": "植",
+          "why": "比較共同部件及其位置。都含直",
+          "difference": "值左亻，植左木"
+        }
+      ]
+    },
+    "tip": "把字放回課文詞語，再比較字形、讀音與意思。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}
