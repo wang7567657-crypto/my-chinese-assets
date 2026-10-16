@@ -34,14 +34,39 @@
   "data": {
     "targetChar": "樸",
     "similarChars": [
-      "僕",
-      "撲",
-      "璞",
-      "蹼",
-      "噗",
-      "業"
+      {
+        "char": "僕",
+        "similarity": "右側都含菐的形體。",
+        "difference": "樸左木；僕左側是亻。"
+      },
+      {
+        "char": "璞",
+        "similarity": "右側都含菐的形體。",
+        "difference": "樸左木；璞左側是王。"
+      },
+      {
+        "char": "撲",
+        "similarity": "右側都含菐的形體。",
+        "difference": "樸左木；撲左側是扌。"
+      },
+      {
+        "char": "濮",
+        "similarity": "右側僕含有與樸相同的菐。",
+        "difference": "濮是較少見字，左氵、右僕，菐左邊另有亻；樸是木直接接菐。"
+      },
+      {
+        "char": "業",
+        "similarity": "都有上方密集直畫與多層橫畫。",
+        "difference": "業下方的形體與菐不同；樸左邊另有木，不能把右側整個寫成業。"
+      },
+      {
+        "char": "模",
+        "similarity": "同為木在左、右側筆畫密集且末端展開。",
+        "difference": "模右側是莫；樸右側是菐。"
+      }
     ],
-    "teachingTip": "樸左邊是木；僕、撲、璞、蹼、噗保留相近的右半邊，換了不同偏旁。"
+    "teachingTip": "比較樸、僕、撲時先遮住左旁；濮多了一層亻，只作進階辨形。"
   },
-  "createdAt": "2026-09-25T14:43:00.878Z"
+  "createdAt": "2026-10-16T09:24:51.517888Z",
+  "status": "completed"
 }

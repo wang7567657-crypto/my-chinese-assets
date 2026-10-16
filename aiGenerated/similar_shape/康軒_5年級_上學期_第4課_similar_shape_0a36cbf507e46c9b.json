@@ -34,14 +34,39 @@
   "data": {
     "targetChar": "慨",
     "similarChars": [
-      "概",
-      "溉",
-      "暨",
-      "既",
-      "慷",
-      "愧"
+      {
+        "char": "概",
+        "similarity": "右側既相同。",
+        "difference": "概左側是木；慨左側是忄。"
+      },
+      {
+        "char": "溉",
+        "similarity": "右側既相同。",
+        "difference": "溉左側是氵；慨左側是忄。"
+      },
+      {
+        "char": "既",
+        "similarity": "既是慨的右側主體。",
+        "difference": "慨在既左側多忄；既沒有忄。"
+      },
+      {
+        "char": "愾",
+        "similarity": "左側忄相同，右側有向外彎出的筆畫。",
+        "difference": "愾是較少見字，右側是氣；慨右側是既。"
+      },
+      {
+        "char": "慷",
+        "similarity": "左側忄相同，右側筆畫多。",
+        "difference": "慷右側是康；慨右側是既。"
+      },
+      {
+        "char": "暨",
+        "similarity": "都含既。",
+        "difference": "暨是較少見字，上面既、下面旦；慨左忄右既。"
+      }
     ],
-    "teachingTip": "慨左邊是心字旁、右邊是既；概、溉更換左邊，慷、愧雖有心字旁，右邊不同。"
+    "teachingTip": "優先比較慨、概、溉，說出左旁差異；愾只作進階辨形。"
   },
-  "createdAt": "2026-09-25T14:43:00.878Z"
+  "createdAt": "2026-10-16T09:24:51.517888Z",
+  "status": "completed"
 }

@@ -34,14 +34,39 @@
   "data": {
     "targetChar": "穗",
     "similarChars": [
-      "惠",
-      "蕙",
-      "慧",
-      "穩",
-      "積",
-      "穎"
+      {
+        "char": "惠",
+        "similarity": "都有惠的完整形體。",
+        "difference": "穗左側多禾；惠獨立成字。"
+      },
+      {
+        "char": "蕙",
+        "similarity": "同有惠。",
+        "difference": "蕙的艹在惠上方；穗的禾在惠左側。"
+      },
+      {
+        "char": "穩",
+        "similarity": "左側禾相同，右下都有心。",
+        "difference": "穩的右上不是惠的上半部；穗右側完整寫惠。"
+      },
+      {
+        "char": "稻",
+        "similarity": "左禾相同，右側都較密。",
+        "difference": "稻右側上爫下臼；穗右側是惠。"
+      },
+      {
+        "char": "種",
+        "similarity": "左禾相同，右側都有多層橫畫。",
+        "difference": "種右側是重；穗右側是惠，下面有心。"
+      },
+      {
+        "char": "愚",
+        "similarity": "下方都有心，上方都有直畫與框形。",
+        "difference": "愚是禺在心上；穗是禾在惠左，不能把惠上半寫成禺。"
+      }
     ],
-    "teachingTip": "穗左邊是禾、右邊是惠；蕙多了草字頭，穩、積也有禾，但右邊不是惠。"
+    "teachingTip": "優先比較穗、惠、蕙，再看種與穩；心的位置和左側的禾是辨識重點。"
   },
-  "createdAt": "2026-09-25T14:43:00.878Z"
+  "createdAt": "2026-10-16T09:24:51.517888Z",
+  "status": "completed"
 }

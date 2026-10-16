@@ -34,14 +34,39 @@
   "data": {
     "targetChar": "撿",
     "similarChars": [
-      "檢",
-      "臉",
-      "險",
-      "驗",
-      "儉",
-      "劍"
+      {
+        "char": "檢",
+        "similarity": "右側僉相同。",
+        "difference": "撿左側是扌；檢左側是木。"
+      },
+      {
+        "char": "臉",
+        "similarity": "右側僉相同。",
+        "difference": "撿左側是扌；臉左側是月。"
+      },
+      {
+        "char": "儉",
+        "similarity": "右側僉相同。",
+        "difference": "撿左側是扌；儉左側是亻。"
+      },
+      {
+        "char": "險",
+        "similarity": "右側僉相同。",
+        "difference": "撿左側是扌；險左側是阝。"
+      },
+      {
+        "char": "斂",
+        "similarity": "都含僉。",
+        "difference": "斂左僉右攵；撿左扌右僉。"
+      },
+      {
+        "char": "簽",
+        "similarity": "都含僉。",
+        "difference": "簽是竹字頭在僉上方；撿是扌在僉左側。"
+      }
     ],
-    "teachingTip": "撿左邊是提手旁；檢、臉、險、驗、儉保留右半邊，劍則把相近部分放左邊。"
+    "teachingTip": "先認出僉，再看它旁邊或上方的部件；不要把撿和檢的左旁混用。"
   },
-  "createdAt": "2026-09-25T14:43:00.878Z"
+  "createdAt": "2026-10-16T09:24:51.517888Z",
+  "status": "completed"
 }

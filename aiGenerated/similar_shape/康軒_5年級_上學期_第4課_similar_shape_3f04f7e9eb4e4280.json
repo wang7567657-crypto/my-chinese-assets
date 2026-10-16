@@ -34,14 +34,39 @@
   "data": {
     "targetChar": "勞",
     "similarChars": [
-      "撈",
-      "癆",
-      "嘮",
-      "榮",
-      "螢",
-      "營"
+      {
+        "char": "撈",
+        "similarity": "含有完整的勞。",
+        "difference": "撈左側加扌；勞沒有扌。"
+      },
+      {
+        "char": "嘮",
+        "similarity": "含有完整的勞。",
+        "difference": "嘮是較少見字，左側加口；勞沒有口旁。"
+      },
+      {
+        "char": "癆",
+        "similarity": "內部有完整的勞。",
+        "difference": "癆是較少見字，外側加疒；勞沒有疒。"
+      },
+      {
+        "char": "榮",
+        "similarity": "上方同為兩個火和冖。",
+        "difference": "榮下面是木；勞下面是力。"
+      },
+      {
+        "char": "營",
+        "similarity": "上方同為兩個火和冖。",
+        "difference": "營下面是呂；勞下面是力。"
+      },
+      {
+        "char": "勛",
+        "similarity": "都有力，其他部分筆畫較密。",
+        "difference": "勛是員在左、力在右；勞的力位於下方。"
+      }
     ],
-    "teachingTip": "勞上方是兩個火加冖、下方是力；榮、螢、營上方相近，但最下方不同。"
+    "teachingTip": "比較勞、榮、營時遮住共同的上半，專看下方是力、木還是呂。"
   },
-  "createdAt": "2026-09-25T14:43:00.878Z"
+  "createdAt": "2026-10-16T09:24:51.517888Z",
+  "status": "completed"
 }
