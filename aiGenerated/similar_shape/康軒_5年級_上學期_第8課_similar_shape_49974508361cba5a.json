@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第8課_similar_shape_49974508361cba5a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "組",
+    "lessonChars": [
+      "坦",
+      "性",
+      "恐",
+      "怖",
+      "組",
+      "占",
+      "播",
+      "控",
+      "制",
+      "傷",
+      "攻",
+      "擊",
+      "權",
+      "脅",
+      "復",
+      "武",
+      "撼",
+      "懼"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "組",
+    "similarChars": [
+      {
+        "char": "祖",
+        "similarity": "右邊都是且",
+        "difference": "組左糹；祖左礻。"
+      },
+      {
+        "char": "租",
+        "similarity": "右邊都是且",
+        "difference": "組左糹；租左禾。"
+      },
+      {
+        "char": "粗",
+        "similarity": "右邊都是且",
+        "difference": "組左糹；粗左米。"
+      },
+      {
+        "char": "阻",
+        "similarity": "右邊都是且",
+        "difference": "組左糹；阻左阝。"
+      },
+      {
+        "char": "姐",
+        "similarity": "右邊都是且",
+        "difference": "組左糹；姐左女。"
+      },
+      {
+        "char": "詛",
+        "similarity": "右邊都是且",
+        "difference": "組左糹；詛左言。詛常見於詛咒。"
+      }
+    ],
+    "teachingTip": "先圈出共用部件，再比較部件位置與不同筆畫；少見字、異體與簡體只作辨形觀察，書寫仍使用課本標準正體字。"
+  },
+  "createdAt": "2026-10-16T13:35:14.993991Z"
+}

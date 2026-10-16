@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第8課_similar_shape_6519d815ba51cf04",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "性",
+    "lessonChars": [
+      "坦",
+      "性",
+      "恐",
+      "怖",
+      "組",
+      "占",
+      "播",
+      "控",
+      "制",
+      "傷",
+      "攻",
+      "擊",
+      "權",
+      "脅",
+      "復",
+      "武",
+      "撼",
+      "懼"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "性",
+    "similarChars": [
+      {
+        "char": "姓",
+        "similarity": "右邊都是生",
+        "difference": "性左忄；姓左女。"
+      },
+      {
+        "char": "牲",
+        "similarity": "右邊都是生",
+        "difference": "性左忄；牲左牜。"
+      },
+      {
+        "char": "惺",
+        "similarity": "左邊都是忄，右邊都有生",
+        "difference": "性右生；惺右星，在生上加日。"
+      },
+      {
+        "char": "情",
+        "similarity": "同為忄旁，右邊上方有橫豎交錯",
+        "difference": "性右生；情右青，下方另有月形。"
+      },
+      {
+        "char": "怔",
+        "similarity": "同為忄旁，右邊有橫豎",
+        "difference": "性右生有上撇；怔右正，上方是一橫。"
+      },
+      {
+        "char": "甥",
+        "similarity": "都有生",
+        "difference": "性為忄加生；甥為生加男，生的位置也不同。"
+      }
+    ],
+    "teachingTip": "先圈出共用部件，再比較部件位置與不同筆畫；少見字、異體與簡體只作辨形觀察，書寫仍使用課本標準正體字。"
+  },
+  "createdAt": "2026-10-16T13:35:14.993991Z"
+}

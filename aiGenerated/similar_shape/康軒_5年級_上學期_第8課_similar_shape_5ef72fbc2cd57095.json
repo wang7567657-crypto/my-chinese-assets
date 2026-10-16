@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第8課_similar_shape_5ef72fbc2cd57095",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "怖",
+    "lessonChars": [
+      "坦",
+      "性",
+      "恐",
+      "怖",
+      "組",
+      "占",
+      "播",
+      "控",
+      "制",
+      "傷",
+      "攻",
+      "擊",
+      "權",
+      "脅",
+      "復",
+      "武",
+      "撼",
+      "懼"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "怖",
+    "similarChars": [
+      {
+        "char": "布",
+        "similarity": "都含布",
+        "difference": "怖左邊多忄。"
+      },
+      {
+        "char": "佈",
+        "similarity": "右邊都是布",
+        "difference": "怖左忄；佈左亻。"
+      },
+      {
+        "char": "怙",
+        "similarity": "左邊都是忄，右下有近似框形",
+        "difference": "怖右布下方是巾；怙右古下方是口。怙較少見。"
+      },
+      {
+        "char": "怯",
+        "similarity": "左邊都是忄",
+        "difference": "怖右布；怯右去，下方是厶。"
+      },
+      {
+        "char": "悕",
+        "similarity": "左邊都是忄，右邊都有布",
+        "difference": "怖右布；悕右希，在布上另有乂。悕較少見。"
+      },
+      {
+        "char": "恤",
+        "similarity": "左邊都是忄，右邊有豎畫和外框",
+        "difference": "怖右布為巾形；恤右血下方為皿。"
+      }
+    ],
+    "teachingTip": "先圈出共用部件，再比較部件位置與不同筆畫；少見字、異體與簡體只作辨形觀察，書寫仍使用課本標準正體字。"
+  },
+  "createdAt": "2026-10-16T13:35:14.993991Z"
+}
