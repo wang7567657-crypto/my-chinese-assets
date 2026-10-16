@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_8376f2796a63ca5c",
+  "input": {
+    "char": "獸",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "獸",
+    "groups": {
+      "shape": [
+        {
+          "char": "器",
+          "why": "都有兩個口排在頂端，整體筆畫繁密。",
+          "difference": "獸右側是犬，左側中間有田；器上下各有兩口，中間有犬形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "受",
+          "why": "同音：獸、受都讀ㄕㄡˋ。",
+          "difference": "野獸、猛獸用獸；接受、感受用受。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "禽",
+          "why": "「飛禽走獸」都在說動物，容易混用。",
+          "difference": "禽通常指鳥類；獸通常指有毛、四足的脊椎動物，如虎、鹿。"
+        }
+      ],
+      "component": [
+        {
+          "char": "犬",
+          "why": "獸的右邊是犬，和動物的概念有關。",
+          "difference": "獸右邊的犬有右上方的一點；若漏點會像大，不能省略。"
+        }
+      ]
+    },
+    "tip": "先看左側整組，再看右邊犬；用「接受幫助」與「提防野獸」練習同音選字。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

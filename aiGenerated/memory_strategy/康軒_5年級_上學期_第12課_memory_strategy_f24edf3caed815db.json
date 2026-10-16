@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第12課_memory_strategy_f24edf3caed815db",
+  "input": {
+    "char": "艙",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "艙",
+    "components": [
+      "舟（左）",
+      "倉（右）"
+    ],
+    "association": "記憶聯想：把船裡能放東西、讓人休息的空間想成船上的小倉房，用舟與倉幫助記住艙；不宣稱這就是字源。",
+    "mnemonic": "左舟右倉是船艙，人在船裡有空間。",
+    "visualPrompt": "畫一艘船的簡單剖面，清楚看見內部空間與行李；旁邊獨立排放「艙」標準字形，舟、倉各以一種淡色提示。",
+    "teachingTip": "先圈整艘船，再圈船艙；讓學生說出「舟在左，倉在右」，不要把舟改成氵。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

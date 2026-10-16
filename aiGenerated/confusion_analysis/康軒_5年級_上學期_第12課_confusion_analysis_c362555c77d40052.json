@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_c362555c77d40052",
+  "input": {
+    "char": "渾",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "渾",
+    "groups": {
+      "shape": [
+        {
+          "char": "混",
+          "why": "都有氵，右邊又都是筆畫較多的部分。",
+          "difference": "渾右邊是軍，如渾身；混右邊是昆，如混合。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "魂",
+          "why": "同音：渾、魂都讀ㄏㄨㄣˊ。",
+          "difference": "渾身、渾厚用渾；靈魂用魂。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "全",
+          "why": "渾身就是全身，在這個語詞中意思相近。",
+          "difference": "「渾身溼透」可說成「全身溼透」；但「全班」不能改成渾班。"
+        }
+      ],
+      "component": [
+        {
+          "char": "揮",
+          "why": "右邊都是軍。",
+          "difference": "渾配氵，如渾身；揮配扌，如揮手。用偏旁和語詞一起辨認。"
+        }
+      ]
+    },
+    "tip": "用手從頭比到腳，讀「渾身就是全身」；課文用字是渾身，不因同音或近形而改成混合的混。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

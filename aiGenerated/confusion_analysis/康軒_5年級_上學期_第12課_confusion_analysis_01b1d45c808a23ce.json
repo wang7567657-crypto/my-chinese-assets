@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_01b1d45c808a23ce",
+  "input": {
+    "char": "捲",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "捲",
+    "groups": {
+      "shape": [
+        {
+          "char": "卷",
+          "why": "捲的右邊就是卷。",
+          "difference": "捲有扌，常表示捲起的動作；試卷的卷沒有扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "卷",
+          "why": "依語詞辨音：捲起的捲讀ㄐㄩㄢˇ；試卷的卷讀ㄐㄩㄢˋ，屬近音、聲調不同。",
+          "difference": "「捲起袖子」用捲；「一張試卷」用卷。卷也有ㄐㄩㄢˇ的讀音，不能把卷固定記成四聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "捆",
+          "why": "都是整理物品的手部動作，容易只憑動作猜字。",
+          "difference": "捲是使物品彎曲成筒狀，或把東西裹帶起來；捆是用繩子等綁住。"
+        }
+      ],
+      "component": [
+        {
+          "char": "倦",
+          "why": "右邊都有卷。",
+          "difference": "捲左邊是扌，如捲起；倦左邊是亻，如疲倦。"
+        }
+      ]
+    },
+    "tip": "用紙條示範「捲起」，用繩子示範「捆住」；再連結課文風浪把東西「捲」走的情境。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

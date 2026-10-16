@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第12課_similar_shape_418814148cc9869c",
+  "input": {
+    "targetChar": "捏",
+    "lessonChars": [
+      "烈",
+      "暈",
+      "昏",
+      "艙",
+      "途",
+      "捲",
+      "喪",
+      "獸",
+      "渾",
+      "擱",
+      "礁",
+      "筏",
+      "塌",
+      "捏",
+      "燒",
+      "臼",
+      "烤",
+      "爐",
+      "欲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "捏",
+    "similarChars": [
+      {
+        "char": "涅",
+        "similarity": "共用右側日土",
+        "difference": "捏左扌，涅左氵。"
+      },
+      {
+        "char": "揑",
+        "similarity": "左側都是扌",
+        "difference": "捏右上日下土；揑右上臼下工，是捏的異體，課內寫捏。"
+      },
+      {
+        "char": "捍",
+        "similarity": "都有扌與右上日",
+        "difference": "捏右下土，捍右下干。"
+      },
+      {
+        "char": "捋",
+        "similarity": "左側都是扌",
+        "difference": "捏右日下土；捋右爫下寸。"
+      },
+      {
+        "char": "提",
+        "similarity": "都有扌與右上日",
+        "difference": "捏右日下土；提右是，下方伸出捺。"
+      },
+      {
+        "char": "捺",
+        "similarity": "左側都是扌",
+        "difference": "捏右日下土，捺右大下示。"
+      }
+    ],
+    "teachingTip": "先在「捏」圈出共同部件，再逐字比較部件位置及增減的筆形；少見字只供辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

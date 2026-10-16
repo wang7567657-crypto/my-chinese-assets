@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_e13b4846a0b9597d",
+  "input": {
+    "char": "捏",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "捏",
+    "groups": {
+      "shape": [
+        {
+          "char": "提",
+          "why": "都有扌，右邊上方也都看得到日。",
+          "difference": "捏右邊是日下土；提右邊是是，如提起。比較右邊下半，不能只看日。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鑷",
+          "why": "近音：捏讀ㄋㄧㄝ，鑷子的鑷讀ㄋㄧㄝˋ，聲調不同。",
+          "difference": "用手捏泥土是動作；鑷子是夾取小東西的工具。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "揉",
+          "why": "捏、揉都是用手接觸材料的動作。",
+          "difference": "捏常用手指夾壓，使材料成形；揉常用手來回搓壓，如揉麵糰。"
+        }
+      ],
+      "component": [
+        {
+          "char": "拍",
+          "why": "左邊都是扌。",
+          "difference": "捏右邊日下土；拍右邊是白。把完整右半看清，再連結動作。"
+        }
+      ]
+    },
+    "tip": "以黏土示範用手指「捏」出杯口，並說出「捏泥土」；不用力捏同學的身體。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

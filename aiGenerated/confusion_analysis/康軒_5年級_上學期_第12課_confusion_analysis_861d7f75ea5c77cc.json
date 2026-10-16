@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_861d7f75ea5c77cc",
+  "input": {
+    "char": "燒",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "燒",
+    "groups": {
+      "shape": [
+        {
+          "char": "澆",
+          "why": "右邊同為堯，只差左旁。",
+          "difference": "燒左邊是火，如燒製；澆左邊是氵，如澆水。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "稍",
+          "why": "同音：燒、稍都讀ㄕㄠ。",
+          "difference": "燒火、燒製用燒；稍微、稍後用稍。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "烤",
+          "why": "兩字都與加熱有關，課文都會用到。",
+          "difference": "燒可說燃燒，也可說把陶土加熱成器物；烤常說利用熱把食物烘熟，如烤麵包。"
+        }
+      ],
+      "component": [
+        {
+          "char": "曉",
+          "why": "右邊都有堯。",
+          "difference": "燒配火旁，如燒製；曉配日旁，如知曉。"
+        }
+      ]
+    },
+    "tip": "將「捏好的泥土容器→燒製」與「麵糰→烤成麵包」配對；加熱操作僅由成人示範。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

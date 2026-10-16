@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第12課_memory_strategy_3b2ae01fd3ec2bc2",
+  "input": {
+    "char": "烈",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "烈",
+    "components": [
+      "列（上）",
+      "灬（下）"
+    ],
+    "association": "記憶聯想：把下方灬想成熱烈的火光，提醒「烈」有程度強的感覺，再連結課文猛烈的風雨；這不是字源解說。",
+    "mnemonic": "列在上，四點在下；強烈風雨來勢大。",
+    "visualPrompt": "畫面呈現海上強風和大浪，角落用四點小火光作記憶符號；旁邊獨立排放清楚的「烈」標準字形，圖像不取代字形。",
+    "teachingTip": "先找列與灬，再用「強烈的風雨」說一句話；與裂並排比較下半。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

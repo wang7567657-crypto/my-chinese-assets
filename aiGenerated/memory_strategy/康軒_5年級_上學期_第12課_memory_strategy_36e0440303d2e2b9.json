@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第12課_memory_strategy_36e0440303d2e2b9",
+  "input": {
+    "char": "爐",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "爐",
+    "components": [
+      "火（左）",
+      "盧（右，整組辨認）"
+    ],
+    "association": "記憶聯想：把右邊盧當作一整座烤爐的字形標籤，左邊火提醒爐能加熱；這是助記，不能把盧隨意拆畫成爐子或當作字源。",
+    "mnemonic": "左邊火，右邊盧；烤好麵包靠烤爐。",
+    "visualPrompt": "畫一座有爐門的簡單烤爐，裡面放麵包，外側有安全距離標示；旁邊獨立排放「爐」標準字形，右邊盧保持完整。",
+    "teachingTip": "先辨火、盧兩大部分，再依標準字形看盧下方的皿；對照蘆葦的蘆，注意偏旁位置不同。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

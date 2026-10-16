@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_e0290fdfedc2f78d",
+  "input": {
+    "char": "塌",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "塌",
+    "groups": {
+      "shape": [
+        {
+          "char": "榻",
+          "why": "右邊相同，左旁只差土、木。",
+          "difference": "塌配土旁，如倒塌；榻配木旁，如床榻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "塔",
+          "why": "近音：塌讀ㄊㄚ，塔讀ㄊㄚˇ，聲調不同。",
+          "difference": "房屋倒塌用塌；高塔、燈塔用塔。可說「高塔倒塌了」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "倒",
+          "why": "兩字都可描述原本立著的東西失去支撐。",
+          "difference": "倒可指整件東西傾倒，如椅子倒了；塌常指結構垮下、陷落，如屋頂塌了。"
+        }
+      ],
+      "component": [
+        {
+          "char": "習",
+          "why": "都看得到羽，但位置不同。",
+          "difference": "塌右邊上日下羽；習是上羽下白。不要把塌的右半寫成習。"
+        }
+      ]
+    },
+    "tip": "用積木屋「整間垮下」和椅子「側倒」作比較；字形保留土旁與右下羽。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_8aaf8006e254759a",
+  "input": {
+    "char": "暈",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "暈",
+    "groups": {
+      "shape": [
+        {
+          "char": "昏",
+          "why": "都有日，又都可用在頭部不舒服或意識不清的語詞中。",
+          "difference": "「暈」是日上軍下；「昏」是氏上日下，日的位置不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "運",
+          "why": "近音比較：暈船的暈讀ㄩㄣ，運動的運讀ㄩㄣˋ，聲調不同。",
+          "difference": "「暈船」指搭船搖晃而頭暈；「運動」用運。「月暈」的暈另讀ㄩㄣˋ，才和運同音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "昏",
+          "why": "「頭暈」和「昏迷」都涉及人的身體狀態，但不能直接互換。",
+          "difference": "頭暈是感到昏眩、不舒服；昏迷是失去意識。暈船不等於昏迷。"
+        }
+      ],
+      "component": [
+        {
+          "char": "暉",
+          "why": "都包含日與軍。",
+          "difference": "「暈」上下排列；「暉」左右排列，見於春暉。"
+        }
+      ]
+    },
+    "tip": "依教育部語詞音讀練習：暈船ㄩㄣ ㄔㄨㄢˊ、月暈ㄩㄝˋ ㄩㄣˋ；同一字要連著語詞讀。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

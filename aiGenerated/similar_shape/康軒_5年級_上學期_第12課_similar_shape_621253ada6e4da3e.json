@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第12課_similar_shape_621253ada6e4da3e",
+  "input": {
+    "targetChar": "礁",
+    "lessonChars": [
+      "烈",
+      "暈",
+      "昏",
+      "艙",
+      "途",
+      "捲",
+      "喪",
+      "獸",
+      "渾",
+      "擱",
+      "礁",
+      "筏",
+      "塌",
+      "捏",
+      "燒",
+      "臼",
+      "烤",
+      "爐",
+      "欲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "礁",
+    "similarChars": [
+      {
+        "char": "焦",
+        "similarity": "共用焦",
+        "difference": "礁在焦左多石。"
+      },
+      {
+        "char": "蕉",
+        "similarity": "共用焦",
+        "difference": "礁左石右焦，蕉上艹下焦。"
+      },
+      {
+        "char": "瞧",
+        "similarity": "共用焦",
+        "difference": "礁左石，瞧左目。"
+      },
+      {
+        "char": "樵",
+        "similarity": "共用焦",
+        "difference": "礁左石，樵左木。"
+      },
+      {
+        "char": "憔",
+        "similarity": "共用焦",
+        "difference": "礁左石，憔左忄。"
+      },
+      {
+        "char": "燋",
+        "similarity": "共用焦",
+        "difference": "礁左石，燋左火；燋較少見。"
+      }
+    ],
+    "teachingTip": "先在「礁」圈出共同部件，再逐字比較部件位置及增減的筆形；少見字只供辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

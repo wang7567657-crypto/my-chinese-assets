@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_0326bfb0cd78eb60",
+  "input": {
+    "char": "礁",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "礁",
+    "groups": {
+      "shape": [
+        {
+          "char": "焦",
+          "why": "礁的右邊是焦。",
+          "difference": "礁左邊多石，如礁岩；焦沒有石旁，如燒焦。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "交",
+          "why": "同音：礁、交都讀ㄐㄧㄠ。",
+          "difference": "暗礁、礁岩用礁；交流、交朋友用交。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "岩",
+          "why": "礁、岩都與岩石有關，課文也用到礁岩。",
+          "difference": "岩泛指岩石；礁常指水中或岸邊的岩石，可能妨礙船隻行進。"
+        }
+      ],
+      "component": [
+        {
+          "char": "蕉",
+          "why": "兩字都有焦。",
+          "difference": "礁配石旁，表示岩石；蕉上面是艹，如香蕉。"
+        }
+      ]
+    },
+    "tip": "對照「船碰到礁岩」與「食物燒焦」：水中岩石要找石旁，別把礁寫成焦。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

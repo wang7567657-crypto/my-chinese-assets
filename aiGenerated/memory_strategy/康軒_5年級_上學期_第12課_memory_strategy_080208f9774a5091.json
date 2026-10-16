@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第12課_memory_strategy_080208f9774a5091",
+  "input": {
+    "char": "獸",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "獸",
+    "components": [
+      "左側整組（上兩口、中田、下一與口）",
+      "犬（右）"
+    ],
+    "association": "記憶聯想：先認右邊的犬，聯想到野獸，再把左側當成一個需要逐層看清的整組；聯想不是字源解說。",
+    "mnemonic": "左邊分層看完整，右邊犬點別漏掉。",
+    "visualPrompt": "畫森林邊的鹿與遠處的老虎，保持平靜、無攻擊場面；旁邊獨立排放「獸」標準字形，左側用淡框分層，右側犬的點以圓圈提示。",
+    "teachingTip": "先口說左側上、中、下的排列，再確認右側是犬；避免一次背太多零散筆畫，也不要把犬寫成大。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}
