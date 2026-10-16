@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_aa440c21d809c689",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "嚨",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "嚨",
+    "similarChars": [
+      {
+        "char": "龍",
+        "similarity": "「龍」正是嚨的右半。",
+        "difference": "嚨比龍多了左邊的口旁。"
+      },
+      {
+        "char": "攏",
+        "similarity": "右半同為完整的「龍」。",
+        "difference": "嚨左口；攏左扌。"
+      },
+      {
+        "char": "瓏",
+        "similarity": "右半同為完整的「龍」。",
+        "difference": "嚨左口；瓏左玉旁，寫成王旁的形狀。"
+      },
+      {
+        "char": "朧",
+        "similarity": "右半同為完整的「龍」。",
+        "difference": "嚨左口；朧左月。"
+      },
+      {
+        "char": "籠",
+        "similarity": "都含完整的「龍」。",
+        "difference": "嚨是左口右龍；籠是上竹字頭下龍。"
+      },
+      {
+        "char": "寵",
+        "similarity": "都含完整的「龍」。",
+        "difference": "嚨在龍左邊加口；寵在龍上面加宀。"
+      }
+    ],
+    "teachingTip": "先保留完整的繁體龍，再比較口、扌、玉旁、月、竹和宀。「嚨」的口在左邊，不能把龍簡寫成龙。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

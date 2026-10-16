@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_a991d3b918075be4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "殺",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "殺",
+    "similarChars": [
+      {
+        "char": "剎",
+        "similarity": "左半相同，上有交叉筆形，下有帶點的朮形。",
+        "difference": "殺的右半是殳；剎的右半是立刀旁刂。"
+      },
+      {
+        "char": "弒",
+        "similarity": "左半與殺、剎相同，都有交叉筆形及帶點下部。",
+        "difference": "殺右邊是殳；弒右邊是式。"
+      },
+      {
+        "char": "鎩",
+        "similarity": "右半包含完整的「殺」。",
+        "difference": "鎩較少見，是在殺左邊再加金旁；殺本身沒有金旁。"
+      },
+      {
+        "char": "設",
+        "similarity": "右半同為「殳」。",
+        "difference": "殺左半有交叉筆形和朮形；設左半是言。"
+      },
+      {
+        "char": "投",
+        "similarity": "右半同為「殳」。",
+        "difference": "殺左半較繁密；投左邊只有扌。"
+      },
+      {
+        "char": "段",
+        "similarity": "右半同為「殳」。",
+        "difference": "殺左半上方有交叉筆形、下方帶點；段左半是豎撇配短橫的形狀，沒有這組交叉筆形。"
+      }
+    ],
+    "teachingTip": "先辨右半：殳是殺，刂是剎，式是弒。臺灣標準字形的殺、剎、弒左半下方是帶點的朮形，不能直接當成木而漏點。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

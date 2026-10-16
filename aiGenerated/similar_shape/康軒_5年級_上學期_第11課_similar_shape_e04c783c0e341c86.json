@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_e04c783c0e341c86",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "傾",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "傾",
+    "similarChars": [
+      {
+        "char": "頃",
+        "similarity": "「頃」正是傾的右半。",
+        "difference": "傾比頃多了最左邊的人旁亻。"
+      },
+      {
+        "char": "穎",
+        "similarity": "都能看見「匕」形和右側的「頁」。",
+        "difference": "傾是亻加頃；穎在匕下方有禾，最左邊沒有另加亻。"
+      },
+      {
+        "char": "潁",
+        "similarity": "都含匕形與右側的頁。",
+        "difference": "潁較少見，匕下方是水；傾則是左亻、右頃。"
+      },
+      {
+        "char": "熲",
+        "similarity": "都含匕形與右側的頁。",
+        "difference": "熲是罕用字，匕下方是火；傾沒有這個火，最左側另有亻。"
+      },
+      {
+        "char": "頎",
+        "similarity": "右側同為頁，左側都是狹長部件。",
+        "difference": "頎較少見，是左斤右頁；傾在頁左邊依序有亻和匕形。"
+      },
+      {
+        "char": "頑",
+        "similarity": "右側同為「頁」。",
+        "difference": "頑左邊是元；傾左側則有亻和頃的匕形，不能合寫成元。"
+      }
+    ],
+    "teachingTip": "先把「傾」分成「亻＋頃」，確認最左邊有人旁。再看頁左邊：頃沒有禾、水、火，也不是斤或元。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

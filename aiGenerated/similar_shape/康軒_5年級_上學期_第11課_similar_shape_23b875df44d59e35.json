@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_23b875df44d59e35",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "營",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "營",
+    "similarChars": [
+      {
+        "char": "榮",
+        "similarity": "上方同為兩個火形，下接冖。",
+        "difference": "營在冖下面寫呂；榮在冖下面寫木。"
+      },
+      {
+        "char": "熒",
+        "similarity": "兩字上半都有兩個火形和冖。",
+        "difference": "營的下半是呂；熒的下半是火。"
+      },
+      {
+        "char": "螢",
+        "similarity": "上半同樣是兩個火形加冖。",
+        "difference": "營的下半是呂；螢的下半是虫。"
+      },
+      {
+        "char": "勞",
+        "similarity": "上半都有兩個火形和冖。",
+        "difference": "營的下半是呂；勞的下半是力。"
+      },
+      {
+        "char": "瑩",
+        "similarity": "上半同樣有兩個火形和冖。",
+        "difference": "營在冖下寫呂；瑩在冖下寫玉，玉的點不能漏。"
+      },
+      {
+        "char": "縈",
+        "similarity": "上半同為兩個火形加冖。",
+        "difference": "營的下半是呂；縈的下半是糸。"
+      }
+    ],
+    "teachingTip": "遮住共同的上半，直接比較冖下面：營是呂，榮是木，熒是火，螢是虫，勞是力，瑩是玉，縈是糸。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

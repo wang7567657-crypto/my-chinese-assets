@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第11課_confusion_analysis_390940fb23c2785d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "置",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "置",
+    "groups": {
+      "shape": [
+        {
+          "char": "署",
+          "why": "字形含有相同或近似的部分，容易看錯。",
+          "difference": "兩字上方同罒，置下直、署下者。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "志",
+          "why": "同音ㄓˋ；位置用置，志向用志。",
+          "difference": "同音ㄓˋ；位置用置，志向用志。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "放",
+          "why": "詞義或使用情境接近，需按句意選字。",
+          "difference": "置有放置的意思，置於較常用在書面語。"
+        }
+      ],
+      "component": [
+        {
+          "char": "署",
+          "why": "比較共用部分和外側部件的位置。",
+          "difference": "兩字上方同罒，置下直、署下者。"
+        }
+      ]
+    },
+    "tip": "先用課文語詞確認「置」的意思，再圈出與「署」不同的部分；讀音相同也不能直接換字。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

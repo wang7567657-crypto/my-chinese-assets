@@ -1,0 +1,63 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_5年級_上學期_第11課_feature_ai_batch_97f96bf1958d3654",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 19,
+    "batchCharacters": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_4fe9464457ab6fca.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_1e966d842a0388a2.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_f0fbe970c6fe8cae.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_ece966c90dc83954.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_a711dc43f3e87f01.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_42cd8edd3e6223b1.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_e04c783c0e341c86.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_4dd1d3950c74fbf0.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_23b875df44d59e35.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_a991d3b918075be4.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_b5856f6df5651280.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_1d197ac2ddf7f62f.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_c3c749d8f53c4c0b.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_f467cd252c664813.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_a9d0a55fbbd2ec84.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_1db244fcb56755fe.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_ef16e4fccf8692e8.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_682ae36b8415e777.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第11課_similar_shape_aa440c21d809c689.json"
+    ]
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

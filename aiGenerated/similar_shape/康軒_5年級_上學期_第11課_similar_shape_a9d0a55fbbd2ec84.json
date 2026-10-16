@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_a9d0a55fbbd2ec84",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "祈",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "祈",
+    "similarChars": [
+      {
+        "char": "沂",
+        "similarity": "右半同為「斤」。",
+        "difference": "祈左邊是示字旁；沂左邊是三點水氵。"
+      },
+      {
+        "char": "析",
+        "similarity": "右半同為「斤」。",
+        "difference": "祈配示字旁；析配木旁。"
+      },
+      {
+        "char": "欣",
+        "similarity": "都含完整的「斤」。",
+        "difference": "祈是左示旁右斤；欣是左斤右欠，斤的位置相反。"
+      },
+      {
+        "char": "近",
+        "similarity": "都含完整的「斤」。",
+        "difference": "祈在斤左邊加示旁；近在斤左下方加辶。"
+      },
+      {
+        "char": "斬",
+        "similarity": "右半同為「斤」。",
+        "difference": "祈左側是示字旁；斬左側是車。"
+      },
+      {
+        "char": "祁",
+        "similarity": "左邊同為示字旁。",
+        "difference": "祈右邊是斤；祁右邊是右耳旁阝。"
+      }
+    ],
+    "teachingTip": "先辨左旁，再辨右旁：祈是示旁配斤。示旁依課本標準字形書寫，不要當成水旁；斤也不能換成右耳旁。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

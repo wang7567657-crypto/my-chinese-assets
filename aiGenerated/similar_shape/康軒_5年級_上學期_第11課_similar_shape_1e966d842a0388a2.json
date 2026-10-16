@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_1e966d842a0388a2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "疤",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "疤",
+    "similarChars": [
+      {
+        "char": "吧",
+        "similarity": "都含「巴」，末筆都有豎彎鉤。",
+        "difference": "疤由「疒」包住巴；吧是左口右巴。"
+      },
+      {
+        "char": "把",
+        "similarity": "都含完整的「巴」。",
+        "difference": "疤外側是「疒」；把左邊是「扌」。"
+      },
+      {
+        "char": "芭",
+        "similarity": "下方都可辨出「巴」。",
+        "difference": "疤上方連著左側的疒；芭只在巴上方加「艹」。"
+      },
+      {
+        "char": "笆",
+        "similarity": "下方都含「巴」。",
+        "difference": "疤外側是病字旁「疒」；笆上方是「竹」字頭。"
+      },
+      {
+        "char": "肥",
+        "similarity": "都含「巴」，都是左右不對稱的輪廓。",
+        "difference": "疤的巴在疒內；肥是左「月」、右巴，沒有病字旁。"
+      },
+      {
+        "char": "爸",
+        "similarity": "都以「巴」作下方主要部件。",
+        "difference": "疤外側是疒；爸上方是「父」，不能寫成交叉的父字頭。"
+      }
+    ],
+    "teachingTip": "把「疤」分成「疒＋巴」。先確認病字旁的頂點、橫、撇及左側點、挑，再寫巴，不把外側換成艹或竹。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

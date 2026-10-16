@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_f467cd252c664813",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "翼",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "翼",
+    "similarChars": [
+      {
+        "char": "冀",
+        "similarity": "下半同為「異」。",
+        "difference": "翼上方是羽；冀上方是北。"
+      },
+      {
+        "char": "異",
+        "similarity": "「異」正是翼的下半。",
+        "difference": "翼比異多了上方完整的羽。"
+      },
+      {
+        "char": "戴",
+        "similarity": "都含「異」，可看到田與下面的共形。",
+        "difference": "翼在異上方加羽；戴的異外側有帶斜鉤的戈形，沒有羽字頭。"
+      },
+      {
+        "char": "糞",
+        "similarity": "下半同為「異」。",
+        "difference": "翼上方是羽；糞上方是米。"
+      },
+      {
+        "char": "翌",
+        "similarity": "上半同為「羽」。",
+        "difference": "翼下半是異；翌下半只有立。"
+      },
+      {
+        "char": "翠",
+        "similarity": "上半同為「羽」。",
+        "difference": "翼下半是異；翠下半是卒，沒有田字形。"
+      }
+    ],
+    "teachingTip": "分兩步辨認：上方是羽，下方是異，才是翼。異可再看成田與共形；不要把羽換成北或米，也不要把異換成立或卒。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

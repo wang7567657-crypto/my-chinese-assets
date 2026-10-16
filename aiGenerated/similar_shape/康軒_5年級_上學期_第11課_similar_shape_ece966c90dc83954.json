@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_ece966c90dc83954",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "罐",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "罐",
+    "similarChars": [
+      {
+        "char": "灌",
+        "similarity": "都含「雚」：上有艹與兩個口，下有隹。",
+        "difference": "罐左「缶」；灌左「氵」，共同的雚都在右邊。"
+      },
+      {
+        "char": "權",
+        "similarity": "右半同為完整的「雚」。",
+        "difference": "罐左邊是缶；權左邊是木。"
+      },
+      {
+        "char": "觀",
+        "similarity": "都含繁密的「雚」。",
+        "difference": "罐是左缶右雚；觀是左雚右見，部件位置不同。"
+      },
+      {
+        "char": "歡",
+        "similarity": "都含完整的「雚」。",
+        "difference": "罐的雚在右；歡的雚在左，右邊另加欠。"
+      },
+      {
+        "char": "顴",
+        "similarity": "都含上方兩口、下方隹的「雚」。",
+        "difference": "罐是缶加雚；顴是雚加頁，頁在最右側。"
+      },
+      {
+        "char": "鸛",
+        "similarity": "都含完整的「雚」。",
+        "difference": "罐左缶右雚；鸛左雚右鳥，不能把鳥旁當成缶。"
+      }
+    ],
+    "teachingTip": "先辨「雚」的位置，再找缶、氵、木、見、欠、頁或鳥。「罐」是左缶右雚；雚的兩個口要並排。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

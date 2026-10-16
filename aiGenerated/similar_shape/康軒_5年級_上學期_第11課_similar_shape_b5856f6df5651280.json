@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_b5856f6df5651280",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "崇",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "崇",
+    "similarChars": [
+      {
+        "char": "宗",
+        "similarity": "「宗」正是崇的下半。",
+        "difference": "崇在宗上面多一個山；宗本身沒有山字頭。"
+      },
+      {
+        "char": "棕",
+        "similarity": "都含完整的「宗」。",
+        "difference": "崇是上山下宗；棕是左木右宗。"
+      },
+      {
+        "char": "淙",
+        "similarity": "共同部件是「宗」。",
+        "difference": "崇是上山下宗；淙是左氵右宗。"
+      },
+      {
+        "char": "綜",
+        "similarity": "共同部件是「宗」。",
+        "difference": "崇上方是山；綜左邊是糸，宗在右邊。"
+      },
+      {
+        "char": "粽",
+        "similarity": "共同部件是「宗」。",
+        "difference": "崇是上山下宗；粽是左米右宗。"
+      },
+      {
+        "char": "鬃",
+        "similarity": "下半同為完整的「宗」。",
+        "difference": "崇上方只有山；鬃上方是髟，含長形與三撇，筆畫較多。"
+      }
+    ],
+    "teachingTip": "崇的結構是「山＋宗」，宗裡還有「宀＋示」。先看宗外面加的是山、木、氵、糸、米還是髟，不要只認宗。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}
