@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_81c8357a9c136e9b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "基",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "基",
+    "groups": {
+      "shape": [
+        {
+          "char": "其",
+          "why": "上部相同",
+          "difference": "基比其多下方土"
+        }
+      ],
+      "sound": [
+        {
+          "char": "雞",
+          "why": "基、雞都讀ㄐㄧ，是同音字",
+          "difference": "基金會用基；家禽用雞"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "礎",
+          "why": "基礎連用，都與根本有關",
+          "difference": "基常表示根基；礎原指柱下石座，基金不能換成礎金"
+        }
+      ],
+      "component": [
+        {
+          "char": "土",
+          "why": "基下方有土",
+          "difference": "土上橫短下橫長，不是士"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_67295b55d35d4825",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "疾",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "疾",
+    "groups": {
+      "shape": [
+        {
+          "char": "族",
+          "why": "都含矢",
+          "difference": "疾外部是疒；族左上有方，右上另有部件"
+        }
+      ],
+      "sound": [
+        {
+          "char": "急",
+          "why": "疾、急都讀ㄐㄧˊ，是同音字",
+          "difference": "瘧疾的疾指病；著急是心情急切"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "病",
+          "why": "瘧疾的疾與病義相近",
+          "difference": "疾常見於疾病等書面詞；病也能表示生病"
+        }
+      ],
+      "component": [
+        {
+          "char": "矢",
+          "why": "疾裡有矢",
+          "difference": "矢有上方短撇、橫及下方大形，不是失"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_e33826b0bb3f564e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "瘧",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "瘧",
+    "groups": {
+      "shape": [
+        {
+          "char": "虐",
+          "why": "都含虐形",
+          "difference": "瘧外加疒；虐沒有疒"
+        }
+      ],
+      "sound": [
+        {
+          "char": "略",
+          "why": "瘧ㄋㄩㄝˋ、略ㄌㄩㄝˋ是近音，聲母不同",
+          "difference": "瘧疾是疾病；省略是略去"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "病",
+          "why": "都與疾病有關",
+          "difference": "瘧是特定疾病；病是泛稱"
+        }
+      ],
+      "component": [
+        {
+          "char": "疒",
+          "why": "瘧有疒部",
+          "difference": "疒包在左上；不能換成广"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_2e5e801f48fec644",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "赴",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "赴",
+    "groups": {
+      "shape": [
+        {
+          "char": "起",
+          "why": "左下都是走",
+          "difference": "赴右卜；起右己"
+        }
+      ],
+      "sound": [
+        {
+          "char": "付",
+          "why": "赴、付都讀ㄈㄨˋ，是同音字",
+          "difference": "赴是前往或投入；付是交給"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "往",
+          "why": "都有前去之意",
+          "difference": "赴常見赴約、全力以赴；往可表示方向"
+        }
+      ],
+      "component": [
+        {
+          "char": "卜",
+          "why": "赴右上有卜",
+          "difference": "卜右邊是點；十的橫畫穿過豎，別混寫"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

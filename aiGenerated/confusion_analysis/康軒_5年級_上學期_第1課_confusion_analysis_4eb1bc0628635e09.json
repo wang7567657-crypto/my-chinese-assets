@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_4eb1bc0628635e09",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "集",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "集",
+    "groups": {
+      "shape": [
+        {
+          "char": "焦",
+          "why": "上方都是隹",
+          "difference": "集下面木；焦下面灬"
+        }
+      ],
+      "sound": [
+        {
+          "char": "級",
+          "why": "集、級都讀ㄐㄧˊ，是同音字",
+          "difference": "集合是聚攏；年級是分級"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "聚",
+          "why": "都有聚攏之意",
+          "difference": "集可作集合、收集；聚常指聚在一起"
+        }
+      ],
+      "component": [
+        {
+          "char": "隹",
+          "why": "集上方是隹",
+          "difference": "隹不是住，右側橫畫較多"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

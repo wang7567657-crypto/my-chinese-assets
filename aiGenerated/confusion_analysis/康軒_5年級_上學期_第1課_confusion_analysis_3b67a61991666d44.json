@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_3b67a61991666d44",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "狀",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "狀",
+    "groups": {
+      "shape": [
+        {
+          "char": "壯",
+          "why": "左邊都是爿",
+          "difference": "狀右犬；壯右士"
+        }
+      ],
+      "sound": [
+        {
+          "char": "撞",
+          "why": "狀、撞都讀ㄓㄨㄤˋ，是同音字",
+          "difference": "獎狀是文書；撞擊是碰擊"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "態",
+          "why": "都可描述樣子或情形",
+          "difference": "形狀指外形；狀態可指當時的情況"
+        }
+      ],
+      "component": [
+        {
+          "char": "犬",
+          "why": "狀右邊是犬",
+          "difference": "犬的點在右上，不要漏成大"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

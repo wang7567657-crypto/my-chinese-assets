@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_20de556d80d8fb54",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "寄",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "寄",
+    "groups": {
+      "shape": [
+        {
+          "char": "奇",
+          "why": "寄的下方是奇，兩字共用奇部件",
+          "difference": "寄上面加宀；奇沒有宀"
+        }
+      ],
+      "sound": [
+        {
+          "char": "記",
+          "why": "寄、記都讀ㄐㄧˋ，是同音字",
+          "difference": "寄信是送出信件；記錄是寫下或記住"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "送",
+          "why": "都涉及交付物品",
+          "difference": "寄常透過郵遞；送可親自交付"
+        }
+      ],
+      "component": [
+        {
+          "char": "宀",
+          "why": "寄上方有宀",
+          "difference": "宀有頂點，不能寫成冖"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}
