@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_6a8b3e7dccccddca",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "劇",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "劇",
+    "groups": {
+      "shape": [
+        {
+          "char": "據",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "劇右側是刂，據左側是扌；兩字共有豦。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "句",
+          "why": "劇、句同音ㄐㄩˋ；劇情與句子不同。",
+          "difference": "依語詞辨別：劇、句同音ㄐㄩˋ；劇情與句子不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "戲",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "劇情指戲劇故事的情節；遊戲的戲可指玩耍活動，不能直接替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "豕",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "劇左下有豕，左上有虍，右側另有刂。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「劇」字語詞，再比較「據」：劇右側是刂，據左側是扌；兩字共有豦。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

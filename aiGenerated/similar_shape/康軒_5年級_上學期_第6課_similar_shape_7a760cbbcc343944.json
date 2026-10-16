@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第6課_similar_shape_7a760cbbcc343944",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "娛",
+    "lessonChars": [
+      "娛",
+      "汽",
+      "哨",
+      "典",
+      "框",
+      "劇",
+      "父",
+      "責",
+      "判",
+      "鳴",
+      "穎",
+      "獲",
+      "佳",
+      "膩",
+      "效",
+      "隊",
+      "益",
+      "貌",
+      "官",
+      "增"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "娛",
+    "similarChars": [
+      {
+        "char": "誤",
+        "similarity": "兩字右側同為吳。",
+        "difference": "娛左旁是女，誤左旁是言；右側吳保持相同。"
+      },
+      {
+        "char": "蜈",
+        "similarity": "兩字右側同為吳。",
+        "difference": "娛左旁是女，蜈左旁是虫，虫的下方有提、點。"
+      },
+      {
+        "char": "俁",
+        "similarity": "兩字右側同為吳。",
+        "difference": "娛左旁是女，俁左旁是亻；俁為較少見的字。"
+      },
+      {
+        "char": "鋘",
+        "similarity": "兩字右側同為吳。",
+        "difference": "娛左旁是女，鋘左旁是金；鋘為較少見的字。"
+      },
+      {
+        "char": "吳",
+        "similarity": "吳是娛的完整右側部件。",
+        "difference": "娛在吳左邊另加女；單寫吳時沒有女旁。"
+      },
+      {
+        "char": "娟",
+        "similarity": "兩字左旁都是女，右上都有口形。",
+        "difference": "娛右側是吳；娟右側是肙，上口下肉月形，沒有吳下方伸展的筆畫。"
+      }
+    ],
+    "teachingTip": "先把右側共同的「吳」圈出，再逐一換左旁。吳下半不要誤寫成天；俁、鋘較少見，只作辨形延伸。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

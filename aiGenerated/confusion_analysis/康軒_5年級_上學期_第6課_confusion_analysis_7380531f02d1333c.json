@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_7380531f02d1333c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "膩",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "膩",
+    "groups": {
+      "shape": [
+        {
+          "char": "貳",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "膩比貳多左側肉字旁（外形像月）；標準手寫內部為點、挑。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "逆",
+          "why": "膩ㄋㄧˋ與逆ㄋㄧˋ同音；細膩與逆向不同。",
+          "difference": "依語詞辨別：膩ㄋㄧˋ與逆ㄋㄧˋ同音；細膩與逆向不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "細",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "細膩強調細緻周到；細還可指尺寸小，如細線，不能都換成膩。"
+        }
+      ],
+      "component": [
+        {
+          "char": "貝",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "膩右側貳裡有貝；貝上面仍有其他筆畫，不是肉字旁直接加貝。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「膩」字語詞，再比較「貳」：膩比貳多左邊月。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

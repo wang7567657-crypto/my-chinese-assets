@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第6課_similar_shape_765b5122c7f65f3c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "父",
+    "lessonChars": [
+      "娛",
+      "汽",
+      "哨",
+      "典",
+      "框",
+      "劇",
+      "父",
+      "責",
+      "判",
+      "鳴",
+      "穎",
+      "獲",
+      "佳",
+      "膩",
+      "效",
+      "隊",
+      "益",
+      "貌",
+      "官",
+      "增"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "父",
+    "similarChars": [
+      {
+        "char": "交",
+        "similarity": "交的下部保留父形。",
+        "difference": "交比父多最上方的點、橫；父沒有亠。"
+      },
+      {
+        "char": "文",
+        "similarity": "兩字下半都有交叉的撇、捺。",
+        "difference": "父上方是分開的撇、點；文上方是點、橫，不能互換。"
+      },
+      {
+        "char": "爻",
+        "similarity": "兩字都有交叉的撇、捺。",
+        "difference": "父上方兩筆分開，下方才交叉；爻上下兩組撇、捺都交叉。"
+      },
+      {
+        "char": "爸",
+        "similarity": "爸的上方完整包含父。",
+        "difference": "爸在父下加巴；父本身沒有下方的巴。"
+      },
+      {
+        "char": "斧",
+        "similarity": "斧的上方完整包含父。",
+        "difference": "斧在父下加斤；父本身沒有下方的斤。"
+      },
+      {
+        "char": "釜",
+        "similarity": "釜上方有父形，下部筆畫集中在中央。",
+        "difference": "釜在父下方另有金字去掉人後的下半部；父沒有這些橫筆、豎筆與兩點。"
+      }
+    ],
+    "teachingTip": "把父分成上方兩筆與下方交叉兩筆來看。比文看上方，比爻看上方是否交叉；爸、斧、釜則先遮住父下方多出的部件。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

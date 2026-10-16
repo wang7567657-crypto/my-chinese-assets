@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第6課_similar_shape_855463a252dfc6c0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "責",
+    "lessonChars": [
+      "娛",
+      "汽",
+      "哨",
+      "典",
+      "框",
+      "劇",
+      "父",
+      "責",
+      "判",
+      "鳴",
+      "穎",
+      "獲",
+      "佳",
+      "膩",
+      "效",
+      "隊",
+      "益",
+      "貌",
+      "官",
+      "增"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "責",
+    "similarChars": [
+      {
+        "char": "績",
+        "similarity": "績的右側完整包含責。",
+        "difference": "責本身沒有左旁；績在責左邊加糹。"
+      },
+      {
+        "char": "積",
+        "similarity": "積的右側完整包含責。",
+        "difference": "責本身沒有左旁；積在責左邊加禾。"
+      },
+      {
+        "char": "嘖",
+        "similarity": "嘖的右側完整包含責。",
+        "difference": "責本身沒有左旁；嘖在責左邊加口。"
+      },
+      {
+        "char": "漬",
+        "similarity": "漬的右側完整包含責。",
+        "difference": "責本身沒有左旁；漬在責左邊加氵。"
+      },
+      {
+        "char": "債",
+        "similarity": "債的右側完整包含責。",
+        "difference": "責本身沒有左旁；債在責左邊加亻。"
+      },
+      {
+        "char": "青",
+        "similarity": "兩字上方同為龶形，下方都有直框輪廓。",
+        "difference": "責下方是貝，框下有撇、點；青下方是青字底的月形，沒有貝下方的撇、點。"
+      }
+    ],
+    "teachingTip": "先看責的上下結構：上方龶，下方貝。貝框內兩橫、框下撇點要保留；再把不同左旁接到完整的責旁邊辨認。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

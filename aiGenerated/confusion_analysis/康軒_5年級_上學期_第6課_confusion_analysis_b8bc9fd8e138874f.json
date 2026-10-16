@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_b8bc9fd8e138874f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "效",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "效",
+    "groups": {
+      "shape": [
+        {
+          "char": "郊",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "效右攵，郊右阝；左側同為交。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "笑",
+          "why": "效、笑同音ㄒㄧㄠˋ；效果與微笑不同。",
+          "difference": "依語詞辨別：效、笑同音ㄒㄧㄠˋ；效果與微笑不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "果",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "效果是行動產生的作用或結果；果還指果實，不能任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "交",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "效在交右側加攵；攵不要寫成夂。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「效」字語詞，再比較「郊」：效右攵，郊右阝；左側同為交。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

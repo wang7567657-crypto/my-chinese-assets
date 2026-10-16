@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第6課_similar_shape_8a2bf353a032576b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "判",
+    "lessonChars": [
+      "娛",
+      "汽",
+      "哨",
+      "典",
+      "框",
+      "劇",
+      "父",
+      "責",
+      "判",
+      "鳴",
+      "穎",
+      "獲",
+      "佳",
+      "膩",
+      "效",
+      "隊",
+      "益",
+      "貌",
+      "官",
+      "增"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "判",
+    "similarChars": [
+      {
+        "char": "叛",
+        "similarity": "兩字左側同為半。",
+        "difference": "判右側是刂；叛右側是反。"
+      },
+      {
+        "char": "伴",
+        "similarity": "兩字都含半。",
+        "difference": "判是左半右刂；伴是左亻右半。"
+      },
+      {
+        "char": "泮",
+        "similarity": "兩字都含半。",
+        "difference": "判是左半右刂；泮是左氵右半。泮較少見，作延伸辨形。"
+      },
+      {
+        "char": "畔",
+        "similarity": "兩字都含半。",
+        "difference": "判是左半右刂；畔是左田右半。"
+      },
+      {
+        "char": "胖",
+        "similarity": "兩字都含半。",
+        "difference": "判是左半右刂；胖是左肉字旁右半，肉字旁外形像月。"
+      },
+      {
+        "char": "拌",
+        "similarity": "兩字都含半。",
+        "difference": "判是左半右刂；拌是左扌右半。"
+      }
+    ],
+    "teachingTip": "先圈共同的半，再問半在哪一側、另一邊是什麼。判是半在左、刂在右，不能把刂換成反或把半移到右側。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

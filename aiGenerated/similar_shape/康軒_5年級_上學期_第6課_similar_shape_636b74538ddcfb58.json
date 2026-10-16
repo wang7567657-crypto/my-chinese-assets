@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第6課_similar_shape_636b74538ddcfb58",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "劇",
+    "lessonChars": [
+      "娛",
+      "汽",
+      "哨",
+      "典",
+      "框",
+      "劇",
+      "父",
+      "責",
+      "判",
+      "鳴",
+      "穎",
+      "獲",
+      "佳",
+      "膩",
+      "效",
+      "隊",
+      "益",
+      "貌",
+      "官",
+      "增"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "劇",
+    "similarChars": [
+      {
+        "char": "據",
+        "similarity": "兩字都含豦，也就是上虍下豕。",
+        "difference": "劇把刂放在豦右側；據把扌放在豦左側，沒有右側刂。"
+      },
+      {
+        "char": "遽",
+        "similarity": "兩字都含豦。",
+        "difference": "劇右側加刂；遽左下加辶，沒有右側刂。"
+      },
+      {
+        "char": "噱",
+        "similarity": "兩字都含豦。",
+        "difference": "劇是左豦右刂；噱是左口右豦，附加部件及位置都不同。"
+      },
+      {
+        "char": "醵",
+        "similarity": "兩字都含豦。",
+        "difference": "劇在豦右側有刂；醵在豦左側有酉。醵為較少見的字。"
+      },
+      {
+        "char": "虞",
+        "similarity": "兩字都含虍，虍下面都有較密集的筆畫。",
+        "difference": "劇的虍下是豕，右側另有刂；虞的虍下是吳，沒有刂。"
+      },
+      {
+        "char": "處",
+        "similarity": "兩字都含虍，下方有撇捺或鉤筆。",
+        "difference": "劇的虍下是豕，另有右刂；處的虍下是夂和几形，沒有豕及右刂。"
+      }
+    ],
+    "teachingTip": "先圈出「豦」的虍和豕，再看附加部件放在哪裡：劇的刂在右，據的扌在左，遽的辶在左下。醵較少見，只辨形即可。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

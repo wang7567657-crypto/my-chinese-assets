@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第6課_confusion_analysis_12fc99590aefaa53",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "增",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "增",
+    "groups": {
+      "shape": [
+        {
+          "char": "贈",
+          "why": "字形或共用部件相近，容易看錯。",
+          "difference": "增左土，贈左貝；右側同為曾。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "曾",
+          "why": "增ㄗㄥ與曾祖父的曾ㄗㄥ同音；曾經的曾讀ㄘㄥˊ，須看語詞。",
+          "difference": "依語詞辨別：增ㄗㄥ與曾祖父的曾ㄗㄥ同音；曾經的曾讀ㄘㄥˊ，須看語詞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "加",
+          "why": "意思或常用語詞相關，需比較用法。",
+          "difference": "增加指數量變多；加也可指加法運算，增不能替代所有加。"
+        }
+      ],
+      "component": [
+        {
+          "char": "曾",
+          "why": "含有相同或相近的可見部件。",
+          "difference": "增在曾的左側加土；曾的中間不是田，按標準字形看。"
+        }
+      ]
+    },
+    "tip": "讀課文中的「增」字語詞，再比較「贈」：增左土，贈左貝；右側同為曾。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}

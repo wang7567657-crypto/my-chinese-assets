@@ -1,0 +1,76 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第6課_similar_shape_1aae726e87c0c866",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "效",
+    "lessonChars": [
+      "娛",
+      "汽",
+      "哨",
+      "典",
+      "框",
+      "劇",
+      "父",
+      "責",
+      "判",
+      "鳴",
+      "穎",
+      "獲",
+      "佳",
+      "膩",
+      "效",
+      "隊",
+      "益",
+      "貌",
+      "官",
+      "增"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課"
+  },
+  "data": {
+    "targetChar": "效",
+    "similarChars": [
+      {
+        "char": "校",
+        "similarity": "兩字都含交。",
+        "difference": "效是左交右攵；校是左木右交。"
+      },
+      {
+        "char": "郊",
+        "similarity": "兩字左側同為交。",
+        "difference": "效右側是攵；郊右側是阝，沒有攵的末筆捺。"
+      },
+      {
+        "char": "咬",
+        "similarity": "兩字都含交。",
+        "difference": "效是左交右攵；咬是左口右交。"
+      },
+      {
+        "char": "較",
+        "similarity": "兩字都含交。",
+        "difference": "效是左交右攵；較是左車右交。"
+      },
+      {
+        "char": "絞",
+        "similarity": "兩字都含交。",
+        "difference": "效是左交右攵；絞是左糹右交。"
+      },
+      {
+        "char": "狡",
+        "similarity": "兩字都含交。",
+        "difference": "效是左交右攵；狡是左犭右交。"
+      }
+    ],
+    "teachingTip": "先把交圈起來，再看另一部件的位置。效是交在左、攵在右；郊只換右旁，其餘字則把交放在右側。"
+  },
+  "createdAt": "2026-10-16T11:34:24.880423Z"
+}
