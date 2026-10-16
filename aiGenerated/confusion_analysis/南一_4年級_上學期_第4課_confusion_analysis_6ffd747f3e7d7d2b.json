@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第4課_confusion_analysis_6ffd747f3e7d7d2b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "翻",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "翻",
+    "groups": {
+      "shape": [
+        {
+          "char": "番",
+          "why": "部件或整體輪廓接近，容易看錯。",
+          "difference": "翻比番多右側羽；番的上部是釆，下部是田。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "帆",
+          "why": "同音字需用語意區分。",
+          "difference": "翻與帆同音ㄈㄢ；翻唱用翻，船帆用帆。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "轉",
+          "why": "相關詞義容易混用。",
+          "difference": "翻常有翻面或翻動，轉可指繞著中心改變方向；翻唱指重新演唱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "播",
+          "why": "有共同部件，需比較部件位置。",
+          "difference": "同有番；翻左番右羽，播左扌右番。"
+        }
+      ]
+    },
+    "tip": "翻比番多右側羽；番的上部是釆，下部是田。讀回課文語詞，再決定用字。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

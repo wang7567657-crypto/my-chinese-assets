@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第4課_memory_strategy_313d8285a554483f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "翻",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "翻",
+    "components": [
+      "番",
+      "羽"
+    ],
+    "association": "一頁紙在字旁翻面，旁邊音符表示重新唱一遍。這是記字聯想，不是字源解釋。",
+    "mnemonic": "番在左，羽在右，翻面翻唱都記住。",
+    "visualPrompt": "中央保留標準繁體「翻」完整字形，圖畫放在字旁，不把筆畫改造成圖案。一頁紙在字旁翻面，旁邊音符表示重新唱一遍。",
+    "teachingTip": "先看部件位置，再遮住範字寫一次；回到《玉山之歌》的語境說明用字。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第4課_confusion_analysis_97ca0bf2238b0947",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "搧",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "搧",
+    "groups": {
+      "shape": [
+        {
+          "char": "扇",
+          "why": "部件或整體輪廓接近，容易看錯。",
+          "difference": "搧比扇多左側扌；右側扇保留戶與羽。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "山",
+          "why": "同音字需用語意區分。",
+          "difference": "搧風的搧與山同音ㄕㄢ；搧是動作，山是地形。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "搖",
+          "why": "相關詞義容易混用。",
+          "difference": "搧是揮動使空氣流動，搖是來回擺動，不一定產生風。"
+        }
+      ],
+      "component": [
+        {
+          "char": "煽",
+          "why": "有共同部件，需比較部件位置。",
+          "difference": "同用扇；搧左扌，煽左火。搧風用手部。"
+        }
+      ]
+    },
+    "tip": "搧比扇多左側扌；右側扇保留戶與羽。讀回課文語詞，再決定用字。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

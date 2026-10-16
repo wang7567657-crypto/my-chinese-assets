@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第4課_memory_strategy_2f2d6e2fb4a28fc5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "曲",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "曲",
+    "components": [
+      "曲的整體字形"
+    ],
+    "association": "標準曲字旁畫一串旋律起伏的音符。這是記字聯想，不是字源解釋。",
+    "mnemonic": "兩直向上伸，曲字框中分；樂曲讀ㄑㄩˇ。",
+    "visualPrompt": "中央保留標準繁體「曲」完整字形，圖畫放在字旁，不把筆畫改造成圖案。標準曲字旁畫一串旋律起伏的音符。",
+    "teachingTip": "先看部件位置，再遮住範字寫一次；回到《玉山之歌》的語境說明用字。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

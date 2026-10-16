@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第4課_similar_shape_15318eab7f737a4a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "峰",
+    "lessonChars": [
+      "淺",
+      "搧",
+      "針",
+      "縫",
+      "嶼",
+      "峰",
+      "領",
+      "拂",
+      "頑",
+      "奏",
+      "曲",
+      "溪",
+      "聆",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "峰",
+    "similarChars": [
+      {
+        "char": "峯",
+        "similarity": "山與夆兩個部件完全相同；峯是峰的異體。",
+        "difference": "峰是左山右夆；峯是上山下夆。"
+      },
+      {
+        "char": "蜂",
+        "similarity": "右邊同為「夆」。",
+        "difference": "峰左邊是山，蜂左邊是虫。"
+      },
+      {
+        "char": "鋒",
+        "similarity": "右邊同為「夆」。",
+        "difference": "峰左邊是山，鋒左邊是金。"
+      },
+      {
+        "char": "烽",
+        "similarity": "右邊同為「夆」。",
+        "difference": "峰左邊是山，烽左邊是火。"
+      },
+      {
+        "char": "逢",
+        "similarity": "都有完整的「夆」。",
+        "difference": "峰是左山右夆；逢是辶包住夆的左下方。"
+      },
+      {
+        "char": "捀",
+        "similarity": "右邊同為「夆」；捀在國語中較少用。",
+        "difference": "峰左邊是山，捀左邊是扌。"
+      }
+    ],
+    "teachingTip": "記住「山在左、夆在右」，夆下方的丰有三橫。峯是異體字，課文用峰；捀是較少用的對照字。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

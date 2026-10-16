@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第4課_confusion_analysis_e7d3cdf40395c16a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "聆",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "聆",
+    "groups": {
+      "shape": [
+        {
+          "char": "玲",
+          "why": "部件或整體輪廓接近，容易看錯。",
+          "difference": "右側同為令；聆左耳，玲左王。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鈴",
+          "why": "同音字需用語意區分。",
+          "difference": "聆與鈴同音ㄌㄧㄥˊ；聆聽用耳部，鈴鐺用金部。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "聽",
+          "why": "相關詞義容易混用。",
+          "difference": "聆多用於聆聽，表示仔細聽；聽可用於一般聽聲音。"
+        }
+      ],
+      "component": [
+        {
+          "char": "伶",
+          "why": "有共同部件，需比較部件位置。",
+          "difference": "同有令；聆左耳，伶左亻。"
+        }
+      ]
+    },
+    "tip": "右側同為令；聆左耳，玲左王。讀回課文語詞，再決定用字。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

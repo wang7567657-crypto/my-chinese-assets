@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第4課_similar_shape_908c5b056c1245cf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "溪",
+    "lessonChars": [
+      "淺",
+      "搧",
+      "針",
+      "縫",
+      "嶼",
+      "峰",
+      "領",
+      "拂",
+      "頑",
+      "奏",
+      "曲",
+      "溪",
+      "聆",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "溪",
+    "similarChars": [
+      {
+        "char": "奚",
+        "similarity": "整個「奚」就是溪的右半部。",
+        "difference": "溪在奚左邊多了氵。"
+      },
+      {
+        "char": "蹊",
+        "similarity": "右邊同為「奚」。",
+        "difference": "溪左邊是氵，蹊左邊是足字旁。"
+      },
+      {
+        "char": "雞",
+        "similarity": "都有完整的「奚」。",
+        "difference": "溪是左氵右奚；雞是左奚右隹。"
+      },
+      {
+        "char": "谿",
+        "similarity": "都有完整的「奚」；谿較少用，也是溪的異體。",
+        "difference": "溪是左氵右奚；谿是左奚右谷。"
+      },
+      {
+        "char": "徯",
+        "similarity": "右邊同為「奚」；徯是罕用字。",
+        "difference": "溪左邊是氵，徯左邊是彳。"
+      },
+      {
+        "char": "傒",
+        "similarity": "右邊同為「奚」；傒是罕用字。",
+        "difference": "溪左邊是氵，傒左邊是亻。"
+      }
+    ],
+    "teachingTip": "先找氵，再找右邊奚的爫、幺、大；不要把雞的隹或谿的谷寫進來。谿、徯、傒較少用，只需辨形。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

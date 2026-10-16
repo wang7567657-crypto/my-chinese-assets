@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第4課_similar_shape_6a26abce893daf3d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "拂",
+    "lessonChars": [
+      "淺",
+      "搧",
+      "針",
+      "縫",
+      "嶼",
+      "峰",
+      "領",
+      "拂",
+      "頑",
+      "奏",
+      "曲",
+      "溪",
+      "聆",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "拂",
+    "similarChars": [
+      {
+        "char": "佛",
+        "similarity": "右邊同為「弗」。",
+        "difference": "拂左邊是扌，佛左邊是亻。"
+      },
+      {
+        "char": "沸",
+        "similarity": "右邊同為「弗」。",
+        "difference": "拂左邊是扌，沸左邊是氵。"
+      },
+      {
+        "char": "彿",
+        "similarity": "右邊同為「弗」。",
+        "difference": "拂左邊是扌，彿左邊是彳。"
+      },
+      {
+        "char": "弗",
+        "similarity": "整個「弗」就是拂的右半部。",
+        "difference": "拂在弗左邊多了扌。"
+      },
+      {
+        "char": "怫",
+        "similarity": "右邊同為「弗」；怫較少用。",
+        "difference": "拂左邊是扌，怫左邊是忄。"
+      },
+      {
+        "char": "紼",
+        "similarity": "右邊同為「弗」；紼較少用。",
+        "difference": "拂左邊是扌，紼左邊是糸。"
+      }
+    ],
+    "teachingTip": "先圈右邊的弗，再比左邊偏旁；拂是提手旁，彿是雙人旁。怫、紼較少用，只需辨形。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

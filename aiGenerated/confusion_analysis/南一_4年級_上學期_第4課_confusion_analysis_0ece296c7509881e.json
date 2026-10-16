@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第4課_confusion_analysis_0ece296c7509881e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "縫",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "縫",
+    "groups": {
+      "shape": [
+        {
+          "char": "逢",
+          "why": "部件或整體輪廓接近，容易看錯。",
+          "difference": "縫比逢多左側糹；右側逢帶辶。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "逢",
+          "why": "同音字需用語意區分。",
+          "difference": "課文縫暖衣的縫讀ㄈㄥˊ，與相逢的逢同音；門縫的縫則讀ㄈㄥˋ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "補",
+          "why": "相關詞義容易混用。",
+          "difference": "縫是用針線連接，補是把缺損處修好；補衣可能需要縫。"
+        }
+      ],
+      "component": [
+        {
+          "char": "蓬",
+          "why": "有共同部件，需比較部件位置。",
+          "difference": "同含逢；縫左糹，蓬上艹。"
+        }
+      ]
+    },
+    "tip": "縫比逢多左側糹；右側逢帶辶。讀回課文語詞，再決定用字。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}

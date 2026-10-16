@@ -1,0 +1,70 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第4課_similar_shape_dc2ff46a00f427e4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "淺",
+    "lessonChars": [
+      "淺",
+      "搧",
+      "針",
+      "縫",
+      "嶼",
+      "峰",
+      "領",
+      "拂",
+      "頑",
+      "奏",
+      "曲",
+      "溪",
+      "聆",
+      "翻"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "淺",
+    "similarChars": [
+      {
+        "char": "錢",
+        "similarity": "右邊同為「戔」。",
+        "difference": "淺左邊是氵，錢左邊是金。"
+      },
+      {
+        "char": "踐",
+        "similarity": "右邊同為「戔」。",
+        "difference": "淺左邊是氵，踐左邊是足字旁。"
+      },
+      {
+        "char": "賤",
+        "similarity": "右邊同為「戔」。",
+        "difference": "淺左邊是氵，賤左邊是貝。"
+      },
+      {
+        "char": "殘",
+        "similarity": "右邊同為「戔」。",
+        "difference": "淺左邊是氵，殘左邊是歹。"
+      },
+      {
+        "char": "箋",
+        "similarity": "都有「戔」，斜鉤交疊的輪廓相同。",
+        "difference": "淺是左氵右戔；箋是上竹字頭、下戔。"
+      },
+      {
+        "char": "盞",
+        "similarity": "都有「戔」。",
+        "difference": "淺是左氵右戔；盞是上戔下皿。"
+      }
+    ],
+    "teachingTip": "先圈出右邊上下相疊的兩個「戈」，再看左邊是不是三點水；不要把「戔」看成只有一個「戈」。"
+  },
+  "createdAt": "2026-10-16T01:51:07.463843Z"
+}
