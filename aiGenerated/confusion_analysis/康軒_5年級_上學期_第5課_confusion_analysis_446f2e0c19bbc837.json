@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_446f2e0c19bbc837",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "譽",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "譽",
+    "groups": {
+      "shape": [
+        {
+          "char": "謄",
+          "why": "整體或主要部件相近。",
+          "difference": "譽下方是言、上方是與；謄的言在右下，左邊有月。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "玉",
+          "why": "同音字。",
+          "difference": "譽、玉同音ㄩˋ；商譽是名聲，玉是石材。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "名",
+          "why": "相關詞義或語詞容易聯想到一起。",
+          "difference": "商譽偏重商家的信譽；名可表示名稱或名聲。"
+        }
+      ],
+      "component": [
+        {
+          "char": "舉",
+          "why": "含有共同或相近的部件。",
+          "difference": "兩字上部相近；譽下部是言，舉下部有中豎及橫畫。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：譽下方是言、上方是與；謄的言在右下，左邊有月。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

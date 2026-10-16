@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_2ad019913b3a2d56",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "核",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "核",
+    "groups": {
+      "shape": [
+        {
+          "char": "該",
+          "why": "整體或主要部件相近。",
+          "difference": "核左木，該左言；右邊都是亥。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "盒",
+          "why": "同音字。",
+          "difference": "核、盒同音ㄏㄜˊ；核准是同意申請，盒是容器。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "查",
+          "why": "相關詞義或語詞容易聯想到一起。",
+          "difference": "核准包含審核後同意；查只表示檢查或調查，不一定同意。"
+        }
+      ],
+      "component": [
+        {
+          "char": "刻",
+          "why": "含有共同或相近的部件。",
+          "difference": "共用亥；核是木在左，刻是刂在右。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：核左木，該左言；右邊都是亥。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

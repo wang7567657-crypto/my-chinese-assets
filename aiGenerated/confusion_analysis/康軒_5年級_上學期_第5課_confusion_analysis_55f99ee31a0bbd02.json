@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_55f99ee31a0bbd02",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "務",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "務",
+    "groups": {
+      "shape": [
+        {
+          "char": "霧",
+          "why": "整體或主要部件相近。",
+          "difference": "務沒有雨字頭；霧在務上加雨。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "物",
+          "why": "同音字。",
+          "difference": "務、物同音ㄨˋ；服務寫務，物品寫物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "工",
+          "why": "相關詞義或語詞容易聯想到一起。",
+          "difference": "務可表示應做的事；工可表示工作或工人，不能把服務寫成服工。"
+        }
+      ],
+      "component": [
+        {
+          "char": "霧",
+          "why": "含有共同或相近的部件。",
+          "difference": "共用務的字形；霧多雨字頭。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：務沒有雨字頭；霧在務上加雨。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

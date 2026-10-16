@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_c3f2d1ae43409087",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "松",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "松",
+    "groups": {
+      "shape": [
+        {
+          "char": "鬆",
+          "why": "整體或主要部件相近。",
+          "difference": "松是木加公；鬆上面另有髟。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鬆",
+          "why": "同音字。",
+          "difference": "松、鬆同音ㄙㄨㄥ；松樹用松，放鬆用鬆。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "樹",
+          "why": "相關詞義或語詞容易聯想到一起。",
+          "difference": "松是一種樹；樹是較大的類別，並非所有樹都是松。"
+        }
+      ],
+      "component": [
+        {
+          "char": "公",
+          "why": "含有共同或相近的部件。",
+          "difference": "松比公多左邊的木。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：松是木加公；鬆上面另有髟。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

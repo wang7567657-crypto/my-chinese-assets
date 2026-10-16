@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_cb5988eea9cfa74c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "申",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "申",
+    "groups": {
+      "shape": [
+        {
+          "char": "甲",
+          "why": "整體或主要部件相近。",
+          "difference": "申的中豎上下出頭；甲的中豎不穿出上方。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "伸",
+          "why": "同音字。",
+          "difference": "申、伸同音ㄕㄣ；申請寫申，伸手多亻。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "述",
+          "why": "申述與陳述都與說明意見有關。",
+          "difference": "申述是說明理由；述是敘說，課文「申請」指提出請求，不能寫成述請。"
+        }
+      ],
+      "component": [
+        {
+          "char": "伸",
+          "why": "含有共同或相近的部件。",
+          "difference": "伸在申左加亻。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：申的中豎上下出頭；甲的中豎不穿出上方。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

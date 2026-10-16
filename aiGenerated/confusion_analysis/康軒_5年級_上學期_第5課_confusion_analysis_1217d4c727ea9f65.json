@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_1217d4c727ea9f65",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "註",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "註",
+    "groups": {
+      "shape": [
+        {
+          "char": "注",
+          "why": "整體或主要部件相近。",
+          "difference": "註左言，注左氵；右邊同為主。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "住",
+          "why": "同音字。",
+          "difference": "註、住同音ㄓㄨˋ；註冊用註，居住用住。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "記",
+          "why": "相關詞義或語詞容易聯想到一起。",
+          "difference": "註有記載或說明的用法；記範圍較廣，註冊是固定詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "柱",
+          "why": "含有共同或相近的部件。",
+          "difference": "右邊同為主；註左言，柱左木。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：註左言，注左氵；右邊同為主。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

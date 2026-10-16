@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_88a852adfd828754",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "企",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "企",
+    "groups": {
+      "shape": [
+        {
+          "char": "仝",
+          "why": "整體或主要部件相近。",
+          "difference": "兩字上方都是人；企下止，仝下工，仝為較少見字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "氣",
+          "why": "同音字。",
+          "difference": "臺灣國語「企業」的企讀ㄑㄧˋ，與氣同音；企業寫企，空氣寫氣。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "盼",
+          "why": "相關詞義或語詞容易聯想到一起。",
+          "difference": "企盼與盼望都可表示期待；企業的企不能因這層意思換成盼。"
+        }
+      ],
+      "component": [
+        {
+          "char": "止",
+          "why": "含有共同或相近的部件。",
+          "difference": "企比止多上方的人。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：兩字上方都是人；企下止，仝下工，仝為較少見字。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_68bbcf290949e729",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "局",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "局",
+    "groups": {
+      "shape": [
+        {
+          "char": "居",
+          "why": "整體或主要部件相近。",
+          "difference": "兩字上方有尸；局內有口及折鉤，居內是古。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "菊",
+          "why": "同音字。",
+          "difference": "局、菊同音ㄐㄩˊ；機關用局，花名用菊。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "署",
+          "why": "相關詞義或語詞容易聯想到一起。",
+          "difference": "局、署都可見於機關名稱；正式名稱須照原名，不任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "居",
+          "why": "含有共同或相近的部件。",
+          "difference": "共用尸；下方內部不能都寫成古。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：兩字上方有尸；局內有口及折鉤，居內是古。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

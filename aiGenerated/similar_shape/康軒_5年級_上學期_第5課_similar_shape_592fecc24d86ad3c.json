@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第5課_similar_shape_592fecc24d86ad3c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "英",
+    "lessonChars": [
+      "譽",
+      "務",
+      "聯",
+      "核",
+      "申",
+      "局",
+      "松",
+      "註",
+      "冊",
+      "企",
+      "歷",
+      "英",
+      "銷",
+      "售",
+      "勝",
+      "霸",
+      "項"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "英",
+    "similarChars": [
+      {
+        "char": "央",
+        "similarity": "英的下半部就是央。",
+        "difference": "央上方沒有艹；英是在央上方加艹。"
+      },
+      {
+        "char": "映",
+        "similarity": "兩字都含有央。",
+        "difference": "英是上艹、下央；映是左日、右央。"
+      },
+      {
+        "char": "殃",
+        "similarity": "兩字都含有央。",
+        "difference": "英的央在下方，上方是艹；殃的央在右方，左方是歹。"
+      },
+      {
+        "char": "秧",
+        "similarity": "兩字都含有央。",
+        "difference": "英是上艹、下央；秧是左禾、右央。"
+      },
+      {
+        "char": "瑛",
+        "similarity": "瑛的右半部就是英。",
+        "difference": "英左邊沒有王字旁；瑛是在英左邊加王字旁。瑛是較少用字。"
+      },
+      {
+        "char": "泱",
+        "similarity": "兩字都含有央。",
+        "difference": "英是上艹、下央；泱是左氵、右央。泱是較少用字。"
+      }
+    ],
+    "teachingTip": "寫「英文」時，先確認艹在央的上方。將央用同色標出，再看日、歹、禾、氵是在左邊，還是艹在上方；瑛、泱可作延伸辨形。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

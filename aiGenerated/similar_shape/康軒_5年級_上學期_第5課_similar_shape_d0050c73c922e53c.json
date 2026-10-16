@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第5課_similar_shape_d0050c73c922e53c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "歷",
+    "lessonChars": [
+      "譽",
+      "務",
+      "聯",
+      "核",
+      "申",
+      "局",
+      "松",
+      "註",
+      "冊",
+      "企",
+      "歷",
+      "英",
+      "銷",
+      "售",
+      "勝",
+      "霸",
+      "項"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "歷",
+    "similarChars": [
+      {
+        "char": "曆",
+        "similarity": "上方都是厂裡面放兩個禾的筆形。",
+        "difference": "歷最下方是止；曆最下方是日。"
+      },
+      {
+        "char": "瀝",
+        "similarity": "瀝的右半部就是歷。",
+        "difference": "歷左邊沒有氵；瀝是在歷左邊加氵。"
+      },
+      {
+        "char": "靂",
+        "similarity": "靂的下半部就是歷。",
+        "difference": "歷上方沒有雨字頭；靂是在歷上方加雨字頭。"
+      },
+      {
+        "char": "壢",
+        "similarity": "壢的右半部就是歷。",
+        "difference": "歷左邊沒有土；壢是在歷左邊加土，常用於中壢等地名。"
+      },
+      {
+        "char": "櫪",
+        "similarity": "櫪的右半部就是歷。",
+        "difference": "歷左邊沒有木；櫪是在歷左邊加木。櫪是罕用字。"
+      },
+      {
+        "char": "癧",
+        "similarity": "癧內部保留歷的字形。",
+        "difference": "歷外面沒有疒；癧是在歷外加病字旁「疒」。癧是罕用字。"
+      }
+    ],
+    "teachingTip": "「歷史」的歷下方是止；「日曆」的曆下方是日。先圈出最下方的差別，再找瀝、靂、壢中保留的歷；櫪、癧只作延伸辨形。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

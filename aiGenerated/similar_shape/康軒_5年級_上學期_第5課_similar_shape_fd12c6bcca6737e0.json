@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第5課_similar_shape_fd12c6bcca6737e0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "申",
+    "lessonChars": [
+      "譽",
+      "務",
+      "聯",
+      "核",
+      "申",
+      "局",
+      "松",
+      "註",
+      "冊",
+      "企",
+      "歷",
+      "英",
+      "銷",
+      "售",
+      "勝",
+      "霸",
+      "項"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "申",
+    "similarChars": [
+      {
+        "char": "甲",
+        "similarity": "都有田形和一條中豎。",
+        "difference": "申的中豎上下都伸出外框；甲的中豎只向下伸出外框。"
+      },
+      {
+        "char": "由",
+        "similarity": "都有田形和一條中豎。",
+        "difference": "申的中豎上下都伸出外框；由的中豎只向上伸出外框。"
+      },
+      {
+        "char": "田",
+        "similarity": "都有方框、內橫和中豎。",
+        "difference": "申的中豎上下都出頭；田的中豎上下都不超出外框。"
+      },
+      {
+        "char": "伸",
+        "similarity": "伸的右半部就是申。",
+        "difference": "申左邊沒有偏旁；伸左邊多了亻。"
+      },
+      {
+        "char": "神",
+        "similarity": "神的右半部就是申。",
+        "difference": "申左邊沒有偏旁；神左邊多了示字旁「礻」。"
+      },
+      {
+        "char": "紳",
+        "similarity": "紳的右半部就是申。",
+        "difference": "申左邊沒有偏旁；紳左邊多了糸字旁。"
+      }
+    ],
+    "teachingTip": "寫「申請」時畫出外框的上下界線，檢查中豎兩端都出頭。口訣：申兩頭，甲下頭，由上頭，田不出頭；再觀察加偏旁形成的伸、神、紳。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

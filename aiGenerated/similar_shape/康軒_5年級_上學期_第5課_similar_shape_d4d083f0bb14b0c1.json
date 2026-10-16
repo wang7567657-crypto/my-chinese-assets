@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第5課_similar_shape_d4d083f0bb14b0c1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "核",
+    "lessonChars": [
+      "譽",
+      "務",
+      "聯",
+      "核",
+      "申",
+      "局",
+      "松",
+      "註",
+      "冊",
+      "企",
+      "歷",
+      "英",
+      "銷",
+      "售",
+      "勝",
+      "霸",
+      "項"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "核",
+    "similarChars": [
+      {
+        "char": "刻",
+        "similarity": "兩字都有「亥」部件。",
+        "difference": "核是左木、右亥；刻是左亥、右刂，亥的位置不同。"
+      },
+      {
+        "char": "孩",
+        "similarity": "右半部都是亥。",
+        "difference": "核左邊是木；孩左邊是子。"
+      },
+      {
+        "char": "該",
+        "similarity": "右半部都是亥。",
+        "difference": "核左邊是木；該左邊是言字旁。"
+      },
+      {
+        "char": "咳",
+        "similarity": "右半部都是亥。",
+        "difference": "核左邊是木；咳左邊是口。"
+      },
+      {
+        "char": "骸",
+        "similarity": "右半部都是亥。",
+        "difference": "核左邊是木；骸左邊是骨，左側筆畫較多。"
+      },
+      {
+        "char": "劾",
+        "similarity": "兩字都含有亥。",
+        "difference": "核是木在左、亥在右；劾是亥在左、力在右。"
+      }
+    ],
+    "teachingTip": "寫「核准」時先固定右邊的亥，再確認左邊是木。把木、子、言、口分別換色；比較刻、劾時還要注意亥移到了左邊。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

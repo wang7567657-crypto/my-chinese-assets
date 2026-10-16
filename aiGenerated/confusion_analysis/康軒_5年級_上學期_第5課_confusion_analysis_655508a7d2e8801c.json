@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_655508a7d2e8801c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "歷",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "歷",
+    "groups": {
+      "shape": [
+        {
+          "char": "曆",
+          "why": "整體或主要部件相近。",
+          "difference": "歷下止，曆下日；上半部相同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "力",
+          "why": "同音字。",
+          "difference": "歷、力同音ㄌㄧˋ；歷史寫歷，力量寫力。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "經",
+          "why": "相關詞義或語詞容易聯想到一起。",
+          "difference": "歷經與經過都涉及經歷；歷史是固定詞，不能改成經史來表示同一意思。"
+        }
+      ],
+      "component": [
+        {
+          "char": "曆",
+          "why": "含有共同或相近的部件。",
+          "difference": "兩字都有厂與兩個禾；底部止、日不同。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：歷下止，曆下日；上半部相同。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

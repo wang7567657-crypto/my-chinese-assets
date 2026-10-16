@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_22e20c3248f9927a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "聯",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "聯",
+    "groups": {
+      "shape": [
+        {
+          "char": "關",
+          "why": "整體或主要部件相近。",
+          "difference": "聯左邊是耳；關外框是門，內部與聯右側相近。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "連",
+          "why": "同音字。",
+          "difference": "聯、連同音ㄌㄧㄢˊ；關聯與聯絡用聯，連續用連。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "接",
+          "why": "相關詞義或語詞容易聯想到一起。",
+          "difference": "聯表示彼此連合或有關係；接強調接觸或接起，關聯不能直接寫關接。"
+        }
+      ],
+      "component": [
+        {
+          "char": "聰",
+          "why": "含有共同或相近的部件。",
+          "difference": "兩字左邊都是耳；右邊部件不同，聰右下有心。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：聯左邊是耳；關外框是門，內部與聯右側相近。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_39ad3cca938b79da",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "勝",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "勝",
+    "groups": {
+      "shape": [
+        {
+          "char": "騰",
+          "why": "整體或主要部件相近。",
+          "difference": "兩字左月、右上相近；勝右下力，騰右下馬。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "剩",
+          "why": "同音字。",
+          "difference": "勝、剩同音ㄕㄥˋ；勝利寫勝，剩下寫剩。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "贏",
+          "why": "相關詞義或語詞容易聯想到一起。",
+          "difference": "勝、贏都可表示獲勝；課文勝出指在競爭中表現較好。"
+        }
+      ],
+      "component": [
+        {
+          "char": "券",
+          "why": "含有共同或相近的部件。",
+          "difference": "勝右下力，券下刀；兩字上方有相近的斜筆與橫畫。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：兩字左月、右上相近；勝右下力，騰右下馬。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}
