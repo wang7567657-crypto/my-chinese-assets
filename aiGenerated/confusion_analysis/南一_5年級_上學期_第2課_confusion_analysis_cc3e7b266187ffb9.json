@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第2課_confusion_analysis_cc3e7b266187ffb9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "務",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "務",
+    "groups": {
+      "shape": [
+        {
+          "char": "霧",
+          "why": "霧的下半部就是務。",
+          "difference": "務沒有雨字頭，如服務；霧有雨字頭，指霧氣。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "物",
+          "why": "同音字，都讀ㄨˋ。",
+          "difference": "務用於任務、服務；物用於物品、動物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "事",
+          "why": "事務與事情都可能指需要處理的工作。",
+          "difference": "務常見於任務、義務；事也可指事件，如故事，不能寫成故務。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "服務、任務沒有雨字頭；天氣起霧才加雨。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

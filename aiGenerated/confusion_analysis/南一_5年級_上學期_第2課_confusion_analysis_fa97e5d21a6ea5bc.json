@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第2課_confusion_analysis_fa97e5d21a6ea5bc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "富",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "富",
+    "groups": {
+      "shape": [
+        {
+          "char": "福",
+          "why": "都有畐，容易混淆位置。",
+          "difference": "富上方是宀，福左邊是礻；富有用富，幸福用福。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "付",
+          "why": "同音字，都讀ㄈㄨˋ。",
+          "difference": "富有的富表示充足；付錢的付表示交給。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "裕",
+          "why": "富有與富裕都表示充足。",
+          "difference": "富常見於財富、豐富；裕常見於寬裕、充裕，財富不能寫成財裕。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "富有的富上面是宀，下面保留一、口、田。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

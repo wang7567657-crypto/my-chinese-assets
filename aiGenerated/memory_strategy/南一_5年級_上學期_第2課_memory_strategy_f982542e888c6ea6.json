@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第2課_memory_strategy_f982542e888c6ea6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "釘",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "釘",
+    "components": [
+      "釒",
+      "丁"
+    ],
+    "association": "記字聯想（非字源解釋）：金屬釘子連到金字旁；右邊「丁」的橫和豎鉤，幫助記住簡潔的釘身輪廓。",
+    "mnemonic": "金在左，丁在右，小釘固定不滑走。",
+    "visualPrompt": "僅文字構想，未生成圖片。標準「釘」字旁另畫一根金屬釘與木板，不把字的筆畫換成釘子。",
+    "teachingTip": "金字旁寫窄、丁寫清楚；分辨釘子的「釘」與單獨的「丁」。 所有聯想僅用於記憶，不代表字源。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

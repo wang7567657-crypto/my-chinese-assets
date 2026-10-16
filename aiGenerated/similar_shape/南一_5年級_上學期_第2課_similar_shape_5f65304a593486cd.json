@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第2課_similar_shape_5f65304a593486cd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "務",
+    "lessonChars": [
+      "傅",
+      "釘",
+      "延",
+      "遞",
+      "富",
+      "穩",
+      "按",
+      "熟",
+      "確",
+      "掃",
+      "務",
+      "讚",
+      "碑",
+      "績",
+      "障",
+      "率",
+      "涵",
+      "預"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "data": {
+    "targetChar": "務",
+    "similarChars": [
+      {
+        "char": "霧",
+        "similarity": "共用務。",
+        "difference": "霧比務多上方雨字頭。"
+      },
+      {
+        "char": "騖",
+        "similarity": "共用務。",
+        "difference": "騖比務多下方馬。騖較少見。"
+      },
+      {
+        "char": "鶩",
+        "similarity": "共用務。",
+        "difference": "鶩比務多下方鳥。鶩較少見。"
+      },
+      {
+        "char": "矛",
+        "similarity": "共用務的左部。",
+        "difference": "矛沒有務右邊的攵與力。"
+      },
+      {
+        "char": "柔",
+        "similarity": "共用矛形。",
+        "difference": "務的矛在左；柔的矛在上、木在下。"
+      },
+      {
+        "char": "矜",
+        "similarity": "左邊都有矛。",
+        "difference": "務右側有攵和力；矜右側為今。"
+      }
+    ],
+    "teachingTip": "先看整體結構，再圈共用部件；差異處用另一種顏色標示，少見字只用於辨形。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}

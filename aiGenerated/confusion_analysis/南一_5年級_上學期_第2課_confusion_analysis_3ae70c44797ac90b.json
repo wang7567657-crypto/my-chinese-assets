@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第2課_confusion_analysis_3ae70c44797ac90b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "遞",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "遞",
+    "groups": {
+      "shape": [
+        {
+          "char": "遙",
+          "why": "都有辶，內部較複雜，容易只看外形。",
+          "difference": "遞的內部有虒；遙的內部下方有缶。傳遞用遞，遙遠用遙。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "弟",
+          "why": "同音字：遞與「弟弟」第一字的弟都讀ㄉㄧˋ。",
+          "difference": "兩字在這些例詞中同音；傳遞表示交送，弟弟是親屬稱呼。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "傳",
+          "why": "傳遞與傳送都有送交的意思。",
+          "difference": "遞常強調依次交送，如遞交；傳還能表示散布，如傳聞，不能都換成遞。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "傳遞的遞有辶；和弟弟的弟同音，但意思和字形不同。"
+  },
+  "createdAt": "2026-10-16T12:44:49.940465Z"
+}
