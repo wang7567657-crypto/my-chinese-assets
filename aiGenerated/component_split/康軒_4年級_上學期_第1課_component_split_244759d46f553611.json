@@ -1,0 +1,58 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_4年級_上學期_第1課_component_split_244759d46f553611",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "耳",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "structure": "獨體",
+    "split": [
+      6
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    ],
+    "components": [
+      "耳"
+    ],
+    "strokeCount": 6,
+    "radical": "耳",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "字為獨體字且部首涵蓋全字；僅保留一組，不硬拆或漏筆。",
+    "verification": {
+      "method": "重新讀取來源XML，核對Stroke數、Outline不重複、有限合理座標、有效Track、每筆恰好一次及分組筆數；渲染部首藍色與其餘橘色逐字視覺核對，與最新共用字典相同條目一致。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/8033.xml",
+      "sourceSha256": "a47b137b2830ef3abf3ba5628127e3166d3174f646f5deccc0d59e58240619bb",
+      "checkedAt": "2026-10-16T23:23:09.792131+00:00"
+    }
+  },
+  "createdAt": "2026-10-16T23:23:09.792146+00:00"
+}
