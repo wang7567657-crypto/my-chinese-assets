@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第9課_confusion_analysis_7ae0532cd8dbbfea",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "擾",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "擾",
+    "groups": {
+      "shape": [
+        {
+          "char": "優",
+          "why": "輪廓或部件相近，需比較位置與筆畫。",
+          "difference": "擾左邊扌，優左邊亻；右邊都是憂。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "繞",
+          "why": "擾ㄖㄠˇ與繞ㄖㄠˋ近音，聲調不同；打擾用擾，繞圈用繞。",
+          "difference": "依詞語意思選字，不能只憑聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "吵",
+          "why": "詞義或使用情境相關，需要區分。",
+          "difference": "擾是干擾或打擾；吵常與聲音大、爭執有關，打擾不一定發出大聲音。"
+        }
+      ],
+      "component": [
+        {
+          "char": "憂",
+          "why": "含有相同部件，需避免增減或替換。",
+          "difference": "擾右邊是憂，左邊還有扌；不能把憂寫成愛。"
+        }
+      ]
+    },
+    "tip": "擾ㄖㄠˇ與繞ㄖㄠˋ近音，聲調不同；打擾用擾，繞圈用繞。 對照課文詞語，指出兩字的不同。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

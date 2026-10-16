@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第9課_similar_shape_b0fd380ee39f6f7d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "繞",
+    "lessonChars": [
+      "促",
+      "振",
+      "碎",
+      "者",
+      "偶",
+      "褐",
+      "巧",
+      "塑",
+      "凶",
+      "繞",
+      "衝",
+      "雷",
+      "牌",
+      "豐",
+      "擾"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "繞",
+    "similarChars": [
+      {
+        "char": "饒",
+        "similarity": "右半都是「堯」。",
+        "difference": "「繞」左糹；「饒」左食字旁。"
+      },
+      {
+        "char": "燒",
+        "similarity": "右半都是「堯」。",
+        "difference": "「繞」左糹；「燒」左火。"
+      },
+      {
+        "char": "澆",
+        "similarity": "右半都是「堯」。",
+        "difference": "「繞」左糹；「澆」左氵。"
+      },
+      {
+        "char": "曉",
+        "similarity": "右半都是「堯」。",
+        "difference": "「繞」左糹；「曉」左日。"
+      },
+      {
+        "char": "撓",
+        "similarity": "右半都是「堯」。",
+        "difference": "「繞」左糹；「撓」左扌。"
+      },
+      {
+        "char": "堯",
+        "similarity": "「繞」的右半就是「堯」。",
+        "difference": "「堯」單獨成字；「繞」左邊多糹。"
+      }
+    ],
+    "teachingTip": "先固定右邊的堯，再看左旁；把繞的糹與饒的食字旁分開比較，不靠讀音猜字。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

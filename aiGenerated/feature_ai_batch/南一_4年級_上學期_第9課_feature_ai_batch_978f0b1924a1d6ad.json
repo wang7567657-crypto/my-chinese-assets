@@ -1,0 +1,61 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第9課_feature_ai_batch_978f0b1924a1d6ad",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "context": {
+      "publisher": "南一",
+      "grade": "4年級",
+      "semester": "上學期",
+      "lesson": "第9課"
+    },
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 15,
+    "batchCharacters": [
+      "促",
+      "振",
+      "碎",
+      "者",
+      "偶",
+      "褐",
+      "巧",
+      "塑",
+      "凶",
+      "繞",
+      "衝",
+      "雷",
+      "牌",
+      "豐",
+      "擾"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_fc1ea934b3c6f247.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_dbc658ffe7bd51ff.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_414612f4de0cff6c.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_aa2a0c2ff7584bfc.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_34f77dc34016011d.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_11b977b63d520150.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_ef67e4576a4f7aad.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_3829656411ee5f9a.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_5cf31db8fd49b31f.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_ed807d87ed95c905.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_3a566d56e0c7dfaf.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_9116193c713c0f6f.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_6fda826e1f033067.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_df7baba1c60dfcc8.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第9課_memory_strategy_40b7ce6f4e974a6d.json"
+    ]
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

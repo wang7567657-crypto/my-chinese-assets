@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第9課_confusion_analysis_e1efcf5ea2683cb4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "繞",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "繞",
+    "groups": {
+      "shape": [
+        {
+          "char": "燒",
+          "why": "輪廓或部件相近，需比較位置與筆畫。",
+          "difference": "繞左邊糹，燒左邊火；右邊同為堯。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "饒",
+          "why": "繞ㄖㄠˋ與饒ㄖㄠˊ近音，聲調不同；繞圈用繞，饒恕用饒。",
+          "difference": "依詞語意思選字，不能只憑聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "轉",
+          "why": "詞義或使用情境相關，需要區分。",
+          "difference": "繞圈強調沿著周圍走；轉也可指改變方向或原地旋轉。"
+        }
+      ],
+      "component": [
+        {
+          "char": "堯",
+          "why": "含有相同部件，需避免增減或替換。",
+          "difference": "繞右邊含堯，左邊還有糹；堯上方有三個土形，不要漏寫。"
+        }
+      ]
+    },
+    "tip": "繞ㄖㄠˋ與饒ㄖㄠˊ近音，聲調不同；繞圈用繞，饒恕用饒。 對照課文詞語，指出兩字的不同。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

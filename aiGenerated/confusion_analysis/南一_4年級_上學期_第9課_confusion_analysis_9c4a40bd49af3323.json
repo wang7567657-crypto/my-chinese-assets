@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第9課_confusion_analysis_9c4a40bd49af3323",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "偶",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "偶",
+    "groups": {
+      "shape": [
+        {
+          "char": "遇",
+          "why": "輪廓或部件相近，需比較位置與筆畫。",
+          "difference": "偶左邊亻；遇由辶包住禺的左下方，位置和偏旁不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "藕",
+          "why": "偶、藕同音ㄡˇ；求偶是尋找伴侶，蓮藕是植物的部位。",
+          "difference": "依詞語意思選字，不能只憑聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "伴",
+          "why": "詞義或使用情境相關，需要區分。",
+          "difference": "求偶是尋找配偶；伴泛指一同活動的人或動物，未必是配偶。"
+        }
+      ],
+      "component": [
+        {
+          "char": "禺",
+          "why": "含有相同部件，需避免增減或替換。",
+          "difference": "偶右邊為禺，左邊還有亻；不可只寫禺。"
+        }
+      ]
+    },
+    "tip": "偶、藕同音ㄡˇ；求偶是尋找伴侶，蓮藕是植物的部位。 對照課文詞語，指出兩字的不同。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

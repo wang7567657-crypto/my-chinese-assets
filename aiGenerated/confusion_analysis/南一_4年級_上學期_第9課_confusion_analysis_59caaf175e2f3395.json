@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第9課_confusion_analysis_59caaf175e2f3395",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "塑",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "塑",
+    "groups": {
+      "shape": [
+        {
+          "char": "朔",
+          "why": "輪廓或部件相近，需比較位置與筆畫。",
+          "difference": "塑上方完整含朔，下方另有土；朔沒有下方土。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "訴",
+          "why": "塑、訴同音ㄙㄨˋ；塑膠用塑，告訴用訴。",
+          "difference": "依詞語意思選字，不能只憑聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "膠",
+          "why": "詞義或使用情境相關，需要區分。",
+          "difference": "塑膠是材料名稱；膠也能指黏合物，兩字不能任意互換或省略。"
+        }
+      ],
+      "component": [
+        {
+          "char": "土",
+          "why": "含有相同部件，需避免增減或替換。",
+          "difference": "塑下方為土，上方還有朔；土不能寫成士。"
+        }
+      ]
+    },
+    "tip": "塑、訴同音ㄙㄨˋ；塑膠用塑，告訴用訴。 對照課文詞語，指出兩字的不同。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

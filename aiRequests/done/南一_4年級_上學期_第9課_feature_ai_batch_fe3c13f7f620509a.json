@@ -1,0 +1,284 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第9課_feature_ai_batch_fe3c13f7f620509a",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "context": {
+      "publisher": "南一",
+      "grade": "4年級",
+      "semester": "上學期",
+      "lesson": "第9課"
+    },
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 15,
+    "batchCharacters": [
+      "促",
+      "振",
+      "碎",
+      "者",
+      "偶",
+      "褐",
+      "巧",
+      "塑",
+      "凶",
+      "繞",
+      "衝",
+      "雷",
+      "牌",
+      "豐",
+      "擾"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_7dc3e84e1b898c3a",
+        "input": {
+          "char": "促",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_1f6541b54c3f4550",
+        "input": {
+          "char": "振",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_143533b5fed52001",
+        "input": {
+          "char": "碎",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_7f1f40a80f72f109",
+        "input": {
+          "char": "者",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_9c4a40bd49af3323",
+        "input": {
+          "char": "偶",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_1bfebf63c4fd6dbc",
+        "input": {
+          "char": "褐",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_aa98a6c479967e75",
+        "input": {
+          "char": "巧",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_59caaf175e2f3395",
+        "input": {
+          "char": "塑",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_9cf4696ae2b918d4",
+        "input": {
+          "char": "凶",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_e1efcf5ea2683cb4",
+        "input": {
+          "char": "繞",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_5cab09a72e99e803",
+        "input": {
+          "char": "衝",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_56cb4dea127f3e58",
+        "input": {
+          "char": "雷",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_883d08a6f3a38674",
+        "input": {
+          "char": "牌",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_0a458da865212ce5",
+        "input": {
+          "char": "豐",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_4年級_上學期_第9課_confusion_analysis_7ae0532cd8dbbfea",
+        "input": {
+          "char": "擾",
+          "publisher": "南一",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00",
+  "processedAt": "2026-10-16T07:45:57.717519+00:00",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_4年級_上學期_第9課_feature_ai_batch_fe3c13f7f620509a",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "context": {
+        "publisher": "南一",
+        "grade": "4年級",
+        "semester": "上學期",
+        "lesson": "第9課"
+      },
+      "publisher": "南一",
+      "grade": "4年級",
+      "semester": "上學期",
+      "lesson": "第9課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 15,
+      "batchCharacters": [
+        "促",
+        "振",
+        "碎",
+        "者",
+        "偶",
+        "褐",
+        "巧",
+        "塑",
+        "凶",
+        "繞",
+        "衝",
+        "雷",
+        "牌",
+        "豐",
+        "擾"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 15,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_7dc3e84e1b898c3a.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_1f6541b54c3f4550.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_143533b5fed52001.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_7f1f40a80f72f109.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_9c4a40bd49af3323.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_1bfebf63c4fd6dbc.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_aa98a6c479967e75.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_59caaf175e2f3395.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_9cf4696ae2b918d4.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_e1efcf5ea2683cb4.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_5cab09a72e99e803.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_56cb4dea127f3e58.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_883d08a6f3a38674.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_0a458da865212ce5.json",
+        "aiGenerated/confusion_analysis/南一_4年級_上學期_第9課_confusion_analysis_7ae0532cd8dbbfea.json"
+      ]
+    },
+    "createdAt": "2026-10-16T07:45:57.717519+00:00"
+  }
+}

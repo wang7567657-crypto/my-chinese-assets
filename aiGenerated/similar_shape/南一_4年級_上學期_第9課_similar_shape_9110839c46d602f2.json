@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第9課_similar_shape_9110839c46d602f2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "塑",
+    "lessonChars": [
+      "促",
+      "振",
+      "碎",
+      "者",
+      "偶",
+      "褐",
+      "巧",
+      "塑",
+      "凶",
+      "繞",
+      "衝",
+      "雷",
+      "牌",
+      "豐",
+      "擾"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "塑",
+    "similarChars": [
+      {
+        "char": "朔",
+        "similarity": "「塑」上半就是「朔」。",
+        "difference": "「塑」在朔的下面加土；「朔」沒有下方的土。"
+      },
+      {
+        "char": "槊",
+        "similarity": "上半都是「朔」。",
+        "difference": "「塑」下土；「槊」下木。「槊」較少見。"
+      },
+      {
+        "char": "愬",
+        "similarity": "上半都是「朔」。",
+        "difference": "「塑」下土；「愬」下心。「愬」較少見。"
+      },
+      {
+        "char": "溯",
+        "similarity": "都有「朔」部件。",
+        "difference": "「塑」上朔下土；「溯」左氵右朔。"
+      },
+      {
+        "char": "塾",
+        "similarity": "下半都是「土」，都是上下結構。",
+        "difference": "「塑」上朔；「塾」上孰，上半不同，僅下半相同。"
+      },
+      {
+        "char": "墾",
+        "similarity": "下半都是「土」，都是上下結構。",
+        "difference": "「塑」上朔；「墾」上半由豸和艮組成，僅下半相同。"
+      }
+    ],
+    "teachingTip": "先找上面的朔，再確認底部是土；槊、愬只作進階辨形，不要求學生把少見字當常用字背誦。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

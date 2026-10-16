@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第9課_similar_shape_fb02b9e25594f72b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "凶",
+    "lessonChars": [
+      "促",
+      "振",
+      "碎",
+      "者",
+      "偶",
+      "褐",
+      "巧",
+      "塑",
+      "凶",
+      "繞",
+      "衝",
+      "雷",
+      "牌",
+      "豐",
+      "擾"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "凶",
+    "similarChars": [
+      {
+        "char": "兇",
+        "similarity": "上半完整保留「凶」。",
+        "difference": "「兇」在凶下方加儿；「凶」沒有儿。「兇」也見作「凶」的異體，此處比較兩種字形。"
+      },
+      {
+        "char": "匈",
+        "similarity": "內部保留「凶」。",
+        "difference": "「匈」在凶外面加勹。"
+      },
+      {
+        "char": "胸",
+        "similarity": "右半「匈」裡面含有「凶」。",
+        "difference": "「胸」左邊多月，右邊的凶外面另有勹，並非只加月。"
+      },
+      {
+        "char": "洶",
+        "similarity": "右半「匈」裡面含有「凶」。",
+        "difference": "「洶」左邊多氵，右邊的凶外面另有勹。"
+      },
+      {
+        "char": "恟",
+        "similarity": "右半「匈」裡面含有「凶」。",
+        "difference": "「恟」左邊是忄，右邊是匈；比凶多忄和勹。「恟」較少見。"
+      },
+      {
+        "char": "訩",
+        "similarity": "右半完整保留「凶」。",
+        "difference": "「訩」左邊多言字旁；右邊是凶，沒有勹。「訩」較少見，是「詾」的異體字。"
+      }
+    ],
+    "teachingTip": "凶是凵內有交叉筆畫；比較匈時先找外加的勹，比較兇時找下方的儿。胸、洶含的是匈，不能說成凶直接加偏旁。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

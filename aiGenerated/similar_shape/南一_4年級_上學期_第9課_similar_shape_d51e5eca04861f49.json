@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第9課_similar_shape_d51e5eca04861f49",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "雷",
+    "lessonChars": [
+      "促",
+      "振",
+      "碎",
+      "者",
+      "偶",
+      "褐",
+      "巧",
+      "塑",
+      "凶",
+      "繞",
+      "衝",
+      "雷",
+      "牌",
+      "豐",
+      "擾"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "雷",
+    "similarChars": [
+      {
+        "char": "電",
+        "similarity": "上半都是「雨」，下半都有方框與直筆的輪廓。",
+        "difference": "「雷」下方是田；「電」下方有向下伸出再轉彎的豎彎鉤，不是完整的田。"
+      },
+      {
+        "char": "雪",
+        "similarity": "上半都是「雨」。",
+        "difference": "「雷」下田；「雪」下彐，沒有田的中豎。"
+      },
+      {
+        "char": "霜",
+        "similarity": "上半都是「雨」。",
+        "difference": "「雷」下田；「霜」下相，由木和目組成。"
+      },
+      {
+        "char": "霧",
+        "similarity": "上半都是「雨」。",
+        "difference": "「雷」下田；「霧」下務，下半筆畫更多。"
+      },
+      {
+        "char": "蕾",
+        "similarity": "下方完整保留「雷」。",
+        "difference": "「蕾」在雷的上面多艹。"
+      },
+      {
+        "char": "擂",
+        "similarity": "右半完整保留「雷」。",
+        "difference": "「擂」在雷的左邊多扌。"
+      }
+    ],
+    "teachingTip": "先確認雨字頭，再看下方是不是田；比較電時，特別找伸出方框的豎彎鉤。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

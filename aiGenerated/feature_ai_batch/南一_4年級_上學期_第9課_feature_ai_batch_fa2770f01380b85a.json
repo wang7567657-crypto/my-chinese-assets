@@ -1,0 +1,61 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第9課_feature_ai_batch_fa2770f01380b85a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "context": {
+      "publisher": "南一",
+      "grade": "4年級",
+      "semester": "上學期",
+      "lesson": "第9課"
+    },
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "促",
+      "振",
+      "碎",
+      "者",
+      "偶",
+      "褐",
+      "巧",
+      "塑",
+      "凶",
+      "繞",
+      "衝",
+      "雷",
+      "牌",
+      "豐",
+      "擾"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_acf72c618f0c1832.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_6ccfd5a77022dea2.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_569fac3dc814473d.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_585061b06f4c33ab.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_7647057c0af6dbb9.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_22c4c9bd774e9d83.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_d8caac5fbd1d64d5.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_9110839c46d602f2.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_fb02b9e25594f72b.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_b0fd380ee39f6f7d.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_9c947a068aad44e8.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_d51e5eca04861f49.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_fb5017fe01017b1f.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_b731ef57b3cb6801.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第9課_similar_shape_3b6b81cc111debed.json"
+    ]
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

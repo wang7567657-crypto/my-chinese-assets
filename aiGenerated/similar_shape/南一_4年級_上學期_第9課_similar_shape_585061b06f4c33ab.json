@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第9課_similar_shape_585061b06f4c33ab",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "者",
+    "lessonChars": [
+      "促",
+      "振",
+      "碎",
+      "者",
+      "偶",
+      "褐",
+      "巧",
+      "塑",
+      "凶",
+      "繞",
+      "衝",
+      "雷",
+      "牌",
+      "豐",
+      "擾"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "者",
+    "similarChars": [
+      {
+        "char": "都",
+        "similarity": "左半保留「者」的形體。",
+        "difference": "「都」在者的右邊加阝；「者」沒有右耳旁。"
+      },
+      {
+        "char": "堵",
+        "similarity": "右半保留「者」的形體。",
+        "difference": "「堵」左邊多土。"
+      },
+      {
+        "char": "睹",
+        "similarity": "右半保留「者」的形體。",
+        "difference": "「睹」左邊多目，目內有兩橫。"
+      },
+      {
+        "char": "賭",
+        "similarity": "右半保留「者」的形體。",
+        "difference": "「賭」左邊多貝，貝下有兩筆。"
+      },
+      {
+        "char": "煮",
+        "similarity": "上半保留「者」的形體。",
+        "difference": "「煮」下面多灬。"
+      },
+      {
+        "char": "著",
+        "similarity": "下半保留「者」的形體。",
+        "difference": "「著」上面多艹。"
+      }
+    ],
+    "teachingTip": "先認清者下方的日，再比較新增部件在左、右、上或下；不可只看總筆畫多少。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

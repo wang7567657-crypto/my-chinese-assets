@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第9課_similar_shape_3b6b81cc111debed",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "擾",
+    "lessonChars": [
+      "促",
+      "振",
+      "碎",
+      "者",
+      "偶",
+      "褐",
+      "巧",
+      "塑",
+      "凶",
+      "繞",
+      "衝",
+      "雷",
+      "牌",
+      "豐",
+      "擾"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "擾",
+    "similarChars": [
+      {
+        "char": "優",
+        "similarity": "右半都是「憂」。",
+        "difference": "「擾」左扌；「優」左亻。"
+      },
+      {
+        "char": "憂",
+        "similarity": "「擾」的右半就是「憂」。",
+        "difference": "「憂」單獨成字；「擾」左邊多扌。"
+      },
+      {
+        "char": "懮",
+        "similarity": "右半都是「憂」。",
+        "difference": "「擾」左扌；「懮」左忄。「懮」較少見。"
+      },
+      {
+        "char": "耰",
+        "similarity": "右半都是「憂」。",
+        "difference": "「擾」左扌；「耰」左耒。「耰」較少見。"
+      },
+      {
+        "char": "纋",
+        "similarity": "右半都是「憂」。",
+        "difference": "「擾」左扌；「纋」左糹。「纋」較少見。"
+      },
+      {
+        "char": "嚘",
+        "similarity": "右半都是「憂」。",
+        "difference": "「擾」左扌；「嚘」左口。「嚘」較少見。"
+      }
+    ],
+    "teachingTip": "以擾、優、憂作主要對照，先確認有沒有左旁，再辨扌和亻；其餘少見字只用來觀察同一部件。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

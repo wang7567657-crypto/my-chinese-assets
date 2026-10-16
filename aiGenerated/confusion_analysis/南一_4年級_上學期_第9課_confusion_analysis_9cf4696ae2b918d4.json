@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第9課_confusion_analysis_9cf4696ae2b918d4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "凶",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "凶",
+    "groups": {
+      "shape": [
+        {
+          "char": "兇",
+          "why": "輪廓或部件相近，需比較位置與筆畫。",
+          "difference": "兇上方是凶，下方另有儿；凶沒有下方儿。兇也用作凶的異體，課文採凶字，辨形時須說明此關係。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "兄",
+          "why": "凶、兄同音ㄒㄩㄥ；很凶形容態度，兄指哥哥。",
+          "difference": "依詞語意思選字，不能只憑聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "惡",
+          "why": "詞義或使用情境相關，需要區分。",
+          "difference": "凶和凶惡的惡都能描述兇狠；惡另有其他意思，不能在所有詞中替換凶。"
+        }
+      ],
+      "component": [
+        {
+          "char": "凵",
+          "why": "含有相同部件，需避免增減或替換。",
+          "difference": "凶的外框是上方開口的凵，裡面還有交叉筆畫；不可封成囗。"
+        }
+      ]
+    },
+    "tip": "凶、兄同音ㄒㄩㄥ；很凶形容態度，兄指哥哥。 對照課文詞語，指出兩字的不同。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

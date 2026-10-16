@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第9課_similar_shape_9c947a068aad44e8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "衝",
+    "lessonChars": [
+      "促",
+      "振",
+      "碎",
+      "者",
+      "偶",
+      "褐",
+      "巧",
+      "塑",
+      "凶",
+      "繞",
+      "衝",
+      "雷",
+      "牌",
+      "豐",
+      "擾"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "衝",
+    "similarChars": [
+      {
+        "char": "衛",
+        "similarity": "外側都有「行」分開的左右兩部分，中間夾部件。",
+        "difference": "「衝」中間是重；「衛」中間是韋，中部的方框與上下筆畫不同。"
+      },
+      {
+        "char": "街",
+        "similarity": "外側都有「行」的左右兩部分。",
+        "difference": "「衝」中間重；「街」中間圭，是上下兩個土。"
+      },
+      {
+        "char": "術",
+        "similarity": "外側都有「行」的左右兩部分。",
+        "difference": "「衝」中間重；「術」中間朮，沒有重的多層橫畫。"
+      },
+      {
+        "char": "衍",
+        "similarity": "外側都有「行」的左右兩部分。",
+        "difference": "「衝」中間重；「衍」中間是氵。"
+      },
+      {
+        "char": "銜",
+        "similarity": "外側都有「行」的左右兩部分。",
+        "difference": "「衝」中間重；「銜」中間金。"
+      },
+      {
+        "char": "行",
+        "similarity": "「衝」外側保留「行」分開的左右部分。",
+        "difference": "「行」中間沒有重；「衝」把重放在行的兩部分之間。"
+      }
+    ],
+    "teachingTip": "先遮住中間，認出外側的行，再揭開中間辨重、圭、朮、氵、金；不要只看到彳就判定相同。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

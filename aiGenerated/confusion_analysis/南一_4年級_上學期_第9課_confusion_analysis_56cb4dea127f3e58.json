@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第9課_confusion_analysis_56cb4dea127f3e58",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "雷",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "雷",
+    "groups": {
+      "shape": [
+        {
+          "char": "電",
+          "why": "輪廓或部件相近，需比較位置與筆畫。",
+          "difference": "兩字上方同為雨字頭；雷下方田，電下方有向下伸出並彎曲的筆畫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "累",
+          "why": "雷ㄌㄟˊ與疲累的累ㄌㄟˋ近音，聲調不同；雷聲用雷，疲累用累。",
+          "difference": "依詞語意思選字，不能只憑聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "閃",
+          "why": "詞義或使用情境相關，需要區分。",
+          "difference": "雷指雷聲或雷的現象；閃電是發光現象，不能把雷與閃任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "田",
+          "why": "含有相同部件，需避免增減或替換。",
+          "difference": "雷下方是田，上方另有雨字頭；不是只寫田。"
+        }
+      ]
+    },
+    "tip": "雷ㄌㄟˊ與疲累的累ㄌㄟˋ近音，聲調不同；雷聲用雷，疲累用累。 對照課文詞語，指出兩字的不同。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}
