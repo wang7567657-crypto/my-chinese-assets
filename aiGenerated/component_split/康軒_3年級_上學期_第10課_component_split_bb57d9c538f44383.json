@@ -1,0 +1,64 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_3年級_上學期_第10課_component_split_bb57d9c538f44383",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "塊",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      3,
+      10
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    ],
+    "components": [
+      "土",
+      "鬼"
+    ],
+    "strokeCount": 13,
+    "radical": "土",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "依原始 XML 的 13 筆 Outline/Track 位置及原筆順分組；各筆恰好一次。",
+    "verification": {
+      "method": "重新下載原始 XML，核對 Stroke 數、Outline 輪廓不重複、座標有限且合理、Track 點列有效；渲染部首藍色、其餘橘色並逐字視覺核對字形與部首。核對 strokeGroups 每筆恰好出現一次，split 與各組筆數相符。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/584a.xml"
+    }
+  },
+  "createdAt": "2026-10-16T20:20:44.951Z"
+}
