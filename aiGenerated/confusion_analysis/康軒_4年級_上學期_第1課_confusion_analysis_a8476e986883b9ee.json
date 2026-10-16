@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_a8476e986883b9ee",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "耳",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "耳",
+    "groups": {
+      "shape": [
+        {
+          "char": "目",
+          "why": "兩字都有橫筆和豎筆，外形容易看混。",
+          "difference": "「耳」有六畫，外形不是封閉的長方框；「目」有五畫，外框封閉。耳朵用「耳」，眼睛相關的「目光」用「目」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "爾",
+          "why": "同音：「耳」和「爾」都讀ㄦˇ。",
+          "difference": "「耳旁、耳朵」用「耳」；「偶爾」用筆畫較多的「爾」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "聽",
+          "why": "兩字都和接收聲音有關。",
+          "difference": "「耳」在「耳旁」中指身體的器官；「聽」在「聽聲音」中指接收聲音的動作。器官名稱與動作不能混用。"
+        }
+      ],
+      "component": [
+        {
+          "char": "聞",
+          "why": "「聞」裡面含有一個「耳」。",
+          "difference": "「耳」單獨成字；「聞」是「門」裡面有「耳」，如「新聞」。寫「耳旁」不要添上門字框。"
+        }
+      ]
+    },
+    "tip": "耳朵用「耳」；看清六畫，不寫成「目」，也不加門字框。"
+  },
+  "createdAt": "2026-10-16T00:28:11.087645Z"
+}

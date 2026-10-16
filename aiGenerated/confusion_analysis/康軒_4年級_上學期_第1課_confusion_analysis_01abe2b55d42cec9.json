@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_01abe2b55d42cec9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "姿",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "姿",
+    "groups": {
+      "shape": [
+        {
+          "char": "資",
+          "why": "兩字上面相同，都是「次」，容易換錯下面。",
+          "difference": "「姿」下面是「女」，如「舞姿」；「資」下面是「貝」，如「資料」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "資",
+          "why": "同音：「姿」和「資」都讀ㄗ。",
+          "difference": "描述跳舞的姿勢，用「舞姿」；可以查閱的內容，用「資料」。不能只憑讀音寫成「舞資」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "態",
+          "why": "兩字都能描述樣子或情形，還能合成「姿態」。",
+          "difference": "「舞姿」描述跳舞時的身體樣子；「態」也用在「態度、狀態」。本課的固定詞是「舞姿」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "次",
+          "why": "「次」是「姿」的上方部件。",
+          "difference": "「姿」要在「次」下面加「女」；單獨的「次」用在「次數、一次」，不能代替「舞姿」的「姿」。"
+        }
+      ]
+    },
+    "tip": "跳舞的樣子是「舞姿」：上面「次」，下面「女」。"
+  },
+  "createdAt": "2026-10-16T00:28:11.087645Z"
+}

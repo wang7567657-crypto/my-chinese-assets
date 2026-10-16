@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_bab7883c42d90819",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "泳",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "泳",
+    "groups": {
+      "shape": [
+        {
+          "char": "永",
+          "why": "「泳」的右半就是「永」，容易漏寫左邊。",
+          "difference": "「泳」左邊有三點水，用在「游泳」；「永」沒有三點水，用在「永遠」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "詠",
+          "why": "同音：「泳」和「詠」都讀ㄩㄥˇ。",
+          "difference": "「游泳」是在水中活動；「吟詠」是念或唱。聽到ㄩㄥˇ，還要看詞語的意思選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "浮",
+          "why": "兩字都可用來描述在水中的情形。",
+          "difference": "「泳」在「游泳」中表示配合身體動作在水中游動；「浮」在「浮在水面」中表示停留在水面，不一定正在游泳。"
+        }
+      ],
+      "component": [
+        {
+          "char": "詠",
+          "why": "兩字共用「永」部件，左邊不同。",
+          "difference": "「泳」是「氵＋永」；「詠」是「言＋永」。記「游泳」與水有關，就保留三點水。"
+        }
+      ]
+    },
+    "tip": "游泳有水，用「泳」；永遠少了三點水，吟詠左邊是言。"
+  },
+  "createdAt": "2026-10-16T00:28:11.087645Z"
+}

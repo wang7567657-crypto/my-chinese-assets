@@ -1,0 +1,272 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_4年級_上學期_第1課_feature_ai_batch_464591e774e4cbc0",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 15,
+    "batchCharacters": [
+      "泳",
+      "串",
+      "般",
+      "姿",
+      "溜",
+      "耳",
+      "鷹",
+      "滑",
+      "遨",
+      "緩",
+      "陀",
+      "螺",
+      "轉",
+      "躍",
+      "煩"
+    ],
+    "items": [
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_38dc56ad94514f73",
+        "input": {
+          "char": "泳",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_b969db4340aadd8c",
+        "input": {
+          "char": "串",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_85624d7b09eebd6a",
+        "input": {
+          "char": "般",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_46e650c94bafbeac",
+        "input": {
+          "char": "姿",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_3474bf0c64a14858",
+        "input": {
+          "char": "溜",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_04437b687e6eac57",
+        "input": {
+          "char": "耳",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_d08729e1274287d5",
+        "input": {
+          "char": "鷹",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_85632fdc6c545312",
+        "input": {
+          "char": "滑",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_14e43d58e1feef1c",
+        "input": {
+          "char": "遨",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_0a4d0097cd16df63",
+        "input": {
+          "char": "緩",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_7e24ba198bdac650",
+        "input": {
+          "char": "陀",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_4596270f224f9e15",
+        "input": {
+          "char": "螺",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_575cb0a8dbe337ce",
+        "input": {
+          "char": "轉",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_b8adea272a1a427d",
+        "input": {
+          "char": "躍",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_4年級_上學期_第1課_memory_strategy_7d7e9770f0d67e77",
+        "input": {
+          "char": "煩",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-16T00:28:11.087645Z",
+  "processedAt": "2026-10-16T00:28:11.087645Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "康軒_4年級_上學期_第1課_feature_ai_batch_464591e774e4cbc0",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "康軒",
+      "grade": "4年級",
+      "semester": "上學期",
+      "lesson": "第1課",
+      "featureTaskType": "memory_strategy",
+      "featureName": "記憶策略",
+      "itemCount": 15,
+      "batchCharacters": [
+        "泳",
+        "串",
+        "般",
+        "姿",
+        "溜",
+        "耳",
+        "鷹",
+        "滑",
+        "遨",
+        "緩",
+        "陀",
+        "螺",
+        "轉",
+        "躍",
+        "煩"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 15,
+      "resultPaths": [
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_38dc56ad94514f73.json",
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_b969db4340aadd8c.json",
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_85624d7b09eebd6a.json",
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_46e650c94bafbeac.json",
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_3474bf0c64a14858.json",
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_04437b687e6eac57.json",
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_d08729e1274287d5.json",
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_85632fdc6c545312.json",
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_14e43d58e1feef1c.json",
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_0a4d0097cd16df63.json",
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_7e24ba198bdac650.json",
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_4596270f224f9e15.json",
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_575cb0a8dbe337ce.json",
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_b8adea272a1a427d.json",
+        "aiGenerated/memory_strategy/康軒_4年級_上學期_第1課_memory_strategy_7d7e9770f0d67e77.json"
+      ]
+    },
+    "createdAt": "2026-10-16T00:28:11.087645Z"
+  }
+}
