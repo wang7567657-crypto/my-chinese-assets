@@ -1,0 +1,52 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_4年級_上學期_第1課_component_split_862373e523e6a1d8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "戶",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "data": {
+    "structure": "獨體",
+    "split": [
+      4
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4
+      ]
+    ],
+    "components": [
+      "戶"
+    ],
+    "strokeCount": 4,
+    "radical": "戶",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "獨體字保留整字，不強行拆分。",
+    "verification": {
+      "method": "2026-10-16重新下載原始XML，核對Stroke數、Outline輪廓唯一、座標有限且在合理範圍、Track有效；核對strokeGroups完整不重複覆蓋1起算筆序，渲染原始輪廓並以藍色部首、橙色其餘部分逐字視覺核對；與最新共用字典分組一致。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6236.xml"
+    }
+  },
+  "createdAt": "2026-10-16T20:41:41.097Z"
+}
