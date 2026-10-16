@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第6課_confusion_analysis_306092cd15da4084",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "標",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "標",
+    "groups": {
+      "shape": [
+        {
+          "char": "漂",
+          "why": "部件或整體輪廓接近，容易看混。",
+          "difference": "標左木，漂左氵，右邊都是票。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "彪",
+          "why": "地標的標與彪都讀ㄅㄧㄠ，是同音字；不要用彪寫地標。",
+          "difference": "地標的標與彪都讀ㄅㄧㄠ，是同音字；不要用彪寫地標。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "記",
+          "why": "放入相關語詞比較意思與用法。",
+          "difference": "標記中兩字相關；標可指標示、記號，記也可指記住，使用範圍不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "飄",
+          "why": "觀察共用或相近部件的位置。",
+          "difference": "標與飄都含票；標是左木右票，飄是左票右風。"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀整個語詞，最後用句子確認意思。標左木，漂左氵，右邊都是票。"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}

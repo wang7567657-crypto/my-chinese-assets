@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第6課_confusion_analysis_2dd956cb7a07795f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "內",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "內",
+    "groups": {
+      "shape": [
+        {
+          "char": "肉",
+          "why": "部件或整體輪廓接近，容易看混。",
+          "difference": "內外框內只有入形；肉在外框內有兩組人形筆畫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "餒",
+          "why": "內ㄋㄟˋ與餒ㄋㄟˇ是近音，聲調不同。",
+          "difference": "內ㄋㄟˋ與餒ㄋㄟˇ是近音，聲調不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "外",
+          "why": "放入相關語詞比較意思與用法。",
+          "difference": "內指裡面，外指外面，是相反方向。"
+        }
+      ],
+      "component": [
+        {
+          "char": "納",
+          "why": "觀察共用或相近部件的位置。",
+          "difference": "納的右邊是內，左邊多糹。"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀整個語詞，最後用句子確認意思。內外框內只有入形；肉在外框內有兩組人形筆畫。"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}

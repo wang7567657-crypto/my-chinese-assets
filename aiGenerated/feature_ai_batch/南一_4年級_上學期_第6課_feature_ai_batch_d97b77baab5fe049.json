@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第6課_feature_ai_batch_d97b77baab5fe049",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "尺",
+      "亞",
+      "洲",
+      "鋼",
+      "跨",
+      "護",
+      "層",
+      "鈔",
+      "仍",
+      "標",
+      "融",
+      "仰",
+      "內",
+      "俯",
+      "煙"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_03a1a7c718708225.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_fb547232fb63698d.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_9a09ec2c170d506d.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_bb6fd96555fd2c0e.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_f17bf41c1364d0d4.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_febdfd1fbbf85ba4.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_a6d978e8c6146d60.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_8dc0a917ae1b606d.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_d44ae46113ad6e5b.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_2f326ee0ce53a444.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_a50dc3c0950824c2.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_8f3c21d91c82dcfb.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_8fbe3eeb4e23932a.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_0281ea02dc383366.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第6課_similar_shape_f4cedb1fc550e974.json"
+    ]
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}

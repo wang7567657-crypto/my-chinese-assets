@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第6課_confusion_analysis_d8bdb041d0d01eeb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "俯",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "俯",
+    "groups": {
+      "shape": [
+        {
+          "char": "府",
+          "why": "部件或整體輪廓接近，容易看混。",
+          "difference": "俯比府多左邊亻，府本身裡面仍有付。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "府",
+          "why": "俯與府都讀ㄈㄨˇ，是同音字；俯視用俯，政府用府。",
+          "difference": "俯與府都讀ㄈㄨˇ，是同音字；俯視用俯，政府用府。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "仰",
+          "why": "放入相關語詞比較意思與用法。",
+          "difference": "俯視向下，仰望向上，觀察方向相反。"
+        }
+      ],
+      "component": [
+        {
+          "char": "附",
+          "why": "觀察共用或相近部件的位置。",
+          "difference": "俯右邊是府，附右邊是付；左邊分別是亻與阝。"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀整個語詞，最後用句子確認意思。俯比府多左邊亻，府本身裡面仍有付。"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}

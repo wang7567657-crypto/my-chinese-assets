@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第6課_confusion_analysis_6a230c6faa056058",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鋼",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鋼",
+    "groups": {
+      "shape": [
+        {
+          "char": "剛",
+          "why": "部件或整體輪廓接近，容易看混。",
+          "difference": "兩字都有岡；鋼左金，剛在岡右邊加刂。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "剛",
+          "why": "鋼鐵的鋼與剛才的剛都讀ㄍㄤ，是同音字。",
+          "difference": "鋼鐵的鋼與剛才的剛都讀ㄍㄤ，是同音字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "鐵",
+          "why": "放入相關語詞比較意思與用法。",
+          "difference": "鋼與鐵都是金屬材料相關詞，但鋼材與鐵不能當成完全相同的材料。"
+        }
+      ],
+      "component": [
+        {
+          "char": "綱",
+          "why": "觀察共用或相近部件的位置。",
+          "difference": "鋼與綱都含岡；左旁金與糹不同。"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀整個語詞，最後用句子確認意思。兩字都有岡；鋼左金，剛在岡右邊加刂。"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}

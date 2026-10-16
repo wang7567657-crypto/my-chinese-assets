@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第6課_feature_ai_batch_94c4aac2b70f2ece",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 15,
+    "batchCharacters": [
+      "尺",
+      "亞",
+      "洲",
+      "鋼",
+      "跨",
+      "護",
+      "層",
+      "鈔",
+      "仍",
+      "標",
+      "融",
+      "仰",
+      "內",
+      "俯",
+      "煙"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_7d240ed575d0a378.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_bf768337542aa8bc.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_9e38676dbde4272b.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_80c2f1801761e0ec.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_080d6ff84f7957f4.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_ec22321292492a00.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_e3851d803b07bae8.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_79e0e3b2e816bb73.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_b2dfb20d9e2ba62e.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_44f51b91a1679cf6.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_6eeddd8e1553e3fa.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_33361d6a6d858822.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_1b1eb672c51cc75b.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_9313d77ec3c3c943.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第6課_memory_strategy_226571a50e9ddebc.json"
+    ]
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第6課_confusion_analysis_debff2cb92646572",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "護",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "護",
+    "groups": {
+      "shape": [
+        {
+          "char": "獲",
+          "why": "部件或整體輪廓接近，容易看混。",
+          "difference": "護左言，獲左犭；右邊都是蒦。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "戶",
+          "why": "保護的護與窗戶的戶都讀ㄏㄨˋ，是同音字。",
+          "difference": "保護的護與窗戶的戶都讀ㄏㄨˋ，是同音字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "守",
+          "why": "放入相關語詞比較意思與用法。",
+          "difference": "守護與保護意思相近；守常強調看守、守住，護常強調保護免受傷害。"
+        }
+      ],
+      "component": [
+        {
+          "char": "穫",
+          "why": "觀察共用或相近部件的位置。",
+          "difference": "護與穫都含蒦；左邊言與禾不同。"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀整個語詞，最後用句子確認意思。護左言，獲左犭；右邊都是蒦。"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}

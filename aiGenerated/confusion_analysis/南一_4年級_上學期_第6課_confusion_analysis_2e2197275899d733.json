@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第6課_confusion_analysis_2e2197275899d733",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "洲",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "洲",
+    "groups": {
+      "shape": [
+        {
+          "char": "州",
+          "why": "部件或整體輪廓接近，容易看混。",
+          "difference": "洲比州多左邊氵；亞洲寫洲。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "舟",
+          "why": "洲、舟都讀ㄓㄡ，是同音字；洲是陸地，舟是船。",
+          "difference": "洲、舟都讀ㄓㄡ，是同音字；洲是陸地，舟是船。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "島",
+          "why": "放入相關語詞比較意思與用法。",
+          "difference": "洲和島都與陸地有關；島是四面環水的陸地，不等於洲。"
+        }
+      ],
+      "component": [
+        {
+          "char": "酬",
+          "why": "觀察共用或相近部件的位置。",
+          "difference": "洲與酬都含州；左邊分別是氵與酉。"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀整個語詞，最後用句子確認意思。洲比州多左邊氵；亞洲寫洲。"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}

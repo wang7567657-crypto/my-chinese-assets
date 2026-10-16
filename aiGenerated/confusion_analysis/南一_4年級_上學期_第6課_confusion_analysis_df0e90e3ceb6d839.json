@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第6課_confusion_analysis_df0e90e3ceb6d839",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "融",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "融",
+    "groups": {
+      "shape": [
+        {
+          "char": "隔",
+          "why": "部件或整體輪廓接近，容易看混。",
+          "difference": "融左鬲右虫；隔左阝右鬲，鬲的位置不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "容",
+          "why": "金融的融與容易的容都讀ㄖㄨㄥˊ，是同音字。",
+          "difference": "金融的融與容易的容都讀ㄖㄨㄥˊ，是同音字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "合",
+          "why": "放入相關語詞比較意思與用法。",
+          "difference": "融合與合在一起意思相關；融常有融和、調合之意，合不一定表示充分融合。"
+        }
+      ],
+      "component": [
+        {
+          "char": "膈",
+          "why": "觀察共用或相近部件的位置。",
+          "difference": "融與膈都含鬲；融右虫，膈左月形，部件位置不同。"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀整個語詞，最後用句子確認意思。融左鬲右虫；隔左阝右鬲，鬲的位置不同。"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}

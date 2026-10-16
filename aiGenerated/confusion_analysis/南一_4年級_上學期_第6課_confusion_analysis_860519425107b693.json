@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第6課_confusion_analysis_860519425107b693",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "亞",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "亞",
+    "groups": {
+      "shape": [
+        {
+          "char": "惡",
+          "why": "部件或整體輪廓接近，容易看混。",
+          "difference": "惡在亞下方多一個心；亞下方沒有心。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "訝",
+          "why": "亞洲的亞與驚訝的訝都讀ㄧㄚˋ，是同音字，字義不同。",
+          "difference": "亞洲的亞與驚訝的訝都讀ㄧㄚˋ，是同音字，字義不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "洲",
+          "why": "放入相關語詞比較意思與用法。",
+          "difference": "亞洲是大洲名稱；亞用在名稱中，洲表示大片陸地，不能互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "啞",
+          "why": "觀察共用或相近部件的位置。",
+          "difference": "啞的右邊是亞，左邊多口；亞沒有口旁。"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀整個語詞，最後用句子確認意思。惡在亞下方多一個心；亞下方沒有心。"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}

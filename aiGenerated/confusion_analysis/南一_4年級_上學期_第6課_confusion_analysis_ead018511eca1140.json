@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第6課_confusion_analysis_ead018511eca1140",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "跨",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "跨",
+    "groups": {
+      "shape": [
+        {
+          "char": "胯",
+          "why": "部件或整體輪廓接近，容易看混。",
+          "difference": "跨左足，胯左月形；右邊同為夸。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "胯",
+          "why": "跨與胯都讀ㄎㄨㄚˋ，是同音字；跨是動作，胯指身體部位。",
+          "difference": "跨與胯都讀ㄎㄨㄚˋ，是同音字；跨是動作，胯指身體部位。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "越",
+          "why": "放入相關語詞比較意思與用法。",
+          "difference": "跨過常強調跨越的動作，越過泛指從一邊到另一邊；搭配須看情境。"
+        }
+      ],
+      "component": [
+        {
+          "char": "誇",
+          "why": "觀察共用或相近部件的位置。",
+          "difference": "跨與誇右邊都為夸；左邊足與言不同。"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀整個語詞，最後用句子確認意思。跨左足，胯左月形；右邊同為夸。"
+  },
+  "createdAt": "2026-10-16T04:44:56.185426+00:00"
+}
