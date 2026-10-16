@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第9課_confusion_analysis_cd96ce5d027bd353",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "幼",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "幼",
+    "groups": {
+      "shape": [
+        {
+          "char": "幻",
+          "why": "字形有相近部分，容易看錯或寫錯。",
+          "difference": "幼右力有撇；幻右𠃌形沒有這一撇。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "又",
+          "why": "讀音需要對照。",
+          "difference": "幼、又都讀ㄧㄡˋ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "小",
+          "why": "相關意思容易混用。",
+          "difference": "幼多指年紀小或初生階段；小也可指尺寸，不完全相同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "幻",
+          "why": "觀察部件的增減或替換。",
+          "difference": "幼右力有撇；幻右𠃌形沒有這一撇。"
+        }
+      ]
+    },
+    "tip": "本課詞語「幼芽」。先看字形差異，再放回本課語詞檢查意思；不要只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T14:36:12.144247Z"
+}

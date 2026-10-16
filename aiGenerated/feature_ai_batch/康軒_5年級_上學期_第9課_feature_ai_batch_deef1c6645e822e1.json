@@ -1,0 +1,63 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_5年級_上學期_第9課_feature_ai_batch_deef1c6645e822e1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 19,
+    "batchCharacters": [
+      "維",
+      "戰",
+      "崎",
+      "嶇",
+      "拳",
+      "癌",
+      "症",
+      "銅",
+      "牌",
+      "屢",
+      "減",
+      "予",
+      "幼",
+      "椰",
+      "即",
+      "腐",
+      "衝",
+      "鍛",
+      "鍊"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_3233896f4cb1f870.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_107e9073e9aafa0a.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_06dface977a4f469.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_43046f593aee5295.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_0db2e2aa3dcdfb7e.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_4d09ab1e34ca4596.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_8817502e47b4eaf0.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_d17c3376f943dfd0.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_bb58f832f16efac5.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_93455626f122899a.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_c5f4a7ec0e9b90f4.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_350872678568bb46.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_5aad4d4f060bb2b0.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_90b5248831a02488.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_25cf69a815a58d78.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_c9d75d632377609a.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_7e0bf4f9ec37d147.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_8bf941f2d59eed2e.json",
+      "aiGenerated/similar_shape/康軒_5年級_上學期_第9課_similar_shape_a495536832db3d05.json"
+    ]
+  },
+  "createdAt": "2026-10-16T14:36:12.144247Z"
+}

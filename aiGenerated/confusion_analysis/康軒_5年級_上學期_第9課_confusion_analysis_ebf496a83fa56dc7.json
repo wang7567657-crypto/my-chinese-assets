@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第9課_confusion_analysis_ebf496a83fa56dc7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "癌",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "癌",
+    "groups": {
+      "shape": [
+        {
+          "char": "巖",
+          "why": "字形有相近部分，容易看錯或寫錯。",
+          "difference": "癌外疒、內嵒；巖上山、下嚴，內部不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "矮",
+          "why": "讀音需要對照。",
+          "difference": "癌讀ㄞˊ；矮讀ㄞˇ，聲調不同，屬近音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "病",
+          "why": "相關意思容易混用。",
+          "difference": "癌是一類疾病；病的範圍較廣，不是所有病都是癌。"
+        }
+      ],
+      "component": [
+        {
+          "char": "巖",
+          "why": "觀察部件的增減或替換。",
+          "difference": "癌外疒、內嵒；巖上山、下嚴，內部不同。"
+        }
+      ]
+    },
+    "tip": "本課詞語「癌症」。先看字形差異，再放回本課語詞檢查意思；不要只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T14:36:12.144247Z"
+}

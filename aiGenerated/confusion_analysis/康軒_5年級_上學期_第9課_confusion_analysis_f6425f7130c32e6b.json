@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第9課_confusion_analysis_f6425f7130c32e6b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "維",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "維",
+    "groups": {
+      "shape": [
+        {
+          "char": "唯",
+          "why": "字形有相近部分，容易看錯或寫錯。",
+          "difference": "維左糹；唯左口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "圍",
+          "why": "讀音需要對照。",
+          "difference": "維、圍都讀ㄨㄟˊ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "持",
+          "why": "相關意思容易混用。",
+          "difference": "維持是保持狀態；持可指拿著，不能把維直接換成持。"
+        }
+      ],
+      "component": [
+        {
+          "char": "唯",
+          "why": "觀察部件的增減或替換。",
+          "difference": "維左糹；唯左口。"
+        }
+      ]
+    },
+    "tip": "本課詞語「維持」。先看字形差異，再放回本課語詞檢查意思；不要只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T14:36:12.144247Z"
+}

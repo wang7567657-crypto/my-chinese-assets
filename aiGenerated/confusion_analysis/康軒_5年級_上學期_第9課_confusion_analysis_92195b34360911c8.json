@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第9課_confusion_analysis_92195b34360911c8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "症",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "症",
+    "groups": {
+      "shape": [
+        {
+          "char": "證",
+          "why": "字形有相近部分，容易看錯或寫錯。",
+          "difference": "症外疒、內正；證左言、右登。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "正",
+          "why": "讀音需要對照。",
+          "difference": "癌症的症讀ㄓㄥˋ，和正確的正同音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "病",
+          "why": "相關意思容易混用。",
+          "difference": "症狀是疾病的表現；疾病是身體異常的狀態，兩詞不能任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "證",
+          "why": "觀察部件的增減或替換。",
+          "difference": "症外疒、內正；證左言、右登。"
+        }
+      ]
+    },
+    "tip": "本課詞語「癌症」。先看字形差異，再放回本課語詞檢查意思；不要只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T14:36:12.144247Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第9課_confusion_analysis_122929201e4d21e0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "崎",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "崎",
+    "groups": {
+      "shape": [
+        {
+          "char": "騎",
+          "why": "字形有相近部分，容易看錯或寫錯。",
+          "difference": "崎左山；騎左馬。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "旗",
+          "why": "讀音需要對照。",
+          "difference": "崎、旗都讀ㄑㄧˊ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "險",
+          "why": "相關意思容易混用。",
+          "difference": "崎嶇重在道路不平；危險重在可能造成傷害。"
+        }
+      ],
+      "component": [
+        {
+          "char": "騎",
+          "why": "觀察部件的增減或替換。",
+          "difference": "崎左山；騎左馬。"
+        }
+      ]
+    },
+    "tip": "本課詞語「崎嶇」。先看字形差異，再放回本課語詞檢查意思；不要只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T14:36:12.144247Z"
+}
