@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_4年級_上學期_第2課_similar_shape_0da6f7d7bc398ffd",
+  "input": {
+    "targetChar": "爭",
+    "lessonChars": [
+      "招",
+      "湯",
+      "拋",
+      "糧",
+      "姐",
+      "爭",
+      "警",
+      "偷",
+      "則",
+      "繩",
+      "依",
+      "捨",
+      "束",
+      "暫",
+      "幸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "爭",
+    "similarChars": [
+      {
+        "char": "淨",
+        "similarity": "右半完整保留爭，內部橫畫與豎鉤相同。",
+        "difference": "爭左邊沒有偏旁；淨在爭左邊加氵。"
+      },
+      {
+        "char": "靜",
+        "similarity": "右半都是爭，上下筆畫配置一致。",
+        "difference": "爭可以單獨成字；靜在爭左邊加青。"
+      },
+      {
+        "char": "掙",
+        "similarity": "都含有完整的爭。",
+        "difference": "爭左邊沒有扌；掙是在爭左邊加扌。"
+      },
+      {
+        "char": "睜",
+        "similarity": "右半同樣是爭，中央都有豎鉤。",
+        "difference": "爭左邊沒有目；睜在爭左邊加目。"
+      },
+      {
+        "char": "箏",
+        "similarity": "下方完整保留爭，能找到相同的橫畫與豎鉤。",
+        "difference": "爭上面沒有竹字頭；箏是在爭上面加竹字頭。"
+      },
+      {
+        "char": "諍",
+        "similarity": "右邊同樣是爭；諍是較少見字，供部件辨認。",
+        "difference": "爭左邊沒有言；諍在爭左邊加言字旁。"
+      }
+    ],
+    "teachingTip": "先練習爭本身，再在左邊或上面加偏旁。觀察中間的橫畫向右伸出，中央豎鉤向下，不把上方寫成簡化的字頭。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

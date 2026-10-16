@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第2課_confusion_analysis_938c867160b899e2",
+  "input": {
+    "char": "糧",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "糧",
+    "groups": {
+      "shape": [
+        {
+          "char": "糠",
+          "why": "都有左米，右側筆畫較多。",
+          "difference": "糧右量；糠右康。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "梁",
+          "why": "糧ㄌㄧㄤˊ與橋梁的梁ㄌㄧㄤˊ同音。",
+          "difference": "糧是糧食；梁是橋或屋頂的橫架構造。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "食",
+          "why": "糧食與食物都能供人吃。",
+          "difference": "糧多指穀物等食物；食還能表示吃的動作。"
+        }
+      ],
+      "component": [
+        {
+          "char": "量",
+          "why": "糧右側為量。",
+          "difference": "糧多左米；量沒有。"
+        }
+      ]
+    },
+    "tip": "先比較字形，再讀課文中的詞語；糧右量；糠右康。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第2課_confusion_analysis_607189fcee2e6639",
+  "input": {
+    "char": "暫",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "暫",
+    "groups": {
+      "shape": [
+        {
+          "char": "漸",
+          "why": "都有斬。",
+          "difference": "暫在斬下加日；漸在斬左加氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "讚",
+          "why": "暫ㄓㄢˋ與讚美的讚ㄗㄢˋ近音，聲母不同。",
+          "difference": "暫指短時間；讚表示稱讚。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "久",
+          "why": "都是表示時間長短的字。",
+          "difference": "暫表示短時間；久表示長時間。"
+        }
+      ],
+      "component": [
+        {
+          "char": "斬",
+          "why": "暫上部為斬。",
+          "difference": "暫在斬下多日。"
+        }
+      ]
+    },
+    "tip": "先比較字形，再讀課文中的詞語；暫在斬下加日；漸在斬左加氵。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

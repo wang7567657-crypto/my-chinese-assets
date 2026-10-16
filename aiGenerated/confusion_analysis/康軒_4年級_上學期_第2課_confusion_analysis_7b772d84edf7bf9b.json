@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第2課_confusion_analysis_7b772d84edf7bf9b",
+  "input": {
+    "char": "束",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "束",
+    "groups": {
+      "shape": [
+        {
+          "char": "東",
+          "why": "都以中央豎貫穿中間方形。",
+          "difference": "東中間比束多一橫，成日形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "樹",
+          "why": "束ㄕㄨˋ與樹木的樹ㄕㄨˋ同音。",
+          "difference": "束可作一束花的量詞；樹是木本植物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "綁",
+          "why": "都有約束、綑住的相關意思。",
+          "difference": "束也可作量詞；綁強調用繩帶纏住。"
+        }
+      ],
+      "component": [
+        {
+          "char": "木",
+          "why": "束與木都有中央豎及左右伸出的筆畫。",
+          "difference": "束中央另有口形輪廓與豎相交；木沒有口形。"
+        }
+      ]
+    },
+    "tip": "先比較字形，再讀課文中的詞語；東中間比束多一橫，成日形。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

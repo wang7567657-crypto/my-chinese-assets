@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_4年級_上學期_第2課_memory_strategy_e21fe7373fcf7325",
+  "input": {
+    "char": "警",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "警",
+    "components": [
+      "敬",
+      "言"
+    ],
+    "association": "警察用話語提醒大家注意安全。這是記字聯想，不是字源說明。",
+    "mnemonic": "敬在上，言在下，警察提醒安全話。",
+    "visualPrompt": "保留標準正體「警」完整字形，警察用話語提醒大家注意安全。插圖放在字旁，不以圖代替或遮住筆畫。",
+    "teachingTip": "先觀察「敬、言」的位置，再遮住範字回想；最後放回課文詞語中讀一次。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

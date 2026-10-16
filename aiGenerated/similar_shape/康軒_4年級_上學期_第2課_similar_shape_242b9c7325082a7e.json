@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_4年級_上學期_第2課_similar_shape_242b9c7325082a7e",
+  "input": {
+    "targetChar": "暫",
+    "lessonChars": [
+      "招",
+      "湯",
+      "拋",
+      "糧",
+      "姐",
+      "爭",
+      "警",
+      "偷",
+      "則",
+      "繩",
+      "依",
+      "捨",
+      "束",
+      "暫",
+      "幸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "暫",
+    "similarChars": [
+      {
+        "char": "斬",
+        "similarity": "都含有車和斤組成的斬。",
+        "difference": "斬下面沒有日；暫在斬下面加日。"
+      },
+      {
+        "char": "漸",
+        "similarity": "都保留完整的斬，車、斤的相對位置相同。",
+        "difference": "暫把日放在斬下面；漸把氵放在斬左邊。"
+      },
+      {
+        "char": "慚",
+        "similarity": "都含有斬，能找到左車、右斤。",
+        "difference": "暫下面是日；慚是在斬左邊加忄。"
+      },
+      {
+        "char": "嶄",
+        "similarity": "都含有斬，整體都是上下結構。",
+        "difference": "暫是斬在上、日在下；嶄是山在上、斬在下。"
+      },
+      {
+        "char": "塹",
+        "similarity": "上面完全相同，都是斬；塹是較少見字。",
+        "difference": "暫下面是日；塹下面是土。"
+      },
+      {
+        "char": "鏨",
+        "similarity": "上面同樣是斬；鏨是少見字，只作字形延伸。",
+        "difference": "暫下面是日；鏨下面是金，筆畫較多。"
+      }
+    ],
+    "teachingTip": "先固定上面的斬，再比較底下是日、土或金。寫暫停的暫時，記得日放在整個斬下面，不能移到左邊。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

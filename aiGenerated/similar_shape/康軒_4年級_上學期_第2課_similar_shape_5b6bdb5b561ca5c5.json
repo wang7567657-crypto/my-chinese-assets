@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_4年級_上學期_第2課_similar_shape_5b6bdb5b561ca5c5",
+  "input": {
+    "targetChar": "則",
+    "lessonChars": [
+      "招",
+      "湯",
+      "拋",
+      "糧",
+      "姐",
+      "爭",
+      "警",
+      "偷",
+      "則",
+      "繩",
+      "依",
+      "捨",
+      "束",
+      "暫",
+      "幸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "則",
+    "similarChars": [
+      {
+        "char": "側",
+        "similarity": "都含有完整的則，右側都有刂。",
+        "difference": "則左邊沒有亻；側在則左邊加亻。"
+      },
+      {
+        "char": "測",
+        "similarity": "都能找到貝與右側刂。",
+        "difference": "則只有貝和刂；測在則左邊再加氵。"
+      },
+      {
+        "char": "廁",
+        "similarity": "都含有貝加刂的則。",
+        "difference": "則外面沒有遮蓋；廁在則外面加廣。"
+      },
+      {
+        "char": "惻",
+        "similarity": "右邊完整保留則；惻是較少見字。",
+        "difference": "則左邊沒有忄；惻在則左邊加忄。"
+      },
+      {
+        "char": "貝",
+        "similarity": "左側都能看到目形方框和下面分開的兩筆。",
+        "difference": "貝右邊沒有刂；則在貝右邊加刂。"
+      },
+      {
+        "char": "剛",
+        "similarity": "右邊都是刂，左半都有方框形筆畫。",
+        "difference": "則左邊是貝，下面有分開的兩筆；剛左邊是岡，外有冂、裡面有山。"
+      }
+    ],
+    "teachingTip": "先辨認左貝、右刂，特別看清貝下面分開的兩筆。再用「則加亻成側、加氵成測」比較增加的位置。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

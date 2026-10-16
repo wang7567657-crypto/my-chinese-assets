@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_4年級_上學期_第2課_memory_strategy_96fe9bbdf10fabdf",
+  "input": {
+    "char": "繩",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "繩",
+    "components": [
+      "糹",
+      "黽"
+    ],
+    "association": "把跳繩畫在字旁，先找左邊糹。這是記字聯想，不是字源說明。",
+    "mnemonic": "糸旁在左，黽在右，繩子長長好跳躍。",
+    "visualPrompt": "保留標準正體「繩」完整字形，把跳繩畫在字旁，先找左邊糹。插圖放在字旁，不以圖代替或遮住筆畫。",
+    "teachingTip": "先觀察「糹、黽」的位置，再遮住範字回想；最後放回課文詞語中讀一次。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

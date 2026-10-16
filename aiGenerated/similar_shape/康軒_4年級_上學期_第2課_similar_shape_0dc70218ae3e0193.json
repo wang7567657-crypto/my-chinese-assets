@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_4年級_上學期_第2課_similar_shape_0dc70218ae3e0193",
+  "input": {
+    "targetChar": "偷",
+    "lessonChars": [
+      "招",
+      "湯",
+      "拋",
+      "糧",
+      "姐",
+      "爭",
+      "警",
+      "偷",
+      "則",
+      "繩",
+      "依",
+      "捨",
+      "束",
+      "暫",
+      "幸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "偷",
+    "similarChars": [
+      {
+        "char": "愉",
+        "similarity": "右邊同樣是俞，屋頂形下面的部件相同。",
+        "difference": "偷左邊是亻；愉左邊是忄。"
+      },
+      {
+        "char": "喻",
+        "similarity": "右邊都是俞，左右配置相同。",
+        "difference": "偷左邊是亻；喻左邊是口。"
+      },
+      {
+        "char": "輸",
+        "similarity": "右邊都是俞，右側都有刂形的直筆與鉤。",
+        "difference": "偷左邊是亻；輸左邊是車。"
+      },
+      {
+        "char": "逾",
+        "similarity": "都含有完整的俞。",
+        "difference": "偷在俞左邊加亻；逾在俞的左下方加辶。"
+      },
+      {
+        "char": "榆",
+        "similarity": "右邊都是俞，右半輪廓相同。",
+        "difference": "偷左邊是亻；榆左邊是木。"
+      },
+      {
+        "char": "諭",
+        "similarity": "右邊都是俞，上下安排一致。",
+        "difference": "偷左邊是亻；諭左邊是言字旁。"
+      }
+    ],
+    "teachingTip": "先把右邊俞視為固定部件，再比較亻、忄、口、車、木、言。寫小偷的偷時，左邊只用單人旁亻。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}

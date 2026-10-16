@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第2課_confusion_analysis_6e1ecb82c977939c",
+  "input": {
+    "char": "偷",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "偷",
+    "groups": {
+      "shape": [
+        {
+          "char": "愉",
+          "why": "右邊都為俞。",
+          "difference": "偷左亻；愉左忄。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "投",
+          "why": "偷ㄊㄡ與投球的投ㄊㄡˊ近音，聲調不同。",
+          "difference": "偷是未經同意取走或暗中做；投是投擲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "拿",
+          "why": "都可涉及取物。",
+          "difference": "拿不一定違反同意；偷含有暗中、未經允許的意思。"
+        }
+      ],
+      "component": [
+        {
+          "char": "俞",
+          "why": "偷右側為俞。",
+          "difference": "偷多左亻；俞可作姓氏。"
+        }
+      ]
+    },
+    "tip": "先比較字形，再讀課文中的詞語；偷左亻；愉左忄。"
+  },
+  "createdAt": "2026-10-16T01:25:41.860632Z"
+}
