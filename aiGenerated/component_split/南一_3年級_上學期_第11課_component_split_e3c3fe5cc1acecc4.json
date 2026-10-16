@@ -1,0 +1,71 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_3年級_上學期_第11課_component_split_e3c3fe5cc1acecc4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "貓",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      7,
+      9
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    ],
+    "components": [
+      "豸",
+      "苗"
+    ],
+    "strokeCount": 16,
+    "radical": "豸",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "split 為各組筆數，取筆依 strokeGroups；每筆恰好出現一次，保留原位置與原筆順。部件用於教學分析，不等同字源。",
+    "verification": {
+      "method": "2026-10-16重新下載原始XML，核對Stroke數、Outline輪廓無重複、座標有限合理及Track有效；依strokeGroups檢查每筆恰好一次，實際渲染部首紅色、其餘藍色後逐字視覺核對。分組與最新共用字典相同，未改動字典。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/8c93.xml"
+    }
+  },
+  "createdAt": "2026-10-16T18:40:35.692Z"
+}
