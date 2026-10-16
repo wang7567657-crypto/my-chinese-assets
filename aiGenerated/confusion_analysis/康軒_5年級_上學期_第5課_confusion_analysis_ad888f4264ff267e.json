@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_ad888f4264ff267e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "售",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "售",
+    "groups": {
+      "shape": [
+        {
+          "char": "集",
+          "why": "整體或主要部件相近。",
+          "difference": "售下口，集下木；上方都是隹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "受",
+          "why": "同音字。",
+          "difference": "售、受同音ㄕㄡˋ；出售寫售，接受寫受。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "賣",
+          "why": "相關詞義或語詞容易聯想到一起。",
+          "difference": "售和賣都有賣出的意思；銷售是固定搭配。"
+        }
+      ],
+      "component": [
+        {
+          "char": "焦",
+          "why": "含有共同或相近的部件。",
+          "difference": "共用上方隹；售下口，焦下灬。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：售下口，集下木；上方都是隹。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

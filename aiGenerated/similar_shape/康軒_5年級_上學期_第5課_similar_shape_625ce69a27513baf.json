@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第5課_similar_shape_625ce69a27513baf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "冊",
+    "lessonChars": [
+      "譽",
+      "務",
+      "聯",
+      "核",
+      "申",
+      "局",
+      "松",
+      "註",
+      "冊",
+      "企",
+      "歷",
+      "英",
+      "銷",
+      "售",
+      "勝",
+      "霸",
+      "項"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "冊",
+    "similarChars": [
+      {
+        "char": "刪",
+        "similarity": "刪的左半部就是冊。",
+        "difference": "冊右邊沒有偏旁；刪右邊加刂。"
+      },
+      {
+        "char": "柵",
+        "similarity": "柵的右半部就是冊。",
+        "difference": "冊左邊沒有偏旁；柵左邊加木。"
+      },
+      {
+        "char": "珊",
+        "similarity": "珊的右半部就是冊。",
+        "difference": "冊左邊沒有偏旁；珊左邊加王字旁。"
+      },
+      {
+        "char": "姍",
+        "similarity": "姍的右半部就是冊。",
+        "difference": "冊左邊沒有偏旁；姍左邊加女。"
+      },
+      {
+        "char": "跚",
+        "similarity": "跚的右半部就是冊。",
+        "difference": "冊左邊沒有偏旁；跚左邊加足字旁。"
+      },
+      {
+        "char": "扁",
+        "similarity": "扁的下半部是冊的變形，內部都有並列的豎筆。",
+        "difference": "冊的中橫左右出頭；扁上有戶，下方冊形的中橫不出框，右下有鉤。"
+      }
+    ],
+    "teachingTip": "寫「註冊」時，冊的外形是冂，內有兩豎和一橫，中橫兩端要伸出。比較刪、柵、珊、姍、跚時，先遮住新增的偏旁，再找出相同的冊。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

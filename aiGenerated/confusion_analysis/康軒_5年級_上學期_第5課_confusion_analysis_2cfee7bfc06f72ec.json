@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_2cfee7bfc06f72ec",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "冊",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "冊",
+    "groups": {
+      "shape": [
+        {
+          "char": "刪",
+          "why": "整體或主要部件相近。",
+          "difference": "刪是在冊右側加刂。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "策",
+          "why": "同音字。",
+          "difference": "冊、策同音ㄘㄜˋ；註冊用冊，計策用策。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "本",
+          "why": "相關詞義或語詞容易聯想到一起。",
+          "difference": "冊、本都可作書的量詞；註冊指登記，不能改成註本。"
+        }
+      ],
+      "component": [
+        {
+          "char": "柵",
+          "why": "含有共同或相近的部件。",
+          "difference": "柵在冊左側加木。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：刪是在冊右側加刂。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

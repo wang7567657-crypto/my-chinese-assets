@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_240dea2ec35b1c29",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "英",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "英",
+    "groups": {
+      "shape": [
+        {
+          "char": "央",
+          "why": "整體或主要部件相近。",
+          "difference": "英比央多上面的艹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鷹",
+          "why": "同音字。",
+          "difference": "英、鷹同音ㄧㄥ；英文寫英，老鷹寫鷹。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "勇",
+          "why": "相關詞義或語詞容易聯想到一起。",
+          "difference": "英雄與勇敢常一起出現；英雄指人物，勇敢指特質，英與勇不能處處替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "映",
+          "why": "含有共同或相近的部件。",
+          "difference": "共用央；英上艹，映左日。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：英比央多上面的艹。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

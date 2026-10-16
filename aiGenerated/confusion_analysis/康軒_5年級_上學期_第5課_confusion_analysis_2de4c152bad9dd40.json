@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_2de4c152bad9dd40",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "項",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "項",
+    "groups": {
+      "shape": [
+        {
+          "char": "頂",
+          "why": "整體或主要部件相近。",
+          "difference": "項左工，頂左丁；右邊同為頁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "巷",
+          "why": "同音字。",
+          "difference": "項、巷同音ㄒㄧㄤˋ；項目用項，小巷用巷。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "款",
+          "why": "項、款都可用於分列的事項。",
+          "difference": "項目指分成的一個個事項；款可指條款或款式，須依語詞使用，不能把項目寫成款目。"
+        }
+      ],
+      "component": [
+        {
+          "char": "頸",
+          "why": "含有共同或相近的部件。",
+          "difference": "兩字右側都是頁；項左工，頸左側筆畫較多。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：項左工，頂左丁；右邊同為頁。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

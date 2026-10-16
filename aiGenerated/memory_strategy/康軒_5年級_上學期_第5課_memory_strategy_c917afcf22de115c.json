@@ -1,0 +1,26 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第5課_memory_strategy_c917afcf22de115c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "冊",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "冊",
+    "components": [
+      "冊"
+    ],
+    "association": "把直直排列的書頁想成一冊書，橫畫把它們連在一起。這是記憶聯想，不是字源解釋。",
+    "mnemonic": "書頁排整齊，登記成一冊。",
+    "visualPrompt": "以臺灣標準繁體字「冊」置於田字格中央，保持筆畫、比例及部件位置正確；在字旁畫與「書冊」有關的小插圖，不以圖案替換或遮住筆畫。",
+    "teachingTip": "先看整字，再指出「冊」的位置，遮住範字後寫一次，與「刪」對照：刪是在冊右側加刂。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

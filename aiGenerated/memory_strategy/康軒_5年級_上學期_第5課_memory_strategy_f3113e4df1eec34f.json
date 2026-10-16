@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第5課_memory_strategy_f3113e4df1eec34f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "註",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "註",
+    "components": [
+      "言",
+      "主"
+    ],
+    "association": "用言語寫下主要的登記資料，想起言在左、主在右。這是記憶聯想，不是字源解釋。",
+    "mnemonic": "言加主，註冊不寫水。",
+    "visualPrompt": "以臺灣標準繁體字「註」置於田字格中央，保持筆畫、比例及部件位置正確；在字旁畫與「註冊」有關的小插圖，不以圖案替換或遮住筆畫。",
+    "teachingTip": "先看整字，再指出「言、主」的位置，遮住範字後寫一次，與「注」對照：註左言，注左氵；右邊同為主。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

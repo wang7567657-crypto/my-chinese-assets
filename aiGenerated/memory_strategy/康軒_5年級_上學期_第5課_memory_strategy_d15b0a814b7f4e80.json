@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第5課_memory_strategy_d15b0a814b7f4e80",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "松",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "松",
+    "components": [
+      "木",
+      "公"
+    ],
+    "association": "一棵松樹站在公園，木在左、公在右。這是記憶聯想，不是字源解釋。",
+    "mnemonic": "木加公，松樹長。",
+    "visualPrompt": "以臺灣標準繁體字「松」置於田字格中央，保持筆畫、比例及部件位置正確；在字旁畫與「松樹」有關的小插圖，不以圖案替換或遮住筆畫。",
+    "teachingTip": "先看整字，再指出「木、公」的位置，遮住範字後寫一次，與「鬆」對照：松是木加公；鬆上面另有髟。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

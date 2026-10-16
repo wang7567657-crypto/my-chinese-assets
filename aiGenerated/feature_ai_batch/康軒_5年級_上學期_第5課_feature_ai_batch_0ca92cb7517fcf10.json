@@ -1,0 +1,59 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_5年級_上學期_第5課_feature_ai_batch_0ca92cb7517fcf10",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 17,
+    "batchCharacters": [
+      "譽",
+      "務",
+      "聯",
+      "核",
+      "申",
+      "局",
+      "松",
+      "註",
+      "冊",
+      "企",
+      "歷",
+      "英",
+      "銷",
+      "售",
+      "勝",
+      "霸",
+      "項"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 17,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_446f2e0c19bbc837.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_55f99ee31a0bbd02.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_22e20c3248f9927a.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_2ad019913b3a2d56.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_cb5988eea9cfa74c.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_68bbcf290949e729.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_c3f2d1ae43409087.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_1217d4c727ea9f65.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_2cfee7bfc06f72ec.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_88a852adfd828754.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_655508a7d2e8801c.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_240dea2ec35b1c29.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_60443bb86927e378.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_ad888f4264ff267e.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_39ad3cca938b79da.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_fc67dbfc8210ca7b.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第5課_confusion_analysis_2de4c152bad9dd40.json"
+    ]
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

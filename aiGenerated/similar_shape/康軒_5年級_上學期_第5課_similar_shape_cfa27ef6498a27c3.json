@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第5課_similar_shape_cfa27ef6498a27c3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "註",
+    "lessonChars": [
+      "譽",
+      "務",
+      "聯",
+      "核",
+      "申",
+      "局",
+      "松",
+      "註",
+      "冊",
+      "企",
+      "歷",
+      "英",
+      "銷",
+      "售",
+      "勝",
+      "霸",
+      "項"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "註",
+    "similarChars": [
+      {
+        "char": "注",
+        "similarity": "右半部都是主，整體都是左右結構。",
+        "difference": "註左邊是言字旁；注左邊是氵。"
+      },
+      {
+        "char": "住",
+        "similarity": "右半部都是主。",
+        "difference": "註左邊是言字旁；住左邊是亻。"
+      },
+      {
+        "char": "柱",
+        "similarity": "右半部都是主。",
+        "difference": "註左邊是言字旁；柱左邊是木。"
+      },
+      {
+        "char": "駐",
+        "similarity": "右半部都是主。",
+        "difference": "註左邊是言字旁；駐左邊是馬。"
+      },
+      {
+        "char": "蛀",
+        "similarity": "右半部都是主。",
+        "difference": "註左邊是言字旁；蛀左邊是虫。"
+      },
+      {
+        "char": "炷",
+        "similarity": "右半部都是主。",
+        "difference": "註左邊是言字旁；炷左邊是火。炷是較少用字。"
+      }
+    ],
+    "teachingTip": "寫「註冊」時先圈出左邊的言字旁，再寫右邊的主。用同一個主分別搭配言、氵、亻、木、馬、虫、火，靠左側部件辨別，不能只靠讀音。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

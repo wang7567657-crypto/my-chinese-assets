@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第5課_confusion_analysis_60443bb86927e378",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "銷",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "銷",
+    "groups": {
+      "shape": [
+        {
+          "char": "消",
+          "why": "整體或主要部件相近。",
+          "difference": "銷左金，消左氵；右邊都是肖。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "消",
+          "why": "同音字。",
+          "difference": "銷、消同音ㄒㄧㄠ；銷售寫銷，消失寫消。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "賣",
+          "why": "相關詞義或語詞容易聯想到一起。",
+          "difference": "銷售偏重商品售出；賣可單獨使用，課文依原詞寫銷售。"
+        }
+      ],
+      "component": [
+        {
+          "char": "削",
+          "why": "含有共同或相近的部件。",
+          "difference": "共用肖；銷左金，削右刂。"
+        }
+      ]
+    },
+    "tip": "回到課文語詞辨義，再觀察字形：銷左金，消左氵；右邊都是肖。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}

@@ -1,0 +1,73 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第5課_similar_shape_07b5557233e0c528",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "松",
+    "lessonChars": [
+      "譽",
+      "務",
+      "聯",
+      "核",
+      "申",
+      "局",
+      "松",
+      "註",
+      "冊",
+      "企",
+      "歷",
+      "英",
+      "銷",
+      "售",
+      "勝",
+      "霸",
+      "項"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "松",
+    "similarChars": [
+      {
+        "char": "公",
+        "similarity": "松的右半部就是公。",
+        "difference": "公左邊沒有木；松是左木、右公。"
+      },
+      {
+        "char": "訟",
+        "similarity": "右半部都是公。",
+        "difference": "松左邊是木；訟左邊是言字旁。"
+      },
+      {
+        "char": "頌",
+        "similarity": "兩字都有公。",
+        "difference": "松是左木、右公；頌是左公、右頁，公的位置不同。"
+      },
+      {
+        "char": "忪",
+        "similarity": "右半部都是公。",
+        "difference": "松左邊是木；忪左邊是豎心旁「忄」。忪是較少用字。"
+      },
+      {
+        "char": "淞",
+        "similarity": "淞的右邊完整保留松的字形。",
+        "difference": "松只有木和公；淞在松的左邊再加氵。淞是較少用的地名用字。"
+      },
+      {
+        "char": "鬆",
+        "similarity": "鬆的下半部完整保留松的字形。",
+        "difference": "松上方沒有髟；鬆是在松上方加髟，筆畫較多。"
+      }
+    ],
+    "teachingTip": "課文品牌「黑松」的松是左木、右公，公的下方要寫厶。可先用公、訟、頌找共同部件；再比較鬆上方多出的髟；忪、淞作延伸觀察，不要求一起背寫。"
+  },
+  "createdAt": "2026-10-16T10:24:46.758258Z"
+}
