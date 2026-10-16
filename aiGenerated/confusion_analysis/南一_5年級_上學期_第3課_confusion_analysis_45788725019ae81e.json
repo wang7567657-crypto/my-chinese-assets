@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第3課_confusion_analysis_45788725019ae81e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "眉",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "眉",
+    "groups": {
+      "shape": [
+        {
+          "char": "媚",
+          "why": "共用眉",
+          "difference": "媚左多女"
+        }
+      ],
+      "sound": [
+        {
+          "char": "梅",
+          "why": "眉毛的眉、梅花的梅都讀ㄇㄟˊ",
+          "difference": "眉是眼睛上方的毛；梅是植物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "眼",
+          "why": "都是臉部相關字",
+          "difference": "眉在眼睛上方；眼是視覺器官。"
+        }
+      ],
+      "component": [
+        {
+          "char": "媚",
+          "why": "共用眉，適合比對部件位置。",
+          "difference": "媚左多女"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀例詞並說出意思。例詞為獨立教學示例；目前課文檔與生字清單不符，不據此推定課文讀音或用法。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

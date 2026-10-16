@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第3課_confusion_analysis_e103e6cf2dcf8d2c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "評",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "評",
+    "groups": {
+      "shape": [
+        {
+          "char": "坪",
+          "why": "共用平",
+          "difference": "左邊言換土"
+        }
+      ],
+      "sound": [
+        {
+          "char": "瓶",
+          "why": "評分的評、瓶子的瓶都讀ㄆㄧㄥˊ",
+          "difference": "評用於評說；瓶是容器。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "論",
+          "why": "評論都涉及說明看法",
+          "difference": "評著重判斷優劣；論著重討論或論述。"
+        }
+      ],
+      "component": [
+        {
+          "char": "坪",
+          "why": "共用平，適合比對部件位置。",
+          "difference": "左邊言換土"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀例詞並說出意思。例詞為獨立教學示例；目前課文檔與生字清單不符，不據此推定課文讀音或用法。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

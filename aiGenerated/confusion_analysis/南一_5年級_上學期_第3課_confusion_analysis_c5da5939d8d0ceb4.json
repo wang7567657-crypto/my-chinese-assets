@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第3課_confusion_analysis_c5da5939d8d0ceb4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "塗",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "塗",
+    "groups": {
+      "shape": [
+        {
+          "char": "涂",
+          "why": "共用涂",
+          "difference": "塗下多土；涂作姓氏等用字，不代塗色的塗"
+        }
+      ],
+      "sound": [
+        {
+          "char": "圖",
+          "why": "塗色的塗與圖片的圖都讀ㄊㄨˊ",
+          "difference": "塗是敷抹；圖是圖畫等。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "抹",
+          "why": "塗抹都是動作",
+          "difference": "塗可指塗上顏料；抹也可指擦去，須看語詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "涂",
+          "why": "共用涂，適合比對部件位置。",
+          "difference": "塗下多土；涂作姓氏等用字，不代塗色的塗"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀例詞並說出意思。例詞為獨立教學示例；目前課文檔與生字清單不符，不據此推定課文讀音或用法。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

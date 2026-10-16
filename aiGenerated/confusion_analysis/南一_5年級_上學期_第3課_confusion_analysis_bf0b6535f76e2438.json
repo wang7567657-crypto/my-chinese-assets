@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第3課_confusion_analysis_bf0b6535f76e2438",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "惜",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "惜",
+    "groups": {
+      "shape": [
+        {
+          "char": "借",
+          "why": "共用昔",
+          "difference": "左忄換亻"
+        }
+      ],
+      "sound": [
+        {
+          "char": "息",
+          "why": "珍惜的惜與氣息的息都讀ㄒㄧˊ，為同音字",
+          "difference": "惜表示珍惜；息在氣息中指呼吸的氣流。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "愛",
+          "why": "珍惜與愛護都表示重視",
+          "difference": "惜常含不願浪費或失去；愛可表示喜愛。"
+        }
+      ],
+      "component": [
+        {
+          "char": "借",
+          "why": "共用昔，適合比對部件位置。",
+          "difference": "左忄換亻"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀例詞並說出意思。例詞為獨立教學示例；目前課文檔與生字清單不符，不據此推定課文讀音或用法。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

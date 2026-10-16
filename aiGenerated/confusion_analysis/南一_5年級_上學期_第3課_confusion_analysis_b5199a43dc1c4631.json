@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第3課_confusion_analysis_b5199a43dc1c4631",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "橡",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "橡",
+    "groups": {
+      "shape": [
+        {
+          "char": "像",
+          "why": "共用象",
+          "difference": "左木換亻"
+        }
+      ],
+      "sound": [
+        {
+          "char": "像",
+          "why": "橡樹的橡與好像的像都讀ㄒㄧㄤˋ",
+          "difference": "橡是樹名用字；像表示相像或形象。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "樹",
+          "why": "橡是樹木的一種",
+          "difference": "橡特指橡樹；樹是較廣的稱呼。"
+        }
+      ],
+      "component": [
+        {
+          "char": "像",
+          "why": "共用象，適合比對部件位置。",
+          "difference": "左木換亻"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀例詞並說出意思。例詞為獨立教學示例；目前課文檔與生字清單不符，不據此推定課文讀音或用法。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

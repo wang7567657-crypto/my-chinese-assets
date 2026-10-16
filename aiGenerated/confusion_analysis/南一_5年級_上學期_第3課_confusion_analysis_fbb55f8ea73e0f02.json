@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第3課_confusion_analysis_fbb55f8ea73e0f02",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "愧",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "愧",
+    "groups": {
+      "shape": [
+        {
+          "char": "槐",
+          "why": "共用鬼",
+          "difference": "左忄換木"
+        }
+      ],
+      "sound": [
+        {
+          "char": "櫃",
+          "why": "愧疚的愧讀ㄎㄨㄟˋ、櫃子的櫃讀ㄍㄨㄟˋ，兩字為近音",
+          "difference": "愧聲母ㄎ、櫃聲母ㄍ，送氣不同，並非同音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "歉",
+          "why": "愧疚與抱歉都可能因過失而起",
+          "difference": "愧是內心羞愧；歉可表達歉意。"
+        }
+      ],
+      "component": [
+        {
+          "char": "槐",
+          "why": "共用鬼，適合比對部件位置。",
+          "difference": "左忄換木"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀例詞並說出意思。例詞為獨立教學示例；目前課文檔與生字清單不符，不據此推定課文讀音或用法。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

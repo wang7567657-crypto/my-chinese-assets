@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第3課_similar_shape_cb770af46329da74",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "慚",
+    "lessonChars": [
+      "評",
+      "性",
+      "似",
+      "卷",
+      "楚",
+      "綵",
+      "橡",
+      "塗",
+      "拼",
+      "眉",
+      "秀",
+      "妒",
+      "忌",
+      "屏",
+      "惜",
+      "慈",
+      "慚",
+      "愧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "慚",
+    "similarChars": [
+      {
+        "char": "漸",
+        "similarity": "共用斬",
+        "difference": "左忄換氵"
+      },
+      {
+        "char": "嶄",
+        "similarity": "共用斬",
+        "difference": "嶄山在上，慚忄在左"
+      },
+      {
+        "char": "斬",
+        "similarity": "都有斬",
+        "difference": "斬沒有左忄"
+      },
+      {
+        "char": "暫",
+        "similarity": "共用斬",
+        "difference": "暫日放下方，慚忄在左"
+      },
+      {
+        "char": "鏨",
+        "similarity": "共用斬",
+        "difference": "鏨金在下，慚忄在左；鏨是較少見工具字"
+      },
+      {
+        "char": "慣",
+        "similarity": "同左忄右部密集",
+        "difference": "慣右貫，慚右斬；斬可辨車和斤"
+      }
+    ],
+    "teachingTip": "先找共同輪廓或部件，再指出位置與筆形差異；少見字僅供辨識，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

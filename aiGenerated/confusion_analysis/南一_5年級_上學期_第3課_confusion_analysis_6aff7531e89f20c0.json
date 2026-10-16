@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第3課_confusion_analysis_6aff7531e89f20c0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "秀",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "秀",
+    "groups": {
+      "shape": [
+        {
+          "char": "透",
+          "why": "共用秀",
+          "difference": "透外多辶"
+        }
+      ],
+      "sound": [
+        {
+          "char": "袖",
+          "why": "秀麗的秀、袖子的袖都讀ㄒㄧㄡˋ",
+          "difference": "秀可表示優美；袖是衣服部分。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "美",
+          "why": "秀麗與美麗意思接近",
+          "difference": "秀見於秀麗、優秀；美表示美好，搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "透",
+          "why": "共用秀，適合比對部件位置。",
+          "difference": "透外多辶"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀例詞並說出意思。例詞為獨立教學示例；目前課文檔與生字清單不符，不據此推定課文讀音或用法。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

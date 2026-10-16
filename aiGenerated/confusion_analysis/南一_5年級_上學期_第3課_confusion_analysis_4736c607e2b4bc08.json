@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第3課_confusion_analysis_4736c607e2b4bc08",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "綵",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "綵",
+    "groups": {
+      "shape": [
+        {
+          "char": "彩",
+          "why": "共用采",
+          "difference": "彩的彡在右；綵的糹在左"
+        }
+      ],
+      "sound": [
+        {
+          "char": "彩",
+          "why": "綵帶的綵與彩色的彩都讀ㄘㄞˇ",
+          "difference": "綵用於彩色絲織品；彩用於顏色等。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "彩",
+          "why": "都與色彩有關",
+          "difference": "綵帶用綵，彩虹用彩，不能每處互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "彩",
+          "why": "共用采，適合比對部件位置。",
+          "difference": "彩的彡在右；綵的糹在左"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀例詞並說出意思。例詞為獨立教學示例；目前課文檔與生字清單不符，不據此推定課文讀音或用法。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

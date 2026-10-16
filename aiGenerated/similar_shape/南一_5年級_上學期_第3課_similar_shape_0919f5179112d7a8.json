@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第3課_similar_shape_0919f5179112d7a8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "秀",
+    "lessonChars": [
+      "評",
+      "性",
+      "似",
+      "卷",
+      "楚",
+      "綵",
+      "橡",
+      "塗",
+      "拼",
+      "眉",
+      "秀",
+      "妒",
+      "忌",
+      "屏",
+      "惜",
+      "慈",
+      "慚",
+      "愧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "秀",
+    "similarChars": [
+      {
+        "char": "透",
+        "similarity": "共用秀",
+        "difference": "透外多辶"
+      },
+      {
+        "char": "誘",
+        "similarity": "共用秀",
+        "difference": "誘左多言"
+      },
+      {
+        "char": "銹",
+        "similarity": "共用秀",
+        "difference": "銹左多金；銹是鏽的異體字，課堂以鏽為標準"
+      },
+      {
+        "char": "季",
+        "similarity": "上都有禾",
+        "difference": "季下子，秀下乃"
+      },
+      {
+        "char": "委",
+        "similarity": "上都有禾",
+        "difference": "委下女，秀下乃"
+      },
+      {
+        "char": "禿",
+        "similarity": "上都有禾",
+        "difference": "禿下儿，秀下乃"
+      }
+    ],
+    "teachingTip": "先找共同輪廓或部件，再指出位置與筆形差異；少見字僅供辨識，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

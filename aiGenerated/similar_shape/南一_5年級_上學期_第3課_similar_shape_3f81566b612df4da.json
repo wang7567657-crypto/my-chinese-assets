@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第3課_similar_shape_3f81566b612df4da",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "妒",
+    "lessonChars": [
+      "評",
+      "性",
+      "似",
+      "卷",
+      "楚",
+      "綵",
+      "橡",
+      "塗",
+      "拼",
+      "眉",
+      "秀",
+      "妒",
+      "忌",
+      "屏",
+      "惜",
+      "慈",
+      "慚",
+      "愧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "妒",
+    "similarChars": [
+      {
+        "char": "妝",
+        "similarity": "都有女",
+        "difference": "妝左爿右女，妒左女右戶"
+      },
+      {
+        "char": "妨",
+        "similarity": "同左女",
+        "difference": "妨右方，妒右戶"
+      },
+      {
+        "char": "妍",
+        "similarity": "同左女",
+        "difference": "妍右开，妒右戶"
+      },
+      {
+        "char": "妃",
+        "similarity": "同左女",
+        "difference": "妃右己，妒右戶"
+      },
+      {
+        "char": "妁",
+        "similarity": "同左女",
+        "difference": "妁右勺，妒右戶；妁見於媒妁，較少見"
+      },
+      {
+        "char": "妬",
+        "similarity": "同左女",
+        "difference": "妬右石，妒右戶；妬是妒的異體字，課堂用妒"
+      }
+    ],
+    "teachingTip": "先找共同輪廓或部件，再指出位置與筆形差異；少見字僅供辨識，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第3課_similar_shape_e180364b513b3a4c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "塗",
+    "lessonChars": [
+      "評",
+      "性",
+      "似",
+      "卷",
+      "楚",
+      "綵",
+      "橡",
+      "塗",
+      "拼",
+      "眉",
+      "秀",
+      "妒",
+      "忌",
+      "屏",
+      "惜",
+      "慈",
+      "慚",
+      "愧"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "塗",
+    "similarChars": [
+      {
+        "char": "涂",
+        "similarity": "共用涂",
+        "difference": "塗下多土；涂作姓氏等用字，不代塗色的塗"
+      },
+      {
+        "char": "途",
+        "similarity": "共用余",
+        "difference": "途以辶圍余，塗為氵、余在土上"
+      },
+      {
+        "char": "徐",
+        "similarity": "共用余",
+        "difference": "徐左彳，塗左上氵、下多土"
+      },
+      {
+        "char": "除",
+        "similarity": "共用余",
+        "difference": "除左阝，塗左上氵、下多土"
+      },
+      {
+        "char": "荼",
+        "similarity": "共用余",
+        "difference": "荼為艹在余上，塗有氵及下土；荼見於如火如荼"
+      },
+      {
+        "char": "茶",
+        "similarity": "下部形近",
+        "difference": "茶下部不是余，且上有艹；塗有氵、余及土"
+      }
+    ],
+    "teachingTip": "先找共同輪廓或部件，再指出位置與筆形差異；少見字僅供辨識，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

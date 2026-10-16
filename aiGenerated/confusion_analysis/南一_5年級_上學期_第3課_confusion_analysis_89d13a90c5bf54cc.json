@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第3課_confusion_analysis_89d13a90c5bf54cc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "似",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "似",
+    "groups": {
+      "shape": [
+        {
+          "char": "以",
+          "why": "共用以",
+          "difference": "以沒有左亻"
+        }
+      ],
+      "sound": [
+        {
+          "char": "四",
+          "why": "相似的似、四個的四都讀ㄙˋ",
+          "difference": "似是像；四是數量。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "像",
+          "why": "相似和相像意思接近",
+          "difference": "似可用於似乎；像也可指影像。"
+        }
+      ],
+      "component": [
+        {
+          "char": "以",
+          "why": "共用以，適合比對部件位置。",
+          "difference": "以沒有左亻"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀例詞並說出意思。例詞為獨立教學示例；目前課文檔與生字清單不符，不據此推定課文讀音或用法。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}

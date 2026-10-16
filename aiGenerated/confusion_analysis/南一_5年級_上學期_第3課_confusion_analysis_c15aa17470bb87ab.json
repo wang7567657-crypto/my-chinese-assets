@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第3課_confusion_analysis_c15aa17470bb87ab",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "性",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "性",
+    "groups": {
+      "shape": [
+        {
+          "char": "姓",
+          "why": "共用生",
+          "difference": "左忄換女"
+        }
+      ],
+      "sound": [
+        {
+          "char": "姓",
+          "why": "性格的性、姓名的姓都讀ㄒㄧㄥˋ",
+          "difference": "性指特質；姓指姓氏。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "情",
+          "why": "性情常一起使用",
+          "difference": "性指性質或個性；情可指情緒或感情。"
+        }
+      ],
+      "component": [
+        {
+          "char": "姓",
+          "why": "共用生，適合比對部件位置。",
+          "difference": "左忄換女"
+        }
+      ]
+    },
+    "tip": "先看字形，再讀例詞並說出意思。例詞為獨立教學示例；目前課文檔與生字清單不符，不據此推定課文讀音或用法。"
+  },
+  "createdAt": "2026-10-16T13:49:33.530331Z"
+}
