@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_1189e8b27a12c253",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "秒",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "秒",
+    "groups": {
+      "shape": [
+        {
+          "char": "妙",
+          "why": "右側都有少。",
+          "difference": "秒左為禾；妙左為女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "渺",
+          "why": "秒和渺都讀ㄇㄧㄠˇ，同音。",
+          "difference": "五秒是時間；渺小是很小。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "分",
+          "why": "都能作為時間單位。",
+          "difference": "一分鐘等於六十秒，兩字代表的時間長度不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "少",
+          "why": "秒右側是少形。",
+          "difference": "秒左側還有禾；少下方的撇不能漏寫成小。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的語詞，再比較偏旁與主體；不要只憑讀音選字。"
+  },
+  "createdAt": "2026-10-16T02:24:48.741696Z"
+}

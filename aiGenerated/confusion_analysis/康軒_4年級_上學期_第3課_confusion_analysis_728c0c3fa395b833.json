@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_728c0c3fa395b833",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "彈",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "彈",
+    "groups": {
+      "shape": [
+        {
+          "char": "單",
+          "why": "右側都可看到單。",
+          "difference": "彈左側多了弓；單可獨立成字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "談",
+          "why": "本課反彈的彈讀ㄊㄢˊ，和談ㄊㄢˊ同音。",
+          "difference": "反彈說球碰到東西後回跳；談話是交談。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "跳",
+          "why": "球反彈和球跳起來都有向上移動的情況。",
+          "difference": "彈強調受力後回跳；跳也可指人或動物主動躍起。"
+        }
+      ],
+      "component": [
+        {
+          "char": "弓",
+          "why": "彈左側是弓。",
+          "difference": "彈右側還有單；弓不能寫成扌。"
+        }
+      ]
+    },
+    "tip": "反彈讀ㄈㄢˇ ㄊㄢˊ；子彈的彈則讀ㄉㄢˋ，要依語詞分辨。"
+  },
+  "createdAt": "2026-10-16T02:24:48.741696Z"
+}

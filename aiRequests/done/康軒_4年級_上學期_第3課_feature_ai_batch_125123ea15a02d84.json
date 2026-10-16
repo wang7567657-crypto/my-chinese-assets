@@ -1,0 +1,272 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_4年級_上學期_第3課_feature_ai_batch_125123ea15a02d84",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 15,
+    "batchCharacters": [
+      "社",
+      "邀",
+      "與",
+      "遙",
+      "投",
+      "熟",
+      "巧",
+      "彈",
+      "曾",
+      "揮",
+      "彼",
+      "秒",
+      "喧",
+      "優",
+      "弧"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_04683a490e092923",
+        "input": {
+          "char": "社",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_30d79747fcae66c6",
+        "input": {
+          "char": "邀",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_725836581f354d65",
+        "input": {
+          "char": "與",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_4e3b9dcb9c24ca2e",
+        "input": {
+          "char": "遙",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_e24e3a37192babd4",
+        "input": {
+          "char": "投",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_749525e911a4ee57",
+        "input": {
+          "char": "熟",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_c9a93e55493df0e4",
+        "input": {
+          "char": "巧",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_728c0c3fa395b833",
+        "input": {
+          "char": "彈",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_d491c6f4d65b0db7",
+        "input": {
+          "char": "曾",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_3f5a225f3886ddd1",
+        "input": {
+          "char": "揮",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_009891a960f2ccef",
+        "input": {
+          "char": "彼",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_1189e8b27a12c253",
+        "input": {
+          "char": "秒",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_15de489a9ef5ad18",
+        "input": {
+          "char": "喧",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_24a9ab9e47995f96",
+        "input": {
+          "char": "優",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_a82ab97cd48a71d7",
+        "input": {
+          "char": "弧",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第3課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-16T02:24:48.741696Z",
+  "processedAt": "2026-10-16T02:24:48.741696Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "康軒_4年級_上學期_第3課_feature_ai_batch_125123ea15a02d84",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "康軒",
+      "grade": "4年級",
+      "semester": "上學期",
+      "lesson": "第3課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 15,
+      "batchCharacters": [
+        "社",
+        "邀",
+        "與",
+        "遙",
+        "投",
+        "熟",
+        "巧",
+        "彈",
+        "曾",
+        "揮",
+        "彼",
+        "秒",
+        "喧",
+        "優",
+        "弧"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 15,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_04683a490e092923.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_30d79747fcae66c6.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_725836581f354d65.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_4e3b9dcb9c24ca2e.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_e24e3a37192babd4.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_749525e911a4ee57.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_c9a93e55493df0e4.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_728c0c3fa395b833.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_d491c6f4d65b0db7.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_3f5a225f3886ddd1.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_009891a960f2ccef.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_1189e8b27a12c253.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_15de489a9ef5ad18.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_24a9ab9e47995f96.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第3課_confusion_analysis_a82ab97cd48a71d7.json"
+      ]
+    },
+    "createdAt": "2026-10-16T02:24:48.741696Z"
+  }
+}

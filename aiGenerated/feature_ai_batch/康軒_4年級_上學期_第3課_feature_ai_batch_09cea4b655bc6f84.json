@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_4年級_上學期_第3課_feature_ai_batch_09cea4b655bc6f84",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 15,
+    "batchCharacters": [
+      "社",
+      "邀",
+      "與",
+      "遙",
+      "投",
+      "熟",
+      "巧",
+      "彈",
+      "曾",
+      "揮",
+      "彼",
+      "秒",
+      "喧",
+      "優",
+      "弧"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_ac5d372d0610ad9f.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_8e20ef57b0d30e3f.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_d3524bc277b560aa.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_464f9ef0975f0b2e.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_57044acc39a25ca0.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_e40ee515508ed7f4.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_4e2aabf0b7abd1b7.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_dbe520a7616cb2dc.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_7b7ca7474b4da59e.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_5209a0764050e3af.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_d09f612696fbb74c.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_838b6dcf3fcc83ce.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_a174c7dac3ca899a.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_625ce35ddd534f9e.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第3課_memory_strategy_53f8def6fcd5c0f3.json"
+    ]
+  },
+  "createdAt": "2026-10-16T02:24:48.741696Z"
+}

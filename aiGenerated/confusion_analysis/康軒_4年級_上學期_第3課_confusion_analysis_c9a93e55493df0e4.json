@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_c9a93e55493df0e4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "巧",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "巧",
+    "groups": {
+      "shape": [
+        {
+          "char": "功",
+          "why": "左側都是工。",
+          "difference": "巧右為丂；功右為力。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "敲",
+          "why": "巧ㄑㄧㄠˇ與敲ㄑㄧㄠ聲母韻母相同，聲調不同，是近音。",
+          "difference": "巧妙是巧；敲門是敲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "靈",
+          "why": "靈巧中的兩字都能形容反應好。",
+          "difference": "巧偏重技巧精妙；靈也可說靈敏、靈活。"
+        }
+      ],
+      "component": [
+        {
+          "char": "工",
+          "why": "巧左側是工。",
+          "difference": "巧還有右側丂；不能只寫工，也不要把右側換成力。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的語詞，再比較偏旁與主體；不要只憑讀音選字。"
+  },
+  "createdAt": "2026-10-16T02:24:48.741696Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_e24e3a37192babd4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "投",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "投",
+    "groups": {
+      "shape": [
+        {
+          "char": "役",
+          "why": "右側都有殳。",
+          "difference": "投左為扌；役左為彳。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "頭",
+          "why": "投和頭都讀ㄊㄡˊ，同音。",
+          "difference": "投球是動作；頭部是身體部位。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "拋",
+          "why": "都可說把球送出去。",
+          "difference": "投球著重朝目標送出；拋球常強調向上或向外拋出。"
+        }
+      ],
+      "component": [
+        {
+          "char": "殳",
+          "why": "投右側是殳形部件。",
+          "difference": "投還有左側扌；右側不是沒字去掉氵後的寫法。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的語詞，再比較偏旁與主體；不要只憑讀音選字。"
+  },
+  "createdAt": "2026-10-16T02:24:48.741696Z"
+}
