@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第2課_memory_strategy_bd95308276c0a7b5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "颱",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "颱",
+    "components": [
+      "風",
+      "台"
+    ],
+    "association": "看到風與台合在一起，就聯想到課文的莫拉克颱風。（記憶聯想，非字源說明。）",
+    "mnemonic": "左邊風，右邊台，颱風來時要防災。",
+    "visualPrompt": "標準颱字旁畫風雨與緊閉的窗戶。保持標準字形與全部筆畫，圖在字旁。",
+    "teachingTip": "颱的左側完整保留風，右側台不要寫成臺。"
+  },
+  "createdAt": "2026-10-16T06:33:00.923938Z"
+}

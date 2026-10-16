@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第2課_memory_strategy_8fe81b5bb21742c5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鏟",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鏟",
+    "components": [
+      "金",
+      "產"
+    ],
+    "association": "想到挖土的鏟子有金屬部分，左金提醒材質，右產保留完整。（記憶聯想，非字源說明。）",
+    "mnemonic": "金旁加產，鏟子挖土看。",
+    "visualPrompt": "標準鏟字旁畫一把鏟子與土堆，不把鏟形塞進字內。保持標準字形與全部筆畫，圖在字旁。",
+    "teachingTip": "右側是產，不是單獨的生；先認左右兩部分。"
+  },
+  "createdAt": "2026-10-16T06:33:00.923938Z"
+}

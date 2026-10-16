@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第2課_confusion_analysis_d6036c745693efa0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "巒",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "巒",
+    "groups": {
+      "shape": [
+        {
+          "char": "戀",
+          "why": "兩字上部相同。",
+          "difference": "巒下面是山；戀下面是心。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鸞",
+          "why": "同音：巒、鸞都讀ㄌㄨㄢˊ。",
+          "difference": "巒指山巒；鸞是傳說中的鳥，較少見，不是山。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "峰",
+          "why": "兩字都與山有關。",
+          "difference": "巒常指連綿的山；峰偏指山的尖頂。"
+        }
+      ],
+      "component": [
+        {
+          "char": "山",
+          "why": "巒底部是山。",
+          "difference": "山可獨立成字；巒還有上方複雜部分。"
+        }
+      ]
+    },
+    "tip": "山巒的巒看底部山；戀愛的戀看底部心。"
+  },
+  "createdAt": "2026-10-16T06:33:00.923938Z"
+}

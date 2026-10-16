@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第2課_memory_strategy_281c548ac445f813",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "錄",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "錄",
+    "components": [
+      "金",
+      "右側整體"
+    ],
+    "association": "想像拿著記錄工具，把空拍景象保存下來；左金旁是辨字標記。（記憶聯想，非字源說明。）",
+    "mnemonic": "金旁在左，記錄在心，錄字右邊仔細看。",
+    "visualPrompt": "完整錄字旁畫相機與記錄本，右側依標準字形描出，不改成水字。保持標準字形與全部筆畫，圖在字旁。",
+    "teachingTip": "比較錄與綠：左金旁是記錄，左糸旁是綠色；不把右側拆成不準確的獨立字。"
+  },
+  "createdAt": "2026-10-16T06:33:00.923938Z"
+}

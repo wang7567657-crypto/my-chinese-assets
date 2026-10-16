@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第2課_confusion_analysis_1ebd7d01feffbc7b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "縱",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "縱",
+    "groups": {
+      "shape": [
+        {
+          "char": "從",
+          "why": "縱右側完整包含從。",
+          "difference": "縱左邊另有糸；從沒有糸旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "宗",
+          "why": "同音：縱谷的縱ㄗㄨㄥ與宗ㄗㄨㄥ同音。",
+          "difference": "縱谷表示沿山脈方向延伸的谷地；宗用於祖宗，放縱的縱則讀ㄗㄨㄥˋ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "橫",
+          "why": "縱與橫都能表方向。",
+          "difference": "縱向與橫向不同，縱谷不能改成橫谷而保持原意。"
+        }
+      ],
+      "component": [
+        {
+          "char": "糸",
+          "why": "縱左側為糸旁。",
+          "difference": "糸是左部件；右側必須保留從，不能只寫糸。"
+        }
+      ]
+    },
+    "tip": "本課縱谷讀第一聲ㄗㄨㄥ，與放縱的第四聲分開記。"
+  },
+  "createdAt": "2026-10-16T06:33:00.923938Z"
+}

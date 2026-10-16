@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第2課_memory_strategy_3f4fae3f1252285c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "德",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "德",
+    "components": [
+      "彳",
+      "右側整體"
+    ],
+    "association": "把品德想成走路時也記得用心做好事。（記憶聯想，非字源說明。）",
+    "mnemonic": "左雙人，右下心，德國的德仔細認。",
+    "visualPrompt": "標出左側彳與右下心，旁邊畫一個守規矩行走的人。保持標準字形與全部筆畫，圖在字旁。",
+    "teachingTip": "右側心上方的橫不可漏；本課德國是國名。"
+  },
+  "createdAt": "2026-10-16T06:33:00.923938Z"
+}
