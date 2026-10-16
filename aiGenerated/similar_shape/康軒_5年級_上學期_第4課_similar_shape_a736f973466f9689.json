@@ -34,14 +34,39 @@
   "data": {
     "targetChar": "巾",
     "similarChars": [
-      "市",
-      "布",
-      "帥",
-      "吊",
-      "幣",
-      "帽"
+      {
+        "char": "市",
+        "similarity": "下方都有巾。",
+        "difference": "市上面多點、橫；巾沒有這兩筆。"
+      },
+      {
+        "char": "帥",
+        "similarity": "右側都有巾。",
+        "difference": "帥在巾左側另有部件；巾獨立成字。"
+      },
+      {
+        "char": "師",
+        "similarity": "右側有巾形。",
+        "difference": "師右側是帀，比巾上方多一橫，左側另有部件。"
+      },
+      {
+        "char": "帆",
+        "similarity": "左側有巾。",
+        "difference": "帆右邊另有凡；巾沒有右側凡。"
+      },
+      {
+        "char": "帽",
+        "similarity": "左側有巾。",
+        "difference": "帽右側另有冒；巾沒有冒。"
+      },
+      {
+        "char": "帖",
+        "similarity": "左側有巾。",
+        "difference": "帖右側另有占；巾沒有占。"
+      }
     ],
-    "teachingTip": "巾是三筆；市、布、吊在巾上面多了筆畫，帥、帽在旁邊加了部件。"
+    "teachingTip": "留意巾的中間直畫向上突出；比師時還要找巾上方多出的橫。"
   },
-  "createdAt": "2026-09-25T14:43:00.878Z"
+  "createdAt": "2026-10-16T09:24:51.517888Z",
+  "status": "completed"
 }

@@ -34,14 +34,39 @@
   "data": {
     "targetChar": "素",
     "similarChars": [
-      "索",
-      "累",
-      "紫",
-      "青",
-      "責",
-      "縣"
+      {
+        "char": "索",
+        "similarity": "下方都有糸。",
+        "difference": "素上方是多層橫畫與中間直畫；索上方是十與冖。"
+      },
+      {
+        "char": "累",
+        "similarity": "下方都有糸。",
+        "difference": "素上方是多層橫畫與中間直畫；累上方是田。"
+      },
+      {
+        "char": "紫",
+        "similarity": "下方都有糸。",
+        "difference": "素上方是多層橫畫與中間直畫；紫上方是此。"
+      },
+      {
+        "char": "紊",
+        "similarity": "下方都有糸。",
+        "difference": "素上方是多層橫畫與中間直畫；紊上方是文。"
+      },
+      {
+        "char": "絮",
+        "similarity": "下方都有糸。",
+        "difference": "素上方是多層橫畫與中間直畫；絮上方是如。"
+      },
+      {
+        "char": "紮",
+        "similarity": "下方同有糸。",
+        "difference": "紮上方是札；素上方沒有木和豎彎鉤。"
+      }
     ],
-    "teachingTip": "素下方是糸；索、累、紫的下方也像糸，青、責上半部相近，下面不同。"
+    "teachingTip": "先辨認下方糸，再比較上面；不要把素最上面的橫畫群寫成十與冖。"
   },
-  "createdAt": "2026-09-25T14:43:00.878Z"
+  "createdAt": "2026-10-16T09:24:51.517888Z",
+  "status": "completed"
 }

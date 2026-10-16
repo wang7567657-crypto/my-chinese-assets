@@ -34,14 +34,39 @@
   "data": {
     "targetChar": "慷",
     "similarChars": [
-      "康",
-      "糠",
-      "慨",
-      "慵",
-      "慟",
-      "懷"
+      {
+        "char": "康",
+        "similarity": "康是慷的右側主體。",
+        "difference": "慷在康左側多忄；康沒有忄。"
+      },
+      {
+        "char": "糠",
+        "similarity": "右側康相同。",
+        "difference": "糠左側是米；慷左側是忄。"
+      },
+      {
+        "char": "糖",
+        "similarity": "右側都有广包住筆畫的外觀。",
+        "difference": "糖左米右唐，右下有口；慷左忄右康，右下不是口。"
+      },
+      {
+        "char": "慵",
+        "similarity": "左忄相同，右側上方都有广。",
+        "difference": "慵右側是庸；慷右側是康。"
+      },
+      {
+        "char": "慨",
+        "similarity": "左側忄相同，右側筆畫多。",
+        "difference": "慨右側是既；慷右側是康。"
+      },
+      {
+        "char": "懷",
+        "similarity": "左側忄相同，右側上下堆疊較密。",
+        "difference": "懷右側最下有衣形；慷右側是康，最下沒有衣形。"
+      }
     ],
-    "teachingTip": "慷左邊是心字旁、右邊是康；慨、慵、慟、懷也有心字旁，右邊不同。"
+    "teachingTip": "先比慷、康、糠，再比較康、唐、庸的下半；不要因為同在「慷慨」中就說兩字字形相同。"
   },
-  "createdAt": "2026-09-25T14:43:00.878Z"
+  "createdAt": "2026-10-16T09:24:51.517888Z",
+  "status": "completed"
 }

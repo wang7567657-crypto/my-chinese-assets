@@ -34,14 +34,39 @@
   "data": {
     "targetChar": "怨",
     "similarChars": [
-      "苑",
-      "鴛",
-      "宛",
-      "惋",
-      "怒",
-      "怠"
+      {
+        "char": "苑",
+        "similarity": "都有夗。",
+        "difference": "苑是艹在夗上；怨是夗在心上。"
+      },
+      {
+        "char": "宛",
+        "similarity": "都有夗。",
+        "difference": "宛上方是宀；怨下方是心。"
+      },
+      {
+        "char": "惋",
+        "similarity": "同有夗與心部相關形體。",
+        "difference": "惋左忄右宛，右側多宀；怨是夗在心上。"
+      },
+      {
+        "char": "腕",
+        "similarity": "都有夗。",
+        "difference": "腕左月右宛，右側多宀；怨沒有月和宀，下面有心。"
+      },
+      {
+        "char": "鴛",
+        "similarity": "上方同為夗。",
+        "difference": "鴛下方是鳥，常見於鴛鴦；怨下方是心。"
+      },
+      {
+        "char": "念",
+        "similarity": "下方都有心。",
+        "difference": "念上方是今；怨上方是夗。"
+      }
     ],
-    "teachingTip": "怨下方是心；苑、鴛、宛、惋有相近的上半部，怒、怠雖有心，上方不同。"
+    "teachingTip": "先看心在左還是在下，再比較夗是否被宀或艹蓋住。"
   },
-  "createdAt": "2026-09-25T14:43:00.878Z"
+  "createdAt": "2026-10-16T09:24:51.517888Z",
+  "status": "completed"
 }

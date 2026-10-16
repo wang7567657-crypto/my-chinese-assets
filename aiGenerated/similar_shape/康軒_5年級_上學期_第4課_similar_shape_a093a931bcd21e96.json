@@ -34,14 +34,39 @@
   "data": {
     "targetChar": "澄",
     "similarChars": [
-      "登",
-      "橙",
-      "燈",
-      "證",
-      "澈",
-      "潑"
+      {
+        "char": "橙",
+        "similarity": "右側同有登。",
+        "difference": "澄左側是氵；橙左側是木。"
+      },
+      {
+        "char": "瞪",
+        "similarity": "右側同有登。",
+        "difference": "澄左側是氵；瞪左側是目。"
+      },
+      {
+        "char": "證",
+        "similarity": "右側同有登。",
+        "difference": "澄左側是氵；證左側是言。"
+      },
+      {
+        "char": "燈",
+        "similarity": "右側同有登。",
+        "difference": "澄左側是氵；燈左側是火。"
+      },
+      {
+        "char": "登",
+        "similarity": "登是澄的右側主體。",
+        "difference": "登獨立成字；澄在左側多氵。"
+      },
+      {
+        "char": "澈",
+        "similarity": "都是氵在左、右側筆畫較密。",
+        "difference": "澈右側有育與攵；澄右側是登。"
+      }
     ],
-    "teachingTip": "澄左邊是三點水、右邊是登；橙、燈、證換了左邊，澈、潑雖都有三點水，右邊不同。"
+    "teachingTip": "把登圈起來，再逐一替換左旁比較；澈只作整體輪廓的進階比較。"
   },
-  "createdAt": "2026-09-25T14:43:00.878Z"
+  "createdAt": "2026-10-16T09:24:51.517888Z",
+  "status": "completed"
 }

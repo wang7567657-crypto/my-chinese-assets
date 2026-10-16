@@ -34,14 +34,39 @@
   "data": {
     "targetChar": "堆",
     "similarChars": [
-      "推",
-      "唯",
-      "維",
-      "椎",
-      "錐",
-      "誰"
+      {
+        "char": "推",
+        "similarity": "右側隹相同。",
+        "difference": "堆左側是土；推左側是扌。"
+      },
+      {
+        "char": "椎",
+        "similarity": "右側隹相同。",
+        "difference": "堆左側是土；椎左側是木。"
+      },
+      {
+        "char": "惟",
+        "similarity": "右側隹相同。",
+        "difference": "堆左側是土；惟左側是忄。"
+      },
+      {
+        "char": "維",
+        "similarity": "右側隹相同。",
+        "difference": "堆左側是土；維左側是糹。"
+      },
+      {
+        "char": "誰",
+        "similarity": "右側隹相同。",
+        "difference": "堆左側是土；誰左側是言。"
+      },
+      {
+        "char": "隹",
+        "similarity": "隹是堆的右側主體。",
+        "difference": "較少單獨使用的字。隹獨立成字；堆左側另有土。"
+      }
     ],
-    "teachingTip": "堆左邊是土，右邊是隹；推、唯、維、椎、錐、誰把左邊換成其他偏旁。"
+    "teachingTip": "右側隹先保持不變，只比較土、扌、木等左旁。"
   },
-  "createdAt": "2026-09-25T14:43:00.878Z"
+  "createdAt": "2026-10-16T09:24:51.517888Z",
+  "status": "completed"
 }

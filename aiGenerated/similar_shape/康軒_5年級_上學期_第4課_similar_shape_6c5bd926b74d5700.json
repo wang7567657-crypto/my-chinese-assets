@@ -34,14 +34,39 @@
   "data": {
     "targetChar": "尊",
     "similarChars": [
-      "遵",
-      "樽",
-      "蹲",
-      "奠",
-      "酋",
-      "導"
+      {
+        "char": "遵",
+        "similarity": "含有完整的尊。",
+        "difference": "遵在尊外側加辶；尊沒有辶。"
+      },
+      {
+        "char": "樽",
+        "similarity": "含有完整的尊。",
+        "difference": "樽是較少見字，左側加木；尊沒有木旁。"
+      },
+      {
+        "char": "蹲",
+        "similarity": "含有完整的尊。",
+        "difference": "蹲左側加足字旁；尊沒有足字旁。"
+      },
+      {
+        "char": "奠",
+        "similarity": "上方都有酋。",
+        "difference": "奠下面是大；尊下面是寸。"
+      },
+      {
+        "char": "酋",
+        "similarity": "酋是尊上方的形體。",
+        "difference": "尊在酋下面加寸；酋沒有下方寸。"
+      },
+      {
+        "char": "奪",
+        "similarity": "下面都有寸，上方均筆畫密集。",
+        "difference": "奪上面是大與隹；尊上面是酋。"
+      }
     ],
-    "teachingTip": "尊下方有寸；遵、樽、蹲含有尊，奠、酋的上半部相近，下面要仔細比。"
+    "teachingTip": "先比尊與奠的最下面：寸有點，大有撇捺；再找加偏旁的字。"
   },
-  "createdAt": "2026-09-25T14:43:00.878Z"
+  "createdAt": "2026-10-16T09:24:51.517888Z",
+  "status": "completed"
 }
