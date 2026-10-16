@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第8課_confusion_analysis_a423980c3e34f2fa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "踮",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "踮",
+    "groups": {
+      "shape": [
+        {
+          "char": "惦",
+          "why": "字形或共同部件接近，書寫時容易看錯。",
+          "difference": "踮左邊足字旁，惦左邊忄，右邊都是店。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "店",
+          "why": "踮、店同音ㄉㄧㄢˋ；踮起腳跟用踮，商店用店。",
+          "difference": "依詞語意思選字，不能只憑聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "站",
+          "why": "詞義或使用情境相關，需要區分。",
+          "difference": "踮是抬起腳跟、腳尖著地；站不一定抬起腳跟。"
+        }
+      ],
+      "component": [
+        {
+          "char": "店",
+          "why": "含有相同部件，容易增減或換錯。",
+          "difference": "踮右邊完整含店，左邊足字旁提醒與腳的動作有關。"
+        }
+      ]
+    },
+    "tip": "把課文中的詞語與比較詞各讀一次，再指出字形差異。踮、店同音ㄉㄧㄢˋ；踮起腳跟用踮，商店用店。"
+  },
+  "createdAt": "2026-10-16T06:42:53.967185+00:00"
+}

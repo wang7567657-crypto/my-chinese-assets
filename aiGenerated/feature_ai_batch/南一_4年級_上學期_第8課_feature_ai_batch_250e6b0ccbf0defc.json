@@ -1,0 +1,51 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第8課_feature_ai_batch_250e6b0ccbf0defc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 13,
+    "batchCharacters": [
+      "陣",
+      "披",
+      "嚇",
+      "眶",
+      "乘",
+      "龐",
+      "絲",
+      "板",
+      "辮",
+      "踮",
+      "挺",
+      "散",
+      "里"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 13,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第8課_confusion_analysis_8cfc26ab6e721c23.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第8課_confusion_analysis_70835744eb650c93.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第8課_confusion_analysis_adcf20afbac168c5.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第8課_confusion_analysis_95b8c51ab483499f.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第8課_confusion_analysis_fbf7527befb71d91.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第8課_confusion_analysis_a90ce1a7602296fe.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第8課_confusion_analysis_6b85c28916c7070b.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第8課_confusion_analysis_8978a5419296c853.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第8課_confusion_analysis_3a6fcf2712b89c5f.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第8課_confusion_analysis_a423980c3e34f2fa.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第8課_confusion_analysis_39ed9841d77238f2.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第8課_confusion_analysis_370d877f97352a14.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第8課_confusion_analysis_dde23861354fa05c.json"
+    ]
+  },
+  "createdAt": "2026-10-16T06:42:53.967185+00:00"
+}

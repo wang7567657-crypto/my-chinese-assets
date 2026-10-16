@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第8課_confusion_analysis_fbf7527befb71d91",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "乘",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "乘",
+    "groups": {
+      "shape": [
+        {
+          "char": "乖",
+          "why": "字形或共同部件接近，書寫時容易看錯。",
+          "difference": "乘、乖上部都有撇與橫及中間豎；乘下部另有向左右伸出的撇、捺，不能省略。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "成",
+          "why": "乘著風的乘讀ㄔㄥˊ，與成功的成同音；乘另有ㄕㄥˋ讀音，不能套用在此。",
+          "difference": "依詞語意思選字，不能只憑聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "搭",
+          "why": "詞義或使用情境相關，需要區分。",
+          "difference": "乘車與搭車都可表示搭交通工具；乘著風有藉著風的意思。"
+        }
+      ],
+      "component": [
+        {
+          "char": "剩",
+          "why": "含有相同部件，容易增減或換錯。",
+          "difference": "剩左邊保留乘，右邊另有刂；乘本身沒有右邊刂。"
+        }
+      ]
+    },
+    "tip": "把課文中的詞語與比較詞各讀一次，再指出字形差異。乘著風的乘讀ㄔㄥˊ，與成功的成同音；乘另有ㄕㄥˋ讀音，不能套用在此。"
+  },
+  "createdAt": "2026-10-16T06:42:53.967185+00:00"
+}
