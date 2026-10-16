@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_bea8a753ce5d534e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "職",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "職",
+    "groups": {
+      "shape": [
+        {
+          "char": "織",
+          "why": "右邊同為戠",
+          "difference": "職左耳，織左糹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "植",
+          "why": "同音：官職的職、植物的植都讀ㄓˊ。",
+          "difference": "職指職務；植與種植相關。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "業",
+          "why": "職業一詞同時包含職和業。",
+          "difference": "職偏重所擔任的工作或職務；業也能指行業、學業，範圍較廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "識",
+          "why": "右邊同為戠",
+          "difference": "職左耳，識左言。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「職」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

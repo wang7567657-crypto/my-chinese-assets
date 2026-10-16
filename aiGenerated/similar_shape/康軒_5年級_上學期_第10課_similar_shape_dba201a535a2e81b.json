@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第10課_similar_shape_dba201a535a2e81b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "幽",
+    "lessonChars": [
+      "唐",
+      "恬",
+      "罷",
+      "暮",
+      "掩",
+      "柴",
+      "扉",
+      "歸",
+      "畢",
+      "陋",
+      "傍",
+      "確",
+      "閒",
+      "詠",
+      "幽",
+      "眠",
+      "職",
+      "吟",
+      "曠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "幽",
+    "similarChars": [
+      {
+        "char": "幻",
+        "similarity": "都含幺形與折筆",
+        "difference": "幽有兩個幺並置在山形內；幻只有一個幺，右側為折鉤。"
+      },
+      {
+        "char": "幼",
+        "similarity": "都含幺形",
+        "difference": "幽有兩個幺和山形；幼左幺右力。"
+      },
+      {
+        "char": "茲",
+        "similarity": "都有兩個並排的幺形",
+        "difference": "幽外有山形；茲上方是艹形，沒有外側山形。"
+      },
+      {
+        "char": "絲",
+        "similarity": "都有並列的細小轉折形",
+        "difference": "幽內有兩幺且外有山形；絲是兩個糸形並排，底下點畫不同。"
+      },
+      {
+        "char": "出",
+        "similarity": "都有山形的直畫與下方折筆",
+        "difference": "幽內兩側有幺形；出沒有幺，呈上下山形相接。"
+      },
+      {
+        "char": "山",
+        "similarity": "保留幽外圍主要的山形",
+        "difference": "幽在山形內還有兩個幺；山沒有。"
+      }
+    ],
+    "teachingTip": "先找相同部件，再遮住共同部分比較差異；以本課標準字「幽」練習，少見字只用來觀察字形。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

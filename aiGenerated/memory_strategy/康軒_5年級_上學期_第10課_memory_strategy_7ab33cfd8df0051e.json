@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第10課_memory_strategy_7ab33cfd8df0051e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "扉",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "扉",
+    "components": [
+      "戶",
+      "非"
+    ],
+    "association": "記憶聯想，非字源：把「戶」連結到門，把「非」兩側排列的橫畫想成門板上的條紋。",
+    "mnemonic": "戶下有個非，門扇叫作扉。",
+    "visualPrompt": "呈現教育部標準楷體「扉」，完整字形保持不變；旁邊畫一扇有木條紋理的門扇，插圖不替換、不遮蓋任何筆畫。",
+    "teachingTip": "先辨認「戶」包住下方「非」的配置，左右短橫要分清楚。連讀「柴扉」，再用「柴門」說出意思。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

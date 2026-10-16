@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_17772b29f9b678a1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "詠",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "詠",
+    "groups": {
+      "shape": [
+        {
+          "char": "泳",
+          "why": "右邊同為永",
+          "difference": "詠左言，泳左氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "泳",
+          "why": "同音：吟詠的詠、游泳的泳都讀ㄩㄥˇ。",
+          "difference": "詠是吟唱；泳是在水中游動。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "唱",
+          "why": "詠與唱都可以用聲音表達作品。",
+          "difference": "詠多指有聲調地吟唱詩文；唱也可指唱歌，範圍較廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "永",
+          "why": "保留詠的右半部",
+          "difference": "永沒有左邊言。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「詠」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

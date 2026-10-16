@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第10課_memory_strategy_cf17e5c0d719388d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "唐",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "唐",
+    "components": [
+      "广",
+      "中間肀形筆畫",
+      "口"
+    ],
+    "association": "記憶聯想，非字源：把「广」想成屋簷，屋簷下有人拿著詩稿，用「口」朗讀唐詩。",
+    "mnemonic": "广下筆畫看清楚，底下一口讀唐詩。",
+    "visualPrompt": "呈現教育部標準楷體「唐」，完整字形保持不變；旁邊畫屋簷下的人手持詩稿朗讀，插圖不替換、不遮蓋任何筆畫。",
+    "teachingTip": "先辨認外側「广」和下方「口」，再描寫中間筆畫；中間長橫右端要出頭。用「唐代、唐詩」連結課文。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

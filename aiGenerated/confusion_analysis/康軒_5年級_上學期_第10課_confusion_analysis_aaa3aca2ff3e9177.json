@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_aaa3aca2ff3e9177",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "掩",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "掩",
+    "groups": {
+      "shape": [
+        {
+          "char": "淹",
+          "why": "右邊同為奄",
+          "difference": "掩左扌，淹左氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "演",
+          "why": "同音：掩門的掩、表演的演都讀ㄧㄢˇ。",
+          "difference": "掩門是關門；表演是演出。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "關",
+          "why": "本課掩柴扉指把柴門關上。",
+          "difference": "掩還能指遮蔽，例如掩面；關並不是每個語境都能替換掩。"
+        }
+      ],
+      "component": [
+        {
+          "char": "醃",
+          "why": "右邊同為奄",
+          "difference": "掩左扌，醃左酉。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「掩」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

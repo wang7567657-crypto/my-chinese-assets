@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_ce6cfb3474924ff3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "柴",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "柴",
+    "groups": {
+      "shape": [
+        {
+          "char": "紫",
+          "why": "上半同為此",
+          "difference": "柴下木，紫下糸。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "豺",
+          "why": "同音：柴火的柴、豺狼的豺都讀ㄔㄞˊ。",
+          "difference": "柴是可燃燒的木料；豺是一種動物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "木",
+          "why": "柴與木都與樹木材料有關。",
+          "difference": "柴通常指供燃燒的細木料；木泛指樹木或木材。"
+        }
+      ],
+      "component": [
+        {
+          "char": "些",
+          "why": "上半同為此",
+          "difference": "柴下木，些下二。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「柴」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_eac65ee47406a538",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "恬",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "恬",
+    "groups": {
+      "shape": [
+        {
+          "char": "括",
+          "why": "右邊同為舌",
+          "difference": "恬左忄，括左扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "甜",
+          "why": "同音：恬淡的恬、甜味的甜都讀ㄊㄧㄢˊ。",
+          "difference": "恬淡形容安靜淡泊；甜形容味道。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "靜",
+          "why": "恬淡、安靜都可描述平和的狀態。",
+          "difference": "恬淡還含淡泊、不追逐名利的意思；安靜主要指沒有吵鬧。"
+        }
+      ],
+      "component": [
+        {
+          "char": "活",
+          "why": "右邊同為舌",
+          "difference": "恬左忄，活左氵。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「恬」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

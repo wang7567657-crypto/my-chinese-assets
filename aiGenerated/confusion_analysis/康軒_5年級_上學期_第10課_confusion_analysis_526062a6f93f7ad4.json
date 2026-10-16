@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_526062a6f93f7ad4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "傍",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "傍",
+    "groups": {
+      "shape": [
+        {
+          "char": "榜",
+          "why": "右邊同為旁",
+          "difference": "傍左亻，榜左木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "幫",
+          "why": "同音：本課傍晚的傍、幫忙的幫都讀ㄅㄤ。",
+          "difference": "傍晚指接近晚上；幫忙是協助。依傍中的傍另讀ㄅㄤˋ，不可全部套成同音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "近",
+          "why": "傍晚的傍有接近某個時間的意思。",
+          "difference": "傍晚是固定的時間詞；近晚不是本課的寫法。"
+        }
+      ],
+      "component": [
+        {
+          "char": "膀",
+          "why": "右邊同為旁",
+          "difference": "傍左亻，膀左月形。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「傍」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

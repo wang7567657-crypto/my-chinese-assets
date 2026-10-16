@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第10課_confusion_analysis_39b6b8462aa155df",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "畢",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "畢",
+    "groups": {
+      "shape": [
+        {
+          "char": "華",
+          "why": "都有多橫與居中的直畫",
+          "difference": "畢上方田形；華上方艹，下方橫豎的配置不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "必",
+          "why": "同音：完畢的畢、必要的必都讀ㄅㄧˋ。",
+          "difference": "畢表示結束；必表示一定或必須。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "完",
+          "why": "完畢表示事情結束。",
+          "difference": "完可單說做完；畢常出現在完畢、畢業等詞，不任意替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "卑",
+          "why": "都有上方方框與下方十字形輪廓",
+          "difference": "畢上田且中間橫豎較多；卑上方含撇，內部斜筆與下方結構不同。"
+        }
+      ]
+    },
+    "tip": "先依語境理解「畢」，再比較部件位置；讀音相同不代表字形、意思相同。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

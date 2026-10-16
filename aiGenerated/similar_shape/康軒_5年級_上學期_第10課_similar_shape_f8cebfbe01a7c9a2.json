@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第10課_similar_shape_f8cebfbe01a7c9a2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "畢",
+    "lessonChars": [
+      "唐",
+      "恬",
+      "罷",
+      "暮",
+      "掩",
+      "柴",
+      "扉",
+      "歸",
+      "畢",
+      "陋",
+      "傍",
+      "確",
+      "閒",
+      "詠",
+      "幽",
+      "眠",
+      "職",
+      "吟",
+      "曠"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課"
+  },
+  "data": {
+    "targetChar": "畢",
+    "similarChars": [
+      {
+        "char": "華",
+        "similarity": "都有多橫與居中的直畫",
+        "difference": "畢上方田形；華上方艹，下方橫豎的配置不同。"
+      },
+      {
+        "char": "卑",
+        "similarity": "都有上方方框與下方十字形輪廓",
+        "difference": "畢上田且中間橫豎較多；卑上方含撇，內部斜筆與下方結構不同。"
+      },
+      {
+        "char": "單",
+        "similarity": "下半有密集橫畫與中直畫",
+        "difference": "畢上田形；單上有兩個口。"
+      },
+      {
+        "char": "早",
+        "similarity": "都有方框及向下伸出的直畫",
+        "difference": "早上日下十，橫豎較少；畢中部還有額外橫豎。"
+      },
+      {
+        "char": "卓",
+        "similarity": "下部都有方框、橫畫和中直畫",
+        "difference": "卓最上方是卜形；畢上方是田形，沒有卜形。"
+      },
+      {
+        "char": "嗶",
+        "similarity": "右邊完整保留畢",
+        "difference": "嗶左邊多口，是模擬短促聲音的用字。"
+      }
+    ],
+    "teachingTip": "先找相同部件，再遮住共同部分比較差異；以本課標準字「畢」練習，少見字只用來觀察字形。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}

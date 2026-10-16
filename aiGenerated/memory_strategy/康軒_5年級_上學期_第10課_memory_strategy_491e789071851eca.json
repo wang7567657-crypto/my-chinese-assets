@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第10課_memory_strategy_491e789071851eca",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "畢",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "畢",
+    "components": [
+      "田（上部）",
+      "下半部相連的橫、豎筆畫"
+    ],
+    "association": "記憶聯想，非字源：把上面的「田」想成分好格子的工作表，事情一項項完成，全部做完就是完畢。",
+    "mnemonic": "上面田格記仔細，事情做完叫完畢。",
+    "visualPrompt": "呈現教育部標準楷體「畢」，完整字形保持不變；旁邊畫所有項目都打勾的工作清單，插圖不替換、不遮蓋任何筆畫。",
+    "teachingTip": "依標準字形分區描寫，不把下半部硬湊成其他完整字。上面「田」的中直筆不與下方直筆連成一筆；下方兩橫中，較下面的一橫較短。"
+  },
+  "createdAt": "2026-10-16T15:23:40.506478Z"
+}
