@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_e1ff2bb2df9ec18a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "續",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "續",
+    "groups": {
+      "shape": [
+        {
+          "char": "讀",
+          "why": "右側同是賣",
+          "difference": "續左糹，讀左言。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "序",
+          "why": "同音：續與序都讀ㄒㄩˋ。",
+          "difference": "續表示接著做；序可表示次序。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "接",
+          "why": "都有連在一起的意思",
+          "difference": "接可指接住物品；續強調延續，續寫不能寫成接住。"
+        }
+      ],
+      "component": [
+        {
+          "char": "賣",
+          "why": "續右部是賣",
+          "difference": "賣可獨立成字；續在賣左邊添糹。"
+        }
+      ]
+    },
+    "tip": "右邊是賣，不能少寫成買；聯想不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

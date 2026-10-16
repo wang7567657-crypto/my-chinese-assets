@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_83daa07ba2999527",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "傍",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "傍",
+    "groups": {
+      "shape": [
+        {
+          "char": "旁",
+          "why": "都含旁",
+          "difference": "傍比旁多左側亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "幫",
+          "why": "同音：傍晚的傍與幫忙的幫都讀ㄅㄤ。",
+          "difference": "傍晚是時間；幫表示協助。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "晚",
+          "why": "都與傍晚這個時間詞相關",
+          "difference": "傍晚指接近晚上；晚還可指時間遲，如遲到太晚。"
+        }
+      ],
+      "component": [
+        {
+          "char": "亻",
+          "why": "傍左側是人字旁",
+          "difference": "亻是偏旁形；右側完整旁要保留。"
+        }
+      ]
+    },
+    "tip": "本課傍晚讀ㄅㄤ ㄨㄢˇ；不要把傍一律讀成ㄅㄤˋ。聯想不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

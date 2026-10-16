@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_69d996441036ebb1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "納",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "納",
+    "groups": {
+      "shape": [
+        {
+          "char": "鈉",
+          "why": "右側同是內",
+          "difference": "納左糹，鈉左金。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "那",
+          "why": "同音：笑納的納與那裡的那都讀ㄋㄚˋ。",
+          "difference": "納是收受；那是指示詞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "收",
+          "why": "都有接收的意思",
+          "difference": "笑納是客氣請人收禮；收還可指整理，如收書包。"
+        }
+      ],
+      "component": [
+        {
+          "char": "內",
+          "why": "納右側含內",
+          "difference": "內可獨立成字；納左方再添糹。"
+        }
+      ]
+    },
+    "tip": "笑納是請對方收下禮物的客氣話；聯想不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

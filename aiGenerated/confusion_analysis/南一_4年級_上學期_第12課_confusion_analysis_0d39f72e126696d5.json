@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_0d39f72e126696d5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "算",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "算",
+    "groups": {
+      "shape": [
+        {
+          "char": "纂",
+          "why": "都能看到竹字頭與目；纂為較少見字，見於編纂。",
+          "difference": "算下為廾；纂在目下有撇、捺，再接糸，不能說成完整算字直接加糸。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蒜",
+          "why": "同音：打算的算與大蒜的蒜都讀ㄙㄨㄢˋ。",
+          "difference": "算可指計畫或計算；蒜是植物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "計",
+          "why": "都有考慮或計數的用法",
+          "difference": "本課打算表示計畫；計算才是求數值，不要把打算解成算數學。"
+        }
+      ],
+      "component": [
+        {
+          "char": "目",
+          "why": "算中間含目",
+          "difference": "目單獨是一個字；算上有竹字頭、下有廾。"
+        }
+      ]
+    },
+    "tip": "下面是廾形，不是開；這是字形聯想，不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

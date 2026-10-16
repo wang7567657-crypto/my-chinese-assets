@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_befe003345f0af88",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "託",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "託",
+    "groups": {
+      "shape": [
+        {
+          "char": "托",
+          "why": "右側同是乇",
+          "difference": "託左言，托左扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "拖",
+          "why": "同音：託福的託與拖地的拖都讀ㄊㄨㄛ。",
+          "difference": "託有寄託、承蒙之意；拖是拉著移動。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "靠",
+          "why": "本課託福與依靠他人幫助相關",
+          "difference": "託福是承蒙照顧的說法；靠還可指挨近，兩字並非處處互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "言",
+          "why": "託左側是言",
+          "difference": "言旁提示可聯想到說話；整字右部另有乇。"
+        }
+      ]
+    },
+    "tip": "本課託老爺爺的福表示承蒙；右部乇不要寫成毛。聯想不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

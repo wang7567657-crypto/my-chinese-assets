@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第12課_memory_strategy_636cfaa60fff7b4b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "算",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "算",
+    "components": [
+      "竹字頭",
+      "目",
+      "廾"
+    ],
+    "association": "用眼睛看清數字，再動手計算。",
+    "mnemonic": "竹頭目在中，下面廾托住。",
+    "visualPrompt": "清楚呈現標準繁體「算」，各部件維持原來位置與比例；字旁另畫「用眼睛看清數字，再動手計算。」的簡單情境，插圖不取代、遮住或改造筆畫。",
+    "teachingTip": "下面是廾形，不是開；這是字形聯想，不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

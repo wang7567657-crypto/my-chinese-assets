@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第12課_similar_shape_23907350a71baa59",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "繼",
+    "lessonChars": [
+      "貧",
+      "妻",
+      "茫",
+      "算",
+      "祈",
+      "繼",
+      "續",
+      "宜",
+      "耐",
+      "離",
+      "傍",
+      "隱",
+      "託",
+      "納",
+      "漸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "繼",
+    "similarChars": [
+      {
+        "char": "斷",
+        "similarity": "繼右半與斷左半具有相同的四幺部件。",
+        "difference": "繼左邊有糸旁，斷右邊有斤；共同部件的位置不同。"
+      },
+      {
+        "char": "幾",
+        "similarity": "局部相似：都有幺形。",
+        "difference": "幾上方有兩個幺，沒有繼左方的糸旁，也沒有繼右方上下四幺的布局。"
+      },
+      {
+        "char": "絲",
+        "similarity": "局部相似：左邊同為糸旁，也都有絲線形部件。",
+        "difference": "絲右邊也是糸；繼右邊是含四個幺的部件。"
+      },
+      {
+        "char": "綴",
+        "similarity": "局部相似：左邊同為糸旁，右邊都有重複部件。",
+        "difference": "綴右邊是四個又組成的叕；繼右邊含四個幺。"
+      },
+      {
+        "char": "織",
+        "similarity": "局部相似：左邊同為糸旁。",
+        "difference": "織右邊是戠，具有音與戈的組合；繼右邊含四個幺。"
+      },
+      {
+        "char": "經",
+        "similarity": "局部相似：左邊同為糸旁。",
+        "difference": "經右邊有工字底；繼右邊沒有工字底。"
+      }
+    ],
+    "teachingTip": "優先比較繼與斷的四幺共同部件，注意部件位置及糸、斤的差異；其餘為局部相似，不當成整字高度形近。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_d1e6eebeb163f822",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "妻",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "妻",
+    "groups": {
+      "shape": [
+        {
+          "char": "淒",
+          "why": "都含妻",
+          "difference": "淒在妻左邊加氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "七",
+          "why": "同音：夫妻的妻與七都讀ㄑㄧ。",
+          "difference": "妻指配偶身分；七是數目。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "夫",
+          "why": "都出現在夫妻一詞",
+          "difference": "在本課，妻是老婆婆，夫是老爺爺；兩字不能交換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "女",
+          "why": "妻下方是女形部件",
+          "difference": "女可獨立使用；妻的上方另有筆畫。"
+        }
+      ]
+    },
+    "tip": "上部保持妻的標準筆形，不當成完整的十加彐；聯想不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第12課_similar_shape_e250cbf3510ce824",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "貧",
+    "lessonChars": [
+      "貧",
+      "妻",
+      "茫",
+      "算",
+      "祈",
+      "繼",
+      "續",
+      "宜",
+      "耐",
+      "離",
+      "傍",
+      "隱",
+      "託",
+      "納",
+      "漸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "data": {
+    "targetChar": "貧",
+    "similarChars": [
+      {
+        "char": "貪",
+        "similarity": "下方同為貝，整體上下結構接近。",
+        "difference": "貧上方是分，貪上方是今。"
+      },
+      {
+        "char": "盆",
+        "similarity": "上方同為分。",
+        "difference": "貧下方是貝，盆下方是皿。"
+      },
+      {
+        "char": "貨",
+        "similarity": "局部相似：下方同為貝。",
+        "difference": "貧上方是分，貨上方是化。"
+      },
+      {
+        "char": "費",
+        "similarity": "局部相似：下方同為貝。",
+        "difference": "貧上方是分，費上方是弗。"
+      },
+      {
+        "char": "買",
+        "similarity": "局部相似：下方同為貝。",
+        "difference": "貧上方是分，買上方是罒。"
+      },
+      {
+        "char": "貸",
+        "similarity": "局部相似：下方同為貝。",
+        "difference": "貧上方是分，貸上方是代。"
+      }
+    ],
+    "teachingTip": "先比較貧、貪的上半，再比較貧、盆的下半；其餘候選只用來找共同的貝字部件。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}

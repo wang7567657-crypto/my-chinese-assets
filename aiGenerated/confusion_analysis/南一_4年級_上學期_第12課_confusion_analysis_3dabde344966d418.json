@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第12課_confusion_analysis_3dabde344966d418",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "貧",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "貧",
+    "groups": {
+      "shape": [
+        {
+          "char": "貪",
+          "why": "上部容易混看",
+          "difference": "貧上分，貪上今，下方同是貝。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "頻",
+          "why": "同音：貧苦的貧與頻繁的頻都讀ㄆㄧㄣˊ。",
+          "difference": "貧表示缺乏財物；頻表示次數多。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "窮",
+          "why": "都可形容缺少錢財",
+          "difference": "貧苦與貧窮可相互說明；窮另可指盡頭，如無窮。"
+        }
+      ],
+      "component": [
+        {
+          "char": "分",
+          "why": "貧上方含分",
+          "difference": "分是獨立的字；貧在分下加貝。"
+        }
+      ]
+    },
+    "tip": "看清上面是分，不是今；聯想只是記憶方法，不是字源。"
+  },
+  "createdAt": "2026-10-16T10:46:00.832781Z"
+}
