@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第2課_confusion_analysis_a37643f8cf2fbd95",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "臍",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "臍",
+    "groups": {
+      "shape": [
+        {
+          "char": "擠",
+          "why": "兩字右側相同為齊。",
+          "difference": "臍左是肉旁的月形；擠左是扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "齊",
+          "why": "同音：臍、整齊的齊都讀ㄑㄧˊ。",
+          "difference": "臍指肚臍；齊可指整齊，臍帶要有肉旁。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "腹",
+          "why": "兩字都與身體腹部有關。",
+          "difference": "臍指肚臍的位置；腹指腹部，範圍較大。"
+        }
+      ],
+      "component": [
+        {
+          "char": "齊",
+          "why": "臍右側完整包含齊。",
+          "difference": "齊可獨立成字；臍左側另有肉旁（月形）。"
+        }
+      ]
+    },
+    "tip": "臍帶的臍是肉部，月形左旁不可省。"
+  },
+  "createdAt": "2026-10-16T06:33:00.923938Z"
+}

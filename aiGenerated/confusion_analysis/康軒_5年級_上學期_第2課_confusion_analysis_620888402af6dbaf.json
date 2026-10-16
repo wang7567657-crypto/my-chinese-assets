@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第2課_confusion_analysis_620888402af6dbaf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "禍",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "禍",
+    "groups": {
+      "shape": [
+        {
+          "char": "鍋",
+          "why": "右側同為咼。",
+          "difference": "禍左為礻；鍋左為金旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "貨",
+          "why": "同音：禍、貨都讀ㄏㄨㄛˋ。",
+          "difference": "災禍用禍；貨物用貨。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "災",
+          "why": "天災人禍都涉及不幸損害。",
+          "difference": "災泛指災害；人禍特別指出人為造成的災難。"
+        }
+      ],
+      "component": [
+        {
+          "char": "礻",
+          "why": "禍左側是示字旁礻。",
+          "difference": "礻為四筆；衣字旁衤有五筆，不可多添一筆。"
+        }
+      ]
+    },
+    "tip": "天災人禍用示字旁，不能寫成貨物的貨。"
+  },
+  "createdAt": "2026-10-16T06:33:00.923938Z"
+}

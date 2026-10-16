@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第2課_confusion_analysis_a436811a2ef409c6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "血",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "血",
+    "groups": {
+      "shape": [
+        {
+          "char": "皿",
+          "why": "下部輪廓相近。",
+          "difference": "血在皿形上多一撇；皿沒有上面那一撇。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "雪",
+          "why": "近音：血液的血依教育部重編辭典讀ㄒㄧㄝˇ，雪讀ㄒㄩㄝˇ。",
+          "difference": "韻母不同；血另有讀音ㄒㄩㄝˋ，不能把雪的聲調套入。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "液",
+          "why": "課文血液的兩字都關聯流動物質。",
+          "difference": "血是身體中的特定液體；液泛指液態物質。"
+        }
+      ],
+      "component": [
+        {
+          "char": "皿",
+          "why": "血的外形可觀察皿形與上方撇。",
+          "difference": "這是字形比較，不把血的部首改成皿。"
+        }
+      ]
+    },
+    "tip": "血液用血，不用雪；保留最上方的一撇。"
+  },
+  "createdAt": "2026-10-16T06:33:00.923938Z"
+}

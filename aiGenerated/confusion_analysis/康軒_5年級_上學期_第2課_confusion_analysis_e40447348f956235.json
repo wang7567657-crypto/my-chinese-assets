@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第2課_confusion_analysis_e40447348f956235",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "德",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "德",
+    "groups": {
+      "shape": [
+        {
+          "char": "得",
+          "why": "左側同為彳，右側下方容易混看。",
+          "difference": "德右下是心；得右下是寸。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "得",
+          "why": "同音：德、得到的得都讀ㄉㄜˊ。",
+          "difference": "德可指品德或德國；得表示獲得，依詞義選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "善",
+          "why": "品德與善良都與良好行為有關。",
+          "difference": "德指品行；善可指良好、善良，德國不能換成善國。"
+        }
+      ],
+      "component": [
+        {
+          "char": "心",
+          "why": "德的右下包含心形。",
+          "difference": "心可獨立成字；德還有左彳及右上部分。"
+        }
+      ]
+    },
+    "tip": "本課德國是國名；辨形看心，辨詞不要改成得國。"
+  },
+  "createdAt": "2026-10-16T06:33:00.923938Z"
+}

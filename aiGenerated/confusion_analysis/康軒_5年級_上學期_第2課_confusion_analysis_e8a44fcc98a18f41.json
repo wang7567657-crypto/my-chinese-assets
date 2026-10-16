@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第2課_confusion_analysis_e8a44fcc98a18f41",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "殘",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "殘",
+    "groups": {
+      "shape": [
+        {
+          "char": "錢",
+          "why": "兩字右側同為戔。",
+          "difference": "殘左是歹；錢左是金旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蠶",
+          "why": "同音：殘、蠶都讀ㄘㄢˊ。",
+          "difference": "殘破用殘；蠶是吐絲的昆蟲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "破",
+          "why": "殘破都能形容受損。",
+          "difference": "殘偏重不完整、剩餘；破偏重破損，殘餘不能任意換成破餘。"
+        }
+      ],
+      "component": [
+        {
+          "char": "戔",
+          "why": "殘右側的戔也出現在錢字右側。",
+          "difference": "戔不是整個殘；還要加左側歹，觀察上下戈形。"
+        }
+      ]
+    },
+    "tip": "殘破土地用歹旁；用詞辨義，再核對左旁。"
+  },
+  "createdAt": "2026-10-16T06:33:00.923938Z"
+}

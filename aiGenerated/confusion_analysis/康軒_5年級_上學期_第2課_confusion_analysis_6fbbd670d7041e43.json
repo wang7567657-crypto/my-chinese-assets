@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第2課_confusion_analysis_6fbbd670d7041e43",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "汙",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "汙",
+    "groups": {
+      "shape": [
+        {
+          "char": "汗",
+          "why": "兩字左側同為氵，右側相近。",
+          "difference": "汙右為于，末筆帶鉤；汗右為干，豎筆不帶鉤。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "屋",
+          "why": "同音：汙、屋都讀ㄨ。",
+          "difference": "汙水用汙；房屋用屋。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "髒",
+          "why": "汙與髒都能表示不潔淨。",
+          "difference": "汙可組汙染、汙水；髒可形容不乾淨，但固定詞不任意換字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "于",
+          "why": "汙右側為于。",
+          "difference": "于不同於干，關鍵是末筆的鉤；左側再加氵才是汙。"
+        }
+      ]
+    },
+    "tip": "本課使用汙；污是汙的異體，不當作錯別字，練寫仍依本課字形。"
+  },
+  "createdAt": "2026-10-16T06:33:00.923938Z"
+}
