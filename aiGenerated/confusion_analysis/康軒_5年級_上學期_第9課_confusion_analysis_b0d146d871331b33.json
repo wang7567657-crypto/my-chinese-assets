@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第9課_confusion_analysis_b0d146d871331b33",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "腐",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "腐",
+    "groups": {
+      "shape": [
+        {
+          "char": "府",
+          "why": "字形有相近部分，容易看錯或寫錯。",
+          "difference": "腐在府下還有肉；府沒有下方肉。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "斧",
+          "why": "讀音需要對照。",
+          "difference": "腐、斧都讀ㄈㄨˇ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "爛",
+          "why": "相關意思容易混用。",
+          "difference": "腐常與爛合成腐爛；爛也可形容破損或熟透，範圍不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "府",
+          "why": "觀察部件的增減或替換。",
+          "difference": "腐在府下還有肉；府沒有下方肉。"
+        }
+      ]
+    },
+    "tip": "本課詞語「腐爛」。先看字形差異，再放回本課語詞檢查意思；不要只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T14:36:12.144247Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第9課_confusion_analysis_e912ab219b44e555",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "予",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "予",
+    "groups": {
+      "shape": [
+        {
+          "char": "矛",
+          "why": "字形有相近部分，容易看錯或寫錯。",
+          "difference": "矛比予多了向左下的撇，勿添撇。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "雨",
+          "why": "讀音需要對照。",
+          "difference": "給予的予讀ㄩˇ，和雨同音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "給",
+          "why": "相關意思容易混用。",
+          "difference": "給予表示給；予是較書面的用字，不能把所有給字都換成予。"
+        }
+      ],
+      "component": [
+        {
+          "char": "矛",
+          "why": "觀察部件的增減或替換。",
+          "difference": "矛比予多了向左下的撇，勿添撇。"
+        }
+      ]
+    },
+    "tip": "本課詞語「給予」。先看字形差異，再放回本課語詞檢查意思；不要只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T14:36:12.144247Z"
+}

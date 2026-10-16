@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第9課_memory_strategy_79e2bcdf8c90ec91",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "癌",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "癌",
+    "components": [
+      "疒",
+      "品",
+      "山"
+    ],
+    "association": "只用疒提示與疾病有關，不把品和山的聯想當病因。這是識字聯想，不是字源解釋。",
+    "mnemonic": "病字旁內品和山，癌字位置看清楚。",
+    "visualPrompt": "保持「癌」的標準字形，不變形、不把圖案畫進筆畫；在字旁畫簡單情境：只用疒提示與疾病有關，不把品和山的聯想當病因。",
+    "teachingTip": "本課詞語「癌症」。先讀課文詞語，再指出各部分的位置，最後遮住範字試寫。聯想不代表正式筆畫拆分。"
+  },
+  "createdAt": "2026-10-16T14:36:12.144247Z"
+}

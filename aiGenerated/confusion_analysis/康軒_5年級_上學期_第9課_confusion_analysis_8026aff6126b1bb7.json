@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第9課_confusion_analysis_8026aff6126b1bb7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "牌",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "牌",
+    "groups": {
+      "shape": [
+        {
+          "char": "脾",
+          "why": "字形有相近部分，容易看錯或寫錯。",
+          "difference": "牌左片；脾左月。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "排",
+          "why": "讀音需要對照。",
+          "difference": "牌、排都讀ㄆㄞˊ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "獎",
+          "why": "相關意思容易混用。",
+          "difference": "牌是可掛、可展示的物件；獎是獎勵，獎牌一詞兩字職責不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "脾",
+          "why": "觀察部件的增減或替換。",
+          "difference": "牌左片；脾左月。"
+        }
+      ]
+    },
+    "tip": "本課詞語「銅牌」。先看字形差異，再放回本課語詞檢查意思；不要只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T14:36:12.144247Z"
+}

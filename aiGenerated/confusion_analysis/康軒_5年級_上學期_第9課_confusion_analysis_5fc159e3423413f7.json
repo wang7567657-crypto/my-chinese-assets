@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第9課_confusion_analysis_5fc159e3423413f7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "銅",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "銅",
+    "groups": {
+      "shape": [
+        {
+          "char": "桐",
+          "why": "字形有相近部分，容易看錯或寫錯。",
+          "difference": "銅左金；桐左木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "同",
+          "why": "讀音需要對照。",
+          "difference": "銅、同都讀ㄊㄨㄥˊ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "鐵",
+          "why": "相關意思容易混用。",
+          "difference": "銅和鐵是不同金屬，銅牌不可寫成鐵牌而保持原意。"
+        }
+      ],
+      "component": [
+        {
+          "char": "桐",
+          "why": "觀察部件的增減或替換。",
+          "difference": "銅左金；桐左木。"
+        }
+      ]
+    },
+    "tip": "本課詞語「銅牌」。先看字形差異，再放回本課語詞檢查意思；不要只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T14:36:12.144247Z"
+}

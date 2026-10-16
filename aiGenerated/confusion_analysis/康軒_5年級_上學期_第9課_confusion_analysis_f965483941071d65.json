@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第9課_confusion_analysis_f965483941071d65",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "屢",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "屢",
+    "groups": {
+      "shape": [
+        {
+          "char": "樓",
+          "why": "字形有相近部分，容易看錯或寫錯。",
+          "difference": "屢外尸；樓左木；都有婁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "旅",
+          "why": "讀音需要對照。",
+          "difference": "屢、旅都讀ㄌㄩˇ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "常",
+          "why": "相關意思容易混用。",
+          "difference": "屢屢強調一再發生；經常強調頻率高，搭配和語氣不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "樓",
+          "why": "觀察部件的增減或替換。",
+          "difference": "屢外尸；樓左木；都有婁。"
+        }
+      ]
+    },
+    "tip": "本課詞語「屢屢」。先看字形差異，再放回本課語詞檢查意思；不要只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T14:36:12.144247Z"
+}

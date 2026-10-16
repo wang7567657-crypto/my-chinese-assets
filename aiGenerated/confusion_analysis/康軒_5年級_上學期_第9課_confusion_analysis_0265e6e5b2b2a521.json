@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第9課_confusion_analysis_0265e6e5b2b2a521",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "衝",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "衝",
+    "groups": {
+      "shape": [
+        {
+          "char": "衡",
+          "why": "字形有相近部分，容易看錯或寫錯。",
+          "difference": "衝在行中放重；衡的中間不是重。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "充",
+          "why": "讀音需要對照。",
+          "difference": "衝擊的衝讀ㄔㄨㄥ，和充滿的充同音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "撞",
+          "why": "相關意思容易混用。",
+          "difference": "衝擊可指撞擊或影響；撞多指物體相碰，課文重在環境帶來的影響。"
+        }
+      ],
+      "component": [
+        {
+          "char": "衡",
+          "why": "觀察部件的增減或替換。",
+          "difference": "衝在行中放重；衡的中間不是重。"
+        }
+      ]
+    },
+    "tip": "本課詞語「衝擊」。先看字形差異，再放回本課語詞檢查意思；不要只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T14:36:12.144247Z"
+}
