@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第9課_similar_shape_fb5017fe01017b1f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "牌",
+    "lessonChars": [
+      "促",
+      "振",
+      "碎",
+      "者",
+      "偶",
+      "褐",
+      "巧",
+      "塑",
+      "凶",
+      "繞",
+      "衝",
+      "雷",
+      "牌",
+      "豐",
+      "擾"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "牌",
+    "similarChars": [
+      {
+        "char": "脾",
+        "similarity": "右半都是「卑」。",
+        "difference": "「牌」左片；「脾」左月。"
+      },
+      {
+        "char": "碑",
+        "similarity": "右半都是「卑」。",
+        "difference": "「牌」左片；「碑」左石。"
+      },
+      {
+        "char": "啤",
+        "similarity": "右半都是「卑」。",
+        "difference": "「牌」左片；「啤」左口。"
+      },
+      {
+        "char": "婢",
+        "similarity": "右半都是「卑」。",
+        "difference": "「牌」左片；「婢」左女。「婢」在國小讀物中較少見。"
+      },
+      {
+        "char": "俾",
+        "similarity": "右半都是「卑」。",
+        "difference": "「牌」左片；「俾」左亻。「俾」較少見。"
+      },
+      {
+        "char": "卑",
+        "similarity": "「牌」的右半就是「卑」。",
+        "difference": "「卑」單獨成字；「牌」左邊多片。"
+      }
+    ],
+    "teachingTip": "把共同的卑圈起來，專看左邊的片、月、石、口、女、亻；牌的左邊不是木。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

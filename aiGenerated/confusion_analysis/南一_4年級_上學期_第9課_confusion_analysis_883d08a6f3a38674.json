@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第9課_confusion_analysis_883d08a6f3a38674",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "牌",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "牌",
+    "groups": {
+      "shape": [
+        {
+          "char": "碑",
+          "why": "輪廓或部件相近，需比較位置與筆畫。",
+          "difference": "牌左邊片，碑左邊石；右邊同為卑。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "排",
+          "why": "牌、排同音ㄆㄞˊ；招牌用牌，排隊用排。",
+          "difference": "依詞語意思選字，不能只憑聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "板",
+          "why": "詞義或使用情境相關，需要區分。",
+          "difference": "牌可指有文字或標誌的板狀物；板較泛指扁平物體，課文招牌三連音是比喻特色。"
+        }
+      ],
+      "component": [
+        {
+          "char": "卑",
+          "why": "含有相同部件，需避免增減或替換。",
+          "difference": "牌右邊是卑，左邊還有片；片不能寫成木。"
+        }
+      ]
+    },
+    "tip": "牌、排同音ㄆㄞˊ；招牌用牌，排隊用排。 對照課文詞語，指出兩字的不同。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第9課_confusion_analysis_1f6541b54c3f4550",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "振",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "振",
+    "groups": {
+      "shape": [
+        {
+          "char": "震",
+          "why": "輪廓或部件相近，需比較位置與筆畫。",
+          "difference": "振左邊扌、右邊辰；震上雨下辰，部件位置不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "震",
+          "why": "振、震同音ㄓㄣˋ；課文的振動雙翅用振，地震用震。",
+          "difference": "依詞語意思選字，不能只憑聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "動",
+          "why": "詞義或使用情境相關，需要區分。",
+          "difference": "振動是反覆擺動；動的範圍較廣，也能表示移動位置。"
+        }
+      ],
+      "component": [
+        {
+          "char": "辰",
+          "why": "含有相同部件，需避免增減或替換。",
+          "difference": "振右邊是辰，左邊還要有扌；不要只寫辰。"
+        }
+      ]
+    },
+    "tip": "振、震同音ㄓㄣˋ；課文的振動雙翅用振，地震用震。 對照課文詞語，指出兩字的不同。"
+  },
+  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+}
