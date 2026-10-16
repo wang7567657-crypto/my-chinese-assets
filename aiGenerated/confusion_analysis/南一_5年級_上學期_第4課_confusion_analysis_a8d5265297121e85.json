@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_a8d5265297121e85",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "耀",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "耀",
+    "groups": {
+      "shape": [
+        {
+          "char": "曜",
+          "why": "右側相同",
+          "difference": "耀左光，曜左日。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "要",
+          "why": "同音：耀眼的耀、需要的要都讀ㄧㄠˋ",
+          "difference": "耀眼指光彩強；需要的要表示需求。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "亮",
+          "why": "都與明亮有關",
+          "difference": "耀常表光彩照射或顯揚；亮也可指明朗，詞語不能任換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "燿",
+          "why": "右側相同",
+          "difference": "燿左火，耀左光；燿為較少用字，部分義項可通耀，教學以耀眼的耀為主。"
+        }
+      ]
+    },
+    "tip": "耀眼左光、星期日曜左日；看左半再判斷。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第4課_similar_shape_82908bb36c0868e0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "眩",
+    "lessonChars": [
+      "乳",
+      "渲",
+      "臭",
+      "滲",
+      "漿",
+      "泉",
+      "產",
+      "質",
+      "囪",
+      "列",
+      "羅",
+      "耀",
+      "螢",
+      "眩",
+      "係",
+      "漲",
+      "殊",
+      "呈",
+      "貌"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "眩",
+    "similarChars": [
+      {
+        "char": "玄",
+        "similarity": "眩右半就是玄。",
+        "difference": "眩左邊另有目；玄沒有。"
+      },
+      {
+        "char": "弦",
+        "similarity": "右半都是玄。",
+        "difference": "眩左邊是目；弦左邊是弓。"
+      },
+      {
+        "char": "絃",
+        "similarity": "右半都是玄。",
+        "difference": "眩左邊是目；絃左邊是糹。"
+      },
+      {
+        "char": "炫",
+        "similarity": "右半都是玄。",
+        "difference": "眩左邊是目；炫左邊是火。"
+      },
+      {
+        "char": "鉉",
+        "similarity": "右半都是玄。",
+        "difference": "眩左邊是目；鉉左邊是金字旁。鉉較少見，只作延伸辨形。"
+      },
+      {
+        "char": "舷",
+        "similarity": "右半都是玄。",
+        "difference": "眩左邊是目；舷左邊是舟。舷較少見。"
+      }
+    ],
+    "teachingTip": "把玄框住，只比較左側；眩的目內有兩橫，不要寫成日。可以用「目眩」提醒目字旁，但不把聯想當作字源。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

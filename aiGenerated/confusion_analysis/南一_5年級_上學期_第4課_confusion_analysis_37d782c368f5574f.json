@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_37d782c368f5574f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "囪",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "囪",
+    "groups": {
+      "shape": [
+        {
+          "char": "囚",
+          "why": "都有包圍的輪廓",
+          "difference": "囪上有出頭撇且框內為斜筆點形；囚框內是人。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "匆",
+          "why": "同音：煙囪的囪、匆忙的匆都讀ㄘㄨㄥ",
+          "difference": "煙囪是排煙通道；匆忙表示急忙。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "窗",
+          "why": "都與建築開口有關",
+          "difference": "囪用在煙囪排煙；窗用來採光通風。"
+        }
+      ],
+      "component": [
+        {
+          "char": "囗",
+          "why": "都有圍框形可觀察",
+          "difference": "囪不是空框，上方及框內仍有筆畫；囗是部件，不能代替囪。"
+        }
+      ]
+    },
+    "tip": "以煙囪讀ㄘㄨㄥ作詞例；框內筆畫不可寫成人。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

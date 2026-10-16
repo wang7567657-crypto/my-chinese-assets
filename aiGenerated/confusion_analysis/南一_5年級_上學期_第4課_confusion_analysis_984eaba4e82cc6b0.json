@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_984eaba4e82cc6b0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "漿",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "漿",
+    "groups": {
+      "shape": [
+        {
+          "char": "槳",
+          "why": "上半都是將",
+          "difference": "漿下水，槳下木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "江",
+          "why": "同音：豆漿的漿與江河的江都讀ㄐㄧㄤ",
+          "difference": "飲品豆漿用漿，河流用江。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "汁",
+          "why": "都可指液體",
+          "difference": "漿常指較濃的液體或糊狀物；汁通常指含水液汁，詞語不能任意替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "將",
+          "why": "漿上方含將",
+          "difference": "漿下方還有完整水，不能只寫將。"
+        }
+      ]
+    },
+    "tip": "記豆漿下有水、船槳下有木；槳讀ㄐㄧㄤˇ，與漿聲調不同。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

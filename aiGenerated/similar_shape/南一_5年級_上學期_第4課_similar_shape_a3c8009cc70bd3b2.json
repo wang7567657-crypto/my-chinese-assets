@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第4課_similar_shape_a3c8009cc70bd3b2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "殊",
+    "lessonChars": [
+      "乳",
+      "渲",
+      "臭",
+      "滲",
+      "漿",
+      "泉",
+      "產",
+      "質",
+      "囪",
+      "列",
+      "羅",
+      "耀",
+      "螢",
+      "眩",
+      "係",
+      "漲",
+      "殊",
+      "呈",
+      "貌"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "殊",
+    "similarChars": [
+      {
+        "char": "朱",
+        "similarity": "殊右半就是朱。",
+        "difference": "殊左邊另有歹；朱沒有。"
+      },
+      {
+        "char": "珠",
+        "similarity": "右半都是朱。",
+        "difference": "殊左邊是歹；珠左邊是玉字旁。"
+      },
+      {
+        "char": "株",
+        "similarity": "右半都是朱。",
+        "difference": "殊左邊是歹；株左邊是木。"
+      },
+      {
+        "char": "誅",
+        "similarity": "右半都是朱。",
+        "difference": "殊左邊是歹；誅左邊是言字旁。誅較少見。"
+      },
+      {
+        "char": "蛛",
+        "similarity": "右半都是朱。",
+        "difference": "殊左邊是歹；蛛左邊是虫。"
+      },
+      {
+        "char": "銖",
+        "similarity": "右半都是朱。",
+        "difference": "殊左邊是歹；銖左邊是金字旁。銖較少見，只作延伸辨形。"
+      }
+    ],
+    "teachingTip": "把右邊朱固定，用手指指出每個字的左旁；殊要辨認歹，不可被珠、株較熟悉的字形帶走。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

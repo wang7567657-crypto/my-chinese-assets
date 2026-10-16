@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第4課_similar_shape_94e050aa3334769f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "產",
+    "lessonChars": [
+      "乳",
+      "渲",
+      "臭",
+      "滲",
+      "漿",
+      "泉",
+      "產",
+      "質",
+      "囪",
+      "列",
+      "羅",
+      "耀",
+      "螢",
+      "眩",
+      "係",
+      "漲",
+      "殊",
+      "呈",
+      "貌"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "產",
+    "similarChars": [
+      {
+        "char": "剷",
+        "similarity": "都含產。",
+        "difference": "剷在產右邊多刂；產沒有刂。"
+      },
+      {
+        "char": "鏟",
+        "similarity": "都含產。",
+        "difference": "鏟在產左邊多金字旁；產沒有。"
+      },
+      {
+        "char": "薩",
+        "similarity": "薩的右下可見產。",
+        "difference": "產單獨成字；薩還有上方艹和左側阝。"
+      },
+      {
+        "char": "彥",
+        "similarity": "上方及外側字形相近，都有相同的上部輪廓。",
+        "difference": "產下部是生；彥下部是彡，要分辨生的橫豎和三撇。"
+      },
+      {
+        "char": "嵼",
+        "similarity": "右半是產。",
+        "difference": "嵼左邊多山；產沒有。嵼為罕用字，只作延伸辨形。"
+      },
+      {
+        "char": "滻",
+        "similarity": "右半是產。",
+        "difference": "滻左邊多氵；產沒有。滻為罕用字，只作延伸辨形。"
+      }
+    ],
+    "teachingTip": "先比較產和彥下部的生、彡，再找剷、鏟裡完整的產。嵼、滻只作進階觀察，不列為本課必寫字。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

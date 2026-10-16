@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第4課_similar_shape_8b909ea386736001",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "耀",
+    "lessonChars": [
+      "乳",
+      "渲",
+      "臭",
+      "滲",
+      "漿",
+      "泉",
+      "產",
+      "質",
+      "囪",
+      "列",
+      "羅",
+      "耀",
+      "螢",
+      "眩",
+      "係",
+      "漲",
+      "殊",
+      "呈",
+      "貌"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "耀",
+    "similarChars": [
+      {
+        "char": "曜",
+        "similarity": "右半都是翟。",
+        "difference": "耀左邊是光；曜左邊是日。"
+      },
+      {
+        "char": "燿",
+        "similarity": "右半都是翟。",
+        "difference": "耀左邊是光；燿左邊是火。燿較少見，可作延伸辨形。"
+      },
+      {
+        "char": "躍",
+        "similarity": "右半都是翟。",
+        "difference": "耀左邊是光；躍左邊是足字旁。"
+      },
+      {
+        "char": "濯",
+        "similarity": "右半都是翟。",
+        "difference": "耀左邊是光；濯左邊是氵。"
+      },
+      {
+        "char": "擢",
+        "similarity": "右半都是翟。",
+        "difference": "耀左邊是光；擢左邊是扌。擢較少見。"
+      },
+      {
+        "char": "翟",
+        "similarity": "耀右半就是翟。",
+        "difference": "耀在翟左邊還有光；翟沒有。翟單獨使用較少見。"
+      }
+    ],
+    "teachingTip": "右半翟先保持不變，只看左旁。用耀、曜並排辨認光與日；不要因為字音相近就忽略左側筆形。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

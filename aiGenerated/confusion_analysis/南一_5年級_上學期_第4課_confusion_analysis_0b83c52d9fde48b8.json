@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_0b83c52d9fde48b8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "漲",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "漲",
+    "groups": {
+      "shape": [
+        {
+          "char": "張",
+          "why": "漲右側是張",
+          "difference": "漲左多氵，張沒有。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "長",
+          "why": "同音詞例：漲潮的漲、長大的長都讀ㄓㄤˇ",
+          "difference": "漲潮指水位上升；長大指生長。長短的長另讀ㄔㄤˊ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "升",
+          "why": "漲價與上升都涉及提高",
+          "difference": "漲常用於水位或價格；升另可表示升級，不能一概換漲。"
+        }
+      ],
+      "component": [
+        {
+          "char": "脹",
+          "why": "都含長形",
+          "difference": "漲為氵加張；脹為月加長，沒有弓。"
+        }
+      ]
+    },
+    "tip": "漲潮、漲價讀ㄓㄤˇ；漲大可讀ㄓㄤˋ，不在課文缺失時猜定讀音。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

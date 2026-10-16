@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_4999f2d21eb2d16f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "呈",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "呈",
+    "groups": {
+      "shape": [
+        {
+          "char": "程",
+          "why": "程右側為呈",
+          "difference": "程左多禾，呈沒有。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "成",
+          "why": "同音：呈現的呈、完成的成都讀ㄔㄥˊ",
+          "difference": "呈現指顯現或展示；完成指做完。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "現",
+          "why": "呈現與顯現相近",
+          "difference": "呈也可指呈交；現有現在、現場等用法，不能互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "逞",
+          "why": "逞含呈",
+          "difference": "逞另有辶；呈的下部依標準字形是𡈼，不直接改寫成王或壬。"
+        }
+      ]
+    },
+    "tip": "呈現用呈，路程用程；對照標準字形看清下面的筆形。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

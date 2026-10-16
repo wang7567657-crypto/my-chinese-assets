@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第4課_similar_shape_ba43652502258c8e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "乳",
+    "lessonChars": [
+      "乳",
+      "渲",
+      "臭",
+      "滲",
+      "漿",
+      "泉",
+      "產",
+      "質",
+      "囪",
+      "列",
+      "羅",
+      "耀",
+      "螢",
+      "眩",
+      "係",
+      "漲",
+      "殊",
+      "呈",
+      "貌"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "乳",
+    "similarChars": [
+      {
+        "char": "孔",
+        "similarity": "都有「子」和右側的豎彎鉤。",
+        "difference": "乳的子上面多了爫；孔沒有爫。"
+      },
+      {
+        "char": "孚",
+        "similarity": "乳的左半就是孚的字形。",
+        "difference": "乳在孚右側另有豎彎鉤；孚沒有。"
+      },
+      {
+        "char": "孵",
+        "similarity": "都能找到爫在子上面的孚。",
+        "difference": "乳是孚右加豎彎鉤；孵是卵右加孚。"
+      },
+      {
+        "char": "浮",
+        "similarity": "都有孚。",
+        "difference": "乳的孚在左，右有豎彎鉤；浮的孚在右，左有氵。"
+      },
+      {
+        "char": "俘",
+        "similarity": "都有孚。",
+        "difference": "乳的孚在左，右有豎彎鉤；俘的孚在右，左有亻。"
+      },
+      {
+        "char": "子",
+        "similarity": "乳左下保留子的字形。",
+        "difference": "乳在子上有爫、右有豎彎鉤；子是單獨一個部件。"
+      }
+    ],
+    "teachingTip": "先圈出左側的孚，再用另一色標右側豎彎鉤；和孔比較時，只看子上面有沒有爫。此為字形觀察。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_cd4df40bbc9dd9dd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "列",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "列",
+    "groups": {
+      "shape": [
+        {
+          "char": "例",
+          "why": "例右側含列",
+          "difference": "例左多亻，列沒有。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "烈",
+          "why": "同音：列隊的列、熱烈的烈都讀ㄌㄧㄝˋ",
+          "difference": "排列用列；熱烈用烈。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "排",
+          "why": "都可表排列",
+          "difference": "列與排能組成排列，但排除的排不能換列。"
+        }
+      ],
+      "component": [
+        {
+          "char": "刂",
+          "why": "列右側是刂",
+          "difference": "列左為歹，右為立刀；不可漏右側。"
+        }
+      ]
+    },
+    "tip": "把列隊、例子、熱烈一起辨認，注意有無亻或灬。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

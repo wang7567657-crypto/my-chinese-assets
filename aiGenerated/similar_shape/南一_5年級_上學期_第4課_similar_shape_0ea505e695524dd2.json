@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第4課_similar_shape_0ea505e695524dd2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "臭",
+    "lessonChars": [
+      "乳",
+      "渲",
+      "臭",
+      "滲",
+      "漿",
+      "泉",
+      "產",
+      "質",
+      "囪",
+      "列",
+      "羅",
+      "耀",
+      "螢",
+      "眩",
+      "係",
+      "漲",
+      "殊",
+      "呈",
+      "貌"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "臭",
+    "similarChars": [
+      {
+        "char": "自",
+        "similarity": "臭上半就是自。",
+        "difference": "臭下半還有犬；自沒有下方的犬。"
+      },
+      {
+        "char": "息",
+        "similarity": "上半都是自。",
+        "difference": "臭下半是犬；息下半是心。"
+      },
+      {
+        "char": "嗅",
+        "similarity": "嗅的右半保留完整的臭。",
+        "difference": "嗅左邊多一個口；臭沒有口字旁。"
+      },
+      {
+        "char": "溴",
+        "similarity": "溴的右半保留完整的臭。",
+        "difference": "溴左邊多氵；臭沒有。溴較少見，可作延伸辨形。"
+      },
+      {
+        "char": "犬",
+        "similarity": "臭下半就是犬的字形。",
+        "difference": "臭在犬上面還有自；犬沒有上方的自。"
+      },
+      {
+        "char": "伏",
+        "similarity": "都含犬。",
+        "difference": "臭的犬在自下方；伏的犬在亻右方，整體排列不同。"
+      }
+    ],
+    "teachingTip": "先看上面是自，再看下面是犬；犬的點不可漏。用「臭—息」比較下面的犬和心，避免只憑上半認字。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

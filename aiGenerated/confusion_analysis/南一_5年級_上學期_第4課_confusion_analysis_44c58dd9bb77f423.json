@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_44c58dd9bb77f423",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "係",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "係",
+    "groups": {
+      "shape": [
+        {
+          "char": "系",
+          "why": "係右側為系",
+          "difference": "係左多亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "細",
+          "why": "同音：關係的係、細小的細都讀ㄒㄧˋ",
+          "difference": "關聯用係，細小用細。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "關",
+          "why": "關係表示彼此有聯繫",
+          "difference": "關可表示關閉；係不具有所有關的用法。"
+        }
+      ],
+      "component": [
+        {
+          "char": "繫",
+          "why": "都含系形",
+          "difference": "係是亻加系；繫的上方更複雜，聯繫用繫，關係用係。"
+        }
+      ]
+    },
+    "tip": "關係讀ㄍㄨㄢ ㄒㄧˋ；先認亻，勿漏成系。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_1cc7ddd17a56119a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "螢",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "螢",
+    "groups": {
+      "shape": [
+        {
+          "char": "瑩",
+          "why": "上方相同",
+          "difference": "螢下虫，瑩下玉。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "營",
+          "why": "同音：螢火蟲的螢、營地的營都讀ㄧㄥˊ",
+          "difference": "昆蟲用螢，營地用營。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蟲",
+          "why": "螢火蟲是一種昆蟲",
+          "difference": "螢專指螢火蟲，蟲是較廣的類稱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "虫",
+          "why": "螢下半是單一虫形",
+          "difference": "虫是字形部件；螢上另有兩火及冖形，不要把下半寫成三個虫的蟲。"
+        }
+      ]
+    },
+    "tip": "螢火蟲的螢下為虫，晶瑩下為玉，留意底部。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

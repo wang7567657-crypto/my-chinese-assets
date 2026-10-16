@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第4課_similar_shape_72bad6696840117d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "漿",
+    "lessonChars": [
+      "乳",
+      "渲",
+      "臭",
+      "滲",
+      "漿",
+      "泉",
+      "產",
+      "質",
+      "囪",
+      "列",
+      "羅",
+      "耀",
+      "螢",
+      "眩",
+      "係",
+      "漲",
+      "殊",
+      "呈",
+      "貌"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "漿",
+    "similarChars": [
+      {
+        "char": "槳",
+        "similarity": "上半都是將。",
+        "difference": "漿下半是水；槳下半是木。"
+      },
+      {
+        "char": "獎",
+        "similarity": "上半都是將。",
+        "difference": "漿下半是水；獎下半是犬。"
+      },
+      {
+        "char": "醬",
+        "similarity": "上半都是將。",
+        "difference": "漿下半是水；醬下半是酉。"
+      },
+      {
+        "char": "將",
+        "similarity": "漿上半保留將的字形。",
+        "difference": "漿在將下方另有水；將沒有。"
+      },
+      {
+        "char": "蔣",
+        "similarity": "都含將。",
+        "difference": "漿是將下加水；蔣是將上加艹。"
+      },
+      {
+        "char": "水",
+        "similarity": "漿下半就是水。",
+        "difference": "漿在水上面有將；水是單獨的字。"
+      }
+    ],
+    "teachingTip": "把漿、槳、獎、醬的共同上半遮住，只讀出下面的水、木、犬、酉；再揭開整字辨認。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

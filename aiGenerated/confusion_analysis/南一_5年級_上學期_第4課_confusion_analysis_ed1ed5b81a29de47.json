@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_ed1ed5b81a29de47",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "臭",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "臭",
+    "groups": {
+      "shape": [
+        {
+          "char": "嗅",
+          "why": "都含臭形",
+          "difference": "嗅左多口，臭沒有口旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "秀",
+          "why": "近音：臭味的臭ㄔㄡˋ；秀ㄒㄧㄡˋ",
+          "difference": "兩字韻母與聲母不同；臭另在無聲無臭讀ㄒㄧㄡˋ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "香",
+          "why": "都描述氣味",
+          "difference": "臭味與香味感受相反；香不能當成臭的同義字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "犬",
+          "why": "臭下半是犬",
+          "difference": "犬含點；若寫成大會漏筆。"
+        }
+      ]
+    },
+    "tip": "臭味讀ㄔㄡˋ；無聲無臭的臭讀ㄒㄧㄡˋ，不把多音字一概讀同音。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_c33a27e65b29d567",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "羅",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "羅",
+    "groups": {
+      "shape": [
+        {
+          "char": "罷",
+          "why": "上方都有罒",
+          "difference": "羅下為維形；罷下為能。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "螺",
+          "why": "同音：羅列的羅、螺旋的螺都讀ㄌㄨㄛˊ",
+          "difference": "羅列指逐項列出；螺用在螺絲、螺旋。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "列",
+          "why": "羅列與列舉相近",
+          "difference": "羅列是固定詞，羅網的羅不能改成列。"
+        }
+      ],
+      "component": [
+        {
+          "char": "維",
+          "why": "羅下方含維形",
+          "difference": "羅上還有罒；維只有糹與隹。"
+        }
+      ]
+    },
+    "tip": "羅列先看上罒，再看下方糹與隹。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

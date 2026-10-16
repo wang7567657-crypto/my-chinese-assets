@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_bad2fd3d62e254c1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "乳",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "乳",
+    "groups": {
+      "shape": [
+        {
+          "char": "孵",
+          "why": "都見爪形與子形部件",
+          "difference": "乳右為乚；孵另有卵部件，不能當作乳的異體。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "汝",
+          "why": "同音：乳、汝都讀ㄖㄨˇ",
+          "difference": "乳汁用乳；汝是文言的你。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "奶",
+          "why": "乳汁與奶水語義接近",
+          "difference": "母乳、乳品常用乳；奶奶的奶不能換成乳。"
+        }
+      ],
+      "component": [
+        {
+          "char": "孚",
+          "why": "乳左半與孚相同",
+          "difference": "孚外沒有乳右邊的乚，寫乳時不能漏。"
+        }
+      ]
+    },
+    "tip": "看清右側乚，再讀母乳；不要把乳和孵混寫。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

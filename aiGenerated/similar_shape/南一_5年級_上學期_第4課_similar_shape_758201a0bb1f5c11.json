@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第4課_similar_shape_758201a0bb1f5c11",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "滲",
+    "lessonChars": [
+      "乳",
+      "渲",
+      "臭",
+      "滲",
+      "漿",
+      "泉",
+      "產",
+      "質",
+      "囪",
+      "列",
+      "羅",
+      "耀",
+      "螢",
+      "眩",
+      "係",
+      "漲",
+      "殊",
+      "呈",
+      "貌"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "滲",
+    "similarChars": [
+      {
+        "char": "參",
+        "similarity": "滲右半就是參。",
+        "difference": "滲左邊另有氵；參沒有。"
+      },
+      {
+        "char": "摻",
+        "similarity": "右半都是參。",
+        "difference": "滲左邊是氵；摻左邊是扌。"
+      },
+      {
+        "char": "慘",
+        "similarity": "右半都是參。",
+        "difference": "滲左邊是氵；慘左邊是忄。"
+      },
+      {
+        "char": "蔘",
+        "similarity": "都含參。",
+        "difference": "滲是左右排列的氵、參；蔘是艹在參上方。蔘較少見。"
+      },
+      {
+        "char": "糝",
+        "similarity": "右半都是參。",
+        "difference": "滲左邊是氵；糝左邊是米。糝為罕用字，只作延伸辨形。"
+      },
+      {
+        "char": "磣",
+        "similarity": "右半都是參。",
+        "difference": "滲左邊是氵；磣左邊是石。磣為罕用字，只作延伸辨形。"
+      }
+    ],
+    "teachingTip": "先固定參，再找外加部件及其位置。優先練滲、摻、慘；蔘、糝、磣僅供進階比較，不要求當作本課生字背寫。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

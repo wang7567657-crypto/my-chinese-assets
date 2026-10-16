@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第4課_similar_shape_2ed8d68af31c0598",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "渲",
+    "lessonChars": [
+      "乳",
+      "渲",
+      "臭",
+      "滲",
+      "漿",
+      "泉",
+      "產",
+      "質",
+      "囪",
+      "列",
+      "羅",
+      "耀",
+      "螢",
+      "眩",
+      "係",
+      "漲",
+      "殊",
+      "呈",
+      "貌"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "渲",
+    "similarChars": [
+      {
+        "char": "宣",
+        "similarity": "都有宣。",
+        "difference": "渲左邊另有氵；宣沒有。"
+      },
+      {
+        "char": "喧",
+        "similarity": "右半都是宣。",
+        "difference": "渲左邊是氵；喧左邊是口。"
+      },
+      {
+        "char": "暄",
+        "similarity": "右半都是宣。",
+        "difference": "渲左邊是氵；暄左邊是日。"
+      },
+      {
+        "char": "瑄",
+        "similarity": "右半都是宣。",
+        "difference": "渲左邊是氵；瑄左邊是玉字旁。瑄較少見，作字形延伸即可。"
+      },
+      {
+        "char": "楦",
+        "similarity": "右半都是宣。",
+        "difference": "渲左邊是氵；楦左邊是木。楦較少見，作字形延伸即可。"
+      },
+      {
+        "char": "煊",
+        "similarity": "右半都是宣。",
+        "difference": "渲左邊是氵；煊左邊是火。煊較少見，作字形延伸即可。"
+      }
+    ],
+    "teachingTip": "把右邊的宣框住不動，依序比較左側氵、口、日、玉字旁、木、火；辨字依據是部件，不是讀音。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}

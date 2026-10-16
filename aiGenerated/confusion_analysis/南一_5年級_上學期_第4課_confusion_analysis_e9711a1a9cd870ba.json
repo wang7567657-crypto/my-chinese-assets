@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第4課_confusion_analysis_e9711a1a9cd870ba",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "殊",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "殊",
+    "groups": {
+      "shape": [
+        {
+          "char": "珠",
+          "why": "右側同為朱",
+          "difference": "殊左歹，珠左王。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "熟",
+          "why": "近音：特殊的殊ㄕㄨ；熟悉的熟ㄕㄨˊ",
+          "difference": "聲母韻母相同但聲調不同；特殊與熟悉義不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "異",
+          "why": "特殊、異常都可表示不同",
+          "difference": "殊多用在特殊等詞；異另可指分歧，不能隨意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "朱",
+          "why": "殊右側是朱",
+          "difference": "殊左另有歹；朱單獨不是特殊的殊。"
+        }
+      ]
+    },
+    "tip": "特殊先辨左歹；珠寶才用王旁。"
+  },
+  "createdAt": "2026-10-16T14:48:00.622423Z"
+}
