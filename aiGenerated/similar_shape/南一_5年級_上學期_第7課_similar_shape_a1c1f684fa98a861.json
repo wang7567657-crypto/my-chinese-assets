@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第7課_similar_shape_a1c1f684fa98a861",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "弧",
+    "lessonChars": [
+      "設",
+      "弧",
+      "杆",
+      "棟",
+      "磁",
+      "鱗",
+      "薑",
+      "霜",
+      "爪",
+      "聖",
+      "際",
+      "瞪",
+      "繪",
+      "玻",
+      "璃",
+      "遺",
+      "投",
+      "堅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "弧",
+    "similarChars": [
+      {
+        "char": "孤",
+        "similarity": "右側都是瓜",
+        "difference": "弧左為弓，孤左為子。"
+      },
+      {
+        "char": "狐",
+        "similarity": "右側都是瓜",
+        "difference": "弧左為弓，狐左為犭。"
+      },
+      {
+        "char": "瓢",
+        "similarity": "都含瓜",
+        "difference": "弧的瓜在弓旁；瓢的瓜在票旁。"
+      },
+      {
+        "char": "瓜",
+        "similarity": "弧包含完整瓜形",
+        "difference": "瓜沒有弧左側的弓。"
+      },
+      {
+        "char": "瓠",
+        "similarity": "都含右側瓜",
+        "difference": "瓠左為夸，弧左為弓；瓠較少見。"
+      },
+      {
+        "char": "弦",
+        "similarity": "左側同為弓",
+        "difference": "弧右為瓜，弦右為玄。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再用兩色標出差異；少見字只作字形觀察，不要求背誦。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第7課_similar_shape_7475207b42bb2aaf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "堅",
+    "lessonChars": [
+      "設",
+      "弧",
+      "杆",
+      "棟",
+      "磁",
+      "鱗",
+      "薑",
+      "霜",
+      "爪",
+      "聖",
+      "際",
+      "瞪",
+      "繪",
+      "玻",
+      "璃",
+      "遺",
+      "投",
+      "堅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "堅",
+    "similarChars": [
+      {
+        "char": "緊",
+        "similarity": "上部相同",
+        "difference": "堅下土，緊下糸。"
+      },
+      {
+        "char": "豎",
+        "similarity": "上部相同",
+        "difference": "堅下土，豎下豆。"
+      },
+      {
+        "char": "賢",
+        "similarity": "上部相同",
+        "difference": "堅下土，賢下貝。"
+      },
+      {
+        "char": "腎",
+        "similarity": "上部相同",
+        "difference": "堅下土，腎下月形。"
+      },
+      {
+        "char": "慳",
+        "similarity": "慳包含堅",
+        "difference": "慳在堅左加忄，慳較少見。"
+      },
+      {
+        "char": "壑",
+        "similarity": "下方同為土，上部密集",
+        "difference": "堅上部為臣與又的配置，壑上部含谷形及又，筆畫更多；壑較少見。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再用兩色標出差異；少見字只作字形觀察，不要求背誦。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

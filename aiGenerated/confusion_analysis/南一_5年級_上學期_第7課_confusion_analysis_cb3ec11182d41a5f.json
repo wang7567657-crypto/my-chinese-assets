@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_cb3ec11182d41a5f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "杆",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "杆",
+    "groups": {
+      "shape": [
+        {
+          "char": "桿",
+          "why": "都從木，右部很像。",
+          "difference": "杆右邊是干；桿右邊是旱，上面多日。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "干",
+          "why": "杆和干在此都讀 ㄍㄢ。",
+          "difference": "欄杆有木字旁；干字沒有木。"
+        },
+        {
+          "char": "桿",
+          "why": "常因相近字義混讀聲調。",
+          "difference": "欄杆的杆讀 ㄍㄢ；筆桿的桿讀 ㄍㄢˇ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "竿",
+          "why": "都可指細長的杆狀物。",
+          "difference": "欄杆用木旁的杆；竹竿、釣竿常用竹頭的竿，依固定詞語寫。"
+        }
+      ],
+      "component": [
+        {
+          "char": "肝",
+          "why": "共用干部件。",
+          "difference": "杆左木；肝左月，肝臟不能寫成杆。"
+        }
+      ]
+    },
+    "tip": "先把「欄杆 ㄌㄢˊ ㄍㄢ」整詞念對，再比較杆與桿。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

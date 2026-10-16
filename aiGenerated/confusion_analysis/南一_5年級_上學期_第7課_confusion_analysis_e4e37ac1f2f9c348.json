@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_e4e37ac1f2f9c348",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鱗",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鱗",
+    "groups": {
+      "shape": [
+        {
+          "char": "麟",
+          "why": "右部都是粦，整體筆畫多。",
+          "difference": "鱗左魚；麟左鹿，麒麟用麟。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "林",
+          "why": "都讀 ㄌㄧㄣˊ。",
+          "difference": "魚鱗用鱗；樹林用林。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "甲",
+          "why": "都能與動物外部保護構造有關。",
+          "difference": "魚鱗是一片片覆蓋物；甲可指堅硬外殼或指甲，不能任意替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "磷",
+          "why": "共用粦。",
+          "difference": "鱗配魚，指鱗片；磷配石，是化學元素名稱。"
+        }
+      ]
+    },
+    "tip": "先找左邊魚，再把右邊粦當完整部件練寫。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

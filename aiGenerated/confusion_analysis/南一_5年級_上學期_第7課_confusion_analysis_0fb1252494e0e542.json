@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_0fb1252494e0e542",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "磁",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "磁",
+    "groups": {
+      "shape": [
+        {
+          "char": "滋",
+          "why": "右部都是茲。",
+          "difference": "磁左石，滋左氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "詞",
+          "why": "都讀 ㄘˊ。",
+          "difference": "磁力用磁；詞語用詞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "吸",
+          "why": "磁力與吸引常一起出現。",
+          "difference": "磁指磁性等概念；吸是吸入或吸引的動作，吸塵不一定靠磁力。"
+        }
+      ],
+      "component": [
+        {
+          "char": "慈",
+          "why": "都含茲。",
+          "difference": "磁是左石右兹（茲作偏旁的寫法）；慈在兹下加心。"
+        }
+      ]
+    },
+    "tip": "磁鐵配石旁；不能只憑 ㄘˊ 的聲音選字。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

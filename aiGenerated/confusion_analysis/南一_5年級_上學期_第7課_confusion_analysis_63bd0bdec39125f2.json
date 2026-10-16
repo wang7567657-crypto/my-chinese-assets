@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_63bd0bdec39125f2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "薑",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "薑",
+    "groups": {
+      "shape": [
+        {
+          "char": "疆",
+          "why": "都含畺，字形複雜。",
+          "difference": "薑上方是艹；疆左方另有弓、土的結構。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "姜",
+          "why": "都讀 ㄐㄧㄤ。",
+          "difference": "臺灣標準用字中，生薑通常用薑；姜常作姓氏。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蒜",
+          "why": "都是常見辛香食材。",
+          "difference": "薑常切絲、切片；蒜有蒜瓣，兩者不是同一植物。"
+        }
+      ],
+      "component": [
+        {
+          "char": "僵",
+          "why": "共用畺。",
+          "difference": "薑上艹；僵左亻，僵硬用僵。"
+        }
+      ]
+    },
+    "tip": "先分艹、畺，再檢查畺的三橫與兩個田是否齊全。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

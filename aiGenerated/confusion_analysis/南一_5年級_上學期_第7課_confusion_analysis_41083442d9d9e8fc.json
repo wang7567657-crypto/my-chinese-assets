@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_41083442d9d9e8fc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "堅",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "堅",
+    "groups": {
+      "shape": [
+        {
+          "char": "緊",
+          "why": "上部都是臤。",
+          "difference": "堅下土；緊下糸。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "間",
+          "why": "在中間一詞中，間與堅都讀 ㄐㄧㄢ。",
+          "difference": "堅固用堅；中間用間。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "硬",
+          "why": "都能形容不容易變形。",
+          "difference": "堅還可指意志不動搖，如堅持；硬也可形容態度生硬，搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "賢",
+          "why": "共用上部臤。",
+          "difference": "堅下土；賢下貝，賢能用賢。"
+        }
+      ]
+    },
+    "tip": "先看下方是土、糸或貝，再分堅、緊、賢；用堅固與堅持各造一句。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

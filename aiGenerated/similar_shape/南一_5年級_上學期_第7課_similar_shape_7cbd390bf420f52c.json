@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第7課_similar_shape_7cbd390bf420f52c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "設",
+    "lessonChars": [
+      "設",
+      "弧",
+      "杆",
+      "棟",
+      "磁",
+      "鱗",
+      "薑",
+      "霜",
+      "爪",
+      "聖",
+      "際",
+      "瞪",
+      "繪",
+      "玻",
+      "璃",
+      "遺",
+      "投",
+      "堅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "設",
+    "similarChars": [
+      {
+        "char": "投",
+        "similarity": "共用右側殳",
+        "difference": "設左為言，投左為扌。"
+      },
+      {
+        "char": "沒",
+        "similarity": "右下都有又的形狀",
+        "difference": "設右上為殳的上部，沒的右上寫法不同；左側分別為言與氵。"
+      },
+      {
+        "char": "役",
+        "similarity": "共用右側殳",
+        "difference": "設左為言，役左為彳。"
+      },
+      {
+        "char": "股",
+        "similarity": "共用右側殳",
+        "difference": "設左為言，股左為月形。"
+      },
+      {
+        "char": "殿",
+        "similarity": "都含殳",
+        "difference": "設的殳在言旁；殿的殳在展開的左半部旁。"
+      },
+      {
+        "char": "段",
+        "similarity": "右側同為殳",
+        "difference": "設左為言，段左是段的左半形，不能寫成言。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再用兩色標出差異；少見字只作字形觀察，不要求背誦。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

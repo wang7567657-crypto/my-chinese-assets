@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_8453fa405bd343ce",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "璃",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "璃",
+    "groups": {
+      "shape": [
+        {
+          "char": "漓",
+          "why": "右邊都是离。",
+          "difference": "璃左玉字旁；漓左氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "離",
+          "why": "都讀 ㄌㄧˊ。",
+          "difference": "玻璃用璃；離開用離。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "玉",
+          "why": "玻璃與玉都可製成飾品。",
+          "difference": "璃常見於玻璃、琉璃；玉是另一類材料，玉字旁不表示它就是玉。"
+        }
+      ],
+      "component": [
+        {
+          "char": "離",
+          "why": "都含离。",
+          "difference": "璃在离左邊加玉字旁；離在离右邊加隹。"
+        }
+      ]
+    },
+    "tip": "玻璃的璃右部只寫离，不把整個離放進去；單字音是 ㄌㄧˊ。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

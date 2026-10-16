@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第7課_similar_shape_092a0048c96931b8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "瞪",
+    "lessonChars": [
+      "設",
+      "弧",
+      "杆",
+      "棟",
+      "磁",
+      "鱗",
+      "薑",
+      "霜",
+      "爪",
+      "聖",
+      "際",
+      "瞪",
+      "繪",
+      "玻",
+      "璃",
+      "遺",
+      "投",
+      "堅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "瞪",
+    "similarChars": [
+      {
+        "char": "澄",
+        "similarity": "右側都是登",
+        "difference": "瞪左目，澄左氵。"
+      },
+      {
+        "char": "橙",
+        "similarity": "右側都是登",
+        "difference": "瞪左目，橙左木。"
+      },
+      {
+        "char": "凳",
+        "similarity": "都含登",
+        "difference": "瞪的目在登左，凳的几在登下。"
+      },
+      {
+        "char": "登",
+        "similarity": "瞪含登",
+        "difference": "登沒有瞪左側的目。"
+      },
+      {
+        "char": "燈",
+        "similarity": "右側都是登",
+        "difference": "瞪左目，燈左火。"
+      },
+      {
+        "char": "蹬",
+        "similarity": "右側都是登",
+        "difference": "瞪左目，蹬左足旁；蹬較少見。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再用兩色標出差異；少見字只作字形觀察，不要求背誦。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

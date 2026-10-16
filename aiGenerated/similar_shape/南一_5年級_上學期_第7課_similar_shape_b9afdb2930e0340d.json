@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第7課_similar_shape_b9afdb2930e0340d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "爪",
+    "lessonChars": [
+      "設",
+      "弧",
+      "杆",
+      "棟",
+      "磁",
+      "鱗",
+      "薑",
+      "霜",
+      "爪",
+      "聖",
+      "際",
+      "瞪",
+      "繪",
+      "玻",
+      "璃",
+      "遺",
+      "投",
+      "堅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "爪",
+    "similarChars": [
+      {
+        "char": "爬",
+        "similarity": "左半保留爪形",
+        "difference": "爬在爪右加巴，爪本身沒有巴。"
+      },
+      {
+        "char": "抓",
+        "similarity": "右半是爪",
+        "difference": "抓在爪左加扌。"
+      },
+      {
+        "char": "瓜",
+        "similarity": "整體線條輪廓近似",
+        "difference": "瓜的中央有厶形，爪沒有該厶形。"
+      },
+      {
+        "char": "爭",
+        "similarity": "上部爫與爪形相關",
+        "difference": "爭上部爫較扁，下有帶鉤的筆畫；爪是獨立字形。"
+      },
+      {
+        "char": "受",
+        "similarity": "上部有爫",
+        "difference": "受在爫下有冖和又，爪沒有這些下部。"
+      },
+      {
+        "char": "采",
+        "similarity": "上部有爫",
+        "difference": "采在爫下有木，爪沒有木。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再用兩色標出差異；少見字只作字形觀察，不要求背誦。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

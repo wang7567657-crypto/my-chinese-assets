@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第7課_confusion_analysis_34d6bebf7390c097",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "瞪",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "瞪",
+    "groups": {
+      "shape": [
+        {
+          "char": "蹬",
+          "why": "右部同為登。",
+          "difference": "瞪左目，和眼睛有關；蹬左足，和腳部動作有關。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鄧",
+          "why": "都讀 ㄉㄥˋ。",
+          "difference": "瞪眼用瞪；姓鄧用鄧。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "盯",
+          "why": "都是用眼睛看的動作。",
+          "difference": "瞪著重睜大眼睛；盯著重把視線集中在目標，語氣與重點不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "登",
+          "why": "瞪包含登。",
+          "difference": "瞪比登多目；登高只用登，瞪眼要加目。"
+        }
+      ]
+    },
+    "tip": "用「瞪大眼睛」記住目旁；登讀 ㄉㄥ，瞪讀 ㄉㄥˋ。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}

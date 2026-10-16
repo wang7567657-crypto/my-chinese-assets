@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第7課_similar_shape_fc9c027121483623",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "磁",
+    "lessonChars": [
+      "設",
+      "弧",
+      "杆",
+      "棟",
+      "磁",
+      "鱗",
+      "薑",
+      "霜",
+      "爪",
+      "聖",
+      "際",
+      "瞪",
+      "繪",
+      "玻",
+      "璃",
+      "遺",
+      "投",
+      "堅"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "磁",
+    "similarChars": [
+      {
+        "char": "慈",
+        "similarity": "共用茲形",
+        "difference": "磁的石在茲左，慈的心在茲下。"
+      },
+      {
+        "char": "滋",
+        "similarity": "右半相同",
+        "difference": "磁左石，滋左氵。"
+      },
+      {
+        "char": "茲",
+        "similarity": "磁包含茲形",
+        "difference": "茲沒有磁左側的石。"
+      },
+      {
+        "char": "孳",
+        "similarity": "都含茲形",
+        "difference": "磁左石右茲，孳上茲下子；孳較少見。"
+      },
+      {
+        "char": "嗞",
+        "similarity": "右半相同",
+        "difference": "磁左石，嗞左口；嗞為較少見的擬聲用字。"
+      },
+      {
+        "char": "嵫",
+        "similarity": "右側同為茲",
+        "difference": "磁左石，嵫左山；嵫為較少見字。"
+      }
+    ],
+    "teachingTip": "先圈出共同部件，再用兩色標出差異；茲作偏旁的標準寫法為兹，注意頂部。少見字只作觀察，不要求背誦。"
+  },
+  "createdAt": "2026-10-16T17:42:14.977316Z"
+}
