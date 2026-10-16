@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_612b984c96707424",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "轎",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "轎",
+    "groups": {
+      "shape": [
+        {
+          "char": "橋",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "同有喬；轎左車，橋左木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "叫",
+          "why": "轎ㄐㄧㄠˋ、叫ㄐㄧㄠˋ，是同音。",
+          "difference": "花轎是人抬的交通工具；叫喊是發出聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "車",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "轎通常由人抬行，車通常利用輪子行進；本課花轎是迎親交通工具。"
+        }
+      ],
+      "component": [
+        {
+          "char": "喬",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "轎比喬左邊多車旁；喬上方是夭形，不是天。"
+        }
+      ]
+    },
+    "tip": "花轎用車旁，過橋用木旁。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

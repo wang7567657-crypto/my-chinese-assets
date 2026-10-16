@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_cfb688b9e6473123",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "哄",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "哄",
+    "groups": {
+      "shape": [
+        {
+          "char": "供",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "左旁口和亻不同，右邊同為共。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "轟",
+          "why": "鬧哄哄的哄與轟都讀ㄏㄨㄥ，是同音；哄騙的哄讀ㄏㄨㄥˇ。",
+          "difference": "鬧哄哄形容人聲喧鬧；轟隆形容巨響。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "吵",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "哄可指眾人同時發聲；吵指聲音雜亂或爭吵。鬧哄哄形容喧鬧，不一定有人爭執。"
+        }
+      ],
+      "component": [
+        {
+          "char": "拱",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "同有共；哄左口，拱左扌。"
+        }
+      ]
+    },
+    "tip": "先讀鬧哄哄，再比較哄騙的不同讀音。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

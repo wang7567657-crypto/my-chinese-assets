@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_70bb6ba7843887ee",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "初",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "初",
+    "groups": {
+      "shape": [
+        {
+          "char": "祈",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "初左衤右刀，祈左礻右斤；左旁與右部都要比較。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "出",
+          "why": "初ㄔㄨ、出ㄔㄨ，同音。",
+          "difference": "初三是日期；出去指到外面。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "始",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "初與始都有開始的意思；初三指農曆每月的第三天，不能換成始三。"
+        }
+      ],
+      "component": [
+        {
+          "char": "刀",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "初右部為刀，左部還有衤；不要把刀寫成力。"
+        }
+      ]
+    },
+    "tip": "初三用初；出去用出；衣旁不是示旁。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

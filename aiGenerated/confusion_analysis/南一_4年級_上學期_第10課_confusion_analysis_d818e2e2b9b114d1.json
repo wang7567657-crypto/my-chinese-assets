@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_d818e2e2b9b114d1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "嫁",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "嫁",
+    "groups": {
+      "shape": [
+        {
+          "char": "稼",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "右邊同為家；嫁左女，稼左禾。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "架",
+          "why": "嫁與架都讀ㄐㄧㄚˋ，是同音。",
+          "difference": "出嫁指結婚；架子是支撐或放東西的構造。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "娶",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "傳統婚嫁用語中，嫁指女子結婚，娶指男子迎娶；本課標題是老鼠嫁女兒。"
+        }
+      ],
+      "component": [
+        {
+          "char": "家",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "嫁在家左側多女旁；家本身上宀下豕。"
+        }
+      ]
+    },
+    "tip": "嫁女兒用女旁，莊稼用禾旁。這是在解釋故事用語。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

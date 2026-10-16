@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第10課_memory_strategy_c6d1fee990949cb9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "妞",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "妞",
+    "components": [
+      "女",
+      "丑"
+    ],
+    "association": "想像鼠妞站在左邊，右邊放一張寫著「丑」的字卡。（僅為記字聯想，不是字源。）",
+    "mnemonic": "女在左，丑在右，鼠妞的名字記清楚。",
+    "visualPrompt": "中央呈現端正、完整的臺灣標準楷體「妞」，各部件保留原來位置，不增減或變形筆畫。字旁另外畫：想像鼠妞站在左邊，右邊放一張寫著「丑」的字卡。插圖不可取代筆畫，不疊在字上。",
+    "teachingTip": "妞與扭只換左旁；「丑」不是「醜」的縮寫。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

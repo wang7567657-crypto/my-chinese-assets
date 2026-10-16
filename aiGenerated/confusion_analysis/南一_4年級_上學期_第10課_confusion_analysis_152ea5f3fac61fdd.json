@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第10課_confusion_analysis_152ea5f3fac61fdd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "丟",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "丟",
+    "groups": {
+      "shape": [
+        {
+          "char": "去",
+          "why": "字形輪廓或主要部件相近。",
+          "difference": "依臺灣標準字形，丟上王下厶，去上土下厶；丟的上方比去多一橫。"
+        }
+      ],
+      "sound": [],
+      "meaning": [
+        {
+          "char": "拋",
+          "why": "語義有關，容易因語境混用。",
+          "difference": "丟、拋都可指把物品投出去；拋常強調向上或向外投，丟也能指遺失。丟球和丟失意思不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "厶",
+          "why": "比較共用部件、位置或異體寫法。",
+          "difference": "丟的下方有厶形，上方是王形；不能只寫下半部。"
+        }
+      ]
+    },
+    "tip": "丟球的丟上王下厶，首筆為橫，請用臺灣標準字體範字練習。"
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}

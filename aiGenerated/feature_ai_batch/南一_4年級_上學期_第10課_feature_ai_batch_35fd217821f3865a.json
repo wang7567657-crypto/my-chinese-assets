@@ -1,0 +1,61 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第10課_feature_ai_batch_35fd217821f3865a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "context": {
+      "publisher": "南一",
+      "grade": "4年級",
+      "semester": "上學期",
+      "lesson": "第10課"
+    },
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 15,
+    "batchCharacters": [
+      "妞",
+      "郎",
+      "丈",
+      "哄",
+      "眾",
+      "羞",
+      "強",
+      "嫁",
+      "架",
+      "初",
+      "丟",
+      "既",
+      "轎",
+      "隊",
+      "伍"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_aef44244cb894d2c.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_fbc86362547d6c8a.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_f8d16358ba303bbe.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_cfb688b9e6473123.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_6f66469bbf9eeb62.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_03b942a318c2b6ac.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_b25d799fdd3ef715.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_d818e2e2b9b114d1.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_c22cb8b1c3b464ad.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_70bb6ba7843887ee.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_152ea5f3fac61fdd.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_214bed77251710a2.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_612b984c96707424.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_b8a7681f497be0b4.json",
+      "aiGenerated/confusion_analysis/南一_4年級_上學期_第10課_confusion_analysis_59df658ea8ca56b9.json"
+    ]
+  },
+  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+}
