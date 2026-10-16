@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_91ae1a5df3f096f1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "稻",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "稻",
+    "groups": {
+      "shape": [
+        {
+          "char": "蹈",
+          "why": "右邊都是舀。",
+          "difference": "稻左禾；蹈左足。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "道",
+          "why": "稻、道同音ㄉㄠˋ。",
+          "difference": "稻是作物；道路供通行。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "米",
+          "why": "都與稻米有關。",
+          "difference": "稻指植物；米可指去殼後食用的穀粒。"
+        }
+      ],
+      "component": [
+        {
+          "char": "滔",
+          "why": "都有舀。",
+          "difference": "稻左禾；滔左氵。"
+        }
+      ]
+    },
+    "tip": "田裡種稻用禾旁；舞蹈用足旁。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_2c95a43f4d5a66cb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "峭",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "峭",
+    "groups": {
+      "shape": [
+        {
+          "char": "俏",
+          "why": "右邊同為肖。",
+          "difference": "峭左山；俏左亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "翹",
+          "why": "峭ㄑㄧㄠˋ與翹（翹起）ㄑㄧㄠˋ同音。",
+          "difference": "陡峭說地勢；翹起說向上抬起。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "陡",
+          "why": "都能形容坡勢。",
+          "difference": "峭常形容高險山壁；陡強調坡度大。"
+        }
+      ],
+      "component": [
+        {
+          "char": "消",
+          "why": "都有肖。",
+          "difference": "峭左山；消左氵。"
+        }
+      ]
+    },
+    "tip": "山壁陡峭用山旁。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

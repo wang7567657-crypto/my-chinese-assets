@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_4f6f3ecd281cc9ef",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "雄",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "雄",
+    "groups": {
+      "shape": [
+        {
+          "char": "雌",
+          "why": "右邊都有隹。",
+          "difference": "雄左厷；雌左此。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "熊",
+          "why": "雄、熊同音ㄒㄩㄥˊ。",
+          "difference": "雄可指雄性或雄壯；熊是動物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "公",
+          "why": "都可指動物的雄性。",
+          "difference": "雄常搭配雄性；公也可指公家、公共。"
+        }
+      ],
+      "component": [
+        {
+          "char": "堆",
+          "why": "都有隹。",
+          "difference": "雄左厷；堆左土。"
+        }
+      ]
+    },
+    "tip": "雄性右邊是隹，別漏短橫。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

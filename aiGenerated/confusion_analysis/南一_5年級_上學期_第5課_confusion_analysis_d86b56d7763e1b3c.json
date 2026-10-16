@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_d86b56d7763e1b3c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "縱",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "縱",
+    "groups": {
+      "shape": [
+        {
+          "char": "從",
+          "why": "都含從。",
+          "difference": "縱比從多左邊糹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "宗",
+          "why": "縱（縱橫）ㄗㄨㄥ與宗ㄗㄨㄥ同音。",
+          "difference": "縱橫說方向；祖宗指祖先。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "直",
+          "why": "都能表示縱向。",
+          "difference": "縱常與橫相對；直還可形容不彎曲。"
+        }
+      ],
+      "component": [
+        {
+          "char": "蹤",
+          "why": "都有從。",
+          "difference": "縱左糹；蹤左足。"
+        }
+      ]
+    },
+    "tip": "縱橫讀ㄗㄨㄥ；放縱讀ㄗㄨㄥˋ，先看詞語。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

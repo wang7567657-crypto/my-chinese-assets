@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_aace63da8355477f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "崖",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "崖",
+    "groups": {
+      "shape": [
+        {
+          "char": "涯",
+          "why": "右下核心都有厓。",
+          "difference": "崖是山在上、厓在下；涯是氵在左、厓在右。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "牙",
+          "why": "崖、牙同音ㄧㄚˊ。",
+          "difference": "山崖是陡壁；牙是牙齒。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "壁",
+          "why": "都可指直立面。",
+          "difference": "崖特指山邊陡壁；壁也可指房屋牆面。"
+        }
+      ],
+      "component": [
+        {
+          "char": "岸",
+          "why": "都是山在上。",
+          "difference": "崖下是厓（厂內圭）；岸下是厂與干。"
+        }
+      ]
+    },
+    "tip": "山崖上有山；天涯左有水。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

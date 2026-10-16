@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_e0064604d61c4b52",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "偉",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "偉",
+    "groups": {
+      "shape": [
+        {
+          "char": "緯",
+          "why": "右邊都是韋。",
+          "difference": "偉左亻；緯左糹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "尾",
+          "why": "偉、尾同音ㄨㄟˇ。",
+          "difference": "偉大形容卓越；尾巴指末端部位。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "大",
+          "why": "都能表達規模或成就。",
+          "difference": "偉常用於卓越不凡；大也可單純表示尺寸。"
+        }
+      ],
+      "component": [
+        {
+          "char": "圍",
+          "why": "都有韋。",
+          "difference": "偉的亻在左；圍的囗包住韋。"
+        }
+      ]
+    },
+    "tip": "偉人是人，用亻。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}
