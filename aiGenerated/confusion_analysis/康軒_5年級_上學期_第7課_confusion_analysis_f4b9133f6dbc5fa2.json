@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第7課_confusion_analysis_f4b9133f6dbc5fa2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "圈",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "圈",
+    "groups": {
+      "shape": [
+        {
+          "char": "圍",
+          "why": "整字輪廓或主要部件相近。",
+          "difference": "外框同囗，圈內卷，圍內韋。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "捐",
+          "why": "一圈的圈ㄑㄩㄢ、捐ㄐㄩㄢ近音，聲母不同；圈養的圈讀ㄐㄩㄢˋ。",
+          "difference": "一圈是繞一周，捐贈是提供財物幫助他人。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "環",
+          "why": "意思或使用情境容易聯想到一起。",
+          "difference": "圈與環都可指環形；圈也作量詞，如跑一圈。"
+        }
+      ],
+      "component": [
+        {
+          "char": "圍",
+          "why": "比對相同部分與改變的部分。",
+          "difference": "外框同囗，圈內卷，圍內韋。"
+        }
+      ]
+    },
+    "tip": "看字形、讀語詞、說意思三步核對。外框同囗，圈內卷，圍內韋。"
+  },
+  "createdAt": "2026-10-16T12:31:13.298528Z"
+}

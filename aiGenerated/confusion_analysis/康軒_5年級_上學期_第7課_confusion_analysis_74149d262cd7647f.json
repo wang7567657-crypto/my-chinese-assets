@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第7課_confusion_analysis_74149d262cd7647f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "嚏",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "嚏",
+    "groups": {
+      "shape": [
+        {
+          "char": "嚔",
+          "why": "整字輪廓或主要部件相近。",
+          "difference": "左口與右上相近；嚔是嚏的異體字，右下形體不同，課本寫嚏。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "替",
+          "why": "嚏ㄊㄧˋ、替ㄊㄧˋ同音。",
+          "difference": "噴嚏是口鼻突然噴氣，代替是取代原來的人或物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "咳",
+          "why": "意思或使用情境容易聯想到一起。",
+          "difference": "噴嚏主要由鼻黏膜刺激引起；咳嗽與呼吸道刺激有關，用字不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "嚔",
+          "why": "比對相同部分與改變的部分。",
+          "difference": "左口與右上相近；嚔是嚏的異體字，右下形體不同，課本寫嚏。"
+        }
+      ]
+    },
+    "tip": "看字形、讀語詞、說意思三步核對。左口與右上相近；嚔是嚏的異體字，右下形體不同，課本寫嚏。"
+  },
+  "createdAt": "2026-10-16T12:31:13.298528Z"
+}

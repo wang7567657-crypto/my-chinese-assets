@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第7課_confusion_analysis_b02d4083f7e9cecf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "緻",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "緻",
+    "groups": {
+      "shape": [
+        {
+          "char": "致",
+          "why": "整字輪廓或主要部件相近。",
+          "difference": "緻比致多左邊糹，右側致保留。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "智",
+          "why": "緻ㄓˋ、智ㄓˋ同音。",
+          "difference": "精緻形容細密，智慧指思考判斷能力。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "細",
+          "why": "意思或使用情境容易聯想到一起。",
+          "difference": "細緻表示精細；細也可只指尺寸小，如細線。"
+        }
+      ],
+      "component": [
+        {
+          "char": "致",
+          "why": "比對相同部分與改變的部分。",
+          "difference": "緻比致多左邊糹，右側致保留。"
+        }
+      ]
+    },
+    "tip": "看字形、讀語詞、說意思三步核對。緻比致多左邊糹，右側致保留。"
+  },
+  "createdAt": "2026-10-16T12:31:13.298528Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第7課_confusion_analysis_753ef8801741a76e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "絡",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "絡",
+    "groups": {
+      "shape": [
+        {
+          "char": "洛",
+          "why": "整字輪廓或主要部件相近。",
+          "difference": "右各相同，絡左糹，洛左氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "落",
+          "why": "絡ㄌㄨㄛˋ與落下的落ㄌㄨㄛˋ同音。",
+          "difference": "聯絡是互相接觸，落下是往下掉。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "聯",
+          "why": "意思或使用情境容易聯想到一起。",
+          "difference": "聯絡表示互相接觸；聯強調聯合，絡常與網絡連接有關。"
+        }
+      ],
+      "component": [
+        {
+          "char": "洛",
+          "why": "比對相同部分與改變的部分。",
+          "difference": "右各相同，絡左糹，洛左氵。"
+        }
+      ]
+    },
+    "tip": "看字形、讀語詞、說意思三步核對。右各相同，絡左糹，洛左氵。"
+  },
+  "createdAt": "2026-10-16T12:31:13.298528Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第7課_confusion_analysis_f8a2b16495e07da6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "噴",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "噴",
+    "groups": {
+      "shape": [
+        {
+          "char": "憤",
+          "why": "整字輪廓或主要部件相近。",
+          "difference": "右賁相同，噴左口，憤左忄。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "盆",
+          "why": "噴嚏的噴ㄆㄣ、盆ㄆㄣˊ近音，聲調不同。",
+          "difference": "噴是向外射出，盆是盛物的器具。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "吐",
+          "why": "意思或使用情境容易聯想到一起。",
+          "difference": "噴強調向外射出；吐可指從口中送出，不一定有噴射力。"
+        }
+      ],
+      "component": [
+        {
+          "char": "憤",
+          "why": "比對相同部分與改變的部分。",
+          "difference": "右賁相同，噴左口，憤左忄。"
+        }
+      ]
+    },
+    "tip": "看字形、讀語詞、說意思三步核對。右賁相同，噴左口，憤左忄。"
+  },
+  "createdAt": "2026-10-16T12:31:13.298528Z"
+}

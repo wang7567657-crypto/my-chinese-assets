@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第7課_confusion_analysis_4cea0157e00c25cd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "憐",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "憐",
+    "groups": {
+      "shape": [
+        {
+          "char": "鄰",
+          "why": "整字輪廓或主要部件相近。",
+          "difference": "共同有粦；憐左忄，鄰右阝。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "連",
+          "why": "憐ㄌㄧㄢˊ、連ㄌㄧㄢˊ同音。",
+          "difference": "憐惜是同情不捨，連接表示接在一起。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "愛",
+          "why": "意思或使用情境容易聯想到一起。",
+          "difference": "憐惜含同情不捨，愛的範圍更廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "鄰",
+          "why": "比對相同部分與改變的部分。",
+          "difference": "共同有粦；憐左忄，鄰右阝。"
+        }
+      ]
+    },
+    "tip": "看字形、讀語詞、說意思三步核對。共同有粦；憐左忄，鄰右阝。"
+  },
+  "createdAt": "2026-10-16T12:31:13.298528Z"
+}

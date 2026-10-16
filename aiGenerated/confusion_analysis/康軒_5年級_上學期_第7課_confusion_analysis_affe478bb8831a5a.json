@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第7課_confusion_analysis_affe478bb8831a5a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "弱",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "弱",
+    "groups": {
+      "shape": [
+        {
+          "char": "羽",
+          "why": "整字輪廓或主要部件相近。",
+          "difference": "都有左右重複形；弱含兩個弓形，羽沒有弓形的中段折轉。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "若",
+          "why": "弱ㄖㄨㄛˋ、若ㄖㄨㄛˋ同音。",
+          "difference": "弱小表示力量小，若是表示假設。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "脆",
+          "why": "意思或使用情境容易聯想到一起。",
+          "difference": "脆弱可指容易受損；弱強調力量小，脆強調容易破裂。"
+        }
+      ],
+      "component": [
+        {
+          "char": "羽",
+          "why": "比對相同部分與改變的部分。",
+          "difference": "都有左右重複形；弱含兩個弓形，羽沒有弓形的中段折轉。"
+        }
+      ]
+    },
+    "tip": "看字形、讀語詞、說意思三步核對。都有左右重複形；弱含兩個弓形，羽沒有弓形的中段折轉。"
+  },
+  "createdAt": "2026-10-16T12:31:13.298528Z"
+}

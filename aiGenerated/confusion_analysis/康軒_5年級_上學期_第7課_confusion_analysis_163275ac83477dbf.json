@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第7課_confusion_analysis_163275ac83477dbf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "織",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "織",
+    "groups": {
+      "shape": [
+        {
+          "char": "識",
+          "why": "整字輪廓或主要部件相近。",
+          "difference": "右戠相同，織左糹，識左言。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "知",
+          "why": "織ㄓ、知ㄓ同音。",
+          "difference": "織網把絲交錯，知道表示了解。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "編",
+          "why": "意思或使用情境容易聯想到一起。",
+          "difference": "織用線交錯成物；編也可指編排文章，範圍不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "識",
+          "why": "比對相同部分與改變的部分。",
+          "difference": "右戠相同，織左糹，識左言。"
+        }
+      ]
+    },
+    "tip": "看字形、讀語詞、說意思三步核對。右戠相同，織左糹，識左言。"
+  },
+  "createdAt": "2026-10-16T12:31:13.298528Z"
+}
