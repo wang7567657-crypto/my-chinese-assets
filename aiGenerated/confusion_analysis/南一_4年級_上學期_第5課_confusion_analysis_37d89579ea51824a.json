@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第5課_confusion_analysis_37d89579ea51824a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "斤",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "斤",
+    "groups": {
+      "shape": [
+        {
+          "char": "斥",
+          "why": "字形或局部輪廓相近，書寫時容易混淆。",
+          "difference": "輪廓近似；斥比斤多一點，位置在右下方。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "今",
+          "why": "讀音相同或接近，聽寫時須看詞義。",
+          "difference": "斤、今同音ㄐㄧㄣ；公斤用斤，今天用今。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "克",
+          "why": "意思相關，須放回課文詞語辨別。",
+          "difference": "斤與克都可用在重量單位名稱；公斤的公與斤構成一個單位，一公斤等於一千克，不能混讀。"
+        }
+      ],
+      "component": [
+        {
+          "char": "近",
+          "why": "共用部件或局部形體，須辨認位置及剩餘筆畫。",
+          "difference": "近含斤和辶；斤沒有包圍的辶。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的詞，再比字形；輪廓近似；斥比斤多一點，位置在右下方。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

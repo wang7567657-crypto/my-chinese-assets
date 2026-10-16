@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第5課_confusion_analysis_0ebc037fc823d03c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "挑",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "挑",
+    "groups": {
+      "shape": [
+        {
+          "char": "桃",
+          "why": "字形或局部輪廓相近，書寫時容易混淆。",
+          "difference": "都含兆；挑左扌，桃左木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "跳",
+          "why": "讀音相同或接近，聽寫時須看詞義。",
+          "difference": "挑戰的挑讀ㄊㄧㄠˇ，跳高的跳讀ㄊㄧㄠˋ，韻母相同、聲調不同，屬近音。挑選的挑另讀ㄊㄧㄠ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "選",
+          "why": "意思相關，須放回課文詞語辨別。",
+          "difference": "挑選與選擇意思接近；本課的挑戰是面對考驗、克服困難，不是選擇，不能改寫成選戰。"
+        }
+      ],
+      "component": [
+        {
+          "char": "逃",
+          "why": "共用部件或局部形體，須辨認位置及剩餘筆畫。",
+          "difference": "都含兆；挑用左扌，逃用左下包圍的辶。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的詞，再比字形；都含兆；挑左扌，桃左木。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

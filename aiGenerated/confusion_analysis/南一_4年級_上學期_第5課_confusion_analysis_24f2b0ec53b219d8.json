@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第5課_confusion_analysis_24f2b0ec53b219d8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "驕",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "驕",
+    "groups": {
+      "shape": [
+        {
+          "char": "嬌",
+          "why": "字形或局部輪廓相近，書寫時容易混淆。",
+          "difference": "都含喬；驕左馬，嬌左女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "交",
+          "why": "讀音相同或接近，聽寫時須看詞義。",
+          "difference": "驕、交同音ㄐㄧㄠ；驕傲用驕，交朋友用交。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "豪",
+          "why": "意思相關，須放回課文詞語辨別。",
+          "difference": "課文令人驕傲指值得自豪，帶肯定意味；自豪也指為自己感到光榮，不要一律解釋為看不起別人。"
+        }
+      ],
+      "component": [
+        {
+          "char": "橋",
+          "why": "共用部件或局部形體，須辨認位置及剩餘筆畫。",
+          "difference": "都含喬；驕左馬，橋左木。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的詞，再比字形；都含喬；驕左馬，嬌左女。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

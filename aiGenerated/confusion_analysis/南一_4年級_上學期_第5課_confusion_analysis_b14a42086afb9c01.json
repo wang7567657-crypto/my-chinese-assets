@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第5課_confusion_analysis_b14a42086afb9c01",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "捐",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "捐",
+    "groups": {
+      "shape": [
+        {
+          "char": "絹",
+          "why": "字形或局部輪廓相近，書寫時容易混淆。",
+          "difference": "右側相同，都是上口下月形；捐左扌，絹左糹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "娟",
+          "why": "讀音相同或接近，聽寫時須看詞義。",
+          "difference": "捐、娟同音ㄐㄩㄢ；捐款用捐，娟常見於人名。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "贈",
+          "why": "意思相關，須放回課文詞語辨別。",
+          "difference": "捐通常把財物給公益或有需要的人；贈泛指送給別人，如贈送禮物。"
+        }
+      ],
+      "component": [
+        {
+          "char": "涓",
+          "why": "共用部件或局部形體，須辨認位置及剩餘筆畫。",
+          "difference": "右側相同；捐左扌，涓左氵，涓可見於涓涓細流。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的詞，再比字形；右側相同，都是上口下月形；捐左扌，絹左糹。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

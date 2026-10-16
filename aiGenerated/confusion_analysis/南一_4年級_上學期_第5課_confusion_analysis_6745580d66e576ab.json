@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第5課_confusion_analysis_6745580d66e576ab",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "程",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "程",
+    "groups": {
+      "shape": [
+        {
+          "char": "埕",
+          "why": "字形或局部輪廓相近，書寫時容易混淆。",
+          "difference": "右側同呈；程左禾，埕左土。埕較少見，可見於地名。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "成",
+          "why": "讀音相同或接近，聽寫時須看詞義。",
+          "difference": "程、成同音ㄔㄥˊ；過程用程，成功用成。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "途",
+          "why": "意思相關，須放回課文詞語辨別。",
+          "difference": "過程是事情進行的經過；路途是行走的路程，兩字有關但詞語不能任意交換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "呈",
+          "why": "共用部件或局部形體，須辨認位置及剩餘筆畫。",
+          "difference": "呈是程的右側；程還有左邊禾，不要漏寫。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的詞，再比字形；右側同呈；程左禾，埕左土。埕較少見，可見於地名。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

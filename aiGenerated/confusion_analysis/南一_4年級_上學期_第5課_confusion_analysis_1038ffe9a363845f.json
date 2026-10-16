@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第5課_confusion_analysis_1038ffe9a363845f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "困",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "困",
+    "groups": {
+      "shape": [
+        {
+          "char": "囚",
+          "why": "字形或局部輪廓相近，書寫時容易混淆。",
+          "difference": "同有外框囗；困內是木，囚內是人。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "睏",
+          "why": "讀音相同或接近，聽寫時須看詞義。",
+          "difference": "困、睏同音ㄎㄨㄣˋ；困難用困，想睡覺可說睏。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "難",
+          "why": "意思相關，須放回課文詞語辨別。",
+          "difference": "困難中的困指受到限制、難以應付；難可指不容易，兩字搭配使用。"
+        }
+      ],
+      "component": [
+        {
+          "char": "因",
+          "why": "共用部件或局部形體，須辨認位置及剩餘筆畫。",
+          "difference": "外框相同；困內木有中豎和左右伸出的筆畫，因內是大。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的詞，再比字形；同有外框囗；困內是木，囚內是人。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

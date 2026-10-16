@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第5課_similar_shape_2dc24334038d4278",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "戰",
+    "lessonChars": [
+      "困",
+      "舉",
+      "挑",
+      "戰",
+      "爭",
+      "佩",
+      "斤",
+      "紀",
+      "震",
+      "竭",
+      "棄",
+      "程",
+      "捐",
+      "驕",
+      "傲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "戰",
+    "similarChars": [
+      {
+        "char": "單",
+        "similarity": "戰的左半部就是單。",
+        "difference": "戰右邊還有戈；單沒有右邊的戈。"
+      },
+      {
+        "char": "彈",
+        "similarity": "兩字都含有筆畫密集的單。",
+        "difference": "戰是左單右戈；彈是左弓右單，單的位置不同。"
+      },
+      {
+        "char": "禪",
+        "similarity": "都含單，上方可看到並列的口形。",
+        "difference": "戰是左單右戈；禪是左礻右單。"
+      },
+      {
+        "char": "蟬",
+        "similarity": "都保留完整的單形。",
+        "difference": "戰是左單右戈；蟬是左虫右單。"
+      },
+      {
+        "char": "戟",
+        "similarity": "右邊同是戈，左邊都有橫豎交叉的密集筆畫。",
+        "difference": "戰左邊是單，上面有兩個口；戟左邊中間有日形，上下各有十形。戟較少見。"
+      },
+      {
+        "char": "戳",
+        "similarity": "右邊同是戈，左邊都是較密的部件。",
+        "difference": "戰左邊是單；戳左邊上羽下隹，沒有單頂端的兩個口。"
+      }
+    ],
+    "teachingTip": "先圈出戰右邊的戈，再檢查左邊單頂端的兩個口。與彈、禪、蟬比較時，要同時看部件及左右位置。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

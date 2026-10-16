@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第5課_confusion_analysis_14a102703784b6cc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "棄",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "棄",
+    "groups": {
+      "shape": [
+        {
+          "char": "葉",
+          "why": "字形或局部輪廓相近，書寫時容易混淆。",
+          "difference": "下半輪廓相近；葉頂端是艹，下方有世、木。棄頂端是𠫓，最下方撇、點不接中豎，不能照葉的木寫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "氣",
+          "why": "讀音相同或接近，聽寫時須看詞義。",
+          "difference": "棄、氣同音ㄑㄧˋ；放棄用棄，空氣用氣。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "捨",
+          "why": "意思相關，須放回課文詞語辨別。",
+          "difference": "放棄和捨棄都可指不再保留或堅持；課文不輕言放棄，不是隨便丟掉物品。"
+        }
+      ],
+      "component": [
+        {
+          "char": "葉",
+          "why": "下半輪廓容易被誤認為完全相同的部件。",
+          "difference": "葉底下是木；標準棄底下的左右撇、點不接中豎，須依棄的標準字形練寫。"
+        }
+      ]
+    },
+    "tip": "放棄的棄要整字觀察；下方左右撇、點不接中豎，不套用葉底下的木字形。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

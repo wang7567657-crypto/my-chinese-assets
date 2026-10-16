@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第5課_confusion_analysis_a66993287e79f6e6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "佩",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "佩",
+    "groups": {
+      "shape": [
+        {
+          "char": "珮",
+          "why": "右半部完全相同，左偏旁不同，容易混淆。",
+          "difference": "佩左邊是亻；珮左邊是玉字旁。兩字右半都可見外框、短橫和巾形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "配",
+          "why": "讀音相同或接近，聽寫時須看詞義。",
+          "difference": "佩、配同音ㄆㄟˋ；佩服用佩，配合用配。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "敬",
+          "why": "意思相關，須放回課文詞語辨別。",
+          "difference": "佩服是心中認同、欽佩能力；尊敬偏向敬重，兩個詞用法有別。"
+        }
+      ],
+      "component": [
+        {
+          "char": "巾",
+          "why": "共用部件或局部形體，須辨認位置及剩餘筆畫。",
+          "difference": "佩右部內有巾形，還有短橫及外側彎鉤；短橫不碰兩側，巾形起筆接短橫，不能只寫成亻加巾。"
+        }
+      ]
+    },
+    "tip": "佩左亻、珮左玉字旁；右半相同，先辨左偏旁。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

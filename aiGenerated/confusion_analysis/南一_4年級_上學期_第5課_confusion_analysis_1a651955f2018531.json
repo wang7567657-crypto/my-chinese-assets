@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第5課_confusion_analysis_1a651955f2018531",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "戰",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "戰",
+    "groups": {
+      "shape": [
+        {
+          "char": "單",
+          "why": "字形或局部輪廓相近，書寫時容易混淆。",
+          "difference": "戰左邊是單，右邊另有戈；不要漏掉右邊。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "站",
+          "why": "讀音相同或接近，聽寫時須看詞義。",
+          "difference": "戰、站同音ㄓㄢˋ；挑戰用戰，站立用站。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "鬥",
+          "why": "意思相關，須放回課文詞語辨別。",
+          "difference": "戰與鬥都有競爭、對抗的意思；挑戰是固定詞，不寫成挑鬥。"
+        }
+      ],
+      "component": [
+        {
+          "char": "戈",
+          "why": "共用部件或局部形體，須辨認位置及剩餘筆畫。",
+          "difference": "戈是戰右側的一部分；戰還有左側單，不能只記右邊。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的詞，再比字形；戰左邊是單，右邊另有戈；不要漏掉右邊。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

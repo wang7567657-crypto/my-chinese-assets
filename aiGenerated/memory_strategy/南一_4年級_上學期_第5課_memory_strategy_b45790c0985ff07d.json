@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第5課_memory_strategy_b45790c0985ff07d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "程",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "程",
+    "components": [
+      "禾",
+      "呈"
+    ],
+    "association": "字形助記：左邊認「禾」，右邊認「呈」。讀「過程」，想到選手從練習到比賽一步一步累積的經歷；情境是助記，不是字源說明。",
+    "mnemonic": "禾在左，呈在右；一步一步走過程。",
+    "visualPrompt": "左側放標準楷體「程」，右側用三個小畫面依序呈現選手練習、調整、上場的過程。畫面只在字旁，不以腳印或路線改造字的筆畫，不改變禾與呈的左右位置。",
+    "teachingTip": "先說出課文中訓練過程的一件事，再看「程」的左右部件。左邊「禾」上方有一撇，可與「木」比較後回到範字核對。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

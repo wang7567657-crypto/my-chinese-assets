@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第5課_confusion_analysis_9b7a6b8fc1bc1194",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "竭",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "竭",
+    "groups": {
+      "shape": [
+        {
+          "char": "喝",
+          "why": "字形或局部輪廓相近，書寫時容易混淆。",
+          "difference": "右側都是曷；竭左立，喝左口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "節",
+          "why": "讀音相同或接近，聽寫時須看詞義。",
+          "difference": "竭、節同音ㄐㄧㄝˊ；竭盡全力用竭，節日用節。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "盡",
+          "why": "意思相關，須放回課文詞語辨別。",
+          "difference": "竭與盡都能表用完；竭盡全力表示把力量全用上，注意竭和盡各自的字形。"
+        }
+      ],
+      "component": [
+        {
+          "char": "渴",
+          "why": "共用部件或局部形體，須辨認位置及剩餘筆畫。",
+          "difference": "右側同曷；竭左立，渴左氵。不要把立寫成三點水。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的詞，再比字形；右側都是曷；竭左立，喝左口。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

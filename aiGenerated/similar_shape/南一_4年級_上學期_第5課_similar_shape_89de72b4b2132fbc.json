@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第5課_similar_shape_89de72b4b2132fbc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "紀",
+    "lessonChars": [
+      "困",
+      "舉",
+      "挑",
+      "戰",
+      "爭",
+      "佩",
+      "斤",
+      "紀",
+      "震",
+      "竭",
+      "棄",
+      "程",
+      "捐",
+      "驕",
+      "傲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "紀",
+    "similarChars": [
+      {
+        "char": "記",
+        "similarity": "右邊同是己，都是左右結構。",
+        "difference": "紀左邊是糹；記左邊是言，有口形。"
+      },
+      {
+        "char": "杞",
+        "similarity": "右邊同是己。",
+        "difference": "紀左邊是糹；杞左邊是木。杞較少見，可見於杞人憂天。"
+      },
+      {
+        "char": "妃",
+        "similarity": "右邊同是己。",
+        "difference": "紀左邊是糹；妃左邊是女。"
+      },
+      {
+        "char": "配",
+        "similarity": "右邊同是己，左邊都有較密的筆畫。",
+        "difference": "紀左邊是糹；配左邊是酉，有方框。"
+      },
+      {
+        "char": "忌",
+        "similarity": "都含有己的形體。",
+        "difference": "紀把己放在右側，左邊有糹；忌把己放在上方，下面是心。"
+      },
+      {
+        "char": "起",
+        "similarity": "都完整含有己。",
+        "difference": "紀左邊是糹；起用走從左下方包住己。"
+      }
+    ],
+    "teachingTip": "先認共同的己，再看另外的部件是糹、言、木、女、酉、心或走；紀錄的紀固定用糹旁。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}
