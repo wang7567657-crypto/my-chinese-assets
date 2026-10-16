@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_1ebff7fd9c6f1b6f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "藥",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "藥",
+    "groups": {
+      "shape": [
+        {
+          "char": "樂",
+          "why": "都有樂",
+          "difference": "藥在樂上加艹；樂沒有艹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "要",
+          "why": "藥與需要的要都讀ㄧㄠˋ，是同音字。",
+          "difference": "藥品用藥；需要用要。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "醫",
+          "why": "醫藥都和診治疾病相關。",
+          "difference": "藥指藥物；醫指醫治或醫師，不能互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "樂",
+          "why": "藥下方是樂。",
+          "difference": "藥多艹；樂是多音字，不能由部件直接推定藥的讀音。"
+        }
+      ]
+    },
+    "tip": "先看字形不同處，再讀完整語詞確認意思；不要只靠相同讀音選字。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

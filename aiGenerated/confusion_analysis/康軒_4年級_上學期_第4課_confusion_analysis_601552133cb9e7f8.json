@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_601552133cb9e7f8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "堂",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "堂",
+    "groups": {
+      "shape": [
+        {
+          "char": "棠",
+          "why": "上方都是尚的變形",
+          "difference": "堂下土；棠下木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "糖",
+          "why": "堂與糖都讀ㄊㄤˊ，是同音字。",
+          "difference": "學堂用堂；糖果用糖。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "室",
+          "why": "堂與室都可指建築內空間。",
+          "difference": "堂常指較大廳堂或學堂；室多指房間，搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "棠",
+          "why": "兩字上方相同。",
+          "difference": "堂下土；棠下木，常見海棠。"
+        }
+      ]
+    },
+    "tip": "先看字形不同處，再讀完整語詞確認意思；不要只靠相同讀音選字。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

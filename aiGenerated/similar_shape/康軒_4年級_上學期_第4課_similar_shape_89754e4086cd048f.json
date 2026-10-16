@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_4年級_上學期_第4課_similar_shape_89754e4086cd048f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "濃",
+    "lessonChars": [
+      "偕",
+      "命",
+      "奉",
+      "獻",
+      "醫",
+      "療",
+      "衛",
+      "藥",
+      "治",
+      "翻",
+      "嶺",
+      "捐",
+      "宿",
+      "堂",
+      "濃"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "濃",
+    "similarChars": [
+      {
+        "char": "農",
+        "similarity": "都有農",
+        "difference": "濃在農左加氵；農沒有氵。"
+      },
+      {
+        "char": "膿",
+        "similarity": "右邊都是農",
+        "difference": "濃左氵；膿左月形。"
+      },
+      {
+        "char": "儂",
+        "similarity": "右邊都是農",
+        "difference": "濃左氵；儂左亻。儂是較少見字，見於文學或方言。"
+      },
+      {
+        "char": "穠",
+        "similarity": "右邊都是農",
+        "difference": "濃左氵；穠左禾。穠是較少見字，指花木繁盛。"
+      },
+      {
+        "char": "醲",
+        "similarity": "右邊都是農",
+        "difference": "濃左氵；醲左酉。醲是較少見字，多形容酒味濃厚。"
+      },
+      {
+        "char": "襛",
+        "similarity": "右邊都是農",
+        "difference": "濃左氵；襛左衤。襛是較少見字，不列為本課必寫字。"
+      }
+    ],
+    "teachingTip": "先圈共同部件，再用另一色圈不同處；少見字或異體字只供辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

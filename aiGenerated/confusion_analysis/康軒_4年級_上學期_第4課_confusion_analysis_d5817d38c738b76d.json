@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_d5817d38c738b76d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "嶺",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "嶺",
+    "groups": {
+      "shape": [
+        {
+          "char": "領",
+          "why": "都有領",
+          "difference": "嶺在領上加山；領沒有山。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "領",
+          "why": "嶺與領都讀ㄌㄧㄥˇ，是同音字。",
+          "difference": "山嶺用嶺；領隊用領。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "山",
+          "why": "山嶺都指地形。",
+          "difference": "嶺多指山脈或山頂部分；山是較廣泛的稱呼。"
+        }
+      ],
+      "component": [
+        {
+          "char": "領",
+          "why": "嶺下方是領。",
+          "difference": "嶺上方多山，不能漏寫成領。"
+        }
+      ]
+    },
+    "tip": "先看字形不同處，再讀完整語詞確認意思；不要只靠相同讀音選字。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_742ada895733fd29",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "治",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "治",
+    "groups": {
+      "shape": [
+        {
+          "char": "怡",
+          "why": "右邊都是台",
+          "difference": "治左氵；怡左忄。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "至",
+          "why": "治與至都讀ㄓˋ，是同音字。",
+          "difference": "治病用治；直到可說直至，用至。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "療",
+          "why": "治療都涉及醫治疾病。",
+          "difference": "治還能用於治理；療通常見於醫療、療養。"
+        }
+      ],
+      "component": [
+        {
+          "char": "冶",
+          "why": "兩字右側都是台。",
+          "difference": "治左氵三筆，冶左冫兩筆；冶可用於冶煉。"
+        }
+      ]
+    },
+    "tip": "先看字形不同處，再讀完整語詞確認意思；不要只靠相同讀音選字。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

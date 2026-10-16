@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_4年級_上學期_第4課_memory_strategy_b0f4fcfa1f96c362",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "醫",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "醫",
+    "components": [
+      "殹",
+      "酉"
+    ],
+    "association": "想像醫師整理用品，幫病人診治。這是記字聯想，不是字源解釋。",
+    "mnemonic": "上面殹，下面酉，醫療照顧記心頭。",
+    "visualPrompt": "中央以標準楷體呈現「醫」，保持完整標準字形；用淡色標示觀察部件。字旁另畫：想像醫師整理用品，幫病人診治。插圖不嵌入、不替換任何筆畫。",
+    "teachingTip": "下方酉內有短橫，不可寫成西；聯想不代表字源。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

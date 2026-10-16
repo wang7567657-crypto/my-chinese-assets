@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_4年級_上學期_第4課_memory_strategy_a03708fa07975a26",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "藥",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "藥",
+    "components": [
+      "艹",
+      "樂"
+    ],
+    "association": "想像藥盒旁畫著一盆植物，提醒字上有艹。這是記字聯想，不是字源解釋。",
+    "mnemonic": "草頭在上樂在下，藥字底下木留下。",
+    "visualPrompt": "中央以標準楷體呈現「藥」，保持完整標準字形；用淡色標示觀察部件。字旁另畫：想像藥盒旁畫著一盆植物，提醒字上有艹。插圖不嵌入、不替換任何筆畫。",
+    "teachingTip": "只作記字聯想，不能推論所有植物都可作藥，也不表示可以自行服藥。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

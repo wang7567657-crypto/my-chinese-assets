@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_f6cf5b260058adae",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "獻",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "獻",
+    "groups": {
+      "shape": [
+        {
+          "char": "戲",
+          "why": "左上都有虍，右邊斜筆輪廓相近",
+          "difference": "獻左下是鬲形、右犬；戲左下是豆形、右戈。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "現",
+          "why": "獻與現都讀ㄒㄧㄢˋ，是同音字。",
+          "difference": "奉獻用獻；出現用現。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "捐",
+          "why": "捐獻都可指付出財物幫助他人。",
+          "difference": "捐常搭款、錢；獻可搭心力、技藝，範圍不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "犬",
+          "why": "獻右側是犬。",
+          "difference": "犬單獨成字；獻左邊另有虍與鬲，不能省略。"
+        }
+      ]
+    },
+    "tip": "先看字形不同處，再讀完整語詞確認意思；不要只靠相同讀音選字。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

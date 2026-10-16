@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_564f5417082f8f6b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "宿",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "宿",
+    "groups": {
+      "shape": [
+        {
+          "char": "縮",
+          "why": "都有宿",
+          "difference": "縮在宿左加糹；宿沒有糹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "訴",
+          "why": "食宿的宿ㄙㄨˋ與訴ㄙㄨˋ同音；一宿的宿讀ㄒㄧㄡˇ，星宿讀ㄒㄧㄡˋ。",
+          "difference": "住宿用宿；告訴用訴，先確認語詞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "住",
+          "why": "住宿都與停留居住有關。",
+          "difference": "宿常指過夜；住可指長期居住或停住，不一定只一夜。"
+        }
+      ],
+      "component": [
+        {
+          "char": "縮",
+          "why": "縮包含宿。",
+          "difference": "縮多左糹，表示縮小等；宿沒有糹。"
+        }
+      ]
+    },
+    "tip": "先看字形不同處，再讀完整語詞確認意思；不要只靠相同讀音選字。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

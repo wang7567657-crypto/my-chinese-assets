@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_4637e3ec0db514e8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "療",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "療",
+    "groups": {
+      "shape": [
+        {
+          "char": "僚",
+          "why": "右側或內部都含尞",
+          "difference": "療外面是疒；僚左邊是亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "聊",
+          "why": "療與聊天的聊都讀ㄌㄧㄠˊ，是同音字。",
+          "difference": "治療用療；聊天用聊。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "治",
+          "why": "治療兩字都與醫治疾病有關。",
+          "difference": "療常見醫療、療養；治還可用於治理、治安。"
+        }
+      ],
+      "component": [
+        {
+          "char": "寮",
+          "why": "兩字都含尞。",
+          "difference": "療外疒，寮上宀；課文醫療不能寫作醫寮。"
+        }
+      ]
+    },
+    "tip": "先看字形不同處，再讀完整語詞確認意思；不要只靠相同讀音選字。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}
