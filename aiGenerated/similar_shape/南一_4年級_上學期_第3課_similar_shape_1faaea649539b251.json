@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第3課_similar_shape_1faaea649539b251",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "酸",
+    "lessonChars": [
+      "蓮",
+      "式",
+      "士",
+      "拆",
+      "民",
+      "志",
+      "酸",
+      "辣",
+      "存",
+      "靠",
+      "獲",
+      "態",
+      "與",
+      "支",
+      "未"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "酸",
+    "similarChars": [
+      {
+        "char": "俊",
+        "similarity": "兩字右邊都是「夋」。",
+        "difference": "酸左邊是酉；俊左邊是亻。"
+      },
+      {
+        "char": "梭",
+        "similarity": "兩字右邊都是「夋」。",
+        "difference": "酸左邊是酉；梭左邊是木。"
+      },
+      {
+        "char": "唆",
+        "similarity": "兩字右邊都是「夋」。",
+        "difference": "酸左邊是酉；唆左邊是口。"
+      },
+      {
+        "char": "竣",
+        "similarity": "兩字右邊都是「夋」。",
+        "difference": "酸左邊是酉；竣左邊是立。"
+      },
+      {
+        "char": "醋",
+        "similarity": "兩字左邊都是「酉」。",
+        "difference": "酸右邊是夋；醋右邊是昔，下方有日。"
+      },
+      {
+        "char": "酥",
+        "similarity": "兩字左邊都是「酉」。",
+        "difference": "酸右邊是夋；酥右邊是禾。"
+      }
+    ],
+    "teachingTip": "將「酸」分成左酉右夋；看右邊相同的一組時，比較左旁；看醋、酥時，則比較酉右邊的部件。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第3課_confusion_analysis_47c8778f56b6fc34",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "與",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "與",
+    "groups": {
+      "shape": [
+        {
+          "char": "興",
+          "why": "外形或主要部件相近。",
+          "difference": "兩字上部中央筆形不同；與中央不是興中央的同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "玉",
+          "why": "讀音比較。",
+          "difference": "參與的與讀ㄩˋ，與同音的玉ㄩˋ不同字；與你同行的與讀ㄩˇ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "和",
+          "why": "詞義有相關之處，需分辨用法。",
+          "difference": "與讀ㄩˇ時可表示和；參與讀ㄩˋ，不能換參和。"
+        }
+      ],
+      "component": [
+        {
+          "char": "舉",
+          "why": "共用或相近部件。",
+          "difference": "舉上部與與有相近框架，下方筆形不同，不能把舉的下方搬進與。"
+        }
+      ]
+    },
+    "tip": "兩字上部中央筆形不同；與中央不是興中央的同。請放回課文語詞辨認，不只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

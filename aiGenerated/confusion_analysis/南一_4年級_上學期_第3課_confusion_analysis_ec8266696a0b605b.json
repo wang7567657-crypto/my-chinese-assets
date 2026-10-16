@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第3課_confusion_analysis_ec8266696a0b605b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "拆",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "拆",
+    "groups": {
+      "shape": [
+        {
+          "char": "折",
+          "why": "外形或主要部件相近。",
+          "difference": "拆右斥比折右斤多一點。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "猜",
+          "why": "讀音比較。",
+          "difference": "拆ㄔㄞ與猜ㄘㄞ近音，聲母不同；拆除不能寫猜除。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "除",
+          "why": "詞義有相關之處，需分辨用法。",
+          "difference": "拆是分開結構，除是去掉；拆除房屋兩字搭配。"
+        }
+      ],
+      "component": [
+        {
+          "char": "斥",
+          "why": "共用或相近部件。",
+          "difference": "拆左有扌，斥沒有扌。"
+        }
+      ]
+    },
+    "tip": "拆右斥比折右斤多一點。請放回課文語詞辨認，不只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

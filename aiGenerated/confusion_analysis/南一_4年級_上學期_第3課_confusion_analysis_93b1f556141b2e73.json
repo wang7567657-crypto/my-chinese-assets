@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第3課_confusion_analysis_93b1f556141b2e73",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "支",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "支",
+    "groups": {
+      "shape": [
+        {
+          "char": "枝",
+          "why": "外形或主要部件相近。",
+          "difference": "枝左木右支；支沒有木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "枝",
+          "why": "讀音比較。",
+          "difference": "支ㄓ與枝ㄓ同音；支持寫支，樹枝寫枝。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "助",
+          "why": "詞義有相關之處，需分辨用法。",
+          "difference": "支持是給予支援或贊同，幫助是提供協助；支也可作量詞，一支筆不能換一助筆。"
+        }
+      ],
+      "component": [
+        {
+          "char": "技",
+          "why": "共用或相近部件。",
+          "difference": "技左扌右支，支沒有扌。"
+        }
+      ]
+    },
+    "tip": "枝左木右支；支沒有木。請放回課文語詞辨認，不只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

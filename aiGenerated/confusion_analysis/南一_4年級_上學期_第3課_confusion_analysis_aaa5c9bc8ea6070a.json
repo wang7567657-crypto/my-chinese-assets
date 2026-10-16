@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第3課_confusion_analysis_aaa5c9bc8ea6070a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "式",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "式",
+    "groups": {
+      "shape": [
+        {
+          "char": "試",
+          "why": "外形或主要部件相近。",
+          "difference": "式外加言字旁成試。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "試",
+          "why": "讀音比較。",
+          "difference": "式ㄕˋ與試ㄕˋ同音；日式是樣式，考試是測驗。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "樣",
+          "why": "詞義有相關之處，需分辨用法。",
+          "difference": "樣式表示形式；樣也可作量詞，如一樣東西，式不能這樣用。"
+        }
+      ],
+      "component": [
+        {
+          "char": "武",
+          "why": "共用或相近部件。",
+          "difference": "外形都有弋形；式內工，武有止形，不可互換。"
+        }
+      ]
+    },
+    "tip": "式外加言字旁成試。請放回課文語詞辨認，不只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

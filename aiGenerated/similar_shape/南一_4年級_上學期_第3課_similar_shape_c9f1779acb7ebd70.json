@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第3課_similar_shape_c9f1779acb7ebd70",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "民",
+    "lessonChars": [
+      "蓮",
+      "式",
+      "士",
+      "拆",
+      "民",
+      "志",
+      "酸",
+      "辣",
+      "存",
+      "靠",
+      "獲",
+      "態",
+      "與",
+      "支",
+      "未"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "民",
+    "similarChars": [
+      {
+        "char": "氏",
+        "similarity": "兩字下半都有斜鉤與橫畫，輪廓相近。",
+        "difference": "民上方有橫折形成的扁框；氏上方從撇起筆，沒有這個框。"
+      },
+      {
+        "char": "抿",
+        "similarity": "抿的右邊就是「民」。",
+        "difference": "抿左邊多了扌；民沒有扌。"
+      },
+      {
+        "char": "泯",
+        "similarity": "泯的右邊就是「民」。",
+        "difference": "泯較少見，左邊多了氵；民沒有氵。"
+      },
+      {
+        "char": "眠",
+        "similarity": "眠的右邊就是「民」。",
+        "difference": "眠左邊多了目；民沒有目字旁。"
+      },
+      {
+        "char": "珉",
+        "similarity": "珉的右邊就是「民」。",
+        "difference": "珉是較少見字，左邊多了王字旁；民沒有王字旁。"
+      },
+      {
+        "char": "岷",
+        "similarity": "岷的右邊就是「民」。",
+        "difference": "岷是較少見字，左邊多了山；民沒有山字旁。"
+      }
+    ],
+    "teachingTip": "先比較民與氏：民上方有橫折圍出的扁框，氏沒有。其餘各字則先遮住左邊，找出右邊的民。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

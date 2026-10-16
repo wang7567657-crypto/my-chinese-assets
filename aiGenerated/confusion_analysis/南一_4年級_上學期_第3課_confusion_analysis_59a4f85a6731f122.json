@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第3課_confusion_analysis_59a4f85a6731f122",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "靠",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "靠",
+    "groups": {
+      "shape": [
+        {
+          "char": "告",
+          "why": "外形或主要部件相近。",
+          "difference": "靠比告下方多非。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "考",
+          "why": "讀音比較。",
+          "difference": "靠ㄎㄠˋ與考ㄎㄠˇ近音，聲調不同；靠近與考試不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "依",
+          "why": "詞義有相關之處，需分辨用法。",
+          "difference": "依靠都可表示倚靠或憑藉；靠近可指接近，不能任意換依近。"
+        }
+      ],
+      "component": [
+        {
+          "char": "非",
+          "why": "共用或相近部件。",
+          "difference": "靠下非，上告；非是其中一部分。"
+        }
+      ]
+    },
+    "tip": "靠比告下方多非。請放回課文語詞辨認，不只憑聲音選字。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}

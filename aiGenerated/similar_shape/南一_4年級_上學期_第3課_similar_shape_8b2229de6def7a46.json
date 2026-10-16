@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第3課_similar_shape_8b2229de6def7a46",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "辣",
+    "lessonChars": [
+      "蓮",
+      "式",
+      "士",
+      "拆",
+      "民",
+      "志",
+      "酸",
+      "辣",
+      "存",
+      "靠",
+      "獲",
+      "態",
+      "與",
+      "支",
+      "未"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課"
+  },
+  "data": {
+    "targetChar": "辣",
+    "similarChars": [
+      {
+        "char": "剌",
+        "similarity": "兩字都含完整的「束」。",
+        "difference": "剌是較少見字，是左束右刂；辣是左辛右束。"
+      },
+      {
+        "char": "賴",
+        "similarity": "兩字都含完整的「束」。",
+        "difference": "辣的束在右、左邊是辛；賴的束在左、右邊是負。"
+      },
+      {
+        "char": "速",
+        "similarity": "兩字都含完整的「束」。",
+        "difference": "辣在束左邊加辛；速在束外面加辶。"
+      },
+      {
+        "char": "束",
+        "similarity": "辣的右邊就是「束」。",
+        "difference": "辣左邊多了辛；束沒有辛。"
+      },
+      {
+        "char": "竦",
+        "similarity": "兩字右邊都是束，左邊上部都有立形。",
+        "difference": "竦是較少見字，左邊是立；辣左邊是辛，在立形下還有橫、豎筆畫。"
+      },
+      {
+        "char": "辛",
+        "similarity": "辣的左邊就是「辛」。",
+        "difference": "辣右邊多了束；辛沒有束。"
+      }
+    ],
+    "teachingTip": "先記「辣＝辛＋束」。特別比較辣和剌：辣的辛在左，剌的刂在右；不要只看見束就認成同一字。"
+  },
+  "createdAt": "2026-10-16T00:43:45.532087Z"
+}
