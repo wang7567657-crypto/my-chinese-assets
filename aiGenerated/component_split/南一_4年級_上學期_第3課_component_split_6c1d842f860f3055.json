@@ -1,0 +1,57 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_4年級_上學期_第3課_component_split_6c1d842f860f3055",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "存",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "data": {
+    "structure": "半包圍",
+    "split": [
+      3,
+      3
+    ],
+    "strokeGroups": [
+      [
+        4,
+        5,
+        6
+      ],
+      [
+        1,
+        2,
+        3
+      ]
+    ],
+    "components": [
+      "子",
+      "其餘部分"
+    ],
+    "strokeCount": 6,
+    "radical": "子",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      4,
+      5,
+      6
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "僅分子部與其餘部分；strokeGroups為1起算，每筆恰好出現一次，保留原字位置與筆順。本次重新下載XML，核對6筆、唯一輪廓、有限合理座標及有效Track，並完成部首分色視覺核對。與main既有字典分組一致，未修改共用字典。",
+    "verification": {
+      "method": "逐筆核對原始XML：6個Stroke，輪廓唯一，座標有限且在合理範圍，Track有效；渲染完整字形，子部第4、5、6筆標紅、其餘標藍，視覺核對；strokeGroups完整覆蓋1–6且無重複。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5b58.xml"
+    }
+  },
+  "createdAt": "2026-10-16T22:40:46.711Z"
+}
