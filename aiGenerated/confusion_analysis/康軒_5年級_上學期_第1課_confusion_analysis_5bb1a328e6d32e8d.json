@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_5bb1a328e6d32e8d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "募",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "募",
+    "groups": {
+      "shape": [
+        {
+          "char": "暮",
+          "why": "上方都是莫",
+          "difference": "募下面力；暮下面日"
+        }
+      ],
+      "sound": [
+        {
+          "char": "幕",
+          "why": "募、幕都讀ㄇㄨˋ，是同音字",
+          "difference": "募集是公開徵求；布幕是物品"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "集",
+          "why": "募集一詞連用",
+          "difference": "募著重徵求；集著重聚攏"
+        }
+      ],
+      "component": [
+        {
+          "char": "力",
+          "why": "募下方有力",
+          "difference": "力是橫折鉤加撇，別換成刀"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_20a5030a4f3267e5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "死",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "死",
+    "groups": {
+      "shape": [
+        {
+          "char": "歹",
+          "why": "左上輪廓相近",
+          "difference": "死除了歹形，右下還有匕"
+        }
+      ],
+      "sound": [
+        {
+          "char": "四",
+          "why": "死ㄙˇ、四ㄙˋ是近音，聲調不同",
+          "difference": "死亡與數字四不可混用"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "亡",
+          "why": "都可表示生命終止",
+          "difference": "死亡連用；亡也見於逃亡，不能處處換成死"
+        }
+      ],
+      "component": [
+        {
+          "char": "匕",
+          "why": "死右下有匕形",
+          "difference": "匕不是七，注意撇與豎彎鉤的位置"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

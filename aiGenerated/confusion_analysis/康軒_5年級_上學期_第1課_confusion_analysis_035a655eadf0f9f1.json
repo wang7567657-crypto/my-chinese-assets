@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_035a655eadf0f9f1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "帳",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "帳",
+    "groups": {
+      "shape": [
+        {
+          "char": "張",
+          "why": "右邊都是長",
+          "difference": "帳左巾，張左弓"
+        }
+      ],
+      "sound": [
+        {
+          "char": "脹",
+          "why": "帳、脹都讀ㄓㄤˋ，是同音字",
+          "difference": "蚊帳是遮罩；腫脹是膨大"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "幕",
+          "why": "都可指遮蔽用布",
+          "difference": "帳可圍起睡眠空間；幕常作垂掛遮擋"
+        }
+      ],
+      "component": [
+        {
+          "char": "長",
+          "why": "共用長部件",
+          "difference": "帳左邊多巾，不能寫成單獨的長"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

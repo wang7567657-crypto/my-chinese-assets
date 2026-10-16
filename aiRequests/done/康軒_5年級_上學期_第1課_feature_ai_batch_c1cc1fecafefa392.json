@@ -1,0 +1,42 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_5年級_上學期_第1課_feature_ai_batch_c1cc1fecafefa392",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 1,
+    "batchCharacters": [
+      "獎"
+    ],
+    "items": [
+      {
+        "taskType": "memory_strategy",
+        "requestId": "康軒_5年級_上學期_第1課_memory_strategy_5f11dc1f43767c6a",
+        "input": {
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級",
+          "char": "獎"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z",
+  "processedAt": "2026-10-16T05:28:46.153062Z",
+  "output": {
+    "status": "done",
+    "completedCount": 1,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/康軒_5年級_上學期_第1課_memory_strategy_5f11dc1f43767c6a.json"
+    ]
+  }
+}

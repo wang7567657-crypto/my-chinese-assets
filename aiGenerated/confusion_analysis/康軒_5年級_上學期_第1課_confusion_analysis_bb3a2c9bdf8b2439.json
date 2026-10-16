@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_bb3a2c9bdf8b2439",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "叮",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "叮",
+    "groups": {
+      "shape": [
+        {
+          "char": "盯",
+          "why": "右邊都是丁",
+          "difference": "叮左口；盯左目"
+        }
+      ],
+      "sound": [
+        {
+          "char": "丁",
+          "why": "叮、丁都讀ㄉㄧㄥ，是同音字",
+          "difference": "叮咬是動作；丁可作姓氏"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "咬",
+          "why": "都可描述用口器作用",
+          "difference": "蚊子叮人是刺吸；咬常指牙齒夾住"
+        }
+      ],
+      "component": [
+        {
+          "char": "丁",
+          "why": "叮有丁部件",
+          "difference": "單獨丁沒有口，叮的口在左"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

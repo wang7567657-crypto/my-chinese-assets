@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_52f4cbf74700c98c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "獎",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "獎",
+    "groups": {
+      "shape": [
+        {
+          "char": "漿",
+          "why": "上方都是將",
+          "difference": "獎下面犬；漿下面水"
+        }
+      ],
+      "sound": [
+        {
+          "char": "講",
+          "why": "獎、講都讀ㄐㄧㄤˇ，是同音字",
+          "difference": "獎狀是表揚；講話是說話"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "賞",
+          "why": "都與表揚給予有關",
+          "difference": "獎常見獎勵、獎狀；賞還能表示欣賞"
+        }
+      ],
+      "component": [
+        {
+          "char": "犬",
+          "why": "獎下方是犬",
+          "difference": "犬比大多一點，這點不能漏"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

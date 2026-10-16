@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_16b738d74b0f95da",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "贈",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "贈",
+    "groups": {
+      "shape": [
+        {
+          "char": "增",
+          "why": "右邊都是曾",
+          "difference": "贈左貝；增左土"
+        }
+      ],
+      "sound": [
+        {
+          "char": "憎",
+          "why": "贈ㄗㄥˋ、憎ㄗㄥ是近音，聲調不同",
+          "difference": "捐贈是給予；憎恨是厭惡"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "送",
+          "why": "都可表示給予",
+          "difference": "贈常用於贈送禮物、捐贈；送還可表示運送"
+        }
+      ],
+      "component": [
+        {
+          "char": "貝",
+          "why": "贈左邊是貝",
+          "difference": "貝下方兩筆要保留，不能寫成目"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_36bdbadc8a3ec428",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "洲",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "洲",
+    "groups": {
+      "shape": [
+        {
+          "char": "州",
+          "why": "都含州形",
+          "difference": "洲比州多左邊氵"
+        }
+      ],
+      "sound": [
+        {
+          "char": "舟",
+          "why": "洲、舟都讀ㄓㄡ，是同音字",
+          "difference": "非洲是洲名；舟是船"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "島",
+          "why": "都可指陸地",
+          "difference": "洲可指大陸或水中陸地；島是四面環水的陸地"
+        }
+      ],
+      "component": [
+        {
+          "char": "州",
+          "why": "州是洲的右部件",
+          "difference": "洲的氵在左側，不是州裡的點"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_6a08e83e13bf4fe5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "誌",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "誌",
+    "groups": {
+      "shape": [
+        {
+          "char": "詩",
+          "why": "左邊都是言",
+          "difference": "誌右志；詩右寺"
+        }
+      ],
+      "sound": [
+        {
+          "char": "志",
+          "why": "誌、志都讀ㄓˋ，是同音字",
+          "difference": "雜誌是刊物；志向是抱負"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "刊",
+          "why": "都與出版物有關",
+          "difference": "誌常見雜誌；刊可指刊物或刊登"
+        }
+      ],
+      "component": [
+        {
+          "char": "志",
+          "why": "誌右邊是志",
+          "difference": "志上士下心，不是寺"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

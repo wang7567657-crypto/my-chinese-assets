@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_60318e8fd3f6c675",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "藏",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "藏",
+    "groups": {
+      "shape": [
+        {
+          "char": "臟",
+          "why": "都含臧",
+          "difference": "臟是在藏的左邊加月（肉），藏本身上方已有艹"
+        }
+      ],
+      "sound": [
+        {
+          "char": "倉",
+          "why": "收藏的藏ㄘㄤˊ、倉ㄘㄤ是近音，聲調不同",
+          "difference": "收藏用藏；倉庫用倉。寶藏的藏另讀ㄗㄤˋ"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "收",
+          "why": "收藏一詞連用",
+          "difference": "收著重收進來；藏著重保存或隱藏"
+        }
+      ],
+      "component": [
+        {
+          "char": "臣",
+          "why": "藏裡有臣形",
+          "difference": "臣不是巨；內部轉折與短豎要看清"
+        }
+      ]
+    },
+    "tip": "課文「收藏」讀ㄘㄤˊ；「寶藏」讀ㄗㄤˋ。先看詞義再選讀音。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}

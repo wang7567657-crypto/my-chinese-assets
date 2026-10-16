@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第1課_confusion_analysis_a00f2ee07309f5ab",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "存",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "存",
+    "groups": {
+      "shape": [
+        {
+          "char": "在",
+          "why": "左上輪廓相近",
+          "difference": "存下方是子；在下方是土"
+        }
+      ],
+      "sound": [
+        {
+          "char": "村",
+          "why": "存ㄘㄨㄣˊ、村ㄘㄨㄣ是近音，聲調不同",
+          "difference": "存錢是保留金錢；村指村落"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "留",
+          "why": "都有保留下來的意思",
+          "difference": "存錢可指儲蓄；留錢可指留下備用，不一定存入銀行"
+        }
+      ],
+      "component": [
+        {
+          "char": "子",
+          "why": "存下方有子",
+          "difference": "子有彎鉤，不能寫成土的豎"
+        }
+      ]
+    },
+    "tip": "先比較字形，再放入課文語詞辨義；同音不代表能互換。"
+  },
+  "createdAt": "2026-10-16T05:28:46.153062Z"
+}
