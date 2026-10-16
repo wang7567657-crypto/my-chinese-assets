@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_725836581f354d65",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "與",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "與",
+    "groups": {
+      "shape": [
+        {
+          "char": "興",
+          "why": "上部兩旁及下部輪廓相近。",
+          "difference": "興中央有同形；與中央筆畫不同，不能照抄興。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "雨",
+          "why": "本課與好友的與ㄩˇ，和雨ㄩˇ同音。",
+          "difference": "與在這裡表示和；雨是天上落下的水。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "和",
+          "why": "都能連接人或事物。",
+          "difference": "與好友可換說和好友；和另可表示和諧，不是每處都能換與。"
+        }
+      ],
+      "component": [
+        {
+          "char": "舉",
+          "why": "上部與與相近。",
+          "difference": "舉下方接向下延伸的筆畫；與底部為向左右分開的筆畫。"
+        }
+      ]
+    },
+    "tip": "本課與好友的與讀ㄩˇ，表示和；參與的與讀ㄩˋ，不要把讀音一律套用。"
+  },
+  "createdAt": "2026-10-16T02:24:48.741696Z"
+}

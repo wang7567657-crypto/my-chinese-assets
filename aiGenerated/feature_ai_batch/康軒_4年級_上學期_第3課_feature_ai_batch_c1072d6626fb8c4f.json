@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_4年級_上學期_第3課_feature_ai_batch_c1072d6626fb8c4f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "社",
+      "邀",
+      "與",
+      "遙",
+      "投",
+      "熟",
+      "巧",
+      "彈",
+      "曾",
+      "揮",
+      "彼",
+      "秒",
+      "喧",
+      "優",
+      "弧"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_825a5dae0ac3ed9c.json",
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_58592d874caddd1b.json",
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_af6f8732b8fca7f1.json",
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_21a53d529404ac1c.json",
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_45143dac68da85b6.json",
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_a710f812ea7352cb.json",
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_a9759f75221ef43f.json",
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_b1c70c351969be25.json",
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_78ba786563b7ad13.json",
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_eb151f8e6d4137ed.json",
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_59d94f9167c80828.json",
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_dcc45880a5617912.json",
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_7d32898612d2ad61.json",
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_5e36dba371add77c.json",
+      "aiGenerated/similar_shape/康軒_4年級_上學期_第3課_similar_shape_1b8a5d7b1f64ef86.json"
+    ]
+  },
+  "createdAt": "2026-10-16T02:24:48.741696Z"
+}

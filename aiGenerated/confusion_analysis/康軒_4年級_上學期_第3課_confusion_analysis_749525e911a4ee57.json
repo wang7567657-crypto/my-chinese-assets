@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_749525e911a4ee57",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "熟",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "熟",
+    "groups": {
+      "shape": [
+        {
+          "char": "熱",
+          "why": "都有下方灬，且上方筆畫繁多。",
+          "difference": "熟上方是孰；熱上方是埶，不能只看灬就認字。"
+        }
+      ],
+      "sound": [],
+      "meaning": [
+        {
+          "char": "練",
+          "why": "熟練中的兩字都與技能有關。",
+          "difference": "練是反覆練習的過程；熟是做得熟悉的狀態。"
+        }
+      ],
+      "component": [
+        {
+          "char": "孰",
+          "why": "熟上方與孰相同。",
+          "difference": "熟下方另有灬；不能寫成只有孰。"
+        }
+      ]
+    },
+    "tip": "本課是熟能生巧，先理解反覆練習會讓技巧進步，再觀察孰和灬的位置。"
+  },
+  "createdAt": "2026-10-16T02:24:48.741696Z"
+}

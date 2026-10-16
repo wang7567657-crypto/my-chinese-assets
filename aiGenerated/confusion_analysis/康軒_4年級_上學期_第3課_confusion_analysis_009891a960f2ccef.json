@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_009891a960f2ccef",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "彼",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "彼",
+    "groups": {
+      "shape": [
+        {
+          "char": "被",
+          "why": "右側都有皮。",
+          "difference": "彼左為彳；被左為衤。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "比",
+          "why": "彼ㄅㄧˇ和比較的比ㄅㄧˇ同音。",
+          "difference": "此起彼落的彼表示那一邊；比較用比。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "此",
+          "why": "此起彼落中兩字形成對照。",
+          "difference": "此指這一邊；彼指那一邊。"
+        }
+      ],
+      "component": [
+        {
+          "char": "皮",
+          "why": "彼右側是皮形。",
+          "difference": "彼左側還有彳；不可把彳寫成衤。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的語詞，再比較偏旁與主體；不要只憑讀音選字。"
+  },
+  "createdAt": "2026-10-16T02:24:48.741696Z"
+}

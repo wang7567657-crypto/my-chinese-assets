@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_d491c6f4d65b0db7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "曾",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "曾",
+    "groups": {
+      "shape": [
+        {
+          "char": "增",
+          "why": "增右邊就是曾形。",
+          "difference": "增左側多土；曾沒有左側土。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "層",
+          "why": "本課不曾的曾ㄘㄥˊ和層ㄘㄥˊ同音。",
+          "difference": "不曾表示沒有過；一層樓的層表示層次。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "經",
+          "why": "曾經的兩字一起表示過去有過。",
+          "difference": "曾可單獨說曾去過；經單獨使用時不一定表示曾經。"
+        }
+      ],
+      "component": [
+        {
+          "char": "曰",
+          "why": "曾最下方為曰形。",
+          "difference": "曰只是下部；中間部分不可誤寫成田。"
+        }
+      ]
+    },
+    "tip": "本課不曾讀ㄅㄨˋ ㄘㄥˊ；曾祖父的曾讀ㄗㄥ。"
+  },
+  "createdAt": "2026-10-16T02:24:48.741696Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_4e3b9dcb9c24ca2e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "遙",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "遙",
+    "groups": {
+      "shape": [
+        {
+          "char": "搖",
+          "why": "兩字右上主體相近。",
+          "difference": "遙用辶承托主體；搖左邊用扌。主體上端依臺灣標準字形核對，不改寫成爫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "搖",
+          "why": "遙和搖都讀ㄧㄠˊ，同音。",
+          "difference": "遙遠用遙；搖動用搖。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "遠",
+          "why": "都能形容距離大。",
+          "difference": "遙常見於遙遠、遙望；遠也能單獨作遠近的遠。"
+        }
+      ],
+      "component": [
+        {
+          "char": "缶",
+          "why": "遙右上部分的下方有缶形。",
+          "difference": "缶只是局部；遙還有缶上方的筆畫和辶。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的語詞，再比較偏旁與主體；不要只憑讀音選字。"
+  },
+  "createdAt": "2026-10-16T02:24:48.741696Z"
+}

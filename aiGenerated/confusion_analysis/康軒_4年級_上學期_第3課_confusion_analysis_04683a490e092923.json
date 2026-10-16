@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第3課_confusion_analysis_04683a490e092923",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "社",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "社",
+    "groups": {
+      "shape": [
+        {
+          "char": "杜",
+          "why": "右側都有土。",
+          "difference": "社左為礻，杜左為木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "舍",
+          "why": "社ㄕㄜˋ和宿舍的舍ㄕㄜˋ同音。",
+          "difference": "籃球社是團體；宿舍是住宿場所。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "團",
+          "why": "都能用來說明群體。",
+          "difference": "社團的社指組織；團也可指聚成一體的一群人。"
+        }
+      ],
+      "component": [
+        {
+          "char": "祀",
+          "why": "左側都有礻。",
+          "difference": "社右是土；祀右是巳，不是土。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的語詞，再比較偏旁與主體；不要只憑讀音選字。"
+  },
+  "createdAt": "2026-10-16T02:24:48.741696Z"
+}
