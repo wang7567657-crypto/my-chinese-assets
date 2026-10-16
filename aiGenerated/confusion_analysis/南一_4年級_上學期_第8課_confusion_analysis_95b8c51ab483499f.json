@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第8課_confusion_analysis_95b8c51ab483499f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "眶",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "眶",
+    "groups": {
+      "shape": [
+        {
+          "char": "框",
+          "why": "字形或共同部件接近，書寫時容易看錯。",
+          "difference": "眶左邊目，框左邊木；右邊同為匡。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "礦",
+          "why": "眶、礦同音ㄎㄨㄤˋ；眼眶與礦石意思不同。",
+          "difference": "依詞語意思選字，不能只憑聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "眼",
+          "why": "詞義或使用情境相關，需要區分。",
+          "difference": "眼指眼睛；眶是眼睛周圍的部位，兩字可合成眼眶。"
+        }
+      ],
+      "component": [
+        {
+          "char": "匡",
+          "why": "含有相同部件，容易增減或換錯。",
+          "difference": "眶右邊是匡，匡的外框為匚、內有王；不是全封閉的囗。"
+        }
+      ]
+    },
+    "tip": "把課文中的詞語與比較詞各讀一次，再指出字形差異。眶、礦同音ㄎㄨㄤˋ；眼眶與礦石意思不同。"
+  },
+  "createdAt": "2026-10-16T06:42:53.967185+00:00"
+}

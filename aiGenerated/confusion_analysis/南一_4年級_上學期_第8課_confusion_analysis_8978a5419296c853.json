@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第8課_confusion_analysis_8978a5419296c853",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "板",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "板",
+    "groups": {
+      "shape": [
+        {
+          "char": "版",
+          "why": "字形或共同部件接近，書寫時容易看錯。",
+          "difference": "板左邊木，版左邊片；右邊都是反。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "版",
+          "why": "板、版同音ㄅㄢˇ；木板用板，出版用版。",
+          "difference": "依詞語意思選字，不能只憑聲音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "片",
+          "why": "詞義或使用情境相關，需要區分。",
+          "difference": "板常指扁平、較硬的物體；片可指薄平的東西，也作量詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "反",
+          "why": "含有相同部件，容易增減或換錯。",
+          "difference": "板的右邊是反，左邊另有木；反不能代替木板的板。"
+        }
+      ]
+    },
+    "tip": "把課文中的詞語與比較詞各讀一次，再指出字形差異。板、版同音ㄅㄢˇ；木板用板，出版用版。"
+  },
+  "createdAt": "2026-10-16T06:42:53.967185+00:00"
+}

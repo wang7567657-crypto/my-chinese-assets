@@ -1,0 +1,51 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第8課_feature_ai_batch_95a21662a2db6a6e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 13,
+    "batchCharacters": [
+      "陣",
+      "披",
+      "嚇",
+      "眶",
+      "乘",
+      "龐",
+      "絲",
+      "板",
+      "辮",
+      "踮",
+      "挺",
+      "散",
+      "里"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 13,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_4年級_上學期_第8課_similar_shape_bbe0872a6388e3cf.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第8課_similar_shape_b3bb585f7a8b4afd.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第8課_similar_shape_74e6b9ff0018acd2.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第8課_similar_shape_2a43effb2e36e50c.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第8課_similar_shape_e8ad24853968efdc.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第8課_similar_shape_77ff5fc05456e4b0.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第8課_similar_shape_868795dc21101d18.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第8課_similar_shape_12b7b624ae53551d.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第8課_similar_shape_283cf533b7a7763b.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第8課_similar_shape_5bb48485d11652c4.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第8課_similar_shape_208e0e663812dfdb.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第8課_similar_shape_3c99e332c832f4d6.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第8課_similar_shape_a5a25595e6d817f8.json"
+    ]
+  },
+  "createdAt": "2026-10-16T06:42:53.967185+00:00"
+}
