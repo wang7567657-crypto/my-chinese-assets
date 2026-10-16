@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_0cda271374c50202",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "臨",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "臨",
+    "groups": {
+      "shape": [
+        {
+          "char": "監",
+          "why": "左邊都有臣，右上輪廓也接近。",
+          "difference": "臨右下有三個口；監下方是皿。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "林",
+          "why": "臨、林同音ㄌㄧㄣˊ。",
+          "difference": "面臨是面對；森林是樹木成群。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "近",
+          "why": "都能表示接近。",
+          "difference": "臨可指面對或來到；近表示距離短。"
+        }
+      ],
+      "component": [
+        {
+          "char": "臣",
+          "why": "臨左邊是臣。",
+          "difference": "臨在臣右邊另有部分；臣可單獨成字。"
+        }
+      ]
+    },
+    "tip": "臨的左臣寫完整，右下三口別寫成皿。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

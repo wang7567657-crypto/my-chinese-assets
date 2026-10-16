@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第5課_memory_strategy_c58153b018608cf1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "稻",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "稻",
+    "components": [
+      "禾（左）",
+      "舀（右，上爫下臼）"
+    ],
+    "association": "記憶聯想：想像稻穗收成後，舀起一匙米來觀察，用禾和舀兩個畫面記住稻。這是記憶故事，不是字源解釋。",
+    "mnemonic": "左禾右舀記住稻，稻穗成熟米來到。",
+    "visualPrompt": "左側保留完整的臺灣標準楷體「稻」，右側畫成熟稻穗及一匙白米，另放「舀」字卡。圖在字旁，不用稻穗取代禾、不用湯匙取代舀的筆畫，完整保留標準字形。",
+    "teachingTip": "先說出禾、舀，再觀察舀上方的爫和下方的臼。臼裡的短橫不要接成一條橫線；與白比較後回到完整稻字，連結稻田、稻穗等詞。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

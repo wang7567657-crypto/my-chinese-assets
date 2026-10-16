@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_8b22eb970a9c23ca",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "坑",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "坑",
+    "groups": {
+      "shape": [
+        {
+          "char": "抗",
+          "why": "右邊都是亢。",
+          "difference": "坑左土；抗左扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鏗",
+          "why": "坑、鏗（鏗鏘）同音ㄎㄥ。",
+          "difference": "坑洞在地面；鏗鏘形容響亮的聲音，鏗是較少見字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "洞",
+          "why": "都可指空穴。",
+          "difference": "坑多指地面凹陷；洞也可貫穿山壁或物體。"
+        }
+      ],
+      "component": [
+        {
+          "char": "杭",
+          "why": "都有亢。",
+          "difference": "坑左土；杭左木，多見地名杭州。"
+        }
+      ]
+    },
+    "tip": "地上坑洞用土旁。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

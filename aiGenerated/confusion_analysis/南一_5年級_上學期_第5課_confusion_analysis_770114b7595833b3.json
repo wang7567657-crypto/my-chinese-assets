@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_770114b7595833b3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "澄",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "澄",
+    "groups": {
+      "shape": [
+        {
+          "char": "橙",
+          "why": "右邊都是登。",
+          "difference": "澄左氵；橙左木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "程",
+          "why": "澄（澄澈）與程同音ㄔㄥˊ。",
+          "difference": "澄澈指清澈；路程指行走的距離。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "清",
+          "why": "都可表示清澈。",
+          "difference": "澄還可讀ㄉㄥˋ表示讓雜質沉下；清也有安靜、明白等意思。"
+        }
+      ],
+      "component": [
+        {
+          "char": "燈",
+          "why": "都有登。",
+          "difference": "澄左氵；燈左火。"
+        }
+      ]
+    },
+    "tip": "澄澈讀ㄔㄥˊ；使雜質沉澱的澄讀ㄉㄥˋ。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

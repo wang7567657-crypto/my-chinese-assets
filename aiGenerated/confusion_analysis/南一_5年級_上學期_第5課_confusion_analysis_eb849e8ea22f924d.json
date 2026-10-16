@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_eb849e8ea22f924d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "陡",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "陡",
+    "groups": {
+      "shape": [
+        {
+          "char": "徒",
+          "why": "都有走的形體。",
+          "difference": "陡左阝；徒左彳。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "斗",
+          "why": "陡、斗（北斗）同音ㄉㄡˇ。",
+          "difference": "陡坡形容坡度大；北斗是星名。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "峭",
+          "why": "都能形容坡勢險峻。",
+          "difference": "陡突出坡度；峭可形容山壁高而險。"
+        }
+      ],
+      "component": [
+        {
+          "char": "阪",
+          "why": "都有左阝。",
+          "difference": "陡右走；阪右反，阪是較少見字，可指山坡。"
+        }
+      ]
+    },
+    "tip": "陡坡的陡，左阝右走。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

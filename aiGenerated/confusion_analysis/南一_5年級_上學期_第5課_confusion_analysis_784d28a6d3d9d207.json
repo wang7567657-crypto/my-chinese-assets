@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_784d28a6d3d9d207",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "醉",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "醉",
+    "groups": {
+      "shape": [
+        {
+          "char": "碎",
+          "why": "右邊都是卒。",
+          "difference": "醉左酉；碎左石。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "最",
+          "why": "醉、最同音ㄗㄨㄟˋ。",
+          "difference": "陶醉是沉浸其中；最好表示程度最高。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "迷",
+          "why": "都可表示沉浸或著迷。",
+          "difference": "醉可指酒醉或陶醉；迷也可指迷路、不明白。"
+        }
+      ],
+      "component": [
+        {
+          "char": "粹",
+          "why": "都有卒。",
+          "difference": "醉左酉；粹左米。"
+        }
+      ]
+    },
+    "tip": "醉的酉裡有短橫，不要寫成西。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

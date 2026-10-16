@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_bb26d110ffb94706",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "斧",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "斧",
+    "groups": {
+      "shape": [
+        {
+          "char": "爺",
+          "why": "都有上方父。",
+          "difference": "斧下斤；爺下耶。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "府",
+          "why": "斧、府同音ㄈㄨˇ。",
+          "difference": "斧頭是工具；政府是行政機關。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "刀",
+          "why": "都是切砍工具。",
+          "difference": "斧通常帶柄，適合劈砍；刀有多種形制用途。"
+        }
+      ],
+      "component": [
+        {
+          "char": "斤",
+          "why": "斧包含斤。",
+          "difference": "斧在斤上加父；斤可單獨成字。"
+        }
+      ]
+    },
+    "tip": "上父下斤，斧頭的斧。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

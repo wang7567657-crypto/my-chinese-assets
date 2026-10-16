@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第5課_memory_strategy_00dd73ee8df67cae",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "崖",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "崖",
+    "components": [
+      "山（上）",
+      "厂（中）",
+      "圭（下，兩個土）"
+    ],
+    "association": "記憶聯想：把上方的山、下面的厂形和兩個土想成高山邊緣的層層地形，用來記住山崖的樣子。這是記憶故事，不是字源解釋。",
+    "mnemonic": "山下厂裡兩個土，高高山崖看清楚。",
+    "visualPrompt": "左側保留完整的臺灣標準楷體「崖」，右側畫高地邊緣向下陡落的山崖側面，使用兩層土色帶作聯想。圖在字旁，不把字直接改造成山崖；山、厂、圭的原筆畫完整保留。",
+    "teachingTip": "由上往下找山、厂、圭，觀察圭的兩個土上下排列；對照範字確認山在最上方。可與「涯」比較，指出崖有山、涯有三點水。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_b983cc6a53c386b7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "躍",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "躍",
+    "groups": {
+      "shape": [
+        {
+          "char": "躒",
+          "why": "都是左足右邊密集的左右結構。",
+          "difference": "躍右翟；躒右樂，躒是較少見字。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "月",
+          "why": "躍、月同音ㄩㄝˋ。",
+          "difference": "跳躍是跳起；月可指月亮或月份。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "跳",
+          "why": "都與腳離地有關。",
+          "difference": "躍常用於跳躍、飛躍；跳還有心跳等用法。"
+        }
+      ],
+      "component": [
+        {
+          "char": "耀",
+          "why": "都有翟。",
+          "difference": "躍左足；耀左光。"
+        }
+      ]
+    },
+    "tip": "跳躍用足旁，不寫成光旁。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_e6b6d7890e495d2c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "凹",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "凹",
+    "groups": {
+      "shape": [
+        {
+          "char": "凸",
+          "why": "都是有轉折的封閉外框。",
+          "difference": "凹上緣向內陷；凸上緣向外突出。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "拗",
+          "why": "凹ㄠ與拗（拗口）ㄠˋ近音，聲調不同。",
+          "difference": "凹說表面下陷；拗口說念起來不順。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "陷",
+          "why": "都可能表示向內或向下。",
+          "difference": "凹形容低下的形狀；陷可指掉入或沉入。"
+        }
+      ],
+      "component": [
+        {
+          "char": "口",
+          "why": "都有封閉輪廓。",
+          "difference": "凹上方有凹入轉折；口是普通方框。"
+        }
+      ]
+    },
+    "tip": "用手沿外框比出向內凹，不自行增線。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

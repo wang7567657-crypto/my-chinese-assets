@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_6edd8dcf33f484a3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蕾",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蕾",
+    "groups": {
+      "shape": [
+        {
+          "char": "雷",
+          "why": "都有雷。",
+          "difference": "蕾比雷多上方艹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "累",
+          "why": "蕾ㄌㄟˇ與累（積累）ㄌㄟˇ同音。",
+          "difference": "花蕾是未開的花；積累是逐漸累積。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "芽",
+          "why": "都是植物生長部位。",
+          "difference": "蕾是未開的花；芽可長成枝葉等。"
+        }
+      ],
+      "component": [
+        {
+          "char": "蕊",
+          "why": "都有艹。",
+          "difference": "蕾下雷；蕊下惢（三個心）。"
+        }
+      ]
+    },
+    "tip": "花蕾：草字頭下藏一個雷。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

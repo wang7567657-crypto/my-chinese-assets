@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_0ac70142d2da5dc5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "凸",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "凸",
+    "groups": {
+      "shape": [
+        {
+          "char": "凹",
+          "why": "都有折角外框。",
+          "difference": "凸中央向上突出；凹上方往內陷。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "突",
+          "why": "凸、突同音ㄊㄨˊ。",
+          "difference": "凸指高出表面；突可指突然或衝出。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "隆",
+          "why": "都能描述高起。",
+          "difference": "凸指局部突出；隆常見隆起，也有盛大的意思。"
+        }
+      ],
+      "component": [
+        {
+          "char": "口",
+          "why": "都是封閉形體。",
+          "difference": "凸上方多出一個凸起輪廓；口四邊較單純。"
+        }
+      ]
+    },
+    "tip": "凸出向外，凹陷向內。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}

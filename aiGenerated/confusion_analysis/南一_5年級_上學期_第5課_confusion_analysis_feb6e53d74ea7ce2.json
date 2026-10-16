@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第5課_confusion_analysis_feb6e53d74ea7ce2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "駛",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "駛",
+    "groups": {
+      "shape": [
+        {
+          "char": "使",
+          "why": "右半都有方框與向下伸出的斜筆，外觀接近。",
+          "difference": "駛是馬加史；使是亻加吏，吏上方比史多一橫，左右兩部分都不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "史",
+          "why": "駛、史同音ㄕˇ。",
+          "difference": "行駛是車船前進；歷史記錄過去。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "行",
+          "why": "都可說移動。",
+          "difference": "駛常用於車船；行可指人走路或進行。"
+        }
+      ],
+      "component": [
+        {
+          "char": "駐",
+          "why": "都有馬部。",
+          "difference": "駛右邊是史；駐右邊是主。"
+        }
+      ]
+    },
+    "tip": "行駛用馬部，使用用亻。 本資料使用通用詞語，不代稱尚未核實的本課語境。"
+  },
+  "createdAt": "2026-10-16T15:47:50.974201Z"
+}
