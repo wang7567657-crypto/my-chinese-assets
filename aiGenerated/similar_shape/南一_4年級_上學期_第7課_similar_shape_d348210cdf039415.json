@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第7課_similar_shape_d348210cdf039415",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "禁",
+    "lessonChars": [
+      "育",
+      "晴",
+      "陶",
+      "目",
+      "芒",
+      "返",
+      "劇",
+      "斗",
+      "索",
+      "禁",
+      "渡",
+      "念",
+      "麵",
+      "統",
+      "值"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "禁",
+    "similarChars": [
+      {
+        "char": "林",
+        "similarity": "都有兩個木",
+        "difference": "禁在林下多示"
+      },
+      {
+        "char": "森",
+        "similarity": "都有多個木形部件",
+        "difference": "禁上林下示，森上木下林"
+      },
+      {
+        "char": "焚",
+        "similarity": "上方都有林",
+        "difference": "禁下示，焚下火"
+      },
+      {
+        "char": "楚",
+        "similarity": "上方都有林",
+        "difference": "禁下示，楚下疋"
+      },
+      {
+        "char": "襟",
+        "similarity": "都含禁",
+        "difference": "襟左多衤"
+      },
+      {
+        "char": "噤",
+        "similarity": "都含禁",
+        "difference": "噤左多口；噤較少見"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再指認不同部件的位置；少見字只作字形觀察，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

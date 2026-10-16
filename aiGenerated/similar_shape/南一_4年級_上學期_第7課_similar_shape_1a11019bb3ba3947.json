@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第7課_similar_shape_1a11019bb3ba3947",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "目",
+    "lessonChars": [
+      "育",
+      "晴",
+      "陶",
+      "目",
+      "芒",
+      "返",
+      "劇",
+      "斗",
+      "索",
+      "禁",
+      "渡",
+      "念",
+      "麵",
+      "統",
+      "值"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "目",
+    "similarChars": [
+      {
+        "char": "日",
+        "similarity": "直立方框內有橫",
+        "difference": "目內兩橫，日內一橫"
+      },
+      {
+        "char": "自",
+        "similarity": "都有目形",
+        "difference": "自上多一撇"
+      },
+      {
+        "char": "且",
+        "similarity": "都有直立框與內橫",
+        "difference": "且最下橫向兩側伸出"
+      },
+      {
+        "char": "白",
+        "similarity": "都有框形與內橫",
+        "difference": "白上多撇、內一橫；目內兩橫"
+      },
+      {
+        "char": "田",
+        "similarity": "都有封閉方框",
+        "difference": "田內十字，目內兩橫"
+      },
+      {
+        "char": "冒",
+        "similarity": "都含目",
+        "difference": "冒在目上另有部件"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再指認不同部件的位置；少見字只作字形觀察，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

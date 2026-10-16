@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第7課_memory_strategy_646e588179631c8b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "麵",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "麵",
+    "components": [
+      "麥",
+      "面"
+    ],
+    "association": "看師傅用麵糰捏出人物，把捏麵人的畫面與左麥右面連起來。",
+    "mnemonic": "麥站左，面站右，捏麵人物真靈巧。",
+    "visualPrompt": "畫師傅用彩色麵糰捏麵人，旁邊獨立放標準繁體字『麵』。左麥右面分色，保留麥的所有筆畫，不使用簡化字。",
+    "teachingTip": "本課使用繁體字麵。左邊麥連結麵粉的材料，右邊面協助讀音；比較麵與面，捏麵人的麵不能少麥。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

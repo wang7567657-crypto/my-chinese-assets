@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第7課_similar_shape_d97e23eb62d85c0e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "索",
+    "lessonChars": [
+      "育",
+      "晴",
+      "陶",
+      "目",
+      "芒",
+      "返",
+      "劇",
+      "斗",
+      "索",
+      "禁",
+      "渡",
+      "念",
+      "麵",
+      "統",
+      "值"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課"
+  },
+  "data": {
+    "targetChar": "索",
+    "similarChars": [
+      {
+        "char": "素",
+        "similarity": "下方都有糸",
+        "difference": "索上十與冖，素上龶形"
+      },
+      {
+        "char": "累",
+        "similarity": "下方都有糸",
+        "difference": "索上十與冖，累上田"
+      },
+      {
+        "char": "紫",
+        "similarity": "下方都有糸",
+        "difference": "索上十與冖，紫上此"
+      },
+      {
+        "char": "緊",
+        "similarity": "下方都有糸",
+        "difference": "索上十與冖，緊上臤"
+      },
+      {
+        "char": "紊",
+        "similarity": "下方都有糸",
+        "difference": "索上十與冖，紊上文；紊較少見"
+      },
+      {
+        "char": "系",
+        "similarity": "都有糸形",
+        "difference": "索上十與冖，系上為撇"
+      }
+    ],
+    "teachingTip": "先比較共同部件，再指認不同部件的位置；少見字只作字形觀察，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

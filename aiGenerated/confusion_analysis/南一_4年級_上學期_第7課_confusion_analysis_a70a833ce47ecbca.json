@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第7課_confusion_analysis_a70a833ce47ecbca",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "念",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "念",
+    "groups": {
+      "shape": [
+        {
+          "char": "今",
+          "why": "都有今",
+          "difference": "念下多心"
+        }
+      ],
+      "sound": [
+        {
+          "char": "唸",
+          "why": "同音，紀念的念與唸書的唸都讀ㄋㄧㄢˋ。",
+          "difference": "紀念用念，唸書的唸有口旁"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "想",
+          "why": "念有思念的意思，想也可指思考",
+          "difference": "紀念品是固定詞，不能改成紀想品"
+        }
+      ],
+      "component": [
+        {
+          "char": "今",
+          "why": "比較共同部件及其位置。都有今",
+          "difference": "念下多心"
+        }
+      ]
+    },
+    "tip": "把字放回課文詞語，再比較字形、讀音與意思。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

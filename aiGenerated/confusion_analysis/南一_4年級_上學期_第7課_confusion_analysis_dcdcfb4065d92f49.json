@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第7課_confusion_analysis_dcdcfb4065d92f49",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "麵",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "麵",
+    "groups": {
+      "shape": [
+        {
+          "char": "麥",
+          "why": "都有麥",
+          "difference": "麵右多面"
+        }
+      ],
+      "sound": [
+        {
+          "char": "面",
+          "why": "同音，捏麵人的麵與面孔的面都讀ㄇㄧㄢˋ。",
+          "difference": "麵與麵粉麵食有關，面可指臉或表面"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "粉",
+          "why": "麵可指麵條或麵粉相關製品，粉是細碎顆粒",
+          "difference": "麵粉兩字搭配，所有粉末不都是麵粉"
+        }
+      ],
+      "component": [
+        {
+          "char": "麥",
+          "why": "比較共同部件及其位置。都有麥",
+          "difference": "麵右多面"
+        }
+      ]
+    },
+    "tip": "把字放回課文詞語，再比較字形、讀音與意思。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

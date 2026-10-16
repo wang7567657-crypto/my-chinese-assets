@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第7課_confusion_analysis_0fa356126a0ece89",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "渡",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "渡",
+    "groups": {
+      "shape": [
+        {
+          "char": "度",
+          "why": "都含度",
+          "difference": "渡左氵，度沒有氵"
+        }
+      ],
+      "sound": [
+        {
+          "char": "度",
+          "why": "同音，渡船的渡與程度的度都讀ㄉㄨˋ。",
+          "difference": "渡和過水有關，度可說程度或度數"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "過",
+          "why": "渡常指越過水域，過的適用範圍較廣",
+          "difference": "渡河可以說過河，過生日不能寫渡生日"
+        }
+      ],
+      "component": [
+        {
+          "char": "度",
+          "why": "比較共同部件及其位置。都含度",
+          "difference": "渡左氵，度沒有氵"
+        }
+      ]
+    },
+    "tip": "把字放回課文詞語，再比較字形、讀音與意思。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

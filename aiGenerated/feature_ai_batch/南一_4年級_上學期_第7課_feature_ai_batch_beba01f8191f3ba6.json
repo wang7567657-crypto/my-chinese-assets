@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第7課_feature_ai_batch_beba01f8191f3ba6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "育",
+      "晴",
+      "陶",
+      "目",
+      "芒",
+      "返",
+      "劇",
+      "斗",
+      "索",
+      "禁",
+      "渡",
+      "念",
+      "麵",
+      "統",
+      "值"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_197f686b1ae68bab.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_85a355d748259a69.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_692d8a241f9d4c7a.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_1a11019bb3ba3947.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_7d99a46efdba2e16.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_afdb339a0727704f.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_6bc2776c05813ad5.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_6239bfd35b0fbdfa.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_d97e23eb62d85c0e.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_d348210cdf039415.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_d404b15fbdfd779a.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_6ca763b332e0f31c.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_106db80f4398b63e.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_a8cf6c7087de567d.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第7課_similar_shape_c0c1ffe089c72208.json"
+    ]
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

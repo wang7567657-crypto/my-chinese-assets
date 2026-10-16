@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第7課_confusion_analysis_87d69f1546c46f2f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "育",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "育",
+    "groups": {
+      "shape": [
+        {
+          "char": "肩",
+          "why": "下方都有月形",
+          "difference": "肩上是戶，育上不是戶"
+        }
+      ],
+      "sound": [
+        {
+          "char": "玉",
+          "why": "同音，教育的育與玉石的玉都讀ㄩˋ",
+          "difference": "育指培養，玉是玉石"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "養",
+          "why": "育偏重培養與教育，養也可指供給生活所需",
+          "difference": "教育與養育相關，不能一律互換"
+        }
+      ],
+      "component": [
+        {
+          "char": "肩",
+          "why": "比較共同部件及其位置。下方都有月形",
+          "difference": "肩上是戶，育上不是戶"
+        }
+      ]
+    },
+    "tip": "把字放回課文詞語，再比較字形、讀音與意思。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

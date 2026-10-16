@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第7課_confusion_analysis_2ebd755f13f5b3fa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "統",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "統",
+    "groups": {
+      "shape": [
+        {
+          "char": "充",
+          "why": "都含充",
+          "difference": "統左多糹"
+        }
+      ],
+      "sound": [
+        {
+          "char": "桶",
+          "why": "同音，傳統的統與水桶的桶都讀ㄊㄨㄥˇ。",
+          "difference": "統可指統合或傳承系統，桶是容器"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "合",
+          "why": "統一著重成為一致，合在一起不一定統一",
+          "difference": "統合相關，傳統不能改成傳合"
+        }
+      ],
+      "component": [
+        {
+          "char": "充",
+          "why": "比較共同部件及其位置。都含充",
+          "difference": "統左多糹"
+        }
+      ]
+    },
+    "tip": "把字放回課文詞語，再比較字形、讀音與意思。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}

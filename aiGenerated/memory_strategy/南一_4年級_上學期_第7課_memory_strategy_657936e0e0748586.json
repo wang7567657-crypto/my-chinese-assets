@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第7課_memory_strategy_657936e0e0748586",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "晴",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "晴",
+    "components": [
+      "日",
+      "青"
+    ],
+    "association": "晴朗的天空有太陽，太陽讓人想到日字旁；右邊的青協助記住字形。",
+    "mnemonic": "日站左，青站右，晴朗出遊好時候。",
+    "visualPrompt": "畫晴朗天空下的傳藝園區，太陽在天空中。圖旁另列標準繁體字『晴』，左日右青分色，字形完整且不變形。",
+    "teachingTip": "用晴朗、清水、心情比較晴、清、情；依詞義分辨日、氵、忄，三字右邊都是青。"
+  },
+  "createdAt": "2026-10-16T05:49:09.040291+00:00"
+}
