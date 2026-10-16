@@ -1,0 +1,272 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_4年級_上學期_第1課_feature_ai_batch_1df3eec386ff2de2",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 15,
+    "batchCharacters": [
+      "泳",
+      "串",
+      "般",
+      "姿",
+      "溜",
+      "耳",
+      "鷹",
+      "滑",
+      "遨",
+      "緩",
+      "陀",
+      "螺",
+      "轉",
+      "躍",
+      "煩"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_bab7883c42d90819",
+        "input": {
+          "char": "泳",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_68a49e464e809021",
+        "input": {
+          "char": "串",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_7de7716902747ce9",
+        "input": {
+          "char": "般",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_01abe2b55d42cec9",
+        "input": {
+          "char": "姿",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_8fbf3a483009332b",
+        "input": {
+          "char": "溜",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_a8476e986883b9ee",
+        "input": {
+          "char": "耳",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_fed5cd7d2879ccd5",
+        "input": {
+          "char": "鷹",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_10ba5e9ff80250fc",
+        "input": {
+          "char": "滑",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_3e50ba5f7dcd753c",
+        "input": {
+          "char": "遨",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_32a7452e979235a5",
+        "input": {
+          "char": "緩",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_35f7d598ce5ad2f2",
+        "input": {
+          "char": "陀",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_6dbfb81ebd4138cd",
+        "input": {
+          "char": "螺",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_79fc0163eeb654dd",
+        "input": {
+          "char": "轉",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_dc4020b514b093dd",
+        "input": {
+          "char": "躍",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_f8841c127cbf3414",
+        "input": {
+          "char": "煩",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第1課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-16T00:28:11.087645Z",
+  "processedAt": "2026-10-16T00:28:11.087645Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "康軒_4年級_上學期_第1課_feature_ai_batch_1df3eec386ff2de2",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "康軒",
+      "grade": "4年級",
+      "semester": "上學期",
+      "lesson": "第1課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 15,
+      "batchCharacters": [
+        "泳",
+        "串",
+        "般",
+        "姿",
+        "溜",
+        "耳",
+        "鷹",
+        "滑",
+        "遨",
+        "緩",
+        "陀",
+        "螺",
+        "轉",
+        "躍",
+        "煩"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 15,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_bab7883c42d90819.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_68a49e464e809021.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_7de7716902747ce9.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_01abe2b55d42cec9.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_8fbf3a483009332b.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_a8476e986883b9ee.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_fed5cd7d2879ccd5.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_10ba5e9ff80250fc.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_3e50ba5f7dcd753c.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_32a7452e979235a5.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_35f7d598ce5ad2f2.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_6dbfb81ebd4138cd.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_79fc0163eeb654dd.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_dc4020b514b093dd.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第1課_confusion_analysis_f8841c127cbf3414.json"
+      ]
+    },
+    "createdAt": "2026-10-16T00:28:11.087645Z"
+  }
+}

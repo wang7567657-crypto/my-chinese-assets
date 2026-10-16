@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_35f7d598ce5ad2f2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "陀",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "陀",
+    "groups": {
+      "shape": [
+        {
+          "char": "院",
+          "why": "兩字都有左耳旁，右上也都有「宀」，容易混淆右下。",
+          "difference": "「陀」右邊是「它」；「院」右邊是「完」，下方明顯有「元」。先分清「它」與「完」，再加左耳旁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "駝",
+          "why": "同音：「陀」和「駝」都讀ㄊㄨㄛˊ。",
+          "difference": "玩具「陀螺」用左耳旁的「陀」；動物「駱駝」用馬字旁的「駝」。不能只憑同音選字。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "駝",
+          "why": "兩字右邊都是「它」，左邊不同。",
+          "difference": "「陀」是「阝＋它」；「駝」是「馬＋它」。記住「陀螺」的第一個字左邊是「阝」。"
+        }
+      ]
+    },
+    "tip": "「陀螺」讀ㄊㄨㄛˊ ㄌㄨㄛˊ；玩具用「陀」，駱駝才用馬字旁的「駝」。"
+  },
+  "createdAt": "2026-10-16T00:28:11.087645Z"
+}

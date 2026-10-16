@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第1課_confusion_analysis_6dbfb81ebd4138cd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "螺",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "螺",
+    "groups": {
+      "shape": [
+        {
+          "char": "累",
+          "why": "「螺」右邊就是「累」，容易漏掉左邊。",
+          "difference": "「螺」有虫字旁，如「陀螺」；「累」沒有虫字旁，如「疲累」。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "羅",
+          "why": "同音：「螺」和「羅」都讀ㄌㄨㄛˊ。",
+          "difference": "「陀螺、海螺」用「螺」；「羅列、姓羅」用「羅」。寫玩具名稱時不能寫成「陀羅」。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "騾",
+          "why": "兩字共用「累」部件，左邊不同。",
+          "difference": "「螺」左邊是「虫」；「騾」左邊是「馬」，如「騾子」。本課的「陀螺」要用虫字旁。"
+        }
+      ]
+    },
+    "tip": "陀螺的「螺」是左虫右累；右上是「田」，右下是「糸」，兩部分都要寫。"
+  },
+  "createdAt": "2026-10-16T00:28:11.087645Z"
+}
