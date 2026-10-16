@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_3df4cc9a4f4ad57e",
+  "input": {
+    "char": "昏",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "昏",
+    "groups": {
+      "shape": [
+        {
+          "char": "婚",
+          "why": "「婚」包含完整的昏。",
+          "difference": "「昏」上氏下日；「婚」左邊多女，見於結婚。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "婚",
+          "why": "同音：昏、婚都讀ㄏㄨㄣ。",
+          "difference": "昏迷、黃昏用昏；結婚、婚禮用婚。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "暗",
+          "why": "黃昏的光線變暗，容易把相近意思混為同一個字。",
+          "difference": "「黃昏」是傍晚的時段；「黑暗」描述缺少光線。「昏迷」也不能寫成暗迷。"
+        }
+      ],
+      "component": [
+        {
+          "char": "氏",
+          "why": "「氏」是昏的上半部。",
+          "difference": "昏上方是氏，下面還有日；別在氏下面加點寫成氐。"
+        }
+      ]
+    },
+    "tip": "用「黃昏時天色變暗」與「他一度昏迷」說明兩種用法；昏都讀ㄏㄨㄣ。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第12課_similar_shape_9d74f639659076ea",
+  "input": {
+    "targetChar": "捲",
+    "lessonChars": [
+      "烈",
+      "暈",
+      "昏",
+      "艙",
+      "途",
+      "捲",
+      "喪",
+      "獸",
+      "渾",
+      "擱",
+      "礁",
+      "筏",
+      "塌",
+      "捏",
+      "燒",
+      "臼",
+      "烤",
+      "爐",
+      "欲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "捲",
+    "similarChars": [
+      {
+        "char": "卷",
+        "similarity": "共用卷",
+        "difference": "捲在卷左多扌。"
+      },
+      {
+        "char": "倦",
+        "similarity": "共用卷",
+        "difference": "捲左扌，倦左亻。"
+      },
+      {
+        "char": "蜷",
+        "similarity": "共用卷",
+        "difference": "捲左扌，蜷左虫。"
+      },
+      {
+        "char": "眷",
+        "similarity": "右部卷與眷上方形近",
+        "difference": "捲右下是㔾形，眷下是目，眷無扌。"
+      },
+      {
+        "char": "拳",
+        "similarity": "共有上方卷字頭形",
+        "difference": "捲左扌右卷，拳上同形下手。"
+      },
+      {
+        "char": "券",
+        "similarity": "共有上方卷字頭形",
+        "difference": "捲右下是㔾形，券下刀且沒有扌。"
+      }
+    ],
+    "teachingTip": "先在「捲」圈出共同部件，再逐字比較部件位置及增減的筆形；少見字只供辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

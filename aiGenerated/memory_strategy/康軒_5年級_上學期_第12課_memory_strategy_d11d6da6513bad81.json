@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第12課_memory_strategy_d11d6da6513bad81",
+  "input": {
+    "char": "礁",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "礁",
+    "components": [
+      "石（左）",
+      "焦（右）"
+    ],
+    "association": "記憶聯想：想到船邊一塊深色礁石，像被燒焦的顏色，幫助連結石與焦；顏色只是助記，不代表所有礁石都是黑色，也不是字源。",
+    "mnemonic": "左石右焦記礁岩，船行水上要看清。",
+    "visualPrompt": "畫船旁水中露出一部分的礁岩，用水線表現露出與藏在水下的部分；旁邊獨立排放「礁」標準字形，石旁清楚。",
+    "teachingTip": "指出礁是岩石而非火，避免受右邊焦影響而漏寫石旁；再與香蕉的蕉並排辨旁。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

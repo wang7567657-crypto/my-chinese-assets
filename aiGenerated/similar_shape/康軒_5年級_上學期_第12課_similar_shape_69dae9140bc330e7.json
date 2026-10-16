@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第12課_similar_shape_69dae9140bc330e7",
+  "input": {
+    "targetChar": "途",
+    "lessonChars": [
+      "烈",
+      "暈",
+      "昏",
+      "艙",
+      "途",
+      "捲",
+      "喪",
+      "獸",
+      "渾",
+      "擱",
+      "礁",
+      "筏",
+      "塌",
+      "捏",
+      "燒",
+      "臼",
+      "烤",
+      "爐",
+      "欲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "途",
+    "similarChars": [
+      {
+        "char": "塗",
+        "similarity": "共用余",
+        "difference": "途以辶托余，塗為涂下加土。"
+      },
+      {
+        "char": "徐",
+        "similarity": "右側同有余",
+        "difference": "途旁辶，徐旁彳。"
+      },
+      {
+        "char": "除",
+        "similarity": "右側同有余",
+        "difference": "途旁辶，除左阝。"
+      },
+      {
+        "char": "荼",
+        "similarity": "共用余",
+        "difference": "途外辶，荼上艹；荼較少見，勿寫成茶。"
+      },
+      {
+        "char": "逾",
+        "similarity": "外側同有辶",
+        "difference": "途內余，逾內俞。"
+      },
+      {
+        "char": "述",
+        "similarity": "外側同有辶",
+        "difference": "途內余有上方人形，述內朮有右上點。"
+      }
+    ],
+    "teachingTip": "先在「途」圈出共同部件，再逐字比較部件位置及增減的筆形；少見字只供辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

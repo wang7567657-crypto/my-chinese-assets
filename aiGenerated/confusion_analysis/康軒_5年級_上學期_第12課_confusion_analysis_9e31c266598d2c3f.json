@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_9e31c266598d2c3f",
+  "input": {
+    "char": "擱",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "擱",
+    "groups": {
+      "shape": [
+        {
+          "char": "閣",
+          "why": "擱的右邊就是閣。",
+          "difference": "擱左邊多扌，如擱置、擱淺；閣沒有扌，如閣樓。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "哥",
+          "why": "同音：擱淺的擱、哥哥的哥都讀ㄍㄜ。",
+          "difference": "船擱淺用擱；稱呼哥哥用哥。不可把閣樓的閣ㄍㄜˊ讀音直接套到擱淺。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "停",
+          "why": "擱淺時船會停下，容易只記成「停止」。",
+          "difference": "停船可以是主動停止航行；擱淺是船受到淺水、沙石等阻礙而不能前進。"
+        }
+      ],
+      "component": [
+        {
+          "char": "擦",
+          "why": "左邊都是扌。",
+          "difference": "擱的右邊是閣；擦的右邊是察。手旁只能提供部分線索，還要看右半。"
+        }
+      ]
+    },
+    "tip": "先用「把書擱在桌上」理解放置，再用淺水中的船理解「擱淺」，連讀ㄍㄜ ㄑㄧㄢˇ。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

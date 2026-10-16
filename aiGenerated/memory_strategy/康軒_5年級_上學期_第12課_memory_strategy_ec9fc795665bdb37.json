@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第12課_memory_strategy_ec9fc795665bdb37",
+  "input": {
+    "char": "途",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "途",
+    "components": [
+      "余（內側）",
+      "辶（左下）"
+    ],
+    "association": "記憶聯想：把辶想成延伸的路線，陪著余一起往目的地前進；這是位置與語義的助記，不是字源。",
+    "mnemonic": "余搭辶向前走，一段旅途慢慢走。",
+    "visualPrompt": "畫一條由海岸通往營地的小路，設置出發、途中、到達三個位置；旁邊獨立排放「途」標準字形，保留辶在左下的標準位置。",
+    "teachingTip": "讓學生沿路線指認途中，口說「旅途的途有辶」；以塗色的塗作對照。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

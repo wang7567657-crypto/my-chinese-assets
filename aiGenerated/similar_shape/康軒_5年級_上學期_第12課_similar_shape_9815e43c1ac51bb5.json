@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第12課_similar_shape_9815e43c1ac51bb5",
+  "input": {
+    "targetChar": "烈",
+    "lessonChars": [
+      "烈",
+      "暈",
+      "昏",
+      "艙",
+      "途",
+      "捲",
+      "喪",
+      "獸",
+      "渾",
+      "擱",
+      "礁",
+      "筏",
+      "塌",
+      "捏",
+      "燒",
+      "臼",
+      "烤",
+      "爐",
+      "欲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "烈",
+    "similarChars": [
+      {
+        "char": "列",
+        "similarity": "共用列",
+        "difference": "烈在列下另有灬。"
+      },
+      {
+        "char": "裂",
+        "similarity": "上方同是列",
+        "difference": "烈下灬，裂下衣。"
+      },
+      {
+        "char": "洌",
+        "similarity": "共用列",
+        "difference": "烈把灬放下方，洌把氵放左方；洌較少見。"
+      },
+      {
+        "char": "例",
+        "similarity": "共用列",
+        "difference": "烈下灬，例左亻。"
+      },
+      {
+        "char": "煎",
+        "similarity": "下方都有灬",
+        "difference": "烈上列，煎上前。"
+      },
+      {
+        "char": "熱",
+        "similarity": "下方都有灬",
+        "difference": "烈上列，熱上埶，右上不是刂。"
+      }
+    ],
+    "teachingTip": "先在「烈」圈出共同部件，再逐字比較部件位置及增減的筆形；少見字只供辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

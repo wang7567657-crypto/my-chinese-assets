@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_b09f01946099ab10",
+  "input": {
+    "char": "途",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "途",
+    "groups": {
+      "shape": [
+        {
+          "char": "塗",
+          "why": "都能看到余，但外圍結構不同。",
+          "difference": "途有辶，如旅途；塗有氵且下方有土，如塗色。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "圖",
+          "why": "同音：途、圖都讀ㄊㄨˊ。",
+          "difference": "旅途、中途用途；地圖、圖畫用圖。可說「看著地圖，規畫旅途」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "路",
+          "why": "途、路都有道路或行程的意思。",
+          "difference": "「路」常可單獨說一條路；「途」常見於旅途、途中、用途，須看完整語詞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "徐",
+          "why": "都含余。",
+          "difference": "途配辶；徐配彳，如徐徐。不要只記住余，漏看走路相關偏旁的位置。"
+        }
+      ]
+    },
+    "tip": "沿一條路線指讀「出發、途中、到達」，把「途中」與「塗色」配對到不同畫面。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_541aa0e9183a10f8",
+  "input": {
+    "char": "烤",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "烤",
+    "groups": {
+      "shape": [
+        {
+          "char": "拷",
+          "why": "右邊都是考，左旁容易混寫。",
+          "difference": "烤配火旁，如烤爐；拷配扌，如拷貝。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "考",
+          "why": "同音：烤、考都讀ㄎㄠˇ。",
+          "difference": "烤麵包用烤；考試、思考用考。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "煮",
+          "why": "兩字都是烹調方法。",
+          "difference": "烤通常利用乾熱烘熟食物；煮常把食物放進水或湯中加熱。"
+        }
+      ],
+      "component": [
+        {
+          "char": "烘",
+          "why": "左邊都是火旁，也都能出現在加熱的語詞中。",
+          "difference": "烤右邊是考；烘右邊是共，如烘乾。不能只憑火旁選字。"
+        }
+      ]
+    },
+    "tip": "對照「烤麵包」與「煮麵」，指出材料怎麼受熱；書寫時左火右考。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

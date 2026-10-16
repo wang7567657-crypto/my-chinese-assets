@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_0bfc5f5b74ec8ad9",
+  "input": {
+    "char": "欲",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "欲",
+    "groups": {
+      "shape": [
+        {
+          "char": "浴",
+          "why": "兩字都含谷。",
+          "difference": "欲是左谷右欠；浴是左氵右谷，如沐浴。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "玉",
+          "why": "同音：欲、玉都讀ㄩˋ。",
+          "difference": "欲望、躍躍欲試用欲；玉石、美玉用玉。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "想",
+          "why": "欲常有想要的意思。",
+          "difference": "躍躍欲試是非常想試試看；想還能表示思考，如想辦法，不能處處換成欲。"
+        }
+      ],
+      "component": [
+        {
+          "char": "歌",
+          "why": "右邊都是欠。",
+          "difference": "欲左邊是谷；歌左邊是哥。記右半欠之後，還要配對正確左半。"
+        }
+      ]
+    },
+    "tip": "把「躍躍欲試」換句話說成「很想親自試試看」，再找出其中表示想要的欲。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

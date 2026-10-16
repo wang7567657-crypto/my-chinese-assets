@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第12課_memory_strategy_6839bc081bd19824",
+  "input": {
+    "char": "捏",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "捏",
+    "components": [
+      "扌（左）",
+      "日（右上）",
+      "土（右下）"
+    ],
+    "association": "記憶聯想：在日光下用手捏泥土容器，手、日、土三個線索幫助記住字形；這是編寫的助記故事，不是字源。",
+    "mnemonic": "手在左，日下土；手指捏土做容器。",
+    "visualPrompt": "畫雙手以手指輕壓黏土，塑成一個小碗；旁邊獨立排放「捏」標準字形，保留扌、日、土的標準排列。",
+    "teachingTip": "讓學生用黏土邊做邊說「捏」，再看字卡指出手旁；捏讀ㄋㄧㄝ，注意右下是土。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

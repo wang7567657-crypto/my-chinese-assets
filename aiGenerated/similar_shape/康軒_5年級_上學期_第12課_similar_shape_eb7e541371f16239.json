@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第12課_similar_shape_eb7e541371f16239",
+  "input": {
+    "targetChar": "獸",
+    "lessonChars": [
+      "烈",
+      "暈",
+      "昏",
+      "艙",
+      "途",
+      "捲",
+      "喪",
+      "獸",
+      "渾",
+      "擱",
+      "礁",
+      "筏",
+      "塌",
+      "捏",
+      "燒",
+      "臼",
+      "烤",
+      "爐",
+      "欲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "獸",
+    "similarChars": [
+      {
+        "char": "嘼",
+        "similarity": "共用左側嘼",
+        "difference": "獸在嘼右另有犬；嘼是少見字。"
+      },
+      {
+        "char": "器",
+        "similarity": "上方都有兩口且含犬形",
+        "difference": "獸左側兩口下田再下口形，右犬；器四口分布上下，中間犬。"
+      },
+      {
+        "char": "嚴",
+        "similarity": "上方都有兩口",
+        "difference": "獸右有犬，嚴下方有厂及敢形，沒有右犬。"
+      },
+      {
+        "char": "囂",
+        "similarity": "上方都有兩口且字形繁密",
+        "difference": "獸右犬；囂中頁，上下各兩口。"
+      },
+      {
+        "char": "獻",
+        "similarity": "右側都是犬",
+        "difference": "獸左嘼，獻左鬳，內部有鬲形。"
+      },
+      {
+        "char": "默",
+        "similarity": "右側都是犬",
+        "difference": "獸左嘼，默左黑有底下灬。"
+      }
+    ],
+    "teachingTip": "先在「獸」圈出共同部件，再逐字比較部件位置及增減的筆形；少見字只供辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

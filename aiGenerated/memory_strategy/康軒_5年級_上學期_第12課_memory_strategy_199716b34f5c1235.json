@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第12課_memory_strategy_199716b34f5c1235",
+  "input": {
+    "char": "燒",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "燒",
+    "components": [
+      "火（左）",
+      "堯（右）"
+    ],
+    "association": "記憶聯想：把堯當成一整塊字形積木，放到火旁邊，連結泥土容器經加熱燒製變硬的情境；不作字源解說。",
+    "mnemonic": "火旁配堯寫成燒，燒製容器要加熱。",
+    "visualPrompt": "畫未燒製的泥碗與燒製後的陶碗並排，中間以窯火示意加熱過程；旁邊獨立排放「燒」標準字形，圖中無兒童操作火源。",
+    "teachingTip": "先辨火與堯，再與澆、曉比較左旁；用圖片討論燒製，實際加熱須由成人操作。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

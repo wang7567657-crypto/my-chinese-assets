@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第12課_similar_shape_c2c657ecb981700e",
+  "input": {
+    "targetChar": "擱",
+    "lessonChars": [
+      "烈",
+      "暈",
+      "昏",
+      "艙",
+      "途",
+      "捲",
+      "喪",
+      "獸",
+      "渾",
+      "擱",
+      "礁",
+      "筏",
+      "塌",
+      "捏",
+      "燒",
+      "臼",
+      "烤",
+      "爐",
+      "欲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "擱",
+    "similarChars": [
+      {
+        "char": "閣",
+        "similarity": "共用閣",
+        "difference": "擱在閣左多扌。"
+      },
+      {
+        "char": "格",
+        "similarity": "共用各",
+        "difference": "擱右有門包各且左扌；格左木右各無門。"
+      },
+      {
+        "char": "閤",
+        "similarity": "右側都有門與內部口形",
+        "difference": "擱內各上夂，閤內合上人一，閤沒有左扌且較少見。"
+      },
+      {
+        "char": "擲",
+        "similarity": "左側都是扌、右部繁密",
+        "difference": "擱右閣有門框；擲右鄭有右阝。"
+      },
+      {
+        "char": "擷",
+        "similarity": "左側扌且右部有口形",
+        "difference": "擱右閣，擷右頡含頁；擷較少見。"
+      },
+      {
+        "char": "摺",
+        "similarity": "左側扌且右部有框形",
+        "difference": "擱右閣有門包各；摺右習，上羽下白。"
+      }
+    ],
+    "teachingTip": "先在「擱」圈出共同部件，再逐字比較部件位置及增減的筆形；少見字只供辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

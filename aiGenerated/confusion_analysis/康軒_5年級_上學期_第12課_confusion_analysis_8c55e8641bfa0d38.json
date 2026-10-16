@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_8c55e8641bfa0d38",
+  "input": {
+    "char": "筏",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "筏",
+    "groups": {
+      "shape": [
+        {
+          "char": "伐",
+          "why": "筏的下半是伐。",
+          "difference": "筏上面有竹字頭，如木筏；伐沒有竹字頭，如砍伐。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "罰",
+          "why": "同音：筏、罰都讀ㄈㄚˊ。",
+          "difference": "木筏、竹筏是水上工具；處罰、罰站說處置行為，字不能互換。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "船",
+          "why": "筏與船都可以在水上運送人或物。",
+          "difference": "筏常由竹、木等並排綁成，形狀較平；船通常有船身、船底等結構。"
+        }
+      ],
+      "component": [
+        {
+          "char": "筆",
+          "why": "上方同為竹字頭。",
+          "difference": "筏下方是伐；筆下方是聿。木筏雖可用木頭製作，筏仍寫竹字頭。"
+        }
+      ]
+    },
+    "tip": "用平排的木條圖理解木筏；特別練習「木筏的筏，上面仍然是竹字頭」。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第12課_memory_strategy_55abe4843792aac7",
+  "input": {
+    "char": "昏",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "昏",
+    "components": [
+      "氏（上）",
+      "日（下）"
+    ],
+    "association": "記憶聯想：日放在字的下方，讓人想到太陽低低、天色將暗的黃昏；這是助記畫面，不是字源解說。",
+    "mnemonic": "氏在上，日在下；黃昏日低天漸暗。",
+    "visualPrompt": "畫面是低低的夕陽與漸暗的海岸；旁邊獨立排放「昏」標準字形，以淡色框指出上氏下日，不把夕陽畫進字內。",
+    "teachingTip": "先用黃昏建立日的位置，再讀課文相關的昏迷；昏讀ㄏㄨㄣ，上面的氏不要加點。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

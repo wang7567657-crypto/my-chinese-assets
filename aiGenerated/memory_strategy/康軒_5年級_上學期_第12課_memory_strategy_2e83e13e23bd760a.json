@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_5年級_上學期_第12課_memory_strategy_2e83e13e23bd760a",
+  "input": {
+    "char": "擱",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "擱",
+    "components": [
+      "扌（左）",
+      "閣（右）"
+    ],
+    "association": "記憶聯想：先想像用手把書擱在桌面上，再轉到船卡在淺水處停住的擱淺；用情境串連兩個詞義，不作字源解說。",
+    "mnemonic": "手旁配閣記住擱，擱淺的船走不動。",
+    "visualPrompt": "畫面分成把書放在桌上、船底碰到淺灘而停住兩小格；旁邊獨立排放「擱」標準字形，不用圖畫取代扌或閣。",
+    "teachingTip": "先操作放置物品，再解釋擱淺；擱淺讀ㄍㄜ ㄑㄧㄢˇ，不照閣樓的閣讀二聲。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

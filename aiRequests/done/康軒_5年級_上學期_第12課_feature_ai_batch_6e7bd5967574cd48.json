@@ -1,0 +1,332 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_5年級_上學期_第12課_feature_ai_batch_6e7bd5967574cd48",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 19,
+    "batchCharacters": [
+      "烈",
+      "暈",
+      "昏",
+      "艙",
+      "途",
+      "捲",
+      "喪",
+      "獸",
+      "渾",
+      "擱",
+      "礁",
+      "筏",
+      "塌",
+      "捏",
+      "燒",
+      "臼",
+      "烤",
+      "爐",
+      "欲"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_7aabe0f5a92eca7c",
+        "input": {
+          "char": "烈",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_8aaf8006e254759a",
+        "input": {
+          "char": "暈",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_3df4cc9a4f4ad57e",
+        "input": {
+          "char": "昏",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_b321474fbeee9694",
+        "input": {
+          "char": "艙",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_b09f01946099ab10",
+        "input": {
+          "char": "途",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_01b1d45c808a23ce",
+        "input": {
+          "char": "捲",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_09833ab782311673",
+        "input": {
+          "char": "喪",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_8376f2796a63ca5c",
+        "input": {
+          "char": "獸",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_c362555c77d40052",
+        "input": {
+          "char": "渾",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_9e31c266598d2c3f",
+        "input": {
+          "char": "擱",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_0326bfb0cd78eb60",
+        "input": {
+          "char": "礁",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_8c55e8641bfa0d38",
+        "input": {
+          "char": "筏",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_e0290fdfedc2f78d",
+        "input": {
+          "char": "塌",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_e13b4846a0b9597d",
+        "input": {
+          "char": "捏",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_861d7f75ea5c77cc",
+        "input": {
+          "char": "燒",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_07638dc204e5b513",
+        "input": {
+          "char": "臼",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_541aa0e9183a10f8",
+        "input": {
+          "char": "烤",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_6d7d1f98a4526ec5",
+        "input": {
+          "char": "爐",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_0bfc5f5b74ec8ad9",
+        "input": {
+          "char": "欲",
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第12課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z",
+  "processedAt": "2026-10-16T17:27:53.270325Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "康軒_5年級_上學期_第12課_feature_ai_batch_6e7bd5967574cd48",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "康軒",
+      "grade": "5年級",
+      "semester": "上學期",
+      "lesson": "第12課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 19,
+      "batchCharacters": [
+        "烈",
+        "暈",
+        "昏",
+        "艙",
+        "途",
+        "捲",
+        "喪",
+        "獸",
+        "渾",
+        "擱",
+        "礁",
+        "筏",
+        "塌",
+        "捏",
+        "燒",
+        "臼",
+        "烤",
+        "爐",
+        "欲"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 19,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_7aabe0f5a92eca7c.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_8aaf8006e254759a.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_3df4cc9a4f4ad57e.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_b321474fbeee9694.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_b09f01946099ab10.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_01b1d45c808a23ce.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_09833ab782311673.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_8376f2796a63ca5c.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_c362555c77d40052.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_9e31c266598d2c3f.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_0326bfb0cd78eb60.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_8c55e8641bfa0d38.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_e0290fdfedc2f78d.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_e13b4846a0b9597d.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_861d7f75ea5c77cc.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_07638dc204e5b513.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_541aa0e9183a10f8.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_6d7d1f98a4526ec5.json",
+        "aiGenerated/confusion_analysis/康軒_5年級_上學期_第12課_confusion_analysis_0bfc5f5b74ec8ad9.json"
+      ]
+    },
+    "createdAt": "2026-10-16T17:27:53.270325Z"
+  }
+}

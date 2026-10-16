@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_7aabe0f5a92eca7c",
+  "input": {
+    "char": "烈",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "烈",
+    "groups": {
+      "shape": [
+        {
+          "char": "裂",
+          "why": "都能看到「列」，下半很容易混寫。",
+          "difference": "「烈」下面是灬，如強烈；「裂」下面是衣，如破裂。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "列",
+          "why": "同音：烈、列都讀ㄌㄧㄝˋ。",
+          "difference": "強烈說程度強；排列說依次排好，不能只靠聲音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "猛",
+          "why": "「猛烈」把兩個意思接近的字放在一起。",
+          "difference": "「強烈」可說感受或風雨的程度；「猛」常突出力量大、來勢急，如猛獸。"
+        }
+      ],
+      "component": [
+        {
+          "char": "煎",
+          "why": "下方都有灬。",
+          "difference": "「烈」上方是列；「煎」上方是前。先辨上半，再配下方灬。"
+        }
+      ]
+    },
+    "tip": "把「強烈的風雨」和「船板破裂」各讀一遍，再遮住詞語，依下半灬／衣選字。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

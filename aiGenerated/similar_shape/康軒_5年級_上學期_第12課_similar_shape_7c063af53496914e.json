@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第12課_similar_shape_7c063af53496914e",
+  "input": {
+    "targetChar": "欲",
+    "lessonChars": [
+      "烈",
+      "暈",
+      "昏",
+      "艙",
+      "途",
+      "捲",
+      "喪",
+      "獸",
+      "渾",
+      "擱",
+      "礁",
+      "筏",
+      "塌",
+      "捏",
+      "燒",
+      "臼",
+      "烤",
+      "爐",
+      "欲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "欲",
+    "similarChars": [
+      {
+        "char": "谷",
+        "similarity": "共用谷",
+        "difference": "欲在谷右另有欠。"
+      },
+      {
+        "char": "浴",
+        "similarity": "共用谷",
+        "difference": "欲左谷右欠，浴左氵右谷。"
+      },
+      {
+        "char": "裕",
+        "similarity": "共用谷",
+        "difference": "欲右欠，裕左衤，谷的位置不同。"
+      },
+      {
+        "char": "慾",
+        "similarity": "共用欲",
+        "difference": "慾在欲下另有心。"
+      },
+      {
+        "char": "郤",
+        "similarity": "左側同是谷",
+        "difference": "欲右欠，郤右阝；郤較少見。"
+      },
+      {
+        "char": "豁",
+        "similarity": "右側共用谷",
+        "difference": "欲左谷右欠，豁左害右谷。"
+      }
+    ],
+    "teachingTip": "先在「欲」圈出共同部件，再逐字比較部件位置及增減的筆形；少見字只供辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

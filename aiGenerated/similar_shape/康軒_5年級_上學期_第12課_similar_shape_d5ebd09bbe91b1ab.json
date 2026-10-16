@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第12課_similar_shape_d5ebd09bbe91b1ab",
+  "input": {
+    "targetChar": "筏",
+    "lessonChars": [
+      "烈",
+      "暈",
+      "昏",
+      "艙",
+      "途",
+      "捲",
+      "喪",
+      "獸",
+      "渾",
+      "擱",
+      "礁",
+      "筏",
+      "塌",
+      "捏",
+      "燒",
+      "臼",
+      "烤",
+      "爐",
+      "欲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "筏",
+    "similarChars": [
+      {
+        "char": "伐",
+        "similarity": "共用伐",
+        "difference": "筏在伐上加竹字頭。"
+      },
+      {
+        "char": "箋",
+        "similarity": "都有竹字頭且下方戈形",
+        "difference": "筏下伐含亻與戈，箋下戔為上下兩戈。"
+      },
+      {
+        "char": "筱",
+        "similarity": "都有竹字頭且下方亻形",
+        "difference": "筏下伐，筱下攸有攵；筱較少見。"
+      },
+      {
+        "char": "符",
+        "similarity": "都有竹字頭與下方亻",
+        "difference": "筏下伐，右部是戈；符下付，右部是寸。"
+      },
+      {
+        "char": "笛",
+        "similarity": "都有竹字頭",
+        "difference": "筏下伐，笛下由是封閉框。"
+      },
+      {
+        "char": "筷",
+        "similarity": "都有竹字頭且下方左右分開",
+        "difference": "筏下伐，筷下快有忄與夬。"
+      }
+    ],
+    "teachingTip": "先在「筏」圈出共同部件，再逐字比較部件位置及增減的筆形；少見字只供辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

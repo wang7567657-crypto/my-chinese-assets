@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_6d7d1f98a4526ec5",
+  "input": {
+    "char": "爐",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "爐",
+    "groups": {
+      "shape": [
+        {
+          "char": "蘆",
+          "why": "都含盧，外圍偏旁容易混淆。",
+          "difference": "爐的火在左邊，如烤爐；蘆的艹在上方，如蘆葦。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蘆",
+          "why": "同音：爐、蘆都讀ㄌㄨˊ。",
+          "difference": "火爐、烤爐是器具；蘆葦是植物。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "灶",
+          "why": "兩字都與生火、加熱器具有關。",
+          "difference": "爐可用來取暖或烘烤，如火爐、烤爐；灶常指生火煮食的設備，如爐灶。"
+        }
+      ],
+      "component": [
+        {
+          "char": "慮",
+          "why": "右上方都可看到虍的形狀。",
+          "difference": "爐右邊是盧，下方有皿；慮下面是思，有心。先看完整下半，不能只記上方。"
+        }
+      ]
+    },
+    "tip": "把「烤」當作加熱動作，把「爐」當作器具，合讀「用烤爐烤麵包」。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

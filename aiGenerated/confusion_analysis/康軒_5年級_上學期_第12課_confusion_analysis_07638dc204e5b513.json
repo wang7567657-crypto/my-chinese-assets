@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第12課_confusion_analysis_07638dc204e5b513",
+  "input": {
+    "char": "臼",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "臼",
+    "groups": {
+      "shape": [
+        {
+          "char": "白",
+          "why": "外形都有近似框狀的部分，容易寫成較熟悉的白。",
+          "difference": "臼中間的短橫分在左右，中央留空；白內是一條橫。依標準字形比較開口與內部。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "舊",
+          "why": "同音：臼、舊都讀ㄐㄧㄡˋ。",
+          "difference": "木臼、石臼是器具；新舊、舊物說使用的時間或狀態。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "杵",
+          "why": "杵和臼常搭配使用，容易叫錯器具。",
+          "difference": "臼是中間凹下的容器；杵是用來舂搗的棒狀工具。"
+        }
+      ],
+      "component": [
+        {
+          "char": "舅",
+          "why": "舅的上方是臼。",
+          "difference": "臼可以獨立成字；舅下面還有男，如舅舅，不能漏寫或多加。"
+        }
+      ]
+    },
+    "tip": "先指圖說出「容器是臼，棒子是杵」，再連結魯賓遜用木臼處理麥粒的情境。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

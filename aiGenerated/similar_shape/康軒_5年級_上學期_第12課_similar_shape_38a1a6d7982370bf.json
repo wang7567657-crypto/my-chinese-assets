@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第12課_similar_shape_38a1a6d7982370bf",
+  "input": {
+    "targetChar": "渾",
+    "lessonChars": [
+      "烈",
+      "暈",
+      "昏",
+      "艙",
+      "途",
+      "捲",
+      "喪",
+      "獸",
+      "渾",
+      "擱",
+      "礁",
+      "筏",
+      "塌",
+      "捏",
+      "燒",
+      "臼",
+      "烤",
+      "爐",
+      "欲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "渾",
+    "similarChars": [
+      {
+        "char": "混",
+        "similarity": "左側氵、右側密集",
+        "difference": "渾右軍上冖下車，混右昆上日下比。"
+      },
+      {
+        "char": "揮",
+        "similarity": "共用軍",
+        "difference": "渾左氵，揮左扌。"
+      },
+      {
+        "char": "輝",
+        "similarity": "共用軍",
+        "difference": "渾左氵，輝左光。"
+      },
+      {
+        "char": "暉",
+        "similarity": "共用軍",
+        "difference": "渾左氵，暉左日。"
+      },
+      {
+        "char": "葷",
+        "similarity": "共用軍",
+        "difference": "渾左氵右軍，葷上艹下軍。"
+      },
+      {
+        "char": "軍",
+        "similarity": "共用軍",
+        "difference": "渾在軍左另有氵。"
+      }
+    ],
+    "teachingTip": "先在「渾」圈出共同部件，再逐字比較部件位置及增減的筆形；少見字只供辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}

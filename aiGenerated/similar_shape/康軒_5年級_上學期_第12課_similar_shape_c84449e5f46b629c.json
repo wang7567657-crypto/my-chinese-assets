@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第12課_similar_shape_c84449e5f46b629c",
+  "input": {
+    "targetChar": "塌",
+    "lessonChars": [
+      "烈",
+      "暈",
+      "昏",
+      "艙",
+      "途",
+      "捲",
+      "喪",
+      "獸",
+      "渾",
+      "擱",
+      "礁",
+      "筏",
+      "塌",
+      "捏",
+      "燒",
+      "臼",
+      "烤",
+      "爐",
+      "欲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "塌",
+    "similarChars": [
+      {
+        "char": "榻",
+        "similarity": "共用右側日下羽形",
+        "difference": "塌左土，榻左木。"
+      },
+      {
+        "char": "搨",
+        "similarity": "共用右側日下羽形",
+        "difference": "塌左土，搨左扌；搨較少見。"
+      },
+      {
+        "char": "溻",
+        "similarity": "共用右側日下羽形",
+        "difference": "塌左土，溻左氵；溻是少見字。"
+      },
+      {
+        "char": "蹋",
+        "similarity": "共用右側日下羽形",
+        "difference": "塌左土，蹋左足字旁。"
+      },
+      {
+        "char": "塔",
+        "similarity": "左土、右上小下大",
+        "difference": "塌右上日下羽，塔右上艹下合。"
+      },
+      {
+        "char": "踏",
+        "similarity": "右上小下框形",
+        "difference": "塌左土右日下羽，踏左足字旁右水下日。"
+      }
+    ],
+    "teachingTip": "先在「塌」圈出共同部件，再逐字比較部件位置及增減的筆形；少見字只供辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T17:27:53.270325Z"
+}
