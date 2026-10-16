@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_682ae36b8415e777",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "喉",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "喉",
+    "similarChars": [
+      {
+        "char": "侯",
+        "similarity": "「侯」正是喉的右半。",
+        "difference": "喉比侯多了最左邊的口旁。"
+      },
+      {
+        "char": "候",
+        "similarity": "侯、候的右側輪廓接近，下方都能看見矢形。",
+        "difference": "喉是口加侯；候的亻右邊另有一豎。喉右半寫侯，不加候的中間豎筆。"
+      },
+      {
+        "char": "猴",
+        "similarity": "右半同為完整的「侯」。",
+        "difference": "喉左口；猴左犬旁犭。"
+      },
+      {
+        "char": "瘊",
+        "similarity": "都含完整的「侯」。",
+        "difference": "瘊較少見，由疒包住侯；喉是左口右侯。"
+      },
+      {
+        "char": "篌",
+        "similarity": "都含完整的「侯」。",
+        "difference": "篌較少見，是上竹字頭下侯；喉的口在侯左邊。"
+      },
+      {
+        "char": "餱",
+        "similarity": "右半同為完整的「侯」。",
+        "difference": "餱是罕用字，左邊是食旁；喉左邊是口。"
+      }
+    ],
+    "teachingTip": "先認「口＋侯」，再和候比較：喉右半不能多加候中間的豎筆。與猴、瘊、篌、餱相比，重點是外加部件及位置。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

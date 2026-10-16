@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_ef16e4fccf8692e8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "吼",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "吼",
+    "similarChars": [
+      {
+        "char": "孔",
+        "similarity": "「孔」正是吼的右半。",
+        "difference": "吼在孔左邊多一個口。"
+      },
+      {
+        "char": "犼",
+        "similarity": "右半同為「孔」。",
+        "difference": "犼是罕用字，左邊是犬旁犭；吼左邊是口。"
+      },
+      {
+        "char": "芤",
+        "similarity": "都含完整的「孔」。",
+        "difference": "芤是罕用字，是上艹下孔；吼是左口右孔。"
+      },
+      {
+        "char": "乳",
+        "similarity": "都有子形與右側的豎彎鉤。",
+        "difference": "吼在子形左邊有口；乳在子形上方有爫，沒有左口。"
+      },
+      {
+        "char": "吔",
+        "similarity": "同為左口右彎鉤形，右半都有豎彎鉤。",
+        "difference": "吔是罕用字，右邊是也；吼右邊是孔，包含子形，兩者不是同一部件。"
+      },
+      {
+        "char": "叫",
+        "similarity": "同為左口右豎筆、彎折筆的輪廓。",
+        "difference": "吼右邊是孔，含子形和豎彎鉤；叫右邊是丩，沒有子形。"
+      }
+    ],
+    "teachingTip": "把右邊的孔看成「子形＋豎彎鉤」，再確認左邊有口。與叫、吔比較時，要看右半有沒有完整子形，不能只看外側彎鉤。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

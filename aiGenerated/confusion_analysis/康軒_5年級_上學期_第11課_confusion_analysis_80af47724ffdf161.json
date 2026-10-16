@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_5年級_上學期_第11課_confusion_analysis_80af47724ffdf161",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "祈",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "祈",
+    "groups": {
+      "shape": [
+        {
+          "char": "祉",
+          "why": "字形含有相同或近似的部分，容易看錯。",
+          "difference": "左同示字旁，祈右斤、祉右止。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "奇",
+          "why": "同音ㄑㄧˊ；祈禱用祈，奇怪用奇。",
+          "difference": "同音ㄑㄧˊ；祈禱用祈，奇怪用奇。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "求",
+          "why": "詞義或使用情境接近，需按句意選字。",
+          "difference": "祈有祈求之意，常用於祈福、祈禱；求的用法更廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "祉",
+          "why": "比較共用部分和外側部件的位置。",
+          "difference": "左同示字旁，祈右斤、祉右止。"
+        }
+      ]
+    },
+    "tip": "先用課文語詞確認「祈」的意思，再圈出與「祉」不同的部分；讀音相同也不能直接換字。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

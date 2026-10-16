@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_1db244fcb56755fe",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "禱",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "禱",
+    "similarChars": [
+      {
+        "char": "壽",
+        "similarity": "「壽」正是禱的右半。",
+        "difference": "禱比壽多了左邊的示字旁。"
+      },
+      {
+        "char": "濤",
+        "similarity": "右半同為完整的「壽」。",
+        "difference": "禱左邊是示字旁；濤左邊是氵。"
+      },
+      {
+        "char": "鑄",
+        "similarity": "右半同為完整的「壽」。",
+        "difference": "禱配示旁；鑄配金旁。"
+      },
+      {
+        "char": "躊",
+        "similarity": "右半同為完整的「壽」。",
+        "difference": "禱左邊是示旁；躊左邊是足字旁。"
+      },
+      {
+        "char": "儔",
+        "similarity": "右半同為完整的「壽」。",
+        "difference": "儔較少見，左邊是亻；禱左邊是示字旁。"
+      },
+      {
+        "char": "籌",
+        "similarity": "都含完整的「壽」。",
+        "difference": "禱是左示旁右壽；籌是上竹字頭下壽。"
+      }
+    ],
+    "teachingTip": "先保留完整的壽，再辨示、氵、金、足、亻、竹。「禱」是示旁配壽；右半按繁體壽書寫，不用簡化的寿。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

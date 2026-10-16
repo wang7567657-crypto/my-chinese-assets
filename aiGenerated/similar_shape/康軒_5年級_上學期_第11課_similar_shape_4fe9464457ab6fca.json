@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_4fe9464457ab6fca",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "駭",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "駭",
+    "similarChars": [
+      {
+        "char": "孩",
+        "similarity": "右半同為「亥」。",
+        "difference": "駭的左邊是「馬」；孩的左邊是「子」。"
+      },
+      {
+        "char": "核",
+        "similarity": "右半同為「亥」，都是左右結構。",
+        "difference": "駭左「馬」；核左「木」，不要只認右半。"
+      },
+      {
+        "char": "該",
+        "similarity": "右半同為「亥」。",
+        "difference": "駭配「馬」旁；該配「言」旁。"
+      },
+      {
+        "char": "咳",
+        "similarity": "右半同為「亥」。",
+        "difference": "駭左邊有完整馬旁；咳左邊只有「口」。"
+      },
+      {
+        "char": "骸",
+        "similarity": "右半同為「亥」，左半也較繁密。",
+        "difference": "駭左「馬」；骸左「骨」，注意左半下方形狀。"
+      },
+      {
+        "char": "劾",
+        "similarity": "都含完整的「亥」。",
+        "difference": "駭是左馬右亥；劾是左亥右力，「亥」的位置不同。"
+      }
+    ],
+    "teachingTip": "先圈出右邊共同的「亥」，再辨左邊。寫「駭」時保留完整馬旁，不能換成子、木、言、口或骨。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

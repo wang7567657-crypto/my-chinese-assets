@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_f0fbe970c6fe8cae",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "痕",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "痕",
+    "similarChars": [
+      {
+        "char": "恨",
+        "similarity": "共同部件是「艮」。",
+        "difference": "痕的艮在疒內；恨是左「忄」、右艮。"
+      },
+      {
+        "char": "很",
+        "similarity": "都含完整的「艮」。",
+        "difference": "痕外側是「疒」；很左邊是雙人旁「彳」。"
+      },
+      {
+        "char": "狠",
+        "similarity": "都含「艮」，下方都有斜伸的筆畫。",
+        "difference": "痕以疒包住艮；狠在艮左邊加犬旁「犭」。"
+      },
+      {
+        "char": "根",
+        "similarity": "共同部件是「艮」。",
+        "difference": "痕外側是病字旁；根是左「木」、右艮。"
+      },
+      {
+        "char": "跟",
+        "similarity": "共同部件是「艮」。",
+        "difference": "痕以疒包住艮；跟是左足字旁、右艮。"
+      },
+      {
+        "char": "銀",
+        "similarity": "都含完整的「艮」。",
+        "difference": "痕外側是疒；銀的左半是「金」旁。"
+      }
+    ],
+    "teachingTip": "先找「艮」，再看它外面或左邊的部件。「痕」要寫病字旁；不要因為右半相同而寫成恨、很或狠。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

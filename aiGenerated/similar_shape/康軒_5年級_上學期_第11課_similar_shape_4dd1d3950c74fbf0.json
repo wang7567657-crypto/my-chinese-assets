@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_4dd1d3950c74fbf0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "寮",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "寮",
+    "similarChars": [
+      {
+        "char": "僚",
+        "similarity": "共同部件是「尞」。",
+        "difference": "寮是上宀下尞；僚是左亻右尞。"
+      },
+      {
+        "char": "燎",
+        "similarity": "都含完整的「尞」。",
+        "difference": "寮的尞上方有宀；燎的尞左邊有火。"
+      },
+      {
+        "char": "療",
+        "similarity": "都含完整的「尞」。",
+        "difference": "寮上方是宀；療外側是疒，左側另有病字旁的筆畫。"
+      },
+      {
+        "char": "遼",
+        "similarity": "共同部件是「尞」。",
+        "difference": "寮在尞上加宀；遼在尞左下方加辶。"
+      },
+      {
+        "char": "撩",
+        "similarity": "共同部件是「尞」。",
+        "difference": "寮是上宀下尞；撩是左扌右尞。"
+      },
+      {
+        "char": "瞭",
+        "similarity": "共同部件是「尞」。",
+        "difference": "寮上方是宀；瞭左邊是目，整字改成左右結構。"
+      }
+    ],
+    "teachingTip": "先圈出「尞」，留意中間的日和下面的小。接著辨認宀、亻、火、疒、辶、扌、目；寮的宀只在上方。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

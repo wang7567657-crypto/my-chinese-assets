@@ -1,0 +1,63 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_5年級_上學期_第11課_feature_ai_batch_8356ecf3081fd877",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 19,
+    "batchCharacters": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_ee16cbb3e55d081e.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_330483b33882ea8e.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_21db8d0c3d76a341.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_9ba401d438b29c70.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_8d7cc517ed9b8c1f.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_b70a1d5e0c8c2078.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_474939c62bf015bb.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_67d79199cc935e3b.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_57fecdd489addd18.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_a83716623121194e.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_6fb8c2a05f3c98d1.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_390940fb23c2785d.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_451ff99f3eee1cd2.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_d82a048ccccd5a7f.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_80af47724ffdf161.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_1b28f2cda7b72667.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_62cf16ac2cfb8a09.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_f4db1428b258903a.json",
+      "aiGenerated/confusion_analysis/康軒_5年級_上學期_第11課_confusion_analysis_1facce6a1f821964.json"
+    ]
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

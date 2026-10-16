@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_c3c749d8f53c4c0b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "奄",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "奄",
+    "similarChars": [
+      {
+        "char": "掩",
+        "similarity": "右半包含完整的「奄」。",
+        "difference": "掩比奄多左邊的扌。"
+      },
+      {
+        "char": "淹",
+        "similarity": "右半包含完整的「奄」。",
+        "difference": "淹在奄左邊加氵；奄本身沒有水旁。"
+      },
+      {
+        "char": "俺",
+        "similarity": "右半同為「奄」。",
+        "difference": "俺在奄左邊加人旁亻。"
+      },
+      {
+        "char": "庵",
+        "similarity": "內部包含完整的「奄」。",
+        "difference": "庵由广包住奄；奄沒有外側的广。"
+      },
+      {
+        "char": "閹",
+        "similarity": "門內是完整的「奄」。",
+        "difference": "閹在奄外面加門；奄本身沒有門框。"
+      },
+      {
+        "char": "醃",
+        "similarity": "右半包含完整的「奄」。",
+        "difference": "醃是左酉右奄；奄本身沒有酉旁。"
+      }
+    ],
+    "teachingTip": "先把奄的上方大形和下方申的變形連成一整塊；末筆向右折，不鉤。再看外面是否加了扌、氵、亻、广、門或酉。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

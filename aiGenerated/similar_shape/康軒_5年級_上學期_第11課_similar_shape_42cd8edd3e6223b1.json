@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_42cd8edd3e6223b1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "碰",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "碰",
+    "similarChars": [
+      {
+        "char": "並",
+        "similarity": "「並」正是碰的右半。",
+        "difference": "碰在並的左邊多加石旁；並本身沒有石旁。"
+      },
+      {
+        "char": "普",
+        "similarity": "都含完整的「並」。",
+        "difference": "碰是左石右並；普是上並下日。"
+      },
+      {
+        "char": "椪",
+        "similarity": "右半同為「並」。",
+        "difference": "碰左石；椪左木，例如「椪柑」的椪。"
+      },
+      {
+        "char": "掽",
+        "similarity": "右半同為「並」。",
+        "difference": "掽是碰的罕用異體字，左扌右並；課本的碰左邊是石。"
+      },
+      {
+        "char": "湴",
+        "similarity": "右半同為「並」。",
+        "difference": "湴是罕用字，左氵右並；碰左邊是石。"
+      },
+      {
+        "char": "踫",
+        "similarity": "右半同為「並」。",
+        "difference": "踫讀ㄆㄥˋ時是碰的異體字，左邊是足字旁；課本的碰左邊是石。"
+      }
+    ],
+    "teachingTip": "共同部件寫「並」，不要換成「并」。圈出右半後，比較左邊的石、木、扌、氵、足；普則是上並下日。掽、踫有異體關係，課本仍寫碰。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}

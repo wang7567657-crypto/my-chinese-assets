@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_5年級_上學期_第11課_similar_shape_1d197ac2ddf7f62f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "置",
+    "lessonChars": [
+      "駭",
+      "疤",
+      "痕",
+      "罐",
+      "咚",
+      "碰",
+      "傾",
+      "寮",
+      "營",
+      "殺",
+      "崇",
+      "置",
+      "奄",
+      "翼",
+      "祈",
+      "禱",
+      "吼",
+      "喉",
+      "嚨"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課"
+  },
+  "data": {
+    "targetChar": "置",
+    "similarChars": [
+      {
+        "char": "直",
+        "similarity": "「直」正是置的下半。",
+        "difference": "置在直上面多加一個罒；直本身沒有罒。"
+      },
+      {
+        "char": "值",
+        "similarity": "都含完整的「直」。",
+        "difference": "置是上罒下直；值是左亻右直。"
+      },
+      {
+        "char": "植",
+        "similarity": "共同部件是「直」。",
+        "difference": "置把罒放在直上方；植把木放在直左側。"
+      },
+      {
+        "char": "殖",
+        "similarity": "共同部件是「直」。",
+        "difference": "置是上罒下直；殖是左歹右直。"
+      },
+      {
+        "char": "罝",
+        "similarity": "上方同為罒，下方都有直立的方框及橫畫。",
+        "difference": "罝是罕用字，下半為且；置的下半為直，直上方多十形，不能只寫且。"
+      },
+      {
+        "char": "罩",
+        "similarity": "上方同為罒，下方都有十形及方框。",
+        "difference": "置下半是直；罩下半是卓，卓的卜、日、十排列與直不同。"
+      }
+    ],
+    "teachingTip": "「置」先寫罒，再寫完整的直。比較罝和罩時，遮住上方的罒，只看下半究竟是直、且還是卓。"
+  },
+  "createdAt": "2026-10-16T16:29:41.380024Z"
+}
