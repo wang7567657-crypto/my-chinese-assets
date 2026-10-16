@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第5課_similar_shape_0e5d0e9774ea61f6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "驕",
+    "lessonChars": [
+      "困",
+      "舉",
+      "挑",
+      "戰",
+      "爭",
+      "佩",
+      "斤",
+      "紀",
+      "震",
+      "竭",
+      "棄",
+      "程",
+      "捐",
+      "驕",
+      "傲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "驕",
+    "similarChars": [
+      {
+        "char": "嬌",
+        "similarity": "右側同是喬。",
+        "difference": "驕左邊是馬；嬌左邊是女。"
+      },
+      {
+        "char": "橋",
+        "similarity": "右側同是喬。",
+        "difference": "驕左邊是馬；橋左邊是木。"
+      },
+      {
+        "char": "矯",
+        "similarity": "右側同是喬。",
+        "difference": "驕左邊是馬；矯左邊是矢。"
+      },
+      {
+        "char": "轎",
+        "similarity": "右側同是喬，左邊都是筆畫較密的偏旁。",
+        "difference": "驕左邊是馬，下方有四點；轎左邊是車，有貫穿的中豎。"
+      },
+      {
+        "char": "僑",
+        "similarity": "右側同是喬。",
+        "difference": "驕左邊是馬；僑左邊是亻。"
+      },
+      {
+        "char": "喬",
+        "similarity": "喬就是驕的右半部。",
+        "difference": "驕在喬左邊多馬；喬沒有馬字旁。"
+      }
+    ],
+    "teachingTip": "把共同的喬塗同色，輪流遮住右側，只認馬、女、木、矢、車、亻；驕傲的驕要保留馬旁下方四點。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

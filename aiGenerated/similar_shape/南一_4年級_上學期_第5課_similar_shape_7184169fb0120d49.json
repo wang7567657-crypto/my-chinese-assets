@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第5課_similar_shape_7184169fb0120d49",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "爭",
+    "lessonChars": [
+      "困",
+      "舉",
+      "挑",
+      "戰",
+      "爭",
+      "佩",
+      "斤",
+      "紀",
+      "震",
+      "竭",
+      "棄",
+      "程",
+      "捐",
+      "驕",
+      "傲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "爭",
+    "similarChars": [
+      {
+        "char": "淨",
+        "similarity": "右側完整含有爭。",
+        "difference": "淨在爭左邊多氵；爭沒有三點水。"
+      },
+      {
+        "char": "靜",
+        "similarity": "右側同是爭。",
+        "difference": "靜左邊另外有青；爭單獨成字沒有青。"
+      },
+      {
+        "char": "掙",
+        "similarity": "右側完整保留爭。",
+        "difference": "掙左邊多扌；爭沒有提手旁。"
+      },
+      {
+        "char": "睜",
+        "similarity": "右側同是爭。",
+        "difference": "睜左邊多目，目裡有兩橫；爭沒有目。"
+      },
+      {
+        "char": "箏",
+        "similarity": "下方完整含有爭。",
+        "difference": "箏上面多竹字頭；爭上方沒有竹字頭。"
+      },
+      {
+        "char": "諍",
+        "similarity": "右側完整含有爭。",
+        "difference": "諍左邊多言；爭沒有言字旁。諍較少見，可作進階辨識。"
+      }
+    ],
+    "teachingTip": "把共同的爭圈起來，再找左側或上方有沒有多出部件；寫爭時不要誤加氵、扌或目。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

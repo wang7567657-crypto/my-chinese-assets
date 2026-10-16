@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第5課_feature_ai_batch_d310acab8f5acd1a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 15,
+    "batchCharacters": [
+      "困",
+      "舉",
+      "挑",
+      "戰",
+      "爭",
+      "佩",
+      "斤",
+      "紀",
+      "震",
+      "竭",
+      "棄",
+      "程",
+      "捐",
+      "驕",
+      "傲"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_05c1b7b85440007d.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_746889e000f4d112.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_b673c521ae1906b9.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_1de31036bd884e15.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_8f8a3d9f15bf6a21.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_9bd4524246943529.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_970df1816b6cb0c7.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_ff13953f3a5dd3b7.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_9016c66c38f8c5c5.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_26dcce83613cf2b7.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_4288c20dd88ed449.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_b45790c0985ff07d.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_a5bdda6decfcbd4b.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_eb7ce9fba9af9f2a.json",
+      "aiGenerated/memory_strategy/南一_4年級_上學期_第5課_memory_strategy_1ef78e9cde1496ef.json"
+    ]
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

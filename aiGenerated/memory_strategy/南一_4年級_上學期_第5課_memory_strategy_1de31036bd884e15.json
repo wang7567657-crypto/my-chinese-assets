@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_4年級_上學期_第5課_memory_strategy_1de31036bd884e15",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "戰",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "戰",
+    "components": [
+      "單",
+      "戈"
+    ],
+    "association": "字形助記：左邊是「單」，右邊是「戈」。課文的「挑戰」可想成面對有難度的目標、努力嘗試，不需要想成和別人打架。",
+    "mnemonic": "單在左，戈在右；面對挑戰不退後。",
+    "visualPrompt": "左側放完整的標準楷體「戰」，右側畫選手依序完成有不同難度的訓練關卡。圖與字分開，不畫打鬥，不將旗子、器材或武器替代「戰」的筆畫。",
+    "teachingTip": "先找「單」和「戈」的左右位置，再讀「挑戰」。右邊的斜鉤和點要對照範字核對，避免只記左邊而漏寫右邊。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

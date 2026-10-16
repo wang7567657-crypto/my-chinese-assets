@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第5課_confusion_analysis_b93e4b2f281628ee",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "震",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "震",
+    "groups": {
+      "shape": [
+        {
+          "char": "振",
+          "why": "字形或局部輪廓相近，書寫時容易混淆。",
+          "difference": "都含辰；震上雨下辰，振左扌右辰。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鎮",
+          "why": "讀音相同或接近，聽寫時須看詞義。",
+          "difference": "震、鎮同音ㄓㄣˋ；震驚用震，城鎮用鎮。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "驚",
+          "why": "意思相關，須放回課文詞語辨別。",
+          "difference": "震驚指非常吃驚；震偏向震動、震撼，驚偏向受驚或驚訝，不能把兩字當同一字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "晨",
+          "why": "共用部件或局部形體，須辨認位置及剩餘筆畫。",
+          "difference": "都含辰；震上雨，晨上日。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的詞，再比字形；都含辰；震上雨下辰，振左扌右辰。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

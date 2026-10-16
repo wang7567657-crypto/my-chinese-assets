@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第5課_confusion_analysis_dfde33a8b96c3fc3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "紀",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "紀",
+    "groups": {
+      "shape": [
+        {
+          "char": "記",
+          "why": "字形或局部輪廓相近，書寫時容易混淆。",
+          "difference": "都含己；紀左糹，記左言。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "季",
+          "why": "讀音相同或接近，聽寫時須看詞義。",
+          "difference": "紀錄的紀與季節的季同音ㄐㄧˋ；不可因同音換字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "錄",
+          "why": "意思相關，須放回課文詞語辨別。",
+          "difference": "本課紀錄指比賽創下的成績；錄可表示記載，兩字合成紀錄，不能隨意省換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "紐",
+          "why": "共用部件或局部形體，須辨認位置及剩餘筆畫。",
+          "difference": "左側同是糹；紀右己，紐右丑。己的開口與丑的交叉橫豎不同。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的詞，再比字形；都含己；紀左糹，記左言。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

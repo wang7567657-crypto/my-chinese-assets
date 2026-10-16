@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第5課_similar_shape_a8c41560e30f0abd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "挑",
+    "lessonChars": [
+      "困",
+      "舉",
+      "挑",
+      "戰",
+      "爭",
+      "佩",
+      "斤",
+      "紀",
+      "震",
+      "竭",
+      "棄",
+      "程",
+      "捐",
+      "驕",
+      "傲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "挑",
+    "similarChars": [
+      {
+        "char": "桃",
+        "similarity": "右側同是兆，左側都是窄長偏旁。",
+        "difference": "挑左邊是扌，末筆為提；桃左邊是木，下方為撇、點。"
+      },
+      {
+        "char": "跳",
+        "similarity": "右側完整保留兆。",
+        "difference": "挑左邊是扌；跳左邊是足字旁，上面有口。"
+      },
+      {
+        "char": "逃",
+        "similarity": "都含有兆的形體。",
+        "difference": "挑把扌放在左邊；逃以辶從左下方包住兆。"
+      },
+      {
+        "char": "眺",
+        "similarity": "都是左窄右寬，右側同是兆。",
+        "difference": "挑左邊是扌；眺左邊是目，有封閉長框及兩橫。"
+      },
+      {
+        "char": "姚",
+        "similarity": "右側同是兆。",
+        "difference": "挑左邊是扌；姚左邊是女，有交叉的撇畫。"
+      },
+      {
+        "char": "兆",
+        "similarity": "兆就是挑的右半部。",
+        "difference": "挑在兆左邊多扌；兆單獨成字時沒有扌。"
+      }
+    ],
+    "teachingTip": "先固定右邊的兆，再用不同顏色標出左邊的扌、木、足字旁、目或女；不要只靠讀音選字。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

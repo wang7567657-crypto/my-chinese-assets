@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_4年級_上學期_第5課_feature_ai_batch_48e71634e9ca9451",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "困",
+      "舉",
+      "挑",
+      "戰",
+      "爭",
+      "佩",
+      "斤",
+      "紀",
+      "震",
+      "竭",
+      "棄",
+      "程",
+      "捐",
+      "驕",
+      "傲"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_db7f705d93a48762.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_6580e918ccd71922.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_a8c41560e30f0abd.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_2dc24334038d4278.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_7184169fb0120d49.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_f249d92834ce4257.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_d4a4901621358e94.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_89de72b4b2132fbc.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_0a42077c5c76a55d.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_6c6cbde56b387446.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_182a28ec944483bd.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_578ef4bd292bf975.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_aa773355b7a28005.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_0e5d0e9774ea61f6.json",
+      "aiGenerated/similar_shape/南一_4年級_上學期_第5課_similar_shape_2b0e72ff837981d9.json"
+    ]
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_4年級_上學期_第5課_similar_shape_578ef4bd292bf975",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "程",
+    "lessonChars": [
+      "困",
+      "舉",
+      "挑",
+      "戰",
+      "爭",
+      "佩",
+      "斤",
+      "紀",
+      "震",
+      "竭",
+      "棄",
+      "程",
+      "捐",
+      "驕",
+      "傲"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課"
+  },
+  "data": {
+    "targetChar": "程",
+    "similarChars": [
+      {
+        "char": "呈",
+        "similarity": "呈就是程的右半部。",
+        "difference": "程在呈左邊多禾；呈沒有禾字旁。"
+      },
+      {
+        "char": "逞",
+        "similarity": "都含有完整的呈。",
+        "difference": "程是左禾右呈；逞用辶從左下方包住呈。"
+      },
+      {
+        "char": "埕",
+        "similarity": "都是左右結構，右側同是呈。",
+        "difference": "程左邊是禾；埕左邊是土。埕較少見，常見於地名。"
+      },
+      {
+        "char": "和",
+        "similarity": "左側同是禾，右側上方都有口形。",
+        "difference": "和右邊只有口；程右邊是呈，口的下方還有筆畫。"
+      },
+      {
+        "char": "種",
+        "similarity": "左側同是禾，右側都有多道橫畫和貫穿的豎畫。",
+        "difference": "程右邊是呈，上方有口；種右邊是重，中間有田形。"
+      },
+      {
+        "char": "稈",
+        "similarity": "左側同是禾，右上都有小框形。",
+        "difference": "程右上是口，右邊整體為呈；稈右上是日，右邊整體為旱，下部是干。稈較少見，可見於稻稈。"
+      }
+    ],
+    "teachingTip": "先圈出左禾、右呈；呈的下部應依課本標準字形練寫，不任意換成王或壬。先熟悉程、呈、和，再辨識埕、稈。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}

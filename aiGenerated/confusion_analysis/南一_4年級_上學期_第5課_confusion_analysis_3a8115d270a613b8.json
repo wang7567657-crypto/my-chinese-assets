@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_4年級_上學期_第5課_confusion_analysis_3a8115d270a613b8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "舉",
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "舉",
+    "groups": {
+      "shape": [
+        {
+          "char": "與",
+          "why": "字形或局部輪廓相近，書寫時容易混淆。",
+          "difference": "上部共用與的主要形體；舉下方另有一豎、二橫，與沒有這組下方筆畫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "矩",
+          "why": "讀音相同或接近，聽寫時須看詞義。",
+          "difference": "舉重的舉與規矩的矩同音ㄐㄩˇ；用途不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "抬",
+          "why": "意思相關，須放回課文詞語辨別。",
+          "difference": "舉重的舉著重向上舉起；抬可指合力搬起，也可說抬頭。"
+        }
+      ],
+      "component": [
+        {
+          "char": "擧",
+          "why": "共用部件或局部形體，須辨認位置及剩餘筆畫。",
+          "difference": "擧是舉的異體字，下方寫完整的手；標準舉下方是一豎、二橫。本課練寫舉，擧只供辨識。"
+        }
+      ]
+    },
+    "tip": "先讀課文中的詞，再比字形；上半輪廓相近；舉下方有橫畫與向下的中豎，與下方是分向兩側的筆畫。"
+  },
+  "createdAt": "2026-10-16T02:50:58.315891Z"
+}
