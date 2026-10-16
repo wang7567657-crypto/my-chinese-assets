@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_bd83a089d5eb07d8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "偕",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "偕",
+    "groups": {
+      "shape": [
+        {
+          "char": "楷",
+          "why": "右邊都是皆",
+          "difference": "偕左亻；楷左木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "階",
+          "why": "在馬偕人名語境，偕常讀ㄐㄧㄝ，與階ㄐㄧㄝ同音；偕同則讀ㄒㄧㄝˊ。",
+          "difference": "階指階梯或等級；人名馬偕與偕同要分語境。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "同",
+          "why": "偕同和共同都有一起的意思。",
+          "difference": "偕常與同搭配；同可用於相同、同學，不能全部換成偕。"
+        }
+      ],
+      "component": [
+        {
+          "char": "皆",
+          "why": "偕右側是皆。",
+          "difference": "偕有人旁；皆沒有，且常表示全都。"
+        }
+      ]
+    },
+    "tip": "先看字形不同處，再讀完整語詞確認意思；不要只靠相同讀音選字。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

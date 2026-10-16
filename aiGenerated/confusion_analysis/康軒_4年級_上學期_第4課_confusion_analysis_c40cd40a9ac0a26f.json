@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_c40cd40a9ac0a26f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "奉",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "奉",
+    "groups": {
+      "shape": [
+        {
+          "char": "春",
+          "why": "上半部的三橫與撇捺輪廓相近",
+          "difference": "奉下方不是日，而是兩橫與中豎；春下方是日。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鳳",
+          "why": "奉與鳳都讀ㄈㄥˋ，是同音字。",
+          "difference": "奉獻用奉；鳳凰用鳳。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "獻",
+          "why": "奉獻兩字都與交付心力或物品有關。",
+          "difference": "奉可用於奉命；獻可用於獻藝，搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "捧",
+          "why": "捧的右側是奉。",
+          "difference": "捧多左扌，常指雙手托著；奉沒有扌。"
+        }
+      ]
+    },
+    "tip": "先看字形不同處，再讀完整語詞確認意思；不要只靠相同讀音選字。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

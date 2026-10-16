@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_656bd308749e9375",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "衛",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "衛",
+    "groups": {
+      "shape": [
+        {
+          "char": "街",
+          "why": "外側都是行的左右兩半",
+          "difference": "衛中間韋；街中間圭。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "位",
+          "why": "衛與位都讀ㄨㄟˋ，是同音字。",
+          "difference": "衛生用衛；座位用位。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "護",
+          "why": "護衛都有保護的意思。",
+          "difference": "衛可用於衛生、守衛；護可用於護理、愛護，搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "韋",
+          "why": "衛中間是韋。",
+          "difference": "衛在韋外加行的左右兩半；韋沒有外側行形。"
+        }
+      ]
+    },
+    "tip": "先看字形不同處，再讀完整語詞確認意思；不要只靠相同讀音選字。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_8bb7980243022d27",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "翻",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "翻",
+    "groups": {
+      "shape": [
+        {
+          "char": "番",
+          "why": "都有番",
+          "difference": "翻在番右加羽；番沒有羽。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "番",
+          "why": "翻與番都讀ㄈㄢ，是同音字。",
+          "difference": "翻山用翻；一番話用番。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "越",
+          "why": "翻山與越嶺都有跨過障礙的意思。",
+          "difference": "翻還可用於翻書、翻面；越可用於越過、超越。"
+        }
+      ],
+      "component": [
+        {
+          "char": "羽",
+          "why": "翻右側是羽。",
+          "difference": "羽單獨表示羽毛；翻還有左邊番。"
+        }
+      ]
+    },
+    "tip": "先看字形不同處，再讀完整語詞確認意思；不要只靠相同讀音選字。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

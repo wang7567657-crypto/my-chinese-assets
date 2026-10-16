@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_4年級_上學期_第4課_similar_shape_eec330ac6f489a63",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "捐",
+    "lessonChars": [
+      "偕",
+      "命",
+      "奉",
+      "獻",
+      "醫",
+      "療",
+      "衛",
+      "藥",
+      "治",
+      "翻",
+      "嶺",
+      "捐",
+      "宿",
+      "堂",
+      "濃"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "捐",
+    "similarChars": [
+      {
+        "char": "涓",
+        "similarity": "右邊都是肙",
+        "difference": "捐左扌；涓左氵。"
+      },
+      {
+        "char": "絹",
+        "similarity": "右邊都是肙",
+        "difference": "捐左扌；絹左糹。"
+      },
+      {
+        "char": "娟",
+        "similarity": "右邊都是肙",
+        "difference": "捐左扌；娟左女。"
+      },
+      {
+        "char": "鵑",
+        "similarity": "都有肙",
+        "difference": "捐左扌右肙；鵑左肙右鳥。"
+      },
+      {
+        "char": "損",
+        "similarity": "左邊都是扌，右上都有口",
+        "difference": "捐右下月形；損右下貝，有下方兩筆。"
+      },
+      {
+        "char": "扣",
+        "similarity": "左扌，右側都有口",
+        "difference": "捐的口下另有月形；扣右邊只有口。"
+      }
+    ],
+    "teachingTip": "先圈共同部件，再用另一色圈不同處；少見字或異體字只供辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

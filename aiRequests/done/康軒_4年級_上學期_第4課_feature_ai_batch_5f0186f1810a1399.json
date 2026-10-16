@@ -1,0 +1,272 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_4年級_上學期_第4課_feature_ai_batch_5f0186f1810a1399",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 15,
+    "batchCharacters": [
+      "偕",
+      "命",
+      "奉",
+      "獻",
+      "醫",
+      "療",
+      "衛",
+      "藥",
+      "治",
+      "翻",
+      "嶺",
+      "捐",
+      "宿",
+      "堂",
+      "濃"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_bd83a089d5eb07d8",
+        "input": {
+          "char": "偕",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_db062f3c51049149",
+        "input": {
+          "char": "命",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_c40cd40a9ac0a26f",
+        "input": {
+          "char": "奉",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_f6cf5b260058adae",
+        "input": {
+          "char": "獻",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_82a86f78fe84aad4",
+        "input": {
+          "char": "醫",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_4637e3ec0db514e8",
+        "input": {
+          "char": "療",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_656bd308749e9375",
+        "input": {
+          "char": "衛",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_1ebff7fd9c6f1b6f",
+        "input": {
+          "char": "藥",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_742ada895733fd29",
+        "input": {
+          "char": "治",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_8bb7980243022d27",
+        "input": {
+          "char": "翻",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_d5817d38c738b76d",
+        "input": {
+          "char": "嶺",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_d209cb7f35ef1373",
+        "input": {
+          "char": "捐",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_564f5417082f8f6b",
+        "input": {
+          "char": "宿",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_601552133cb9e7f8",
+        "input": {
+          "char": "堂",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_a5d1048b2cdec3b7",
+        "input": {
+          "char": "濃",
+          "publisher": "康軒",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第4課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z",
+  "processedAt": "2026-10-16T04:31:26.718879Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "康軒_4年級_上學期_第4課_feature_ai_batch_5f0186f1810a1399",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "康軒",
+      "grade": "4年級",
+      "semester": "上學期",
+      "lesson": "第4課",
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 15,
+      "batchCharacters": [
+        "偕",
+        "命",
+        "奉",
+        "獻",
+        "醫",
+        "療",
+        "衛",
+        "藥",
+        "治",
+        "翻",
+        "嶺",
+        "捐",
+        "宿",
+        "堂",
+        "濃"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 15,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_bd83a089d5eb07d8.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_db062f3c51049149.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_c40cd40a9ac0a26f.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_f6cf5b260058adae.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_82a86f78fe84aad4.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_4637e3ec0db514e8.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_656bd308749e9375.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_1ebff7fd9c6f1b6f.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_742ada895733fd29.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_8bb7980243022d27.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_d5817d38c738b76d.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_d209cb7f35ef1373.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_564f5417082f8f6b.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_601552133cb9e7f8.json",
+        "aiGenerated/confusion_analysis/康軒_4年級_上學期_第4課_confusion_analysis_a5d1048b2cdec3b7.json"
+      ]
+    },
+    "createdAt": "2026-10-16T04:31:26.718879Z"
+  }
+}

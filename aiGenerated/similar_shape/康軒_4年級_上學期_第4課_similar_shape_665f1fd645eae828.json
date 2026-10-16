@@ -1,0 +1,71 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "康軒_4年級_上學期_第4課_similar_shape_665f1fd645eae828",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "醫",
+    "lessonChars": [
+      "偕",
+      "命",
+      "奉",
+      "獻",
+      "醫",
+      "療",
+      "衛",
+      "藥",
+      "治",
+      "翻",
+      "嶺",
+      "捐",
+      "宿",
+      "堂",
+      "濃"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課"
+  },
+  "data": {
+    "targetChar": "醫",
+    "similarChars": [
+      {
+        "char": "醬",
+        "similarity": "下方都是酉",
+        "difference": "醫上方是殹，左為匚內有矢，右為殳；醬上方是將。"
+      },
+      {
+        "char": "醋",
+        "similarity": "都有酉",
+        "difference": "醫的酉在下；醋的酉在左，右邊是昔。"
+      },
+      {
+        "char": "酒",
+        "similarity": "都有酉",
+        "difference": "醫的酉在下，上方另有殹；酒是左氵右酉。"
+      },
+      {
+        "char": "醯",
+        "similarity": "都有酉",
+        "difference": "醫的酉在下；醯的酉在左，右側下有皿。醯是較少見字，指醋。"
+      },
+      {
+        "char": "殹",
+        "similarity": "上半部相同",
+        "difference": "醫在殹下加酉；殹沒有酉。殹是較少見字。"
+      },
+      {
+        "char": "毉",
+        "similarity": "上半部相同",
+        "difference": "醫下方酉；毉下方巫。毉是醫的異體字，課堂書寫使用醫。"
+      }
+    ],
+    "teachingTip": "先圈共同部件，再用另一色圈不同處；少見字或異體字只供辨形，不要求背寫。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

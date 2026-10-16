@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_db062f3c51049149",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "命",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "命",
+    "groups": {
+      "shape": [
+        {
+          "char": "令",
+          "why": "上方輪廓相近，末端都有折鉤形",
+          "difference": "命中間有一和口，下方右側是卩；令中段有點，下方不是口加卩。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "名",
+          "why": "命ㄇㄧㄥˋ與名ㄇㄧㄥˊ是聲調不同的近音。",
+          "difference": "生命用命；姓名用名。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "生",
+          "why": "生命與生存都和活著有關。",
+          "difference": "命指生命或命令；生可指生長、出生，不能任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "令",
+          "why": "上方輪廓近似。",
+          "difference": "命有口和右下卩；令沒有口。"
+        }
+      ]
+    },
+    "tip": "先看字形不同處，再讀完整語詞確認意思；不要只靠相同讀音選字。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

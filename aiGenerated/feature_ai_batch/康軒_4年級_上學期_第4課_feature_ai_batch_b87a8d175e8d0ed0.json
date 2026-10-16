@@ -1,0 +1,55 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_4年級_上學期_第4課_feature_ai_batch_b87a8d175e8d0ed0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 15,
+    "batchCharacters": [
+      "偕",
+      "命",
+      "奉",
+      "獻",
+      "醫",
+      "療",
+      "衛",
+      "藥",
+      "治",
+      "翻",
+      "嶺",
+      "捐",
+      "宿",
+      "堂",
+      "濃"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_176499d14f56995e.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_9ee83f1a4167cac9.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_bad439e6cd8fda08.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_c693ac222a0b1301.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_b0f4fcfa1f96c362.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_d26f337487757c12.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_d32a2a246f88f140.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_a03708fa07975a26.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_78e8cbcdd721409d.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_d1242c2deef6fed5.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_efe750e590ce3d67.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_d50197d8b9131e93.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_b659b1a1f980b789.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_9e0d0869d9eb21d1.json",
+      "aiGenerated/memory_strategy/康軒_4年級_上學期_第4課_memory_strategy_1a8759b0f67cfb6a.json"
+    ]
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

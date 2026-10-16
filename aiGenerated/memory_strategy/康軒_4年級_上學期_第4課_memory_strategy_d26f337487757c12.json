@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "康軒_4年級_上學期_第4課_memory_strategy_d26f337487757c12",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "療",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "療",
+    "components": [
+      "疒",
+      "尞"
+    ],
+    "association": "想像生病的人接受醫療，慢慢康復。這是記字聯想，不是字源解釋。",
+    "mnemonic": "病字旁包著尞，醫療二字一起瞧。",
+    "visualPrompt": "中央以標準楷體呈現「療」，保持完整標準字形；用淡色標示觀察部件。字旁另畫：想像生病的人接受醫療，慢慢康復。插圖不嵌入、不替換任何筆畫。",
+    "teachingTip": "外部疒不是宀；與寮比較外框的差別。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

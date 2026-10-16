@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_82a86f78fe84aad4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "醫",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "醫",
+    "groups": {
+      "shape": [
+        {
+          "char": "醬",
+          "why": "下方都是酉",
+          "difference": "醫上方是殹，左為匚內有矢，右為殳；醬上方是將。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "衣",
+          "why": "醫與衣服的衣都讀ㄧ，是同音字。",
+          "difference": "醫療用醫；衣服用衣。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "治",
+          "why": "醫與治都可用於處理疾病。",
+          "difference": "醫偏向醫治與醫師；治也可指治理環境或國家。"
+        }
+      ],
+      "component": [
+        {
+          "char": "酉",
+          "why": "醫下方是酉。",
+          "difference": "酉是獨立部件，不等於西；醫還有整個上半部。"
+        }
+      ]
+    },
+    "tip": "先看字形不同處，再讀完整語詞確認意思；不要只靠相同讀音選字。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}

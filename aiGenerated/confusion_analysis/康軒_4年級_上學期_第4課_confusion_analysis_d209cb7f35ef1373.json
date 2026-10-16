@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "康軒_4年級_上學期_第4課_confusion_analysis_d209cb7f35ef1373",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "捐",
+    "publisher": "康軒",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "捐",
+    "groups": {
+      "shape": [
+        {
+          "char": "涓",
+          "why": "右邊都是肙",
+          "difference": "捐左扌；涓左氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "娟",
+          "why": "捐與娟都讀ㄐㄩㄢ，是同音字。",
+          "difference": "捐錢用捐；娟秀用娟。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "贈",
+          "why": "捐與贈都可涉及送出財物。",
+          "difference": "捐多為公益或救助；贈是贈送，對象和目的較廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "損",
+          "why": "兩字都有扌與右上口。",
+          "difference": "捐右下月形；損右下貝，表示損失等。"
+        }
+      ]
+    },
+    "tip": "先看字形不同處，再讀完整語詞確認意思；不要只靠相同讀音選字。"
+  },
+  "createdAt": "2026-10-16T04:31:26.718879Z"
+}
