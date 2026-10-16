@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_f079647f881cb0f9",
+  "input": {
+    "char": "焦",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "焦",
+    "groups": {
+      "shape": [
+        {
+          "char": "蕉",
+          "why": "蕉在焦上方多了艹，容易漏加或多加。",
+          "difference": "焦沒有艹，例：焦急；蕉有艹，例：香蕉。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "交",
+          "why": "同音：焦、交都讀ㄐㄧㄠ。",
+          "difference": "心裡著急寫「焦急」；彼此交換寫「交流」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "急",
+          "why": "在焦急中都有著急的意思。",
+          "difference": "焦還能表示受熱過度而變乾黑，如燒焦；急還可指速度快或時間緊，如急速、急件。"
+        }
+      ],
+      "component": [
+        {
+          "char": "瞧",
+          "why": "焦是瞧的右側完整部件。",
+          "difference": "焦是隹在灬上；瞧在焦的左邊加目，例：瞧見。"
+        }
+      ]
+    },
+    "tip": "焦急沒有艹，香蕉才有艹；焦下方四點是灬。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

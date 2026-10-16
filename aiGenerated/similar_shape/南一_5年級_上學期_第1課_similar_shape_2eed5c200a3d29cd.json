@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_2eed5c200a3d29cd",
+  "input": {
+    "targetChar": "拖",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "拖",
+    "similarChars": [
+      {
+        "char": "施",
+        "similarity": "右邊都有短撇、短橫與也。",
+        "difference": "拖左邊是扌；施左邊是方。"
+      },
+      {
+        "char": "他",
+        "similarity": "右下都有也。",
+        "difference": "拖左邊是扌，且也上有短撇、短橫；他左邊是亻，右邊只有也。"
+      },
+      {
+        "char": "地",
+        "similarity": "右下都有也。",
+        "difference": "拖左邊是扌，且也上有短撇、短橫；地左邊是土，右邊只有也。"
+      },
+      {
+        "char": "池",
+        "similarity": "右下都有也。",
+        "difference": "拖左邊是扌，且也上有短撇、短橫；池左邊是氵，右邊只有也。"
+      },
+      {
+        "char": "弛",
+        "similarity": "右下都有也。",
+        "difference": "拖左邊是扌，且也上有短撇、短橫；弛左邊是弓，右邊只有也。"
+      },
+      {
+        "char": "她",
+        "similarity": "右下都有也。",
+        "difference": "拖左邊是扌，且也上有短撇、短橫；她左邊是女，右邊只有也。"
+      }
+    ],
+    "teachingTip": "先圈出右下「也」，再檢查也的上方是否有短撇、短橫；左邊必須是提手旁。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

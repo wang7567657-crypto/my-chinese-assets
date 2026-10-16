@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_e0443aac5d174e49",
+  "input": {
+    "char": "某",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "某",
+    "groups": {
+      "shape": [
+        {
+          "char": "呆",
+          "why": "都是上方方形、下方木，容易忽略上半的橫畫。",
+          "difference": "某上方是甘；呆上方是口。某人、發呆不能互換。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "謀",
+          "why": "近音：某讀ㄇㄡˇ，謀讀ㄇㄡˊ，聲調不同。",
+          "difference": "不指明的人寫「某人」；想辦法寫「謀求」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "各",
+          "why": "都能用來指人或事物，指涉範圍容易混淆。",
+          "difference": "某指未指明的特定對象，如某人；各指每一個，如各人。"
+        }
+      ],
+      "component": [
+        {
+          "char": "媒",
+          "why": "媒的右半完整保留「某」。",
+          "difference": "某是甘在木上；媒在某的左邊加女，例：媒體。"
+        }
+      ]
+    },
+    "tip": "「某人」是不明說是哪個人；字形看清上甘下木。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

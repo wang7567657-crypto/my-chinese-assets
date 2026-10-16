@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_156877a95beb6d77",
+  "input": {
+    "char": "償",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "償",
+    "groups": {
+      "shape": [
+        {
+          "char": "賞",
+          "why": "償的右半就是賞，容易漏寫左邊。",
+          "difference": "償有亻，例：償還；賞沒有亻，例：欣賞。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "常",
+          "why": "同音：償、常都讀ㄔㄤˊ。",
+          "difference": "補上或歸還寫「償」；時常、常常用「常」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "還",
+          "why": "在歸還欠款的用法中意思相近。",
+          "difference": "償常用於償還、補償；還也可指把借來的物品送回，如還書。還在還書讀ㄏㄨㄢˊ，在還有讀ㄏㄞˊ。"
+        }
+      ],
+      "component": [
+        {
+          "char": "賞",
+          "why": "償是在賞的左邊加亻。",
+          "difference": "賞下方是貝，償也必須保留；不要把右半下方寫成常的巾。"
+        }
+      ]
+    },
+    "tip": "償還的償讀ㄔㄤˊ，左亻右賞；右下是貝，不是巾。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_fd3c3c3196bb0e41",
+  "input": {
+    "targetChar": "痕",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "痕",
+    "similarChars": [
+      {
+        "char": "很",
+        "similarity": "都含艮。",
+        "difference": "痕用疒包住艮；很在艮左邊加彳。"
+      },
+      {
+        "char": "狠",
+        "similarity": "都含艮。",
+        "difference": "痕用疒包住艮；狠在艮左邊加犭。"
+      },
+      {
+        "char": "恨",
+        "similarity": "都含艮。",
+        "difference": "痕用疒包住艮；恨在艮左邊加忄。"
+      },
+      {
+        "char": "根",
+        "similarity": "都含艮。",
+        "difference": "痕用疒包住艮；根在艮左邊加木。"
+      },
+      {
+        "char": "銀",
+        "similarity": "都含艮。",
+        "difference": "痕用疒包住艮；銀在艮左邊加金。"
+      },
+      {
+        "char": "限",
+        "similarity": "都含艮。",
+        "difference": "痕用疒包住艮；限在艮左邊加阝。"
+      }
+    ],
+    "teachingTip": "先認完整的艮，再看疒如何包住它；與其他艮字比較時，把外圍或左旁圈起來。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

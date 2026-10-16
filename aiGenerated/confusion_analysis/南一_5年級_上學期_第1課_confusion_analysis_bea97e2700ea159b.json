@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_bea97e2700ea159b",
+  "input": {
+    "char": "賠",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "賠",
+    "groups": {
+      "shape": [
+        {
+          "char": "培",
+          "why": "右邊相同，只差左旁。",
+          "difference": "賠左邊是貝，例：賠款；培左邊是土，例：培養。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "陪",
+          "why": "同音：賠、陪都讀ㄆㄟˊ。",
+          "difference": "補上損失寫「賠償」；和人在一起寫「陪伴」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "償",
+          "why": "都可表示補還，常組成賠償。",
+          "difference": "賠也能表示做生意虧損，如賠本；償常見於償還、補償。償還不能隨意寫成賠還。"
+        }
+      ],
+      "component": [
+        {
+          "char": "倍",
+          "why": "賠與倍右邊都是咅。",
+          "difference": "賠左邊是貝，與財物用法有關；倍左邊是亻，例：加倍。"
+        }
+      ]
+    },
+    "tip": "賠錢用貝，陪伴用阝，培養用土；三字都常讀ㄆㄟˊ。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

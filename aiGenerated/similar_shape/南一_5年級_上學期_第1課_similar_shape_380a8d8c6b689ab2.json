@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_380a8d8c6b689ab2",
+  "input": {
+    "targetChar": "較",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "較",
+    "similarChars": [
+      {
+        "char": "校",
+        "similarity": "右邊都是交。",
+        "difference": "較左邊是車；校左邊是木。"
+      },
+      {
+        "char": "咬",
+        "similarity": "右邊都是交。",
+        "difference": "較左邊是車；咬左邊是口。"
+      },
+      {
+        "char": "郊",
+        "similarity": "都含交。",
+        "difference": "較是車左、交右；郊是交左、阝右。"
+      },
+      {
+        "char": "姣",
+        "similarity": "右邊都是交。",
+        "difference": "較左邊是車；姣左邊是女。姣較少見。"
+      },
+      {
+        "char": "狡",
+        "similarity": "右邊都是交。",
+        "difference": "較左邊是車；狡左邊是犭。"
+      },
+      {
+        "char": "絞",
+        "similarity": "右邊都是交。",
+        "difference": "較左邊是車；絞左邊是糸。"
+      }
+    ],
+    "teachingTip": "共同部件是交；先辨認交的上下結構，再確認較左邊完整的車，別把車的橫畫漏掉。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

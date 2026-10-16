@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_aa982026831453fa",
+  "input": {
+    "targetChar": "賠",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "賠",
+    "similarChars": [
+      {
+        "char": "培",
+        "similarity": "右邊都是咅。",
+        "difference": "賠左邊是貝；培左邊是土。"
+      },
+      {
+        "char": "陪",
+        "similarity": "右邊都是咅。",
+        "difference": "賠左邊是貝；陪左邊是阝。"
+      },
+      {
+        "char": "倍",
+        "similarity": "右邊都是咅。",
+        "difference": "賠左邊是貝；倍左邊是亻。"
+      },
+      {
+        "char": "剖",
+        "similarity": "都含咅。",
+        "difference": "賠是貝左、咅右；剖是咅左、刂右。"
+      },
+      {
+        "char": "焙",
+        "similarity": "右邊都是咅。",
+        "difference": "賠左邊是貝；焙左邊是火。"
+      },
+      {
+        "char": "部",
+        "similarity": "都含咅。",
+        "difference": "賠是貝左、咅右；部是咅左、阝右。"
+      }
+    ],
+    "teachingTip": "共同部件是上立下口的咅；先確認它的位置，再找出賠左邊的貝。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

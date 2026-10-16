@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_2bd5d3eff3a3397f",
+  "input": {
+    "char": "痕",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "痕",
+    "groups": {
+      "shape": [
+        {
+          "char": "很",
+          "why": "都含艮，外側部件不同。",
+          "difference": "痕是疒包住艮，例：傷痕；很是彳加艮，例：很好。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "恨",
+          "why": "近音：痕讀ㄏㄣˊ，恨讀ㄏㄣˋ，聲調不同。",
+          "difference": "留下的印記寫「痕跡」；強烈怨憤寫「怨恨」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "跡",
+          "why": "都能指留下的印記，常合成痕跡。",
+          "difference": "痕常指表面留下的印子，如傷痕；跡還可指行動留下的線索，如足跡、事跡。"
+        }
+      ],
+      "component": [
+        {
+          "char": "根",
+          "why": "痕和根都含艮。",
+          "difference": "痕外側用疒；根左邊用木，例：樹根。艮的形體要保留，不要誤寫成良。"
+        }
+      ]
+    },
+    "tip": "痕是第二聲ㄏㄣˊ；傷痕用疒，怨恨用忄。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

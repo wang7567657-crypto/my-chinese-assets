@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_7fe34172cd634af9",
+  "input": {
+    "targetChar": "邁",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "邁",
+    "similarChars": [
+      {
+        "char": "萬",
+        "similarity": "邁內部就是完整的萬。",
+        "difference": "邁有辶托住萬；萬沒有辶。"
+      },
+      {
+        "char": "厲",
+        "similarity": "都含完整的萬。",
+        "difference": "邁外側是辶；厲上方和左側是厂。"
+      },
+      {
+        "char": "勵",
+        "similarity": "都含萬，內部筆畫密集。",
+        "difference": "邁是辶加萬；勵是厲在左、力在右。"
+      },
+      {
+        "char": "蠆",
+        "similarity": "都含完整的萬。",
+        "difference": "邁是辶加萬；蠆是萬下加虫。蠆為罕見字，僅供延伸。"
+      },
+      {
+        "char": "躉",
+        "similarity": "都含完整的萬。",
+        "difference": "邁是辶加萬；躉是萬下加足。躉較少見，僅供延伸。"
+      },
+      {
+        "char": "遇",
+        "similarity": "同有辶，內部下方都有禺的字形。",
+        "difference": "邁內部是萬，比遇內部的禺多上方艹形筆畫。"
+      }
+    ],
+    "teachingTip": "先認出完整「萬」，再看外側是否有辶；不要漏掉萬上方的艹形筆畫。蠆、躉只作延伸辨形。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

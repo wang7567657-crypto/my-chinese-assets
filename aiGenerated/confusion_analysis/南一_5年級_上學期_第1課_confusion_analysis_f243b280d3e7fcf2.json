@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_f243b280d3e7fcf2",
+  "input": {
+    "char": "慎",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "慎",
+    "groups": {
+      "shape": [
+        {
+          "char": "填",
+          "why": "右邊同是真，左旁容易混寫。",
+          "difference": "慎左邊是忄，例：謹慎；填左邊是土，例：填寫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "甚",
+          "why": "同音：慎與甚好的甚都讀ㄕㄣˋ。",
+          "difference": "小心用「慎」；甚好表示很好，用「甚」。此處不採「甚麼」的讀音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "謹",
+          "why": "都含小心、仔細的意思。",
+          "difference": "慎常用於慎重、慎思；謹常用於謹記、謹守，不能任意交換固定詞語的字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "真",
+          "why": "慎的右半是真，左邊另加忄。",
+          "difference": "慎不能漏掉忄；真的內部橫畫也要寫完整，不要把右半當成具。"
+        }
+      ]
+    },
+    "tip": "慎重用心留意，所以寫忄旁；慎讀ㄕㄣˋ，不讀ㄕㄥˋ。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

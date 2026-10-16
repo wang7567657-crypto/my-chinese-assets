@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_13721e67dbb5f6d3",
+  "input": {
+    "targetChar": "某",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "某",
+    "similarChars": [
+      {
+        "char": "謀",
+        "similarity": "右邊完整保留「某」。",
+        "difference": "謀在某的左邊加言；某沒有言。"
+      },
+      {
+        "char": "媒",
+        "similarity": "右邊完整保留「某」。",
+        "difference": "媒在某的左邊加女；某沒有女。"
+      },
+      {
+        "char": "煤",
+        "similarity": "右邊完整保留「某」。",
+        "difference": "煤在某的左邊加火；某沒有火。"
+      },
+      {
+        "char": "呆",
+        "similarity": "都是上方框形、下方木。",
+        "difference": "某上方是甘；呆上方是口。"
+      },
+      {
+        "char": "杲",
+        "similarity": "都是上方框形、下方木。",
+        "difference": "某上方是甘；杲上方是日。杲較少見，只作辨形延伸。"
+      },
+      {
+        "char": "柑",
+        "similarity": "都由甘和木組成。",
+        "difference": "某是甘上木下；柑是木左甘右。"
+      }
+    ],
+    "teachingTip": "把「某」分成上「甘」、下「木」；先辨認甘裡的一短橫，再看木是否放在下方。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第1課_similar_shape_1fe88c777aa896ee",
+  "input": {
+    "targetChar": "償",
+    "lessonChars": [
+      "灘",
+      "某",
+      "邁",
+      "拖",
+      "疲",
+      "擁",
+      "灌",
+      "倦",
+      "恩",
+      "遇",
+      "擦",
+      "痕",
+      "賠",
+      "償",
+      "焦",
+      "謹",
+      "慎",
+      "較"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "償",
+    "similarChars": [
+      {
+        "char": "賞",
+        "similarity": "償右邊就是賞。",
+        "difference": "償在賞左邊加亻；賞沒有亻。"
+      },
+      {
+        "char": "嘗",
+        "similarity": "右部上方與嘗上方都有尚形部件。",
+        "difference": "償有亻，右下是貝；嘗沒有亻，下方是旨。"
+      },
+      {
+        "char": "常",
+        "similarity": "償右部與常上方都有尚形部件。",
+        "difference": "償有亻，右下是貝；常沒有亻，下方是巾。"
+      },
+      {
+        "char": "掌",
+        "similarity": "償右部與掌上方都有尚形部件。",
+        "difference": "償有亻，右下是貝；掌沒有亻，下方是手。"
+      },
+      {
+        "char": "裳",
+        "similarity": "償右部與裳上方都有尚形部件。",
+        "difference": "償有亻，右下是貝；裳沒有亻，下方是衣。"
+      },
+      {
+        "char": "黨",
+        "similarity": "償右部與黨上方都有尚形部件。",
+        "difference": "償有亻，右下是貝；黨沒有亻，下方是黑。"
+      }
+    ],
+    "teachingTip": "先從右邊找出「賞」：上尚下貝，再確認左側的亻。把下方貝與旨、巾、手、衣、黑逐一對照。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}

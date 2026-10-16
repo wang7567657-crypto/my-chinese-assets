@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第1課_confusion_analysis_a4839b8fa4e8a46d",
+  "input": {
+    "char": "較",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "較",
+    "groups": {
+      "shape": [
+        {
+          "char": "校",
+          "why": "右邊同是交，左邊部件不同。",
+          "difference": "較左邊是車，例：比較；校左邊是木，例：學校。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "叫",
+          "why": "同音：較、叫都讀ㄐㄧㄠˋ。",
+          "difference": "互相比評寫「比較」；發出聲音或招呼寫「叫」。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "比",
+          "why": "都可用於相互衡量。",
+          "difference": "比較可說「比較兩件作品」；較也可放在形容詞前，如較高。比作比較句時常需帶對象，如比昨天高。"
+        }
+      ],
+      "component": [
+        {
+          "char": "交",
+          "why": "較的右邊是交，左邊另加車。",
+          "difference": "較讀ㄐㄧㄠˋ，交讀ㄐㄧㄠ；相同部件不表示聲調相同。"
+        }
+      ]
+    },
+    "tip": "比較、計較的較都讀ㄐㄧㄠˋ；左邊是車，不是校的木。"
+  },
+  "createdAt": "2026-10-16T11:42:30.855857Z"
+}
