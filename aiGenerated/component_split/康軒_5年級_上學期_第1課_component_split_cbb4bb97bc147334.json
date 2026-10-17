@@ -1,0 +1,64 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_5年級_上學期_第1課_component_split_cbb4bb97bc147334",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蚊",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第1課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "components": [
+      "虫",
+      "文"
+    ],
+    "note": "部首「虫」對應筆畫：1、2、3、4、5、6。",
+    "radical": "虫",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "split": [
+      6,
+      4
+    ],
+    "strokeCount": 10,
+    "structure": "左右",
+    "verification": {
+      "method": "2026-10-17重新下載並解析原始XML：10筆Stroke、10個唯一Outline，全部座標有限且在合理範圍，每筆Track至少2點；實際渲染部首虫（第1至6筆）藍色、文（第7至10筆）橘色並逐字目視核對。每筆恰好分配一次，分組保留原位置及原筆序。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/868a.xml"
+    },
+    "verified": true,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      [
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  "createdAt": "2026-10-17T10:28:29.763Z"
+}
