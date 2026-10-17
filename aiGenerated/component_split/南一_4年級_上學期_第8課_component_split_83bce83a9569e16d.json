@@ -1,0 +1,64 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_4年級_上學期_第8課_component_split_83bce83a9569e16d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "眶",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      5,
+      6
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    ],
+    "components": [
+      "目",
+      "匡"
+    ],
+    "strokeCount": 11,
+    "radical": "目",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "左目5畫、右匡6畫。依原始XML筆序分組，每筆恰好出現一次；與現有共用字典拆分一致，保留字典原條目。教育部國語小字典確認目部、部首外6畫、共11畫。",
+    "verification": {
+      "method": "重新讀取c9s原始XML，核對11個Stroke、11個不重複Outline，所有座標為有限數且位於0至2048內，每筆Track至少2個有效座標點；渲染全字並將第1至5筆目部標紅、第6至11筆匡標藍，視覺核對字形與部首分色通過。教育部部首核對：https://dict.mini.moe.edu.tw/SearchIndex/word_detail?wordID=D0002130",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/7736.xml"
+    }
+  },
+  "createdAt": "2026-10-17T06:45:10.273Z"
+}
