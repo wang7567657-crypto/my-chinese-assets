@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第10課_memory_strategy_c8292ad7121b8fdf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "訊",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "訊",
+    "components": [
+      "左部：言",
+      "右部：卂"
+    ],
+    "association": "記憶聯想（非字源）：用言語傳送消息，旁邊的訊息卡快速送達；以左『言』提示內容，右『卂』專門記形。",
+    "mnemonic": "言在左，卂在右，傳來消息叫音訊。",
+    "visualPrompt": "教學圖構想：左側以臺灣標準楷體呈現完整的『訊』，右側畫一張傳送中的訊息卡。動態線與卡片都在國字旁，右部保留『卂』的三筆，不畫成『丸』，不添小點。",
+    "teachingTip": "將『訊』與右部『卂』放大觀察。右邊有十字形的橫豎結構，沒有『丸』的小點；不要以『九加一點』記憶。配合『消息、音訊、通訊』理解。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

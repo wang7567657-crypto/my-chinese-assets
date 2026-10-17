@@ -1,0 +1,69 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_5年級_上學期_第10課_feature_ai_batch_104e9457dbc23053",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "context": {
+      "publisher": "南一",
+      "grade": "5年級",
+      "semester": "上學期",
+      "lesson": "第10課"
+    },
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 19,
+    "batchCharacters": [
+      "閒",
+      "罵",
+      "究",
+      "營",
+      "擔",
+      "彆",
+      "扭",
+      "規",
+      "勸",
+      "仇",
+      "討",
+      "郊",
+      "鍋",
+      "繫",
+      "互",
+      "誼",
+      "畢",
+      "訊",
+      "磊"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_d43b13f503410e55.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_9cfd50f51882134d.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_72ca2644e6b58864.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_a487c9c98500948d.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_b359bb9da4f11aa4.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_a306131d67e22d83.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_47f5797f7b2b2c8e.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_3a7c47eba158fc00.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_01c5949b2661c7ee.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_79f5115700c38f7b.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_8e94e5bed458d4fa.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_1eac3797ade76e43.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_25d4b2a3dddefc14.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_aadac55c3164d2fa.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_a6f777daa79e84f2.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_3db220bf1009c604.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_a3ec6b083d8abfa7.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_fe31014ae60f1278.json",
+      "aiGenerated/similar_shape/南一_5年級_上學期_第10課_similar_shape_222e14560467177c.json"
+    ]
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

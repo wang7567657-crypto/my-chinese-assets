@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_995970a9a5d616af",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "互",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "互",
+    "groups": {
+      "shape": [
+        {
+          "char": "五",
+          "why": "筆畫少且都有上下橫畫，整體輪廓容易混看。",
+          "difference": "互的中間有兩個轉折；五的中間有直筆和折筆，書寫時對照標準字卡，不把兩字的中間筆畫混在一起。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "戶",
+          "why": "同音：互相的互、門戶的戶都讀ㄏㄨˋ。",
+          "difference": "互表示彼此，如互助；戶可指門或人家，如門戶、住戶。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "協",
+          "why": "互助、協助都與幫忙有關。",
+          "difference": "互助強調彼此幫忙；協助是幫助別人，不一定是雙方互相幫忙。"
+        }
+      ],
+      "component": []
+    },
+    "tip": "互助是彼此幫忙；互與五看中間的折筆配置，再對照標準字卡。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

@@ -1,0 +1,69 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_5年級_上學期_第10課_feature_ai_batch_46cdcff47c4ef5f0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "context": {
+      "publisher": "南一",
+      "grade": "5年級",
+      "semester": "上學期",
+      "lesson": "第10課"
+    },
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 19,
+    "batchCharacters": [
+      "閒",
+      "罵",
+      "究",
+      "營",
+      "擔",
+      "彆",
+      "扭",
+      "規",
+      "勸",
+      "仇",
+      "討",
+      "郊",
+      "鍋",
+      "繫",
+      "互",
+      "誼",
+      "畢",
+      "訊",
+      "磊"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_3607575d2a970ce1.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_06df9862e8795781.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_48ee3641e2ae6197.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_c61fe7bab4f250f7.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_955dcc7b19163d98.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_d6c7a3f996baf031.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_1374d13a49bc77e2.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_f34ba99e1be4e263.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_f348a12fd99660e4.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_fc71e8b8f513d1a6.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_db27f4f5e0976de2.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_b344f12ab1112fc1.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_6e3d7e8eada07c22.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_1ba8b6bb41f20059.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_995970a9a5d616af.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_2cf23f44103b4108.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_e27d92a2786ed531.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_2b0fbdb8d21e9a7d.json",
+      "aiGenerated/confusion_analysis/南一_5年級_上學期_第10課_confusion_analysis_ecfcda84205eda9b.json"
+    ]
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

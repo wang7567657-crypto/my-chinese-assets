@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_f34ba99e1be4e263",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "規",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "規",
+    "groups": {
+      "shape": [
+        {
+          "char": "現",
+          "why": "右邊都是見，左邊筆畫容易混看。",
+          "difference": "規左邊是夫，如規定；現左邊是王，如出現。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "歸",
+          "why": "同音：規定的規、回歸的歸都讀ㄍㄨㄟ。",
+          "difference": "規定是訂下應遵守的內容；回歸是返回。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "則",
+          "why": "規則、準則都與可遵循的標準有關。",
+          "difference": "規可用於規定、規劃；則可用於原則、準則，不能把規劃寫成則劃。"
+        }
+      ],
+      "component": [
+        {
+          "char": "視",
+          "why": "都含「見」部件，但左側不同。",
+          "difference": "規左夫右見；視左礻右見，如注視。"
+        }
+      ]
+    },
+    "tip": "規定的規是夫加見；現是王加見，視是礻加見。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

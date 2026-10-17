@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第10課_similar_shape_b359bb9da4f11aa4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "擔",
+    "lessonChars": [
+      "閒",
+      "罵",
+      "究",
+      "營",
+      "擔",
+      "彆",
+      "扭",
+      "規",
+      "勸",
+      "仇",
+      "討",
+      "郊",
+      "鍋",
+      "繫",
+      "互",
+      "誼",
+      "畢",
+      "訊",
+      "磊"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "擔",
+    "similarChars": [
+      {
+        "char": "膽",
+        "similarity": "右半部同為詹。",
+        "difference": "擔左邊是扌；膽左邊是月。"
+      },
+      {
+        "char": "瞻",
+        "similarity": "右半部同為詹。",
+        "difference": "擔左邊是扌；瞻左邊是目。"
+      },
+      {
+        "char": "贍",
+        "similarity": "右半部同為詹。",
+        "difference": "擔左邊是扌；贍左邊是貝。贍較少見，可作部件辨識補充。"
+      },
+      {
+        "char": "蟾",
+        "similarity": "右半部同為詹。",
+        "difference": "擔左邊是扌；蟾左邊是虫。"
+      },
+      {
+        "char": "簷",
+        "similarity": "都有完整的詹部件。",
+        "difference": "擔是左扌右詹；簷是上竹下詹。"
+      },
+      {
+        "char": "詹",
+        "similarity": "詹與擔的右半部相同。",
+        "difference": "擔在詹左邊另有扌；詹沒有扌。"
+      }
+    ],
+    "teachingTip": "先固定共同部件詹，再辨認旁邊是扌、月、目、貝或虫。簷改成上下排列，也要看清部件位置。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

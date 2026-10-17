@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_06df9862e8795781",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "罵",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "罵",
+    "groups": {
+      "shape": [
+        {
+          "char": "駕",
+          "why": "下半部都是「馬」，容易忽略上半部。",
+          "difference": "罵上面是「罒」，如責罵；駕上面是「加」，如駕車。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "馬",
+          "why": "近音：聲母、韻母相同，聲調不同。",
+          "difference": "罵讀ㄇㄚˋ，第四聲，如責罵；馬讀ㄇㄚˇ，第三聲，如馬車。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "責",
+          "why": "責罵、斥責都與指出過錯有關。",
+          "difference": "罵偏重用嚴厲的話責備；責也能指責任，不能把負責寫成負罵。"
+        }
+      ],
+      "component": [
+        {
+          "char": "騎",
+          "why": "兩字都看得到「馬」部件。",
+          "difference": "罵的馬在下方，上面是罒；騎的馬在左邊，右邊是奇，如騎車。"
+        }
+      ]
+    },
+    "tip": "記住責罵的罵：上罒、下馬，讀第四聲；不要把上面寫成加。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

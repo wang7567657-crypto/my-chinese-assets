@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_e27d92a2786ed531",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "畢",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "畢",
+    "groups": {
+      "shape": [
+        {
+          "char": "華",
+          "why": "都有多條橫畫和中間的長直筆，整體容易混看。",
+          "difference": "畢上方有田形部分，如畢業；華上方是艹，如華麗。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "必",
+          "why": "同音：畢業的畢、必須的必都讀ㄅㄧˋ。",
+          "difference": "畢業是完成學業；必須表示一定要。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "完",
+          "why": "禮畢、完畢都含有結束、完成的意思。",
+          "difference": "畢也可表示全部，如原形畢露；完還可表示完整，如完好，兩字不能處處互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "界",
+          "why": "都是田部字，上方都可看見田形部分。",
+          "difference": "畢的下方有多條橫畫與貫穿的直筆；界下方是介，如世界。"
+        }
+      ]
+    },
+    "tip": "畢業、完畢用畢，必須用必；畢上方看田，華上方看艹。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

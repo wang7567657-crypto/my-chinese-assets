@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第10課_memory_strategy_c7c33718ef76bf45",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "閒",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "閒",
+    "components": [
+      "外框：門",
+      "裡面：月"
+    ],
+    "association": "記憶聯想（非字源）：門邊看月亮，想像有空閒時安靜休息的畫面。",
+    "mnemonic": "門裡一個月，空閒賞明月。",
+    "visualPrompt": "教學圖構想：左側用臺灣標準楷體清楚呈現完整的『閒』；右側畫一扇門和門旁賞月休息的人。月亮只出現在旁邊插圖，不取代字內的『月』；不改動、扭曲或遮住任何筆畫。",
+    "teachingTip": "先找外面的『門』，再找裡面的『月』。與『間』對照，指出『閒』裡是月，『間』裡是日；圖像只供記憶，不當成字源說明。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

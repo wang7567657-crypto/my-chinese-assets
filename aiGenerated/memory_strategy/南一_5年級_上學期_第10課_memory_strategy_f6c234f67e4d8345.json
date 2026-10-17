@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第10課_memory_strategy_f6c234f67e4d8345",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "磊",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "磊",
+    "components": [
+      "上部：石",
+      "左下：石",
+      "右下：石"
+    ],
+    "association": "記憶聯想（非字源）：三塊石頭排成上面一塊、下面兩塊，對應三個『石』的排列，幫助記住『磊』。",
+    "mnemonic": "一石上，兩石下，三石成磊記住它。",
+    "visualPrompt": "教學圖構想：左側以臺灣標準楷體呈現完整的『磊』，右側畫三塊石頭，排列為上一下二。石頭圖與文字分開，不把三個『石』變成石頭外形，也不將任何一個『石』省略。",
+    "teachingTip": "讓學生先指出三個『石』的位置，再練習上窄下寬的整體配置。以『光明磊落』認讀時，另外說明其指坦蕩正直，不能只靠三塊石頭猜詞義。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

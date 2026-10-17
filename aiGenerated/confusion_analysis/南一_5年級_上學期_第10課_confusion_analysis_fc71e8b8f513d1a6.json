@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_fc71e8b8f513d1a6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "仇",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "仇",
+    "groups": {
+      "shape": [
+        {
+          "char": "仆",
+          "why": "左邊都是亻，右邊都是簡單筆畫。",
+          "difference": "仇右邊是九，如仇恨；仆右邊是卜，如前仆後繼。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "愁",
+          "why": "條件同音：仇恨的仇、發愁的愁都讀ㄔㄡˊ。",
+          "difference": "仇恨是怨恨，發愁是憂慮。仇用作姓氏時讀ㄑㄧㄡˊ，不與愁同音。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "恨",
+          "why": "仇恨、怨恨都與深切的不滿有關。",
+          "difference": "仇可指怨恨，也可指敵對的人，如世仇；恨常表示怨恨的情緒，如痛恨。"
+        }
+      ],
+      "component": [
+        {
+          "char": "休",
+          "why": "都含左側的亻。",
+          "difference": "仇右邊是九，如仇敵；休右邊是木，如休息。"
+        }
+      ]
+    },
+    "tip": "仇恨讀ㄔㄡˊ，仇姓讀ㄑㄧㄡˊ；寫字時記住亻加九。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

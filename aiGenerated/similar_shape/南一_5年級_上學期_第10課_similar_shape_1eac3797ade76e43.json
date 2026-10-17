@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第10課_similar_shape_1eac3797ade76e43",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "郊",
+    "lessonChars": [
+      "閒",
+      "罵",
+      "究",
+      "營",
+      "擔",
+      "彆",
+      "扭",
+      "規",
+      "勸",
+      "仇",
+      "討",
+      "郊",
+      "鍋",
+      "繫",
+      "互",
+      "誼",
+      "畢",
+      "訊",
+      "磊"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "郊",
+    "similarChars": [
+      {
+        "char": "校",
+        "similarity": "都有交這個部件。",
+        "difference": "郊是左交右阝；校是左木右交。"
+      },
+      {
+        "char": "效",
+        "similarity": "左半部同為交。",
+        "difference": "郊右邊是阝；效右邊是攵。"
+      },
+      {
+        "char": "較",
+        "similarity": "都有交這個部件。",
+        "difference": "郊是左交右阝；較是左車右交。"
+      },
+      {
+        "char": "絞",
+        "similarity": "都有交這個部件。",
+        "difference": "郊是左交右阝；絞是左糹右交。"
+      },
+      {
+        "char": "蛟",
+        "similarity": "都有交這個部件。",
+        "difference": "郊是左交右阝；蛟是左虫右交。"
+      },
+      {
+        "char": "餃",
+        "similarity": "都有交這個部件。",
+        "difference": "郊是左交右阝；餃是左飠右交。"
+      }
+    ],
+    "teachingTip": "先圈出交，再找另一個部件。郊的阝在右邊；效的攵也在右邊，兩者最適合先做並排辨識。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第10課_similar_shape_a306131d67e22d83",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "彆",
+    "lessonChars": [
+      "閒",
+      "罵",
+      "究",
+      "營",
+      "擔",
+      "彆",
+      "扭",
+      "規",
+      "勸",
+      "仇",
+      "討",
+      "郊",
+      "鍋",
+      "繫",
+      "互",
+      "誼",
+      "畢",
+      "訊",
+      "磊"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "彆",
+    "similarChars": [
+      {
+        "char": "憋",
+        "similarity": "上半部同為敝。",
+        "difference": "彆的下方是弓；憋的下方是心。"
+      },
+      {
+        "char": "瞥",
+        "similarity": "上半部同為敝。",
+        "difference": "彆的下方是弓；瞥的下方是目。"
+      },
+      {
+        "char": "敝",
+        "similarity": "敝與彆的上半部相同。",
+        "difference": "彆在敝下方還有弓；敝沒有下方的弓。"
+      },
+      {
+        "char": "弊",
+        "similarity": "上半部同為敝。",
+        "difference": "彆的下方是弓；弊的下方是廾，兩者的轉折和豎筆不同。"
+      },
+      {
+        "char": "蔽",
+        "similarity": "都有完整的敝部件。",
+        "difference": "彆是上敝下弓；蔽是上艹下敝。"
+      },
+      {
+        "char": "撇",
+        "similarity": "都有完整的敝部件。",
+        "difference": "彆是上敝下弓；撇是左扌右敝。"
+      }
+    ],
+    "teachingTip": "彆、憋、瞥、弊先看共同的敝，再用不同顏色圈出弓、心、目、廾。寫彆時，最後確認下方是弓。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

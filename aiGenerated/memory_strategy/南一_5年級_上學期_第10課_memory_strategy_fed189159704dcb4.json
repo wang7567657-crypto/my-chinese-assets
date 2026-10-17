@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第10課_memory_strategy_fed189159704dcb4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "罵",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "罵",
+    "components": [
+      "上部：罒",
+      "下部：馬"
+    ],
+    "association": "記憶聯想（非字源）：把上面的『罒』想成網格標記，下面的『馬』配一張馬的圖卡，再和『責罵』一起記。",
+    "mnemonic": "上罒下馬，記住責罵的罵。",
+    "visualPrompt": "教學圖構想：左側以臺灣標準楷體呈現完整的『罵』，右側分開畫網格和一匹馬的小圖示，另以簡單表情呈現有人大聲說話。所有圖示都在字外，不把『罒』畫成四，也不以馬圖代替『馬』字。",
+    "teachingTip": "上下分塊辨認。上方是『罒』的形狀，不是數字『四』；下方『馬』的筆畫要保留。可用『責罵』理解字義，避免把記憶故事當作造字解釋。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

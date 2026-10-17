@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第10課_memory_strategy_a8399d59ab33af06",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "郊",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "郊",
+    "components": [
+      "左部：交",
+      "右部：阝（邑字旁）"
+    ],
+    "association": "記憶聯想（非字源）：從城市出發，到道路交會的郊外散步；『交』幫助記形，右側邑字旁提示地方。",
+    "mnemonic": "左交右耳旁，走到郊外看風光。",
+    "visualPrompt": "教學圖構想：左側以臺灣標準楷體呈現完整的『郊』，右側畫城市外的草地、交會的小路和散步的人。『阝』維持在右邊，不把它變成耳朵圖；所有插圖都與國字分開。",
+    "teachingTip": "特別指出『阝』在右邊，這裡是邑字旁。將『交』與『郊』並列，增加右部後配合『郊外、郊遊』認讀。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

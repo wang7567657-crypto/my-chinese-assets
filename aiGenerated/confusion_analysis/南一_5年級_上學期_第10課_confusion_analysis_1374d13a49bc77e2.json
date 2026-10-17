@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_1374d13a49bc77e2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "扭",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "扭",
+    "groups": {
+      "shape": [
+        {
+          "char": "紐",
+          "why": "右邊都是丑，容易把左邊寫錯。",
+          "difference": "扭左邊是扌，如扭動；紐左邊是糹，如紐帶。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "牛",
+          "why": "近音：聲母、韻母相同，聲調不同。",
+          "difference": "扭讀ㄋㄧㄡˇ，第三聲，如扭轉；牛讀ㄋㄧㄡˊ，第二聲，如牛奶。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "轉",
+          "why": "扭轉、轉動都與改變方向有關。",
+          "difference": "扭常強調用力旋動或使形狀改變，如扭毛巾；轉也能表示換方向，如轉彎。"
+        }
+      ],
+      "component": [
+        {
+          "char": "鈕",
+          "why": "右邊都含丑，但左邊部件不同。",
+          "difference": "扭是扌加丑，常表示動作；鈕是金加丑，常指按鈕、旋鈕等器物零件。"
+        }
+      ]
+    },
+    "tip": "扭動是動作，用扌；按鈕是器物零件，用金。彆扭的扭也讀ㄋㄧㄡˇ。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

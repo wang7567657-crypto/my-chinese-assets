@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第10課_similar_shape_3db220bf1009c604",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "誼",
+    "lessonChars": [
+      "閒",
+      "罵",
+      "究",
+      "營",
+      "擔",
+      "彆",
+      "扭",
+      "規",
+      "勸",
+      "仇",
+      "討",
+      "郊",
+      "鍋",
+      "繫",
+      "互",
+      "誼",
+      "畢",
+      "訊",
+      "磊"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "誼",
+    "similarChars": [
+      {
+        "char": "宜",
+        "similarity": "宜與誼的右半部相同。",
+        "difference": "誼在宜左邊另有言；宜沒有左邊的言。"
+      },
+      {
+        "char": "詛",
+        "similarity": "左半部同為言，右下部同為且。",
+        "difference": "誼的且上方還有宀，組成宜；詛右邊直接是且，沒有宀。"
+      },
+      {
+        "char": "祖",
+        "similarity": "右下方都有且形。",
+        "difference": "誼是左言右宜，且上有宀；祖是左礻右且，沒有宀。"
+      },
+      {
+        "char": "租",
+        "similarity": "右下方都有且形。",
+        "difference": "誼左邊是言，且上方有宀；租左邊是禾，右邊的且上方沒有宀。"
+      },
+      {
+        "char": "組",
+        "similarity": "右下方都有且形。",
+        "difference": "誼左邊是言，且上方有宀；組左邊是糹，右邊的且上方沒有宀。"
+      },
+      {
+        "char": "姐",
+        "similarity": "右下方都有且形。",
+        "difference": "誼左邊是言，且上方有宀；姐左邊是女，右邊的且上方沒有宀。"
+      }
+    ],
+    "teachingTip": "先比較誼與詛：左邊都是言，最重要的差別是且上方有沒有宀。再換左旁作辨識，記住誼右邊必須完整寫成宜。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}

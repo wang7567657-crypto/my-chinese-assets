@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_2b0fbdb8d21e9a7d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "訊",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "訊",
+    "groups": {
+      "shape": [
+        {
+          "char": "記",
+          "why": "左邊都是言，右邊的折筆容易混淆。",
+          "difference": "訊右邊是卂，如訊息；記右邊是己，如記錄。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "迅",
+          "why": "同音：訊息的訊、迅速的迅都讀ㄒㄩㄣˋ。",
+          "difference": "訊與消息有關；迅表示快，迅速不能寫成訊速。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "息",
+          "why": "訊息、消息都可指傳來的資訊。",
+          "difference": "訊常指音信、消息，如音訊；息在休息中是停止活動，不能改用訊。"
+        }
+      ],
+      "component": [
+        {
+          "char": "汛",
+          "why": "右邊都含卂，左側部件不同。",
+          "difference": "訊左言，組詞訊息；汛左氵，組詞汛期，與水位上漲有關。"
+        }
+      ]
+    },
+    "tip": "消息用言部的訊，水勢用氵的汛，速度快用辶的迅。"
+  },
+  "createdAt": "2026-10-17T17:49:47.788901Z"
+}
