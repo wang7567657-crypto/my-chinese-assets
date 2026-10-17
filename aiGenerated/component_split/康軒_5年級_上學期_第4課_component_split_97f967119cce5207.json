@@ -1,0 +1,65 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_5年級_上學期_第4課_component_split_97f967119cce5207",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "堆",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      3,
+      8
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    ],
+    "components": [
+      "土",
+      "隹"
+    ],
+    "strokeCount": 11,
+    "radical": "土",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "以部首及其餘部分分組；split為各組筆畫數，必須依strokeGroups取筆，保留原字位置和組內筆序；每筆恰好出現一次，不依分組順序改寫全字筆順。",
+    "verification": {
+      "method": "重新下載原始XML，核對Stroke數、輪廓無重複、有限合理座標及有效Track；渲染部首藍色、其餘橘色字形，逐字視覺核對。strokeGroups為1起算且每筆恰好一次。",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/5806.xml",
+      "sourceBlobSha": "69b27cd0cd2e729e33d29e417199ff1f609d77ee",
+      "radicalReferenceUrl": "https://stroke-order.learningweb.moe.edu.tw/dictMean.jsp?ID=22534&la=0",
+      "checkedAt": "2026-10-17T04:20:47.302Z"
+    }
+  },
+  "createdAt": "2026-10-17T04:20:47.302Z"
+}
