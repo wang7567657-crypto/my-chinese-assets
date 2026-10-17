@@ -1,0 +1,68 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_4年級_上學期_第8課_component_split_aa0736320dd37e0f",
+  "input": {
+    "char": "嚇",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "structure": "左右",
+    "split": [
+      3,
+      14
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    ],
+    "components": [
+      "口",
+      "其餘部分"
+    ],
+    "strokeCount": 17,
+    "radical": "口",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "verified": true,
+    "note": "採部首與其餘部分兩組；split 為各組筆數，實際筆序依 strokeGroups。每筆恰好出現一次，保留原字位置與組內筆順。",
+    "source": "c9s/zh-stroke-data",
+    "verification": {
+      "method": "重新下載並解析原始XML，核對Stroke數、輪廓無重複、有限合理座標及有效Track；以原始輪廓渲染藍色部首、橘色其餘部分並逐字視覺核對。strokeGroups每筆恰好出現一次；與最新共用字典分組一致。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5687.xml"
+    }
+  },
+  "createdAt": "2026-10-17T03:39:00.153Z"
+}
