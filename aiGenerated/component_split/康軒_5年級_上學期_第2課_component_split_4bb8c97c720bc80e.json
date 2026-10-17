@@ -26,7 +26,7 @@
       3
     ],
     "radicalVerified": true,
-    "source": "c9s_strokes_reviewed",
+    "source": "c9s/zh-stroke-data",
     "split": [
       3,
       3
@@ -47,11 +47,13 @@
     "structure": "左右",
     "updatedAt": "2026-09-19T17:06:32.875Z",
     "verification": {
-      "method": "核對 c9s XML 筆畫數、臺灣常用部首與原始筆順序號；依部首與其餘部分分組，不重排筆畫。",
+      "method": "重新讀取c9s原始XML，核對字元、Stroke數、Outline輪廓無重複、座標有限且合理及Track有效；渲染全字部首藍色、其餘橘色並逐字視覺核對，strokeGroups每筆恰好出現一次。保留原已核對分組與原始input。",
       "sourceBlobSha": "cdcd4d75bb3af2824c06b9fc9f3d04551e0bb75e",
-      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6c59.xml"
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6c59.xml",
+      "checkedAt": "2026-10-17T03:24:06.877Z"
     },
     "verified": true
   },
-  "createdAt": "2026-09-19T17:06:32.875Z"
+  "createdAt": "2026-09-19T17:06:32.875Z",
+  "status": "completed"
 }
