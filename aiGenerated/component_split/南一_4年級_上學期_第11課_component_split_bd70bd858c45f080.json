@@ -1,0 +1,66 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_4年級_上學期_第11課_component_split_bd70bd858c45f080",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "痛",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "data": {
+    "radical": "疒",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "strokeCount": 12,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    ],
+    "split": [
+      5,
+      7
+    ],
+    "components": [
+      "疒",
+      "其餘部分"
+    ],
+    "structure": "半包圍",
+    "verified": true,
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "沿用最新共用字典分組，重新核對本字原始XML及部首分色；每筆恰好出現一次，保留原字位置與筆序。",
+    "verification": {
+      "method": "核對原始XML的Stroke數、輪廓無重複、有限合理座標及有效Track，並完成字形與部首分色視覺核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/75db.xml",
+      "checkedAt": "2026-10-17T07:45:04.728Z"
+    }
+  },
+  "createdAt": "2026-10-17T07:45:04.728Z"
+}
