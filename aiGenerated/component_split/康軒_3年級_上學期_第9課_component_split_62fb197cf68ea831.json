@@ -1,0 +1,67 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_3年級_上學期_第9課_component_split_62fb197cf68ea831",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "慧",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "structure": "上下",
+    "split": [
+      11,
+      4
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      [
+        12,
+        13,
+        14,
+        15
+      ]
+    ],
+    "components": [
+      "彗",
+      "心"
+    ],
+    "strokeCount": 15,
+    "radical": "心",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "沿用既有彗11筆、心4筆分組。重新取得來源XML核對15筆且輪廓不重複、座標有限合理、Track有效；渲染字形並將心部第12至15筆分色後逐筆視覺確認。每筆恰好分配一次。",
+    "verification": {
+      "method": "重新下載c9s XML，檢查Stroke數、唯一輪廓、所有座標與Track；按實際輪廓渲染慧字，彗部藍色、心部紅色，視覺核對心部為第12–15筆；完整分組覆蓋1–15筆且不重複。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6167.xml"
+    }
+  },
+  "createdAt": "2026-10-17T07:18:23.533Z"
+}
