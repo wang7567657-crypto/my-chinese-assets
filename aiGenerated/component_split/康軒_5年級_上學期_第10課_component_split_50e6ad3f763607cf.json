@@ -1,0 +1,67 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_5年級_上學期_第10課_component_split_50e6ad3f763607cf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "詠",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      7,
+      5
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    ],
+    "components": [
+      "言",
+      "其餘部分"
+    ],
+    "strokeCount": 12,
+    "radical": "言",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+    "verification": {
+      "method": "重新下載並解析原始 XML：12筆 Stroke、12個不重複輪廓、所有輪廓與Track座標有限且介於89至1959、每筆Track至少2點；依原筆序以1至7筆藍色（言部）、8至12筆橘色渲染，實際目視核對標準字形與部首分色。strokeGroups每筆恰好出現一次。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/8a60.xml"
+    }
+  },
+  "createdAt": "2026-10-17T18:21:38.128Z"
+}
