@@ -1,0 +1,62 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_5年級_上學期_第5課_component_split_f81abae361cff943",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "勝",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      2,
+      10
+    ],
+    "strokeGroups": [
+      [
+        11,
+        12
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ],
+    "components": [
+      "力",
+      "其餘部分"
+    ],
+    "strokeCount": 12,
+    "radical": "力",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      11,
+      12
+    ],
+    "verified": true,
+    "note": "只分部首與其餘部分；strokeGroups為1起算，每筆恰好一次，保留原字位置與筆順。",
+    "source": "c9s/zh-stroke-data",
+    "verification": {
+      "method": "重新讀取 c9s 原始 XML，核對 12 筆 Stroke、唯一 Outline、有限且合理座標及有效 Track；每筆恰好分配一次。實際渲染部首藍色、其餘橘色，目視確認完整字形與右下力部第 11、12 筆。沿用既有字典相同分組，不變更共用字典。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/52dd.xml"
+    }
+  },
+  "createdAt": "2026-10-17T06:22:32.655Z"
+}
