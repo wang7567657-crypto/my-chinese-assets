@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_2cf23f44103b4108",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "誼",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "誼",
+    "groups": {
+      "shape": [
+        {
+          "char": "宜",
+          "why": "誼的右邊就是宜，抄寫時容易漏掉言。",
+          "difference": "誼左邊要有言，如友誼；宜沒有言，如適宜。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "義",
+          "why": "同音：友誼的誼、正義的義都讀ㄧˋ。",
+          "difference": "友誼指朋友間的交情；正義與公正的道理有關。誼不讀宜的ㄧˊ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "情",
+          "why": "情誼、感情都與人與人之間的情感有關。",
+          "difference": "誼在友誼中偏重交情；情的範圍更廣，也可指情緒、情況。"
+        }
+      ],
+      "component": [
+        {
+          "char": "誦",
+          "why": "左邊都是言，右邊須另外辨認。",
+          "difference": "誼右邊是宜，如情誼；誦右邊是甬，如朗誦。"
+        }
+      ]
+    },
+    "tip": "友誼的誼是言加宜，但讀ㄧˋ，第四聲；不要跟著宜讀第二聲。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

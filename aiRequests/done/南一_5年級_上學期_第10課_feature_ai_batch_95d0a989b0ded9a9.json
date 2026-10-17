@@ -1,0 +1,343 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_5年級_上學期_第10課_feature_ai_batch_95d0a989b0ded9a9",
+  "status": "done",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "context": {
+      "publisher": "南一",
+      "grade": "5年級",
+      "semester": "上學期",
+      "lesson": "第10課"
+    },
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 19,
+    "batchCharacters": [
+      "閒",
+      "罵",
+      "究",
+      "營",
+      "擔",
+      "彆",
+      "扭",
+      "規",
+      "勸",
+      "仇",
+      "討",
+      "郊",
+      "鍋",
+      "繫",
+      "互",
+      "誼",
+      "畢",
+      "訊",
+      "磊"
+    ],
+    "items": [
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_c7c33718ef76bf45",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "閒",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_fed189159704dcb4",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "罵",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_9d8a2b07dadb8cab",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "究",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_020abb6fa9a9475b",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "營",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_0124a0364cf38678",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "擔",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_0ccba636a7a01138",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "彆",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_7b2dd12366a1d701",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "扭",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_1ee465bf2f1b24cb",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "規",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_ee4d76a4471dc7ad",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "勸",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_8287190234e23ead",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "仇",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_6a696483bf4425f7",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "討",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_a8399d59ab33af06",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "郊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_d81562cf792f6738",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "鍋",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_5dfd9dc41b6ee824",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "繫",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_b3ba9d0e167c800d",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "互",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_4690fa247d6633ed",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "誼",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_8f379d164056fe13",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "畢",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_c8292ad7121b8fdf",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "訊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第10課_memory_strategy_f6c234f67e4d8345",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第10課",
+          "char": "磊",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z",
+  "processedAt": "2026-10-17T17:51:06.997449Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_5年級_上學期_第10課_feature_ai_batch_95d0a989b0ded9a9",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "南一",
+      "grade": "5年級",
+      "semester": "上學期",
+      "lesson": "第10課",
+      "context": {
+        "publisher": "南一",
+        "grade": "5年級",
+        "semester": "上學期",
+        "lesson": "第10課"
+      },
+      "featureTaskType": "memory_strategy",
+      "featureName": "記憶策略",
+      "itemCount": 19,
+      "batchCharacters": [
+        "閒",
+        "罵",
+        "究",
+        "營",
+        "擔",
+        "彆",
+        "扭",
+        "規",
+        "勸",
+        "仇",
+        "討",
+        "郊",
+        "鍋",
+        "繫",
+        "互",
+        "誼",
+        "畢",
+        "訊",
+        "磊"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 19,
+      "resultPaths": [
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_c7c33718ef76bf45.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_fed189159704dcb4.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_9d8a2b07dadb8cab.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_020abb6fa9a9475b.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_0124a0364cf38678.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_0ccba636a7a01138.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_7b2dd12366a1d701.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_1ee465bf2f1b24cb.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_ee4d76a4471dc7ad.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_8287190234e23ead.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_6a696483bf4425f7.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_a8399d59ab33af06.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_d81562cf792f6738.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_5dfd9dc41b6ee824.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_b3ba9d0e167c800d.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_4690fa247d6633ed.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_8f379d164056fe13.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_c8292ad7121b8fdf.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第10課_memory_strategy_f6c234f67e4d8345.json"
+      ]
+    },
+    "createdAt": "2026-10-17T17:51:06.997449Z"
+  }
+}

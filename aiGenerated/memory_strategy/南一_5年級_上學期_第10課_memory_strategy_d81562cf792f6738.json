@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第10課_memory_strategy_d81562cf792f6738",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "鍋",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鍋",
+    "components": [
+      "左部：金",
+      "右部：咼"
+    ],
+    "association": "記憶聯想（非字源）：看到金屬做的鍋，連結左邊的金字旁；右側『咼』用完整圖卡記形。",
+    "mnemonic": "金在左，咼在右，鍋子煮湯香味有。",
+    "visualPrompt": "教學圖構想：左側以臺灣標準楷體呈現完整的『鍋』，右側畫一只金屬湯鍋，少量蒸氣朝字外飄。『金』和『咼』都維持標準字形，不以鍋身取代『咼』，不讓蒸氣遮住文字。",
+    "teachingTip": "左側是完整的金字旁，右側不是『呙』。『咼』上部的轉折與內橫位置依臺灣標準字卡練寫，不憑鍋子的外觀改造字形。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

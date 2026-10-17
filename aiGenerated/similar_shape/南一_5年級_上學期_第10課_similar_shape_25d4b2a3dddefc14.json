@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第10課_similar_shape_25d4b2a3dddefc14",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "鍋",
+    "lessonChars": [
+      "閒",
+      "罵",
+      "究",
+      "營",
+      "擔",
+      "彆",
+      "扭",
+      "規",
+      "勸",
+      "仇",
+      "討",
+      "郊",
+      "鍋",
+      "繫",
+      "互",
+      "誼",
+      "畢",
+      "訊",
+      "磊"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "鍋",
+    "similarChars": [
+      {
+        "char": "過",
+        "similarity": "都有咼這個部件。",
+        "difference": "鍋是左金右咼；過用辶包住咼的左下方。"
+      },
+      {
+        "char": "禍",
+        "similarity": "右半部同為咼。",
+        "difference": "鍋左邊是金；禍左邊是礻。"
+      },
+      {
+        "char": "渦",
+        "similarity": "右半部同為咼。",
+        "difference": "鍋左邊是金；渦左邊是氵。"
+      },
+      {
+        "char": "蝸",
+        "similarity": "右半部同為咼。",
+        "difference": "鍋左邊是金；蝸左邊是虫。"
+      },
+      {
+        "char": "窩",
+        "similarity": "都有咼這個部件。",
+        "difference": "鍋是左金右咼；窩是上穴下咼。"
+      },
+      {
+        "char": "媧",
+        "similarity": "右半部同為咼。",
+        "difference": "鍋左邊是金；媧左邊是女。媧較少見，常見於女媧，可作辨識補充。"
+      }
+    ],
+    "teachingTip": "先固定咼的寫法，再辨認金、礻、氵、虫、女等左旁。另將窩、過拿出來，比較上下結構與左下包圍的不同。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

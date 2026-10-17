@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_1ba8b6bb41f20059",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "繫",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "繫",
+    "groups": {
+      "shape": [
+        {
+          "char": "擊",
+          "why": "上半部相同，容易把下方部件寫錯。",
+          "difference": "繫下面是糸，如維繫；擊下面是手，如打擊。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "係",
+          "why": "條件同音：維繫的繫、關係的係都讀ㄒㄧˋ。",
+          "difference": "維繫用繫，關係用係。繫鞋帶的繫讀ㄐㄧˋ，不能把繫一律讀成ㄒㄧˋ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "綁",
+          "why": "繫鞋帶、綁鞋帶都可表示把帶子結好。",
+          "difference": "繫還可表示連接、保持聯繫，如維繫友誼；綁常指把東西用繩帶束住。"
+        }
+      ],
+      "component": [
+        {
+          "char": "絲",
+          "why": "兩字都含糸形部件，但組合不同。",
+          "difference": "繫下方只有一個糸，上方還有其他部件；絲是左右兩個糸形部件，如絲線。"
+        }
+      ]
+    },
+    "tip": "繫下糸，擊下手；維繫讀ㄒㄧˋ，繫鞋帶讀ㄐㄧˋ，要連著詞語記。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

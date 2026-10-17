@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第10課_similar_shape_01c5949b2661c7ee",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "勸",
+    "lessonChars": [
+      "閒",
+      "罵",
+      "究",
+      "營",
+      "擔",
+      "彆",
+      "扭",
+      "規",
+      "勸",
+      "仇",
+      "討",
+      "郊",
+      "鍋",
+      "繫",
+      "互",
+      "誼",
+      "畢",
+      "訊",
+      "磊"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "勸",
+    "similarChars": [
+      {
+        "char": "歡",
+        "similarity": "左半部同為雚。",
+        "difference": "勸右邊是力；歡右邊是欠。"
+      },
+      {
+        "char": "觀",
+        "similarity": "左半部同為雚。",
+        "difference": "勸右邊是力；觀右邊是見。"
+      },
+      {
+        "char": "權",
+        "similarity": "都有雚這個部件。",
+        "difference": "勸是左雚右力；權是左木右雚。"
+      },
+      {
+        "char": "灌",
+        "similarity": "都有雚這個部件。",
+        "difference": "勸是左雚右力；灌是左氵右雚。"
+      },
+      {
+        "char": "罐",
+        "similarity": "都有雚這個部件。",
+        "difference": "勸是左雚右力；罐是左缶右雚。"
+      },
+      {
+        "char": "顴",
+        "similarity": "左半部同為雚。",
+        "difference": "勸右邊是力；顴右邊是頁。顴較少見，可作部件辨識補充。"
+      }
+    ],
+    "teachingTip": "先找共同的雚，再看另一個部件及其位置。勸、歡、觀的分辨重點在右邊的力、欠、見。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

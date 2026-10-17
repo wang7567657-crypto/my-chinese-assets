@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_c61fe7bab4f250f7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "營",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "營",
+    "groups": {
+      "shape": [
+        {
+          "char": "熒",
+          "why": "兩字上方相同，下方的形狀容易混淆。",
+          "difference": "營下面是呂，如營地；熒下面是火，如熒光。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "迎",
+          "why": "同音：營地的營、歡迎的迎都讀ㄧㄥˊ。",
+          "difference": "營可指營地或經營；迎是迎接，如歡迎。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "辦",
+          "why": "經營、辦理都與處理事務有關。",
+          "difference": "營在經營中偏重持續管理；辦在辦理中指處理某件事，營地的營則不是辦理。"
+        }
+      ],
+      "component": [
+        {
+          "char": "螢",
+          "why": "上方都含兩個火形部件和冖，須看清下方。",
+          "difference": "營下面是呂，如營火；螢下面是虫，如螢火蟲。"
+        }
+      ]
+    },
+    "tip": "營、熒、螢看下方：營是呂，熒是火，螢是虫。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

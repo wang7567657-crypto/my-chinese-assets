@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第10課_memory_strategy_1ee465bf2f1b24cb",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "規",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "規",
+    "components": [
+      "左部：夫",
+      "右部：見"
+    ],
+    "association": "記憶聯想（非字源）：看見規則牌，先看清楚再照規則做；利用『見』連結『看見』，左側『夫』另外辨認。",
+    "mnemonic": "左夫右見，規則看見。",
+    "visualPrompt": "教學圖構想：左側以臺灣標準楷體呈現完整的『規』，右側畫一個人觀看清楚的規則牌。可在字外分別標示『夫』與『見』；不將『見』畫成眼睛，也不改動『夫』的兩橫。",
+    "teachingTip": "左側是『夫』，可與『天、大』比較橫畫位置；右側是『見』，內部不能少橫。以『規則、規定』連結字義，不把畫面當成字源。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}
