@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第8課_confusion_analysis_766a84c1988f14e5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "硬",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "硬",
+    "groups": {
+      "shape": [
+        {
+          "char": "梗",
+          "why": "右邊同為更",
+          "difference": "硬左石；梗左木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "映",
+          "why": "同音：硬ㄧㄥˋ、映ㄧㄥˋ同音",
+          "difference": "堅硬用硬；倒映用映。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "堅",
+          "why": "都可形容牢固",
+          "difference": "硬強調不易變形；堅常見於堅固、堅定。"
+        }
+      ],
+      "component": [
+        {
+          "char": "更",
+          "why": "硬右邊是更",
+          "difference": "左側配石，不是木或亻。"
+        }
+      ]
+    },
+    "tip": "石頭硬，硬字左邊石。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

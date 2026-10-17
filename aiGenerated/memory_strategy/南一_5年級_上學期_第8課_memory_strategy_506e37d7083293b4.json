@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第8課_memory_strategy_506e37d7083293b4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "漢",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "漢",
+    "components": [
+      "氵",
+      "右側完整字形"
+    ],
+    "association": "字旁畫一本漢字練習簿。（這是記憶聯想，不是字源解說。）",
+    "mnemonic": "左邊三點水，右邊看仔細，漢字端正寫。",
+    "visualPrompt": "在完整、清楚的標準繁體「漢」字旁畫打開的漢字練習簿；文字與插畫分開，不改造、遮擋、替換或增減字的筆畫。",
+    "teachingTip": "與嘆、難並排觀察右側共同部分，不把右側簡化成單獨某字。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

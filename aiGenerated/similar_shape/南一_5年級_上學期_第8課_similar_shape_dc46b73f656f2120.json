@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第8課_similar_shape_dc46b73f656f2120",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "律",
+    "lessonChars": [
+      "鄉",
+      "撲",
+      "螺",
+      "鮭",
+      "葵",
+      "稠",
+      "柔",
+      "旋",
+      "律",
+      "麥",
+      "噓",
+      "硬",
+      "扁",
+      "抗",
+      "筋",
+      "椒",
+      "蒜",
+      "漢",
+      "蓋"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "律",
+    "similarChars": [
+      {
+        "char": "津",
+        "similarity": "右邊同樣是「聿」。",
+        "difference": "「律」左邊是彳；「津」左邊是氵。"
+      },
+      {
+        "char": "建",
+        "similarity": "都含有「聿」。",
+        "difference": "「律」左邊是彳；「建」由廴托住聿。"
+      },
+      {
+        "char": "筆",
+        "similarity": "都含有「聿」。",
+        "difference": "「律」是左彳右聿；「筆」是上竹下聿。"
+      },
+      {
+        "char": "肆",
+        "similarity": "右邊同樣是「聿」。",
+        "difference": "「律」左邊是彳；「肆」左邊是長字旁的部件。"
+      },
+      {
+        "char": "聿",
+        "similarity": "較少見字；「律」右邊就是「聿」。",
+        "difference": "「律」左邊另有彳；「聿」沒有雙人旁。"
+      },
+      {
+        "char": "徑",
+        "similarity": "左邊同樣是「彳」。",
+        "difference": "「律」右邊是聿；「徑」右邊是巠，下面可看到工。"
+      }
+    ],
+    "teachingTip": "先看雙人旁，再確認右邊的聿；與津比較時，只換左偏旁。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第8課_confusion_analysis_91548a6e38a711c4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "柔",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "柔",
+    "groups": {
+      "shape": [
+        {
+          "char": "矛",
+          "why": "柔上方是矛",
+          "difference": "柔下方還有木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "揉",
+          "why": "同音：柔、揉都讀ㄖㄡˊ",
+          "difference": "柔軟用柔；揉麵團用揉。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "軟",
+          "why": "都能形容不硬",
+          "difference": "柔也可形容態度溫和，如溫柔；軟常形容物體硬度。"
+        }
+      ],
+      "component": [
+        {
+          "char": "揉",
+          "why": "揉右邊含柔",
+          "difference": "柔沒有左側扌。"
+        }
+      ]
+    },
+    "tip": "上矛下木是柔，揉麵才加扌。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

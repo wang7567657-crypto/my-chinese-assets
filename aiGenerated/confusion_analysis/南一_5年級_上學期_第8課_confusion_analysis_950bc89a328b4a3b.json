@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第8課_confusion_analysis_950bc89a328b4a3b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "旋",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "旋",
+    "groups": {
+      "shape": [
+        {
+          "char": "旅",
+          "why": "左側與右上方相近",
+          "difference": "旋右下是疋；旅右下筆畫不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "旋",
+          "why": "多音字語境：旋律、旋轉讀ㄒㄩㄢˊ；旋風讀ㄒㄩㄢˋ",
+          "difference": "依詞語辨音，不把旋律讀成第四聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "轉",
+          "why": "都與轉動有關",
+          "difference": "旋常見於盤旋、旋轉；轉還可指改變方向或轉交。"
+        }
+      ],
+      "component": [
+        {
+          "char": "疋",
+          "why": "旋右下包含疋",
+          "difference": "不要把右下改成足。"
+        }
+      ]
+    },
+    "tip": "旋律二聲、旋風四聲，分詞記。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

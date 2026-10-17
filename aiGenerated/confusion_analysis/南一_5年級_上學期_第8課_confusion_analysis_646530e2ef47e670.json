@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第8課_confusion_analysis_646530e2ef47e670",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "漢",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "漢",
+    "groups": {
+      "shape": [
+        {
+          "char": "嘆",
+          "why": "右側字形相同",
+          "difference": "漢左氵；嘆左口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "汗",
+          "why": "同音：漢與汗水的汗都讀ㄏㄢˋ",
+          "difference": "漢字用漢；汗水用汗。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "字",
+          "why": "常一起組成漢字",
+          "difference": "漢字指漢語書寫文字；字的範圍較廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "灘",
+          "why": "都有與漢右側相同的部分",
+          "difference": "灘右側還有隹；漢沒有隹。"
+        }
+      ]
+    },
+    "tip": "三點水旁，漢字的漢。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第8課_similar_shape_acafd3734345057f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "噓",
+    "lessonChars": [
+      "鄉",
+      "撲",
+      "螺",
+      "鮭",
+      "葵",
+      "稠",
+      "柔",
+      "旋",
+      "律",
+      "麥",
+      "噓",
+      "硬",
+      "扁",
+      "抗",
+      "筋",
+      "椒",
+      "蒜",
+      "漢",
+      "蓋"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "噓",
+    "similarChars": [
+      {
+        "char": "虛",
+        "similarity": "「噓」右邊就是「虛」。",
+        "difference": "「噓」左邊另有口；「虛」沒有口字旁。"
+      },
+      {
+        "char": "墟",
+        "similarity": "右邊同樣是虛。",
+        "difference": "「噓」左邊是口；「墟」左邊是土。"
+      },
+      {
+        "char": "歔",
+        "similarity": "較少見字；都含有虛。",
+        "difference": "「噓」是左口右虛；「歔」是左虛右欠。"
+      },
+      {
+        "char": "覷",
+        "similarity": "較少見字；都含有「虛」。",
+        "difference": "「噓」是左口右虛；「覷」是左虛右見。"
+      },
+      {
+        "char": "虞",
+        "similarity": "「噓」右部與「虞」上方都有「虍」。",
+        "difference": "「噓」左邊另有口，右邊是虛；「虞」的虍下面是吳。"
+      },
+      {
+        "char": "虜",
+        "similarity": "「噓」右部與「虜」上方都有「虍」。",
+        "difference": "「噓」左邊另有口，右邊是虛；「虜」的虍下面是男。"
+      }
+    ],
+    "teachingTip": "先找左口，再看右上的虍；和墟比較左偏旁，和歔比較部件位置。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

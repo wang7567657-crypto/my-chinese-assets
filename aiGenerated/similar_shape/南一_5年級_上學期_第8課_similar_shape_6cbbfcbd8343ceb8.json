@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第8課_similar_shape_6cbbfcbd8343ceb8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "螺",
+    "lessonChars": [
+      "鄉",
+      "撲",
+      "螺",
+      "鮭",
+      "葵",
+      "稠",
+      "柔",
+      "旋",
+      "律",
+      "麥",
+      "噓",
+      "硬",
+      "扁",
+      "抗",
+      "筋",
+      "椒",
+      "蒜",
+      "漢",
+      "蓋"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "螺",
+    "similarChars": [
+      {
+        "char": "騾",
+        "similarity": "右邊同樣是「累」。",
+        "difference": "「螺」左邊是「虫」；「騾」左邊是「馬」。"
+      },
+      {
+        "char": "鏍",
+        "similarity": "較少見字；右邊同樣是「累」。",
+        "difference": "「螺」左邊是「虫」；「鏍」左邊是「金」。"
+      },
+      {
+        "char": "瘰",
+        "similarity": "較少見字；都含有「累」部件。",
+        "difference": "「螺」是左虫右累；「瘰」以「疒」包住「累」的左上方。"
+      },
+      {
+        "char": "縲",
+        "similarity": "較少見字；右邊同樣是「累」。",
+        "difference": "「螺」左邊是「虫」；「縲」左邊是「糹」。"
+      },
+      {
+        "char": "摞",
+        "similarity": "較少見字；右邊同樣是「累」。",
+        "difference": "「螺」左邊是「虫」；「摞」左邊是「扌」。"
+      },
+      {
+        "char": "累",
+        "similarity": "「螺」的右邊就是「累」。",
+        "difference": "「螺」左邊另有「虫」；「累」沒有這個偏旁。"
+      }
+    ],
+    "teachingTip": "先辨認「虫」，再把右邊的「累」拆成田、糸來觀察。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}
