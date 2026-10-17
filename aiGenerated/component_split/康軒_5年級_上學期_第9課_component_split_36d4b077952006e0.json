@@ -1,0 +1,73 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_5年級_上學期_第9課_component_split_36d4b077952006e0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鍊",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "components": [
+      "金",
+      "柬"
+    ],
+    "source": "c9s/zh-stroke-data",
+    "split": [
+      8,
+      9
+    ],
+    "strokeCount": 17,
+    "structure": "左右",
+    "verified": true,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    ],
+    "radical": "金",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "金部在左，右部為柬；split 為各組筆數，每筆恰好一次，保留原字位置與筆序。",
+    "verification": {
+      "method": "重新解析原始 XML，核對 Stroke 數、Outline 輪廓不重複、所有座標有限且合理、Track 有效；渲染部首藍色與其餘部分橘色，實際視覺核對字形及部首位置。逐組核對 strokeGroups 完整覆蓋所有筆畫且每筆恰好一次。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/934a.xml"
+    }
+  },
+  "createdAt": "2026-10-17T17:20:39.907Z"
+}
