@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第10課_similar_shape_47f5797f7b2b2c8e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "扭",
+    "lessonChars": [
+      "閒",
+      "罵",
+      "究",
+      "營",
+      "擔",
+      "彆",
+      "扭",
+      "規",
+      "勸",
+      "仇",
+      "討",
+      "郊",
+      "鍋",
+      "繫",
+      "互",
+      "誼",
+      "畢",
+      "訊",
+      "磊"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "扭",
+    "similarChars": [
+      {
+        "char": "紐",
+        "similarity": "右半部同為丑。",
+        "difference": "扭左邊是扌；紐左邊是糹。"
+      },
+      {
+        "char": "鈕",
+        "similarity": "右半部同為丑。",
+        "difference": "扭左邊是扌；鈕左邊是金。"
+      },
+      {
+        "char": "妞",
+        "similarity": "右半部同為丑。",
+        "difference": "扭左邊是扌；妞左邊是女。"
+      },
+      {
+        "char": "忸",
+        "similarity": "右半部同為丑。",
+        "difference": "扭左邊是扌；忸左邊是忄。忸較少見，常見於忸怩，可作辨識補充。"
+      },
+      {
+        "char": "杻",
+        "similarity": "右半部同為丑。",
+        "difference": "扭左邊是扌；杻左邊是木。杻是少見字，本組只作字形辨識補充。"
+      },
+      {
+        "char": "丑",
+        "similarity": "丑與扭的右半部相同。",
+        "difference": "扭在丑左邊另有扌；丑沒有扌。"
+      }
+    ],
+    "teachingTip": "先找右邊的丑，再逐一比左旁。優先練習扭、紐、鈕、妞；少見的忸、杻只需知道換了哪個部件。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

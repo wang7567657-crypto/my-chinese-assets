@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第10課_memory_strategy_6a696483bf4425f7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "討",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "討",
+    "components": [
+      "左部：言",
+      "右部：寸"
+    ],
+    "association": "記憶聯想（非字源）：兩人用言語討論，旁邊放一把量尺寸的小尺，分別提示『言』和『寸』。",
+    "mnemonic": "言在左，寸在右，開口討論有先後。",
+    "visualPrompt": "教學圖構想：左側用臺灣標準楷體呈現完整的『討』，右側畫兩人輪流說話，以及一把表示尺寸的尺。對話框和尺都放在字旁，不取代『言』或『寸』的筆畫。",
+    "teachingTip": "觀察『言』的層次與『寸』的小點。用『討論、討教』練習，提醒右側是『寸』，不要漏點寫成『才』。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

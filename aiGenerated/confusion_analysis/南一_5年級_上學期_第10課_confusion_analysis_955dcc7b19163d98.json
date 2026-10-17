@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_955dcc7b19163d98",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "擔",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "擔",
+    "groups": {
+      "shape": [
+        {
+          "char": "瞻",
+          "why": "右邊都是「詹」，容易忽略左側。",
+          "difference": "擔左邊是扌，如擔任；瞻左邊是目，如瞻仰。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "丹",
+          "why": "條件同音：擔任的擔和丹心的丹都讀ㄉㄢ。",
+          "difference": "擔是多音字：擔任、承擔讀ㄉㄢ；重擔、擔子讀ㄉㄢˋ。丹讀ㄉㄢ，如丹心。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "扛",
+          "why": "都可以表示肩負東西或責任。",
+          "difference": "扛常強調把物品放在肩上，如扛木頭；擔還可表示負責，如擔任班長。"
+        }
+      ],
+      "component": [
+        {
+          "char": "膽",
+          "why": "右邊都含「詹」。",
+          "difference": "擔左扌，表示擔負等意思；膽左月，如膽量。"
+        }
+      ]
+    },
+    "tip": "看左邊分擔、瞻、膽；再看詞語讀音：擔任ㄉㄢ，重擔ㄉㄢˋ。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

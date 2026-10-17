@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第10課_similar_shape_72ca2644e6b58864",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "究",
+    "lessonChars": [
+      "閒",
+      "罵",
+      "究",
+      "營",
+      "擔",
+      "彆",
+      "扭",
+      "規",
+      "勸",
+      "仇",
+      "討",
+      "郊",
+      "鍋",
+      "繫",
+      "互",
+      "誼",
+      "畢",
+      "訊",
+      "磊"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "究",
+    "similarChars": [
+      {
+        "char": "空",
+        "similarity": "上方同為穴。",
+        "difference": "究的穴下是九；空的穴下是工。"
+      },
+      {
+        "char": "穿",
+        "similarity": "上方同為穴。",
+        "difference": "究的穴下是九；穿的穴下是牙。"
+      },
+      {
+        "char": "窮",
+        "similarity": "上方同為穴。",
+        "difference": "究的穴下是九；窮的穴下是身與弓，筆畫多得多。"
+      },
+      {
+        "char": "突",
+        "similarity": "上方同為穴。",
+        "difference": "究的穴下是九；突的穴下是犬，犬有右上方的一點。"
+      },
+      {
+        "char": "窄",
+        "similarity": "上方同為穴。",
+        "difference": "究的穴下是九；窄的穴下是乍。"
+      },
+      {
+        "char": "九",
+        "similarity": "九與究的下半部相同。",
+        "difference": "究在九的上方另有穴；九是單獨一個字。"
+      }
+    ],
+    "teachingTip": "先找穴字頭，再辨認下面的九。可將究、空、突排在一起，只圈下半部，避免看見穴就猜字。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}
