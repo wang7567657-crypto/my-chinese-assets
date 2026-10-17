@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第9課_memory_strategy_a58c68a459731989",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "挖",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "挖",
+    "components": [
+      "左：扌",
+      "右上：穴",
+      "右下：乙"
+    ],
+    "association": "想像用手拿小鏟子挖洞，洞旁有一條彎彎的小路。手、洞、彎形分別提醒扌、穴、乙；這是記形聯想，不是字源解釋。",
+    "mnemonic": "手在左，穴乙右；拿起鏟子挖小洞。",
+    "visualPrompt": "左側印出臺灣繁體標準字形『挖』，右側另畫學生在沙地用小鏟子挖洞，旁邊有彎曲小路。字圖分離，不把洞或小路畫成字的筆畫。",
+    "teachingTip": "右下是乙，不是九；先說出扌、穴、乙，再遮住範字練寫。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

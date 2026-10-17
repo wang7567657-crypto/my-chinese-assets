@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_ee666bf2f1220841",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "訪",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "訪",
+    "groups": {
+      "shape": [
+        {
+          "char": "仿",
+          "why": "右邊都是方。",
+          "difference": "訪左邊是言字旁，如訪問；仿左邊是亻，如模仿。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "仿",
+          "why": "同音，都是ㄈㄤˇ。",
+          "difference": "訪問是探訪、詢問；模仿是學別人的樣子。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "問",
+          "why": "都可能涉及詢問。",
+          "difference": "訪可表示前往探望，如拜訪；問強調提出問題，如問路。"
+        }
+      ],
+      "component": [
+        {
+          "char": "放",
+          "why": "都有方。",
+          "difference": "訪是言加方；放是方加攵，如放學。"
+        }
+      ]
+    },
+    "tip": "用言語訪問，所以訪有言字旁。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

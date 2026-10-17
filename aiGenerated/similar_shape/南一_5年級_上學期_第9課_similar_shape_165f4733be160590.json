@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_165f4733be160590",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "股",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "股",
+    "similarChars": [
+      {
+        "char": "投",
+        "similarity": "右邊都是「殳」。",
+        "difference": "股左邊是月；投左邊是扌。"
+      },
+      {
+        "char": "役",
+        "similarity": "右邊都是「殳」。",
+        "difference": "股左邊是月；役左邊是彳。"
+      },
+      {
+        "char": "沒",
+        "similarity": "同為左右結構，右下都有「又」。",
+        "difference": "股左邊是月，右上像几；沒左邊是氵，右上不是几。"
+      },
+      {
+        "char": "般",
+        "similarity": "右邊都是「殳」。",
+        "difference": "股左邊是月；般左邊是舟。"
+      },
+      {
+        "char": "段",
+        "similarity": "右邊都是「殳」。",
+        "difference": "股左邊是月；段左邊是帶數條短橫的直立部件。"
+      },
+      {
+        "char": "肢",
+        "similarity": "左邊都是月，右下都有「又」。",
+        "difference": "股右邊是殳，上方像几；肢右邊是支，上方是十。"
+      }
+    ],
+    "teachingTip": "先圈出右邊的「殳」，再比較左邊：月是股、扌是投、彳是役。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

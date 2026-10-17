@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_01de7128f4be77bf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "款",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "款",
+    "similarChars": [
+      {
+        "char": "歉",
+        "similarity": "右邊都是欠。",
+        "difference": "款左邊是上士下示；歉左邊是兼。"
+      },
+      {
+        "char": "欺",
+        "similarity": "右邊都是欠。",
+        "difference": "款左邊是上士下示；欺左邊是其。"
+      },
+      {
+        "char": "歌",
+        "similarity": "右邊都是欠。",
+        "difference": "款左邊是上士下示；歌左邊是哥。"
+      },
+      {
+        "char": "歆",
+        "similarity": "右邊都是欠。",
+        "difference": "款左邊是上士下示；歆左邊是音；歆較少見。"
+      },
+      {
+        "char": "歡",
+        "similarity": "右邊都是欠。",
+        "difference": "款左邊是上士下示；歡左邊是雚，可見艹、兩個口和隹。"
+      },
+      {
+        "char": "坎",
+        "similarity": "右邊都是欠，左邊都有橫、豎筆畫。",
+        "difference": "款左邊有士和示；坎左邊只有土。"
+      }
+    ],
+    "teachingTip": "先圈出右邊共同的欠，再比較左邊；「款」左上是士，左下是示。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

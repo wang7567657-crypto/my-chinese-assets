@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_6835e21195ec29ed",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "基",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "基",
+    "groups": {
+      "shape": [
+        {
+          "char": "其",
+          "why": "基的上方是其。",
+          "difference": "基下面還有土，如基礎；其沒有下方的土，如其他。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "機",
+          "why": "同音，都是ㄐㄧ。",
+          "difference": "基用在基礎；機用在機器、機會。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "底",
+          "why": "都可能表示下方或根本。",
+          "difference": "基常用在基礎、根基；底也可表示物體的最下部，如杯底。"
+        }
+      ],
+      "component": [
+        {
+          "char": "期",
+          "why": "都含其這個部件。",
+          "difference": "基是其下加土；期是其右加月，如星期，讀ㄑㄧˊ。"
+        }
+      ]
+    },
+    "tip": "基礎要穩固，基下面有土，別只寫上面的其。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

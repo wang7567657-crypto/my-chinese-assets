@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_6cba087d7ca30cd0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "藉",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "藉",
+    "similarChars": [
+      {
+        "char": "籍",
+        "similarity": "下方都是「耤」。",
+        "difference": "藉上方是艹；籍上方是竹字頭。"
+      },
+      {
+        "char": "耤",
+        "similarity": "藉的下半部就是「耤」。",
+        "difference": "耤少了藉上方的艹；耤是少見字。"
+      },
+      {
+        "char": "藕",
+        "similarity": "都有艹，下方左側都有耒。",
+        "difference": "藉下方右側是昔；藕下方右側是禺。"
+      },
+      {
+        "char": "耕",
+        "similarity": "都有「耒」這個部件。",
+        "difference": "藉有艹，耒右邊是昔；耕沒有艹，耒右邊是井。"
+      },
+      {
+        "char": "借",
+        "similarity": "都有「昔」這個部件。",
+        "difference": "藉上方是艹，下方是左耒右昔；借沒有艹，左邊是亻，右邊是昔。"
+      },
+      {
+        "char": "耦",
+        "similarity": "都有耒，且耒右邊都有較方正的部件。",
+        "difference": "藉上方有艹，耒右邊是昔；耦沒有艹，耒右邊是禺；耦較少見。"
+      }
+    ],
+    "teachingTip": "把「藉」分成艹和耤，再把耤分成耒和昔；與「籍」比較時先看字頭。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

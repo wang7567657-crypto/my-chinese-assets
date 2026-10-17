@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_4c253aab34e537cd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "協",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "協",
+    "similarChars": [
+      {
+        "char": "脅",
+        "similarity": "都有由三個力組成的劦。",
+        "difference": "協是左十右劦；脅是上劦下月。"
+      },
+      {
+        "char": "劦",
+        "similarity": "協的右半部就是劦。",
+        "difference": "劦少了協左邊的十；劦是少見字。"
+      },
+      {
+        "char": "脇",
+        "similarity": "右邊都是劦。",
+        "difference": "協左邊是十；脇左邊是月；脇是少見異體字。"
+      },
+      {
+        "char": "恊",
+        "similarity": "右邊都是劦。",
+        "difference": "協左邊是十；恊左邊是忄；恊是少見異體字。"
+      },
+      {
+        "char": "勰",
+        "similarity": "都有劦這個部件。",
+        "difference": "協是左十右劦；勰是左劦右思；勰是少見字。"
+      },
+      {
+        "char": "劫",
+        "similarity": "都含力，整體都有左右相接的輪廓。",
+        "difference": "協左邊是十，右邊有三個力；劫左邊是去，右邊只有一個力。"
+      }
+    ],
+    "teachingTip": "數一數「協」右邊有三個力，再看左邊是十。少見的對照字只用來觀察部件，不必要求背寫。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_51cceb64bdd12c50",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "亡",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "亡",
+    "groups": {
+      "shape": [
+        {
+          "char": "忙",
+          "why": "忙的右邊就是亡。",
+          "difference": "亡沒有忄，如死亡；忙多了忄，如忙碌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "王",
+          "why": "在死亡、逃亡中，亡和王同讀ㄨㄤˊ。",
+          "difference": "亡表示死亡或逃走；王用在國王。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "失",
+          "why": "都可能和不見、失去有關。",
+          "difference": "亡用在死亡、逃亡；失用在失去、失物，不能把失物寫成亡物。"
+        }
+      ],
+      "component": [
+        {
+          "char": "忘",
+          "why": "忘的上方是亡。",
+          "difference": "亡可單獨成字；亡下面加心是忘，如忘記。"
+        }
+      ]
+    },
+    "tip": "逃亡、死亡用亡；亡下面加心才是忘記的忘。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

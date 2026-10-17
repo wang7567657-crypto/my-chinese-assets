@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_9467cfe36ffc695d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "局",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "局",
+    "similarChars": [
+      {
+        "char": "司",
+        "similarity": "都有折鉤包住口的輪廓。",
+        "difference": "局上方有尸；司沒有尸，外側是一個橫折鉤，裡面另有一橫和口。"
+      },
+      {
+        "char": "居",
+        "similarity": "上方和左外側都是尸。",
+        "difference": "局內部有橫折鉤和口；居在尸下面是古。"
+      },
+      {
+        "char": "屆",
+        "similarity": "上方和左外側都是尸。",
+        "difference": "局內部有口和折鉤；屆在尸下面是凷，可見土與下方凵形。"
+      },
+      {
+        "char": "屋",
+        "similarity": "上方和左外側都是尸。",
+        "difference": "局內部有橫折鉤和口；屋在尸下面是至。"
+      },
+      {
+        "char": "侷",
+        "similarity": "都含有完整的局。",
+        "difference": "侷在局左邊多了亻。"
+      },
+      {
+        "char": "拘",
+        "similarity": "右下部都有鉤筆包住口的相近輪廓。",
+        "difference": "局上方是尸；拘左邊是扌，右邊是句，句上方是勹。"
+      }
+    ],
+    "teachingTip": "先描出「局」外側的尸，再找內部的橫折鉤與口；不要把它看成尸加古。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

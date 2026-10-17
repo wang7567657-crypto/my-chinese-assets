@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第9課_memory_strategy_299d5a0f2a65f2fd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "夠",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "夠",
+    "components": [
+      "左：多",
+      "右：句"
+    ],
+    "association": "想像準備了很多材料後，說一句『這些已經足夠了』。多和一句話幫助記住多、句的位置；這是記形聯想，不是字源解釋。",
+    "mnemonic": "左多右句才是夠，分量足了就停手。",
+    "visualPrompt": "左側印出臺灣繁體標準字形『夠』，右側另畫材料足量的桌面及『足夠了』對話框。確保字形是左多右句，字與圖完全分開。",
+    "teachingTip": "臺灣繁體字形夠是左多右句；先口述位置再書寫，避免把兩邊對調。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

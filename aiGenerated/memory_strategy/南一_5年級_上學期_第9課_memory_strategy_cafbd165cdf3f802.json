@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第9課_memory_strategy_cafbd165cdf3f802",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "票",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "票",
+    "components": [
+      "上：覀（西字頭）",
+      "下：示"
+    ],
+    "association": "想像車站上方掛著票價牌，下方標示要買的車票。上下擺放的畫面用來提醒覀在上、示在下；這是記形聯想，不是字源解釋。",
+    "mnemonic": "覀在上，示在下；一張車票帶回家。",
+    "visualPrompt": "左側印出臺灣繁體標準字形『票』，右側另畫車站票價牌與一張車票，呈上下排列。保留字形完整，圖上的車票不做成漢字筆畫。",
+    "teachingTip": "下半部是示，不是禾；比較票、漂、飄，找出三字共同的票。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

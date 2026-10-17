@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_b6455495fc42385a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "賺",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "賺",
+    "similarChars": [
+      {
+        "char": "謙",
+        "similarity": "右邊都是兼。",
+        "difference": "賺左邊是貝；謙左邊是言。"
+      },
+      {
+        "char": "嫌",
+        "similarity": "右邊都是兼。",
+        "difference": "賺左邊是貝；嫌左邊是女。"
+      },
+      {
+        "char": "廉",
+        "similarity": "都含有兼。",
+        "difference": "賺是左貝右兼；廉是廣字頭包住兼。"
+      },
+      {
+        "char": "歉",
+        "similarity": "都含有兼。",
+        "difference": "賺是左貝右兼；歉是左兼右欠。"
+      },
+      {
+        "char": "鎌",
+        "similarity": "右邊都是兼。",
+        "difference": "賺左邊是貝；鎌左邊是金；鎌是少見字。"
+      },
+      {
+        "char": "蒹",
+        "similarity": "都含有兼。",
+        "difference": "賺是左貝右兼；蒹是上艹下兼；蒹較少見。"
+      }
+    ],
+    "teachingTip": "圈出右邊的兼，再辨認左邊部首；「賺錢」與錢財有關，所以用貝字旁。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_3807aed39060ea69",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "夠",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "夠",
+    "groups": {
+      "shape": [
+        {
+          "char": "多",
+          "why": "夠裡面包含多，容易少寫另一部分。",
+          "difference": "夠左邊是多，右邊是句；多只有兩個夕。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "購",
+          "why": "同音，都是ㄍㄡˋ。",
+          "difference": "夠表示足夠；購表示購買。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "足",
+          "why": "都可以表示充足。",
+          "difference": "足夠表示數量達到需要；足也指腳，如手足，夠沒有這個意思。"
+        }
+      ],
+      "component": [
+        {
+          "char": "句",
+          "why": "夠的右邊是句。",
+          "difference": "句可單獨成字，如句子；句左邊加多是夠。"
+        }
+      ]
+    },
+    "tip": "足夠的夠，左多右句；購物的購才有貝字旁。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

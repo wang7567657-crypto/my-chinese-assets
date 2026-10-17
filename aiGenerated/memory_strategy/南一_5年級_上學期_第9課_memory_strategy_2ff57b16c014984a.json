@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第9課_memory_strategy_2ff57b16c014984a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "局",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "局",
+    "components": [
+      "外側：尸與橫折鉤",
+      "內：口"
+    ],
+    "association": "想像郵局裡有一個小窗口，外側的包覆形狀像建築，裡面的口像窗口。這是記形聯想，不是字源解釋。",
+    "mnemonic": "尸下再有橫折鉤，裡面一口記住局。",
+    "visualPrompt": "左側印出臺灣繁體標準字形『局』，右側另畫一間設有服務窗口的郵局。建築與標準字分開，不把建築輪廓用來取代字形。",
+    "teachingTip": "觀察半包圍結構，注意尸下還有橫折鉤，內部是口；與居比較，避免把內部寫成古。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_b0840a0f19ba6d36",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "亡",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "亡",
+    "similarChars": [
+      {
+        "char": "亢",
+        "similarity": "上方都有點、橫，下方都有轉折筆畫。",
+        "difference": "亡下方是豎折；亢下方是几，有撇和鉤。"
+      },
+      {
+        "char": "方",
+        "similarity": "上方都有點和橫。",
+        "difference": "亡下方是豎折；方下方有橫折鉤與撇。"
+      },
+      {
+        "char": "忘",
+        "similarity": "都含有完整的亡。",
+        "difference": "忘在亡下面多了心。"
+      },
+      {
+        "char": "忙",
+        "similarity": "都含有完整的亡。",
+        "difference": "忙在亡左邊多了忄。"
+      },
+      {
+        "char": "妄",
+        "similarity": "都含有完整的亡。",
+        "difference": "妄在亡下面多了女。"
+      },
+      {
+        "char": "盲",
+        "similarity": "都含有完整的亡。",
+        "difference": "盲在亡下面多了目。"
+      }
+    ],
+    "teachingTip": "先記住「亡」本身的點、橫和豎折，再找它在忘、忙、妄、盲中的位置。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

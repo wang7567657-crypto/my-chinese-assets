@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_d34f1eaa318eaf80",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "幣",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "幣",
+    "similarChars": [
+      {
+        "char": "敝",
+        "similarity": "幣的上半部就是敝。",
+        "difference": "敝少了幣下方的巾。"
+      },
+      {
+        "char": "弊",
+        "similarity": "上方都是敝。",
+        "difference": "幣下方是巾；弊下方是廾。"
+      },
+      {
+        "char": "蔽",
+        "similarity": "都含有敝。",
+        "difference": "幣是上敝下巾；蔽是上艹下敝。"
+      },
+      {
+        "char": "斃",
+        "similarity": "上方都是敝。",
+        "difference": "幣下方是巾；斃下方是死。"
+      },
+      {
+        "char": "瞥",
+        "similarity": "上方都是敝。",
+        "difference": "幣下方是巾；瞥下方是目。"
+      },
+      {
+        "char": "帛",
+        "similarity": "下方都是巾。",
+        "difference": "幣上方是敝；帛上方是白。"
+      }
+    ],
+    "teachingTip": "先圈出上方的敝，再看下方：巾是幣、廾是弊、死是斃、目是瞥。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

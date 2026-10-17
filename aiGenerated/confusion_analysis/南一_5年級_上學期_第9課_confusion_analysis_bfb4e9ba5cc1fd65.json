@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_bfb4e9ba5cc1fd65",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "協",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "協",
+    "groups": {
+      "shape": [
+        {
+          "char": "脅",
+          "why": "都有三個力，排列容易混淆。",
+          "difference": "協左邊是十，右邊三個力；脅是三個力在月的上方，如威脅。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鞋",
+          "why": "同音，都是ㄒㄧㄝˊ。",
+          "difference": "協用在協助；鞋用在鞋子。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "助",
+          "why": "都和幫忙有關。",
+          "difference": "協助強調配合、幫忙；助也用在助長，未必是幫助別人做有益的事。"
+        }
+      ],
+      "component": [
+        {
+          "char": "脅",
+          "why": "都含劦，也就是三個力組成的部件。",
+          "difference": "協配十，表示協同、合作；脅配月，如威脅，讀ㄒㄧㄝˊ。"
+        }
+      ]
+    },
+    "tip": "協力合作的協，右邊有三個力，左邊是十。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

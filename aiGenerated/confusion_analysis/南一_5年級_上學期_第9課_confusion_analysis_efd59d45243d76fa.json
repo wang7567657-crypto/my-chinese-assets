@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_efd59d45243d76fa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "諸",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "諸",
+    "groups": {
+      "shape": [
+        {
+          "char": "緒",
+          "why": "右邊都是者。",
+          "difference": "諸左邊是言，如諸位；緒左邊是糸，如情緒。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "珠",
+          "why": "同音，都是ㄓㄨ。",
+          "difference": "諸用在諸位；珠用在珍珠。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "眾",
+          "why": "都可以表示多數。",
+          "difference": "諸常放在名詞前，如諸位、諸多；眾可單獨表示許多人，如觀眾、群眾，不能把群眾寫成群諸。"
+        }
+      ],
+      "component": [
+        {
+          "char": "都",
+          "why": "都有者這個部件。",
+          "difference": "諸是言加者；都是者加右耳旁。諸讀ㄓㄨ；都在首都中讀ㄉㄨ，在都是中讀ㄉㄡ。"
+        }
+      ]
+    },
+    "tip": "諸位的諸是言字旁，右邊是者，讀ㄓㄨ。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

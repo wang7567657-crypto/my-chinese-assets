@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_f224046dd8d34074",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "售",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "售",
+    "similarChars": [
+      {
+        "char": "隻",
+        "similarity": "上方都是隹。",
+        "difference": "售下方是口；隻下方是又。"
+      },
+      {
+        "char": "集",
+        "similarity": "上方都是隹。",
+        "difference": "售下方是口；集下方是木。"
+      },
+      {
+        "char": "焦",
+        "similarity": "上方都是隹。",
+        "difference": "售下方是口；焦下方是灬。"
+      },
+      {
+        "char": "雋",
+        "similarity": "上方都是隹。",
+        "difference": "售下方是口；雋下方是帶鉤、折筆的部件，不是封閉的口。"
+      },
+      {
+        "char": "唯",
+        "similarity": "都有口和隹。",
+        "difference": "售是隹在上、口在下；唯是口在左、隹在右。"
+      },
+      {
+        "char": "雀",
+        "similarity": "都有隹，整體都是上下結構。",
+        "difference": "售是隹在上、口在下；雀是小在上、隹在下。"
+      }
+    ],
+    "teachingTip": "把「售」分成上面的隹和下面的口；比較時遮住上半部，只看最下面。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

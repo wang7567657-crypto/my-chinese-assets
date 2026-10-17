@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_6b27b514765043fe",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "購",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "購",
+    "similarChars": [
+      {
+        "char": "構",
+        "similarity": "右邊都是冓。",
+        "difference": "購左邊是貝；構左邊是木。"
+      },
+      {
+        "char": "溝",
+        "similarity": "右邊都是冓。",
+        "difference": "購左邊是貝；溝左邊是氵。"
+      },
+      {
+        "char": "講",
+        "similarity": "右邊都是冓。",
+        "difference": "購左邊是貝；講左邊是言。"
+      },
+      {
+        "char": "搆",
+        "similarity": "右邊都是冓。",
+        "difference": "購左邊是貝；搆左邊是扌；搆是少見字。"
+      },
+      {
+        "char": "媾",
+        "similarity": "右邊都是冓。",
+        "difference": "購左邊是貝；媾左邊是女；媾較少見。"
+      },
+      {
+        "char": "冓",
+        "similarity": "購的右半部就是冓。",
+        "difference": "冓少了購左邊的貝；冓單獨使用是少見字。"
+      }
+    ],
+    "teachingTip": "先認右邊共同的「冓」，再辨左邊：用錢購買，所以「購」用貝字旁。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

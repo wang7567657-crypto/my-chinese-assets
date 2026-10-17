@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第9課_memory_strategy_c58a17bfd564494b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "幣",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "幣",
+    "components": [
+      "上：敝",
+      "下：巾"
+    ],
+    "association": "想像把硬幣放在一塊小布巾上分類，上方的敝整體記形、下方的巾連結布巾。這是記形聯想，不是字源解釋。",
+    "mnemonic": "上敝下巾記住幣，硬幣鈔票分仔細。",
+    "visualPrompt": "左側印出臺灣繁體標準字形『幣』，右側另畫幾枚沒有真實幣面細節的示意硬幣放在布巾上。另列敝、巾標籤，不把硬幣或布巾替代字形。",
+    "teachingTip": "分成上敝、下巾練習；比較幣與弊，強調幣的下方是巾，避免寫成廾。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

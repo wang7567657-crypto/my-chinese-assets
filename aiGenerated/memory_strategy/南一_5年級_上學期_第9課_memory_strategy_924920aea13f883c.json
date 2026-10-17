@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第9課_memory_strategy_924920aea13f883c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "賺",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "賺",
+    "components": [
+      "左：貝",
+      "右：兼"
+    ],
+    "association": "想像商店兼顧好品質與好服務，賺到收入。貝提示金錢，兼幫助記右半部；這是記形聯想，不是字源解釋。",
+    "mnemonic": "左貝右兼是賺錢，筆畫分區看一遍。",
+    "visualPrompt": "左側印出臺灣繁體標準字形『賺』，右側另畫店員整理商品、提供服務與記錄收入的日常情境。另標貝、兼兩部件，不將錢幣替代貝的筆畫。",
+    "teachingTip": "比較賺與嫌的共同部件兼，藉由金錢相關的『賺錢』記住貝字旁；不要把右半部寫成並。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}
