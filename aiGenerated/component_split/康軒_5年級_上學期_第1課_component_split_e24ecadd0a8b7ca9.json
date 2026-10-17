@@ -27,7 +27,7 @@
       5
     ],
     "radicalVerified": true,
-    "source": "c9s_strokes_reviewed",
+    "source": "c9s/zh-stroke-data",
     "split": [
       5,
       5
@@ -52,11 +52,12 @@
     "structure": "左上包圍",
     "updatedAt": "2026-09-19T16:06:14.412Z",
     "verification": {
-      "method": "逐筆核對 c9s 原始 Outline/Track；依部首與其餘部分分組，保留原字位置及原筆順。",
+      "method": "2026-10-17重新取得c9s原始XML，核對Stroke數、唯一Outline、有限合理座標及每筆至少2點的Track；實際渲染部首紅色、其餘筆畫藍色並目視確認標準字形與部首位置。strokeGroups為1起算，每筆恰好一次，保留原分組及筆順。",
       "sourceBlobSha": "62ffaa46c6ef5184ab3b60007c3165516f6fa3ee",
-      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/75be.xml"
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/75be.xml"
     },
     "verified": true
   },
-  "createdAt": "2026-09-19T16:06:14.412Z"
+  "createdAt": "2026-09-19T16:06:14.412Z",
+  "status": "completed"
 }
