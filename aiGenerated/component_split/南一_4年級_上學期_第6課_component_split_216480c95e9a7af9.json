@@ -1,0 +1,70 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_4年級_上學期_第6課_component_split_216480c95e9a7af9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "跨",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      7,
+      6
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    ],
+    "components": [
+      "足",
+      "其餘部分"
+    ],
+    "strokeCount": 13,
+    "radical": "足",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "採部首與其餘部分分組；split為各組筆數，實際筆序以strokeGroups為準，每筆恰好出現一次。保留原字位置及全字筆顺，不依分組順序改寫筆順。",
+    "verification": {
+      "method": "重新解析原始XML核對Stroke數、Outline無重複、座標有限合理、Track有效；渲染部首藍色、其餘橘色與Track疊圖，逐字視覺核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/8de8.xml",
+      "sourceSha256": "251fc2a33a64859ed57857c16175ee5a7c0b53795d14675a407a5a1d1f2e8483",
+      "checkedAt": "2026-10-17T01:46:08.950678+00:00"
+    }
+  },
+  "createdAt": "2026-10-17T01:46:08.950694+00:00"
+}
