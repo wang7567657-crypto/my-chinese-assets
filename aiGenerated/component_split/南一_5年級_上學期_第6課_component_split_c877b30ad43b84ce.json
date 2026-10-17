@@ -1,0 +1,50 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_5年級_上學期_第6課_component_split_c877b30ad43b84ce",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "乎",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "data": {
+    "components": [
+      "乎"
+    ],
+    "note": "「乎」為獨體字，共 5 畫，不硬拆成兩個字形部件；部首檢索歸「丿」部。",
+    "radical": "丿",
+    "radicalStrokeIndices": [
+      1
+    ],
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "split": [
+      5
+    ],
+    "strokeCount": 5,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "structure": "獨體",
+    "verification": {
+      "method": "重新下載並解析 c9s 原始 XML，核對 Stroke 數、Outline 輪廓無重複、所有座標有限且在合理範圍、Track 至少兩個有效座標點；逐筆確認 strokeGroups 完整且不重複。實際渲染部首藍色、其餘橘色後視覺核對標準字形與部首位置。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/4e4e.xml"
+    },
+    "verified": true
+  },
+  "createdAt": "2026-10-17T13:44:09.293Z"
+}
