@@ -1,0 +1,61 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_5年級_上學期_第5課_component_split_c7fbdd30d5263d09",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "峭",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      3,
+      7
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ],
+    "components": [
+      "山",
+      "肖"
+    ],
+    "strokeCount": 10,
+    "radical": "山",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "沿用已存在的筆序分組，重新核對原始 XML 與部首分色字形；每筆恰好出現一次。山部位於左側。",
+    "verification": {
+      "method": "2026-10-17 重新下載 c9s XML；核對 Stroke 數、唯一 Outline、有限合理座標與有效 Track，並以原輪廓實際渲染部首分色字形完成視覺核對。分組完整覆蓋全部筆序且無重複。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5ced.xml"
+    }
+  },
+  "createdAt": "2026-10-17T12:42:58.564Z"
+}
