@@ -1,0 +1,65 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_5年級_上學期_第4課_component_split_d50809a091663ac2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "慨",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "structure": "左右",
+    "split": [
+      3,
+      9
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    ],
+    "components": [
+      "忄",
+      "既"
+    ],
+    "strokeCount": 12,
+    "radical": "心",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "保留既有忄與既的正確分組；split為各組筆數，不代表任意連續區間。strokeGroups採來源1起算筆序，每筆恰好一次，保留原字位置與筆順。",
+    "verification": {
+      "method": "重新下載c9s XML，核對12筆Stroke、唯一輪廓、有限合理座標及有效Track；實際渲染左側心部藍色與既橘色字形並視覺核對，對照教育部心部共12畫。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6168.xml",
+      "radicalReferenceUrl": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=4477&la=0&powerMode=0",
+      "checkedAt": "2026-10-17T12:20:47.003Z"
+    }
+  },
+  "createdAt": "2026-10-17T12:20:47.003Z"
+}
