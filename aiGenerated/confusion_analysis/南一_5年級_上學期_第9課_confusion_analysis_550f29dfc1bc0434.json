@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_550f29dfc1bc0434",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "挖",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "挖",
+    "groups": {
+      "shape": [
+        {
+          "char": "控",
+          "why": "左邊都是扌，右上都有穴。",
+          "difference": "挖右下是乙；控右下是工，如控制。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "蛙",
+          "why": "同音，都是ㄨㄚ。",
+          "difference": "挖用在挖土；蛙用在青蛙。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "掘",
+          "why": "都可表示把土石移開。",
+          "difference": "挖常見於挖洞、挖土；掘常組成挖掘、發掘，發掘人才是比喻用法。"
+        }
+      ],
+      "component": [
+        {
+          "char": "穴",
+          "why": "挖的右上包含穴。",
+          "difference": "挖還有扌和右下的乙；穴可單獨表示洞穴。"
+        }
+      ]
+    },
+    "tip": "挖土用手，所以有扌；右下是乙，不是工。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

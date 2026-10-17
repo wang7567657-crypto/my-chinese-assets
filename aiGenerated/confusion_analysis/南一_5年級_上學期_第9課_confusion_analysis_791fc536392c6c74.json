@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_791fc536392c6c74",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "票",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "票",
+    "groups": {
+      "shape": [
+        {
+          "char": "栗",
+          "why": "上方相同，下方容易看錯。",
+          "difference": "票下方是示，如車票；栗下方是木，如栗子。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "漂",
+          "why": "票讀ㄆㄧㄠˋ，和漂亮的漂同音。",
+          "difference": "票用在門票；漂亮用漂。漂浮的漂讀ㄆㄧㄠ，漂白的漂讀ㄆㄧㄠˇ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "券",
+          "why": "都可指某種憑證。",
+          "difference": "車票是乘車憑證；優惠券常用來折價，不能把所有券都稱為車票。"
+        }
+      ],
+      "component": [
+        {
+          "char": "標",
+          "why": "標的右邊含票。",
+          "difference": "票可單獨成字；加木成標，如標準，讀ㄅㄧㄠ。"
+        }
+      ]
+    },
+    "tip": "車票下方是示，不是栗子的木。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

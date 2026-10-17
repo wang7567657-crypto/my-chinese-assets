@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第9課_memory_strategy_6f16656b04b6e5a9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "售",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "售",
+    "components": [
+      "上：隹",
+      "下：口"
+    ],
+    "association": "想像一隻小鳥站在攤位上，攤主開口介紹出售的物品。用小鳥和開口提醒隹、口的位置；這是記形聯想，不是字源解釋。",
+    "mnemonic": "隹在上，口在下；出售物品來介紹。",
+    "visualPrompt": "左側印出臺灣繁體標準字形『售』，右側另畫小鳥停在攤位上方，攤主在下方介紹商品。字圖分離，清楚標示隹、口，不將小鳥變成字的筆畫。",
+    "teachingTip": "先找上隹下口；以『售票』連結售和票，再比較售與集的下半部。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第9課_memory_strategy_8c68edcde688ad72",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "譯",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "譯",
+    "components": [
+      "左：言",
+      "右：睪"
+    ],
+    "association": "想像翻譯員聽一句話，再用另一種語言說出來；右邊睪可分區觀察，像一張仔細核對的工作表。這是記形聯想，不是字源解釋。",
+    "mnemonic": "左言右睪是翻譯，話語換說意思齊。",
+    "visualPrompt": "左側印出臺灣繁體標準字形『譯』，右側另畫翻譯員協助兩人交談及一張核對表。另以淡色框標示字的言與睪兩區，不修改任何筆畫。",
+    "teachingTip": "先掌握左言右睪，再分區看右半部；比較譯與釋共同的睪，避免把譯的左邊寫成釆。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

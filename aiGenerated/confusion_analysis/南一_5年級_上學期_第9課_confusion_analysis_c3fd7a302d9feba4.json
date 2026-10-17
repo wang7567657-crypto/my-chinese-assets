@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_c3fd7a302d9feba4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "股",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "股",
+    "groups": {
+      "shape": [
+        {
+          "char": "服",
+          "why": "都有月字旁，右邊容易看錯。",
+          "difference": "股右邊是殳；服右邊不是殳，如服務。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "鼓",
+          "why": "同音，都是ㄍㄨˇ。",
+          "difference": "股可用在一股力量；鼓可用在打鼓。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "份",
+          "why": "都可以表示分配的一部分。",
+          "difference": "股份是公司的持有單位；一份報紙的份不能換成股。"
+        }
+      ],
+      "component": [
+        {
+          "char": "投",
+          "why": "都有殳。",
+          "difference": "股左邊是月；投左邊是扌，如投球。"
+        }
+      ]
+    },
+    "tip": "記住「一股力量」的股：左月右殳。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

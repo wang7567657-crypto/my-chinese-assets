@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_eee7f89e5ee5ad57",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "售",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "售",
+    "groups": {
+      "shape": [
+        {
+          "char": "集",
+          "why": "上方都是隹。",
+          "difference": "售下方是口，如出售；集下方是木，如集合。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "受",
+          "why": "同音，都是ㄕㄡˋ。",
+          "difference": "售表示賣出，如售票；受表示承受或接受，如受傷。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "賣",
+          "why": "都能表示把物品換成金錢。",
+          "difference": "售常用在出售、販售；賣可單獨使用，如賣水果。"
+        }
+      ],
+      "component": [
+        {
+          "char": "推",
+          "why": "都含隹這個部件。",
+          "difference": "售是隹在口上；推是扌在隹左邊，如推門。"
+        }
+      ]
+    },
+    "tip": "售票是賣票：隹在上，口在下。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

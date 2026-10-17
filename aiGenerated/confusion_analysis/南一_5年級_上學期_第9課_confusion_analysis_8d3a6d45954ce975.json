@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_8d3a6d45954ce975",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "賺",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "賺",
+    "groups": {
+      "shape": [
+        {
+          "char": "嫌",
+          "why": "右邊都是兼。",
+          "difference": "賺左邊是貝，如賺錢；嫌左邊是女，如嫌棄。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "傳",
+          "why": "賺讀ㄓㄨㄢˋ，與傳記的傳同音。",
+          "difference": "賺用在賺錢；傳記記述人物的生平。傳在傳說、傳遞中讀ㄔㄨㄢˊ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "得",
+          "why": "都可能表示獲得。",
+          "difference": "賺常指靠工作或交易獲得錢；得的範圍較廣，如得到鼓勵。"
+        }
+      ],
+      "component": [
+        {
+          "char": "兼",
+          "why": "賺的右邊是兼。",
+          "difference": "兼可單獨成字，如兼顧；左邊加貝才是賺錢的賺。"
+        }
+      ]
+    },
+    "tip": "賺錢用貝字旁，右邊是兼。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

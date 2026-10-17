@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_e45d4000f0922ab1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "譯",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "譯",
+    "similarChars": [
+      {
+        "char": "澤",
+        "similarity": "右邊都是睪。",
+        "difference": "譯左邊是言；澤左邊是氵。"
+      },
+      {
+        "char": "擇",
+        "similarity": "右邊都是睪。",
+        "difference": "譯左邊是言；擇左邊是扌。"
+      },
+      {
+        "char": "釋",
+        "similarity": "右邊都是睪。",
+        "difference": "譯左邊是言；釋左邊是釆。"
+      },
+      {
+        "char": "驛",
+        "similarity": "右邊都是睪。",
+        "difference": "譯左邊是言；驛左邊是馬。"
+      },
+      {
+        "char": "懌",
+        "similarity": "右邊都是睪。",
+        "difference": "譯左邊是言；懌左邊是忄；懌是少見字。"
+      },
+      {
+        "char": "繹",
+        "similarity": "右邊都是睪。",
+        "difference": "譯左邊是言；繹左邊是糸。"
+      }
+    ],
+    "teachingTip": "右邊共同部件「睪」不變，先比較左邊；翻譯與語言有關，所以「譯」用言字旁。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

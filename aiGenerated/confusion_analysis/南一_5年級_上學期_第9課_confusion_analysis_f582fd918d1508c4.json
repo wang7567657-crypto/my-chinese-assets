@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_f582fd918d1508c4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "雜",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "雜",
+    "groups": {
+      "shape": [
+        {
+          "char": "集",
+          "why": "都有隹和木的形狀。",
+          "difference": "雜的隹在右邊，左邊筆畫較多；集的隹在木的上面。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "砸",
+          "why": "同音，都是ㄗㄚˊ。",
+          "difference": "雜用在複雜；砸用在砸碎。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "亂",
+          "why": "都可能形容不整齊。",
+          "difference": "雜強調種類多或混在一起，如雜物；亂強調沒有秩序，如凌亂。"
+        }
+      ],
+      "component": [
+        {
+          "char": "難",
+          "why": "右邊都有隹。",
+          "difference": "雜與難的左邊不同；雜用在雜誌，難用在困難。"
+        }
+      ]
+    },
+    "tip": "雜物種類多；雜右邊有隹，別寫成集合的集。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_810843197aae099f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "局",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "局",
+    "groups": {
+      "shape": [
+        {
+          "char": "句",
+          "why": "都可看見包圍口的筆畫。",
+          "difference": "局上方有尸，裡面有橫折鉤和口；句是勹包住口，如句子。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "菊",
+          "why": "同音，都是ㄐㄩˊ。",
+          "difference": "局用在郵局、局面；菊用在菊花。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "所",
+          "why": "都可能出現在機構名稱中。",
+          "difference": "郵局是固定名稱；派出所也是固定名稱，局和所不能任意交換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "居",
+          "why": "都有尸。",
+          "difference": "局的尸內不是古；居是尸下面加古，如居住。"
+        }
+      ]
+    },
+    "tip": "郵局的局外面有尸，裡面的口別漏寫。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

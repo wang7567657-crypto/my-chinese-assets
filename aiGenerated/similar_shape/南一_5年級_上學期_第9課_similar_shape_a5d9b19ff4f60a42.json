@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_a5d9b19ff4f60a42",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "票",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "票",
+    "similarChars": [
+      {
+        "char": "漂",
+        "similarity": "都含有完整的票。",
+        "difference": "漂在票左邊多了氵。"
+      },
+      {
+        "char": "飄",
+        "similarity": "都含有完整的票。",
+        "difference": "飄在票右邊多了風。"
+      },
+      {
+        "char": "標",
+        "similarity": "都含有完整的票。",
+        "difference": "標在票左邊多了木。"
+      },
+      {
+        "char": "膘",
+        "similarity": "都含有完整的票。",
+        "difference": "膘在票左邊多了月。"
+      },
+      {
+        "char": "瓢",
+        "similarity": "都含有完整的票。",
+        "difference": "瓢在票右邊多了瓜。"
+      },
+      {
+        "char": "栗",
+        "similarity": "上方都是覀。",
+        "difference": "票下方是示；栗下方是木。"
+      }
+    ],
+    "teachingTip": "圈出「票」這個完整部件，再看它旁邊是否多了氵、木、風、月或瓜；也要辨清票下方是示。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

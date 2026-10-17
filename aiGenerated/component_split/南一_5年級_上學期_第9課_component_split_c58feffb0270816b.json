@@ -1,0 +1,70 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_5年級_上學期_第9課_component_split_c58feffb0270816b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "藉",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "data": {
+    "structure": "上下",
+    "split": [
+      4,
+      14
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4
+      ],
+      [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    ],
+    "components": [
+      "艹",
+      "耤"
+    ],
+    "strokeCount": 18,
+    "radical": "艸",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "verified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "保留既有分組，重新核對原始XML並渲染部首分色。split是各組筆數；strokeGroups為1起算，每筆恰好一次。",
+    "verification": {
+      "method": "重新解析c9s XML：Stroke數、唯一Outline、有限合理座標及有效Track；實際渲染藍色部首與橘色其餘部分後視覺核對字形及部首位置。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/85c9.xml"
+    }
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

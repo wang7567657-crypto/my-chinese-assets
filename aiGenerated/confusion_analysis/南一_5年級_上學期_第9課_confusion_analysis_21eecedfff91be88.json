@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_21eecedfff91be88",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "購",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "購",
+    "groups": {
+      "shape": [
+        {
+          "char": "構",
+          "why": "右邊相同，左旁容易寫錯。",
+          "difference": "購是貝字旁，表示購買；構是木字旁，如構造。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "夠",
+          "why": "同音，都是ㄍㄡˋ。",
+          "difference": "購是買，如購物；夠是足夠，如錢不夠。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "買",
+          "why": "都能表示付錢取得物品。",
+          "difference": "購多用在購買、購物等詞；買可直接接物品，如買一支筆。日常口語通常說買筆。"
+        }
+      ],
+      "component": [
+        {
+          "char": "溝",
+          "why": "都有冓這個部件。",
+          "difference": "購左邊是貝；溝左邊是氵，如水溝；溝讀ㄍㄡ。"
+        }
+      ]
+    },
+    "tip": "購物要花錢，購用貝字旁；不要寫成足夠的夠。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

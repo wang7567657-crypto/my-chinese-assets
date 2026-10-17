@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_8181904e7562d667",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "挖",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "挖",
+    "similarChars": [
+      {
+        "char": "穵",
+        "similarity": "挖的右半部就是穵。",
+        "difference": "穵少了挖左邊的扌；穵是少見字。"
+      },
+      {
+        "char": "控",
+        "similarity": "左邊都是扌，右上都是穴。",
+        "difference": "挖右下是乙；控右下是工。"
+      },
+      {
+        "char": "究",
+        "similarity": "都有穴，穴下方都有帶彎鉤的筆畫。",
+        "difference": "挖左邊有扌，穴下是乙；究沒有扌，穴下是九。"
+      },
+      {
+        "char": "窮",
+        "similarity": "都有穴，穴下方都有彎折筆畫。",
+        "difference": "挖有扌，穴下只有乙；窮沒有扌，穴下是躬，筆畫多得多。"
+      },
+      {
+        "char": "挽",
+        "similarity": "左邊都是扌，右下都有向右彎出的鉤筆。",
+        "difference": "挖右邊是穵，上方是穴；挽右邊是免，下方還有撇。"
+      },
+      {
+        "char": "扼",
+        "similarity": "左邊都是扌，右側都有彎折帶鉤的輪廓。",
+        "difference": "挖右邊是穵，先寫穴；扼右邊是厄，先寫厂。"
+      }
+    ],
+    "teachingTip": "把「挖」分成扌和穵，再看穵是穴下面一個乙；「控」右下則是工。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

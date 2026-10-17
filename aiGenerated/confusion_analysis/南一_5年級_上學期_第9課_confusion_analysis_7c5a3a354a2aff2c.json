@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_7c5a3a354a2aff2c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "幣",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "幣",
+    "groups": {
+      "shape": [
+        {
+          "char": "弊",
+          "why": "上方相同，下方容易看錯。",
+          "difference": "幣下方是巾，如錢幣；弊下方是廾，如作弊。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "閉",
+          "why": "同音，都是ㄅㄧˋ。",
+          "difference": "幣用在硬幣；閉用在關閉。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "錢",
+          "why": "都與交易使用的金錢有關。",
+          "difference": "幣常用在貨幣、硬幣；錢還可泛指金額，如花錢。"
+        }
+      ],
+      "component": [
+        {
+          "char": "敝",
+          "why": "幣的上方是敝。",
+          "difference": "敝可單獨成字，如敝人；下面加巾是幣。"
+        }
+      ]
+    },
+    "tip": "硬幣的幣，下面是巾；作弊的弊，下面是廾。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

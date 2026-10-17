@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_71c56ae0c40ef473",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "基",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "基",
+    "similarChars": [
+      {
+        "char": "期",
+        "similarity": "都含有其。",
+        "difference": "基是上其下土；期是左其右月。"
+      },
+      {
+        "char": "棋",
+        "similarity": "都含有其。",
+        "difference": "基是上其下土；棋是左木右其。"
+      },
+      {
+        "char": "琪",
+        "similarity": "都含有其。",
+        "difference": "基是上其下土；琪是左王右其。"
+      },
+      {
+        "char": "旗",
+        "similarity": "都含有其。",
+        "difference": "基的其在土上方；旗的其在右下方，另有方及右上方的撇、橫。"
+      },
+      {
+        "char": "箕",
+        "similarity": "都含有其，都是上下結構。",
+        "difference": "基是上其下土；箕是上竹字頭下其。"
+      },
+      {
+        "char": "其",
+        "similarity": "基的上半部就是其。",
+        "difference": "其少了基下方的土。"
+      }
+    ],
+    "teachingTip": "圈出「其」這個共同部件，再辨它的位置；「基」是其在上、土在下。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

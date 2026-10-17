@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_7ce595ab09637043",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "藉",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "藉",
+    "groups": {
+      "shape": [
+        {
+          "char": "籍",
+          "why": "下方相同，上方容易混淆。",
+          "difference": "藉上方是艹；籍上方是竹字頭，如書籍。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "借",
+          "why": "在藉助、藉口中，藉和借同讀ㄐㄧㄝˋ。",
+          "difference": "借書用借；藉助用藉。藉在狼藉中讀ㄐㄧˊ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "靠",
+          "why": "都可表示依賴。",
+          "difference": "憑藉、依靠意思相近，但藉口是用某理由推託，不能寫成靠口。"
+        }
+      ],
+      "component": [
+        {
+          "char": "耕",
+          "why": "都含耒這個部件。",
+          "difference": "藉的下方是耒加昔；耕是耒加井，如耕田。"
+        }
+      ]
+    },
+    "tip": "藉助讀ㄐㄧㄝˋ，狼藉讀ㄐㄧˊ；草字頭的藉和竹字頭的籍要分清。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

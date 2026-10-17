@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第9課_memory_strategy_b6014e7e713ff9d4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "款",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "款",
+    "components": [
+      "左上：士",
+      "左下：示",
+      "右：欠"
+    ],
+    "association": "想像付款前，店員先出示金額，再確認是否還有欠款。用出示和欠款提醒示、欠的位置；這是記形聯想，不是字源解釋。",
+    "mnemonic": "士下有示右邊欠，付款金額看一遍。",
+    "visualPrompt": "左側印出臺灣繁體標準字形『款』，右側另畫店員出示金額牌、顧客核對款項的情境。用獨立小標籤列出士、示、欠，不把錢幣嵌入字形。",
+    "teachingTip": "左上是士，上橫長、下橫短；左下是示，右邊是欠。可用『款項』確認這裡談的是金錢。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

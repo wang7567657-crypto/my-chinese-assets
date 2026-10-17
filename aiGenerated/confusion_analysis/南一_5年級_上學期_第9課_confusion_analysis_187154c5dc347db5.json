@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_187154c5dc347db5",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "譯",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "譯",
+    "groups": {
+      "shape": [
+        {
+          "char": "釋",
+          "why": "右邊相同，左旁容易混淆。",
+          "difference": "譯左邊是言，如翻譯；釋左邊是釆，如解釋。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "易",
+          "why": "同音，都是ㄧˋ。",
+          "difference": "譯用在翻譯；易用在容易。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "釋",
+          "why": "都可能讓人了解內容。",
+          "difference": "翻譯是換成另一種語言；解釋是說明意思，不一定改換語言。"
+        }
+      ],
+      "component": [
+        {
+          "char": "擇",
+          "why": "右邊共用睪這個部件。",
+          "difference": "譯配言，與語言轉換有關；擇配扌，如選擇，讀ㄗㄜˊ。"
+        }
+      ]
+    },
+    "tip": "翻譯處理語言，左邊用言，不要寫成解釋的釋。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

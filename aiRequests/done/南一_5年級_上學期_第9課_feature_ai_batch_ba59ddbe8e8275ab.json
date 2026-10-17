@@ -1,0 +1,343 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_5年級_上學期_第9課_feature_ai_batch_ba59ddbe8e8275ab",
+  "status": "done",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "context": {
+      "publisher": "南一",
+      "grade": "5年級",
+      "semester": "上學期",
+      "lesson": "第9課"
+    },
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 19,
+    "batchCharacters": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_c3fd7a302d9feba4",
+        "input": {
+          "char": "股",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_7ce595ab09637043",
+        "input": {
+          "char": "藉",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_ee666bf2f1220841",
+        "input": {
+          "char": "訪",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_21eecedfff91be88",
+        "input": {
+          "char": "購",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_791fc536392c6c74",
+        "input": {
+          "char": "票",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_eee7f89e5ee5ad57",
+        "input": {
+          "char": "售",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_bfb4e9ba5cc1fd65",
+        "input": {
+          "char": "協",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_187154c5dc347db5",
+        "input": {
+          "char": "譯",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_810843197aae099f",
+        "input": {
+          "char": "局",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_51cceb64bdd12c50",
+        "input": {
+          "char": "亡",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_d18e18dde9c46d6e",
+        "input": {
+          "char": "款",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_550f29dfc1bc0434",
+        "input": {
+          "char": "挖",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_8d3a6d45954ce975",
+        "input": {
+          "char": "賺",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_f582fd918d1508c4",
+        "input": {
+          "char": "雜",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_d40c9dfa0afb093e",
+        "input": {
+          "char": "鄰",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_7c5a3a354a2aff2c",
+        "input": {
+          "char": "幣",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_3807aed39060ea69",
+        "input": {
+          "char": "夠",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_6835e21195ec29ed",
+        "input": {
+          "char": "基",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_5年級_上學期_第9課_confusion_analysis_efd59d45243d76fa",
+        "input": {
+          "char": "諸",
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第9課",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00",
+  "processedAt": "2026-10-17T16:50:41.001511+00:00",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_5年級_上學期_第9課_feature_ai_batch_ba59ddbe8e8275ab",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "南一",
+      "grade": "5年級",
+      "semester": "上學期",
+      "lesson": "第9課",
+      "context": {
+        "publisher": "南一",
+        "grade": "5年級",
+        "semester": "上學期",
+        "lesson": "第9課"
+      },
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 19,
+      "batchCharacters": [
+        "股",
+        "藉",
+        "訪",
+        "購",
+        "票",
+        "售",
+        "協",
+        "譯",
+        "局",
+        "亡",
+        "款",
+        "挖",
+        "賺",
+        "雜",
+        "鄰",
+        "幣",
+        "夠",
+        "基",
+        "諸"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 19,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_c3fd7a302d9feba4.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_7ce595ab09637043.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_ee666bf2f1220841.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_21eecedfff91be88.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_791fc536392c6c74.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_eee7f89e5ee5ad57.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_bfb4e9ba5cc1fd65.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_187154c5dc347db5.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_810843197aae099f.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_51cceb64bdd12c50.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_d18e18dde9c46d6e.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_550f29dfc1bc0434.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_8d3a6d45954ce975.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_f582fd918d1508c4.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_d40c9dfa0afb093e.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_7c5a3a354a2aff2c.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_3807aed39060ea69.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_6835e21195ec29ed.json",
+        "aiGenerated/confusion_analysis/南一_5年級_上學期_第9課_confusion_analysis_efd59d45243d76fa.json"
+      ]
+    },
+    "createdAt": "2026-10-17T16:50:41.001511+00:00"
+  }
+}

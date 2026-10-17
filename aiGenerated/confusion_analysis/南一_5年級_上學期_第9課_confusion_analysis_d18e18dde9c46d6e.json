@@ -1,0 +1,44 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_d18e18dde9c46d6e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "款",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "款",
+    "groups": {
+      "shape": [],
+      "sound": [
+        {
+          "char": "寬",
+          "why": "近音，聲調不同：款讀ㄎㄨㄢˇ，寬讀ㄎㄨㄢ。",
+          "difference": "款項用款，第三聲；寬窄用寬，第一聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "錢",
+          "why": "都和金錢有關。",
+          "difference": "款常指一筆特定用途的錢，如捐款；錢是較一般的說法，如零錢。"
+        }
+      ],
+      "component": [
+        {
+          "char": "歌",
+          "why": "右邊都有欠。",
+          "difference": "款左邊不是哥；歌左邊是哥，如唱歌。"
+        }
+      ]
+    },
+    "tip": "捐款、款項都用款，右邊的欠不要漏寫。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

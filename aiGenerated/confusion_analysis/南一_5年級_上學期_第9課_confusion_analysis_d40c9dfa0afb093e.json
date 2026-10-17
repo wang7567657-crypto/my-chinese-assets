@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第9課_confusion_analysis_d40c9dfa0afb093e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鄰",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鄰",
+    "groups": {
+      "shape": [
+        {
+          "char": "麟",
+          "why": "右邊或左邊都有粦，字形容易混淆。",
+          "difference": "鄰是粦加右耳旁；麟是鹿加粦，如麒麟。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "林",
+          "why": "同音，都是ㄌㄧㄣˊ。",
+          "difference": "鄰用在鄰居；林用在樹林。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "旁",
+          "why": "都有接近、在附近的意思。",
+          "difference": "鄰可指附近的人家，如鄰居；旁表示方位，如旁邊。"
+        }
+      ],
+      "component": [
+        {
+          "char": "磷",
+          "why": "都有粦這個部件。",
+          "difference": "鄰配右耳旁，如鄰近；磷配石，如磷肥。"
+        }
+      ]
+    },
+    "tip": "鄰居住在附近，鄰用右耳旁，別寫成麒麟的麟。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

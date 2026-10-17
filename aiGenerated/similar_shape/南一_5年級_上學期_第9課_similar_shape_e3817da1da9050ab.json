@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第9課_similar_shape_e3817da1da9050ab",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "雜",
+    "lessonChars": [
+      "股",
+      "藉",
+      "訪",
+      "購",
+      "票",
+      "售",
+      "協",
+      "譯",
+      "局",
+      "亡",
+      "款",
+      "挖",
+      "賺",
+      "雜",
+      "鄰",
+      "幣",
+      "夠",
+      "基",
+      "諸"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課"
+  },
+  "data": {
+    "targetChar": "雜",
+    "similarChars": [
+      {
+        "char": "雞",
+        "similarity": "右邊都是隹，左邊筆畫也較密。",
+        "difference": "雜左下是木；雞左邊是奚，下方是大。"
+      },
+      {
+        "char": "雖",
+        "similarity": "右邊都是隹。",
+        "difference": "雜左邊下方是木；雖左邊是上口下虫。"
+      },
+      {
+        "char": "雙",
+        "similarity": "都有隹，整體筆畫密集。",
+        "difference": "雜右邊只有一個隹；雙上方是兩個隹，下方是又。"
+      },
+      {
+        "char": "集",
+        "similarity": "都有隹和木。",
+        "difference": "雜的隹在右邊，木在左下；集是上隹下木。"
+      },
+      {
+        "char": "誰",
+        "similarity": "右邊都是隹。",
+        "difference": "雜左邊下方是木；誰左邊是言。"
+      },
+      {
+        "char": "離",
+        "similarity": "右邊都是隹，左邊都較複雜。",
+        "difference": "雜左邊下方是木；離左邊是离，下方有框形與厶形筆畫。"
+      }
+    ],
+    "teachingTip": "先辨認右邊的隹，再看左邊下方是木，上方可見兩個人形筆畫；不要只憑筆畫多就猜字。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

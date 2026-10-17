@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第9課_memory_strategy_7048cce2a8664343",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "購",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "購",
+    "components": [
+      "左：貝",
+      "右：冓"
+    ],
+    "association": "想像拿著錢到商店購物，右邊冓的整齊筆畫像排列好的貨架。貨架只是記形聯想，不是字源解釋。",
+    "mnemonic": "左貝付錢去採購，右冓筆畫看清楚。",
+    "visualPrompt": "左側印出臺灣繁體標準字形『購』，右側另畫學生拿零錢購買文具及整齊貨架。另列貝、冓部件標籤，貨架不可取代冓的筆畫。",
+    "teachingTip": "先把購分成貝與冓，再看冓的上、下部分；不要因為同音而把右邊寫成句。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}

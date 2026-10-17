@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第9課_memory_strategy_273554da058b1b38",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "訪",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "訪",
+    "components": [
+      "左：言",
+      "右：方"
+    ],
+    "association": "想像拿著訪問問題，到不同地方與人說話。言提醒說話，方幫助記住右半部；這是記形聯想，不是字源解釋。",
+    "mnemonic": "言在左，方在旁；帶著問題去拜訪。",
+    "visualPrompt": "左側印出臺灣繁體標準字形『訪』，右側另畫學生拿著問題卡拜訪鄰居、禮貌交談。保持字形完整，不把對話框嵌入筆畫。",
+    "teachingTip": "與放、房比較相同的方及不同的偏旁；以『拜訪』造句，提醒訪是言字旁。"
+  },
+  "createdAt": "2026-10-17T16:50:41.001511+00:00"
+}
