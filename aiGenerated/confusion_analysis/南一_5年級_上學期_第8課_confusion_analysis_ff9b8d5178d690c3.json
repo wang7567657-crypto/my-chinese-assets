@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第8課_confusion_analysis_ff9b8d5178d690c3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鮭",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鮭",
+    "groups": {
+      "shape": [
+        {
+          "char": "蛙",
+          "why": "右邊同為圭",
+          "difference": "鮭左魚；蛙左虫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "龜",
+          "why": "同音：鮭魚的鮭與龜都讀ㄍㄨㄟ",
+          "difference": "鮭魚用鮭；烏龜用龜。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "魚",
+          "why": "都與魚類有關",
+          "difference": "魚是大類；鮭指其中的鮭魚。"
+        }
+      ],
+      "component": [
+        {
+          "char": "桂",
+          "why": "右邊都有圭",
+          "difference": "鮭用魚旁，桂用木旁。"
+        }
+      ]
+    },
+    "tip": "鮭魚讀ㄍㄨㄟ ㄩˊ，別照蛙字讀。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

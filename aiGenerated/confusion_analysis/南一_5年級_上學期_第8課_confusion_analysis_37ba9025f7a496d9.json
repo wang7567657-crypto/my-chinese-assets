@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第8課_confusion_analysis_37ba9025f7a496d9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "稠",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "稠",
+    "groups": {
+      "shape": [
+        {
+          "char": "綢",
+          "why": "右邊都是周",
+          "difference": "稠左禾；綢左糹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "愁",
+          "why": "同音：稠、愁都讀ㄔㄡˊ",
+          "difference": "濃稠用稠；發愁用愁。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "濃",
+          "why": "都能形容液體",
+          "difference": "稠重在不易流動；濃可指成分多、味道或顏色深。"
+        }
+      ],
+      "component": [
+        {
+          "char": "周",
+          "why": "稠右邊是周",
+          "difference": "左側還有禾，不能只寫周。"
+        }
+      ]
+    },
+    "tip": "粥很稠，稠字左邊是禾。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

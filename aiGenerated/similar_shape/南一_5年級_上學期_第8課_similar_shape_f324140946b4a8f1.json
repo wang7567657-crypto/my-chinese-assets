@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第8課_similar_shape_f324140946b4a8f1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "椒",
+    "lessonChars": [
+      "鄉",
+      "撲",
+      "螺",
+      "鮭",
+      "葵",
+      "稠",
+      "柔",
+      "旋",
+      "律",
+      "麥",
+      "噓",
+      "硬",
+      "扁",
+      "抗",
+      "筋",
+      "椒",
+      "蒜",
+      "漢",
+      "蓋"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "椒",
+    "similarChars": [
+      {
+        "char": "淑",
+        "similarity": "右邊同樣是叔。",
+        "difference": "「椒」左邊是木；「淑」左邊是氵。"
+      },
+      {
+        "char": "叔",
+        "similarity": "「椒」右邊就是叔。",
+        "difference": "「椒」左邊另有木；「叔」沒有木字旁。"
+      },
+      {
+        "char": "督",
+        "similarity": "都含有叔。",
+        "difference": "「椒」是左木右叔；「督」是上叔下目。"
+      },
+      {
+        "char": "寂",
+        "similarity": "都含有叔。",
+        "difference": "「椒」左邊是木；「寂」上方是宀，下面是叔。"
+      },
+      {
+        "char": "菽",
+        "similarity": "較少見字；都含有叔。",
+        "difference": "「椒」是左木右叔；「菽」是上艹下叔。"
+      },
+      {
+        "char": "俶",
+        "similarity": "較少見字；右邊同樣是叔。",
+        "difference": "「椒」左邊是木；「俶」左邊是亻。"
+      }
+    ],
+    "teachingTip": "把叔框成一組，再比較木、氵、亻等偏旁，以及叔出現在上方或下方的位置。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

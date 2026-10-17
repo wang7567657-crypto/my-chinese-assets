@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第8課_confusion_analysis_8c915ed3db2fd2dc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "扁",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "扁",
+    "groups": {
+      "shape": [
+        {
+          "char": "偏",
+          "why": "都含扁的字形",
+          "difference": "偏左邊多亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "匾",
+          "why": "同音：扁ㄅㄧㄢˇ、匾ㄅㄧㄢˇ同音",
+          "difference": "壓扁用扁；匾額用匾。"
+        },
+        {
+          "char": "扁",
+          "why": "多音字語境：扁平、壓扁讀ㄅㄧㄢˇ；扁舟讀ㄆㄧㄢ",
+          "difference": "同一個字依詞語不同而換讀音，扁舟指小船。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "平",
+          "why": "都可形容外形",
+          "difference": "扁強調薄或被壓薄；平強調表面沒有高低起伏。"
+        }
+      ],
+      "component": [
+        {
+          "char": "編",
+          "why": "編右邊是扁",
+          "difference": "扁沒有左邊糹。"
+        }
+      ]
+    },
+    "tip": "扁平讀ㄅㄧㄢˇ；扁舟讀ㄆㄧㄢ。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

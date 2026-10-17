@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第8課_similar_shape_1c931b89b3e7c90c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "旋",
+    "lessonChars": [
+      "鄉",
+      "撲",
+      "螺",
+      "鮭",
+      "葵",
+      "稠",
+      "柔",
+      "旋",
+      "律",
+      "麥",
+      "噓",
+      "硬",
+      "扁",
+      "抗",
+      "筋",
+      "椒",
+      "蒜",
+      "漢",
+      "蓋"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "旋",
+    "similarChars": [
+      {
+        "char": "漩",
+        "similarity": "右邊就是「旋」。",
+        "difference": "「漩」左邊多了氵；「旋」沒有水字旁。"
+      },
+      {
+        "char": "旅",
+        "similarity": "左側都有方，右上都有相同的短撇、橫。",
+        "difference": "「旋」右下是「疋」；「旅」右下是撇與豎提等筆畫，沒有疋。"
+      },
+      {
+        "char": "旗",
+        "similarity": "左側都有方，右上都有相同的短撇、橫。",
+        "difference": "「旋」右下是疋；「旗」右下是其。"
+      },
+      {
+        "char": "族",
+        "similarity": "左側都有方，右上都有相同的短撇、橫。",
+        "difference": "「旋」右下是疋；「族」右下是矢。"
+      },
+      {
+        "char": "施",
+        "similarity": "左側都有方，右上都有相同的短撇、橫。",
+        "difference": "「旋」右下是疋；「施」右下是也。"
+      },
+      {
+        "char": "遊",
+        "similarity": "都可看到方，以及方右上方的短撇、橫。",
+        "difference": "「遊」有辶，內部右下是子；「旋」沒有辶，右下是疋。"
+      }
+    ],
+    "teachingTip": "方字旁相同時，看右下角：旋是疋，旅、旗、族、施的右下各不相同。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第8課_confusion_analysis_6416c83b273a7b07",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "蒜",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "蒜",
+    "groups": {
+      "shape": [
+        {
+          "char": "祟",
+          "why": "都有示形筆畫，容易看錯位置與數量",
+          "difference": "蒜上方是艹，下方兩個示並排；祟上方是出。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "算",
+          "why": "同音：蒜、算都讀ㄙㄨㄢˋ",
+          "difference": "大蒜用蒜；計算用算。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蔥",
+          "why": "都是常見調味植物",
+          "difference": "蒜與蔥是不同植物，料理中不能當成同一個字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "示",
+          "why": "蒜下方有兩個示",
+          "difference": "兩個示左右並排，上方加艹。"
+        }
+      ]
+    },
+    "tip": "草頭下雙示，大蒜的蒜。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

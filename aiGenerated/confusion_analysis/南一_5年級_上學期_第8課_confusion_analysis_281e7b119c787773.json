@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第8課_confusion_analysis_281e7b119c787773",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "鄉",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鄉",
+    "groups": {
+      "shape": [
+        {
+          "char": "響",
+          "why": "都有相近的上方字形",
+          "difference": "鄉右側有阝；響下方有音。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "香",
+          "why": "同音：鄉、香都讀ㄒㄧㄤ",
+          "difference": "家鄉用鄉；香味用香。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "村",
+          "why": "都能談居住的地方",
+          "difference": "鄉可指家鄉或鄉村；村通常指村落。"
+        }
+      ],
+      "component": [
+        {
+          "char": "響",
+          "why": "響包含鄉的字形",
+          "difference": "鄉沒有下方的音。"
+        }
+      ]
+    },
+    "tip": "先找右側阝，再讀家鄉。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

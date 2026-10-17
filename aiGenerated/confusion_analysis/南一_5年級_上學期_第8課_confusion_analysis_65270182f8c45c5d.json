@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第8課_confusion_analysis_65270182f8c45c5d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "律",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "律",
+    "groups": {
+      "shape": [
+        {
+          "char": "津",
+          "why": "右邊同為聿",
+          "difference": "律左彳；津左氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "綠",
+          "why": "同音：律ㄌㄩˋ、綠ㄌㄩˋ在常用綠色一詞中同音",
+          "difference": "旋律、規律用律；綠色用綠。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "則",
+          "why": "都與規範有關",
+          "difference": "律常見於法律、規律；則常見於規則、原則，不能逐字替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "聿",
+          "why": "律右邊為聿",
+          "difference": "保留中間直筆和橫畫，不改成羊。"
+        }
+      ]
+    },
+    "tip": "雙人旁配聿，法律、旋律都用律。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

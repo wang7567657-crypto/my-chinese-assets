@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第8課_similar_shape_1f94d880bcb70dfe",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "葵",
+    "lessonChars": [
+      "鄉",
+      "撲",
+      "螺",
+      "鮭",
+      "葵",
+      "稠",
+      "柔",
+      "旋",
+      "律",
+      "麥",
+      "噓",
+      "硬",
+      "扁",
+      "抗",
+      "筋",
+      "椒",
+      "蒜",
+      "漢",
+      "蓋"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "葵",
+    "similarChars": [
+      {
+        "char": "癸",
+        "similarity": "「葵」下半部就是「癸」。",
+        "difference": "「葵」上方有「艹」；「癸」沒有草字頭。"
+      },
+      {
+        "char": "揆",
+        "similarity": "都含有「癸」。",
+        "difference": "「葵」是上艹下癸；「揆」是左扌右癸。"
+      },
+      {
+        "char": "睽",
+        "similarity": "都含有「癸」。",
+        "difference": "「葵」上方是艹；「睽」左邊是目，結構不同。"
+      },
+      {
+        "char": "暌",
+        "similarity": "較少見字；都含有「癸」。",
+        "difference": "「葵」是上下結構；「暌」是左日右癸。"
+      },
+      {
+        "char": "登",
+        "similarity": "「癸」與「登」上方都有「癶」。",
+        "difference": "「葵」最上面另有艹，下方的癸以天收尾；「登」下方是豆。"
+      },
+      {
+        "char": "蔡",
+        "similarity": "都是草字頭，下方筆畫較多。",
+        "difference": "「葵」下方是「癸」；「蔡」下方是「祭」，可看底部的天與示來區分。"
+      }
+    ],
+    "teachingTip": "草字頭下面寫「癸」；特別比較底部是「天」，不要寫成「登」的豆或「蔡」的示。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

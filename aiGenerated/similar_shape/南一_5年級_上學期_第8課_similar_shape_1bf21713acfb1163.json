@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第8課_similar_shape_1bf21713acfb1163",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "柔",
+    "lessonChars": [
+      "鄉",
+      "撲",
+      "螺",
+      "鮭",
+      "葵",
+      "稠",
+      "柔",
+      "旋",
+      "律",
+      "麥",
+      "噓",
+      "硬",
+      "扁",
+      "抗",
+      "筋",
+      "椒",
+      "蒜",
+      "漢",
+      "蓋"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "柔",
+    "similarChars": [
+      {
+        "char": "揉",
+        "similarity": "都含有「柔」。",
+        "difference": "「揉」左邊加扌；「柔」沒有提手旁。"
+      },
+      {
+        "char": "蹂",
+        "similarity": "較少見字；都含有「柔」。",
+        "difference": "「蹂」左邊加足；「柔」沒有足字旁。"
+      },
+      {
+        "char": "糅",
+        "similarity": "較少見字；都含有「柔」。",
+        "difference": "「糅」左邊加米；「柔」沒有米字旁。"
+      },
+      {
+        "char": "矛",
+        "similarity": "「柔」上方就是「矛」。",
+        "difference": "「柔」下方另有木；「矛」沒有下面的木。"
+      },
+      {
+        "char": "茅",
+        "similarity": "都含有「矛」。",
+        "difference": "「柔」是上矛下木；「茅」是上艹下矛。"
+      },
+      {
+        "char": "桑",
+        "similarity": "下方同樣有「木」。",
+        "difference": "「柔」上方是矛；「桑」上方是三個又。"
+      }
+    ],
+    "teachingTip": "先辨認上面的矛、下面的木，再比較揉、蹂、糅多出的左偏旁。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

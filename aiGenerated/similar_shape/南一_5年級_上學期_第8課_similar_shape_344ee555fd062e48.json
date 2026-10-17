@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第8課_similar_shape_344ee555fd062e48",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "targetChar": "硬",
+    "lessonChars": [
+      "鄉",
+      "撲",
+      "螺",
+      "鮭",
+      "葵",
+      "稠",
+      "柔",
+      "旋",
+      "律",
+      "麥",
+      "噓",
+      "硬",
+      "扁",
+      "抗",
+      "筋",
+      "椒",
+      "蒜",
+      "漢",
+      "蓋"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課"
+  },
+  "data": {
+    "targetChar": "硬",
+    "similarChars": [
+      {
+        "char": "梗",
+        "similarity": "右邊同樣是「更」。",
+        "difference": "「硬」左邊是「石」；「梗」左邊是「木」。"
+      },
+      {
+        "char": "哽",
+        "similarity": "右邊同樣是「更」。",
+        "difference": "「硬」左邊是「石」；「哽」左邊是「口」。"
+      },
+      {
+        "char": "埂",
+        "similarity": "右邊同樣是「更」。",
+        "difference": "「硬」左邊是「石」；「埂」左邊是「土」。"
+      },
+      {
+        "char": "鯁",
+        "similarity": "較少見字；右邊同樣是「更」。",
+        "difference": "「硬」左邊是「石」；「鯁」左邊是「魚」。"
+      },
+      {
+        "char": "便",
+        "similarity": "右邊同樣是「更」。",
+        "difference": "「硬」左邊是「石」；「便」左邊是「亻」。"
+      },
+      {
+        "char": "更",
+        "similarity": "「硬」的右邊就是「更」。",
+        "difference": "「硬」左邊另有「石」；「更」沒有這個偏旁。"
+      }
+    ],
+    "teachingTip": "右邊都是「更」時，要看左邊；「硬」用石字旁。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}

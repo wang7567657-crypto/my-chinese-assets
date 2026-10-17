@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第8課_confusion_analysis_162d7f17c6696e8b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "螺",
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "螺",
+    "groups": {
+      "shape": [
+        {
+          "char": "累",
+          "why": "右側都可見累",
+          "difference": "螺左邊多了虫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "羅",
+          "why": "同音：螺、羅都讀ㄌㄨㄛˊ",
+          "difference": "螺可見於海螺；羅可見於羅列。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "蝸",
+          "why": "都可能讓人想到有殼的動物",
+          "difference": "螺可指螺類；蝸常見於蝸牛一詞，不能任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "累",
+          "why": "螺右邊是累",
+          "difference": "右上是田，右下是糸，不要漏掉虫。"
+        }
+      ]
+    },
+    "tip": "左虫右累，海螺的螺。"
+  },
+  "createdAt": "2026-10-17T14:43:55.756002+00:00"
+}
