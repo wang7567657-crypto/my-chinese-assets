@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_b344f12ab1112fc1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "郊",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "郊",
+    "groups": {
+      "shape": [
+        {
+          "char": "效",
+          "why": "左邊都是交，右邊部件容易混淆。",
+          "difference": "郊右邊是阝，如郊外；效右邊是攵，如效果。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "交",
+          "why": "同音：郊外的郊、交通的交都讀ㄐㄧㄠ。",
+          "difference": "郊外指城市外圍的地方；交通與來往、運輸有關。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "野",
+          "why": "郊外、野外都可能指戶外、城鎮以外的地方。",
+          "difference": "郊強調城市外圍；野強調空曠的地方，不一定就在城市旁邊。"
+        }
+      ],
+      "component": [
+        {
+          "char": "校",
+          "why": "兩字都含交，位置與搭配部件不同。",
+          "difference": "郊是左交右阝；校是左木右交，如學校。"
+        }
+      ]
+    },
+    "tip": "郊外與地方有關，右邊寫阝；效果的效，右邊寫攵。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

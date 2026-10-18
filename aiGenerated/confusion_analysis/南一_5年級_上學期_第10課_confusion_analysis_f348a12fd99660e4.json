@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_f348a12fd99660e4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "勸",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "勸",
+    "groups": {
+      "shape": [
+        {
+          "char": "歡",
+          "why": "左邊都是雚，右邊的力、欠容易混淆。",
+          "difference": "勸右邊是力，如勸告；歡右邊是欠，如歡樂。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "券",
+          "why": "同音：勸告的勸、票券的券都讀ㄑㄩㄢˋ。",
+          "difference": "勸是給建議、使人改變做法；券是票據，如餐券。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "說",
+          "why": "勸說和說話都與言語表達有關。",
+          "difference": "勸通常有希望對方接受建議、改變行動的目的；說只表示表達，不一定是在勸人。"
+        }
+      ],
+      "component": [
+        {
+          "char": "觀",
+          "why": "左邊都含雚，須辨認右側部件。",
+          "difference": "勸右力，如勸導；觀右見，如觀察。"
+        }
+      ]
+    },
+    "tip": "勸、歡、觀看右邊：力是勸，欠是歡，見是觀。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

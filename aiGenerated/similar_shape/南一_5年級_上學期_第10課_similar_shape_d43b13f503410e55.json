@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第10課_similar_shape_d43b13f503410e55",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "閒",
+    "lessonChars": [
+      "閒",
+      "罵",
+      "究",
+      "營",
+      "擔",
+      "彆",
+      "扭",
+      "規",
+      "勸",
+      "仇",
+      "討",
+      "郊",
+      "鍋",
+      "繫",
+      "互",
+      "誼",
+      "畢",
+      "訊",
+      "磊"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "閒",
+    "similarChars": [
+      {
+        "char": "間",
+        "similarity": "外框同為門，框內都有直立的方框。",
+        "difference": "閒的門內是月；間的門內是日，日中只有一橫。"
+      },
+      {
+        "char": "閑",
+        "similarity": "外框同為門，裡面各放一個部件。",
+        "difference": "閒的門內是月；閑的門內是木。閑另有自己的用法，不宜只憑讀音替換。"
+      },
+      {
+        "char": "閃",
+        "similarity": "外框同為門。",
+        "difference": "閒的門內是月；閃的門內是人，沒有月的橫畫。"
+      },
+      {
+        "char": "閉",
+        "similarity": "外框同為門。",
+        "difference": "閒的門內是月；閉的門內是才。"
+      },
+      {
+        "char": "閏",
+        "similarity": "外框同為門，框內都有多條橫畫。",
+        "difference": "閒的門內是月；閏的門內是王，王沒有月形的兩側外框。"
+      },
+      {
+        "char": "悶",
+        "similarity": "外框同為門。",
+        "difference": "閒的門內是月；悶的門內是心。"
+      }
+    ],
+    "teachingTip": "先遮住門字框，只看裡面的部件。把閒、間、閑並排，圈出月、日、木，再完整書寫。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

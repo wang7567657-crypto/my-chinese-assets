@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_ecfcda84205eda9b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "磊",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "磊",
+    "groups": {
+      "shape": [
+        {
+          "char": "晶",
+          "why": "都由三個相同部件以上一、下二排列，容易只記住輪廓。",
+          "difference": "磊是三個石，如磊落；晶是三個日，如水晶。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "壘",
+          "why": "同音：磊落的磊、壘球的壘都讀ㄌㄟˇ。",
+          "difference": "磊落形容胸懷坦蕩；壘球是運動名稱，不能寫成磊球。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "坦",
+          "why": "磊落、坦蕩都可形容心地光明、不隱瞞。",
+          "difference": "磊要結合磊落來理解這個意思；坦另可表示平直，如平坦，不能把平坦寫成平磊。"
+        }
+      ],
+      "component": [
+        {
+          "char": "岩",
+          "why": "都含石部件，但數量和位置不同。",
+          "difference": "磊由三個石組成；岩上面是山、下面是一個石，如岩石。"
+        }
+      ]
+    },
+    "tip": "三個石是磊，三個日是晶；光明磊落的磊讀ㄌㄟˇ，第三聲。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

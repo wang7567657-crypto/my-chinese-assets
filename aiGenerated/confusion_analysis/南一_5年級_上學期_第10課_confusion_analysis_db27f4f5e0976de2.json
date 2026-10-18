@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_db27f4f5e0976de2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "討",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "討",
+    "groups": {
+      "shape": [
+        {
+          "char": "付",
+          "why": "右邊都是寸，容易忽略左側部件。",
+          "difference": "討左邊是言，如討論；付左邊是亻，如付出。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "逃",
+          "why": "近音：聲母、韻母相同，聲調不同。",
+          "difference": "討讀ㄊㄠˇ，第三聲，如討論；逃讀ㄊㄠˊ，第二聲，如逃走。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "索",
+          "why": "討取、索取都可表示要求得到東西。",
+          "difference": "討在討取中是索求，但討論是共同研究、交換意見，不能一律換成索。"
+        }
+      ],
+      "component": [
+        {
+          "char": "村",
+          "why": "都含寸，但另一個部件不同。",
+          "difference": "討左言右寸，如討教；村左木右寸，如村莊。"
+        }
+      ]
+    },
+    "tip": "討論要用言部的討；付出用亻，村莊用木。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

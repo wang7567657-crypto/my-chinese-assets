@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_3607575d2a970ce1",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "閒",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "閒",
+    "groups": {
+      "shape": [
+        {
+          "char": "間",
+          "why": "外框同為「門」，裡面的月、日容易看錯。",
+          "difference": "閒裡面是「月」，如休閒；間裡面是「日」，如時間。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "嫌",
+          "why": "同音：休閒的閒、嫌棄的嫌都讀ㄒㄧㄢˊ。",
+          "difference": "休閒表示閒暇；嫌棄表示不喜歡。不能因讀音相同而換字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "空",
+          "why": "空閒、有空都可表示有時間。",
+          "difference": "閒常指沒有事做，如閒暇；空還可指裡面沒有東西，如空盒。"
+        }
+      ],
+      "component": [
+        {
+          "char": "悶",
+          "why": "都含「門」部件，但門內的部件不同。",
+          "difference": "閒是門內有月；悶是門內有心，如悶悶不樂。"
+        }
+      ]
+    },
+    "tip": "休閒的閒讀ㄒㄧㄢˊ，門裡寫月；時間的間，門裡寫日。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}
