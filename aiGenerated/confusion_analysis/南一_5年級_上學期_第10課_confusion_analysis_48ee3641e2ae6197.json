@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_48ee3641e2ae6197",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "究",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "究",
+    "groups": {
+      "shape": [
+        {
+          "char": "空",
+          "why": "上面都是「穴」，下方筆畫較少，容易混看。",
+          "difference": "究下面是九，如研究；空下面是工，如天空。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "救",
+          "why": "同音：研究的究、救人的救都讀ㄐㄧㄡˋ。",
+          "difference": "研究是探求道理；救人是幫助人脫離危險。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "查",
+          "why": "研究、調查都可能是為了弄清楚事情。",
+          "difference": "究偏重追尋原因或深入探求；查偏重檢查、查找，例如查字典。"
+        }
+      ],
+      "component": [
+        {
+          "char": "窮",
+          "why": "都以「穴」為上方部件。",
+          "difference": "究的下方是九；窮的下方有身、弓，如窮困。"
+        }
+      ]
+    },
+    "tip": "研究的究是穴下面一個九；用詞時分清研究與救助。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

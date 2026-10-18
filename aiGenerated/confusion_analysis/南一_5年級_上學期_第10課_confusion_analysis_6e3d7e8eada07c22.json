@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_6e3d7e8eada07c22",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "鍋",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鍋",
+    "groups": {
+      "shape": [
+        {
+          "char": "禍",
+          "why": "右邊都是咼，容易寫錯左邊。",
+          "difference": "鍋左邊是金，如火鍋；禍左邊是礻，如災禍。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "郭",
+          "why": "同音：鍋子的鍋、郭姓的郭都讀ㄍㄨㄛ。",
+          "difference": "鍋是烹煮器具；郭可作姓氏，不能把火鍋寫成火郭。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "盆",
+          "why": "鍋和盆都是常見容器。",
+          "difference": "鍋主要用來烹煮，如湯鍋；盆主要用來盛裝，如臉盆、花盆。"
+        }
+      ],
+      "component": [
+        {
+          "char": "過",
+          "why": "兩字都含咼，另一部件不同。",
+          "difference": "鍋左側是金；過外側是辶，如經過。"
+        }
+      ]
+    },
+    "tip": "煮東西用鍋，左邊是金；禍左礻，過有辶。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

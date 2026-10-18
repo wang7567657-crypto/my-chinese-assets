@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第10課_confusion_analysis_d6c7a3f996baf031",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "彆",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "彆",
+    "groups": {
+      "shape": [
+        {
+          "char": "弊",
+          "why": "上面都是「敝」，下方筆畫容易混淆。",
+          "difference": "彆下面是弓，如彆扭；弊下面是廾，如作弊。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "別",
+          "why": "近音：彆、別的聲母韻母相同，常用讀音聲調不同。",
+          "difference": "彆扭的彆讀ㄅㄧㄝˋ，第四聲；別人的別讀ㄅㄧㄝˊ，第二聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "怪",
+          "why": "彆扭、奇怪有時都描述不自然的感覺。",
+          "difference": "彆扭可指不和順、不自在或有爭執；怪的範圍較廣，也可指罕見、奇特。"
+        }
+      ],
+      "component": [
+        {
+          "char": "憋",
+          "why": "上方都是敝，下方部件不同。",
+          "difference": "彆下面是弓，組詞彆扭；憋下面是心，組詞憋氣。"
+        }
+      ]
+    },
+    "tip": "彆扭寫彆，不寫別；彆下面是弓，彆扭讀ㄅㄧㄝˋ ㄋㄧㄡˇ。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}

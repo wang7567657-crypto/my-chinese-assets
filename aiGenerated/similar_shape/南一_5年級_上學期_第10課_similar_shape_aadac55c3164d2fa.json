@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第10課_similar_shape_aadac55c3164d2fa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "繫",
+    "lessonChars": [
+      "閒",
+      "罵",
+      "究",
+      "營",
+      "擔",
+      "彆",
+      "扭",
+      "規",
+      "勸",
+      "仇",
+      "討",
+      "郊",
+      "鍋",
+      "繫",
+      "互",
+      "誼",
+      "畢",
+      "訊",
+      "磊"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "繫",
+    "similarChars": [
+      {
+        "char": "擊",
+        "similarity": "上半部字形相同，下半部都向左右展開。",
+        "difference": "繫的下方是糸；擊的下方是手。"
+      },
+      {
+        "char": "系",
+        "similarity": "下方都有糸形。",
+        "difference": "繫的上半部有車形、殳等複雜筆畫；系在糸上方只有一撇。本組只比較字形，不表示兩字可任意互換。"
+      },
+      {
+        "char": "緊",
+        "similarity": "下方同為糸，都是上下結構。",
+        "difference": "繫上方含車形與殳；緊上方是左臣右又。"
+      },
+      {
+        "char": "索",
+        "similarity": "下方同為糸，都是上下結構。",
+        "difference": "繫上方含車形與殳；索在糸上方是十與冖。"
+      },
+      {
+        "char": "紫",
+        "similarity": "下方同為糸，都是上下結構。",
+        "difference": "繫上方含車形與殳；紫上方是此。"
+      },
+      {
+        "char": "絮",
+        "similarity": "下方同為糸，都是上下結構。",
+        "difference": "繫上方含車形與殳；絮上方是如。"
+      }
+    ],
+    "teachingTip": "先用繫、擊作重點比較：繫下糸、擊下手。其餘字用來辨認共同的糸，再查看上方部件，避免只看下半部猜字。"
+  },
+  "createdAt": "2026-10-17T17:51:06.997449Z"
+}
