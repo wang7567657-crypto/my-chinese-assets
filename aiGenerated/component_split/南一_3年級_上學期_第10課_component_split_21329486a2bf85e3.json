@@ -1,0 +1,55 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_3年級_上學期_第10課_component_split_21329486a2bf85e3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "反",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "data": {
+    "radical": "又",
+    "radicalStrokeIndices": [
+      3,
+      4
+    ],
+    "structure": "半包圍",
+    "strokeCount": 4,
+    "strokeGroups": [
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "split": [
+      2,
+      2
+    ],
+    "components": [
+      "又",
+      "其餘部分"
+    ],
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "採部首與其餘部分保守分組；split是各組筆數，不是連續區間。依strokeGroups保留原筆序與原字位置，每筆恰好出現一次。",
+    "verification": {
+      "method": "重新解析c9s原始XML，核對Stroke數、Outline輪廓不重複、座標有限合理、Track有效；實際渲染部首藍色與其餘橘色，逐字視覺核對標準字形及部首。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/53cd.xml",
+      "checkedAt": "2026-10-18T18:44:16.346166+00:00"
+    }
+  },
+  "createdAt": "2026-10-18T18:44:16.346166+00:00"
+}
