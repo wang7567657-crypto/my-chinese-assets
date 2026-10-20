@@ -1,0 +1,108 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_5年級_上學期_第6課_feature_ai_batch_b053a1cba7c29560",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "featureTaskType": "fillblank_generate",
+    "featureName": "填空測驗",
+    "itemCount": 1,
+    "batchCharacters": [],
+    "items": [
+      {
+        "taskType": "fillblank_generate",
+        "requestId": "南一_5年級_上學期_第6課_fillblank_generate_0c4f9c282825ed62",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "title": "第6課 全課填空",
+          "items": [
+            {
+              "char": "綻",
+              "word": "綻"
+            },
+            {
+              "char": "暇",
+              "word": "暇"
+            },
+            {
+              "char": "螃",
+              "word": "螃"
+            },
+            {
+              "char": "乎",
+              "word": "乎"
+            },
+            {
+              "char": "召",
+              "word": "召"
+            },
+            {
+              "char": "溝",
+              "word": "溝"
+            },
+            {
+              "char": "緩",
+              "word": "緩"
+            },
+            {
+              "char": "蹲",
+              "word": "蹲"
+            },
+            {
+              "char": "腹",
+              "word": "腹"
+            },
+            {
+              "char": "浸",
+              "word": "浸"
+            },
+            {
+              "char": "陸",
+              "word": "陸"
+            },
+            {
+              "char": "殖",
+              "word": "殖"
+            },
+            {
+              "char": "愈",
+              "word": "愈"
+            },
+            {
+              "char": "悲",
+              "word": "悲"
+            },
+            {
+              "char": "顯",
+              "word": "顯"
+            },
+            {
+              "char": "阻",
+              "word": "阻"
+            },
+            {
+              "char": "孵",
+              "word": "孵"
+            },
+            {
+              "char": "歷",
+              "word": "歷"
+            }
+          ],
+          "level": "國小中高年級",
+          "sourceRequestId": "",
+          "autoLesson": true
+        }
+      }
+    ],
+    "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
+  },
+  "createdAt": "2026-10-20T05:16:05.508Z"
+}
