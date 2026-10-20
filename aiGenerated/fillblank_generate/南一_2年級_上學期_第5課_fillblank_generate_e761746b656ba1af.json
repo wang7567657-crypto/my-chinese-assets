@@ -1,0 +1,445 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "南一_2年級_上學期_第5課_fillblank_generate_e761746b656ba1af",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "title": "第5課 全課填空",
+    "items": [
+      {
+        "char": "蟲",
+        "word": "蟲"
+      },
+      {
+        "char": "森",
+        "word": "森"
+      },
+      {
+        "char": "動",
+        "word": "動"
+      },
+      {
+        "char": "物",
+        "word": "物"
+      },
+      {
+        "char": "王",
+        "word": "王"
+      },
+      {
+        "char": "坐",
+        "word": "坐"
+      },
+      {
+        "char": "午",
+        "word": "午"
+      },
+      {
+        "char": "停",
+        "word": "停"
+      },
+      {
+        "char": "座",
+        "word": "座"
+      },
+      {
+        "char": "急",
+        "word": "急"
+      },
+      {
+        "char": "百",
+        "word": "百"
+      },
+      {
+        "char": "科",
+        "word": "科"
+      },
+      {
+        "char": "全",
+        "word": "全"
+      },
+      {
+        "char": "原",
+        "word": "原"
+      },
+      {
+        "char": "從",
+        "word": "從"
+      },
+      {
+        "char": "此",
+        "word": "此"
+      },
+      {
+        "char": "管",
+        "word": "管"
+      },
+      {
+        "char": "種",
+        "word": "種"
+      },
+      {
+        "char": "橋",
+        "word": "橋"
+      },
+      {
+        "char": "圖",
+        "word": "圖"
+      },
+      {
+        "char": "館",
+        "word": "館"
+      }
+    ],
+    "level": "國小中高年級",
+    "sourceRequestId": "",
+    "autoLesson": true
+  },
+  "data": {
+    "title": "第5課 全課填空",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "蟲",
+        "word": "昆蟲",
+        "sentence": "草地上有一隻小昆＿＿，正慢慢爬行。",
+        "answer": "蟲",
+        "options": [
+          "蟲",
+          "鳥",
+          "魚",
+          "狗"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「昆蟲」的寫法。",
+        "explanation": "填入「蟲」，組成「昆蟲」。"
+      },
+      {
+        "id": "q2",
+        "targetChar": "森",
+        "word": "森林",
+        "sentence": "許多高大的樹木長在＿＿林裡。",
+        "answer": "森",
+        "options": [
+          "深",
+          "森",
+          "身",
+          "伸"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「森林」的寫法。",
+        "explanation": "填入「森」，組成「森林」。"
+      },
+      {
+        "id": "q3",
+        "targetChar": "動",
+        "word": "動物",
+        "sentence": "小狗和小貓都是會走路的＿＿物。",
+        "answer": "動",
+        "options": [
+          "作",
+          "做",
+          "動",
+          "坐"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「動物」的寫法。",
+        "explanation": "填入「動」，組成「動物」。"
+      },
+      {
+        "id": "q4",
+        "targetChar": "物",
+        "word": "植物",
+        "sentence": "校園裡種了許多植＿＿，有花也有樹。",
+        "answer": "物",
+        "options": [
+          "勿",
+          "牛",
+          "場",
+          "物"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「植物」的寫法。",
+        "explanation": "填入「物」，組成「植物」。"
+      },
+      {
+        "id": "q5",
+        "targetChar": "王",
+        "word": "國王",
+        "sentence": "故事中的國＿＿戴著皇冠。",
+        "answer": "王",
+        "options": [
+          "王",
+          "玉",
+          "主",
+          "住"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「國王」的寫法。",
+        "explanation": "填入「王」，組成「國王」。"
+      },
+      {
+        "id": "q6",
+        "targetChar": "坐",
+        "word": "坐下",
+        "sentence": "老師說：「請＿＿下，準備聽故事。」",
+        "answer": "坐",
+        "options": [
+          "座",
+          "坐",
+          "做",
+          "作"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「坐下」的寫法。",
+        "explanation": "填入「坐」，組成「坐下」。"
+      },
+      {
+        "id": "q7",
+        "targetChar": "午",
+        "word": "中午",
+        "sentence": "上午的課結束了，中＿＿要吃午餐。",
+        "answer": "午",
+        "options": [
+          "牛",
+          "五",
+          "午",
+          "許"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「中午」的寫法。",
+        "explanation": "填入「午」，組成「中午」。"
+      },
+      {
+        "id": "q8",
+        "targetChar": "停",
+        "word": "停止",
+        "sentence": "紅燈亮了，車子要＿＿下來等候。",
+        "answer": "停",
+        "options": [
+          "亭",
+          "聽",
+          "庭",
+          "停"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「停止」的寫法。",
+        "explanation": "填入「停」，組成「停止」。"
+      },
+      {
+        "id": "q9",
+        "targetChar": "座",
+        "word": "座位",
+        "sentence": "每個人的＿＿位上都放著一本書。",
+        "answer": "座",
+        "options": [
+          "座",
+          "坐",
+          "做",
+          "作"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「座位」的寫法。",
+        "explanation": "填入「座」，組成「座位」。"
+      },
+      {
+        "id": "q10",
+        "targetChar": "急",
+        "word": "著急",
+        "sentence": "找不到回家的鑰匙，我心裡很著＿＿。",
+        "answer": "急",
+        "options": [
+          "及",
+          "急",
+          "級",
+          "極"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「著急」的寫法。",
+        "explanation": "填入「急」，組成「著急」。"
+      },
+      {
+        "id": "q11",
+        "targetChar": "百",
+        "word": "一百",
+        "sentence": "十個十合起來是一＿＿。",
+        "answer": "百",
+        "options": [
+          "白",
+          "日",
+          "百",
+          "自"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「一百」的寫法。",
+        "explanation": "填入「百」，組成「一百」。"
+      },
+      {
+        "id": "q12",
+        "targetChar": "科",
+        "word": "科學",
+        "sentence": "我們在自然課做＿＿學實驗。",
+        "answer": "科",
+        "options": [
+          "料",
+          "斗",
+          "抖",
+          "科"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「科學」的寫法。",
+        "explanation": "填入「科」，組成「科學」。"
+      },
+      {
+        "id": "q13",
+        "targetChar": "全",
+        "word": "全部",
+        "sentence": "老師請＿＿班同學一起到操場集合。",
+        "answer": "全",
+        "options": [
+          "全",
+          "金",
+          "今",
+          "王"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「全部」的寫法。",
+        "explanation": "填入「全」，組成「全部」。"
+      },
+      {
+        "id": "q14",
+        "targetChar": "原",
+        "word": "草原",
+        "sentence": "一望無際的草＿＿上，有成群的牛羊。",
+        "answer": "原",
+        "options": [
+          "園",
+          "原",
+          "圓",
+          "元"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「草原」的寫法。",
+        "explanation": "填入「原」，組成「草原」。"
+      },
+      {
+        "id": "q15",
+        "targetChar": "從",
+        "word": "跟從",
+        "sentence": "小鴨跟＿＿媽媽，排成一列游泳。",
+        "answer": "從",
+        "options": [
+          "重",
+          "種",
+          "從",
+          "眾"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「跟從」的寫法。",
+        "explanation": "填入「從」，組成「跟從」。"
+      },
+      {
+        "id": "q16",
+        "targetChar": "此",
+        "word": "因此",
+        "sentence": "因為下雨，因＿＿今天的球賽取消了。",
+        "answer": "此",
+        "options": [
+          "比",
+          "北",
+          "止",
+          "此"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「因此」的寫法。",
+        "explanation": "填入「此」，組成「因此」。"
+      },
+      {
+        "id": "q17",
+        "targetChar": "管",
+        "word": "水管",
+        "sentence": "水從水＿＿流進水桶裡。",
+        "answer": "管",
+        "options": [
+          "管",
+          "官",
+          "館",
+          "宮"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「水管」的寫法。",
+        "explanation": "填入「管」，組成「水管」。"
+      },
+      {
+        "id": "q18",
+        "targetChar": "種",
+        "word": "種子",
+        "sentence": "把＿＿子埋進土裡，澆水後等待發芽。",
+        "answer": "種",
+        "options": [
+          "重",
+          "種",
+          "鐘",
+          "中"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「種子」的寫法。",
+        "explanation": "填入「種」，組成「種子」。"
+      },
+      {
+        "id": "q19",
+        "targetChar": "橋",
+        "word": "橋梁",
+        "sentence": "我們走過河上的木＿＿，到對岸去。",
+        "answer": "橋",
+        "options": [
+          "喬",
+          "矯",
+          "橋",
+          "驕"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「橋梁」的寫法。",
+        "explanation": "填入「橋」，組成「橋梁」。"
+      },
+      {
+        "id": "q20",
+        "targetChar": "圖",
+        "word": "圖畫",
+        "sentence": "弟弟用蠟筆畫了一張＿＿畫。",
+        "answer": "圖",
+        "options": [
+          "土",
+          "圓",
+          "回",
+          "圖"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「圖畫」的寫法。",
+        "explanation": "填入「圖」，組成「圖畫」。"
+      },
+      {
+        "id": "q21",
+        "targetChar": "館",
+        "word": "圖書館",
+        "sentence": "我們去圖書＿＿借書，回家慢慢閱讀。",
+        "answer": "館",
+        "options": [
+          "館",
+          "管",
+          "官",
+          "宮"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「圖書館」的寫法。",
+        "explanation": "填入「館」，組成「圖書館」。"
+      }
+    ]
+  },
+  "createdAt": "2026-10-20T03:30:56.123Z"
+}

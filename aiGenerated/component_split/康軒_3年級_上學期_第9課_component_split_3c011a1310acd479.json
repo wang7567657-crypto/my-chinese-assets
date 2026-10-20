@@ -6,7 +6,7 @@
   "source": "chatgpt",
   "input": {
     "char": "族",
-    "strokeCount": null,
+    "strokeCount": 11,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "publisher": "康軒",
@@ -16,11 +16,14 @@
     "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
   },
   "data": {
-    "structure": "左右",
-    "split": [
-      4,
-      7
+    "radical": "方",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4
     ],
+    "strokeCount": 11,
     "strokeGroups": [
       [
         1,
@@ -38,51 +41,25 @@
         11
       ]
     ],
+    "split": [
+      4,
+      7
+    ],
     "components": [
       "方",
       "其餘部分"
     ],
-    "strokeCount": 11,
-    "radical": "方",
-    "radicalVerified": true,
-    "radicalStrokeIndices": [
-      1,
-      2,
-      3,
-      4
-    ],
-    "source": "c9s/zh-stroke-data",
+    "structure": "左右",
     "verified": true,
-    "note": "採部首與其餘部分分組；split 為各組筆數，strokeGroups 為來源 XML 的 1 起算筆序，每筆恰好出現一次。保留原字位置及全字筆順，不依分組排列改寫筆順。",
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首與其餘部分分組；strokeGroups採來源XML的1起算索引，每筆恰好一次，保留原字位置與組內筆順。",
     "verification": {
-      "method": "重新讀取指定 c9s 原始 XML，核對 11 筆、正規化輪廓無重複、座標有限合理及每筆 Track 至少兩個不同有效點；渲染完整字形與逐筆圖，實際視覺核對方部第 1–4 筆為紅色，其餘第 5–11 筆為藍色。分組完整覆蓋每筆一次。",
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
       "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/65cf.xml",
-      "checkedAt": "2026-10-20T03:26:37.243Z",
-      "sourceXmlSha256": "5704484bca95c9606fc69c0241ff11b068d21998b410fdef645803589424877a",
-      "strokeCount": 11,
-      "uniqueOutlineCount": 11,
-      "coordinatesFinite": true,
-      "coordinateRange": [
-        110,
-        1931
-      ],
-      "trackPointCounts": [
-        2,
-        2,
-        6,
-        3,
-        3,
-        2,
-        2,
-        2,
-        2,
-        4,
-        2
-      ],
-      "strokeCoverageVerified": true,
-      "radicalColoringReviewed": true
-    },
-    "updatedAt": "2026-10-20T03:26:37.243Z"
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/族.json"
+    }
   },
-  "createdAt": "2026-10-20T03:26:37.243Z"
+  "createdAt": "2026-10-20T03:30:56.123Z"
 }

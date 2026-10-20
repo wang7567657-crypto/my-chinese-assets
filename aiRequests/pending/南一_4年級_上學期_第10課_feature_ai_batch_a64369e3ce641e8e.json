@@ -263,5 +263,37 @@
     ],
     "instruction": "只處理本功能所有items"
   },
-  "createdAt": "2026-10-16T08:54:19.742696+00:00"
+  "createdAt": "2026-10-16T08:54:19.742696+00:00",
+  "progress": {
+    "totalItems": 15,
+    "completedItems": 14,
+    "blockedItems": 1,
+    "completedRequestIds": [
+      "南一_4年級_上學期_第10課_component_split_b1421a30630e87de",
+      "南一_4年級_上學期_第10課_component_split_557a02fdd9016b68",
+      "南一_4年級_上學期_第10課_component_split_e9a255cabde1a8c7",
+      "南一_4年級_上學期_第10課_component_split_e0f2ebd9c9cbbb74",
+      "南一_4年級_上學期_第10課_component_split_7e78b1f03c142059",
+      "南一_4年級_上學期_第10課_component_split_eafc57349ab914d4",
+      "南一_4年級_上學期_第10課_component_split_3f72a5cede7fd9c5",
+      "南一_4年級_上學期_第10課_component_split_e84b9d99c5711803",
+      "南一_4年級_上學期_第10課_component_split_aba2e9a514d5518a",
+      "南一_4年級_上學期_第10課_component_split_404580afe0669631",
+      "南一_4年級_上學期_第10課_component_split_a0ea3e80b2b8409b",
+      "南一_4年級_上學期_第10課_component_split_14ab2ca06f0252b0",
+      "南一_4年級_上學期_第10課_component_split_49ade5cd0b00398b",
+      "南一_4年級_上學期_第10課_component_split_2cf0cf127c8fb419"
+    ],
+    "validation": "已通過來源與視覺核對的項目回傳；來源缺漏或未通過核對者仍保留待辦。"
+  },
+  "blockedItems": [
+    {
+      "char": "初",
+      "taskType": "component_split",
+      "requestId": "南一_4年級_上學期_第10課_component_split_a085adccbea4eec8",
+      "reason": "XML共7筆，與charInfo的8筆不一致，待核對",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/521d.xml"
+    }
+  ],
+  "lastCheckedAt": "2026-10-20T03:30:56.123Z"
 }

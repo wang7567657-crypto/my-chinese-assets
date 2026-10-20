@@ -6,7 +6,7 @@
   "source": "chatgpt",
   "input": {
     "char": "耳",
-    "strokeCount": null,
+    "strokeCount": 6,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "publisher": "康軒",
@@ -16,10 +16,16 @@
     "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
   },
   "data": {
-    "structure": "獨體",
-    "split": [
+    "radical": "耳",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
       6
     ],
+    "strokeCount": 6,
     "strokeGroups": [
       [
         1,
@@ -30,29 +36,23 @@
         6
       ]
     ],
+    "split": [
+      6
+    ],
     "components": [
       "耳"
     ],
-    "strokeCount": 6,
-    "radical": "耳",
-    "radicalVerified": true,
-    "radicalStrokeIndices": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
-    ],
-    "source": "c9s/zh-stroke-data",
+    "structure": "獨體",
     "verified": true,
-    "note": "字為獨體字且部首涵蓋全字；僅保留一組，不硬拆或漏筆。",
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "保留獨體字整字，不硬拆。",
     "verification": {
-      "method": "重新讀取來源XML，核對Stroke數、Outline不重複、有限合理座標、有效Track、每筆恰好一次及分組筆數；渲染部首藍色與其餘橘色逐字視覺核對，與最新共用字典相同條目一致。",
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
       "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/8033.xml",
-      "sourceSha256": "a47b137b2830ef3abf3ba5628127e3166d3174f646f5deccc0d59e58240619bb",
-      "checkedAt": "2026-10-16T23:23:09.792131+00:00"
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/耳.json"
     }
   },
-  "createdAt": "2026-10-16T23:23:09.792146+00:00"
+  "createdAt": "2026-10-20T03:30:56.123Z"
 }

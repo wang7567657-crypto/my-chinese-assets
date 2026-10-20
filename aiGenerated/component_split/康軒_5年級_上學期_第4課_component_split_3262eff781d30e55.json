@@ -6,7 +6,7 @@
   "source": "chatgpt",
   "input": {
     "char": "撿",
-    "strokeCount": null,
+    "strokeCount": 16,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "publisher": "康軒",
@@ -16,8 +16,13 @@
     "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
   },
   "data": {
-    "strokeCount": 16,
     "radical": "手",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "strokeCount": 16,
     "strokeGroups": [
       [
         1,
@@ -40,7 +45,6 @@
         16
       ]
     ],
-    "structure": "左右",
     "split": [
       3,
       13
@@ -49,20 +53,17 @@
       "扌",
       "其餘部分"
     ],
-    "radicalVerified": true,
-    "radicalStrokeIndices": [
-      1,
-      2,
-      3
-    ],
-    "source": "c9s/zh-stroke-data",
+    "structure": "左右",
     "verified": true,
-    "note": "採部首與其餘部分分組；獨體部首字保留整字。split 為各組筆數，每筆恰好出現一次；保留原字位置與各組原筆順，不將分組順序當作整字筆順。",
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首與其餘部分分組；strokeGroups採來源XML的1起算索引，每筆恰好一次，保留原字位置與組內筆順。",
     "verification": {
-      "method": "重新下載原始XML，核對Stroke數、輪廓無重複、有限合理座標及有效Track；渲染部首藍色、其餘橘色字形，逐字視覺核對。strokeGroups為1起算且每筆恰好一次。",
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
       "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/64bf.xml",
-      "checkedAt": "2026-10-17T04:20:47.305Z"
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/撿.json"
     }
   },
-  "createdAt": "2026-10-17T04:20:47.305Z"
+  "createdAt": "2026-10-20T03:30:56.123Z"
 }

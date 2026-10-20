@@ -1,0 +1,351 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "康軒_5年級_上學期_第7課_feature_ai_batch_e95a9a15f1ff6325",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "featureTaskType": "component_split",
+    "featureName": "部件拆分",
+    "itemCount": 19,
+    "batchCharacters": [
+      "逆",
+      "穩",
+      "憐",
+      "競",
+      "抗",
+      "逸",
+      "鄰",
+      "脈",
+      "絡",
+      "緻",
+      "弱",
+      "噴",
+      "嚏",
+      "織",
+      "碌",
+      "盎",
+      "膽",
+      "圈",
+      "疲"
+    ],
+    "items": [
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_9586a1ebccc81bef",
+        "input": {
+          "char": "逆",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_6a04577047f84664",
+        "input": {
+          "char": "穩",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_555882793f7d50f4",
+        "input": {
+          "char": "憐",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_3845d9b594ca5979",
+        "input": {
+          "char": "競",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_1d348943755ece8d",
+        "input": {
+          "char": "抗",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_769aab92d9b55593",
+        "input": {
+          "char": "逸",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_b6edb3d96a5f03ac",
+        "input": {
+          "char": "鄰",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_73af568ddb089a35",
+        "input": {
+          "char": "脈",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_fb2e026c7ca6113d",
+        "input": {
+          "char": "絡",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_1c45c2721ae4d942",
+        "input": {
+          "char": "緻",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_03c65804487531a6",
+        "input": {
+          "char": "弱",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_5dfd725f28b8b4cd",
+        "input": {
+          "char": "噴",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_f2e1ebca54595ef9",
+        "input": {
+          "char": "嚏",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_e65dd723e29974b4",
+        "input": {
+          "char": "織",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_76d4106d1bf72652",
+        "input": {
+          "char": "碌",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_06086d3b117890c7",
+        "input": {
+          "char": "盎",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_36ffb53dff88438c",
+        "input": {
+          "char": "膽",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_71a9781c9b886b75",
+        "input": {
+          "char": "圈",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "康軒_5年級_上學期_第7課_component_split_71c7306f6e8eaabf",
+        "input": {
+          "char": "疲",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "publisher": "康軒",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第7課",
+          "instruction": "核對 c9s Stroke 數、輪廓不重複、有限合理座標與有效 Track，渲染字形和部首分色視覺核對；每筆恰好出現一次。來源未核實不得標 verified。"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_9586a1ebccc81bef.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_6a04577047f84664.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_555882793f7d50f4.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_3845d9b594ca5979.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_1d348943755ece8d.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_769aab92d9b55593.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_b6edb3d96a5f03ac.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_73af568ddb089a35.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_fb2e026c7ca6113d.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_1c45c2721ae4d942.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_03c65804487531a6.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_5dfd725f28b8b4cd.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_f2e1ebca54595ef9.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_e65dd723e29974b4.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_76d4106d1bf72652.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_06086d3b117890c7.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_36ffb53dff88438c.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_71a9781c9b886b75.json",
+      "aiGenerated/component_split/康軒_5年級_上學期_第7課_component_split_71c7306f6e8eaabf.json"
+    ]
+  },
+  "createdAt": "2026-10-20T03:30:56.123Z"
+}

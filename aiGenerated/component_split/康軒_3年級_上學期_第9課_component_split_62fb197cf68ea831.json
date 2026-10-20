@@ -6,7 +6,7 @@
   "source": "chatgpt",
   "input": {
     "char": "慧",
-    "strokeCount": null,
+    "strokeCount": 15,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "publisher": "康軒",
@@ -16,12 +16,21 @@
     "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
   },
   "data": {
-    "structure": "上下",
-    "split": [
-      11,
-      4
+    "radical": "心",
+    "radicalStrokeIndices": [
+      12,
+      13,
+      14,
+      15
     ],
+    "strokeCount": 15,
     "strokeGroups": [
+      [
+        12,
+        13,
+        14,
+        15
+      ],
       [
         1,
         2,
@@ -34,34 +43,27 @@
         9,
         10,
         11
-      ],
-      [
-        12,
-        13,
-        14,
-        15
       ]
     ],
+    "split": [
+      4,
+      11
+    ],
     "components": [
-      "彗",
-      "心"
+      "心",
+      "其餘部分"
     ],
-    "strokeCount": 15,
-    "radical": "心",
-    "radicalVerified": true,
-    "radicalStrokeIndices": [
-      12,
-      13,
-      14,
-      15
-    ],
-    "source": "c9s/zh-stroke-data",
+    "structure": "上下",
     "verified": true,
-    "note": "沿用既有彗11筆、心4筆分組。重新取得來源XML核對15筆且輪廓不重複、座標有限合理、Track有效；渲染字形並將心部第12至15筆分色後逐筆視覺確認。每筆恰好分配一次。",
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首與其餘部分分組；strokeGroups採來源XML的1起算索引，每筆恰好一次，保留原字位置與組內筆順。",
     "verification": {
-      "method": "重新下載c9s XML，檢查Stroke數、唯一輪廓、所有座標與Track；按實際輪廓渲染慧字，彗部藍色、心部紅色，視覺核對心部為第12–15筆；完整分組覆蓋1–15筆且不重複。",
-      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6167.xml"
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6167.xml",
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/慧.json"
     }
   },
-  "createdAt": "2026-10-17T07:18:23.533Z"
+  "createdAt": "2026-10-20T03:30:56.123Z"
 }

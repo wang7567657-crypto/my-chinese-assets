@@ -289,5 +289,45 @@
     ],
     "instruction": "只處理本功能所有items"
   },
-  "createdAt": "2026-10-15T22:31:09.540910Z"
+  "createdAt": "2026-10-15T22:31:09.540910Z",
+  "progress": {
+    "totalItems": 17,
+    "completedItems": 15,
+    "blockedItems": 2,
+    "completedRequestIds": [
+      "康軒_3年級_上學期_第11課_component_split_32e14a68e006840e",
+      "康軒_3年級_上學期_第11課_component_split_54754b99cbd46b83",
+      "康軒_3年級_上學期_第11課_component_split_b5c17290307bab5c",
+      "康軒_3年級_上學期_第11課_component_split_ced3eeb2feb4aa63",
+      "康軒_3年級_上學期_第11課_component_split_c42bd5baa859cf56",
+      "康軒_3年級_上學期_第11課_component_split_b1bb1299abcdee23",
+      "康軒_3年級_上學期_第11課_component_split_27b9ec4058d87a6e",
+      "康軒_3年級_上學期_第11課_component_split_baa64d64c295dddc",
+      "康軒_3年級_上學期_第11課_component_split_2cc41b230d86e765",
+      "康軒_3年級_上學期_第11課_component_split_b45137d4891f8e72",
+      "康軒_3年級_上學期_第11課_component_split_7c9b83820cff5217",
+      "康軒_3年級_上學期_第11課_component_split_663ab1ef853e4b2b",
+      "康軒_3年級_上學期_第11課_component_split_ad898cd39fea3c32",
+      "康軒_3年級_上學期_第11課_component_split_3d7d0eaacca66dfa",
+      "康軒_3年級_上學期_第11課_component_split_845d5770a775ce0f"
+    ],
+    "validation": "已通過來源與視覺核對的項目回傳；來源缺漏或未通過核對者仍保留待辦。"
+  },
+  "blockedItems": [
+    {
+      "char": "悅",
+      "taskType": "component_split",
+      "requestId": "康軒_3年級_上學期_第11課_component_split_f01ff45a7d57d7a3",
+      "reason": "XML共10筆，與charInfo的11筆不一致，待核對",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6085.xml"
+    },
+    {
+      "char": "漫",
+      "taskType": "component_split",
+      "requestId": "康軒_3年級_上學期_第11課_component_split_4a634e2edcb27028",
+      "reason": "XML共15筆，與charInfo的14筆不一致，待核對",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6f2b.xml"
+    }
+  ],
+  "lastCheckedAt": "2026-10-20T03:30:56.123Z"
 }

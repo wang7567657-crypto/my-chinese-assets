@@ -6,7 +6,7 @@
   "source": "chatgpt",
   "input": {
     "char": "遇",
-    "strokeCount": null,
+    "strokeCount": 13,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "publisher": "南一",
@@ -55,12 +55,13 @@
     "verified": true,
     "radicalVerified": true,
     "source": "c9s/zh-stroke-data",
-    "note": "部首與其餘部分分組；strokeGroups使用來源XML的1起算筆畫索引，每筆恰好一次，保留原字位置與來源筆順。",
+    "note": "部首與其餘部分分組；strokeGroups採來源XML的1起算索引，每筆恰好一次，保留原字位置與組內筆順。",
     "verification": {
-      "method": "重新下載並解析原始 XML，核對 Stroke 數、輪廓無重複、所有座標有限且合理、Track 有效、strokeGroups 每筆恰好一次與 split 組筆數一致；依原始輪廓渲染部首藍色、其餘橘色，逐字完成字形與部首位置視覺核對。",
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
       "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/9047.xml",
-      "checkedAt": "2026-10-17T09:41:51.640Z"
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/遇.json"
     }
   },
-  "createdAt": "2026-10-17T09:41:51.640Z"
+  "createdAt": "2026-10-20T03:30:56.123Z"
 }

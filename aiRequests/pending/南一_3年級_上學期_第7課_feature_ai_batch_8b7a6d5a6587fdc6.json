@@ -278,14 +278,14 @@
       "南一_3年級_上學期_第7課_component_split_090fc218d0767369",
       "南一_3年級_上學期_第7課_component_split_e5a164fc2fda172a"
     ],
-    "validation": "已通過XML輪廓、座標、Track及部首分色核對的項目回傳；來源異常項目保留待辦。"
+    "validation": "已通過來源與視覺核對的項目回傳；來源缺漏或未通過核對者仍保留待辦。"
   },
   "blockedItems": [
     {
       "char": "懂",
       "taskType": "component_split",
       "requestId": "南一_3年級_上學期_第7課_component_split_fa47e6ca49a1572d",
-      "reason": "指定c9s來源共有32筆，含重複輪廓與兩套筆畫；未校正來源前不可標記verified。",
+      "reason": "來源共32筆且輪廓重複，尚未校正",
       "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/61c2.xml",
       "teacherSpecifiedDecomposition": [
         "心",
@@ -293,7 +293,7 @@
       ]
     }
   ],
-  "lastCheckedAt": "2026-10-15T13:06:15.147Z",
+  "lastCheckedAt": "2026-10-20T03:30:56.123Z",
   "teacherOverrides": {
     "懂": {
       "components": [

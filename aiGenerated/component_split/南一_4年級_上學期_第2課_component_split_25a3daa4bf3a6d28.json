@@ -1,0 +1,76 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_4年級_上學期_第2課_component_split_25a3daa4bf3a6d28",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "齒",
+    "strokeCount": 15,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "南一",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
+  },
+  "data": {
+    "radical": "齒",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "strokeCount": 15,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    ],
+    "split": [
+      15
+    ],
+    "components": [
+      "齒"
+    ],
+    "structure": "獨體",
+    "verified": true,
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "保留獨體字整字，不硬拆。",
+    "verification": {
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/9f52.xml",
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/齒.json"
+    }
+  },
+  "createdAt": "2026-10-20T03:30:56.123Z"
+}

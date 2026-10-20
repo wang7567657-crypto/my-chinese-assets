@@ -257,5 +257,37 @@
     ],
     "instruction": "只處理本功能所有items"
   },
-  "createdAt": "2026-10-16T02:24:48.741696Z"
+  "createdAt": "2026-10-16T02:24:48.741696Z",
+  "progress": {
+    "totalItems": 15,
+    "completedItems": 14,
+    "blockedItems": 1,
+    "completedRequestIds": [
+      "康軒_4年級_上學期_第3課_component_split_c620f7f873c2b06b",
+      "康軒_4年級_上學期_第3課_component_split_ab2f891fc665840a",
+      "康軒_4年級_上學期_第3課_component_split_7a2f497ab7025ddf",
+      "康軒_4年級_上學期_第3課_component_split_32e985b07d66b19f",
+      "康軒_4年級_上學期_第3課_component_split_323505d38454fe4e",
+      "康軒_4年級_上學期_第3課_component_split_a7176fb09cb2867a",
+      "康軒_4年級_上學期_第3課_component_split_8f8fee84f0defdbd",
+      "康軒_4年級_上學期_第3課_component_split_71555e9a606a51d4",
+      "康軒_4年級_上學期_第3課_component_split_86f879b55d2f5778",
+      "康軒_4年級_上學期_第3課_component_split_4c5e3e9b19c95857",
+      "康軒_4年級_上學期_第3課_component_split_457fc1b4fd676225",
+      "康軒_4年級_上學期_第3課_component_split_75757c538a6381de",
+      "康軒_4年級_上學期_第3課_component_split_876da17a8ef9fde7",
+      "康軒_4年級_上學期_第3課_component_split_37142ee743b4433e"
+    ],
+    "validation": "已通過來源與視覺核對的項目回傳；來源缺漏或未通過核對者仍保留待辦。"
+  },
+  "blockedItems": [
+    {
+      "char": "社",
+      "taskType": "component_split",
+      "requestId": "康軒_4年級_上學期_第3課_component_split_953a707ca56095fd",
+      "reason": "XML共7筆，與charInfo的8筆不一致，待核對",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/793e.xml"
+    }
+  ],
+  "lastCheckedAt": "2026-10-20T03:30:56.123Z"
 }

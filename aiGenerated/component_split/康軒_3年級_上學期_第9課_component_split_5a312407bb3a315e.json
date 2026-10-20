@@ -6,7 +6,7 @@
   "source": "chatgpt",
   "input": {
     "char": "溼",
-    "strokeCount": null,
+    "strokeCount": 13,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "publisher": "康軒",
@@ -54,11 +54,13 @@
     "verified": true,
     "radicalVerified": true,
     "source": "c9s/zh-stroke-data",
-    "note": "部首與其餘部分分組；strokeGroups使用來源XML的1起算筆畫索引，每筆恰好一次，保留原字位置與來源筆順。",
+    "note": "部首與其餘部分分組；strokeGroups採來源XML的1起算索引，每筆恰好一次，保留原字位置與組內筆順。",
     "verification": {
-      "method": "本次重新下載原始 XML，核對 Stroke 數、正規化輪廓無重複、座標有限且合理、Track 至少兩個有效點；逐筆渲染完整字形，紅色部首、藍色其餘部分，逐字目視核對。strokeGroups 完整覆蓋各筆一次，與最新共用字典分組一致。",
-      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6ebc.xml"
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6ebc.xml",
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/溼.json"
     }
   },
-  "createdAt": "2026-10-16T19:20:09.662Z"
+  "createdAt": "2026-10-20T03:30:56.123Z"
 }

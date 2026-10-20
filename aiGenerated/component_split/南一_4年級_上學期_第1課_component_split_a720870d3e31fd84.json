@@ -6,7 +6,7 @@
   "source": "chatgpt",
   "input": {
     "char": "季",
-    "strokeCount": null,
+    "strokeCount": 8,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "publisher": "南一",
@@ -16,11 +16,13 @@
     "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
   },
   "data": {
-    "structure": "上下",
-    "split": [
-      3,
-      5
+    "radical": "子",
+    "radicalStrokeIndices": [
+      6,
+      7,
+      8
     ],
+    "strokeCount": 8,
     "strokeGroups": [
       [
         6,
@@ -35,25 +37,25 @@
         5
       ]
     ],
+    "split": [
+      3,
+      5
+    ],
     "components": [
       "子",
       "其餘部分"
     ],
-    "strokeCount": 8,
-    "radical": "子",
-    "radicalVerified": true,
-    "radicalStrokeIndices": [
-      6,
-      7,
-      8
-    ],
-    "source": "c9s/zh-stroke-data",
+    "structure": "上下",
     "verified": true,
-    "note": "採部首與其餘部分保守分組；split為各組筆數而非連續區間，實際筆序依strokeGroups。每筆恰好一次，保留標準字形與原筆順。",
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首與其餘部分分組；strokeGroups採來源XML的1起算索引，每筆恰好一次，保留原字位置與組內筆順。",
     "verification": {
-      "method": "2026-10-16重新下載原始XML，核對Stroke數、Outline輪廓唯一、座標有限且在合理範圍、Track有效；核對strokeGroups完整不重複覆蓋1起算筆序，渲染原始輪廓並以藍色部首、橙色其餘部分逐字視覺核對；與最新共用字典分組一致。",
-      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5b63.xml"
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5b63.xml",
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/季.json"
     }
   },
-  "createdAt": "2026-10-16T20:41:41.103Z"
+  "createdAt": "2026-10-20T03:30:56.123Z"
 }

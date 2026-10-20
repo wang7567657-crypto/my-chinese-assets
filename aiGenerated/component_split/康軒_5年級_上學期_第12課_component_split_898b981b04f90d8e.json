@@ -1,0 +1,70 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_5年級_上學期_第12課_component_split_898b981b04f90d8e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "燒",
+    "strokeCount": 16,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "radical": "火",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "strokeCount": 16,
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4
+      ],
+      [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    ],
+    "split": [
+      4,
+      12
+    ],
+    "components": [
+      "火",
+      "其餘部分"
+    ],
+    "structure": "左右",
+    "verified": true,
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首與其餘部分分組；strokeGroups採來源XML的1起算索引，每筆恰好一次，保留原字位置與組內筆順。",
+    "verification": {
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/71d2.xml",
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/燒.json"
+    }
+  },
+  "createdAt": "2026-10-20T03:30:56.123Z"
+}
