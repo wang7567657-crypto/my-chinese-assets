@@ -322,5 +322,41 @@
     "instruction": "只處理本功能所有items"
   },
   "createdAt": "2026-10-16T16:29:41.380024Z",
-  "blockedReason": "本課尚未完成指定 c9s XML 逐筆、輪廓、Track 與部首分色視覺核對，所有項目保留 pending；不以文字部件聯想替代筆畫驗證。"
+  "blockedReason": "本課尚未完成指定 c9s XML 逐筆、輪廓、Track 與部首分色視覺核對，所有項目保留 pending；不以文字部件聯想替代筆畫驗證。",
+  "progress": {
+    "totalItems": 19,
+    "completedItems": 18,
+    "blockedItems": 1,
+    "completedRequestIds": [
+      "康軒_5年級_上學期_第11課_component_split_8f9addc165692554",
+      "康軒_5年級_上學期_第11課_component_split_0fee9dabb62acd03",
+      "康軒_5年級_上學期_第11課_component_split_6c414000765f272b",
+      "康軒_5年級_上學期_第11課_component_split_13c4e21d4488f250",
+      "康軒_5年級_上學期_第11課_component_split_be4a6afed4561e6d",
+      "康軒_5年級_上學期_第11課_component_split_4f71b65fb281d918",
+      "康軒_5年級_上學期_第11課_component_split_d356cd29db09f496",
+      "康軒_5年級_上學期_第11課_component_split_16c9df3ae42bdc21",
+      "康軒_5年級_上學期_第11課_component_split_e4742e887bcf2c99",
+      "康軒_5年級_上學期_第11課_component_split_54e0fa7abdf5b435",
+      "康軒_5年級_上學期_第11課_component_split_36080e36e25631ed",
+      "康軒_5年級_上學期_第11課_component_split_0bbd065585c117c2",
+      "康軒_5年級_上學期_第11課_component_split_01dac5c3280fed0a",
+      "康軒_5年級_上學期_第11課_component_split_3efa2576b1c6f08c",
+      "康軒_5年級_上學期_第11課_component_split_afbfe7167b5f5756",
+      "康軒_5年級_上學期_第11課_component_split_29d4a229fefa5997",
+      "康軒_5年級_上學期_第11課_component_split_8e3b06fc38661f3f",
+      "康軒_5年級_上學期_第11課_component_split_de0320b812404b44"
+    ],
+    "validation": "已通過來源與視覺核對的項目回傳；來源缺漏或未通過核對者仍保留待辦。"
+  },
+  "blockedItems": [
+    {
+      "char": "禱",
+      "taskType": "component_split",
+      "requestId": "康軒_5年級_上學期_第11課_component_split_c25cbb7342abc5d4",
+      "reason": "XML共18筆，與charInfo的19筆不一致，待核對",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/79b1.xml"
+    }
+  ],
+  "lastCheckedAt": "2026-10-20T03:30:56.123Z"
 }

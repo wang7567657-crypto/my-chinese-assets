@@ -42,8 +42,16 @@
       "char": "虯",
       "taskType": "component_split",
       "requestId": "康軒_5年級_上學期_第3課_component_split_d18e6fb1e13d5af5",
-      "reason": "GitHub既有結果status=unverified、verified=false；記載指定c9s來源缺檔，未有逐筆驗證，不標完成。",
+      "reason": "指定c9s原始XML不存在（404）",
       "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/866f.xml"
     }
-  ]
+  ],
+  "progress": {
+    "totalItems": 1,
+    "completedItems": 0,
+    "blockedItems": 1,
+    "completedRequestIds": [],
+    "validation": "已通過來源與視覺核對的項目回傳；來源缺漏或未通過核對者仍保留待辦。"
+  },
+  "lastCheckedAt": "2026-10-20T03:30:56.123Z"
 }

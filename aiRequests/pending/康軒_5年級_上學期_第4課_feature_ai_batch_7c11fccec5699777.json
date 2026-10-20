@@ -321,5 +321,41 @@
     ],
     "instruction": "只處理本功能所有items"
   },
-  "createdAt": "2026-10-16T09:23:05.601455Z"
+  "createdAt": "2026-10-16T09:23:05.601455Z",
+  "progress": {
+    "totalItems": 19,
+    "completedItems": 18,
+    "blockedItems": 1,
+    "completedRequestIds": [
+      "康軒_5年級_上學期_第4課_component_split_d4482a67a0b9916f",
+      "康軒_5年級_上學期_第4課_component_split_71379fa106851c30",
+      "康軒_5年級_上學期_第4課_component_split_fbe72bb6a998ba36",
+      "康軒_5年級_上學期_第4課_component_split_85275337145038fc",
+      "康軒_5年級_上學期_第4課_component_split_e2609402aa7ede6a",
+      "康軒_5年級_上學期_第4課_component_split_c2eb4aefe72367d4",
+      "康軒_5年級_上學期_第4課_component_split_44d224175daa3ea8",
+      "康軒_5年級_上學期_第4課_component_split_97f967119cce5207",
+      "康軒_5年級_上學期_第4課_component_split_3262eff781d30e55",
+      "康軒_5年級_上學期_第4課_component_split_5bdd12d1f04aa38a",
+      "康軒_5年級_上學期_第4課_component_split_c9644ea84058bc0f",
+      "康軒_5年級_上學期_第4課_component_split_258c3f770ba4b344",
+      "康軒_5年級_上學期_第4課_component_split_bd795c91064a26e0",
+      "康軒_5年級_上學期_第4課_component_split_8e53c0df4e63ffcb",
+      "康軒_5年級_上學期_第4課_component_split_635a1f5e9f68989e",
+      "康軒_5年級_上學期_第4課_component_split_c04601ca53b17c2e",
+      "康軒_5年級_上學期_第4課_component_split_d50809a091663ac2",
+      "康軒_5年級_上學期_第4課_component_split_d427123655f21caf"
+    ],
+    "validation": "已通過來源與視覺核對的項目回傳；來源缺漏或未通過核對者仍保留待辦。"
+  },
+  "blockedItems": [
+    {
+      "char": "痠",
+      "taskType": "component_split",
+      "requestId": "康軒_5年級_上學期_第4課_component_split_2f24e3d841eefc9b",
+      "reason": "指定c9s原始XML不存在（404）",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/75e0.xml"
+    }
+  ],
+  "lastCheckedAt": "2026-10-20T03:30:56.123Z"
 }

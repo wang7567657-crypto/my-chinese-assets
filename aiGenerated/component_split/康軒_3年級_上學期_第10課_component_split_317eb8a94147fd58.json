@@ -6,7 +6,7 @@
   "source": "chatgpt",
   "input": {
     "char": "兄",
-    "strokeCount": null,
+    "strokeCount": 5,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "publisher": "康軒",
@@ -16,11 +16,12 @@
     "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
   },
   "data": {
-    "structure": "上下",
-    "split": [
-      2,
-      3
+    "radical": "儿",
+    "radicalStrokeIndices": [
+      4,
+      5
     ],
+    "strokeCount": 5,
     "strokeGroups": [
       [
         4,
@@ -32,25 +33,25 @@
         3
       ]
     ],
+    "split": [
+      2,
+      3
+    ],
     "components": [
       "儿",
       "其餘部分"
     ],
-    "strokeCount": 5,
-    "radical": "儿",
-    "radicalVerified": true,
-    "radicalStrokeIndices": [
-      4,
-      5
-    ],
-    "source": "c9s/zh-stroke-data",
+    "structure": "上下",
     "verified": true,
-    "note": "採部首與其餘部分分組，split 為各組筆數；實際筆序以 strokeGroups 為準，每筆恰好出現一次，保留原字形及筆順。",
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首與其餘部分分組；strokeGroups採來源XML的1起算索引，每筆恰好一次，保留原字位置與組內筆順。",
     "verification": {
-      "method": "重新下載原始 XML，核對 Stroke 數、Outline 輪廓不重複、座標有限且合理、Track 點列有效；渲染部首藍色、其餘橘色並逐字視覺核對字形與部首。核對 strokeGroups 每筆恰好出現一次，split 與各組筆數相符。",
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
       "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5144.xml",
-      "radicalReferenceUrl": "https://stroke-order.learningweb.moe.edu.tw/dictMean.jsp?ID=20804&la=0"
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/兄.json"
     }
   },
-  "createdAt": "2026-10-16T20:20:44.941Z"
+  "createdAt": "2026-10-20T03:30:56.123Z"
 }

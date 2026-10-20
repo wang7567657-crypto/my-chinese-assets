@@ -6,7 +6,7 @@
   "source": "chatgpt",
   "input": {
     "char": "播",
-    "strokeCount": null,
+    "strokeCount": 15,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "publisher": "康軒",
@@ -16,11 +16,13 @@
     "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
   },
   "data": {
-    "structure": "左右",
-    "split": [
-      3,
-      12
+    "radical": "手",
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
     ],
+    "strokeCount": 15,
     "strokeGroups": [
       [
         1,
@@ -42,25 +44,25 @@
         15
       ]
     ],
+    "split": [
+      3,
+      12
+    ],
     "components": [
       "扌",
       "其餘部分"
     ],
-    "strokeCount": 15,
-    "radical": "手",
-    "radicalVerified": true,
-    "radicalStrokeIndices": [
-      1,
-      2,
-      3
-    ],
-    "source": "c9s/zh-stroke-data",
+    "structure": "左右",
     "verified": true,
-    "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首與其餘部分分組；strokeGroups採來源XML的1起算索引，每筆恰好一次，保留原字位置與組內筆順。",
     "verification": {
-      "method": "重新下載原始 XML，核對 Stroke 數、輪廓不重複、有限合理座標及有效 Track；渲染字形與部首藍色、其餘橘色，逐字視覺核對；strokeGroups 每筆恰好一次。",
-      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/64ad.xml"
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/64ad.xml",
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/播.json"
     }
   },
-  "createdAt": "2026-10-17T16:21:38.004Z"
+  "createdAt": "2026-10-20T03:30:56.123Z"
 }

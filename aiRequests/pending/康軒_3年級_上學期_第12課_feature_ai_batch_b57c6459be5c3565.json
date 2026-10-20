@@ -257,5 +257,37 @@
     ],
     "instruction": "只處理本功能所有items"
   },
-  "createdAt": "2026-10-15T23:25:01.988538Z"
+  "createdAt": "2026-10-15T23:25:01.988538Z",
+  "progress": {
+    "totalItems": 15,
+    "completedItems": 14,
+    "blockedItems": 1,
+    "completedRequestIds": [
+      "康軒_3年級_上學期_第12課_component_split_c16cf4ad16f6622d",
+      "康軒_3年級_上學期_第12課_component_split_550a52d56a3ad6d4",
+      "康軒_3年級_上學期_第12課_component_split_1de4f79e1aadfa21",
+      "康軒_3年級_上學期_第12課_component_split_a87cc87102c1db6c",
+      "康軒_3年級_上學期_第12課_component_split_fe8bf2e5f8229a7b",
+      "康軒_3年級_上學期_第12課_component_split_2eb959f9b128b976",
+      "康軒_3年級_上學期_第12課_component_split_2f7a934fa9026559",
+      "康軒_3年級_上學期_第12課_component_split_044297eca6342d5b",
+      "康軒_3年級_上學期_第12課_component_split_69d3d8a0fa8b0060",
+      "康軒_3年級_上學期_第12課_component_split_49fe6b6d054d66dc",
+      "康軒_3年級_上學期_第12課_component_split_a7a5051c058d05c7",
+      "康軒_3年級_上學期_第12課_component_split_61c0c16810004920",
+      "康軒_3年級_上學期_第12課_component_split_12a5c5fd572f3d74",
+      "康軒_3年級_上學期_第12課_component_split_476dc77a3bba2a12"
+    ],
+    "validation": "已通過來源與視覺核對的項目回傳；來源缺漏或未通過核對者仍保留待辦。"
+  },
+  "blockedItems": [
+    {
+      "char": "複",
+      "taskType": "component_split",
+      "requestId": "康軒_3年級_上學期_第12課_component_split_be15b6cbc0a0c2ae",
+      "reason": "XML共14筆，與charInfo的15筆不一致，待核對",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/8907.xml"
+    }
+  ],
+  "lastCheckedAt": "2026-10-20T03:30:56.123Z"
 }

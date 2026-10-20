@@ -310,5 +310,40 @@
     ],
     "instruction": "只處理本功能所有items"
   },
-  "createdAt": "2026-10-16T17:42:14.977316Z"
+  "createdAt": "2026-10-16T17:42:14.977316Z",
+  "progress": {
+    "totalItems": 18,
+    "completedItems": 17,
+    "blockedItems": 1,
+    "completedRequestIds": [
+      "南一_5年級_上學期_第7課_component_split_95b1280de20ef811",
+      "南一_5年級_上學期_第7課_component_split_752b762aa6931c07",
+      "南一_5年級_上學期_第7課_component_split_7d347a0493c79bcd",
+      "南一_5年級_上學期_第7課_component_split_8c04ca658a587e6a",
+      "南一_5年級_上學期_第7課_component_split_d9ef4fac33c7081d",
+      "南一_5年級_上學期_第7課_component_split_ed9a4725ef90a5ae",
+      "南一_5年級_上學期_第7課_component_split_20daea006f245bc8",
+      "南一_5年級_上學期_第7課_component_split_ee947711b39668ce",
+      "南一_5年級_上學期_第7課_component_split_e8844115eb9fd5de",
+      "南一_5年級_上學期_第7課_component_split_72fda2988c5f834d",
+      "南一_5年級_上學期_第7課_component_split_ef50f4c6144cf40e",
+      "南一_5年級_上學期_第7課_component_split_603a7e7b71fd2ce6",
+      "南一_5年級_上學期_第7課_component_split_44f5dd5442fa05a3",
+      "南一_5年級_上學期_第7課_component_split_2a8ee1a328ecd297",
+      "南一_5年級_上學期_第7課_component_split_c75a086c70417789",
+      "南一_5年級_上學期_第7課_component_split_d8361b6623991d1c",
+      "南一_5年級_上學期_第7課_component_split_2e21ab5626d16004"
+    ],
+    "validation": "已通過來源與視覺核對的項目回傳；來源缺漏或未通過核對者仍保留待辦。"
+  },
+  "blockedItems": [
+    {
+      "char": "杆",
+      "taskType": "component_split",
+      "requestId": "南一_5年級_上學期_第7課_component_split_bd732acbfea2d536",
+      "reason": "指定c9s原始XML不存在（404）",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/6746.xml"
+    }
+  ],
+  "lastCheckedAt": "2026-10-20T03:30:56.123Z"
 }

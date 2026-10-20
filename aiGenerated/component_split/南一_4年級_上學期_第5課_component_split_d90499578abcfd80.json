@@ -6,7 +6,7 @@
   "source": "chatgpt",
   "input": {
     "char": "舉",
-    "strokeCount": null,
+    "strokeCount": 17,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "publisher": "南一",
@@ -16,11 +16,17 @@
     "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
   },
   "data": {
-    "structure": "上下",
-    "split": [
+    "radical": "臼",
+    "radicalStrokeIndices": [
+      5,
+      6,
       7,
-      10
+      8,
+      9,
+      10,
+      11
     ],
+    "strokeCount": 17,
     "strokeGroups": [
       [
         5,
@@ -44,32 +50,25 @@
         17
       ]
     ],
+    "split": [
+      7,
+      10
+    ],
     "components": [
-      "臼形（分置上方左右）",
+      "臼",
       "其餘部分"
     ],
-    "strokeCount": 17,
-    "radical": "臼",
-    "radicalVerified": true,
-    "radicalStrokeIndices": [
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
-    ],
-    "source": "c9s/zh-stroke-data",
+    "structure": "上下",
     "verified": true,
-    "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。 臼部在此字分置上方左右，來源字形合計七筆；不是把獨立臼字的六筆直接套入。",
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首與其餘部分分組；strokeGroups採來源XML的1起算索引，每筆恰好一次，保留原字位置與組內筆順。",
     "verification": {
-      "method": "重新解析來源XML核對Stroke數、Outline輪廓無重複、有限合理座標及有效Track；渲染部首藍色、其餘橘色與Track疊圖，完成逐字視覺核對。保留最新共用字典的完整相同分組。",
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
       "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/8209.xml",
-      "radicalReferenceUrl": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=23928&la=0&powerMode=0",
-      "checkedAt": "2026-10-17T00:45:35.396Z",
-      "sourceSha256": "2f37f1122f6db4b4bcdd8c17bb65ff48729f565e0b638a6134798d5d3de08387"
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/舉.json"
     }
   },
-  "createdAt": "2026-10-17T00:45:35.396Z"
+  "createdAt": "2026-10-20T03:30:56.123Z"
 }

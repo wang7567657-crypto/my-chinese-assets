@@ -263,5 +263,37 @@
     ],
     "instruction": "只處理本功能所有items"
   },
-  "createdAt": "2026-10-16T07:45:57.717519+00:00"
+  "createdAt": "2026-10-16T07:45:57.717519+00:00",
+  "progress": {
+    "totalItems": 15,
+    "completedItems": 14,
+    "blockedItems": 1,
+    "completedRequestIds": [
+      "南一_4年級_上學期_第9課_component_split_9167c8baac6224ab",
+      "南一_4年級_上學期_第9課_component_split_0ef0133f8fec29d7",
+      "南一_4年級_上學期_第9課_component_split_2bc0fbff9215fa1f",
+      "南一_4年級_上學期_第9課_component_split_0ab133ddaa6e3f86",
+      "南一_4年級_上學期_第9課_component_split_e8c194cf2414a74f",
+      "南一_4年級_上學期_第9課_component_split_c655b4b54be3186f",
+      "南一_4年級_上學期_第9課_component_split_463bc2597f409baa",
+      "南一_4年級_上學期_第9課_component_split_7de0af8ca7a834e5",
+      "南一_4年級_上學期_第9課_component_split_87de75c1fe86b706",
+      "南一_4年級_上學期_第9課_component_split_31e185d981b502fa",
+      "南一_4年級_上學期_第9課_component_split_9ec7998dd0578c68",
+      "南一_4年級_上學期_第9課_component_split_686e3f3e83e6d523",
+      "南一_4年級_上學期_第9課_component_split_f0e5e57edab5acfb",
+      "南一_4年級_上學期_第9課_component_split_64c864db3cff9245"
+    ],
+    "validation": "已通過來源與視覺核對的項目回傳；來源缺漏或未通過核對者仍保留待辦。"
+  },
+  "blockedItems": [
+    {
+      "char": "褐",
+      "taskType": "component_split",
+      "requestId": "南一_4年級_上學期_第9課_component_split_7b71aa5622bf10ea",
+      "reason": "XML共14筆，與charInfo的15筆不一致，待核對",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/8910.xml"
+    }
+  ],
+  "lastCheckedAt": "2026-10-20T03:30:56.123Z"
 }

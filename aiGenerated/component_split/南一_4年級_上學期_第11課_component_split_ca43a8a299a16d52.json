@@ -6,7 +6,7 @@
   "source": "chatgpt",
   "input": {
     "char": "哀",
-    "strokeCount": null,
+    "strokeCount": 9,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "publisher": "南一",
@@ -16,22 +16,11 @@
     "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
   },
   "data": {
-    "components": [
-      "口",
-      "其餘部分"
-    ],
-    "note": "沿用最新共用字典分組，重新核對本字原始XML及部首分色；每筆恰好出現一次，保留原字位置與筆序。",
     "radical": "口",
     "radicalStrokeIndices": [
       3,
       4,
       5
-    ],
-    "radicalVerified": true,
-    "source": "c9s/zh-stroke-data",
-    "split": [
-      3,
-      6
     ],
     "strokeCount": 9,
     "strokeGroups": [
@@ -49,13 +38,25 @@
         9
       ]
     ],
+    "split": [
+      3,
+      6
+    ],
+    "components": [
+      "口",
+      "其餘部分"
+    ],
     "structure": "上中下",
+    "verified": true,
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首與其餘部分分組；strokeGroups採來源XML的1起算索引，每筆恰好一次，保留原字位置與組內筆順。",
     "verification": {
-      "method": "核對原始XML的Stroke數、輪廓無重複、有限合理座標及有效Track，並完成字形與部首分色視覺核對。",
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
       "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/54c0.xml",
-      "checkedAt": "2026-10-17T07:45:04.723Z"
-    },
-    "verified": true
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/哀.json"
+    }
   },
-  "createdAt": "2026-10-17T07:45:04.723Z"
+  "createdAt": "2026-10-20T03:30:56.123Z"
 }

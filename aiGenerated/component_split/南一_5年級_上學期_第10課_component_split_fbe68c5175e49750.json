@@ -10,17 +10,19 @@
     "semester": "上學期",
     "lesson": "第10課",
     "char": "郊",
-    "strokeCount": null,
+    "strokeCount": 9,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
   },
   "data": {
-    "structure": "左右",
-    "split": [
-      3,
-      6
+    "radical": "邑",
+    "radicalStrokeIndices": [
+      7,
+      8,
+      9
     ],
+    "strokeCount": 9,
     "strokeGroups": [
       [
         7,
@@ -36,25 +38,25 @@
         6
       ]
     ],
+    "split": [
+      3,
+      6
+    ],
     "components": [
-      "阝",
+      "邑",
       "其餘部分"
     ],
-    "strokeCount": 9,
-    "radical": "邑",
-    "radicalVerified": true,
-    "radicalStrokeIndices": [
-      7,
-      8,
-      9
-    ],
-    "source": "c9s/zh-stroke-data",
+    "structure": "左右",
     "verified": true,
-    "note": "採部首與其餘部分兩組，split 為各組筆畫數；每筆恰好出現一次，保留原字位置及組內筆順。",
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首與其餘部分分組；strokeGroups採來源XML的1起算索引，每筆恰好一次，保留原字位置與組內筆順。",
     "verification": {
-      "method": "重新讀取原始 XML，核對 Stroke 數、Outline 輪廓無重複、座標有限合理、Track 有效；部首藍色、其餘橘色渲染後逐字視覺核對。",
-      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/90ca.xml"
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/90ca.xml",
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/郊.json"
     }
   },
-  "createdAt": "2026-10-17T17:51:06.997449Z"
+  "createdAt": "2026-10-20T03:30:56.123Z"
 }

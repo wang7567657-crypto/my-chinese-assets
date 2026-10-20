@@ -1,0 +1,50 @@
+{
+  "taskType": "component_split",
+  "requestId": "康軒_3年級_上學期_第10課_component_split_f69a38d5139ce13b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "char": "入",
+    "strokeCount": 2,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "publisher": "康軒",
+    "grade": "3年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
+  },
+  "data": {
+    "radical": "入",
+    "radicalStrokeIndices": [
+      1,
+      2
+    ],
+    "strokeCount": 2,
+    "strokeGroups": [
+      [
+        1,
+        2
+      ]
+    ],
+    "split": [
+      2
+    ],
+    "components": [
+      "入"
+    ],
+    "structure": "獨體",
+    "verified": true,
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "保留獨體字整字，不硬拆。",
+    "verification": {
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/5165.xml",
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/入.json"
+    }
+  },
+  "createdAt": "2026-10-20T03:30:56.123Z"
+}

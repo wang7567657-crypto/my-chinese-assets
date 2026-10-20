@@ -6,7 +6,7 @@
   "source": "chatgpt",
   "input": {
     "char": "烈",
-    "strokeCount": null,
+    "strokeCount": 10,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "publisher": "康軒",
@@ -16,11 +16,14 @@
     "instruction": "核對 c9s Stroke 數、輪廓不重複、座標與 Track、字形及部首分色；每筆恰好出現一次。來源異常保留待辦，不標 verified。"
   },
   "data": {
-    "structure": "上下",
-    "split": [
-      4,
-      6
+    "radical": "火",
+    "radicalStrokeIndices": [
+      7,
+      8,
+      9,
+      10
     ],
+    "strokeCount": 10,
     "strokeGroups": [
       [
         7,
@@ -37,49 +40,25 @@
         6
       ]
     ],
+    "split": [
+      4,
+      6
+    ],
     "components": [
-      "灬（火部變形）",
+      "火",
       "其餘部分"
     ],
-    "strokeCount": 10,
-    "radical": "火",
-    "radicalVerified": true,
-    "radicalStrokeIndices": [
-      7,
-      8,
-      9,
-      10
-    ],
-    "source": "c9s/zh-stroke-data",
+    "structure": "上下",
     "verified": true,
-    "note": "採部首與其餘部分兩組；split 為各組筆數，strokeGroups 為來源 XML 的 1 起算筆序，每筆恰好出現一次。分組保留原字位置及全字筆順，不依分組排列改寫筆順。",
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首與其餘部分分組；strokeGroups採來源XML的1起算索引，每筆恰好一次，保留原字位置與組內筆順。",
     "verification": {
-      "method": "本次重新讀取指定 c9s 原始 XML，核對 Stroke 數、正規化輪廓無重複、座標有限合理及每筆 Track 至少兩個不同有效點；渲染完整字形與逐筆圖，實際視覺核對部首紅色、其餘藍色的位置。strokeGroups 覆蓋每筆一次，與現行共用字典一致。",
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
       "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/70c8.xml",
-      "checkedAt": "2026-10-20T02:26:24.650Z",
-      "sourceXmlSha256": "7030299acd6c1f18176418eea9bae18bdfbad306e0f26054b640c908c8887844",
-      "strokeCount": 10,
-      "uniqueOutlineCount": 10,
-      "coordinatesFinite": true,
-      "coordinateRange": [
-        186,
-        1865
-      ],
-      "trackPointCounts": [
-        3,
-        3,
-        6,
-        2,
-        3,
-        5,
-        2,
-        2,
-        2,
-        2
-      ],
-      "strokeCoverageVerified": true,
-      "radicalColoringReviewed": true
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/烈.json"
     }
   },
-  "createdAt": "2026-10-20T02:26:24.650Z"
+  "createdAt": "2026-10-20T03:30:56.123Z"
 }

@@ -6,7 +6,7 @@
   "source": "chatgpt",
   "input": {
     "char": "血",
-    "strokeCount": null,
+    "strokeCount": 6,
     "strokeSource": "c9s/zh-stroke-data",
     "needsStrokeCount": true,
     "publisher": "南一",
@@ -16,10 +16,6 @@
     "instruction": "核對c9s原始XML的Stroke數、輪廓不重複、有限合理座標與有效Track，渲染字形及部首分色視覺核對；每筆恰好出現一次，不連續筆序用strokeGroups；異常未釐清不可verified=true。"
   },
   "data": {
-    "components": [
-      "血"
-    ],
-    "note": "沿用最新共用字典分組，重新核對本字原始XML及部首分色；每筆恰好出現一次，保留原字位置與筆序。",
     "radical": "血",
     "radicalStrokeIndices": [
       1,
@@ -27,11 +23,6 @@
       3,
       4,
       5,
-      6
-    ],
-    "radicalVerified": true,
-    "source": "c9s/zh-stroke-data",
-    "split": [
       6
     ],
     "strokeCount": 6,
@@ -45,13 +36,23 @@
         6
       ]
     ],
+    "split": [
+      6
+    ],
+    "components": [
+      "血"
+    ],
     "structure": "獨體",
+    "verified": true,
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "保留獨體字整字，不硬拆。",
     "verification": {
-      "method": "核對原始XML的Stroke數、輪廓無重複、有限合理座標及有效Track，並完成字形與部首分色視覺核對。",
+      "method": "解析原始XML，核對Stroke數、正規化輪廓唯一性、有限合理座標與有效Track；渲染完整字形與部首分色並逐字核對。",
       "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/8840.xml",
-      "checkedAt": "2026-10-17T07:45:04.720Z"
-    },
-    "verified": true
+      "checkedAt": "2026-10-20T03:30:56.123Z",
+      "radicalMetadataSource": "charInfo/血.json"
+    }
   },
-  "createdAt": "2026-10-17T07:45:04.720Z"
+  "createdAt": "2026-10-20T03:30:56.123Z"
 }

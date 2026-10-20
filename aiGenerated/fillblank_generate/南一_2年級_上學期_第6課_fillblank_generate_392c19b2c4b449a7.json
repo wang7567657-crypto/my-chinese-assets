@@ -1,0 +1,425 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "南一_2年級_上學期_第6課_fillblank_generate_392c19b2c4b449a7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "title": "第6課 全課填空",
+    "items": [
+      {
+        "char": "自",
+        "word": "自"
+      },
+      {
+        "char": "己",
+        "word": "己"
+      },
+      {
+        "char": "沙",
+        "word": "沙"
+      },
+      {
+        "char": "撿",
+        "word": "撿"
+      },
+      {
+        "char": "垃",
+        "word": "垃"
+      },
+      {
+        "char": "圾",
+        "word": "圾"
+      },
+      {
+        "char": "眼",
+        "word": "眼"
+      },
+      {
+        "char": "膠",
+        "word": "膠"
+      },
+      {
+        "char": "對",
+        "word": "對"
+      },
+      {
+        "char": "牠",
+        "word": "牠"
+      },
+      {
+        "char": "安",
+        "word": "安"
+      },
+      {
+        "char": "吧",
+        "word": "吧"
+      },
+      {
+        "char": "如",
+        "word": "如"
+      },
+      {
+        "char": "該",
+        "word": "該"
+      },
+      {
+        "char": "留",
+        "word": "留"
+      },
+      {
+        "char": "便",
+        "word": "便"
+      },
+      {
+        "char": "減",
+        "word": "減"
+      },
+      {
+        "char": "少",
+        "word": "少"
+      },
+      {
+        "char": "灘",
+        "word": "灘"
+      },
+      {
+        "char": "塑",
+        "word": "塑"
+      }
+    ],
+    "level": "國小中高年級",
+    "sourceRequestId": "",
+    "autoLesson": true
+  },
+  "data": {
+    "title": "第6課 全課填空",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "自",
+        "word": "自己",
+        "sentence": "放學後，我＿＿己整理書包。",
+        "answer": "自",
+        "options": [
+          "自",
+          "白",
+          "百",
+          "目"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「自己」的寫法。",
+        "explanation": "填入「自」，組成「自己」。"
+      },
+      {
+        "id": "q2",
+        "targetChar": "己",
+        "word": "自己",
+        "sentence": "每個人都要保管好自＿＿的物品。",
+        "answer": "己",
+        "options": [
+          "已",
+          "己",
+          "巳",
+          "記"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「自己」的寫法。",
+        "explanation": "填入「己」，組成「自己」。"
+      },
+      {
+        "id": "q3",
+        "targetChar": "沙",
+        "word": "沙子",
+        "sentence": "海邊的＿＿子細細的，踩起來很柔軟。",
+        "answer": "沙",
+        "options": [
+          "妙",
+          "抄",
+          "沙",
+          "炒"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「沙子」的寫法。",
+        "explanation": "填入「沙」，組成「沙子」。"
+      },
+      {
+        "id": "q4",
+        "targetChar": "撿",
+        "word": "撿拾",
+        "sentence": "看到地上的紙屑，我彎腰把它＿＿起來。",
+        "answer": "撿",
+        "options": [
+          "檢",
+          "臉",
+          "險",
+          "撿"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「撿拾」的寫法。",
+        "explanation": "填入「撿」，組成「撿拾」。"
+      },
+      {
+        "id": "q5",
+        "targetChar": "垃",
+        "word": "垃圾",
+        "sentence": "吃完點心，要把＿＿圾丟進垃圾桶。",
+        "answer": "垃",
+        "options": [
+          "垃",
+          "拉",
+          "立",
+          "泣"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「垃圾」的寫法。",
+        "explanation": "填入「垃」，組成「垃圾」。"
+      },
+      {
+        "id": "q6",
+        "targetChar": "圾",
+        "word": "垃圾",
+        "sentence": "請把垃＿＿分類，再放進正確的桶子。",
+        "answer": "圾",
+        "options": [
+          "吸",
+          "圾",
+          "級",
+          "及"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「垃圾」的寫法。",
+        "explanation": "填入「圾」，組成「垃圾」。"
+      },
+      {
+        "id": "q7",
+        "targetChar": "眼",
+        "word": "眼睛",
+        "sentence": "妹妹睜大＿＿睛，好奇地看著小貓。",
+        "answer": "眼",
+        "options": [
+          "很",
+          "根",
+          "眼",
+          "跟"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「眼睛」的寫法。",
+        "explanation": "填入「眼」，組成「眼睛」。"
+      },
+      {
+        "id": "q8",
+        "targetChar": "膠",
+        "word": "膠帶",
+        "sentence": "我用＿＿帶把破掉的書封黏好。",
+        "answer": "膠",
+        "options": [
+          "交",
+          "郊",
+          "跤",
+          "膠"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「膠帶」的寫法。",
+        "explanation": "填入「膠」，組成「膠帶」。"
+      },
+      {
+        "id": "q9",
+        "targetChar": "對",
+        "word": "對不起",
+        "sentence": "不小心撞到同學，我立刻說「＿＿不起」。",
+        "answer": "對",
+        "options": [
+          "對",
+          "隊",
+          "堆",
+          "推"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「對不起」的寫法。",
+        "explanation": "填入「對」，組成「對不起」。"
+      },
+      {
+        "id": "q10",
+        "targetChar": "牠",
+        "word": "牠們",
+        "sentence": "這隻小狗很可愛，我喜歡和＿＿一起玩。",
+        "answer": "牠",
+        "options": [
+          "池",
+          "牠",
+          "也",
+          "地"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「牠們」的寫法。",
+        "explanation": "填入「牠」，組成「牠們」。"
+      },
+      {
+        "id": "q11",
+        "targetChar": "安",
+        "word": "安全",
+        "sentence": "過馬路要看紅綠燈，注意＿＿全。",
+        "answer": "安",
+        "options": [
+          "按",
+          "案",
+          "安",
+          "岸"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「安全」的寫法。",
+        "explanation": "填入「安」，組成「安全」。"
+      },
+      {
+        "id": "q12",
+        "targetChar": "吧",
+        "word": "吧",
+        "sentence": "媽媽笑著說：「我們一起出發＿＿！」",
+        "answer": "吧",
+        "options": [
+          "把",
+          "巴",
+          "爸",
+          "吧"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「吧」的寫法。",
+        "explanation": "填入「吧」，組成「吧」。"
+      },
+      {
+        "id": "q13",
+        "targetChar": "如",
+        "word": "如果",
+        "sentence": "＿＿果明天下雨，我們就在室內玩。",
+        "answer": "如",
+        "options": [
+          "如",
+          "知",
+          "和",
+          "加"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「如果」的寫法。",
+        "explanation": "填入「如」，組成「如果」。"
+      },
+      {
+        "id": "q14",
+        "targetChar": "該",
+        "word": "應該",
+        "sentence": "自己的事情應＿＿自己完成。",
+        "answer": "該",
+        "options": [
+          "孩",
+          "該",
+          "核",
+          "刻"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「應該」的寫法。",
+        "explanation": "填入「該」，組成「應該」。"
+      },
+      {
+        "id": "q15",
+        "targetChar": "留",
+        "word": "留下",
+        "sentence": "離開前，請不要在草地上＿＿下垃圾。",
+        "answer": "留",
+        "options": [
+          "流",
+          "溜",
+          "留",
+          "柳"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「留下」的寫法。",
+        "explanation": "填入「留」，組成「留下」。"
+      },
+      {
+        "id": "q16",
+        "targetChar": "便",
+        "word": "方便",
+        "sentence": "有了這座橋，大家過河更方＿＿了。",
+        "answer": "便",
+        "options": [
+          "更",
+          "使",
+          "硬",
+          "便"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「方便」的寫法。",
+        "explanation": "填入「便」，組成「方便」。"
+      },
+      {
+        "id": "q17",
+        "targetChar": "減",
+        "word": "減少",
+        "sentence": "自備水壺，可以＿＿少一次性飲料杯的使用。",
+        "answer": "減",
+        "options": [
+          "減",
+          "感",
+          "喊",
+          "鹼"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「減少」的寫法。",
+        "explanation": "填入「減」，組成「減少」。"
+      },
+      {
+        "id": "q18",
+        "targetChar": "少",
+        "word": "多少",
+        "sentence": "這個盒子裡有多＿＿枝鉛筆？",
+        "answer": "少",
+        "options": [
+          "小",
+          "少",
+          "沙",
+          "抄"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「多少」的寫法。",
+        "explanation": "填入「少」，組成「多少」。"
+      },
+      {
+        "id": "q19",
+        "targetChar": "灘",
+        "word": "沙灘",
+        "sentence": "我們在沙＿＿上堆了一座沙堡。",
+        "answer": "灘",
+        "options": [
+          "攤",
+          "難",
+          "灘",
+          "嘆"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「沙灘」的寫法。",
+        "explanation": "填入「灘」，組成「沙灘」。"
+      },
+      {
+        "id": "q20",
+        "targetChar": "塑",
+        "word": "塑膠",
+        "sentence": "這個＿＿膠袋用完後，可以留著再使用。",
+        "answer": "塑",
+        "options": [
+          "塊",
+          "塗",
+          "壁",
+          "塑"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「塑膠」的寫法。",
+        "explanation": "填入「塑」，組成「塑膠」。"
+      }
+    ]
+  },
+  "createdAt": "2026-10-20T03:30:56.123Z"
+}
