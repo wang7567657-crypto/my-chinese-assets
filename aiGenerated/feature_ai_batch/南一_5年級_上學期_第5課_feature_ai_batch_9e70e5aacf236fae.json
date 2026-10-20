@@ -2,7 +2,8 @@
   "taskType": "feature_ai_batch",
   "requestId": "南一_5年級_上學期_第5課_feature_ai_batch_9e70e5aacf236fae",
   "version": "1.0",
-  "status": "pending",
+  "status": "completed",
+  "source": "chatgpt",
   "input": {
     "publisher": "南一",
     "grade": "5年級",
@@ -104,5 +105,15 @@
     ],
     "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
   },
-  "createdAt": "2026-10-20T05:15:52.260Z"
+  "data": {
+    "featureTaskType": "fillblank_generate",
+    "featureName": "填空測驗",
+    "totalItems": 1,
+    "completedCount": 1,
+    "questionCount": 18,
+    "resultPaths": [
+      "aiGenerated/fillblank_generate/南一_5年級_上學期_第5課_fillblank_generate_f5a27be23fcc6a0d.json"
+    ]
+  },
+  "createdAt": "2026-10-20T05:17:43.997Z"
 }

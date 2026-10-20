@@ -1,0 +1,385 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "南一_5年級_上學期_第5課_fillblank_generate_f5a27be23fcc6a0d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "title": "第5課 全課填空",
+    "items": [
+      {
+        "char": "駛",
+        "word": "駛"
+      },
+      {
+        "char": "陡",
+        "word": "陡"
+      },
+      {
+        "char": "峭",
+        "word": "峭"
+      },
+      {
+        "char": "蕾",
+        "word": "蕾"
+      },
+      {
+        "char": "崖",
+        "word": "崖"
+      },
+      {
+        "char": "躍",
+        "word": "躍"
+      },
+      {
+        "char": "凹",
+        "word": "凹"
+      },
+      {
+        "char": "凸",
+        "word": "凸"
+      },
+      {
+        "char": "坑",
+        "word": "坑"
+      },
+      {
+        "char": "斧",
+        "word": "斧"
+      },
+      {
+        "char": "雄",
+        "word": "雄"
+      },
+      {
+        "char": "偉",
+        "word": "偉"
+      },
+      {
+        "char": "臨",
+        "word": "臨"
+      },
+      {
+        "char": "縱",
+        "word": "縱"
+      },
+      {
+        "char": "稻",
+        "word": "稻"
+      },
+      {
+        "char": "澄",
+        "word": "澄"
+      },
+      {
+        "char": "曳",
+        "word": "曳"
+      },
+      {
+        "char": "醉",
+        "word": "醉"
+      }
+    ],
+    "level": "國小中高年級",
+    "sourceRequestId": "",
+    "autoLesson": true
+  },
+  "data": {
+    "title": "第5課 全課填空",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "駛",
+        "word": "行駛",
+        "sentence": "公車沿著道路緩緩行＿＿。",
+        "answer": "駛",
+        "options": [
+          "駛",
+          "使",
+          "史",
+          "駕"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「行駛」的寫法。",
+        "explanation": "正確語詞是「行駛」，應填入「駛」。"
+      },
+      {
+        "id": "q2",
+        "targetChar": "陡",
+        "word": "陡坡",
+        "sentence": "這段＿＿坡很難爬，大家放慢腳步。",
+        "answer": "陡",
+        "options": [
+          "徒",
+          "陡",
+          "走",
+          "起"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「陡坡」的寫法。",
+        "explanation": "正確語詞是「陡坡」，應填入「陡」。"
+      },
+      {
+        "id": "q3",
+        "targetChar": "峭",
+        "word": "陡峭",
+        "sentence": "山壁十分陡＿＿，攀爬時要特別小心。",
+        "answer": "峭",
+        "options": [
+          "悄",
+          "俏",
+          "峭",
+          "消"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「陡峭」的寫法。",
+        "explanation": "正確語詞是「陡峭」，應填入「峭」。"
+      },
+      {
+        "id": "q4",
+        "targetChar": "蕾",
+        "word": "花蕾",
+        "sentence": "枝頭的花＿＿還沒開，像一顆顆小圓球。",
+        "answer": "蕾",
+        "options": [
+          "雷",
+          "擂",
+          "壘",
+          "蕾"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「花蕾」的寫法。",
+        "explanation": "正確語詞是「花蕾」，應填入「蕾」。"
+      },
+      {
+        "id": "q5",
+        "targetChar": "崖",
+        "word": "山崖",
+        "sentence": "這段山＿＿旁有護欄，提醒遊客不要靠近邊緣。",
+        "answer": "崖",
+        "options": [
+          "崖",
+          "涯",
+          "岸",
+          "岩"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「山崖」的寫法。",
+        "explanation": "正確語詞是「山崖」，應填入「崖」。"
+      },
+      {
+        "id": "q6",
+        "targetChar": "躍",
+        "word": "跳躍",
+        "sentence": "小魚突然從水中跳＿＿而起。",
+        "answer": "躍",
+        "options": [
+          "耀",
+          "躍",
+          "曜",
+          "濯"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「跳躍」的寫法。",
+        "explanation": "正確語詞是「跳躍」，應填入「躍」。"
+      },
+      {
+        "id": "q7",
+        "targetChar": "凹",
+        "word": "凹陷",
+        "sentence": "球撞到鐵盒，盒蓋向內＿＿陷了一塊。",
+        "answer": "凹",
+        "options": [
+          "凸",
+          "山",
+          "凹",
+          "出"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「凹陷」的寫法。",
+        "explanation": "正確語詞是「凹陷」，應填入「凹」。"
+      },
+      {
+        "id": "q8",
+        "targetChar": "凸",
+        "word": "凸起",
+        "sentence": "樹根從地面＿＿起，走路時要小心。",
+        "answer": "凸",
+        "options": [
+          "凹",
+          "山",
+          "出",
+          "凸"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「凸起」的寫法。",
+        "explanation": "正確語詞是「凸起」，應填入「凸」。"
+      },
+      {
+        "id": "q9",
+        "targetChar": "坑",
+        "word": "坑洞",
+        "sentence": "大雨過後，路面出現一個積水的＿＿洞。",
+        "answer": "坑",
+        "options": [
+          "坑",
+          "抗",
+          "杭",
+          "炕"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「坑洞」的寫法。",
+        "explanation": "正確語詞是「坑洞」，應填入「坑」。"
+      },
+      {
+        "id": "q10",
+        "targetChar": "斧",
+        "word": "斧頭",
+        "sentence": "樵夫拿著＿＿頭，把木柴劈成小塊。",
+        "answer": "斧",
+        "options": [
+          "父",
+          "斧",
+          "釜",
+          "斤"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「斧頭」的寫法。",
+        "explanation": "正確語詞是「斧頭」，應填入「斧」。"
+      },
+      {
+        "id": "q11",
+        "targetChar": "雄",
+        "word": "英雄",
+        "sentence": "他勇敢救出受困的人，大家稱他為英＿＿。",
+        "answer": "雄",
+        "options": [
+          "維",
+          "惟",
+          "雄",
+          "推"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「英雄」的寫法。",
+        "explanation": "正確語詞是「英雄」，應填入「雄」。"
+      },
+      {
+        "id": "q12",
+        "targetChar": "偉",
+        "word": "偉大",
+        "sentence": "這位醫師長年照顧病人，大家都覺得他很＿＿大。",
+        "answer": "偉",
+        "options": [
+          "緯",
+          "圍",
+          "違",
+          "偉"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「偉大」的寫法。",
+        "explanation": "正確語詞是「偉大」，應填入「偉」。"
+      },
+      {
+        "id": "q13",
+        "targetChar": "臨",
+        "word": "來臨",
+        "sentence": "春天來＿＿時，花園裡開滿了花。",
+        "answer": "臨",
+        "options": [
+          "臨",
+          "鄰",
+          "林",
+          "監"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「來臨」的寫法。",
+        "explanation": "正確語詞是「來臨」，應填入「臨」。"
+      },
+      {
+        "id": "q14",
+        "targetChar": "縱",
+        "word": "縱谷",
+        "sentence": "兩側山脈之間，有一條南北延伸的＿＿谷。",
+        "answer": "縱",
+        "options": [
+          "從",
+          "縱",
+          "蹤",
+          "叢"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「縱谷」的寫法。",
+        "explanation": "正確語詞是「縱谷」，應填入「縱」。"
+      },
+      {
+        "id": "q15",
+        "targetChar": "稻",
+        "word": "稻田",
+        "sentence": "秋天的＿＿田一片金黃，農夫準備收割。",
+        "answer": "稻",
+        "options": [
+          "蹈",
+          "滔",
+          "稻",
+          "韜"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「稻田」的寫法。",
+        "explanation": "正確語詞是「稻田」，應填入「稻」。"
+      },
+      {
+        "id": "q16",
+        "targetChar": "澄",
+        "word": "澄清",
+        "sentence": "泥沙沉到杯底後，上層的水逐漸＿＿清。",
+        "answer": "澄",
+        "options": [
+          "橙",
+          "瞪",
+          "登",
+          "澄"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「澄清」的寫法。",
+        "explanation": "正確語詞是「澄清」，應填入「澄」。"
+      },
+      {
+        "id": "q17",
+        "targetChar": "曳",
+        "word": "搖曳",
+        "sentence": "晚風吹來，路旁的花朵輕輕搖＿＿。",
+        "answer": "曳",
+        "options": [
+          "曳",
+          "拽",
+          "洩",
+          "世"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「搖曳」的寫法。",
+        "explanation": "正確語詞是「搖曳」，應填入「曳」。"
+      },
+      {
+        "id": "q18",
+        "targetChar": "醉",
+        "word": "陶醉",
+        "sentence": "悠揚的琴聲讓大家陶＿＿其中。",
+        "answer": "醉",
+        "options": [
+          "碎",
+          "醉",
+          "翠",
+          "萃"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「陶醉」的寫法。",
+        "explanation": "正確語詞是「陶醉」，應填入「醉」。"
+      }
+    ]
+  },
+  "createdAt": "2026-10-20T05:17:43.997Z"
+}

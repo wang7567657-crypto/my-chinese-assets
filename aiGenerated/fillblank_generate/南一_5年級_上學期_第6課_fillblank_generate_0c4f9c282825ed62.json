@@ -1,0 +1,385 @@
+{
+  "taskType": "fillblank_generate",
+  "requestId": "南一_5年級_上學期_第6課_fillblank_generate_0c4f9c282825ed62",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "title": "第6課 全課填空",
+    "items": [
+      {
+        "char": "綻",
+        "word": "綻"
+      },
+      {
+        "char": "暇",
+        "word": "暇"
+      },
+      {
+        "char": "螃",
+        "word": "螃"
+      },
+      {
+        "char": "乎",
+        "word": "乎"
+      },
+      {
+        "char": "召",
+        "word": "召"
+      },
+      {
+        "char": "溝",
+        "word": "溝"
+      },
+      {
+        "char": "緩",
+        "word": "緩"
+      },
+      {
+        "char": "蹲",
+        "word": "蹲"
+      },
+      {
+        "char": "腹",
+        "word": "腹"
+      },
+      {
+        "char": "浸",
+        "word": "浸"
+      },
+      {
+        "char": "陸",
+        "word": "陸"
+      },
+      {
+        "char": "殖",
+        "word": "殖"
+      },
+      {
+        "char": "愈",
+        "word": "愈"
+      },
+      {
+        "char": "悲",
+        "word": "悲"
+      },
+      {
+        "char": "顯",
+        "word": "顯"
+      },
+      {
+        "char": "阻",
+        "word": "阻"
+      },
+      {
+        "char": "孵",
+        "word": "孵"
+      },
+      {
+        "char": "歷",
+        "word": "歷"
+      }
+    ],
+    "level": "國小中高年級",
+    "sourceRequestId": "",
+    "autoLesson": true
+  },
+  "data": {
+    "title": "第6課 全課填空",
+    "questions": [
+      {
+        "id": "q1",
+        "targetChar": "綻",
+        "word": "綻放",
+        "sentence": "春天到了，花園裡的花朵一一＿＿放。",
+        "answer": "綻",
+        "options": [
+          "綻",
+          "淀",
+          "錠",
+          "定"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「綻放」的寫法。",
+        "explanation": "正確語詞是「綻放」，應填入「綻」。"
+      },
+      {
+        "id": "q2",
+        "targetChar": "暇",
+        "word": "閒暇",
+        "sentence": "爺爺利用閒＿＿時間，到公園散步。",
+        "answer": "暇",
+        "options": [
+          "假",
+          "暇",
+          "瑕",
+          "遐"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「閒暇」的寫法。",
+        "explanation": "正確語詞是「閒暇」，應填入「暇」。"
+      },
+      {
+        "id": "q3",
+        "targetChar": "螃",
+        "word": "螃蟹",
+        "sentence": "退潮後，我們看見一隻＿＿蟹橫著走。",
+        "answer": "螃",
+        "options": [
+          "旁",
+          "傍",
+          "螃",
+          "膀"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「螃蟹」的寫法。",
+        "explanation": "正確語詞是「螃蟹」，應填入「螃」。"
+      },
+      {
+        "id": "q4",
+        "targetChar": "乎",
+        "word": "在乎",
+        "sentence": "他很在＿＿朋友的感受，說話前會先想一想。",
+        "answer": "乎",
+        "options": [
+          "呼",
+          "手",
+          "平",
+          "乎"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「在乎」的寫法。",
+        "explanation": "正確語詞是「在乎」，應填入「乎」。"
+      },
+      {
+        "id": "q5",
+        "targetChar": "召",
+        "word": "召集",
+        "sentence": "班長＿＿集同學，一起討論園遊會的分工。",
+        "answer": "召",
+        "options": [
+          "召",
+          "招",
+          "昭",
+          "照"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「召集」的寫法。",
+        "explanation": "正確語詞是「召集」，應填入「召」。"
+      },
+      {
+        "id": "q6",
+        "targetChar": "溝",
+        "word": "水溝",
+        "sentence": "落葉堵住了水＿＿，雨水無法順利流走。",
+        "answer": "溝",
+        "options": [
+          "構",
+          "溝",
+          "購",
+          "鉤"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「水溝」的寫法。",
+        "explanation": "正確語詞是「水溝」，應填入「溝」。"
+      },
+      {
+        "id": "q7",
+        "targetChar": "緩",
+        "word": "緩慢",
+        "sentence": "蝸牛背著殼，在葉子上＿＿慢地移動。",
+        "answer": "緩",
+        "options": [
+          "暖",
+          "援",
+          "緩",
+          "媛"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「緩慢」的寫法。",
+        "explanation": "正確語詞是「緩慢」，應填入「緩」。"
+      },
+      {
+        "id": "q8",
+        "targetChar": "蹲",
+        "word": "蹲下",
+        "sentence": "妹妹＿＿下身子，仔細觀察地上的螞蟻。",
+        "answer": "蹲",
+        "options": [
+          "尊",
+          "遵",
+          "墩",
+          "蹲"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「蹲下」的寫法。",
+        "explanation": "正確語詞是「蹲下」，應填入「蹲」。"
+      },
+      {
+        "id": "q9",
+        "targetChar": "腹",
+        "word": "腹部",
+        "sentence": "運動前可以輕輕按摩＿＿部，讓身體放鬆。",
+        "answer": "腹",
+        "options": [
+          "腹",
+          "復",
+          "複",
+          "覆"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「腹部」的寫法。",
+        "explanation": "正確語詞是「腹部」，應填入「腹」。"
+      },
+      {
+        "id": "q10",
+        "targetChar": "浸",
+        "word": "浸泡",
+        "sentence": "媽媽把髒衣服放進水裡＿＿泡。",
+        "answer": "浸",
+        "options": [
+          "侵",
+          "浸",
+          "寢",
+          "掃"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「浸泡」的寫法。",
+        "explanation": "正確語詞是「浸泡」，應填入「浸」。"
+      },
+      {
+        "id": "q11",
+        "targetChar": "陸",
+        "word": "陸地",
+        "sentence": "海龜爬上＿＿地，在沙灘上產卵。",
+        "answer": "陸",
+        "options": [
+          "陵",
+          "睦",
+          "陸",
+          "隆"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「陸地」的寫法。",
+        "explanation": "正確語詞是「陸地」，應填入「陸」。"
+      },
+      {
+        "id": "q12",
+        "targetChar": "殖",
+        "word": "繁殖",
+        "sentence": "池裡的魚順利繁＿＿，生出了許多小魚。",
+        "answer": "殖",
+        "options": [
+          "植",
+          "值",
+          "直",
+          "殖"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「繁殖」的寫法。",
+        "explanation": "正確語詞是「繁殖」，應填入「殖」。"
+      },
+      {
+        "id": "q13",
+        "targetChar": "愈",
+        "word": "愈來愈",
+        "sentence": "每天練習後，他寫的字＿＿來愈工整。",
+        "answer": "愈",
+        "options": [
+          "愈",
+          "癒",
+          "喻",
+          "逾"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「愈來愈」的寫法。",
+        "explanation": "正確語詞是「愈來愈」，應填入「愈」。"
+      },
+      {
+        "id": "q14",
+        "targetChar": "悲",
+        "word": "悲傷",
+        "sentence": "聽到小狗走失的消息，妹妹十分＿＿傷。",
+        "answer": "悲",
+        "options": [
+          "非",
+          "悲",
+          "輩",
+          "排"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「悲傷」的寫法。",
+        "explanation": "正確語詞是「悲傷」，應填入「悲」。"
+      },
+      {
+        "id": "q15",
+        "targetChar": "顯",
+        "word": "明顯",
+        "sentence": "白紙上的紅色記號十分明＿＿，一眼就能看見。",
+        "answer": "顯",
+        "options": [
+          "濕",
+          "溼",
+          "顯",
+          "絲"
+        ],
+        "answerIndex": 2,
+        "hint": "想一想「明顯」的寫法。",
+        "explanation": "正確語詞是「明顯」，應填入「顯」。"
+      },
+      {
+        "id": "q16",
+        "targetChar": "阻",
+        "word": "阻擋",
+        "sentence": "倒下的大樹＿＿擋了道路，車子無法通過。",
+        "answer": "阻",
+        "options": [
+          "祖",
+          "組",
+          "租",
+          "阻"
+        ],
+        "answerIndex": 3,
+        "hint": "想一想「阻擋」的寫法。",
+        "explanation": "正確語詞是「阻擋」，應填入「阻」。"
+      },
+      {
+        "id": "q17",
+        "targetChar": "孵",
+        "word": "孵出",
+        "sentence": "母雞耐心照顧雞蛋，終於＿＿出了小雞。",
+        "answer": "孵",
+        "options": [
+          "孵",
+          "浮",
+          "俘",
+          "乳"
+        ],
+        "answerIndex": 0,
+        "hint": "想一想「孵出」的寫法。",
+        "explanation": "正確語詞是「孵出」，應填入「孵」。"
+      },
+      {
+        "id": "q18",
+        "targetChar": "歷",
+        "word": "經歷",
+        "sentence": "這次難忘的經＿＿，讓我學會珍惜朋友。",
+        "answer": "歷",
+        "options": [
+          "曆",
+          "歷",
+          "厲",
+          "勵"
+        ],
+        "answerIndex": 1,
+        "hint": "想一想「經歷」的寫法。",
+        "explanation": "正確語詞是「經歷」，應填入「歷」。"
+      }
+    ]
+  },
+  "createdAt": "2026-10-20T05:17:43.997Z"
+}
