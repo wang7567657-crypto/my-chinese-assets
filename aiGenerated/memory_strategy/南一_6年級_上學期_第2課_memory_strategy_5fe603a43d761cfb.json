@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第2課_memory_strategy_5fe603a43d761cfb",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "茂",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "茂",
+    "components": [
+      "上：艹（草字頭）",
+      "下：戊"
+    ],
+    "association": "這是記憶聯想，並非字源說明：用草字頭想到旺盛的枝葉，再把完整的戊當作需要記牢的字形底座，聯想枝葉茂盛。",
+    "mnemonic": "草字頭，下面戊；枝葉茂盛長得好。",
+    "visualPrompt": "保留完整標準「茂」字，在字旁畫枝葉繁盛的樹；以淡色提示上方艹、下方戊，另放大戊的內部空白，提醒不另加點或短橫。",
+    "teachingTip": "讓學生口說茂盛的意思，再遮住艹辨認戊。圖像是幫助記憶的聯想，不宣稱戊的字源是樹幹或枝葉。"
+  },
+  "createdAt": "2026-10-21T14:47:37.481486Z"
+}

@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第2課_confusion_analysis_84e78d196601b824",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "茂",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "茂",
+    "groups": {
+      "shape": [
+        {
+          "char": "戊",
+          "why": "茂下方整個部件就是戊，容易漏寫上面艹。",
+          "difference": "茂須有艹與戊；戊沒有艹。"
+        },
+        {
+          "char": "戌",
+          "why": "戌的外框與茂下部戊相近。",
+          "difference": "茂下部寫戊，內部不添短橫；戌內部有短橫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "冒",
+          "why": "茂與冒在冒險中都讀ㄇㄠˋ。",
+          "difference": "茂用於茂盛、茂密；冒用於冒險、冒出。"
+        },
+        {
+          "char": "帽",
+          "why": "茂與帽都讀ㄇㄠˋ。",
+          "difference": "茂形容繁盛；帽指帽子。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "密",
+          "why": "茂密中的兩字都與繁多、緊密有關。",
+          "difference": "茂偏向生長旺盛，如枝葉繁茂；密偏向間隔小，如人群密集，不必涉及植物生長。"
+        }
+      ],
+      "component": [
+        {
+          "char": "戍",
+          "why": "容易在茂下部誤添一點，寫成戍形。",
+          "difference": "茂下部是戊，沒有戍內部的那一點；辨字時先遮住艹，確認剩下的是戊。"
+        }
+      ]
+    },
+    "tip": "用「枝葉茂密」連結字義；寫後檢查上艹、下戊，尤其下部內側不要多加點或橫。"
+  },
+  "createdAt": "2026-10-21T14:47:37.481486Z"
+}

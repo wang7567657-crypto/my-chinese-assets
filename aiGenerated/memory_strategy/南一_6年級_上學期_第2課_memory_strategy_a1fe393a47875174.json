@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第2課_memory_strategy_a1fe393a47875174",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "櫃",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "櫃",
+    "components": [
+      "木",
+      "匱"
+    ],
+    "association": "把木想成木製家具，把匱的外框想成收納空間，聯想把珍貴物品放進櫃子。這是記憶聯想，不是字源解釋。",
+    "mnemonic": "木在左，框包貴；東西收進書櫃裡。",
+    "visualPrompt": "畫面左側清楚呈現標準繁體「櫃」，保持全部筆畫原樣；旁邊另畫一座放著書本與小盒子的木櫃，不用圖案取代字中任何筆畫。",
+    "teachingTip": "讓學生指出木、匱及匱內的貴，再遮住範字重寫；提醒右部必須有匚框。"
+  },
+  "createdAt": "2026-10-21T14:47:37.481486Z"
+}

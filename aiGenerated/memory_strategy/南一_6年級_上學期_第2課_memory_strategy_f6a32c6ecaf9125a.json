@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第2課_memory_strategy_f6a32c6ecaf9125a",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "抓",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "抓",
+    "components": [
+      "扌",
+      "爪"
+    ],
+    "association": "這是記字聯想，不是字源解釋：左側扌提醒用手，右側爪讓人聯想到手指扣住東西的形狀，旁邊配抓住繩子的圖幫助記憶。",
+    "mnemonic": "提手在左，爪在右；手指扣住，牢牢抓住。",
+    "visualPrompt": "中央放大標準楷體「抓」，左扌、右爪用兩種淡色區分，所有筆畫照標準字形呈現；右旁另畫一隻手抓住繩子，圖與字保持距離，不把爪改成卡通手。下方標示「抓住」。",
+    "teachingTip": "先辨認右側是爪而不是八，再加上左側扌；用抓住、抓癢讀回字義，動作示範只作記憶輔助，正式字形不改畫。"
+  },
+  "createdAt": "2026-10-21T14:47:37.481486Z"
+}
