@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第2課_memory_strategy_d5cfb81f46ef81e9",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "編",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "編",
+    "components": [
+      "左：糸",
+      "右：扁"
+    ],
+    "association": "這是記憶聯想，並非字源說明：把糸聯想到一束束線，在完整的扁旁邊想像線交錯排好，記住編織與編排。",
+    "mnemonic": "左邊糸，右邊扁；線條交錯編起來。",
+    "visualPrompt": "保留端正完整的「編」字，在字旁放一幅彩線交錯成小織片的示意圖；用兩種淡色底分別提示左糸、右扁，不以線團替代字的筆畫。",
+    "teachingTip": "先指認左糸右扁，再以編織、編排各造一句。聯想圖只置於字旁，默寫時回到標準字形。"
+  },
+  "createdAt": "2026-10-21T14:47:37.481486Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第2課_memory_strategy_3cdf0926486c0014",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "暮",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "暮",
+    "components": [
+      "莫",
+      "日"
+    ],
+    "association": "想像太陽落到草木後，天色漸暗，並用最下方的日提醒自己這是日暮的暮。這是教學記憶聯想，不把故事當作完整字源解釋。",
+    "mnemonic": "莫下還有日，暮色近黃昏。",
+    "visualPrompt": "畫面中央寫端正標準繁體「暮」，上莫下日的筆畫完整保留；字旁另畫落日與草木的黃昏風景，太陽圖不可替代字裡的日。",
+    "teachingTip": "遮住下部讓學生選日、巾、土，再恢復完整字形；確認沒有因莫裡已有日而漏寫最下方的日。"
+  },
+  "createdAt": "2026-10-21T14:47:37.481486Z"
+}

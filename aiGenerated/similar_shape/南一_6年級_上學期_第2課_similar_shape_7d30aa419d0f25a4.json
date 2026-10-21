@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第2課_similar_shape_7d30aa419d0f25a4",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "targetChar": "蔓",
+    "lessonChars": [
+      "編",
+      "絨",
+      "茂",
+      "藤",
+      "蔓",
+      "添",
+      "瀉",
+      "舒",
+      "抓",
+      "悉",
+      "隙",
+      "鬆",
+      "櫃",
+      "稿",
+      "顫",
+      "暮",
+      "肩",
+      "咂",
+      "賴"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "蔓",
+    "similarChars": [
+      {
+        "char": "曼",
+        "similarity": "曼是蔓草字頭下面的完整部件。",
+        "difference": "蔓上面多艹；曼沒有草字頭。"
+      },
+      {
+        "char": "慢",
+        "similarity": "都含完整曼部件。",
+        "difference": "蔓是上艹下曼；慢是左忄右曼。"
+      },
+      {
+        "char": "漫",
+        "similarity": "都含完整曼部件。",
+        "difference": "蔓的艹在上；漫的氵在左。"
+      },
+      {
+        "char": "幔",
+        "similarity": "都含完整曼部件。",
+        "difference": "蔓上方是艹；幔左邊是巾，有向下伸出的豎。"
+      },
+      {
+        "char": "饅",
+        "similarity": "都含完整曼部件。",
+        "difference": "蔓是艹放在曼上；饅是飠放在曼左。"
+      },
+      {
+        "char": "鰻",
+        "similarity": "都含完整曼部件。",
+        "difference": "蔓上方是艹；鰻左邊是魚，魚下有四點。"
+      }
+    ],
+    "teachingTip": "把六字中的曼框起來，再指出艹在上，忄、氵、巾、飠、魚在左。只要位置或偏旁改變，就不是本課要寫的蔓。"
+  },
+  "createdAt": "2026-10-21T14:47:37.481486Z"
+}

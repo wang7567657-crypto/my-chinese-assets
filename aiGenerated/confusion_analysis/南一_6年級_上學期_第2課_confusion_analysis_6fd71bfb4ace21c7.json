@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第2課_confusion_analysis_6fd71bfb4ace21c7",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "咂",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "咂",
+    "groups": {
+      "shape": [
+        {
+          "char": "砸",
+          "why": "右匝完全相同，左石內又有口形。",
+          "difference": "咂是口加匝；砸是石加匝，左邊多出石上方的橫、撇。"
+        },
+        {
+          "char": "咀",
+          "why": "右側都是帶框與橫筆的輪廓。",
+          "difference": "咂右邊是匚包巾；咀右邊是且，沒有巾的中豎。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "匝",
+          "why": "咂和匝都讀ㄗㄚ，一聲。",
+          "difference": "咂嘴、咂舌用口旁的咂；匝道用沒有口旁的匝。"
+        },
+        {
+          "char": "砸",
+          "why": "咂ㄗㄚ和砸ㄗㄚˊ聲母、韻母相同，聲調不同。",
+          "difference": "咂是一聲，用於咂嘴；砸是二聲，用於砸破，指用力撞擊或投擲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "吸",
+          "why": "咂可表示吸吮，與吸在部分語境相近。",
+          "difference": "咂嘴常描述嘴脣的動作或聲響；吸的用法較廣，如吸氣、吸水，不能都換成咂。"
+        }
+      ],
+      "component": [
+        {
+          "char": "巾",
+          "why": "記住匝裡的巾後，可能漏掉外框。",
+          "difference": "咂右部不是單獨巾，而是匚包巾的匝；左邊還有口。"
+        }
+      ]
+    },
+    "tip": "教育部辭典確認咂讀ㄗㄚ；搭配咂嘴練一聲，和砸破ㄗㄚˊ的二聲分開。"
+  },
+  "createdAt": "2026-10-21T14:47:37.481486Z"
+}

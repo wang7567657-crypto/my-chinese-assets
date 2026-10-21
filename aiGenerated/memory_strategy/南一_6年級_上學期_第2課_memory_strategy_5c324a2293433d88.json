@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第2課_memory_strategy_5c324a2293433d88",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "添",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "添",
+    "components": [
+      "左：氵（三點水）",
+      "右：忝（上部為天）"
+    ],
+    "association": "這是記憶聯想，並非字源說明：看到三點水，就想像往杯裡再加一些水，杯中水量增加了；右邊忝的完整字形另行對照記住。",
+    "mnemonic": "三點水在左，忝字放右邊；杯中再加水，就是添一添。",
+    "visualPrompt": "在端正完整的「添」字旁放兩個小杯示意，第二杯水位略高，表示添水；以淡色底標出左氵、右忝，特別框出忝上方的天，不改動標準筆畫。",
+    "teachingTip": "用添水或添飯演示「增加」，再指讀左氵右忝。記憶故事不解釋字源；右上天的首筆仍照標準字形寫橫。"
+  },
+  "createdAt": "2026-10-21T14:47:37.481486Z"
+}

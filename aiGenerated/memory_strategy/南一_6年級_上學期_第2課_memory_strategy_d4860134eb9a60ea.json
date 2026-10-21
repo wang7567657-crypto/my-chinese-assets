@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第2課_memory_strategy_d4860134eb9a60ea",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "藤",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "藤",
+    "components": [
+      "上：艹（草字頭）",
+      "下：滕（整體字形）"
+    ],
+    "association": "這是記憶聯想，並非字源說明：草字頭讓人想到植物，在完整藤字旁想像一條攀著架子的藤蔓；下方滕形整體記，不把每筆硬說成藤的部位。",
+    "mnemonic": "草字頭，下滕形；細長藤蔓攀架行。",
+    "visualPrompt": "在完整標準「藤」字旁畫一段沿架子攀繞的綠色藤蔓，淡色標出上方艹和下方整體滕形；另以小框提示右下是水的變形，不把字的筆畫畫成藤枝。",
+    "teachingTip": "先說葡萄藤，再看上艹、下滕形。下部左側月形和右下水形要各保留原來位置，勿因故事聯想而增減筆畫。"
+  },
+  "createdAt": "2026-10-21T14:47:37.481486Z"
+}

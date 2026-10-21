@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第2課_memory_strategy_45c140a477e57a18",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第2課",
+    "char": "賴",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "賴",
+    "components": [
+      "束",
+      "刀（右上）",
+      "貝（右下）"
+    ],
+    "association": "想像一束資料旁放著小工具與貝殼模型，提醒自己遇到問題可依賴工具來協助。只藉此記住束、刀、貝的位置，是記憶聯想，不是字源解釋。",
+    "mnemonic": "左束右刀貝，依賴的賴記到位。",
+    "visualPrompt": "端正顯示臺灣標準繁體「賴」，左束與右側刀、貝所有筆畫保留；字旁另畫一束資料、一把安全剪刀及一枚貝殼，圖案不嵌入文字，也不取代任何筆畫。",
+    "teachingTip": "先按位置指出左束、右上刀、右下貝，再與負的頂端比較；提醒刀與貝只是現代字形觀察，不拿聯想當字源。"
+  },
+  "createdAt": "2026-10-21T14:47:37.481486Z"
+}
