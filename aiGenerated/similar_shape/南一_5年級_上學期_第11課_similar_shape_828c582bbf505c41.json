@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第11課_similar_shape_828c582bbf505c41",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "瀑",
+    "lessonChars": [
+      "瀑",
+      "垂",
+      "財",
+      "炫",
+      "黯",
+      "錶",
+      "衛",
+      "鬍",
+      "盈",
+      "逝",
+      "貨",
+      "司",
+      "禱",
+      "帝",
+      "訝",
+      "恍",
+      "悟",
+      "昂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "瀑",
+    "similarChars": [
+      {
+        "char": "爆",
+        "similarity": "右邊都是「暴」，左右結構相同。",
+        "difference": "瀑左邊是氵；爆左邊是火。"
+      },
+      {
+        "char": "曝",
+        "similarity": "右邊都是「暴」。",
+        "difference": "瀑左邊是氵；曝左邊是日。"
+      },
+      {
+        "char": "暴",
+        "similarity": "瀑的右半就是「暴」。",
+        "difference": "瀑多了左邊的氵；暴單獨成字。"
+      },
+      {
+        "char": "濕",
+        "similarity": "都有氵，右上都有日，下方筆畫密集。",
+        "difference": "瀑右邊是暴；濕右下有兩個幺和灬。濕在潮溼義也作溼的異體，此處只比較字形。"
+      },
+      {
+        "char": "漫",
+        "similarity": "都有氵，右上都有帶橫畫的框形。",
+        "difference": "瀑右邊是暴；漫右邊是曼，下方是又。"
+      },
+      {
+        "char": "澡",
+        "similarity": "都有氵，右半都是多層組合。",
+        "difference": "瀑右邊是暴；澡右上有三個口，下方是木。"
+      }
+    ],
+    "teachingTip": "把瀑、爆、曝並排，先圈出共同的暴，再分別找氵、火、日；不要只看右半。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

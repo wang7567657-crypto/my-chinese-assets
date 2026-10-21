@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第11課_similar_shape_bd80827dd19670b4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "昂",
+    "lessonChars": [
+      "瀑",
+      "垂",
+      "財",
+      "炫",
+      "黯",
+      "錶",
+      "衛",
+      "鬍",
+      "盈",
+      "逝",
+      "貨",
+      "司",
+      "禱",
+      "帝",
+      "訝",
+      "恍",
+      "悟",
+      "昂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "昂",
+    "similarChars": [
+      {
+        "char": "昴",
+        "similarity": "上方都是日，下方的卬與卯只差部分筆畫。",
+        "difference": "昂下方是卬；昴下方是卯。昴較少見，作星名讀ㄇㄠˇ；字典亦收其作昂的異體，本課寫昂。"
+      },
+      {
+        "char": "卬",
+        "similarity": "昂的下半完整保留卬。",
+        "difference": "昂上方多了日。卬是罕用字，這裡用來辨認部件。"
+      },
+      {
+        "char": "仰",
+        "similarity": "都有卬部件。",
+        "difference": "昂是日在上、卬在下；仰是亻在左、卬在右。"
+      },
+      {
+        "char": "抑",
+        "similarity": "都有卬部件。",
+        "difference": "昂是上下結構；抑是扌在左、卬在右。"
+      },
+      {
+        "char": "迎",
+        "similarity": "都有卬部件。",
+        "difference": "昂上方有日；迎由辶包住卬。"
+      },
+      {
+        "char": "昌",
+        "similarity": "上方都是日，整體是上下結構。",
+        "difference": "昂下方是卬；昌下方是較寬扁的曰。"
+      }
+    ],
+    "teachingTip": "昂是日加卬，下半不要多寫成卯；和仰、抑、迎一起找卬部件。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

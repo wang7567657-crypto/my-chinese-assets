@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_50fd62f5ca41ff69",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "黯",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "黯",
+    "groups": {
+      "shape": [
+        {
+          "char": "暗",
+          "why": "同有音，且意思相近。",
+          "difference": "黯左黑右音；暗左日右音。"
+        },
+        {
+          "char": "默",
+          "why": "左邊同是黑，右邊容易草寫不清。",
+          "difference": "黯右邊是音；默右邊是犬。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "暗",
+          "why": "兩字都讀ㄢˋ。",
+          "difference": "黯然的黯常形容低落、感傷；暗處的暗形容光線不足。"
+        },
+        {
+          "char": "岸",
+          "why": "兩字都讀ㄢˋ。",
+          "difference": "黯然用黯；河岸用岸，指水邊的陸地。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "暗",
+          "why": "兩字都能形容光線不足，意思有重疊。",
+          "difference": "黯淡和暗淡都可見；「黯然神傷」通常寫黯，「黑暗」通常寫暗，不宜一概判成相反意思。"
+        }
+      ],
+      "component": [
+        {
+          "char": "音",
+          "why": "黯右邊是音，容易誤寫成意。",
+          "difference": "右半到日為止，不加心；左半黑下方的灬也要保留。"
+        }
+      ]
+    },
+    "tip": "用「黯然神傷、黑暗」記常見搭配；黯與暗同音，意思也有重疊。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

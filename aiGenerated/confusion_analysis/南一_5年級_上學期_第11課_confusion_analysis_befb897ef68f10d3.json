@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_befb897ef68f10d3",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "垂",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "垂",
+    "groups": {
+      "shape": [
+        {
+          "char": "睡",
+          "why": "右半相同，容易漏看左邊的目。",
+          "difference": "垂沒有目；睡有目，如睡覺。"
+        },
+        {
+          "char": "郵",
+          "why": "都有垂，容易漏寫郵右邊的阝。",
+          "difference": "垂可單獨成字；郵是垂在左、阝在右。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "捶",
+          "why": "兩字都讀ㄔㄨㄟˊ。",
+          "difference": "垂下用垂；捶打用捶，左邊有扌。"
+        },
+        {
+          "char": "錘",
+          "why": "兩字都讀ㄔㄨㄟˊ。",
+          "difference": "垂表示向下；鐵錘的錘指工具，左邊有金。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "吊",
+          "why": "都可能描寫東西懸在空中。",
+          "difference": "垂強調向下的狀態，如垂落；吊可指用繩索等懸掛，如吊起。"
+        }
+      ],
+      "component": [
+        {
+          "char": "陲",
+          "why": "陲和郵都含垂及阝，位置容易弄反。",
+          "difference": "陲是阝在左、垂在右；郵是垂在左、阝在右。垂本身不加阝。"
+        }
+      ]
+    },
+    "tip": "用「枝條垂下、用手捶背」分意思；寫垂時不要自行加偏旁。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

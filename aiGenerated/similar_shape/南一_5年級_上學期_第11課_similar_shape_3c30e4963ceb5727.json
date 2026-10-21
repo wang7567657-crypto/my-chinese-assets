@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第11課_similar_shape_3c30e4963ceb5727",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "逝",
+    "lessonChars": [
+      "瀑",
+      "垂",
+      "財",
+      "炫",
+      "黯",
+      "錶",
+      "衛",
+      "鬍",
+      "盈",
+      "逝",
+      "貨",
+      "司",
+      "禱",
+      "帝",
+      "訝",
+      "恍",
+      "悟",
+      "昂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "逝",
+    "similarChars": [
+      {
+        "char": "浙",
+        "similarity": "都含折，右側輪廓相近。",
+        "difference": "逝是折加辶；浙是氵加折。"
+      },
+      {
+        "char": "折",
+        "similarity": "逝的內部完整保留折。",
+        "difference": "逝外面多了辶；折單獨成字。"
+      },
+      {
+        "char": "近",
+        "similarity": "都有辶，內部都看得到斤。",
+        "difference": "逝內部是折，多了扌；近內部只有斤。"
+      },
+      {
+        "char": "逛",
+        "similarity": "都有辶，內部都是左右組合。",
+        "difference": "逝內部是折；逛內部是狂。"
+      },
+      {
+        "char": "述",
+        "similarity": "都有辶，內部有豎向和斜向筆畫。",
+        "difference": "逝內部是折；述內部是朮，有一點。"
+      },
+      {
+        "char": "迭",
+        "similarity": "都有辶，整體外框相同。",
+        "difference": "逝內部是折；迭內部是失。"
+      }
+    ],
+    "teachingTip": "先寫內部的折，再寫辶；用「浙是氵在左、逝是辶包在下方」做比較。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

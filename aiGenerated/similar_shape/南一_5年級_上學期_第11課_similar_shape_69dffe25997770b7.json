@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第11課_similar_shape_69dffe25997770b7",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "衛",
+    "lessonChars": [
+      "瀑",
+      "垂",
+      "財",
+      "炫",
+      "黯",
+      "錶",
+      "衛",
+      "鬍",
+      "盈",
+      "逝",
+      "貨",
+      "司",
+      "禱",
+      "帝",
+      "訝",
+      "恍",
+      "悟",
+      "昂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "衛",
+    "similarChars": [
+      {
+        "char": "衝",
+        "similarity": "外側都像分開的行，中間另放部件。",
+        "difference": "衛中間是韋；衝中間是重。"
+      },
+      {
+        "char": "街",
+        "similarity": "左右都有行的外框。",
+        "difference": "衛中間是韋；街中間是圭，上下兩個土。"
+      },
+      {
+        "char": "術",
+        "similarity": "左右都有行的外框。",
+        "difference": "衛中間是韋；術中間是朮，筆畫較少。"
+      },
+      {
+        "char": "衡",
+        "similarity": "左右都有行的外框，中央筆畫較多。",
+        "difference": "衛中央是韋；衡中央是上角下大的變形，末筆寫成點，不能寫成韋。"
+      },
+      {
+        "char": "衍",
+        "similarity": "左右都有行的外框。",
+        "difference": "衛中央是韋；衍中央是氵。"
+      },
+      {
+        "char": "行",
+        "similarity": "衛的外側保留行的左右兩部分。",
+        "difference": "衛中間另有韋；行中間沒有韋。"
+      }
+    ],
+    "teachingTip": "先找外面的行，再辨認中央的韋；可與街中間的兩個土、衝中間的重比較。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

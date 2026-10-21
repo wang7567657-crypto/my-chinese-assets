@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_5d4498f98d00a79b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "瀑",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "瀑",
+    "groups": {
+      "shape": [
+        {
+          "char": "爆",
+          "why": "同有暴，偏旁容易看錯。",
+          "difference": "瀑布的瀑用氵；爆炸的爆用火。"
+        },
+        {
+          "char": "曝",
+          "why": "同有暴，左邊只換成另一個偏旁。",
+          "difference": "瀑左邊是氵；曝左邊是日。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "曝",
+          "why": "瀑布的瀑和曝晒的曝都讀ㄆㄨˋ。",
+          "difference": "瀑布是從高處落下的水流；曝晒是放在陽光下晒。"
+        },
+        {
+          "char": "鋪",
+          "why": "瀑讀ㄆㄨˋ，店鋪的鋪也讀ㄆㄨˋ。",
+          "difference": "瀑布用瀑；店鋪用鋪。鋪路的鋪另讀ㄆㄨ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "流",
+          "why": "都能出現在描寫水的句子裡。",
+          "difference": "瀑指從高處直瀉的水流；流可表示水等物質移動，範圍較廣。"
+        }
+      ],
+      "component": [
+        {
+          "char": "暴",
+          "why": "瀑含有暴，容易直接照讀。",
+          "difference": "瀑布讀ㄆㄨˋ ㄅㄨˋ；暴風的暴讀ㄅㄠˋ，不能因部件相同就照讀。"
+        }
+      ]
+    },
+    "tip": "先看氵，再用「瀑布」記ㄆㄨˋ；部件相同不代表整個字讀音相同。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

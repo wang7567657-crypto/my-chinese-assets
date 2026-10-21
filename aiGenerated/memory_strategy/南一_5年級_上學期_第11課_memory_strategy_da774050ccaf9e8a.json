@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第11課_memory_strategy_da774050ccaf9e8a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "錶",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "錶",
+    "components": [
+      "金",
+      "表"
+    ],
+    "association": "教學聯想（非字源）：想像一只有金屬外殼的手錶，左邊『金』提示物品，右邊『表』提示ㄅㄧㄠˇ的讀音。",
+    "mnemonic": "金在左，表在右；手錶幫我看時候。",
+    "visualPrompt": "製作識字卡：以臺灣教育部標準字形呈現完整『錶』字，字旁另畫一只指針清楚、外殼為金屬的手錶。圖與字分開，不把筆畫改成錶帶或指針，不增刪或扭曲筆畫。",
+    "teachingTip": "讀ㄅㄧㄠˇ，指認金字旁和『表』。用『手錶／表格』選字，建立詞義線索；寫完後檢查手錶的『錶』有金字旁，再遮住範字練習一次。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

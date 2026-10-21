@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第11課_similar_shape_b6151ee95ef5fa72",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "垂",
+    "lessonChars": [
+      "瀑",
+      "垂",
+      "財",
+      "炫",
+      "黯",
+      "錶",
+      "衛",
+      "鬍",
+      "盈",
+      "逝",
+      "貨",
+      "司",
+      "禱",
+      "帝",
+      "訝",
+      "恍",
+      "悟",
+      "昂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "垂",
+    "similarChars": [
+      {
+        "char": "睡",
+        "similarity": "睡的右半完整保留垂。",
+        "difference": "睡左邊多了目；垂沒有目。"
+      },
+      {
+        "char": "錘",
+        "similarity": "錘的右半是垂。",
+        "difference": "錘左邊多了金；垂單獨成字。"
+      },
+      {
+        "char": "捶",
+        "similarity": "捶的右半是垂。",
+        "difference": "捶左邊多了扌。"
+      },
+      {
+        "char": "陲",
+        "similarity": "陲的右半是垂。",
+        "difference": "陲左邊多了阝；陲較少見，常見於邊陲。"
+      },
+      {
+        "char": "唾",
+        "similarity": "唾的右半是垂。",
+        "difference": "唾左邊多了口。"
+      },
+      {
+        "char": "郵",
+        "similarity": "郵的左半是垂，保留多橫交錯的外形。",
+        "difference": "郵右邊多了阝；不要把阝移到左邊。"
+      }
+    ],
+    "teachingTip": "先把垂寫完整，再觀察目、扌、金、口或阝加在什麼位置。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

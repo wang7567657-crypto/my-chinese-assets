@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_2a4f2ebcd311a5cc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "恍",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "恍",
+    "groups": {
+      "shape": [
+        {
+          "char": "晃",
+          "why": "都有光，只是另一部件的位置不同。",
+          "difference": "恍左邊是忄；晃上方是日。"
+        },
+        {
+          "char": "悄",
+          "why": "都有忄，右上都像小。",
+          "difference": "恍右下是儿；悄右下是月形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "謊",
+          "why": "兩字都讀ㄏㄨㄤˇ。",
+          "difference": "恍然大悟用恍；說謊用謊。"
+        },
+        {
+          "char": "慌",
+          "why": "恍讀ㄏㄨㄤˇ；慌讀ㄏㄨㄤ，聲調不同。",
+          "difference": "恍然可指突然明白的樣子；慌張指緊張、忙亂。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "忽",
+          "why": "恍然和忽然都可描述突然發生的情況。",
+          "difference": "恍然大悟常形容突然明白；忽然可泛指事情突然發生。要看整個詞語，不能任意換字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "光",
+          "why": "恍含光，容易看見部件就照讀。",
+          "difference": "恍讀ㄏㄨㄤˇ；光讀ㄍㄨㄤ，且恍左邊還有忄。"
+        }
+      ]
+    },
+    "tip": "把「恍然大悟、說謊、慌張」一起讀；先分聲調，再分字形與意思。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

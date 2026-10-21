@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_0d8a978e190002be",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "炫",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "炫",
+    "groups": {
+      "shape": [
+        {
+          "char": "眩",
+          "why": "右半相同，左半都較窄。",
+          "difference": "炫用火；眩用目，如暈眩。"
+        },
+        {
+          "char": "弦",
+          "why": "右半同是玄。",
+          "difference": "炫用火；弦用弓，如琴弦。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "眩",
+          "why": "炫和暈眩的眩都讀ㄒㄩㄢˋ。",
+          "difference": "炫耀是顯示、誇耀；暈眩是頭昏眼花。"
+        },
+        {
+          "char": "絢",
+          "why": "炫和絢麗的絢都讀ㄒㄩㄢˋ。",
+          "difference": "炫耀用炫；絢麗用絢，絢的右半是旬。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "耀",
+          "why": "都有照耀、發亮的用法，且常合成炫耀。",
+          "difference": "「光彩炫目」用炫；「陽光照耀」用耀。兩字意思有重疊，要配合詞語使用。"
+        }
+      ],
+      "component": [
+        {
+          "char": "玄",
+          "why": "炫含玄，容易把部件的音直接搬過來。",
+          "difference": "炫讀ㄒㄩㄢˋ；玄讀ㄒㄩㄢˊ，聲調不同。"
+        }
+      ]
+    },
+    "tip": "用「炫耀、暈眩、琴弦」辨偏旁；玄部件相同，聲調不一定相同。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

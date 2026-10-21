@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第11課_similar_shape_fa2fa8502c385270",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "財",
+    "lessonChars": [
+      "瀑",
+      "垂",
+      "財",
+      "炫",
+      "黯",
+      "錶",
+      "衛",
+      "鬍",
+      "盈",
+      "逝",
+      "貨",
+      "司",
+      "禱",
+      "帝",
+      "訝",
+      "恍",
+      "悟",
+      "昂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "財",
+    "similarChars": [
+      {
+        "char": "材",
+        "similarity": "右邊都是才。",
+        "difference": "財左邊是貝；材左邊是木。"
+      },
+      {
+        "char": "豺",
+        "similarity": "右邊都是才。",
+        "difference": "財左邊是貝；豺左邊是豸。"
+      },
+      {
+        "char": "貼",
+        "similarity": "左邊都是貝，都是左右結構。",
+        "difference": "財右邊是才；貼右邊是占。"
+      },
+      {
+        "char": "貝",
+        "similarity": "財的左半完整保留貝。",
+        "difference": "財右邊多了才；貝單獨成字。"
+      },
+      {
+        "char": "賊",
+        "similarity": "左邊都是貝，右半都有斜向筆畫。",
+        "difference": "財右邊是才；賊右邊是戎，筆畫較多。"
+      },
+      {
+        "char": "貨",
+        "similarity": "都有貝部件。",
+        "difference": "財是貝在左、才在右；貨是化在上、貝在下。"
+      }
+    ],
+    "teachingTip": "比較財和材時先看左邊；財物用貝旁，木材用木旁。這是認字提示，不是完整字源說明。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

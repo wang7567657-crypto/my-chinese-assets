@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_f65275ed55d0b252",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "衛",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "衛",
+    "groups": {
+      "shape": [
+        {
+          "char": "衝",
+          "why": "外框相同，中間都很密。",
+          "difference": "衛中間是韋；衝中間是重。"
+        },
+        {
+          "char": "街",
+          "why": "都有行的外框。",
+          "difference": "衛中間是韋；街中間是圭。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "位",
+          "why": "兩字都讀ㄨㄟˋ。",
+          "difference": "衛生用衛；位置用位。"
+        },
+        {
+          "char": "味",
+          "why": "兩字都讀ㄨㄟˋ。",
+          "difference": "防衛用衛；味道用味，味左邊有口。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "護",
+          "why": "防衛、保護都與避免傷害有關。",
+          "difference": "防衛偏重抵擋威脅；保護也可指照顧、維護。兩者用法有重疊，依詞語選字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "韋",
+          "why": "衛中央包含韋，容易漏掉外側。",
+          "difference": "衛要有外側的行和中央的韋；韋單獨成字時沒有行。"
+        }
+      ]
+    },
+    "tip": "看外框、認中間：行中放韋是衛；用「防衛、位置、味道」分同音字。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

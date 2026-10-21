@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_3303e80c549f81ea",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "錶",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "錶",
+    "groups": {
+      "shape": [
+        {
+          "char": "表",
+          "why": "錶比表多金字旁。",
+          "difference": "錶專指隨身的小型計時器；表另有外表、表示等用法。"
+        },
+        {
+          "char": "裱",
+          "why": "兩字右邊都是表。",
+          "difference": "錶用金旁；裱用衤，如裝裱字畫。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "表",
+          "why": "錶和表都讀ㄅㄧㄠˇ。",
+          "difference": "本課手錶用錶；表示用表。辭典也收計時器用字「表」，不能一概說手表是錯字。"
+        },
+        {
+          "char": "標",
+          "why": "錶讀ㄅㄧㄠˇ，標讀ㄅㄧㄠ，聲調不同。",
+          "difference": "手錶用錶；標記用標。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "鐘",
+          "why": "兩字都可指計時器。",
+          "difference": "錶通常指可隨身攜帶的小型計時器；鐘如掛鐘、鬧鐘，也可指敲擊發聲的鐘。"
+        }
+      ],
+      "component": [
+        {
+          "char": "錘",
+          "why": "左邊同是金，右半容易看成多橫的同一部件。",
+          "difference": "錶右邊是表；錘右邊是垂。先比較右下方的筆形。"
+        }
+      ]
+    },
+    "tip": "記住本課寫「手錶」，但也認識辭典收錄的「表」用法；不要把所有表都加上金旁。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

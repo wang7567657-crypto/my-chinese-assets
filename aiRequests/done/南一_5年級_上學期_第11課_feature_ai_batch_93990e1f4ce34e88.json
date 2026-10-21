@@ -1,0 +1,329 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_5年級_上學期_第11課_feature_ai_batch_93990e1f4ce34e88",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "context": {
+      "publisher": "南一",
+      "grade": "5年級",
+      "semester": "上學期",
+      "lesson": "第11課"
+    },
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 18,
+    "batchCharacters": [
+      "瀑",
+      "垂",
+      "財",
+      "炫",
+      "黯",
+      "錶",
+      "衛",
+      "鬍",
+      "盈",
+      "逝",
+      "貨",
+      "司",
+      "禱",
+      "帝",
+      "訝",
+      "恍",
+      "悟",
+      "昂"
+    ],
+    "items": [
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_721da1392e5fbf57",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "瀑",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_79f72206a7cb406d",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "垂",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_be034ed4938de5e7",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "財",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_5635631d67991978",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "炫",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_02b4bdbf31b00af5",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "黯",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_da774050ccaf9e8a",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "錶",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_941fe55499fb5ac7",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "衛",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_fd729c7449603b98",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "鬍",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_33379f59288ca4d1",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "盈",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_7700999a2671c8d0",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "逝",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_dc7f2d541f7a2f02",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "貨",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_60af56ecf10ba29e",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "司",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_4e47daef5e38ba3f",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "禱",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_3bdd209077af60d4",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "帝",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_bbba976ce96fbfb2",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "訝",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_9dc173412b7c319f",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "恍",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_9c8a053608459a26",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "悟",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "memory_strategy",
+        "requestId": "南一_5年級_上學期_第11課_memory_strategy_446d4cf5207c07e4",
+        "input": {
+          "publisher": "南一",
+          "grade": "5年級",
+          "semester": "上學期",
+          "lesson": "第11課",
+          "char": "昂",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-21T11:56:48.371675Z",
+  "processedAt": "2026-10-21T12:17:59.685615Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_5年級_上學期_第11課_feature_ai_batch_93990e1f4ce34e88",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "南一",
+      "grade": "5年級",
+      "semester": "上學期",
+      "lesson": "第11課",
+      "context": {
+        "publisher": "南一",
+        "grade": "5年級",
+        "semester": "上學期",
+        "lesson": "第11課"
+      },
+      "featureTaskType": "memory_strategy",
+      "featureName": "記憶策略",
+      "itemCount": 18,
+      "batchCharacters": [
+        "瀑",
+        "垂",
+        "財",
+        "炫",
+        "黯",
+        "錶",
+        "衛",
+        "鬍",
+        "盈",
+        "逝",
+        "貨",
+        "司",
+        "禱",
+        "帝",
+        "訝",
+        "恍",
+        "悟",
+        "昂"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 18,
+      "resultPaths": [
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_721da1392e5fbf57.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_79f72206a7cb406d.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_be034ed4938de5e7.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_5635631d67991978.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_02b4bdbf31b00af5.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_da774050ccaf9e8a.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_941fe55499fb5ac7.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_fd729c7449603b98.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_33379f59288ca4d1.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_7700999a2671c8d0.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_dc7f2d541f7a2f02.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_60af56ecf10ba29e.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_4e47daef5e38ba3f.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_3bdd209077af60d4.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_bbba976ce96fbfb2.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_9dc173412b7c319f.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_9c8a053608459a26.json",
+        "aiGenerated/memory_strategy/南一_5年級_上學期_第11課_memory_strategy_446d4cf5207c07e4.json"
+      ]
+    },
+    "createdAt": "2026-10-21T12:17:59.685615Z"
+  }
+}

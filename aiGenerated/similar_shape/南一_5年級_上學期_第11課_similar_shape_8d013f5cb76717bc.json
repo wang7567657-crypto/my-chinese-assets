@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第11課_similar_shape_8d013f5cb76717bc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "悟",
+    "lessonChars": [
+      "瀑",
+      "垂",
+      "財",
+      "炫",
+      "黯",
+      "錶",
+      "衛",
+      "鬍",
+      "盈",
+      "逝",
+      "貨",
+      "司",
+      "禱",
+      "帝",
+      "訝",
+      "恍",
+      "悟",
+      "昂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "悟",
+    "similarChars": [
+      {
+        "char": "晤",
+        "similarity": "右邊都是吾。",
+        "difference": "悟左邊是忄；晤左邊是日。"
+      },
+      {
+        "char": "語",
+        "similarity": "右邊都是吾。",
+        "difference": "悟左邊是忄；語左邊是言。"
+      },
+      {
+        "char": "梧",
+        "similarity": "右邊都是吾。",
+        "difference": "悟左邊是忄；梧左邊是木。"
+      },
+      {
+        "char": "捂",
+        "similarity": "右邊都是吾。",
+        "difference": "悟左邊是忄；捂左邊是扌。"
+      },
+      {
+        "char": "吾",
+        "similarity": "悟的右半完整保留吾。",
+        "difference": "悟左邊多了忄。"
+      },
+      {
+        "char": "牾",
+        "similarity": "右邊都是吾。",
+        "difference": "悟左邊是忄；牾左邊是牛字旁。牾較少見，見於牴牾。"
+      }
+    ],
+    "teachingTip": "圈出共同的吾，再比較忄、日、言、木和扌；領悟的悟用忄。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

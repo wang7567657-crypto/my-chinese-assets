@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第11課_similar_shape_19d4c4dde34eef0d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "司",
+    "lessonChars": [
+      "瀑",
+      "垂",
+      "財",
+      "炫",
+      "黯",
+      "錶",
+      "衛",
+      "鬍",
+      "盈",
+      "逝",
+      "貨",
+      "司",
+      "禱",
+      "帝",
+      "訝",
+      "恍",
+      "悟",
+      "昂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "司",
+    "similarChars": [
+      {
+        "char": "伺",
+        "similarity": "右邊完整保留司。",
+        "difference": "伺左邊多了亻；司單獨成字。"
+      },
+      {
+        "char": "飼",
+        "similarity": "右邊完整保留司。",
+        "difference": "飼左邊多了食字旁。"
+      },
+      {
+        "char": "詞",
+        "similarity": "右邊完整保留司。",
+        "difference": "詞左邊多了言。"
+      },
+      {
+        "char": "嗣",
+        "similarity": "右邊完整保留司。",
+        "difference": "嗣左邊另有口、冊組合，筆畫較多。嗣較少見。"
+      },
+      {
+        "char": "祠",
+        "similarity": "右邊完整保留司。",
+        "difference": "祠左邊多了礻，如祠堂。"
+      },
+      {
+        "char": "同",
+        "similarity": "都有外框，內部都有一和口。",
+        "difference": "司左側開口；同外框左右兩邊都有豎筆。"
+      }
+    ],
+    "teachingTip": "先看司左邊是否開口，再看有沒有額外的亻、言、食字旁或礻。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

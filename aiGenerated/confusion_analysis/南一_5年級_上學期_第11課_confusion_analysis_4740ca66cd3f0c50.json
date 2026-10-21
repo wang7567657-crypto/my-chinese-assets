@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_4740ca66cd3f0c50",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "盈",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "盈",
+    "groups": {
+      "shape": [
+        {
+          "char": "盆",
+          "why": "都是上方部件加皿。",
+          "difference": "盈上方是夃，內有又形；盆上方是分。"
+        },
+        {
+          "char": "益",
+          "why": "下方同是皿，整體輪廓相近。",
+          "difference": "盈上方是夃，內有又形；益的上半不是夃，筆畫排列不同。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "迎",
+          "why": "盈與迎接的迎都讀ㄧㄥˊ。",
+          "difference": "盈餘用盈；迎接用迎。"
+        },
+        {
+          "char": "營",
+          "why": "盈與營都讀ㄧㄥˊ。",
+          "difference": "笑盈盈用盈；營地用營。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "滿",
+          "why": "盈和滿都有充滿的意思。",
+          "difference": "盈可見於充盈、盈餘；滿可見於裝滿、滿足，詞語搭配不能任意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "盤",
+          "why": "都含皿，容易把共同下半當成整字。",
+          "difference": "盈上半是夃，內有又形；盤上半是般。下半相同不代表讀音、意思相同。"
+        }
+      ]
+    },
+    "tip": "用「盈餘、迎接、營地」分同音字；寫盈先看上半夃中的又形，再看下方的皿。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

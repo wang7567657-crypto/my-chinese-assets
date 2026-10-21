@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_fae7d94c223f1e9e",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "司",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "司",
+    "groups": {
+      "shape": [
+        {
+          "char": "同",
+          "why": "外框內都有一和口。",
+          "difference": "司的外框左側開口；同的外框左側有豎筆。"
+        },
+        {
+          "char": "詞",
+          "why": "詞右半就是司。",
+          "difference": "司沒有言旁；詞左邊有言。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "思",
+          "why": "司與思考的思都讀ㄙ。",
+          "difference": "司機用司；思考用思。"
+        },
+        {
+          "char": "私",
+          "why": "司和私都讀ㄙ。",
+          "difference": "公司用司；私人用私。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "管",
+          "why": "司和管都可以有管理的意思。",
+          "difference": "司常見於司機、司令或各司其職；管可組管理、主管，不能把司機改成管機。"
+        }
+      ],
+      "component": [
+        {
+          "char": "飼",
+          "why": "右半是司，但整字讀音不同。",
+          "difference": "司讀ㄙ；飼讀ㄙˋ，如飼養，且左邊有食字旁。"
+        }
+      ]
+    },
+    "tip": "先看外框左邊有沒有豎筆，再讀「公司、思考、私人」分同音字。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第11課_similar_shape_9b447c77321df8e8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "帝",
+    "lessonChars": [
+      "瀑",
+      "垂",
+      "財",
+      "炫",
+      "黯",
+      "錶",
+      "衛",
+      "鬍",
+      "盈",
+      "逝",
+      "貨",
+      "司",
+      "禱",
+      "帝",
+      "訝",
+      "恍",
+      "悟",
+      "昂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "帝",
+    "similarChars": [
+      {
+        "char": "蹄",
+        "similarity": "蹄的右半完整保留帝。",
+        "difference": "蹄左邊多了足字旁。"
+      },
+      {
+        "char": "啼",
+        "similarity": "啼的右半完整保留帝。",
+        "difference": "啼左邊多了口。"
+      },
+      {
+        "char": "締",
+        "similarity": "締的右半完整保留帝。",
+        "difference": "締左邊多了糹。"
+      },
+      {
+        "char": "蒂",
+        "similarity": "蒂的下半完整保留帝。",
+        "difference": "蒂上方多了艹。"
+      },
+      {
+        "char": "諦",
+        "similarity": "諦的右半完整保留帝。",
+        "difference": "諦左邊多了言。"
+      },
+      {
+        "char": "啻",
+        "similarity": "啻的上半完整保留帝。",
+        "difference": "啻下方多了口。啻較少見，見於不啻。"
+      }
+    ],
+    "teachingTip": "先寫帝本身，再比較口加在左邊是啼、加在下方是啻；位置也會改變字。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}
