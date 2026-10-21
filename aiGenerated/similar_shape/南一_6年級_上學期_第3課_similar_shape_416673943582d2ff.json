@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第3課_similar_shape_416673943582d2ff",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "皆",
+    "lessonChars": [
+      "酒",
+      "醅",
+      "籬",
+      "簡",
+      "笆",
+      "陋",
+      "陳",
+      "濾",
+      "潺",
+      "舍",
+      "皆",
+      "緣",
+      "蓬",
+      "飧",
+      "兼",
+      "樽",
+      "舊",
+      "鎮",
+      "寂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "皆",
+    "similarChars": [
+      {
+        "char": "諧",
+        "similarity": "右邊完整含皆。",
+        "difference": "皆單獨成字；諧在皆左邊加言。"
+      },
+      {
+        "char": "階",
+        "similarity": "右邊完整含皆。",
+        "difference": "皆沒有左旁；階在左邊加阝。"
+      },
+      {
+        "char": "楷",
+        "similarity": "右邊完整含皆。",
+        "difference": "皆沒有左旁；楷在左邊加木。"
+      },
+      {
+        "char": "偕",
+        "similarity": "右邊完整含皆。",
+        "difference": "皆沒有左旁；偕在左邊加亻。偕較少見於日常單字練習，可先用偕同作延伸辨識。"
+      },
+      {
+        "char": "揩",
+        "similarity": "右邊完整含皆。",
+        "difference": "皆沒有左旁；揩在左邊加扌。揩較少見，作換部首辨識，不要求由皆猜它的讀音。"
+      },
+      {
+        "char": "昆",
+        "similarity": "兩字都有比與方框形部件。",
+        "difference": "皆是上比下白；昆是上日下比。部件位置交換，白還比日多一撇，不能只記兩塊的外觀。"
+      }
+    ],
+    "teachingTip": "先看皆的上比下白，白不可少撇寫成日；再在字旁另加不同部首比較階、楷、諧。共用皆不代表全部讀同一個音。"
+  },
+  "createdAt": "2026-10-21T15:57:31.064841Z"
+}

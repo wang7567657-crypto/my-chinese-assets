@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第3課_similar_shape_26bf98e8adebf670",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "蓬",
+    "lessonChars": [
+      "酒",
+      "醅",
+      "籬",
+      "簡",
+      "笆",
+      "陋",
+      "陳",
+      "濾",
+      "潺",
+      "舍",
+      "皆",
+      "緣",
+      "蓬",
+      "飧",
+      "兼",
+      "樽",
+      "舊",
+      "鎮",
+      "寂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "蓬",
+    "similarChars": [
+      {
+        "char": "篷",
+        "similarity": "下方同有「逢」。",
+        "difference": "蓬上方是艹；篷上方是竹字頭，不能互換。"
+      },
+      {
+        "char": "逢",
+        "similarity": "都可找到「夆」和辶。",
+        "difference": "蓬在逢上加艹；逢沒有艹。"
+      },
+      {
+        "char": "縫",
+        "similarity": "都含完整的「逢」。",
+        "difference": "蓬的艹在上；縫的糹在左，字的配置不同。"
+      },
+      {
+        "char": "峰",
+        "similarity": "都含「夆」，可比對上方折撇與下方丰形。",
+        "difference": "蓬是艹下有逢，另有辶；峰是山在左、夆在右。"
+      },
+      {
+        "char": "蜂",
+        "similarity": "都含「夆」。",
+        "difference": "蓬有艹和辶；蜂左邊是虫，右邊夆外沒有辶。"
+      },
+      {
+        "char": "鋒",
+        "similarity": "都含「夆」。",
+        "difference": "蓬上有艹、下含辶；鋒左邊是金字旁、右邊只有夆。"
+      }
+    ],
+    "teachingTip": "先圈出共同的夆，再看艹、竹字頭或左偏旁；最後確認有沒有辶。「蓬草」與「帳篷」要分開寫。"
+  },
+  "createdAt": "2026-10-21T15:57:31.064841Z"
+}

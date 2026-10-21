@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第3課_similar_shape_c6665f507acdf8ea",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "陳",
+    "lessonChars": [
+      "酒",
+      "醅",
+      "籬",
+      "簡",
+      "笆",
+      "陋",
+      "陳",
+      "濾",
+      "潺",
+      "舍",
+      "皆",
+      "緣",
+      "蓬",
+      "飧",
+      "兼",
+      "樽",
+      "舊",
+      "鎮",
+      "寂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "陳",
+    "similarChars": [
+      {
+        "char": "陣",
+        "similarity": "同為左阝，右側都有直豎穿過方框形。",
+        "difference": "陳右邊是東，底部有撇、捺；陣右邊是車，底部是一橫和中豎，沒有東的撇捺。"
+      },
+      {
+        "char": "東",
+        "similarity": "陳的右半完整保留東的字形。",
+        "difference": "東單獨成字；陳在東左邊多了阝。"
+      },
+      {
+        "char": "棟",
+        "similarity": "右半同為東，都是左右結構。",
+        "difference": "陳左邊是阝；棟左邊是木，不能把部首互換。"
+      },
+      {
+        "char": "凍",
+        "similarity": "右半同為東，左側都較窄。",
+        "difference": "陳左邊是阝；凍左邊是兩點水冫。"
+      },
+      {
+        "char": "練",
+        "similarity": "右側東與柬都有框形、中豎及下方撇捺。",
+        "difference": "陳是阝加東；練是糸加柬。柬的框內有兩個分開的小筆畫，不是東的日形。"
+      },
+      {
+        "char": "諫",
+        "similarity": "右側東與柬的外輪廓相近。",
+        "difference": "陳左阝、右東；諫左言、右柬，需同時核對左部與框內筆畫。"
+      }
+    ],
+    "teachingTip": "先比較陳、陣的右半，再做陳、棟、凍的換部首練習。臺灣標準字形的左阝是三畫；東的中豎不鉤。"
+  },
+  "createdAt": "2026-10-21T15:57:31.064841Z"
+}

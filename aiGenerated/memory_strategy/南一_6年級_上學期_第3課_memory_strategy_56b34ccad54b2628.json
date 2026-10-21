@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第3課_memory_strategy_56b34ccad54b2628",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "簡",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "簡",
+    "components": [
+      "竹字頭（在上）",
+      "間（在下，門內是日）"
+    ],
+    "association": "這是記字聯想，不是字源解釋：想像門邊放著竹片，日光照進門內，提醒自己上方有竹字頭、下方門內要寫日。",
+    "mnemonic": "竹頭在上面，門中一個日；簡單的簡，讀第三聲。",
+    "visualPrompt": "白底教學卡，中央寫完整標準字形「簡」，上方竹字頭與下方間分色，門內日加細框。字旁另畫門邊竹片與陽光，圖像不放進字內，不把日改成太陽圖，不把門內寫成月。",
+    "teachingTip": "先觀察上下結構，再指認間中的日；遮住範字寫一次後核對。聯想畫面不是字源，也不改動標準筆畫。"
+  },
+  "createdAt": "2026-10-21T15:57:31.064841Z"
+}

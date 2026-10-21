@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第3課_similar_shape_c18af633176a6e2c",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "樽",
+    "lessonChars": [
+      "酒",
+      "醅",
+      "籬",
+      "簡",
+      "笆",
+      "陋",
+      "陳",
+      "濾",
+      "潺",
+      "舍",
+      "皆",
+      "緣",
+      "蓬",
+      "飧",
+      "兼",
+      "樽",
+      "舊",
+      "鎮",
+      "寂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "樽",
+    "similarChars": [
+      {
+        "char": "尊",
+        "similarity": "樽的右半就是尊。",
+        "difference": "樽左邊另有木；尊單獨成字，沒有木旁。"
+      },
+      {
+        "char": "遵",
+        "similarity": "都含尊。",
+        "difference": "樽為左木右尊；遵以辶包承尊，不加木旁。"
+      },
+      {
+        "char": "蹲",
+        "similarity": "右半同為尊。",
+        "difference": "樽左邊是木；蹲左邊是足字旁。"
+      },
+      {
+        "char": "撙",
+        "similarity": "右半同為尊。",
+        "difference": "樽左邊是木；撙左邊是扌。撙較少見，常見於「撙節」，作延伸辨形。"
+      },
+      {
+        "char": "鱒",
+        "similarity": "右半同為尊。",
+        "difference": "樽左邊是木；鱒左邊是魚。"
+      },
+      {
+        "char": "罇",
+        "similarity": "右半同為尊。",
+        "difference": "樽左邊是木；罇左邊是缶。罇是樽的少見異體，本課採正字樽。"
+      }
+    ],
+    "teachingTip": "把共同的尊框起來，再看木、辶、足字旁等外部差別。樽的木旁不可漏；尊下方的寸也要保留。"
+  },
+  "createdAt": "2026-10-21T15:57:31.064841Z"
+}

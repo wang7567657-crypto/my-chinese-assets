@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第3課_similar_shape_b288053b40982a98",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "寂",
+    "lessonChars": [
+      "酒",
+      "醅",
+      "籬",
+      "簡",
+      "笆",
+      "陋",
+      "陳",
+      "濾",
+      "潺",
+      "舍",
+      "皆",
+      "緣",
+      "蓬",
+      "飧",
+      "兼",
+      "樽",
+      "舊",
+      "鎮",
+      "寂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "寂",
+    "similarChars": [
+      {
+        "char": "叔",
+        "similarity": "寂的宀下方就是叔。",
+        "difference": "寂上面有宀；叔單獨成字沒有宀。"
+      },
+      {
+        "char": "淑",
+        "similarity": "都含叔。",
+        "difference": "寂的宀在上；淑的氵在左，叔的位置與外部部件不同。"
+      },
+      {
+        "char": "椒",
+        "similarity": "都含叔。",
+        "difference": "寂上宀下叔；椒左木右叔。"
+      },
+      {
+        "char": "菽",
+        "similarity": "都在叔上方加字頭。",
+        "difference": "寂上方是宀；菽上方是艹。菽較少見，是豆類的書面用字，作延伸辨形。"
+      },
+      {
+        "char": "督",
+        "similarity": "都含叔，整體都有上下結構。",
+        "difference": "寂上宀下叔；督上叔下目，叔在不同位置。"
+      },
+      {
+        "char": "俶",
+        "similarity": "都含叔。",
+        "difference": "寂在叔上加宀；俶在叔左加亻。俶為少見字，只作部件辨識。"
+      }
+    ],
+    "teachingTip": "先把叔框起來，再找字頭或左旁。寂是宀在叔上面；不要把宀換成艹，也不要漏掉叔右邊的又。"
+  },
+  "createdAt": "2026-10-21T15:57:31.064841Z"
+}
