@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第9課_confusion_analysis_1281454f1cfde7c9",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "艘",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "艘",
+    "groups": {
+      "shape": [
+        {
+          "char": "搜",
+          "why": "右側完全相同，左偏旁容易互換。",
+          "difference": "艘用舟；搜用扌。船的量詞寫艘。"
+        },
+        {
+          "char": "瘦",
+          "why": "都有叟，快寫時容易只記住中間。",
+          "difference": "艘左舟右叟；瘦外有疒。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "搜",
+          "why": "共用叟，容易直接套用搜尋的讀音。",
+          "difference": "以主讀音ㄙㄠ與搜尋的搜ㄙㄡ比較是近音。臺灣MOE簡編本「艘」讀ㄙㄠ；異體字字典另列又音ㄙㄡ，艘若讀又音ㄙㄡ則與搜同音。教學主讀音以ㄙㄠ標示。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "隻",
+          "why": "都是可計數的量詞。",
+          "difference": "艘專用於計算船隻、艦艇，如一艘船；隻可用於鳥等動物，不能每次都用隻代替艘。"
+        }
+      ],
+      "component": [
+        {
+          "char": "叟",
+          "why": "叟的中豎或下方又容易寫漏。",
+          "difference": "艘的右叟中豎要保留，向下輕觸又；左邊還須有舟。"
+        }
+      ]
+    },
+    "tip": "形看舟，音記ㄙㄠ；讀「一艘船」時同步指向左側舟字旁。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

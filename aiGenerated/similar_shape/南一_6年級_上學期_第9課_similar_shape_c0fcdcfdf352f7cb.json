@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第9課_similar_shape_c0fcdcfdf352f7cb",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "targetChar": "倉",
+    "lessonChars": [
+      "召",
+      "否",
+      "簸",
+      "策",
+      "江",
+      "瀰",
+      "懸",
+      "寡",
+      "勃",
+      "棍",
+      "糧",
+      "顛",
+      "獻",
+      "艘",
+      "鎖",
+      "欠",
+      "倉",
+      "鞏",
+      "鼎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "倉",
+    "similarChars": [
+      {
+        "char": "蒼",
+        "similarity": "下方完整包含倉。",
+        "difference": "蒼在倉上加艹；倉沒有草字頭。"
+      },
+      {
+        "char": "滄",
+        "similarity": "右側完整包含倉。",
+        "difference": "滄在倉左邊加氵；倉本身沒有水旁。"
+      },
+      {
+        "char": "艙",
+        "similarity": "右側完整包含倉。",
+        "difference": "艙左側加舟；倉沒有舟字旁。"
+      },
+      {
+        "char": "搶",
+        "similarity": "右側完整包含倉。",
+        "difference": "搶左側加扌；倉沒有提手旁。"
+      },
+      {
+        "char": "槍",
+        "similarity": "右側完整包含倉。",
+        "difference": "槍左側加木；倉沒有木字旁。"
+      },
+      {
+        "char": "創",
+        "similarity": "左側保留倉的主要結構。",
+        "difference": "創在倉右邊加刂；倉作左偏旁時，頂部捺改頓點。"
+      }
+    ],
+    "teachingTip": "先完整認出倉，再找字頭或左右新增的偏旁；倉上方人形下的短橫不要接到撇捺。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

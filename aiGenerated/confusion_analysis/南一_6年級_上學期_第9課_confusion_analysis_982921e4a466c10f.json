@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第9課_confusion_analysis_982921e4a466c10f",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "勃",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "勃",
+    "groups": {
+      "shape": [
+        {
+          "char": "渤",
+          "why": "右半直接是勃，容易漏看左邊的水旁。",
+          "difference": "蓬勃用勃；渤海用渤，多了氵。"
+        },
+        {
+          "char": "脖",
+          "why": "孛的形狀相同，可能把部件放錯邊。",
+          "difference": "勃的力在右；脖的肉旁在左，孛在右。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "搏",
+          "why": "「蓬勃」的勃與「搏鬥」的搏同讀ㄅㄛˊ。",
+          "difference": "勃可形容旺盛；搏用於搏鬥、脈搏，不能因同音替換。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "旺",
+          "why": "都能形容生長或氣勢盛。",
+          "difference": "可說生氣勃勃、興致勃勃；旺常用於旺盛、興旺，固定詞語要整體記。"
+        }
+      ],
+      "component": [
+        {
+          "char": "子",
+          "why": "勃左下看起來像子，末筆容易照單字寫平。",
+          "difference": "孛位於勃的左半時，子的末橫改作斜挑；右邊仍要保留力。"
+        }
+      ]
+    },
+    "tip": "讀「生氣勃勃」記詞義，寫時說「左孛右力」。不要把渤、脖只當成換一個同位置偏旁的字。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

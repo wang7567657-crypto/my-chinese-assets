@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第9課_confusion_analysis_9443748d3718f51e",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "倉",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "倉",
+    "groups": {
+      "shape": [
+        {
+          "char": "艙",
+          "why": "艙含倉，又都可與存放物品有關。",
+          "difference": "貨倉的倉不帶舟；船艙的艙有左舟。"
+        },
+        {
+          "char": "蒼",
+          "why": "只差上方草字頭，容易漏寫或多寫。",
+          "difference": "倉庫寫倉；蒼白寫蒼，須有艹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "艙",
+          "why": "倉與艙同讀ㄘㄤ。",
+          "difference": "現代常用詞分別寫倉庫、船艙；同音時依用途選偏旁。"
+        },
+        {
+          "char": "蒼",
+          "why": "倉與蒼同讀ㄘㄤ。",
+          "difference": "倉庫指儲物場所；蒼白形容顏色，寫有艹的蒼。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "艙",
+          "why": "倉與艙的詞義在舊用法中有交集，容易以為所有情境都通用。",
+          "difference": "現代課堂以倉庫、貨倉與船艙、機艙區分；古書中倉可通艙，不把古用法一概說成錯字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "口",
+          "why": "倉底部有口形，容易被中層折筆遮住。",
+          "difference": "底部口須完整保留；上方還有各層筆畫，不能把倉簡略成只有人與口。"
+        }
+      ]
+    },
+    "tip": "先看是否有舟、氵或艹，再用倉庫、船艙、蒼白等詞語選字。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

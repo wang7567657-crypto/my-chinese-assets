@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第9課_confusion_analysis_8413281fa6b3a538",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "鞏",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "鞏",
+    "groups": {
+      "shape": [
+        {
+          "char": "恐",
+          "why": "上半完全相同，快寫時可能套用熟悉字。",
+          "difference": "恐下心；鞏下革。鞏固不可寫成恐固。"
+        },
+        {
+          "char": "築",
+          "why": "都含工與旁邊帶點部件，容易混記所在位置。",
+          "difference": "築另有上竹、下木；鞏的下半是革。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "恐",
+          "why": "鞏ㄍㄨㄥˇ與恐ㄎㄨㄥˇ為近音，韻母、聲調相同。",
+          "difference": "鞏以ㄍ起音，用於鞏固；恐以ㄎ起音，用於恐怕。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "固",
+          "why": "鞏與固都有牢固的意思，常組成鞏固。",
+          "difference": "鞏固常指使基礎或成果更牢靠；固也可用於固定、堅固，兩字不能在所有詞中任意交換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "革",
+          "why": "鞏下半筆畫多，容易把中豎寫短或漏掉。",
+          "difference": "下半須寫完整革，中豎向上接到廿；不能換成恐的心。"
+        }
+      ]
+    },
+    "tip": "用「恐下心，鞏下革」記位置；鞏固讀ㄍㄨㄥˇ ㄍㄨˋ，不要套成恐的ㄎ音。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

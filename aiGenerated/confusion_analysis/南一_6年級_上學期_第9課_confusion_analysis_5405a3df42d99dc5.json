@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第9課_confusion_analysis_5405a3df42d99dc5",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "鼎",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "鼎",
+    "groups": {
+      "shape": [
+        {
+          "char": "鼐",
+          "why": "主體都是鼎，只看下半容易看成同字。",
+          "difference": "鼐在鼎上有乃，鼎沒有；鼐是罕用字，辨識即可。"
+        },
+        {
+          "char": "鼑",
+          "why": "主體接近，且確實具有異體關係。",
+          "difference": "鼑是字典收錄的鼎異體，上有卜形；本課描寫採鼎。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "頂",
+          "why": "鼎、頂同讀ㄉㄧㄥˇ。",
+          "difference": "鼎可指古代器物；山頂的頂指最高處，用丁加頁的頂。聲音相同而字形、詞義不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "鍋",
+          "why": "鼎與鍋都可作烹煮食物的器具。",
+          "difference": "鼎是古代器物，常見三足兩耳，也有四足方鼎；現代日常煮食常說鍋。不能把所有鍋都叫鼎。"
+        }
+      ],
+      "component": [
+        {
+          "char": "目",
+          "why": "鼎上中部看起來就是目，可能只寫目而漏掉下方。",
+          "difference": "鼎不只目；下左形似爿、下右形似片，兩邊筆畫不同，不可畫成完全鏡像。"
+        }
+      ]
+    },
+    "tip": "上看目，下分左右；讀ㄉㄧㄥˇ時用古鼎與山頂的詞義區分同音字。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

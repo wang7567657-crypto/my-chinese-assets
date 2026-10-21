@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第9課_memory_strategy_0c91c02cbd3f4448",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "鼎",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "鼎",
+    "components": [
+      "上中：目形",
+      "下左：形似爿的筆畫組",
+      "下右：形似片的筆畫組"
+    ],
+    "association": "教學聯想，非字源：看著古鼎照片，想像上方盛物、下方穩穩站立，藉此記住上下層次；下方實際筆畫仍按標準字寫，不能改畫成三隻腳。",
+    "mnemonic": "上中目，下面分左右；左邊右邊各不同。",
+    "visualPrompt": "呈現臺灣標準完整「鼎」字，上中目、下左、下右以三色區分；字旁另畫古鼎器物，器物的足與耳不替代字的任何筆畫。",
+    "teachingTip": "目中兩橫清楚；下方左右豎筆上端不出頭，右下末筆是橫折。提醒學生左右並非完全對稱，不能按器物照片自行增減筆畫。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

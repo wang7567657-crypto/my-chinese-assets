@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第9課_memory_strategy_ae86308a1bac92e0",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "倉",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "倉",
+    "components": [
+      "上：人形及其下短橫",
+      "中：折筆與左側撇筆構成的層次",
+      "下：口形"
+    ],
+    "association": "教學聯想，非字源：把倉想成整齊的儲物空間，上方像屋頂，中間分層，下方口形像入口；這只是定位筆畫的方法。",
+    "mnemonic": "人頭短橫留空隙，中間分層下有口。",
+    "visualPrompt": "呈現臺灣標準完整「倉」字，頂部、中層、底部口分區著色；字旁另畫裝有米袋的倉庫，不用屋頂或門的圖案取代筆畫。",
+    "teachingTip": "人形下的短橫不接撇、捺；分層觀察但不把中間隨意替換成日或尸，描寫時以標準完整字形為準。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

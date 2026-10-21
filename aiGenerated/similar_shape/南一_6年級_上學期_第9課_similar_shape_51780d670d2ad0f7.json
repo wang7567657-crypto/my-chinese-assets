@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第9課_similar_shape_51780d670d2ad0f7",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "targetChar": "艘",
+    "lessonChars": [
+      "召",
+      "否",
+      "簸",
+      "策",
+      "江",
+      "瀰",
+      "懸",
+      "寡",
+      "勃",
+      "棍",
+      "糧",
+      "顛",
+      "獻",
+      "艘",
+      "鎖",
+      "欠",
+      "倉",
+      "鞏",
+      "鼎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "艘",
+    "similarChars": [
+      {
+        "char": "搜",
+        "similarity": "右側都是叟。",
+        "difference": "艘左舟，搜左扌；計算船隻用艘，搜尋用搜。"
+      },
+      {
+        "char": "嫂",
+        "similarity": "右側都是叟。",
+        "difference": "艘左舟，嫂左女。"
+      },
+      {
+        "char": "餿",
+        "similarity": "右側都是叟。",
+        "difference": "艘左舟，餿左食字旁。"
+      },
+      {
+        "char": "溲",
+        "similarity": "右側都是叟。",
+        "difference": "溲是較少見的字，左氵；艘左舟。"
+      },
+      {
+        "char": "瘦",
+        "similarity": "都有完整叟部件。",
+        "difference": "瘦由疒包住叟的上方與左側；艘是舟、叟左右並排。"
+      },
+      {
+        "char": "叟",
+        "similarity": "就是艘右側的共同部件。",
+        "difference": "叟單獨成字，左邊沒有舟；艘必須保留舟。"
+      }
+    ],
+    "teachingTip": "以「一艘船」先找舟字旁，再與搜、嫂比較；不因共同叟部件就把所有字讀成同一音。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

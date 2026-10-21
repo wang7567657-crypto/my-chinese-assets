@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第9課_confusion_analysis_4065786eba4d8ae5",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "獻",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "獻",
+    "groups": {
+      "shape": [
+        {
+          "char": "獄",
+          "why": "兩字右側都是犬，左側又都較繁複。",
+          "difference": "獻左邊是虍與鬲組成的鬳；獄左邊有犭、言。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "現",
+          "why": "獻與現同讀ㄒㄧㄢˋ，是同音字。",
+          "difference": "獻花的獻表示奉上；現在、現況的現表示目前、當前。同音時靠詞義選字，不能把獻花寫成現花。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "捐",
+          "why": "捐獻、奉獻都可表示付出。",
+          "difference": "獻著重奉上或展現，如獻花、獻藝；捐助常指拿出財物幫助人。詞語依情境選用。"
+        }
+      ],
+      "component": [
+        {
+          "char": "犬",
+          "why": "獻右邊就是犬，容易漏掉其右上點。",
+          "difference": "犬比大多右上一點；獻須保留這一點，且點不碰橫筆。"
+        }
+      ]
+    },
+    "tip": "先找左側虍與鬲，再檢查右犬的小點；用「獻花」理解奉上的意思。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

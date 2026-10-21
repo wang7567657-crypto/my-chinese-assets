@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第9課_memory_strategy_5cf3040d88398e75",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "棍",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "棍",
+    "components": [
+      "木（左）",
+      "昆（右：上日、下比）"
+    ],
+    "association": "想像用一根木棍，在日光下比較兩段距離；用木、日、比幫忙記位置。這只是教學聯想，不是字源解釋。",
+    "mnemonic": "木在左，昆在右；日下有比，記木棍。",
+    "visualPrompt": "完整呈現臺灣標準楷體「棍」，框出左木、右昆，昆再以淡色標出上日下比；木旁末捺為點。字旁畫一根木棍和兩段待比較的距離，圖片不插入字內或代替筆畫。",
+    "teachingTip": "提醒比左右不是相同的兩個匕；木旁的豎不鉤、末筆是點。先看完整標準字，再用口訣回想。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

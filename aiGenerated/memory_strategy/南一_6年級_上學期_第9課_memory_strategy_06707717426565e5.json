@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第9課_memory_strategy_06707717426565e5",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "顛",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "顛",
+    "components": [
+      "真（左）",
+      "頁（右）"
+    ],
+    "association": "想像登到山頂，停下來認真看一頁登山紀錄，用「真、頁」記左右位置。這是教學聯想，不是顛的字源。",
+    "mnemonic": "左真右邊頁，顛倒不加山。",
+    "visualPrompt": "完整呈現臺灣標準楷體「顛」，左真與右頁各用淡框標示；保留真內三橫和下方長橫，頁頂部橫、撇完整。旁邊畫登山紀錄本和山頂小旗，圖案不替換筆畫。",
+    "teachingTip": "先練真、頁再合寫。以顛倒記顛、山巔記巔，但要說明顛也有頂端義，不能把口訣當成所有用法的規則。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

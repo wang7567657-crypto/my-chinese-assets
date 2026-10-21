@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第9課_memory_strategy_7debc1fec1a54286",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "糧",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "糧",
+    "components": [
+      "米（左）",
+      "量（右：上半如旦，下半如里）"
+    ],
+    "association": "想像煮飯前先量好米，再把剩下的米糧收好，用左米右量記位置。這是教學聯想，不是糧的字源。",
+    "mnemonic": "米在左，量在右；備好糧食不遺漏。",
+    "visualPrompt": "完整呈現臺灣標準楷體「糧」，淡框區分左米、右量，右量再提示上如旦、下如里；米旁上下四筆與中間橫豎保持標準間隔。字旁畫量杯和一袋米，米粒圖不代替筆畫。",
+    "teachingTip": "先寫完整量，再加左米練字形。強調量的字形不因讀音改變；讀糧食時糧是ㄌㄧㄤˊ。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}
