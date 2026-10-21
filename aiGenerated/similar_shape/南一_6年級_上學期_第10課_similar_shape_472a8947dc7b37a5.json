@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第10課_similar_shape_472a8947dc7b37a5",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "鉅",
+    "lessonChars": [
+      "傾",
+      "俐",
+      "蕩",
+      "莫",
+      "鉅",
+      "鑼",
+      "亦",
+      "頃",
+      "猶",
+      "墊",
+      "舀",
+      "複",
+      "勾",
+      "篇",
+      "靡",
+      "嘖",
+      "述",
+      "詫"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "鉅",
+    "similarChars": [
+      {
+        "char": "巨",
+        "similarity": "鉅的右半就是巨，橫折及豎向筆形相同。",
+        "difference": "鉅左邊另有金旁；巨沒有金旁。"
+      },
+      {
+        "char": "拒",
+        "similarity": "右半同為巨，都是左右排列。",
+        "difference": "鉅左邊是金旁；拒左邊是扌。"
+      },
+      {
+        "char": "炬",
+        "similarity": "右半同為巨，左邊都有向外伸出的點撇筆形。",
+        "difference": "鉅左邊是金旁；炬左邊是火旁，不能只記住右邊巨。"
+      },
+      {
+        "char": "距",
+        "similarity": "右半完整保留巨。",
+        "difference": "鉅左邊是金旁；距左邊是足旁，足旁上有口。"
+      },
+      {
+        "char": "矩",
+        "similarity": "都是左側部件配上右側巨。",
+        "difference": "鉅左邊是金旁；矩左邊是矢，左側的筆形不同。"
+      },
+      {
+        "char": "苣",
+        "similarity": "兩字都含有巨。",
+        "difference": "鉅左金右巨；苣上艹下巨，附加部件的位置不同。苣較少見，可在萵苣一詞中認識。"
+      }
+    ],
+    "teachingTip": "將右側巨固定，輪流辨認金、扌、火、足、矢，再看苣把艹放在上面。每次先指出金旁，再寫出本課的鉅。"
+  },
+  "createdAt": "2026-10-21T23:00:12.047990Z"
+}

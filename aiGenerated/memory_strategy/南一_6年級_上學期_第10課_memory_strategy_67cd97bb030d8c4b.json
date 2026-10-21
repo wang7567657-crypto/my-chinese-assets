@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第10課_memory_strategy_67cd97bb030d8c4b",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "篇",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "篇",
+    "components": [
+      "上：竹字頭",
+      "下：扁（上戶，下為冊的變形）"
+    ],
+    "association": "教學聯想，非字源：想像用竹製書籤標出讀完的一篇文章，竹書籤提醒上方竹字頭，文章名牌提醒下方扁的完整外形。",
+    "mnemonic": "竹頭站上方，下面扁不忘；一篇文章細細看。",
+    "visualPrompt": "呈現臺灣標準完整「篇」字，上竹字頭、下扁分色，戶的起筆與下方框格保持清楚；字旁另畫夾有竹書籤的文章頁面，圖像不替代或遮住任何筆畫。",
+    "teachingTip": "把篇、編、遍並排，先找扁再辨偏旁；下扁的戶起筆寫撇，不因聯想改畫成門或書本。"
+  },
+  "createdAt": "2026-10-21T23:00:12.047990Z"
+}

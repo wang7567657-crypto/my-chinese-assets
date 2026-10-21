@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第10課_similar_shape_eafe96c54fc44da3",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "詫",
+    "lessonChars": [
+      "傾",
+      "俐",
+      "蕩",
+      "莫",
+      "鉅",
+      "鑼",
+      "亦",
+      "頃",
+      "猶",
+      "墊",
+      "舀",
+      "複",
+      "勾",
+      "篇",
+      "靡",
+      "嘖",
+      "述",
+      "詫"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "詫",
+    "similarChars": [
+      {
+        "char": "宅",
+        "similarity": "就是詫右半的完整部件。",
+        "difference": "宅單獨成字；詫在宅左邊加言字旁。"
+      },
+      {
+        "char": "侘",
+        "similarity": "右側同為宅。",
+        "difference": "侘是較少見的字，左人字旁；詫左言字旁。"
+      },
+      {
+        "char": "咤",
+        "similarity": "右側同為宅，左側都有口形。",
+        "difference": "咤左口；詫左言。咤在部分用法中是詫的異體，也可作吒的異體；本課詫異採詫。"
+      },
+      {
+        "char": "姹",
+        "similarity": "右側同為宅。",
+        "difference": "姹是奼的異體，左女；詫左言。只比較字形，不把姹當成詫的標準寫法。"
+      },
+      {
+        "char": "託",
+        "similarity": "左側同為言，右下都含乇。",
+        "difference": "託右邊只有乇；詫右邊是宅，在乇上方還有宀。"
+      },
+      {
+        "char": "奼",
+        "similarity": "右側都能找到乇部件。",
+        "difference": "奼是較少見的字，左女、右乇；詫左言，右乇上方另有宀。"
+      }
+    ],
+    "teachingTip": "先比較詫與託是否有宀，再以宅為共同部件辨認侘、咤、姹。異體與罕用字只供辨形，課堂寫詫異用詫。"
+  },
+  "createdAt": "2026-10-21T23:00:12.047990Z"
+}

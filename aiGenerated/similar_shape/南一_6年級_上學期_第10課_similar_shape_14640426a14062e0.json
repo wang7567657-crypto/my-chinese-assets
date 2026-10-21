@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第10課_similar_shape_14640426a14062e0",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "述",
+    "lessonChars": [
+      "傾",
+      "俐",
+      "蕩",
+      "莫",
+      "鉅",
+      "鑼",
+      "亦",
+      "頃",
+      "猶",
+      "墊",
+      "舀",
+      "複",
+      "勾",
+      "篇",
+      "靡",
+      "嘖",
+      "述",
+      "詫"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "述",
+    "similarChars": [
+      {
+        "char": "術",
+        "similarity": "都含朮，中央的小點及下方筆畫組相同。",
+        "difference": "述由辶托住朮；術把朮放在行的中間。"
+      },
+      {
+        "char": "朮",
+        "similarity": "就是述在辶內的部件。",
+        "difference": "朮是較少見的獨立字，外面沒有辶；述須有辶。"
+      },
+      {
+        "char": "怵",
+        "similarity": "都含朮。",
+        "difference": "怵左忄、右朮；述的朮外是辶。"
+      },
+      {
+        "char": "沭",
+        "similarity": "都含朮。",
+        "difference": "沭是罕用字，左氵、右朮；述用辶，不用氵。"
+      },
+      {
+        "char": "秫",
+        "similarity": "都含朮。",
+        "difference": "秫是罕用字，左禾、右朮；述沒有左禾，而有辶。"
+      },
+      {
+        "char": "迷",
+        "similarity": "都有辶，內部都有橫豎與向兩旁分開的筆畫。",
+        "difference": "述裡面是朮；迷裡面是米。不可只看辶就認作同一字。"
+      }
+    ],
+    "teachingTip": "先在術、朮、怵、沭、秫中找出共同朮，再用有沒有辶辨認述；罕用字只做部件比對，不要求熟記字義。"
+  },
+  "createdAt": "2026-10-21T23:00:12.047990Z"
+}

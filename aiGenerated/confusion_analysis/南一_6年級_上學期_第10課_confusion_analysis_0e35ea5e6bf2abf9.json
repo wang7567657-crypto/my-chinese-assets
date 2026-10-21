@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第10課_confusion_analysis_0e35ea5e6bf2abf9",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "嘖",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "嘖",
+    "groups": {
+      "shape": [
+        {
+          "char": "責",
+          "why": "只差左口，閱讀太快或漏寫偏旁時會混淆。",
+          "difference": "嘖嘖的嘖有口；責任的責沒有口。"
+        },
+        {
+          "char": "漬",
+          "why": "右責相同，小口可能與左側零散的點混看。",
+          "difference": "嘖嘖稱奇左口；汙漬左氵。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "責",
+          "why": "同音：嘖與責都讀ㄗㄜˊ。",
+          "difference": "嘖嘖可模擬讚嘆或驚奇的聲音；責用於責任、負責。不能因同音省掉嘖的口。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "讚",
+          "why": "嘖嘖在稱讚的情境中，容易被當成讚的完全同義字。",
+          "difference": "嘖嘖著重發出的聲音，也可表驚奇；讚表示稱許。嘖嘖稱讚中兩者各有作用。"
+        }
+      ],
+      "component": [
+        {
+          "char": "責",
+          "why": "右責的上部與下貝都較密集，容易漏筆或錯換成別的貝部字。",
+          "difference": "上部一豎配三橫，下面是貝；下橫較長，貝的末兩筆要保留。"
+        }
+      ]
+    },
+    "tip": "把嘖嘖與責任並排朗讀：同音ㄗㄜˊ，左口不同。先聽詞義，再檢查右責的上下兩層。"
+  },
+  "createdAt": "2026-10-21T23:00:12.047990Z"
+}

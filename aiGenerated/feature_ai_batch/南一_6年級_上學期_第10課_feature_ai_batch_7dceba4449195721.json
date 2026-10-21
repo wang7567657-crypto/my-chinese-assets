@@ -1,0 +1,67 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_6年級_上學期_第10課_feature_ai_batch_7dceba4449195721",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "context": {
+      "publisher": "南一",
+      "grade": "6年級",
+      "semester": "上學期",
+      "lesson": "第10課"
+    },
+    "featureTaskType": "memory_strategy",
+    "featureName": "記憶策略",
+    "itemCount": 18,
+    "batchCharacters": [
+      "傾",
+      "俐",
+      "蕩",
+      "莫",
+      "鉅",
+      "鑼",
+      "亦",
+      "頃",
+      "猶",
+      "墊",
+      "舀",
+      "複",
+      "勾",
+      "篇",
+      "靡",
+      "嘖",
+      "述",
+      "詫"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 18,
+    "resultPaths": [
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_c0ce70bd3b6640e1.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_c0979212cf6c4d54.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_662a51ad1e558927.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_17b3ead8a45a474b.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_7bf4a13618cbdca6.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_f24659735b962a6f.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_8eb66e9f4f81e840.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_d37aa84633b94db2.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_c508a8621644860d.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_454d1bcdbb9a9419.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_f7761a556629dcec.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_bdd0b4cd80a9fb07.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_76ce4fe42314a7c9.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_67cd97bb030d8c4b.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_65a7bab3097b95e7.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_1543a9091c028d66.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_073259707dcf77a3.json",
+      "aiGenerated/memory_strategy/南一_6年級_上學期_第10課_memory_strategy_be8738594fff9d0c.json"
+    ]
+  },
+  "createdAt": "2026-10-21T23:00:12.047990Z"
+}

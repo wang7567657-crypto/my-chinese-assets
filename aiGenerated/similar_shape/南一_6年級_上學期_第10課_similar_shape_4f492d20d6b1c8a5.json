@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第10課_similar_shape_4f492d20d6b1c8a5",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "俐",
+    "lessonChars": [
+      "傾",
+      "俐",
+      "蕩",
+      "莫",
+      "鉅",
+      "鑼",
+      "亦",
+      "頃",
+      "猶",
+      "墊",
+      "舀",
+      "複",
+      "勾",
+      "篇",
+      "靡",
+      "嘖",
+      "述",
+      "詫"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "俐",
+    "similarChars": [
+      {
+        "char": "利",
+        "similarity": "俐的右半就是利，都包含禾與刂。",
+        "difference": "俐左邊多亻；利本身沒有亻。"
+      },
+      {
+        "char": "莉",
+        "similarity": "兩字都有完整的利。",
+        "difference": "俐為左亻右利；莉為上艹下利，附加部件的位置不同。"
+      },
+      {
+        "char": "梨",
+        "similarity": "兩字都保留利的筆形。",
+        "difference": "俐把亻放在利左側；梨把木放在利下方，是上下結構。"
+      },
+      {
+        "char": "痢",
+        "similarity": "兩字內部都有利。",
+        "difference": "俐左加亻；痢由疒包住利的上方和左方。"
+      },
+      {
+        "char": "例",
+        "similarity": "都為亻旁，右側末端都有刂。",
+        "difference": "俐右側是利，其中刂左邊為禾；例右側是列，其中刂左邊為歹。"
+      },
+      {
+        "char": "俚",
+        "similarity": "都為左亻右部件，右邊有橫豎交錯的筆形。",
+        "difference": "俐右為禾加刂；俚右為里，沒有獨立的刂。"
+      }
+    ],
+    "teachingTip": "框出共同的「利」，辨認它外面的亻、艹、木、疒；再特別比較「俐、例」右側刂左邊的禾與歹。"
+  },
+  "createdAt": "2026-10-21T23:00:12.047990Z"
+}
