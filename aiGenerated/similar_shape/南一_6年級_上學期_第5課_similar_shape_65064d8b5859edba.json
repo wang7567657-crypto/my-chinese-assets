@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第5課_similar_shape_65064d8b5859edba",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "避",
+    "lessonChars": [
+      "益",
+      "監",
+      "避",
+      "迅",
+      "滅",
+      "液",
+      "載",
+      "援",
+      "承",
+      "攝",
+      "撈",
+      "副",
+      "噪",
+      "燒",
+      "蝕",
+      "觸",
+      "陌",
+      "檔",
+      "註"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "避",
+    "similarChars": [
+      {
+        "char": "壁",
+        "similarity": "兩字都含「辟」部件。",
+        "difference": "避以辶承托辟；壁在辟下方加土，沒有辶。"
+      },
+      {
+        "char": "臂",
+        "similarity": "兩字都含「辟」部件。",
+        "difference": "臂在辟下方加肉月旁；避外面是辶。"
+      },
+      {
+        "char": "劈",
+        "similarity": "兩字上部或內部都可找到辟。",
+        "difference": "劈下方是刀；避是辶包住辟的左下方。"
+      },
+      {
+        "char": "闢",
+        "similarity": "兩字都含完整辟。",
+        "difference": "闢是門包辟；避沒有門框，左下有辶。"
+      },
+      {
+        "char": "僻",
+        "similarity": "兩字都含完整辟。",
+        "difference": "僻左邊是亻；避左下方是辶。"
+      },
+      {
+        "char": "癖",
+        "similarity": "兩字都含完整辟。",
+        "difference": "癖外面是疒；避外面是辶，不要混淆外部偏旁。"
+      }
+    ],
+    "teachingTip": "先把共同的辟找出，再用手指沿外側辨認辶、門、亻、疒，以及下方土、月、刀。避的辟由左側尸、口和右側辛組成；例字並非本課詞語清單。"
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}

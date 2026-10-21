@@ -1,0 +1,65 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第5課_confusion_analysis_2e28fe5b78b59de4",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "燒",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "燒",
+    "groups": {
+      "shape": [
+        {
+          "char": "澆",
+          "why": "同有堯，左旁又都由較短筆畫組成。",
+          "difference": "燒左火；澆左三點水。"
+        },
+        {
+          "char": "曉",
+          "why": "兩字的右半完全相同。",
+          "difference": "燒左火；曉左日。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "稍",
+          "why": "稍微的稍讀ㄕㄠ，與燒同音。",
+          "difference": "稍微表示程度少；燃燒表示著火，須依詞語選字。"
+        },
+        {
+          "char": "梢",
+          "why": "樹梢的梢讀ㄕㄠ，與燒同音。",
+          "difference": "梢指樹枝末端等；燒與著火或加熱等用法有關。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "燃",
+          "why": "燃與燒都可用於物體著火。",
+          "difference": "燃燒可連用；日常說燒水、發燒，不能一律將燒替換成燃。"
+        },
+        {
+          "char": "烤",
+          "why": "兩字都可涉及加熱。",
+          "difference": "烤常指以熱源烘烤；燒的用法較多，如燒水、燒磚。"
+        }
+      ],
+      "component": [
+        {
+          "char": "堯",
+          "why": "可能只記住堯而漏掉火字旁。",
+          "difference": "燒是火加堯；堯的上部三個土要完整，下部是兀。"
+        }
+      ]
+    },
+    "tip": "看左旁選字，再檢查堯的「三土、兀」。讀音練習可用燃燒、稍微、樹梢；這些是一般辨字例詞，未指定本課句子。"
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}

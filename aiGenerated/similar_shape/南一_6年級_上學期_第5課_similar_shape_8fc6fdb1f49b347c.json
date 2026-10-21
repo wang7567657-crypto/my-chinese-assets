@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第5課_similar_shape_8fc6fdb1f49b347c",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "副",
+    "lessonChars": [
+      "益",
+      "監",
+      "避",
+      "迅",
+      "滅",
+      "液",
+      "載",
+      "援",
+      "承",
+      "攝",
+      "撈",
+      "副",
+      "噪",
+      "燒",
+      "蝕",
+      "觸",
+      "陌",
+      "檔",
+      "註"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "副",
+    "similarChars": [
+      {
+        "char": "福",
+        "similarity": "都含由一、口、田上下排列的畐部件。",
+        "difference": "副把畐放左側，右邊是刂；福左邊是示旁，右邊是畐。"
+      },
+      {
+        "char": "幅",
+        "similarity": "都含畐，整字都是左右結構。",
+        "difference": "副左畐右刂；幅左巾右畐，部件位置不同。"
+      },
+      {
+        "char": "輻",
+        "similarity": "都含畐部件。",
+        "difference": "副左畐右刂；輻左車右畐。"
+      },
+      {
+        "char": "蝠",
+        "similarity": "都含畐部件。",
+        "difference": "副左畐右刂；蝠左虫右畐。"
+      },
+      {
+        "char": "富",
+        "similarity": "都含畐，能看到上橫、中口、下田。",
+        "difference": "副是左畐右刂；富在畐上方加宀，沒有刂。"
+      },
+      {
+        "char": "逼",
+        "similarity": "都含畐部件。",
+        "difference": "副的刂在畐右邊；逼用辶從左下方包住畐。"
+      }
+    ],
+    "teachingTip": "先圈畐，再觀察其他部件的位置：副的刂在右邊。畐內是上方一、中間口、下方田，田內橫豎要接到邊框，不寫成日。"
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}

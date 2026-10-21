@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第5課_similar_shape_1486fead1aabb337",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "蝕",
+    "lessonChars": [
+      "益",
+      "監",
+      "避",
+      "迅",
+      "滅",
+      "液",
+      "載",
+      "援",
+      "承",
+      "攝",
+      "撈",
+      "副",
+      "噪",
+      "燒",
+      "蝕",
+      "觸",
+      "陌",
+      "檔",
+      "註"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "蝕",
+    "similarChars": [
+      {
+        "char": "飾",
+        "similarity": "左半同為食字旁，都是左右結構。",
+        "difference": "蝕右半是虫；飾右半上有一撇、一短橫，下為巾。"
+      },
+      {
+        "char": "飽",
+        "similarity": "左半同為食字旁。",
+        "difference": "蝕右半是虫；飽右半是包。"
+      },
+      {
+        "char": "飯",
+        "similarity": "左半同為食字旁。",
+        "difference": "蝕右半是虫；飯右半是反。"
+      },
+      {
+        "char": "飲",
+        "similarity": "左半同為食字旁。",
+        "difference": "蝕右半是虫；飲右半是欠。"
+      },
+      {
+        "char": "餓",
+        "similarity": "左半同為食字旁。",
+        "difference": "蝕右半是虫；餓右半是我，斜鉤與交叉筆畫較明顯。"
+      },
+      {
+        "char": "蛀",
+        "similarity": "兩字都含虫形部件，且是左右結構。",
+        "difference": "蝕的虫在右，左邊是食；蛀的虫在左，右邊是主。此組比較部件位置，不表示整字高度相似。"
+      }
+    ],
+    "teachingTip": "先說「蝕，左食右虫」，再用兩色只標示部件範圍。不要因字典把蝕歸在虫部，就把虫寫到左邊。與飾相比時，特別找右邊是否有虫的中豎和末點。"
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}

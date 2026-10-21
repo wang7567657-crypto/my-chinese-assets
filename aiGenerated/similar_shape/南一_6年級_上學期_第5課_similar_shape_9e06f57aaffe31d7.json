@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第5課_similar_shape_9e06f57aaffe31d7",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "撈",
+    "lessonChars": [
+      "益",
+      "監",
+      "避",
+      "迅",
+      "滅",
+      "液",
+      "載",
+      "援",
+      "承",
+      "攝",
+      "撈",
+      "副",
+      "噪",
+      "燒",
+      "蝕",
+      "觸",
+      "陌",
+      "檔",
+      "註"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "撈",
+    "similarChars": [
+      {
+        "char": "勞",
+        "similarity": "勞就是撈右側的完整部件。",
+        "difference": "撈多了左側扌；勞獨立成字。"
+      },
+      {
+        "char": "嘮",
+        "similarity": "右半同為勞。",
+        "difference": "撈左是扌；嘮左是口，常見嘮叨。"
+      },
+      {
+        "char": "澇",
+        "similarity": "右半同為勞，左旁都較窄。",
+        "difference": "撈左是扌；澇左是氵。澇是較少見的水災用字，作延伸辨形即可。"
+      },
+      {
+        "char": "癆",
+        "similarity": "都保留勞的兩火形、冖與力。",
+        "difference": "撈是左扌右勞；癆由疒包住勞。癆較少見，只作延伸辨形。"
+      },
+      {
+        "char": "嶗",
+        "similarity": "右半同為勞。",
+        "difference": "撈左是扌；嶗左是山。嶗是較少見的山名用字，不列為本課必學字。"
+      },
+      {
+        "char": "榮",
+        "similarity": "勞與榮上方都有兩火形及冖，屬局部部件相近。",
+        "difference": "撈右半勞的下方是力；榮下方是木，且榮沒有左側扌。"
+      }
+    ],
+    "teachingTip": "先找左扌與右勞，再核對勞底下是力。上方兩個火形的末筆依標準部件寫法改點，不直接貼兩個完整火字。澇、癆、嶗僅作延伸辨形。"
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}

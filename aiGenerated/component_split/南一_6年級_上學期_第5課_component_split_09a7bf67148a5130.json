@@ -1,0 +1,63 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_6年級_上學期_第5課_component_split_09a7bf67148a5130",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "副",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "radical": "刀",
+    "radicalStrokeIndices": [
+      10,
+      11
+    ],
+    "strokeCount": 11,
+    "strokeGroups": [
+      [
+        10,
+        11
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    ],
+    "split": [
+      2,
+      9
+    ],
+    "components": [
+      "刂",
+      "其餘部分"
+    ],
+    "structure": "左右",
+    "verified": true,
+    "radicalVerified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首與其餘部分分組；strokeGroups使用來源XML的1起算筆畫索引，每筆恰好一次，保留原字位置與來源筆順。",
+    "verification": {
+      "method": "核對原始XML的Stroke數、輪廓無重複、有限合理座標及有效Track，並完成字形與部首分色視覺核對。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/526f.xml",
+      "checkedAt": "2026-10-15T12:51:02.716Z"
+    },
+    "updatedAt": "2026-10-15T12:51:02.716Z"
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}

@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第5課_similar_shape_afe151d3b2c5fb65",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "註",
+    "lessonChars": [
+      "益",
+      "監",
+      "避",
+      "迅",
+      "滅",
+      "液",
+      "載",
+      "援",
+      "承",
+      "攝",
+      "撈",
+      "副",
+      "噪",
+      "燒",
+      "蝕",
+      "觸",
+      "陌",
+      "檔",
+      "註"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "註",
+    "similarChars": [
+      {
+        "char": "注",
+        "similarity": "右半同為「主」，都是左右結構。",
+        "difference": "註左言；注左三點水。兩字在解釋義可相通，但字形仍要分清。"
+      },
+      {
+        "char": "住",
+        "similarity": "右半同為「主」。",
+        "difference": "註左言；住左單人旁。"
+      },
+      {
+        "char": "柱",
+        "similarity": "右半同為「主」。",
+        "difference": "註左言；柱左木。"
+      },
+      {
+        "char": "駐",
+        "similarity": "右半同為「主」。",
+        "difference": "註左言；駐左馬。"
+      },
+      {
+        "char": "炷",
+        "similarity": "右半同為「主」。",
+        "difference": "註左言；炷左火。炷較少見，可在一炷香中辨認，此處作延伸辨形，不要求當作本課生字。"
+      },
+      {
+        "char": "拄",
+        "similarity": "右半同為「主」。",
+        "difference": "註左言；拄左提手旁。"
+      }
+    ],
+    "teachingTip": "先固定右邊的主，再逐一換看言、氵、亻、木、馬、火、扌。註的左言有口形，右主上有一點；記形時也要知道註與注在某些義項可以相通，不能一概判另一字錯誤。"
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}

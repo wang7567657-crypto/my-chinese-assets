@@ -1,0 +1,62 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_6年級_上學期_第5課_component_split_9fd3b131d93f97d0",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "液",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "structure": "左右",
+    "split": [
+      3,
+      8
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    ],
+    "components": [
+      "氵",
+      "夜"
+    ],
+    "strokeCount": 11,
+    "radical": "水",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "依 c9s 原始 11 筆的 Outline/Track 位置分為部首與其餘部分，各筆恰好一次。",
+    "verification": {
+      "method": "核對原始 XML 筆畫數、位置和筆順，按實際字形分組。",
+      "sourceUrl": "https://github.com/c9s/zh-stroke-data/blob/master/utf8/6db2.xml"
+    }
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}
