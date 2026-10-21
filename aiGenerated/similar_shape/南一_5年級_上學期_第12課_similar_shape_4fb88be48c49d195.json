@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_4fb88be48c49d195",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "箭",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "箭",
+    "similarChars": [
+      {
+        "char": "前",
+        "similarity": "箭下方就是前。",
+        "difference": "箭上方多了竹字頭；前沒有竹字頭。"
+      },
+      {
+        "char": "剪",
+        "similarity": "兩字都含有前。",
+        "difference": "箭是竹字頭在前上方；剪是刀在前下方。"
+      },
+      {
+        "char": "煎",
+        "similarity": "兩字都含有前。",
+        "difference": "箭上方是竹字頭；煎下方是灬。"
+      },
+      {
+        "char": "筋",
+        "similarity": "兩字都有竹字頭，下方也都有月形部件。",
+        "difference": "箭下面是前，右下為刂；筋右下是力，沒有前上方的那組筆畫。"
+      },
+      {
+        "char": "簡",
+        "similarity": "兩字都是竹字頭，下方也有密集的橫、豎筆畫。",
+        "difference": "箭下方是前；簡下方是間，可以找到門裡的日。"
+      },
+      {
+        "char": "筒",
+        "similarity": "兩字都是竹字頭，下方都有框形筆畫。",
+        "difference": "箭下方是前，右下有刂；筒下方是同，沒有刂。"
+      }
+    ],
+    "teachingTip": "用箭、前、剪、煎做換部件練習。箭保留完整的前，只把竹字頭放在上面。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

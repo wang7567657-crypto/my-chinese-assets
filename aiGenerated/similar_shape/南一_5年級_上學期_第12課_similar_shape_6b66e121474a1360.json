@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_6b66e121474a1360",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "啼",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "啼",
+    "similarChars": [
+      {
+        "char": "蹄",
+        "similarity": "兩字右邊都是帝。",
+        "difference": "啼左邊是口；蹄左邊是足字旁，指動物腳端的硬甲。"
+      },
+      {
+        "char": "締",
+        "similarity": "兩字右邊都是帝。",
+        "difference": "啼左邊是口；締左邊是糹，如締結。"
+      },
+      {
+        "char": "諦",
+        "similarity": "兩字右邊都是帝。",
+        "difference": "啼左邊是口；諦左邊是言，如真諦。"
+      },
+      {
+        "char": "蒂",
+        "similarity": "兩字都有帝。",
+        "difference": "啼把口放在帝左邊；蒂把艹放在帝上方，如瓜蒂。"
+      },
+      {
+        "char": "帝",
+        "similarity": "帝就是啼的右半邊。",
+        "difference": "啼左邊多了口；帝沒有口字旁。"
+      },
+      {
+        "char": "啻",
+        "similarity": "兩字都由口和帝組成。",
+        "difference": "啼是左口右帝；啻是上帝下口。啻是較少見的字，如不啻。"
+      }
+    ],
+    "teachingTip": "把口與帝畫框定位：啼的口在左邊。再用啼叫和馬蹄比較口、足字旁。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

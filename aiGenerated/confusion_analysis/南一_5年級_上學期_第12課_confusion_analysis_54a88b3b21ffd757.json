@@ -1,0 +1,70 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第12課_confusion_analysis_54a88b3b21ffd757",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "澗",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "澗",
+    "groups": {
+      "shape": [
+        {
+          "char": "潤",
+          "why": "左邊都是氵，右邊都有門。",
+          "difference": "澗是門內日；潤是門內王。"
+        },
+        {
+          "char": "澖",
+          "why": "只看外框很相似，澖是罕用字。",
+          "difference": "澗右邊是間；澖右邊是閑，門內是木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "見",
+          "why": "都讀ㄐㄧㄢˋ。",
+          "difference": "山澗寫水旁的澗；看見寫見。"
+        },
+        {
+          "char": "劍",
+          "why": "都讀ㄐㄧㄢˋ。",
+          "difference": "澗可指山間溪流；劍是兵器，如寶劍。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "溪",
+          "why": "都可能指流水。",
+          "difference": "澗特別指出現在山間的溪流；溪的使用範圍較廣，如小溪。"
+        },
+        {
+          "char": "谷",
+          "why": "都常出現在山地景物中。",
+          "difference": "山谷著重兩山之間的低地；山澗著重山間溪流或有水的山溝。"
+        }
+      ],
+      "component": [
+        {
+          "char": "間",
+          "why": "澗含有間，容易只記右邊。",
+          "difference": "寫山澗時，間的左邊要加氵。"
+        },
+        {
+          "char": "閒",
+          "why": "門內的日、月容易混寫。",
+          "difference": "澗右邊用間，門內是日，不是閒的月。"
+        }
+      ]
+    },
+    "tip": "讀「山澗的水」，以水旁連結詞義，再檢查門裡寫的是日。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

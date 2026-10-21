@@ -1,0 +1,65 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第12課_confusion_analysis_2d765e344c6a6110",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "敏",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "敏",
+    "groups": {
+      "shape": [
+        {
+          "char": "繁",
+          "why": "繁的上部和敏相近。",
+          "difference": "敏下方沒有糸；繁的下方有糸。"
+        },
+        {
+          "char": "梅",
+          "why": "兩字都有每，容易只記住共同部件。",
+          "difference": "敏的每在左邊，右邊是攵；梅的每在右邊，左邊是木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "皿",
+          "why": "敏、皿都讀ㄇㄧㄣˇ，都是第三聲。",
+          "difference": "敏用於敏捷；皿用於器皿。"
+        },
+        {
+          "char": "民",
+          "why": "敏讀ㄇㄧㄣˇ；民讀ㄇㄧㄣˊ，聲調不同。",
+          "difference": "敏表示反應快等意思；民用於人民。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "快",
+          "why": "敏捷和快速都能描述動作。",
+          "difference": "敏捷還強調反應靈活；快也能表示時間短或速度高。"
+        }
+      ],
+      "component": [
+        {
+          "char": "每",
+          "why": "每是敏的左部，單寫每會漏掉右部。",
+          "difference": "敏要有左每和右攵；不要把攵寫到下面。"
+        },
+        {
+          "char": "改",
+          "why": "右邊同是攵。",
+          "difference": "敏的左邊是每；改的左邊是己。"
+        }
+      ]
+    },
+    "tip": "讀「反應敏捷」，再指出左每、右攵；與繁比較時，特別看下方有沒有糸。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

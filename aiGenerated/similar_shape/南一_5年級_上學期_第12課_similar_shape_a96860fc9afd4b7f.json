@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_a96860fc9afd4b7f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "城",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "城",
+    "similarChars": [
+      {
+        "char": "成",
+        "similarity": "都有成部件。",
+        "difference": "城的左邊多了土；成沒有土。"
+      },
+      {
+        "char": "誠",
+        "similarity": "右邊都是成。",
+        "difference": "城的左邊是土；誠的左邊是言。"
+      },
+      {
+        "char": "盛",
+        "similarity": "都能看到成部件。",
+        "difference": "城是左土右成；盛是上成下皿。"
+      },
+      {
+        "char": "域",
+        "similarity": "左邊都是土，右邊都有斜鉤。",
+        "difference": "城的右邊是成；域的右邊是或，裡面有口。"
+      },
+      {
+        "char": "減",
+        "similarity": "右部都有明顯的斜鉤，外形接近。",
+        "difference": "城是左土右成；減是左氵右咸，咸裡面有口。"
+      },
+      {
+        "char": "咸",
+        "similarity": "城右部的成和咸，都有相近的斜鉤外框。",
+        "difference": "城是土加成；咸內有口，上面有一橫，整字沒有土旁。"
+      }
+    ],
+    "teachingTip": "先用成作核心，比較城、誠、盛；再看域、減、咸內部是否有口。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_6bd0e8e2b61ac169",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "桂",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "桂",
+    "similarChars": [
+      {
+        "char": "掛",
+        "similarity": "右邊都有「圭」，整體都是左右結構。",
+        "difference": "桂左邊是木；掛左邊是扌，最右還多一個卜。"
+      },
+      {
+        "char": "佳",
+        "similarity": "右邊都是「圭」。",
+        "difference": "桂左邊是木；佳左邊是亻。"
+      },
+      {
+        "char": "娃",
+        "similarity": "右邊都是「圭」。",
+        "difference": "桂左邊是木；娃左邊是女。"
+      },
+      {
+        "char": "蛙",
+        "similarity": "右邊都是「圭」。",
+        "difference": "桂左邊是木；蛙左邊是虫。"
+      },
+      {
+        "char": "哇",
+        "similarity": "右邊都是「圭」。",
+        "difference": "桂左邊是木；哇左邊是口。"
+      },
+      {
+        "char": "畦",
+        "similarity": "右邊都是「圭」。",
+        "difference": "桂左邊是木；畦左邊是田，可見於菜畦。"
+      }
+    ],
+    "teachingTip": "把右邊的圭固定，再換左旁比較；桂花是植物，用木字旁記。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

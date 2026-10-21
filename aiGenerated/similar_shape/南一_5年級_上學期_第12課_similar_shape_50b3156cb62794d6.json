@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_50b3156cb62794d6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "幽",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "幽",
+    "similarChars": [
+      {
+        "char": "幼",
+        "similarity": "都含有「幺」。",
+        "difference": "幽有兩個幺，分列中間直畫兩側；幼只有一個幺，右邊是力。"
+      },
+      {
+        "char": "幻",
+        "similarity": "都含有「幺」。",
+        "difference": "幽有兩個幺和山形外框；幻只有一個幺，右邊是折鉤形。"
+      },
+      {
+        "char": "幾",
+        "similarity": "都能看到兩組「幺」形。",
+        "difference": "幽的兩個幺分在中間直畫兩側；幾的兩個幺在上方，下方有斜鉤等筆畫。"
+      },
+      {
+        "char": "黝",
+        "similarity": "都含有「幺」。",
+        "difference": "幽有兩個幺；黝左邊是黑、右邊是幼，只有一個幺和一個力。"
+      },
+      {
+        "char": "拗",
+        "similarity": "都能看到「幺」形。",
+        "difference": "幽有兩個幺；拗左邊是扌，右邊是幼，只有一個幺。"
+      },
+      {
+        "char": "坳",
+        "similarity": "都能看到「幺」形。",
+        "difference": "幽有兩個幺；坳左邊是土，右邊是幼。「坳」較少用，可見於山坳。"
+      }
+    ],
+    "teachingTip": "找到兩個幺，再找穿過中央的長直畫；不要把右邊誤寫成幼的力。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

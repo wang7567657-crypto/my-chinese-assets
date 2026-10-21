@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第12課_confusion_analysis_a373ac1dfbed8977",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "煩",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "煩",
+    "groups": {
+      "shape": [
+        {
+          "char": "頑",
+          "why": "右邊同是頁，容易忽略左旁。",
+          "difference": "煩左邊是火；頑左邊是元。"
+        },
+        {
+          "char": "煉",
+          "why": "左邊同是火，右邊都有密集筆畫。",
+          "difference": "煩右邊是頁；煉右邊是柬。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "凡",
+          "why": "煩、凡都讀ㄈㄢˊ，都是第二聲。",
+          "difference": "煩用於煩惱；凡用於平凡。"
+        },
+        {
+          "char": "繁",
+          "why": "繁在「繁忙」中讀ㄈㄢˊ，和煩同音。",
+          "difference": "煩惱是心中不安；繁忙是事情很多。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "愁",
+          "why": "煩和愁都能表示不愉快的心情。",
+          "difference": "煩可表示困擾或厭煩；愁常表示憂傷、擔心。"
+        }
+      ],
+      "component": [
+        {
+          "char": "頁",
+          "why": "頁是煩的右部，容易漏寫左邊的火。",
+          "difference": "煩是左火右頁；頁不能換成葉。"
+        }
+      ]
+    },
+    "tip": "用「事情繁多，讓我心煩」比較同音字，再圈出煩的火和頁。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

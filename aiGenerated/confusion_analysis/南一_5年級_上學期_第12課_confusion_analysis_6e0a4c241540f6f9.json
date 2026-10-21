@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第12課_confusion_analysis_6e0a4c241540f6f9",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "銳",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "銳",
+    "groups": {
+      "shape": [
+        {
+          "char": "悅",
+          "why": "右邊同是兌，容易忽略左旁。",
+          "difference": "銳左邊是金；悅左邊是忄。"
+        },
+        {
+          "char": "稅",
+          "why": "右邊同是兌。",
+          "difference": "銳左邊是金；稅左邊是禾。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "瑞",
+          "why": "銳、瑞都讀ㄖㄨㄟˋ，都是第四聲。",
+          "difference": "銳用於敏銳；瑞用於祥瑞。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "利",
+          "why": "銳利和鋒利都能形容刀尖或刀刃。",
+          "difference": "銳也能形容感覺敏銳；利還能表示利益、順利。"
+        }
+      ],
+      "component": [
+        {
+          "char": "兌",
+          "why": "兌是銳的右部，但不能依部件直接猜整字讀音。",
+          "difference": "銳讀ㄖㄨㄟˋ；兌在「兌換」中讀ㄉㄨㄟˋ。銳還要有左邊的金。"
+        }
+      ]
+    },
+    "tip": "先讀「敏銳、銳利」，再比較「兌換」；共同部件不保證讀音相同。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

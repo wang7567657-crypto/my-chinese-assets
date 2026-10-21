@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第12課_memory_strategy_f8ea68cfbb7253f0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "猿",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "猿",
+    "components": [
+      "犭",
+      "袁"
+    ],
+    "association": "可以把犭聯想到動物，再記住右邊完整的袁；這是記字聯想，不是字源解釋。",
+    "mnemonic": "左邊犭記動物，右邊袁要寫清楚。",
+    "visualPrompt": "在標準字形的猿旁邊畫一隻無尾的猿攀著樹枝，另用小標籤指出犭和袁。圖畫放在字旁，不替代或扭曲筆畫。",
+    "teachingTip": "先用手指分出左右兩塊，再遮住範字寫一次。檢查右邊是否誤寫成爰。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

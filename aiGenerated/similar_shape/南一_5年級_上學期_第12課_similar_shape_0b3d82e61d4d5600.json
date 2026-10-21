@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_0b3d82e61d4d5600",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "詩",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "詩",
+    "similarChars": [
+      {
+        "char": "時",
+        "similarity": "右邊都是「寺」。",
+        "difference": "詩左邊是言；時左邊是日。"
+      },
+      {
+        "char": "持",
+        "similarity": "右邊都是「寺」。",
+        "difference": "詩左邊是言；持左邊是扌。"
+      },
+      {
+        "char": "待",
+        "similarity": "右邊都是「寺」。",
+        "difference": "詩左邊是言；待左邊是彳。"
+      },
+      {
+        "char": "侍",
+        "similarity": "右邊都是「寺」。",
+        "difference": "詩左邊是言；侍左邊是亻。"
+      },
+      {
+        "char": "恃",
+        "similarity": "右邊都是「寺」。",
+        "difference": "詩左邊是言；恃左邊是忄。"
+      },
+      {
+        "char": "峙",
+        "similarity": "右邊都是「寺」。",
+        "difference": "詩左邊是言；峙左邊是山，常見於對峙。"
+      }
+    ],
+    "teachingTip": "保留右邊寺，比較左旁；詩用文字寫成，可用言字旁聯想。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第12課_memory_strategy_f6903f7cc97dcb89",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "澗",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "澗",
+    "components": [
+      "氵",
+      "間"
+    ],
+    "association": "記憶聯想，並非字源解說：想像兩山之間流著水，用「水在山間」記住氵與間。",
+    "mnemonic": "三點水在左，間字放右邊；山間流水叫山澗。",
+    "visualPrompt": "呈現標準繁體「澗」，左氵與右間分色，門內日清楚完整；字旁另畫兩山間的小溪。山、水、太陽等圖案不得替換或改造字的筆畫。",
+    "teachingTip": "讓學生圈出氵，再指出門內的日，避免寫成潤或澖。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

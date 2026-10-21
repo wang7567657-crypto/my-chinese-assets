@@ -1,0 +1,65 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第12課_confusion_analysis_14fd5a2091fc0738",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "鳴",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鳴",
+    "groups": {
+      "shape": [
+        {
+          "char": "嗚",
+          "why": "兩字都以「口」在左，右邊很像。",
+          "difference": "鳥鳴的「鳴」右邊是鳥；嗚咽的「嗚」右邊是烏。"
+        },
+        {
+          "char": "鵑",
+          "why": "兩字右邊都是「鳥」，左上都有「口」。",
+          "difference": "鳴左邊只有口；鵑左邊的口下有月形。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "明",
+          "why": "都讀ㄇㄧㄥˊ，聲調也相同。",
+          "difference": "鳴用於鳴叫、鳴笛；明用於明亮、明白。"
+        },
+        {
+          "char": "名",
+          "why": "都讀ㄇㄧㄥˊ，容易聽音選錯字。",
+          "difference": "鳥鳴是發出聲音；鳥名是鳥的名稱。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "叫",
+          "why": "都能表示發出聲音。",
+          "difference": "可說鳥鳴、鳥叫；鳴笛用「鳴」，不能寫成「叫笛」。"
+        }
+      ],
+      "component": [
+        {
+          "char": "鳥",
+          "why": "鳴包含完整的「鳥」，容易漏寫左邊。",
+          "difference": "鳥是動物名稱；鳴還要加口，表示鳴叫等意思。"
+        },
+        {
+          "char": "烏",
+          "why": "鳥、烏的頭部只差一短橫。",
+          "difference": "鳴右邊要寫鳥，不能誤換成烏。"
+        }
+      ]
+    },
+    "tip": "把「鳥鳴、名字、明亮」配上意思；寫鳴時保留鳥頭裡的一短橫。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

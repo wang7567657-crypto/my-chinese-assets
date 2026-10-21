@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_3dfe40114b863e6b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "敏",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "敏",
+    "similarChars": [
+      {
+        "char": "每",
+        "similarity": "都有每部件。",
+        "difference": "敏的右邊多了攵；每沒有右邊的攵。"
+      },
+      {
+        "char": "梅",
+        "similarity": "都有每部件。",
+        "difference": "敏是左每右攵；梅是左木右每。"
+      },
+      {
+        "char": "海",
+        "similarity": "都有每部件。",
+        "difference": "敏是左每右攵；海是左氵右每。"
+      },
+      {
+        "char": "悔",
+        "similarity": "都有每部件。",
+        "difference": "敏是左每右攵；悔是左忄右每。"
+      },
+      {
+        "char": "侮",
+        "similarity": "都有每部件。",
+        "difference": "敏是左每右攵；侮是左亻右每。"
+      },
+      {
+        "char": "繁",
+        "similarity": "繁的上部能看到敏的形狀。",
+        "difference": "敏沒有下方的糸；繁在上部下方加上糸，整體較高。"
+      }
+    ],
+    "teachingTip": "先找出每，再看它的位置；敏的每在左邊，右邊要有攵。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

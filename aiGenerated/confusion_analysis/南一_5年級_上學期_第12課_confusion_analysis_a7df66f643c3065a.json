@@ -1,0 +1,65 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第12課_confusion_analysis_a7df66f643c3065a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "箭",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "箭",
+    "groups": {
+      "shape": [
+        {
+          "char": "剪",
+          "why": "兩字都有前，容易把外加部件放錯位置。",
+          "difference": "箭在前上面加竹字頭；剪在前下面加刀。"
+        },
+        {
+          "char": "煎",
+          "why": "兩字也都保留前。",
+          "difference": "箭有竹字頭；煎在前下面加灬。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "見",
+          "why": "箭和看見的見都讀ㄐㄧㄢˋ。",
+          "difference": "箭是用弓發射的東西；看見的見和視覺有關。這裡比較看見的讀音。"
+        },
+        {
+          "char": "劍",
+          "why": "箭和劍都讀ㄐㄧㄢˋ，聲調也相同。",
+          "difference": "箭常用弓射出；劍是手持的長刃兵器。"
+        },
+        {
+          "char": "剪",
+          "why": "聲母、韻母相同，聲調不同。",
+          "difference": "箭讀ㄐㄧㄢˋ，是四聲；剪讀ㄐㄧㄢˇ，是三聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "弓",
+          "why": "弓和箭常一起出現，容易只記成一套工具。",
+          "difference": "弓是有弦、用來發射的工具；箭是被射出去的細長物。"
+        }
+      ],
+      "component": [
+        {
+          "char": "前",
+          "why": "前是箭下方的完整部件。",
+          "difference": "前讀ㄑㄧㄢˊ；加竹字頭成箭後讀ㄐㄧㄢˋ，不能照讀成前。"
+        }
+      ]
+    },
+    "tip": "看到竹字頭加前就讀箭。把弓、箭各指一次，分清發射工具與被射出的物件。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

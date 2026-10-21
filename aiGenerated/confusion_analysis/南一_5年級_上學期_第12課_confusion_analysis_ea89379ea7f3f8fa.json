@@ -1,0 +1,65 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第12課_confusion_analysis_ea89379ea7f3f8fa",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "桂",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "桂",
+    "groups": {
+      "shape": [
+        {
+          "char": "佳",
+          "why": "右邊都是圭，左旁容易少寫。",
+          "difference": "桂是木字旁，佳是人字旁；桂花不能寫成佳花。"
+        },
+        {
+          "char": "掛",
+          "why": "都能看見圭，容易只看右邊中間。",
+          "difference": "桂是木加圭；掛是扌加卦，最右有卜。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "貴",
+          "why": "都讀ㄍㄨㄟˋ。",
+          "difference": "桂用於桂花、桂樹；貴用於珍貴、昂貴。"
+        },
+        {
+          "char": "櫃",
+          "why": "都讀ㄍㄨㄟˋ，而且都有木字旁。",
+          "difference": "桂右邊是圭，指桂樹等；櫃右邊是匱，指櫃子。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "樹",
+          "why": "桂樹也是樹，容易把名稱範圍混在一起。",
+          "difference": "樹是較廣的名稱；桂指出桂樹等特定植物，不能拿桂代替所有樹。"
+        }
+      ],
+      "component": [
+        {
+          "char": "圭",
+          "why": "桂的右邊是圭。",
+          "difference": "圭的字形像上下兩個土；寫桂時左邊還要加木。"
+        },
+        {
+          "char": "卦",
+          "why": "卦裡也有圭，容易多添筆畫。",
+          "difference": "桂右邊只用圭，不加卜；卦是圭的右邊再加卜。"
+        }
+      ]
+    },
+    "tip": "用「桂花很珍貴」辨音同義不同；寫桂時檢查木、圭兩部分。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

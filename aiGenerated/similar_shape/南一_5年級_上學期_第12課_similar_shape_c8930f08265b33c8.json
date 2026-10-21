@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_c8930f08265b33c8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "猿",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "猿",
+    "similarChars": [
+      {
+        "char": "袁",
+        "similarity": "猿的右半邊就是袁。",
+        "difference": "猿左邊多了犭；袁可作姓氏。"
+      },
+      {
+        "char": "園",
+        "similarity": "兩字都含有袁。",
+        "difference": "猿是左犭右袁；園是囗包住袁。"
+      },
+      {
+        "char": "遠",
+        "similarity": "兩字都含有袁。",
+        "difference": "猿左邊是犭；遠用辶從左下包住袁。"
+      },
+      {
+        "char": "轅",
+        "similarity": "兩字右邊都是袁。",
+        "difference": "猿左邊是犭；較少見的轅左邊是車，指車前用來套牲口的直木。"
+      },
+      {
+        "char": "媛",
+        "similarity": "都是左右結構，右邊的袁與爰容易看混。",
+        "difference": "猿是犭加袁，袁上有土、口；媛是女加爰，爰上有爫。"
+      },
+      {
+        "char": "援",
+        "similarity": "都是左右結構，右邊都有交錯的撇捺。",
+        "difference": "猿是犭加袁；援是扌加爰，右上是爫，不能寫成袁。"
+      }
+    ],
+    "teachingTip": "先圈出猿右邊的袁，再和園、遠比較外加的部件。最後對照袁與爰的上半部。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

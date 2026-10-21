@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第12課_confusion_analysis_e79573bccb5b437f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "猿",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "猿",
+    "groups": {
+      "shape": [
+        {
+          "char": "園",
+          "why": "兩字都有袁。",
+          "difference": "猿用犭在左，指猿類動物；園用囗在外，如公園。"
+        },
+        {
+          "char": "援",
+          "why": "袁與爰的下部都有撇捺，容易看混。",
+          "difference": "猿右上有土、口；援右上是爫，左邊也改成扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "原",
+          "why": "猿和原都讀ㄩㄢˊ，聲調也相同。",
+          "difference": "猿是動物；原可表示本來，如原來。"
+        },
+        {
+          "char": "遠",
+          "why": "聲母、韻母相同，聲調不同。",
+          "difference": "猿讀ㄩㄢˊ；遠近的遠讀ㄩㄢˇ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "猴",
+          "why": "猿和猴都指靈長類動物，日常說話容易混稱。",
+          "difference": "現代動物分類中，猿沒有尾巴；猴多數有尾巴，但也有短尾或無尾的種類。"
+        }
+      ],
+      "component": [
+        {
+          "char": "袁",
+          "why": "袁是猿右邊的完整部件。",
+          "difference": "寫猿不能漏掉左邊的犭；只有袁時是另一個字，可作姓氏。"
+        }
+      ]
+    },
+    "tip": "讀猿聲時記住二聲；寫字時先辨認犭，再確認右邊是袁，不是爰。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

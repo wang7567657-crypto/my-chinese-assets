@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第12課_memory_strategy_31d9356be5ccd59d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "赦",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "赦",
+    "components": [
+      "赤",
+      "攵"
+    ],
+    "association": "用紅色標記聯想到赤，再把赦免和免去刑罰連起來記。這是記字聯想，不是字源解釋。",
+    "mnemonic": "左赤右攵寫成赦，讀到赦免想免罰。",
+    "visualPrompt": "在標準字形的赦旁邊畫一張寫著赦免的通知，旁邊的人露出鬆一口氣的表情。圖畫和紅色標記放在字旁，不替代或扭曲任何筆畫。",
+    "teachingTip": "先讀赦免，再把赦分成赤和攵。寫完與赫比較，確認右邊沒有多寫成第二個赤。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

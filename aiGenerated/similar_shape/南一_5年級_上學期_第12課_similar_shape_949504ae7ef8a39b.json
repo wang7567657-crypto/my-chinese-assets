@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_949504ae7ef8a39b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "煩",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "煩",
+    "similarChars": [
+      {
+        "char": "頁",
+        "similarity": "都有完整的頁部件。",
+        "difference": "煩的左邊多了火；頁是單獨一個字。"
+      },
+      {
+        "char": "頑",
+        "similarity": "右邊都是頁。",
+        "difference": "煩的左邊是火；頑的左邊是元。"
+      },
+      {
+        "char": "順",
+        "similarity": "右邊都是頁。",
+        "difference": "煩的左邊是火；順的左邊是川。"
+      },
+      {
+        "char": "煥",
+        "similarity": "左邊都是火，都是左右結構。",
+        "difference": "煩的右邊是頁；煥的右邊是奐。"
+      },
+      {
+        "char": "煉",
+        "similarity": "左邊都是火。",
+        "difference": "煩的右邊是頁；煉的右邊是柬。"
+      },
+      {
+        "char": "燃",
+        "similarity": "左邊都是火。",
+        "difference": "煩的右邊是頁；燃的右邊是然，下面還有灬。"
+      }
+    ],
+    "teachingTip": "先分成左火、右頁；比較頑、順時看左邊，比較煥、煉、燃時看右邊。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}
