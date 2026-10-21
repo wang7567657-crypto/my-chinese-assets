@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第9課_memory_strategy_50cc0f7d1fe1c9c2",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "獻",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "獻",
+    "components": [
+      "左：鬳（上虍、下鬲）",
+      "右：犬"
+    ],
+    "association": "教學聯想，非字源：想像把禮物鄭重獻上，先把左邊較大的字形放好，再讓右邊的犬站妥；右上小點像一個提醒記號。",
+    "mnemonic": "左鬳右犬記清楚，犬上小點別漏去。",
+    "visualPrompt": "呈現臺灣標準完整「獻」字，左鬳、右犬以不同顏色標示；字旁另畫雙手獻花的小圖，圖不取代或遮擋任何筆畫。",
+    "teachingTip": "先分左右，再看鬳的上下層。犬的點獨立，不與橫筆相接；不把聯想當成字源解釋。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第9課_memory_strategy_60789162007360a2",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "江",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "江",
+    "components": [
+      "氵（左）",
+      "工（右）"
+    ],
+    "association": "想像江水旁有一座工字形的小橋：水提醒左邊氵，橋形提醒右邊工。這是教學聯想，不是江字的字源。",
+    "mnemonic": "左邊三點水，右邊工站穩；工形兩橫間，一豎連得準。",
+    "visualPrompt": "中央寫完整臺灣繁體標準字「江」，左氵右工，工下橫稍長。字旁畫江水和一座工字形示意小橋，橋放在字外；不將江字的工改畫成真正橋梁，也不以水波替代三點水。",
+    "teachingTip": "先指讀左氵右工，再與汪比較中間有沒有多一橫。最後在「江水」中讀寫，避免把工的豎寫得向上出頭。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

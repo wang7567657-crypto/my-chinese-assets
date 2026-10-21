@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第9課_confusion_analysis_a873b93fb66a939b",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "鎖",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "鎖",
+    "groups": {
+      "shape": [
+        {
+          "char": "瑣",
+          "why": "右側相同又同音，容易互換。",
+          "difference": "鎖左金字旁，瑣左玉字旁；門鎖寫鎖，瑣事寫瑣。"
+        },
+        {
+          "char": "鋇",
+          "why": "金與貝都相同，容易漏看右上。",
+          "difference": "鎖比鋇多出貝上方三筆；不是只寫金加貝。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "瑣",
+          "why": "鎖、瑣同讀ㄙㄨㄛˇ。",
+          "difference": "聲音相同，需靠詞義選字：門鎖用鎖，瑣事用瑣。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "關",
+          "why": "關門與鎖門都是讓門不再開著。",
+          "difference": "關門是把門合上；鎖門還涉及鎖具或鎖定動作，不能把關上就當作已上鎖。"
+        }
+      ],
+      "component": [
+        {
+          "char": "貝",
+          "why": "鎖右下容易只寫成目而漏掉下方兩筆。",
+          "difference": "右下須為完整貝；右上另外保留中豎、左點、右撇，中豎不鉤。"
+        }
+      ]
+    },
+    "tip": "左金、右下貝、右上三筆逐一檢查；用「鎖門」連結金字旁。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

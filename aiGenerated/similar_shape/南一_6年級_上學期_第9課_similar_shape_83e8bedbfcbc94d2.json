@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第9課_similar_shape_83e8bedbfcbc94d2",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "targetChar": "獻",
+    "lessonChars": [
+      "召",
+      "否",
+      "簸",
+      "策",
+      "江",
+      "瀰",
+      "懸",
+      "寡",
+      "勃",
+      "棍",
+      "糧",
+      "顛",
+      "獻",
+      "艘",
+      "鎖",
+      "欠",
+      "倉",
+      "鞏",
+      "鼎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "獻",
+    "similarChars": [
+      {
+        "char": "鬳",
+        "similarity": "與獻左半整個部件相同。",
+        "difference": "鬳是罕用字，只保留左側結構；獻的右側另有犬。"
+      },
+      {
+        "char": "巘",
+        "similarity": "右側完整包含獻。",
+        "difference": "巘是罕用字，在獻左側加山；本課獻不加山。"
+      },
+      {
+        "char": "讞",
+        "similarity": "右側完整包含獻。",
+        "difference": "讞是罕用字，在獻左側加言；本課獻不加言。"
+      },
+      {
+        "char": "瓛",
+        "similarity": "右側完整包含獻。",
+        "difference": "瓛是罕用字，在獻左側加玉字旁；本課獻不加此偏旁。"
+      },
+      {
+        "char": "钀",
+        "similarity": "右側完整包含獻。",
+        "difference": "钀是罕用字，在獻左側加金字旁；不要把整個字都當作獻。"
+      },
+      {
+        "char": "獄",
+        "similarity": "右側同樣有犬，都是左右組合。",
+        "difference": "獄左側為犭和言；獻左側是鬳，上有虍、下有鬲。"
+      }
+    ],
+    "teachingTip": "先認左鬳、右犬。前五個罕用字只用來找共同部件，不要求一併背誦；重點是犬右上有一點。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

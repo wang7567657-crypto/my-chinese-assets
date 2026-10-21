@@ -1,0 +1,50 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第9課_confusion_analysis_d5587254888b7cb5",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "欠",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "欠",
+    "groups": {
+      "shape": [
+        {
+          "char": "吹",
+          "why": "欠可獨立，也能出現在合體字右側。",
+          "difference": "欠是完整單字；吹還有左口，不能漏掉後就當成吹。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "歉",
+          "why": "欠與歉同讀ㄑㄧㄢˋ。",
+          "difference": "欠款用欠，抱歉用歉；歉比欠多左邊的兼。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "缺",
+          "why": "欠缺都和不足有關。",
+          "difference": "欠可指尚未歸還，如欠款，也可指不夠；缺常指少了應有部分，如缺角。不要把欠款寫成缺款。"
+        }
+      ],
+      "component": [
+        {
+          "char": "人",
+          "why": "欠下半的撇捺像人，容易只寫下半。",
+          "difference": "欠上面還有撇與橫鉤；下方長撇的起筆不接上橫鉤。"
+        }
+      ]
+    },
+    "tip": "把欠款與抱歉配成詞語，分清同音字；寫欠時檢查上方兩筆是否齊全。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

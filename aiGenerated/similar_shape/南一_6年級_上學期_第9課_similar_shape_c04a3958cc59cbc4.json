@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第9課_similar_shape_c04a3958cc59cbc4",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "targetChar": "顛",
+    "lessonChars": [
+      "召",
+      "否",
+      "簸",
+      "策",
+      "江",
+      "瀰",
+      "懸",
+      "寡",
+      "勃",
+      "棍",
+      "糧",
+      "顛",
+      "獻",
+      "艘",
+      "鎖",
+      "欠",
+      "倉",
+      "鞏",
+      "鼎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "顛",
+    "similarChars": [
+      {
+        "char": "巔",
+        "similarity": "完整的顛出現在下方。",
+        "difference": "巔比顛上方多山；顛本身沒有山頭。"
+      },
+      {
+        "char": "癲",
+        "similarity": "在包圍部件內保留完整顛。",
+        "difference": "癲外面多疒；顛沒有病字旁。"
+      },
+      {
+        "char": "真",
+        "similarity": "與顛的左半相同，長方形內有多條橫線。",
+        "difference": "真沒有右側的頁；顛是左真右頁。"
+      },
+      {
+        "char": "慎",
+        "similarity": "共用真，容易把旁邊部件的位置記錯。",
+        "difference": "慎左忄右真；顛左真右頁。"
+      },
+      {
+        "char": "鎮",
+        "similarity": "都含完整的真。",
+        "difference": "鎮左金右真；顛左真右頁，真所在位置不同。"
+      },
+      {
+        "char": "填",
+        "similarity": "都含真，內部橫線結構一致。",
+        "difference": "填左土右真；顛左真右頁。"
+      }
+    ],
+    "teachingTip": "先比較顛、巔、癲，圈出新增的山或疒；再比較真所在的位置。顛左真內的橫線不可寫少，右頁不要改成貝。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

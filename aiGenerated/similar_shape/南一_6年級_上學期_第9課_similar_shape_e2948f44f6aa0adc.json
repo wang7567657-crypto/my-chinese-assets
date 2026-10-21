@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第9課_similar_shape_e2948f44f6aa0adc",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "targetChar": "棍",
+    "lessonChars": [
+      "召",
+      "否",
+      "簸",
+      "策",
+      "江",
+      "瀰",
+      "懸",
+      "寡",
+      "勃",
+      "棍",
+      "糧",
+      "顛",
+      "獻",
+      "艘",
+      "鎖",
+      "欠",
+      "倉",
+      "鞏",
+      "鼎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "棍",
+    "similarChars": [
+      {
+        "char": "混",
+        "similarity": "都把昆放在右半，外形只差左旁。",
+        "difference": "棍左木；混左氵。"
+      },
+      {
+        "char": "昆",
+        "similarity": "完整對應棍的右半，上日下比。",
+        "difference": "昆沒有左邊的木，棍多一個木旁。"
+      },
+      {
+        "char": "琨",
+        "similarity": "較少見的字，右半同為昆。",
+        "difference": "琨左為玉旁，寫成王旁形；棍左為木。"
+      },
+      {
+        "char": "崑",
+        "similarity": "共用昆，上日下比的組合相同。",
+        "difference": "崑上山下昆；棍左木右昆，排列方向不同。"
+      },
+      {
+        "char": "焜",
+        "similarity": "較少見的字，右半與棍相同。",
+        "difference": "焜左火右昆；棍左木右昆，注意火旁與木旁的分別。"
+      },
+      {
+        "char": "錕",
+        "similarity": "較少見的字，完整保留右半的昆。",
+        "difference": "錕左金右昆；棍左木右昆，左半不可省成同樣形狀。"
+      }
+    ],
+    "teachingTip": "把右半昆先遮住，辨左旁是木、水、玉、火或金；再把崑列出來比較上下和左右。琨、焜、錕只作辨形延伸。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

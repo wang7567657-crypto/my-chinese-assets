@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第9課_similar_shape_f9f21cd1b373c201",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "targetChar": "欠",
+    "lessonChars": [
+      "召",
+      "否",
+      "簸",
+      "策",
+      "江",
+      "瀰",
+      "懸",
+      "寡",
+      "勃",
+      "棍",
+      "糧",
+      "顛",
+      "獻",
+      "艘",
+      "鎖",
+      "欠",
+      "倉",
+      "鞏",
+      "鼎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "欠",
+    "similarChars": [
+      {
+        "char": "吹",
+        "similarity": "右側完整包含欠。",
+        "difference": "吹左邊多口；欠單獨成字，左邊沒有口。"
+      },
+      {
+        "char": "炊",
+        "similarity": "右側完整包含欠。",
+        "difference": "炊左邊多火；不要把火旁算進欠。"
+      },
+      {
+        "char": "坎",
+        "similarity": "右側完整包含欠。",
+        "difference": "坎左邊多土；欠本身不帶土旁。"
+      },
+      {
+        "char": "砍",
+        "similarity": "右側完整包含欠。",
+        "difference": "砍左邊多石；欠本身沒有石。"
+      },
+      {
+        "char": "軟",
+        "similarity": "右側完整包含欠。",
+        "difference": "軟左邊多車；欠只是其右側部件。"
+      },
+      {
+        "char": "飲",
+        "similarity": "右側完整包含欠。",
+        "difference": "飲左邊多食字旁；寫欠時不加食字旁。"
+      }
+    ],
+    "teachingTip": "先在六字中圈出同一個欠，再遮住左偏旁讀寫欠；保留下方長撇與上橫鉤之間的空隙。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第9課_memory_strategy_77a40d0e1b3864fa",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "艘",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "艘",
+    "components": [
+      "左：舟字旁",
+      "右：叟"
+    ],
+    "association": "教學聯想，非字源：一位老叟站在船旁，幫忙數一艘、兩艘船；把舟與叟左右配對。",
+    "mnemonic": "舟在左，叟在右；一艘船，讀ㄙㄠ。",
+    "visualPrompt": "呈現臺灣標準完整「艘」字，左舟右叟保持筆畫清楚；字旁另畫一艘船與一位老人，圖片不取代筆畫。",
+    "teachingTip": "左舟末筆斜挑；右叟的中豎輕觸下又。以簡編本ㄙㄠ為主讀音，若提ㄙㄡ須明標又音。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

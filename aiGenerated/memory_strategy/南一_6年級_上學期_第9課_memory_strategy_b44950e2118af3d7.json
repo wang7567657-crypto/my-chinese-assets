@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第9課_memory_strategy_b44950e2118af3d7",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "鎖",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "鎖",
+    "components": [
+      "左：金字旁",
+      "右上：中豎、左點、右撇",
+      "右下：貝"
+    ],
+    "association": "教學聯想，非字源：想像用金屬鎖保護箱中的貝殼寶物，貝上方三筆像提醒記號；記號只幫助定位，不是字源。",
+    "mnemonic": "左邊金，右下貝；上方三筆別漏掉。",
+    "visualPrompt": "呈現臺灣標準完整「鎖」字，金字旁、右上三筆與右下貝分色；字旁畫鎖住的寶物箱，鎖與貝殼小圖不替代任何筆畫。",
+    "teachingTip": "右上不可照獨體小字加鉤；中豎、左點、右撇分清，貝的末兩筆也要保留。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

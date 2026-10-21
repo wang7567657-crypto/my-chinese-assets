@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第9課_confusion_analysis_3f969d35d67a5e25",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "char": "棍",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "棍",
+    "groups": {
+      "shape": [
+        {
+          "char": "混",
+          "why": "右半都是昆，抄寫時容易忽略左邊。",
+          "difference": "木棍的棍用木旁；混合的混用三點水。"
+        },
+        {
+          "char": "昆",
+          "why": "容易只記住右半而漏寫木旁。",
+          "difference": "昆是單獨的字；木棍的棍須在昆左邊加木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "滾",
+          "why": "棍ㄍㄨㄣˋ、滾ㄍㄨㄣˇ，聲母韻母相同、聲調不同，是近音。",
+          "difference": "讀「木棍」用第四聲；讀「滾動」用第三聲，不能寫成木滾。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "棒",
+          "why": "兩字都能指棒狀物，木棍和木棒的意思接近。",
+          "difference": "棒的右半是奉，棍的右半是昆；棒球、球棒等固定詞要照詞語寫。"
+        }
+      ],
+      "component": [
+        {
+          "char": "比",
+          "why": "昆下半的比容易被畫成兩個完全相同的匕。",
+          "difference": "依臺灣標準字樣，左邊是短橫接豎挑，右邊是短橫接豎曲鉤；兩側寫法不同。"
+        }
+      ]
+    },
+    "tip": "以「木棍在地上滾動」對讀第四聲與第三聲；書寫先看木旁，再檢查昆下方的比。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}

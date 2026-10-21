@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第9課_similar_shape_ed1171eae15c2c4f",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第9課",
+    "targetChar": "鼎",
+    "lessonChars": [
+      "召",
+      "否",
+      "簸",
+      "策",
+      "江",
+      "瀰",
+      "懸",
+      "寡",
+      "勃",
+      "棍",
+      "糧",
+      "顛",
+      "獻",
+      "艘",
+      "鎖",
+      "欠",
+      "倉",
+      "鞏",
+      "鼎"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "鼎",
+    "similarChars": [
+      {
+        "char": "鼐",
+        "similarity": "下方完整含有鼎。",
+        "difference": "鼐是罕用字，鼎上另外加乃；本課鼎上方不加乃。"
+      },
+      {
+        "char": "鼒",
+        "similarity": "下方完整含有鼎。",
+        "difference": "鼒是罕用字，鼎上另外加才；本課鼎不加才。"
+      },
+      {
+        "char": "鼏",
+        "similarity": "下方完整含有鼎。",
+        "difference": "鼏是罕用字，鼎上另外加冖；本課鼎不加冖。"
+      },
+      {
+        "char": "鼑",
+        "similarity": "下部保有鼎的主要字形。",
+        "difference": "鼑是鼎的異體，上面多卜形；本課使用標準正字鼎，不能把此異體說成不存在的錯字。"
+      },
+      {
+        "char": "濎",
+        "similarity": "右側完整含有鼎。",
+        "difference": "濎是罕用字，左側有氵；鼎沒有水旁。"
+      },
+      {
+        "char": "薡",
+        "similarity": "下方完整含有鼎。",
+        "difference": "薡是罕用字，上面有艹；鼎沒有草字頭。"
+      }
+    ],
+    "teachingTip": "鼎較少有常用整字形近字，這六字只作看部件的延伸。先掌握鼎本身，再指出多出的部件；鼑須明標異體。"
+  },
+  "createdAt": "2026-10-21T21:54:25.788951Z"
+}
