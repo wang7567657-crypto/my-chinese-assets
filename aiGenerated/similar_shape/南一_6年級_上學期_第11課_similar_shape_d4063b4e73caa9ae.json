@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第11課_similar_shape_d4063b4e73caa9ae",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "擤",
+    "lessonChars": [
+      "涕",
+      "泛",
+      "枇",
+      "杷",
+      "斥",
+      "肅",
+      "遍",
+      "玄",
+      "痘",
+      "腫",
+      "敷",
+      "央",
+      "瞞",
+      "庭",
+      "徽",
+      "袖",
+      "擤",
+      "鎂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "擤",
+    "similarChars": [
+      {
+        "char": "鼻",
+        "similarity": "擤的右半就是完整鼻字。",
+        "difference": "鼻單獨成字，左邊沒有扌；擤必須加左扌，表示本課的動作。"
+      },
+      {
+        "char": "嚊",
+        "similarity": "右半都是鼻，左右結構很接近。",
+        "difference": "嚊是罕用字，左口；擤左扌。嚊另有異體用法，本課只比較其字形，不用它代替擤。"
+      },
+      {
+        "char": "鼾",
+        "similarity": "都含完整鼻部件。",
+        "difference": "鼾把鼻放左、干放右；擤左扌、右鼻，位置與另一部件都不同。"
+      },
+      {
+        "char": "鼽",
+        "similarity": "都含完整鼻部件。",
+        "difference": "鼽是罕用字，左鼻右九；擤左扌右鼻。"
+      },
+      {
+        "char": "齁",
+        "similarity": "都含完整鼻部件。",
+        "difference": "齁是較少見的字，左鼻右句；擤左扌右鼻，不加句。"
+      },
+      {
+        "char": "齅",
+        "similarity": "都含完整鼻部件。",
+        "difference": "齅是嗅的罕見異體，左鼻右臭；擤左扌右鼻。齅只作形體比較，不當作本課用字。"
+      }
+    ],
+    "teachingTip": "先在各字圈出完整鼻，再指出它在左還是右。擤的鼻在右，左邊一定是扌；罕用字只供看出部件差異，不要求背寫。"
+  },
+  "createdAt": "2026-10-21T23:51:27.550670Z"
+}

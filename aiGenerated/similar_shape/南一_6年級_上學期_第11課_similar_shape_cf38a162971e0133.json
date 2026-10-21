@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第11課_similar_shape_cf38a162971e0133",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "袖",
+    "lessonChars": [
+      "涕",
+      "泛",
+      "枇",
+      "杷",
+      "斥",
+      "肅",
+      "遍",
+      "玄",
+      "痘",
+      "腫",
+      "敷",
+      "央",
+      "瞞",
+      "庭",
+      "徽",
+      "袖",
+      "擤",
+      "鎂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "袖",
+    "similarChars": [
+      {
+        "char": "抽",
+        "similarity": "右半同為由，左右結構相同。",
+        "difference": "袖左衣字旁衤；抽左扌。"
+      },
+      {
+        "char": "油",
+        "similarity": "右半同為由。",
+        "difference": "袖左衤；油左氵。"
+      },
+      {
+        "char": "柚",
+        "similarity": "右半同為由。",
+        "difference": "袖左衤；柚左木。"
+      },
+      {
+        "char": "軸",
+        "similarity": "右半同為由。",
+        "difference": "袖左衤；軸左車，左旁大小與筆畫不同。"
+      },
+      {
+        "char": "鈾",
+        "similarity": "右半同為由。",
+        "difference": "袖左衤；鈾左金字旁。鈾是較少見的元素名稱用字，此處只作字形辨認。"
+      },
+      {
+        "char": "岫",
+        "similarity": "右半同為由。",
+        "difference": "岫是較少見的字，左山；袖左衤。"
+      }
+    ],
+    "teachingTip": "遮住相同的由，依次辨認衤、扌、氵、木、車、金字旁與山。衣袖與衣服有關，寫袖時先找完整衣字旁。"
+  },
+  "createdAt": "2026-10-21T23:51:27.550670Z"
+}

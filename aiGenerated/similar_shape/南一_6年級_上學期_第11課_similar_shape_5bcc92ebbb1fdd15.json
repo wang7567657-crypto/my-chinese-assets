@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第11課_similar_shape_5bcc92ebbb1fdd15",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "肅",
+    "lessonChars": [
+      "涕",
+      "泛",
+      "枇",
+      "杷",
+      "斥",
+      "肅",
+      "遍",
+      "玄",
+      "痘",
+      "腫",
+      "敷",
+      "央",
+      "瞞",
+      "庭",
+      "徽",
+      "袖",
+      "擤",
+      "鎂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "肅",
+    "similarChars": [
+      {
+        "char": "蕭",
+        "similarity": "蕭的下方完整保留肅的筆形。",
+        "difference": "蕭上方另有艹；肅沒有草字頭。不要把附加的艹寫進肅。"
+      },
+      {
+        "char": "簫",
+        "similarity": "簫的下方完整保留肅的筆形。",
+        "difference": "簫上方另有竹字頭；肅沒有竹字頭。"
+      },
+      {
+        "char": "嘯",
+        "similarity": "嘯的右方完整保留肅的筆形。",
+        "difference": "嘯左邊另有口；肅本身不含這個口旁。"
+      },
+      {
+        "char": "繡",
+        "similarity": "繡的右方完整保留肅的筆形。",
+        "difference": "繡左邊另有糸；肅沒有糸旁。"
+      },
+      {
+        "char": "鏽",
+        "similarity": "鏽的右方完整保留肅的筆形。",
+        "difference": "鏽左邊另有金；肅沒有金旁。"
+      },
+      {
+        "char": "鷫",
+        "similarity": "鷫的左方完整保留肅的筆形。",
+        "difference": "鷫右邊另有鳥，部件排列方向與嘯、繡不同。鷫是罕用字，只作共同部件辨形延伸。"
+      }
+    ],
+    "teachingTip": "這六字都能找到肅，差別在新增偏旁及其位置。先練肅本身，再把上方、左方或右方的附加部件遮住辨認；鷫不列為本課必寫字。"
+  },
+  "createdAt": "2026-10-21T23:51:27.550670Z"
+}

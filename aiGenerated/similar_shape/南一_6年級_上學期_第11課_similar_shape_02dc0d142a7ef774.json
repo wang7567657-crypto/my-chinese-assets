@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第11課_similar_shape_02dc0d142a7ef774",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "庭",
+    "lessonChars": [
+      "涕",
+      "泛",
+      "枇",
+      "杷",
+      "斥",
+      "肅",
+      "遍",
+      "玄",
+      "痘",
+      "腫",
+      "敷",
+      "央",
+      "瞞",
+      "庭",
+      "徽",
+      "袖",
+      "擤",
+      "鎂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "庭",
+    "similarChars": [
+      {
+        "char": "廷",
+        "similarity": "庭裡面就是廷，廴的長捺輪廓相同。",
+        "difference": "庭在廷外加广；廷沒有外面的广。"
+      },
+      {
+        "char": "挺",
+        "similarity": "都含完整廷部件。",
+        "difference": "庭用广包住廷；挺左扌、右廷。"
+      },
+      {
+        "char": "艇",
+        "similarity": "都含完整廷部件。",
+        "difference": "庭外是广；艇左舟、右廷。"
+      },
+      {
+        "char": "蜓",
+        "similarity": "都含完整廷部件。",
+        "difference": "庭外是广；蜓左虫、右廷。"
+      },
+      {
+        "char": "霆",
+        "similarity": "都含完整廷部件。",
+        "difference": "庭上外圍是广；霆上雨字頭、下廷。"
+      },
+      {
+        "char": "底",
+        "similarity": "都有广包住內部，外輪廓相近。",
+        "difference": "庭裡面是廷，帶廴；底裡面是氐，沒有廷的廴。"
+      }
+    ],
+    "teachingTip": "將共同的廷用淡色圈出，再比較外加广、左扌、左舟、左虫與上雨字頭。寫庭院的庭，先辨外广、內廷。"
+  },
+  "createdAt": "2026-10-21T23:51:27.550670Z"
+}

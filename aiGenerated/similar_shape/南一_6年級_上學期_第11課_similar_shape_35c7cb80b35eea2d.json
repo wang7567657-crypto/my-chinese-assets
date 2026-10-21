@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第11課_similar_shape_35c7cb80b35eea2d",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "遍",
+    "lessonChars": [
+      "涕",
+      "泛",
+      "枇",
+      "杷",
+      "斥",
+      "肅",
+      "遍",
+      "玄",
+      "痘",
+      "腫",
+      "敷",
+      "央",
+      "瞞",
+      "庭",
+      "徽",
+      "袖",
+      "擤",
+      "鎂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "遍",
+    "similarChars": [
+      {
+        "char": "偏",
+        "similarity": "右半同為扁，戶下的框形相同。",
+        "difference": "偏左邊是亻；遍用辶從左側延伸到字底。"
+      },
+      {
+        "char": "編",
+        "similarity": "都保留完整的扁，框內有直向分隔。",
+        "difference": "編左邊是糹，呈左右結構；遍外加辶。"
+      },
+      {
+        "char": "篇",
+        "similarity": "都含扁，戶與下方冊形都要保留。",
+        "difference": "篇在扁上加竹字頭；遍不加竹字頭，而有辶。"
+      },
+      {
+        "char": "騙",
+        "similarity": "右側同為扁。",
+        "difference": "騙左邊是馬；遍是辶包托扁，不能把左邊換成馬。"
+      },
+      {
+        "char": "蝙",
+        "similarity": "右側同為扁，字的主要方框相同。",
+        "difference": "蝙左虫右扁；遍有辶，沒有虫旁。"
+      },
+      {
+        "char": "扁",
+        "similarity": "就是遍在辶內的完整部件。",
+        "difference": "扁沒有辶；寫遍時不能只剩扁。"
+      }
+    ],
+    "teachingTip": "先圈出六個比較字共有的扁，再辨亻、糹、竹字頭、馬、虫與辶的位置。扁上方是戶，起筆作撇；下方是冊的變形，不能少掉框內分隔。"
+  },
+  "createdAt": "2026-10-21T23:51:27.550670Z"
+}

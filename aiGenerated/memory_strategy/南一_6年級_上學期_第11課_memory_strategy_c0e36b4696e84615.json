@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第11課_memory_strategy_c0e36b4696e84615",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "袖",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "袖",
+    "components": [
+      "衤（衣字旁）",
+      "由"
+    ],
+    "association": "把衣字旁聯想成一件衣服，右邊由像提醒手臂從袖口伸出的記號，將衣袖的部位與左衤右由連在一起。這是字形聯想，不是字源解釋。",
+    "mnemonic": "衣字旁站左邊，由字站在右邊；手臂穿進衣袖，衣袖的袖記心間。",
+    "visualPrompt": "中央呈現完整標準楷體「袖」，左衤右由分色；旁邊另畫一件長袖衣服並用箭頭指衣袖。衣服不替換衣字旁，手臂不替換由的豎畫，所有標準筆畫保持完整。",
+    "teachingTip": "先指出實物衣袖，再寫袖。核對衤是否完整、由的中豎是否向上出頭；把袖與抽並排，遮住由只比較左旁。"
+  },
+  "createdAt": "2026-10-21T23:51:27.550670Z"
+}

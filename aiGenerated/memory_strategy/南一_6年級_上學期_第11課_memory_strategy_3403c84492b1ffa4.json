@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第11課_memory_strategy_3403c84492b1ffa4",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "庭",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "庭",
+    "components": [
+      "广",
+      "廷"
+    ],
+    "association": "把广聯想成屋簷，把廷下方延展的廴聯想成院中的走道；屋簷旁有走道通往庭院，幫助記住外广內廷。這是字形聯想，不是字源解釋。",
+    "mnemonic": "广像屋簷在外，廷像走道在內；走進庭院，外广內廷。",
+    "visualPrompt": "正中央保留完整標準楷體「庭」，淡色標示广與廷；字旁另畫屋簷和通往庭院的走道。屋簷、道路不替代字中筆畫，廷內部依臺灣教育部標準字形呈現。",
+    "teachingTip": "先指出广，再圈完整廷；默寫後檢查是否漏广、把廴寫錯，或把廷內形寫成壬。記憶圖只放字旁。"
+  },
+  "createdAt": "2026-10-21T23:51:27.550670Z"
+}
