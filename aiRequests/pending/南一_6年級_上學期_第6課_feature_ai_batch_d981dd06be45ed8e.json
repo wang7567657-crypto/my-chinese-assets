@@ -1,0 +1,331 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_6年級_上學期_第6課_feature_ai_batch_d981dd06be45ed8e",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "context": {
+      "publisher": "南一",
+      "grade": "6年級",
+      "semester": "上學期",
+      "lesson": "第6課"
+    },
+    "featureTaskType": "component_split",
+    "featureName": "部件拆分",
+    "itemCount": 19,
+    "batchCharacters": [
+      "艇",
+      "艙",
+      "宇",
+      "宙",
+      "朽",
+      "栽",
+      "械",
+      "誌",
+      "訓",
+      "劃",
+      "荒",
+      "垠",
+      "系",
+      "駕",
+      "凌",
+      "隕",
+      "奪",
+      "億",
+      "征"
+    ],
+    "items": [
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_4ca46f6c2c3ac75e",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "艇",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_e0cf46101517b6f3",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "艙",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_e3ee51d0e0bd4696",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "宇",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_c326ad12b904f481",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "宙",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_e37cc4274803e5a6",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "朽",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_6b2c95bbeec63cc6",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "栽",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_adafdcfabc008a3c",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "械",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_77f53d0f2d5dfdf9",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "誌",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_e7e92314e0587dfd",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "訓",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_44af5951a56169e2",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "劃",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_57b2e777a514a884",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "荒",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_59696671c209871f",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "垠",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_9658f84ff78b9566",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "系",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_b0eac0c299c76f09",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "駕",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_5dde252f73b9556a",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "凌",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_6434c3ee75464454",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "隕",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_d48680250f1f3dbd",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "奪",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_b04001ee3648f9ee",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "億",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      },
+      {
+        "taskType": "component_split",
+        "requestId": "南一_6年級_上學期_第6課_component_split_c248f98b52cca6c5",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "char": "征",
+          "strokeCount": null,
+          "strokeSource": "c9s/zh-stroke-data",
+          "needsStrokeCount": true,
+          "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-21T18:44:09.340617Z"
+}

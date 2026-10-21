@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第6課_similar_shape_a3696f0bc7728fcd",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "凌",
+    "lessonChars": [
+      "艇",
+      "艙",
+      "宇",
+      "宙",
+      "朽",
+      "栽",
+      "械",
+      "誌",
+      "訓",
+      "劃",
+      "荒",
+      "垠",
+      "系",
+      "駕",
+      "凌",
+      "隕",
+      "奪",
+      "億",
+      "征"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "凌",
+    "similarChars": [
+      {
+        "char": "陵",
+        "similarity": "右邊同是夌。",
+        "difference": "凌左邊是冫；陵左邊是阝。"
+      },
+      {
+        "char": "稜",
+        "similarity": "右邊同是夌。",
+        "difference": "凌左邊是冫；稜左邊是禾。"
+      },
+      {
+        "char": "綾",
+        "similarity": "右邊同是夌。",
+        "difference": "凌左邊是冫；綾左邊是糹。"
+      },
+      {
+        "char": "菱",
+        "similarity": "都含有夌。",
+        "difference": "凌是左冫右夌；菱是上艹下夌。"
+      },
+      {
+        "char": "崚",
+        "similarity": "右邊同是夌。",
+        "difference": "凌左邊是冫；崚左邊是山。崚較少用，這裡作辨形補充。"
+      },
+      {
+        "char": "冷",
+        "similarity": "左邊同是冫，都是左右結構。",
+        "difference": "凌右邊是夌；冷右邊是令，不能只看左邊。"
+      }
+    ],
+    "teachingTip": "將共同的夌圈出，再比較冫、阝、禾、糹、山；菱的艹在上方，排列方式也不同。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

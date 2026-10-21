@@ -1,0 +1,63 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_6年級_上學期_第6課_component_split_6b2c95bbeec63cc6",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "栽",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "structure": "半包圍",
+    "split": [
+      4,
+      6
+    ],
+    "strokeGroups": [
+      [
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        1,
+        2,
+        3,
+        8,
+        9,
+        10
+      ]
+    ],
+    "components": [
+      "木",
+      "其餘部分"
+    ],
+    "strokeCount": 10,
+    "radical": "木",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "依部首及其餘筆畫分組；各組保留原字位置與原筆順，split 為組內筆畫數。",
+    "verification": {
+      "method": "核對 XML 筆畫數、筆順軌跡與部首位置；目視完整字形，Outline 無重複，各筆恰好分配一次。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/683d.xml"
+    },
+    "updatedAt": "2026-10-02T21:10:34.996Z"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

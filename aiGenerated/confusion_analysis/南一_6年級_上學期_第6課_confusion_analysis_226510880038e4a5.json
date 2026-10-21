@@ -1,0 +1,65 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第6課_confusion_analysis_226510880038e4a5",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "奪",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "奪",
+    "groups": {
+      "shape": [
+        {
+          "char": "奮",
+          "why": "大與隹都相同，整體輪廓十分接近。",
+          "difference": "奪底下是寸；奮底下是田。"
+        },
+        {
+          "char": "集",
+          "why": "都有密集的隹形。",
+          "difference": "奪還有頂端大及底端寸；集下方是木。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "朵",
+          "why": "奪ㄉㄨㄛˊ與朵ㄉㄨㄛˇ聲母、韻母相同，但聲調不同。",
+          "difference": "奪取的奪讀第二聲；花朵的朵讀第三聲。"
+        },
+        {
+          "char": "多",
+          "why": "奪ㄉㄨㄛˊ與多ㄉㄨㄛ只差聲調。",
+          "difference": "爭奪用二聲奪；多少用一聲多。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "搶",
+          "why": "搶奪都可表示強行取得，意思相近。",
+          "difference": "奪還可見於奪冠、定奪；不能把這些詞的奪全換成搶。"
+        }
+      ],
+      "component": [
+        {
+          "char": "寸",
+          "why": "是奪的最下方部件，容易漏點。",
+          "difference": "奪底端須保留寸的點和豎鉤，不能只留下十。"
+        },
+        {
+          "char": "隹",
+          "why": "是奪的中間部件。",
+          "difference": "奪的隹上面有大、下面有寸；中間四橫不要漏寫。"
+        }
+      ]
+    },
+    "tip": "先辨底端寸與田，再讀「奪取的奪ㄉㄨㄛˊ」確認第二聲。奪冠指贏得冠軍，並不等於搶走別人的獎盃。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

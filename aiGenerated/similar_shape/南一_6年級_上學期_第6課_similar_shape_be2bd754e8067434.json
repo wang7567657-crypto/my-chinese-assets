@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第6課_similar_shape_be2bd754e8067434",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "奪",
+    "lessonChars": [
+      "艇",
+      "艙",
+      "宇",
+      "宙",
+      "朽",
+      "栽",
+      "械",
+      "誌",
+      "訓",
+      "劃",
+      "荒",
+      "垠",
+      "系",
+      "駕",
+      "凌",
+      "隕",
+      "奪",
+      "億",
+      "征"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "奪",
+    "similarChars": [
+      {
+        "char": "奮",
+        "similarity": "上方都是大，中間都是隹。",
+        "difference": "奪最下方是寸；奮最下方是田。"
+      },
+      {
+        "char": "套",
+        "similarity": "上方都有大，下半部筆畫較多。",
+        "difference": "奪下方可分辨隹與寸；套的大下面是镸形，沒有隹。"
+      },
+      {
+        "char": "集",
+        "similarity": "都含隹，且隹下方還有部件。",
+        "difference": "奪在隹上有大、下有寸；集是隹下接木。"
+      },
+      {
+        "char": "售",
+        "similarity": "都有隹及下方部件。",
+        "difference": "奪上有大、下有寸；售沒有頂端的大，下方是口。"
+      },
+      {
+        "char": "雀",
+        "similarity": "都含隹，上方還有筆畫。",
+        "difference": "奪隹上是大、下有寸；雀隹上是小形，下方沒有寸。"
+      },
+      {
+        "char": "隼",
+        "similarity": "都有隹，下方有橫豎形筆畫。",
+        "difference": "奪上有大、下為寸；隼上方沒有大，下方為十。隼為鳥名，較少用，這裡只補充辨形。"
+      }
+    ],
+    "teachingTip": "以奪、奮作主要對照，先看最下方是寸還是田；其餘字用來練習找到隹及它上下的部件。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

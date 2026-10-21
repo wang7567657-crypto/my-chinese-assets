@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第6課_memory_strategy_398d4537598b2f7c",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "誌",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "誌",
+    "components": [
+      "言",
+      "志（士、心）"
+    ],
+    "association": "想像把心裡記得的事情化成文字，寫進日誌；用左言和右邊志來記位置。這是教學聯想，不是字源解釋。",
+    "mnemonic": "左邊言，右邊志；士在心上，寫日誌。",
+    "visualPrompt": "中央放臺灣標準楷體「誌」，左言與右志用兩色標示；旁邊放一本寫有「日誌」的小冊子與心形圖。心形圖只放字旁，不取代字內的心。",
+    "teachingTip": "先用色框認出右旁志，再與左言配對辨形；書寫按標準筆順，士的長橫在上，心的點畫不可省略。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

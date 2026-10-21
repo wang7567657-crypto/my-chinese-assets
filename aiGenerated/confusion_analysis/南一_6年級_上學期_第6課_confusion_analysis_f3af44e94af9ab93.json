@@ -1,0 +1,65 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第6課_confusion_analysis_f3af44e94af9ab93",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "誌",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "誌",
+    "groups": {
+      "shape": [
+        {
+          "char": "詩",
+          "why": "兩字左旁相同，右旁的小部件容易混淆。",
+          "difference": "誌右為志，心在下；詩右為寺，寸在下。"
+        },
+        {
+          "char": "詰",
+          "why": "同為言旁，右上也同有士。",
+          "difference": "誌的士下接心；詰的士下接口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "志",
+          "why": "雜誌的誌和志向的志都讀ㄓˋ。",
+          "difference": "本練習用雜誌、日誌對照志向、立志，不只靠讀音分字。"
+        },
+        {
+          "char": "治",
+          "why": "誌與治都讀ㄓˋ。",
+          "difference": "日誌用言旁的誌；治理用水旁的治。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "記",
+          "why": "誌、記都與記錄有關。",
+          "difference": "日誌、雜誌用誌；日記、筆記用記，固定詞語不能任意換字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "志",
+          "why": "誌右邊的志是一個完整部件。",
+          "difference": "加上左言才是誌；志本身沒有言旁。"
+        },
+        {
+          "char": "土",
+          "why": "誌右上士與土都由兩橫一豎組成。",
+          "difference": "誌右上用士，上橫較長；土的下橫較長。"
+        }
+      ]
+    },
+    "tip": "先讀詞義再選字：寫日誌、讀雜誌、立志向。最後檢查左言、右上士、右下心。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

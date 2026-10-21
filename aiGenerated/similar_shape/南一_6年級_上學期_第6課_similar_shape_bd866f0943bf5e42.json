@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第6課_similar_shape_bd866f0943bf5e42",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "垠",
+    "lessonChars": [
+      "艇",
+      "艙",
+      "宇",
+      "宙",
+      "朽",
+      "栽",
+      "械",
+      "誌",
+      "訓",
+      "劃",
+      "荒",
+      "垠",
+      "系",
+      "駕",
+      "凌",
+      "隕",
+      "奪",
+      "億",
+      "征"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "垠",
+    "similarChars": [
+      {
+        "char": "銀",
+        "similarity": "右邊都是艮。",
+        "difference": "垠左邊是土；銀左邊是金。"
+      },
+      {
+        "char": "根",
+        "similarity": "右邊都是艮，整字同為左右結構。",
+        "difference": "垠左邊是土；根左邊是木。"
+      },
+      {
+        "char": "很",
+        "similarity": "右邊都是艮。",
+        "difference": "垠左邊是土；很左邊是彳。"
+      },
+      {
+        "char": "恨",
+        "similarity": "右邊都是艮。",
+        "difference": "垠左邊是土；恨左邊是忄。"
+      },
+      {
+        "char": "限",
+        "similarity": "右邊都是艮。",
+        "difference": "垠左邊是土；限左邊是阝。"
+      },
+      {
+        "char": "跟",
+        "similarity": "右邊都是艮。",
+        "difference": "垠左邊是土；跟左邊是足字旁。"
+      }
+    ],
+    "teachingTip": "先遮住共同的右艮，只看左旁：垠一定是土。再把土與木、金、彳、忄、阝、足字旁逐一比較。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

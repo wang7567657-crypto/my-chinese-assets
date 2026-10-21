@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第6課_similar_shape_7f2116b224c352ef",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "駕",
+    "lessonChars": [
+      "艇",
+      "艙",
+      "宇",
+      "宙",
+      "朽",
+      "栽",
+      "械",
+      "誌",
+      "訓",
+      "劃",
+      "荒",
+      "垠",
+      "系",
+      "駕",
+      "凌",
+      "隕",
+      "奪",
+      "億",
+      "征"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "駕",
+    "similarChars": [
+      {
+        "char": "架",
+        "similarity": "上方同是加，且都是上下排列。",
+        "difference": "駕下面是馬；架下面是木。"
+      },
+      {
+        "char": "賀",
+        "similarity": "上方同是加。",
+        "difference": "駕下面是馬；賀下面是貝。"
+      },
+      {
+        "char": "加",
+        "similarity": "駕上方完整保留加。",
+        "difference": "加只有力與口；駕在下方另有馬。"
+      },
+      {
+        "char": "咖",
+        "similarity": "都包含加。",
+        "difference": "駕的加在上、馬在下；咖是左口右加。"
+      },
+      {
+        "char": "騎",
+        "similarity": "都含有馬，筆畫較密。",
+        "difference": "駕是上加下馬；騎是左馬右奇。"
+      },
+      {
+        "char": "駛",
+        "similarity": "都含有馬。",
+        "difference": "駕是上下結構；駛是左馬右史。"
+      }
+    ],
+    "teachingTip": "先確認「加在上、馬在下」，再與架、賀比較下半部；不要只看共同的加。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

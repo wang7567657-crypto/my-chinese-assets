@@ -1,0 +1,65 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第6課_confusion_analysis_d5b0252db4d6e3e5",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "駕",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "駕",
+    "groups": {
+      "shape": [
+        {
+          "char": "架",
+          "why": "上半部相同，下半部可能寫錯。",
+          "difference": "駕下馬；架下木。"
+        },
+        {
+          "char": "賀",
+          "why": "上方都是加。",
+          "difference": "駕下馬；賀下貝。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "架",
+          "why": "兩字都讀ㄐㄧㄚˋ。",
+          "difference": "駕用於駕駛；架用於書架、架橋。"
+        },
+        {
+          "char": "價",
+          "why": "兩字都讀ㄐㄧㄚˋ。",
+          "difference": "駕駛用駕；價格用價。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "騎",
+          "why": "都可用來描述乘坐、操控交通工具或動物。",
+          "difference": "騎常見於騎馬、騎腳踏車；駕常見於駕車、駕駛飛機，不能把固定用詞隨意互換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "加",
+          "why": "是駕的上半部。",
+          "difference": "只寫加會漏掉下方的馬。"
+        },
+        {
+          "char": "馬",
+          "why": "是駕的下半部。",
+          "difference": "駕上方還要有加；馬的四點須保留，不能改成木或貝。"
+        }
+      ]
+    },
+    "tip": "聽到ㄐㄧㄚˋ先想詞義：駕駛、書架、價格，再核對部件。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

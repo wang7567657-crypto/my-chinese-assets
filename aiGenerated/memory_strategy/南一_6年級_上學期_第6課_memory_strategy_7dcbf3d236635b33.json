@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第6課_memory_strategy_7dcbf3d236635b33",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "訓",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "訓",
+    "components": [
+      "言",
+      "川"
+    ],
+    "association": "把左言聯想到口頭指導，把右川的三筆聯想到三個依序練習的步驟，幫助記住訓練。這是教學聯想，不是字源解釋。",
+    "mnemonic": "左言右川記住訓，聽懂指導再練習。",
+    "visualPrompt": "中央放臺灣標準楷體「訓」，言和川分色；字旁畫說話框與三張依序排列的練習卡。卡片和圖都放在字外，不以河流或線條取代川的筆畫。",
+    "teachingTip": "先定位左言右川，再按標準筆順書寫。辨認川的豎撇、短豎、長豎，不多添橫畫；訓練的訓讀ㄒㄩㄣˋ。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

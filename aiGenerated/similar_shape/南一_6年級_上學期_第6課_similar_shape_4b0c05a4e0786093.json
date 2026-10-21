@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第6課_similar_shape_4b0c05a4e0786093",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "訓",
+    "lessonChars": [
+      "艇",
+      "艙",
+      "宇",
+      "宙",
+      "朽",
+      "栽",
+      "械",
+      "誌",
+      "訓",
+      "劃",
+      "荒",
+      "垠",
+      "系",
+      "駕",
+      "凌",
+      "隕",
+      "奪",
+      "億",
+      "征"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "訓",
+    "similarChars": [
+      {
+        "char": "馴",
+        "similarity": "右邊同是川，都是左右結構。",
+        "difference": "訓左邊是言；馴左邊是馬。"
+      },
+      {
+        "char": "圳",
+        "similarity": "右邊同是川，右側三筆排列相同。",
+        "difference": "訓左邊是言；圳左邊是土。"
+      },
+      {
+        "char": "順",
+        "similarity": "都含川部件。",
+        "difference": "訓的川在言右邊；順的川在頁左邊，位置不能混淆。"
+      },
+      {
+        "char": "川",
+        "similarity": "川是訓右邊的完整部件。",
+        "difference": "這是部件對照：訓還有左邊的言；川獨立成字時沒有言。"
+      },
+      {
+        "char": "訊",
+        "similarity": "左邊同為言，右旁筆畫都較少。",
+        "difference": "訓右邊是川，三筆分開；訊右旁有轉折鉤及十形，筆畫會相交。"
+      },
+      {
+        "char": "訐",
+        "similarity": "左邊同為言，右邊也都是三畫。",
+        "difference": "訓右為川，沒有橫畫；訐右為干，有兩橫和一豎。訐較少單獨使用，可在攻訐一詞中認識。"
+      }
+    ],
+    "teachingTip": "先找右川的三筆，再看左旁是不是言。川依序為豎撇、短豎、長豎，不能把三筆連起來。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

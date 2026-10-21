@@ -1,0 +1,71 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_6年級_上學期_第6課_component_split_d48680250f1f3dbd",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "奪",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "split": [
+      3,
+      11
+    ],
+    "components": [
+      "大",
+      "其餘部分"
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    ],
+    "strokeCount": 14,
+    "structure": "上下",
+    "radical": "大",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "verified": true,
+    "source": "c9s/zh-stroke-data",
+    "verification": {
+      "method": "本輪重新解析固定 c9s commit 的原始 XML，與未修改官方 parser 深相等；驗證每筆 Outline/Track、有限座標與唯一性、Track 連續覆蓋、各筆恰一次、分組及結構。實際目視本輪新全字分色、原位部首與其餘隔離、每筆隔離及累積圖；未修改的官方 canvas 離線全字與單筆 replay 實心缺口為 0。非正式網站 E2E，非像素完全相同。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/52633f01f9973327e2f2823e39590058a6a88ba9/utf8/596a.xml",
+      "sourceCommit": "52633f01f9973327e2f2823e39590058a6a88ba9",
+      "sourceBlobSha": "cc169f0617a5178a0210850577e9b178821cc8ec",
+      "checkedAt": "2026-10-21T18:50:21.077953+00:00",
+      "radicalMetadataSource": "https://github.com/wang7567657-crypto/my-chinese-assets/blob/6279defd155cd01c5395aa6f87c1a8dd6e94221e/charInfo/奪.json",
+      "solidMissingDefinition": "direct alpha >= 250 and replay alpha < 128",
+      "alphaDifferencesRetained": true
+    },
+    "note": "依本輪新取得的 c9s XML 核實大部及其餘部分分組；各筆恰好一次，保留原字位置與各組原筆順。舊 source 標籤本身不作 c9s 來源證明。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

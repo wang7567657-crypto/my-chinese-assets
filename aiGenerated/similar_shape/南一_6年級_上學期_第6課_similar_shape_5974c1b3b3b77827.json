@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第6課_similar_shape_5974c1b3b3b77827",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "宙",
+    "lessonChars": [
+      "艇",
+      "艙",
+      "宇",
+      "宙",
+      "朽",
+      "栽",
+      "械",
+      "誌",
+      "訓",
+      "劃",
+      "荒",
+      "垠",
+      "系",
+      "駕",
+      "凌",
+      "隕",
+      "奪",
+      "億",
+      "征"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "宙",
+    "similarChars": [
+      {
+        "char": "宇",
+        "similarity": "上方同為宀，都是上下結構。",
+        "difference": "「宙」下方是由，有方框；「宇」下方是于，沒有方框。"
+      },
+      {
+        "char": "宥",
+        "similarity": "同有宀，下方都有較集中的橫、豎筆畫。",
+        "difference": "「宙」下面是由；「宥」下面是有，月形上方另有橫與撇。"
+      },
+      {
+        "char": "由",
+        "similarity": "「由」正是「宙」完整的下半部件。",
+        "difference": "單寫由沒有宀；宙在由上方加宀。"
+      },
+      {
+        "char": "笛",
+        "similarity": "下面同為由，都是上部件配下由。",
+        "difference": "「笛」上面是竹字頭；「宙」上面是宀。"
+      },
+      {
+        "char": "油",
+        "similarity": "同有完整的由部件。",
+        "difference": "「油」是左氵、右由；「宙」是上宀、下由。"
+      },
+      {
+        "char": "抽",
+        "similarity": "同有完整的由部件。",
+        "difference": "「抽」是左扌、右由；「宙」是上宀、下由。"
+      }
+    ],
+    "teachingTip": "先找由的方框與中豎，再比較宀、竹字頭、氵、扌放在哪裡；由的中豎向上出頭，不向下穿出底橫。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

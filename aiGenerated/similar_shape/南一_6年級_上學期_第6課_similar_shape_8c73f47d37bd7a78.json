@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第6課_similar_shape_8c73f47d37bd7a78",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "征",
+    "lessonChars": [
+      "艇",
+      "艙",
+      "宇",
+      "宙",
+      "朽",
+      "栽",
+      "械",
+      "誌",
+      "訓",
+      "劃",
+      "荒",
+      "垠",
+      "系",
+      "駕",
+      "凌",
+      "隕",
+      "奪",
+      "億",
+      "征"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "征",
+    "similarChars": [
+      {
+        "char": "正",
+        "similarity": "征的右邊完整保留正。",
+        "difference": "征左邊另有彳；正單獨成字。"
+      },
+      {
+        "char": "政",
+        "similarity": "都含有完整的正。",
+        "difference": "征是左彳右正；政是左正右攵。"
+      },
+      {
+        "char": "怔",
+        "similarity": "右邊同是正。",
+        "difference": "征左邊是彳；怔左邊是忄。怔較少用，這裡作辨形補充。"
+      },
+      {
+        "char": "往",
+        "similarity": "左邊同是彳，右邊都有橫豎筆畫。",
+        "difference": "征右邊是正，頂端為橫；往右邊是主，頂端為點。"
+      },
+      {
+        "char": "徒",
+        "similarity": "左邊同是彳，右邊有上下層次的橫豎筆畫。",
+        "difference": "征右邊是正；徒右邊是走，下方有向右伸出的捺。"
+      },
+      {
+        "char": "徵",
+        "similarity": "左邊同是彳。",
+        "difference": "征右邊只有正；徵右半部筆畫多，可見山形與攵，不能因同讀ㄓㄥ就省寫。"
+      }
+    ],
+    "teachingTip": "先看左彳是否完整，再認右正；與往比較頂端橫或點，與徵比較右半部的複雜程度。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

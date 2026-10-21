@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第6課_memory_strategy_425b0f951c895ec2",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "億",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "億",
+    "components": [
+      "亻（左）",
+      "意（右，上音下心）"
+    ],
+    "association": "想像一個人在數位表旁，用心注意「億」這個大數單位；用一個人提醒亻，用注意提醒意。這是記憶聯想，並非字源解釋。",
+    "mnemonic": "左邊人，右邊意；一萬個萬是一億。",
+    "visualPrompt": "田字格內保留完整標準「億」字；旁邊另畫一人指向100,000,000的數字卡。以文字標出亻與意，意下方的心完整保留，不將人或數字嵌入字形。",
+    "teachingTip": "先比較億、憶的左旁，再把右意依上音下心觀察。用數字卡核對一億，最後遮卡寫字，檢查亻與下方心是否完整。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}
