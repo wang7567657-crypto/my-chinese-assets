@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第7課_similar_shape_ee2db757cec5961d",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "壤",
+    "lessonChars": [
+      "抉",
+      "擇",
+      "抽",
+      "搔",
+      "跆",
+      "蹣",
+      "跚",
+      "苞",
+      "芽",
+      "犧",
+      "牲",
+      "勞",
+      "叢",
+      "履",
+      "灶",
+      "壤",
+      "衡",
+      "維"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "壤",
+    "similarChars": [
+      {
+        "char": "嚷",
+        "similarity": "右邊同是襄，整體都是左右結構。",
+        "difference": "壤左土；嚷左口。土壤的壤不能換成口旁。"
+      },
+      {
+        "char": "讓",
+        "similarity": "右邊同是襄。",
+        "difference": "壤左土；讓左言，左旁筆畫不同。"
+      },
+      {
+        "char": "釀",
+        "similarity": "右邊同是襄。",
+        "difference": "壤左土；釀左酉，酉有方框和框內筆畫。"
+      },
+      {
+        "char": "鑲",
+        "similarity": "右邊同是襄。",
+        "difference": "壤左土；鑲左金，左旁的形狀和筆畫數不同。"
+      },
+      {
+        "char": "攘",
+        "similarity": "右邊同是襄。",
+        "difference": "壤左土；攘左扌。土旁沒有扌的豎鉤。"
+      },
+      {
+        "char": "襄",
+        "similarity": "壤的右邊完整保留襄。",
+        "difference": "襄單獨成字；壤在左邊另有土。襄較少用，這裡主要作共同部件辨認。"
+      }
+    ],
+    "teachingTip": "先圈出共同的襄，再分別指認土、口、言、酉、金、扌。壤的左土末筆為提；右襄的兩個口、其下三橫兩豎都要保留。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

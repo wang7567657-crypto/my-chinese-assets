@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第7課_similar_shape_adece7cf8a6c5d58",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "灶",
+    "lessonChars": [
+      "抉",
+      "擇",
+      "抽",
+      "搔",
+      "跆",
+      "蹣",
+      "跚",
+      "苞",
+      "芽",
+      "犧",
+      "牲",
+      "勞",
+      "叢",
+      "履",
+      "灶",
+      "壤",
+      "衡",
+      "維"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "灶",
+    "similarChars": [
+      {
+        "char": "炷",
+        "similarity": "左邊同是火，右邊都有橫畫和直畫。",
+        "difference": "灶右邊是土；炷右邊是主，多了上方點畫與中間橫畫。炷較少用，可用一炷香辨認。"
+      },
+      {
+        "char": "炕",
+        "similarity": "左邊同是火，都是左右結構。",
+        "difference": "灶右邊是土；炕右邊是亢，底部不是土的長橫。"
+      },
+      {
+        "char": "炊",
+        "similarity": "左邊同是火。",
+        "difference": "灶右邊是土，只有兩橫一豎；炊右邊是欠，有撇捺伸展。"
+      },
+      {
+        "char": "杜",
+        "similarity": "右邊同是土。",
+        "difference": "灶左邊是火；杜左邊是木，須核對左旁的筆畫。"
+      },
+      {
+        "char": "社",
+        "similarity": "右邊同是土。",
+        "difference": "灶左邊是火；社左邊是礻，不能把左旁只看成幾個點畫。"
+      },
+      {
+        "char": "吐",
+        "similarity": "右邊同是土。",
+        "difference": "灶左邊是火；吐左邊是口，外框封閉。"
+      }
+    ],
+    "teachingTip": "這組以共同部件辨形：先比較火旁的炷、炕、炊，再比較右土的杜、社、吐。灶的土是下橫長、上橫短；左火末筆收成點。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

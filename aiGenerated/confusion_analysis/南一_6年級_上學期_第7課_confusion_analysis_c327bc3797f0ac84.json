@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第7課_confusion_analysis_c327bc3797f0ac84",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "苞",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "苞",
+    "groups": {
+      "shape": [
+        {
+          "char": "胞",
+          "why": "包部件相同，可能只看包就認字。",
+          "difference": "花苞的苞是艹在上；細胞的胞是月在左。"
+        },
+        {
+          "char": "抱",
+          "why": "都有包，但外加部件容易混淆。",
+          "difference": "花苞用艹；擁抱用扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "包",
+          "why": "苞與包都讀ㄅㄠ。",
+          "difference": "花苞是植物相關詞，用艹頭的苞；包裹用包，不加艹。"
+        },
+        {
+          "char": "胞",
+          "why": "苞與胞都讀ㄅㄠ，也共有包部件。",
+          "difference": "花苞寫苞；細胞寫胞，不能因同音而互換。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "芽",
+          "why": "花苞和嫩芽都是植物生長時會觀察到的部分。",
+          "difference": "花苞著重尚未開放的花；嫩芽著重植物初生的幼嫩部分，不把發芽寫成發苞。"
+        }
+      ],
+      "component": [
+        {
+          "char": "巳",
+          "why": "包內的轉折容易與己、已混看。",
+          "difference": "苞下方完整寫包，包內依巳形書寫，末筆豎曲鉤伸出勹外側。"
+        }
+      ]
+    },
+    "tip": "先說詞語「花苞」，再看上艹下包；用「花苞、細胞、包裹」三詞選字，將聲音相同和字義不同分開練。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

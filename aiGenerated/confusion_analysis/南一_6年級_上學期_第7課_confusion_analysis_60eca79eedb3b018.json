@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第7課_confusion_analysis_60eca79eedb3b018",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "芽",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "芽",
+    "groups": {
+      "shape": [
+        {
+          "char": "牙",
+          "why": "芽下方就是牙，漏寫字頭後便成另一字。",
+          "difference": "豆芽用芽，有艹；牙齒用牙，沒有艹。"
+        },
+        {
+          "char": "穿",
+          "why": "下方相同，若只注意牙就可能認錯。",
+          "difference": "芽上為艹；穿上為穴，穿衣不寫芽衣。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "牙",
+          "why": "芽與牙都讀ㄧㄚˊ。",
+          "difference": "萌芽、發芽用草頭的芽；牙刷、牙齒用牙，依詞義選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "苗",
+          "why": "芽與苗都和植物早期生長有關。",
+          "difference": "新芽著重初生的幼嫩部分；幼苗著重幼小植株。芽與苗在一般詞語中不能任意替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "才",
+          "why": "牙的豎鉤和末撇容易使人只記成才的輪廓。",
+          "difference": "芽下方是四畫的牙，包含豎折；才沒有這個豎折，不能把芽拆成艹加才。"
+        }
+      ]
+    },
+    "tip": "用「豆芽、牙齒」同音選字，再用「芽、穿」字頭比較。寫牙時核對豎折與上橫相接，末筆是一撇。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

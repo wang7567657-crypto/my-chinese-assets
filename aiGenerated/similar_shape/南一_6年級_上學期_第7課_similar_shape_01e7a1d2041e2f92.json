@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第7課_similar_shape_01e7a1d2041e2f92",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "牲",
+    "lessonChars": [
+      "抉",
+      "擇",
+      "抽",
+      "搔",
+      "跆",
+      "蹣",
+      "跚",
+      "苞",
+      "芽",
+      "犧",
+      "牲",
+      "勞",
+      "叢",
+      "履",
+      "灶",
+      "壤",
+      "衡",
+      "維"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "牲",
+    "similarChars": [
+      {
+        "char": "生",
+        "similarity": "生就是牲右邊的完整部件。",
+        "difference": "牲左邊另有牛字旁；生單獨成字。"
+      },
+      {
+        "char": "姓",
+        "similarity": "右邊都是生，左右結構相同。",
+        "difference": "牲左邊是牛字旁；姓左邊是女。"
+      },
+      {
+        "char": "性",
+        "similarity": "右邊都完整保留生。",
+        "difference": "牲左邊是牛字旁；性左邊是忄。"
+      },
+      {
+        "char": "星",
+        "similarity": "都含完整的生。",
+        "difference": "牲是左牛右生；星是上日下生。"
+      },
+      {
+        "char": "甥",
+        "similarity": "都含生部件，能比較同部件的位置。",
+        "difference": "牲的生在右；甥的生在左，右邊還有男，生作左旁時末橫斜挑。"
+      },
+      {
+        "char": "笙",
+        "similarity": "下方的生與牲右側的生相同。",
+        "difference": "牲是左右結構；笙是上竹下生，字頭不同。"
+      }
+    ],
+    "teachingTip": "固定右生，逐一更換左旁比較牲、姓、性；再看星、笙把生放在下方，甥把生放在左方。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

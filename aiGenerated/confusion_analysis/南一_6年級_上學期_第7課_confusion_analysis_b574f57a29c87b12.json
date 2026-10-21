@@ -1,0 +1,65 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第7課_confusion_analysis_b574f57a29c87b12",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "擇",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "擇",
+    "groups": {
+      "shape": [
+        {
+          "char": "澤",
+          "why": "右半相同，左旁容易看漏。",
+          "difference": "選擇用扌旁的擇；沼澤用氵旁的澤。"
+        },
+        {
+          "char": "譯",
+          "why": "右半同為睪，密集筆畫容易造成混淆。",
+          "difference": "翻譯用言旁的譯；選擇用扌旁的擇。"
+        },
+        {
+          "char": "擲",
+          "why": "都有扌，且右半筆畫多。",
+          "difference": "擇右半上有罒；擲右半是鄭，最右有阝，投擲用擲。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "澤",
+          "why": "擇與澤都讀ㄗㄜˊ。",
+          "difference": "選擇與沼澤要依詞義及左旁分辨。"
+        },
+        {
+          "char": "責",
+          "why": "擇與責都讀ㄗㄜˊ。",
+          "difference": "選擇用擇；責任用責，責下方有貝。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "選",
+          "why": "選與擇都有挑選的意思，也組成選擇。",
+          "difference": "兩字可以一起成詞，但不能任意互換固定詞語：人選用選，抉擇用擇。"
+        }
+      ],
+      "component": [
+        {
+          "char": "辛",
+          "why": "睪的下半幸與辛都有多條橫畫，容易記混。",
+          "difference": "擇右半下方寫幸：上有土，下有干，中間有兩點；不是起筆為點的辛。"
+        }
+      ]
+    },
+    "tip": "在選擇、抉擇中，擇讀ㄗㄜˊ。書寫依序核對扌、罒、幸；幸中間的兩點要與相鄰的上下筆畫相接。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

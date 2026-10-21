@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第7課_similar_shape_24aefc5d52ebea98",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "跆",
+    "lessonChars": [
+      "抉",
+      "擇",
+      "抽",
+      "搔",
+      "跆",
+      "蹣",
+      "跚",
+      "苞",
+      "芽",
+      "犧",
+      "牲",
+      "勞",
+      "叢",
+      "履",
+      "灶",
+      "壤",
+      "衡",
+      "維"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "跆",
+    "similarChars": [
+      {
+        "char": "抬",
+        "similarity": "右半同是台，左旁都是窄形部件。",
+        "difference": "跆左邊是足字旁；抬左邊是扌。"
+      },
+      {
+        "char": "治",
+        "similarity": "右半同是台。",
+        "difference": "跆左旁是足字旁；治左旁是氵。"
+      },
+      {
+        "char": "怡",
+        "similarity": "右半同是台。",
+        "difference": "跆左旁是足字旁；怡左旁是忄。"
+      },
+      {
+        "char": "胎",
+        "similarity": "右半同是台。",
+        "difference": "跆左旁是足字旁；胎左旁是月。"
+      },
+      {
+        "char": "苔",
+        "similarity": "都含有完整的台。",
+        "difference": "跆把足字旁放在台左邊；苔把艹放在台上面。"
+      },
+      {
+        "char": "始",
+        "similarity": "右半同是台。",
+        "difference": "跆左旁是足字旁；始左旁是女。"
+      }
+    ],
+    "teachingTip": "固定右台，逐一辨認左旁；再比較苔的上下結構。台上是厶、下是口，不因聯想把口畫成器材。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第7課_similar_shape_7b022e8ceefed7a1",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "維",
+    "lessonChars": [
+      "抉",
+      "擇",
+      "抽",
+      "搔",
+      "跆",
+      "蹣",
+      "跚",
+      "苞",
+      "芽",
+      "犧",
+      "牲",
+      "勞",
+      "叢",
+      "履",
+      "灶",
+      "壤",
+      "衡",
+      "維"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "維",
+    "similarChars": [
+      {
+        "char": "惟",
+        "similarity": "右邊同是隹。",
+        "difference": "維左糹；惟左忄，左旁筆畫不同。"
+      },
+      {
+        "char": "唯",
+        "similarity": "右邊同是隹。",
+        "difference": "維左糹；唯左口，不能因為右旁相同就互換。"
+      },
+      {
+        "char": "堆",
+        "similarity": "右邊同是隹。",
+        "difference": "維左糹；堆左土。"
+      },
+      {
+        "char": "推",
+        "similarity": "右邊同是隹。",
+        "difference": "維左糹；推左扌。"
+      },
+      {
+        "char": "椎",
+        "similarity": "右邊同是隹。",
+        "difference": "維左糹；椎左木。"
+      },
+      {
+        "char": "誰",
+        "similarity": "右邊同是隹。",
+        "difference": "維左糹；誰左言，左旁形狀和筆畫數不同。"
+      }
+    ],
+    "teachingTip": "固定共同的隹，逐一比較糹、忄、口、土、扌、木、言。維的糸旁下方作三點；隹的四橫都接左豎，不能少一橫。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

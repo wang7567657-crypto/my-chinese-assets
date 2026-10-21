@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第7課_confusion_analysis_4438deba2aed1717",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "跚",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "跚",
+    "groups": {
+      "shape": [
+        {
+          "char": "珊",
+          "why": "同有右冊，左旁看得太快容易錯認。",
+          "difference": "蹣跚用足字旁的跚；珊瑚用王字旁的珊。"
+        },
+        {
+          "char": "姍",
+          "why": "右旁同為冊，只看右側容易混淆。",
+          "difference": "步履蹣跚用跚；姍姍來遲用女旁的姍。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "山",
+          "why": "跚與山都讀ㄕㄢ，聽寫時可能只憑聲音選字。",
+          "difference": "蹣跚的跚有足和冊；高山的山是另一個字，不能代換。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "冊",
+          "why": "冊是右側部件，可能因只記部件而漏掉足字旁。",
+          "difference": "跚是左足右冊；寫完整的跚時，左右兩部分都不能省略。"
+        },
+        {
+          "char": "蹣",
+          "why": "兩字連用且同有足字旁，容易把右旁對調。",
+          "difference": "蹣跚的第一字右旁是㒼，第二字右旁是冊；按順序逐字核對。"
+        }
+      ]
+    },
+    "tip": "以「蹣跚（ㄇㄢˊ ㄕㄢ）」整詞認讀，再分開核對左足、右冊；描述步伐不穩時用尊重的語氣，不模仿或取笑他人的行走方式。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

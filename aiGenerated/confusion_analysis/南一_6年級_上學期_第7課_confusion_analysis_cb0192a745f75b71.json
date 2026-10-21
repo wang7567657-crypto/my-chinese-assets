@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第7課_confusion_analysis_cb0192a745f75b71",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "跆",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "跆",
+    "groups": {
+      "shape": [
+        {
+          "char": "抬",
+          "why": "右半同台，左旁的差異可能被忽略。",
+          "difference": "跆拳道用足字旁的跆；抬頭用扌旁的抬。"
+        },
+        {
+          "char": "胎",
+          "why": "右半同台，整體都為左右結構。",
+          "difference": "跆左邊是足字旁；胎左邊是月，輪胎不能寫成輪跆。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "抬",
+          "why": "跆與抬都讀ㄊㄞˊ。",
+          "difference": "跆拳道用跆；抬高用抬，依詞語與左旁判斷。"
+        },
+        {
+          "char": "胎",
+          "why": "跆ㄊㄞˊ與胎ㄊㄞ的聲母、韻母相同。",
+          "difference": "跆是第二聲；輪胎的胎是第一聲。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "踏",
+          "why": "跆與踏都能涉及腳踩、踢踏的動作。",
+          "difference": "本字常見於跆拳道；踏步用踏。意義有相近處，仍依既定詞語用字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "厶",
+          "why": "台的上半是厶，細小筆畫容易被漏掉。",
+          "difference": "跆右邊完整寫台：上有厶的一撇挑和一點，下有口；不能只寫口。"
+        }
+      ]
+    },
+    "tip": "把「跆拳道」ㄊㄞˊ ㄑㄩㄢˊ ㄉㄠˋ整詞讀出來，左足旁提示腳的動作，右台上厶下口；足旁底部橫畫向右上挑。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第7課_memory_strategy_7ef199115ee33a2e",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "履",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "履",
+    "components": [
+      "外側尸",
+      "尸下復（左彳、右复）"
+    ],
+    "association": "把尸的外形想成鞋子上方的遮蓋，裡面的彳讓人聯想到穿著鞋行走，連結到步履。這是教學聯想，並非字源解釋，也不改變尸或復的字形。",
+    "mnemonic": "尸下藏個復，步履向前走。",
+    "visualPrompt": "在田字格內放標準「履」字，用兩色框區分尸與復；字旁另畫一雙鞋和兩個腳印，標示「步履」。鞋與腳印不得取代字內部件，標準字形及筆畫保持不變。",
+    "teachingTip": "先辨尸下的復，再圈出彳；按教育部標準字形寫右下夊，末捺起筆須出頭。最後與屢並排，指出履下方不是女。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

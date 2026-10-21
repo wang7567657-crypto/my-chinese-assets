@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第7課_memory_strategy_6a64e124215102b5",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "跚",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "跚",
+    "components": [
+      "足字旁",
+      "冊"
+    ],
+    "association": "想像一張記錄步伐的觀察小冊：用「步伐」提示左邊的足，用「小冊」提示右邊的冊。這是教學聯想，不是字源解釋。",
+    "mnemonic": "步伐記在冊，左足右冊跚。",
+    "visualPrompt": "中央放臺灣標準楷體「跚」，左足字旁與右冊分色；字旁畫一本寫著「步伐觀察」的小冊和兩個腳印。圖案放在字外，不能用腳印替代足旁或把冊改成書本圖。",
+    "teachingTip": "先認足字旁，再完整寫冊；冊依臺灣標準字形，不改成册。口訣只提示字形，不把「跚」單獨當成走路動詞；用蹣跚練習。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

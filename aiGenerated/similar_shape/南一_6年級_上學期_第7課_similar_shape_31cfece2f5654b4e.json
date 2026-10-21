@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第7課_similar_shape_31cfece2f5654b4e",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "抽",
+    "lessonChars": [
+      "抉",
+      "擇",
+      "抽",
+      "搔",
+      "跆",
+      "蹣",
+      "跚",
+      "苞",
+      "芽",
+      "犧",
+      "牲",
+      "勞",
+      "叢",
+      "履",
+      "灶",
+      "壤",
+      "衡",
+      "維"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "抽",
+    "similarChars": [
+      {
+        "char": "油",
+        "similarity": "右半同是由，都是左右結構。",
+        "difference": "抽左旁是扌；油左旁是氵。"
+      },
+      {
+        "char": "袖",
+        "similarity": "右半同是由。",
+        "difference": "抽左旁是扌；袖左旁是衤，點、撇等筆畫不可省成扌。"
+      },
+      {
+        "char": "柚",
+        "similarity": "右半同是由。",
+        "difference": "抽左旁是扌；柚左旁是木。"
+      },
+      {
+        "char": "軸",
+        "similarity": "右半同是由。",
+        "difference": "抽左旁是扌；軸左旁是車，輪廓較寬、橫畫較多。"
+      },
+      {
+        "char": "迪",
+        "similarity": "都含有完整的由。",
+        "difference": "抽是扌在由左邊；迪用辶從左下包住由。"
+      },
+      {
+        "char": "押",
+        "similarity": "左旁同是扌，右半都有方框與中豎。",
+        "difference": "抽右邊是由，中豎向上出頭；押右邊是甲，中豎向下出頭。"
+      }
+    ],
+    "teachingTip": "以手指指出由的中豎向上出頭，再換看押的甲向下出頭；由的底部不要多伸一段豎。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}
