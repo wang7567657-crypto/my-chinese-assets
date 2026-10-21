@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第3課_similar_shape_784c40d545cb2e66",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "兼",
+    "lessonChars": [
+      "酒",
+      "醅",
+      "籬",
+      "簡",
+      "笆",
+      "陋",
+      "陳",
+      "濾",
+      "潺",
+      "舍",
+      "皆",
+      "緣",
+      "蓬",
+      "飧",
+      "兼",
+      "樽",
+      "舊",
+      "鎮",
+      "寂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "兼",
+    "similarChars": [
+      {
+        "char": "廉",
+        "similarity": "廉的广內有兼形。",
+        "difference": "兼單獨成字；廉在外面加广，呈左上包圍。"
+      },
+      {
+        "char": "謙",
+        "similarity": "右半有兼形。",
+        "difference": "兼沒有左偏旁；謙在左邊加言字旁。"
+      },
+      {
+        "char": "嫌",
+        "similarity": "右半有兼形。",
+        "difference": "兼沒有女旁；嫌是左女右兼。"
+      },
+      {
+        "char": "賺",
+        "similarity": "右半有兼形。",
+        "difference": "兼沒有貝旁；賺是左貝右兼。"
+      },
+      {
+        "char": "歉",
+        "similarity": "左半有兼形。",
+        "difference": "歉在兼右邊加欠；兼作左偏旁時末捺改點，不能照抄獨體字的伸展捺。"
+      },
+      {
+        "char": "鐮",
+        "similarity": "右半廉內仍可辨出兼。",
+        "difference": "鐮是左金右廉，廉外還有广；兼本身沒有金、广。"
+      }
+    ],
+    "teachingTip": "先把兼當完整部件辨認，再逐字補上外加的偏旁。上端是點、撇，不寫成八；中間兩直豎不要漏一條。"
+  },
+  "createdAt": "2026-10-21T15:57:31.064841Z"
+}

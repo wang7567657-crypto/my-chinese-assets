@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第3課_memory_strategy_e3beef066b2ccf16",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "陳",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "陳",
+    "components": [
+      "阝（左阜旁）",
+      "東"
+    ],
+    "association": "記憶聯想，非字源：想像在東邊的展示牆旁陳列物品，用「東邊陳列」提醒右半是東，再另外確認左阝。",
+    "mnemonic": "左阝右邊東，陳列記心中；東有撇和捺，不把車來充。",
+    "visualPrompt": "中央以臺灣標準楷體完整寫「陳」，以兩色提示左阝、右東但不增減或挪動筆畫。字旁另畫東向箭頭與整齊陳列的物品；圖像不得取代筆畫，也不畫進字內。",
+    "teachingTip": "先看完整字，再分部件臨寫並與陣對照。圖像只幫助記憶，不宣稱陳字原本由展示牆或東向箭頭造出。"
+  },
+  "createdAt": "2026-10-21T15:57:31.064841Z"
+}

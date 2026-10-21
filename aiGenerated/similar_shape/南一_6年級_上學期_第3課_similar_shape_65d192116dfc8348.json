@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第3課_similar_shape_65d192116dfc8348",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "醅",
+    "lessonChars": [
+      "酒",
+      "醅",
+      "籬",
+      "簡",
+      "笆",
+      "陋",
+      "陳",
+      "濾",
+      "潺",
+      "舍",
+      "皆",
+      "緣",
+      "蓬",
+      "飧",
+      "兼",
+      "樽",
+      "舊",
+      "鎮",
+      "寂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "醅",
+    "similarChars": [
+      {
+        "char": "焙",
+        "similarity": "右側同為咅，上立下口。",
+        "difference": "醅左邊是酉；焙左邊是火，右側咅不變。"
+      },
+      {
+        "char": "培",
+        "similarity": "右側同為咅，上立下口。",
+        "difference": "醅左邊是酉；培左邊是土，不能因共用咅就把字混寫。"
+      },
+      {
+        "char": "陪",
+        "similarity": "右側同為咅，整體都是左右結構。",
+        "difference": "醅左邊是酉；陪左邊是阝，兩者左部件的筆畫數與輪廓不同。"
+      },
+      {
+        "char": "倍",
+        "similarity": "右側同為咅，上立下口。",
+        "difference": "醅左邊是酉；倍左邊是亻。"
+      },
+      {
+        "char": "賠",
+        "similarity": "右側同為咅，左右兩部分的布局相似。",
+        "difference": "醅左邊是酉；賠左邊是貝，貝下有八形的兩筆。"
+      },
+      {
+        "char": "剖",
+        "similarity": "都含上立下口的咅部件。",
+        "difference": "醅是左酉右咅；剖是左咅右刂，咅的位置不同，也不能漏掉右側刂。"
+      }
+    ],
+    "teachingTip": "用同一張咅字卡，依序配酉、火、土、阝、亻、貝辨形；剖另看咅的位置。醅讀ㄆㄟ第一聲，不隨培、陪、賠讀第二聲。"
+  },
+  "createdAt": "2026-10-21T15:57:31.064841Z"
+}

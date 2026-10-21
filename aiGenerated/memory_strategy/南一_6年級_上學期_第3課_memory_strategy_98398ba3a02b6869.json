@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第3課_memory_strategy_98398ba3a02b6869",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "飧",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "飧",
+    "components": [
+      "夕（左半）",
+      "食（右半）"
+    ],
+    "association": "教學聯想，非字源：想到傍晚在家吃飯，將夕和食連在一起記；即使聯想情境符合晚飯的字義，仍以標準字形示範為準。",
+    "mnemonic": "夕在左，食在右；晚飯飧，ㄙㄨㄣ一聲。",
+    "visualPrompt": "以臺灣教育部標準楷體清楚呈現「飧」，保持左夕右食；在字旁另畫一輪夕陽與一碗飯。夕陽、碗都不得嵌進筆畫；不要寫成上下結構，也不要用餐字替代。",
+    "teachingTip": "讓學生以手指分別指出左夕與右食，再比較餐的上下結構；食末部依標準字帖書寫，不以圖案改造筆形。"
+  },
+  "createdAt": "2026-10-21T15:57:31.064841Z"
+}

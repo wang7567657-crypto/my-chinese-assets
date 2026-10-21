@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第3課_memory_strategy_5826d5da7dcbb913",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "酒",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "酒",
+    "components": [
+      "氵（三點水，在左）",
+      "酉（在右）"
+    ],
+    "association": "這是記字聯想，不是字源解釋：把左邊三點想成液體提示，旁邊放一個標有「米酒」的封口罐；右邊仍完整寫酉。",
+    "mnemonic": "左有三點水，右酉別漏橫；合起來是酒。",
+    "visualPrompt": "白底識字卡，中央端正書寫臺灣標準字形「酒」，左氵與右酉用不同顏色標示；字旁另畫封口陶罐，標註米酒。罐子不取代筆畫，不畫飲用人物；不改動酉內的一橫。",
+    "teachingTip": "先指讀氵、酉，再遮住範字默寫。完成後只核對兩部件和酉內橫畫，不用圖像代替字形。"
+  },
+  "createdAt": "2026-10-21T15:57:31.064841Z"
+}

@@ -1,0 +1,69 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_6年級_上學期_第3課_feature_ai_batch_941224fa1780430c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "context": {
+      "publisher": "南一",
+      "grade": "6年級",
+      "semester": "上學期",
+      "lesson": "第3課"
+    },
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 19,
+    "batchCharacters": [
+      "酒",
+      "醅",
+      "籬",
+      "簡",
+      "笆",
+      "陋",
+      "陳",
+      "濾",
+      "潺",
+      "舍",
+      "皆",
+      "緣",
+      "蓬",
+      "飧",
+      "兼",
+      "樽",
+      "舊",
+      "鎮",
+      "寂"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_d604048ef73a505d.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_96f08470ce0d12ff.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_cf2a67453eb00b02.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_dc3001635bde36fb.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_1c674bb0c323c5fd.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_7cf6c16026a4cf36.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_84cfd3ad348b00d9.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_1786b01d59307363.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_4d79dcf04e580090.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_ec27c74aaf55be01.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_b3fbfc2084259f64.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_874289fe002d70f1.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_71ca42bb8818f41d.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_f17ad8c408509b7e.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_72397680955f2496.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_a6321255aabba014.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_3a28e0928725a571.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_661d12123816059a.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第3課_confusion_analysis_1353dc6e29714b79.json"
+    ]
+  },
+  "createdAt": "2026-10-21T15:57:31.064841Z"
+}

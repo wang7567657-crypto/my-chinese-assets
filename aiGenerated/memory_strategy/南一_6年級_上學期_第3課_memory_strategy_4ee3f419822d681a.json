@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第3課_memory_strategy_4ee3f419822d681a",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "char": "鎮",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "鎮",
+    "components": [
+      "金字旁（左）",
+      "真（右）"
+    ],
+    "association": "教學聯想，非字源：想像一塊金屬鎮紙把紙張壓穩，幫助記住金字旁與壓住、安定的意思；再用「真穩」提醒右邊真。",
+    "mnemonic": "金在左，真在右；鎮紙壓得穩，鎮讀ㄓㄣˋ。",
+    "visualPrompt": "用臺灣教育部標準楷體呈現「鎮」，左金右真；真頂部寫十，內部橫畫及最下方撇點保持完整。字旁另畫金屬鎮紙壓住紙張，圖案不遮字、不以金屬條替代橫畫，不改成異體鎭。",
+    "teachingTip": "先用鎮紙情境記住金旁，再補充鎮日表示整天，避免以單一圖像包辦所有字義。讓學生比較真第一聲與鎮第四聲。"
+  },
+  "createdAt": "2026-10-21T15:57:31.064841Z"
+}

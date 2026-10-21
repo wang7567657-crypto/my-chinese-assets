@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第3課_similar_shape_6fbf0b49f2a8fc9f",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第3課",
+    "targetChar": "笆",
+    "lessonChars": [
+      "酒",
+      "醅",
+      "籬",
+      "簡",
+      "笆",
+      "陋",
+      "陳",
+      "濾",
+      "潺",
+      "舍",
+      "皆",
+      "緣",
+      "蓬",
+      "飧",
+      "兼",
+      "樽",
+      "舊",
+      "鎮",
+      "寂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "笆",
+    "similarChars": [
+      {
+        "char": "巴",
+        "similarity": "笆的下半就是巴。",
+        "difference": "笆在巴上面另有竹字頭；巴沒有竹字頭。"
+      },
+      {
+        "char": "芭",
+        "similarity": "都是上方部首加下方巴，整體輪廓接近。",
+        "difference": "笆上方是竹字頭；芭上方是艹，下面同為巴。"
+      },
+      {
+        "char": "爸",
+        "similarity": "兩字下方都是巴。",
+        "difference": "笆上方是竹字頭；爸上方是父，交叉筆畫與竹字頭不同。"
+      },
+      {
+        "char": "把",
+        "similarity": "都包含完整的巴部件。",
+        "difference": "笆是上竹字頭、下巴；把是左扌、右巴，部件位置不同。"
+      },
+      {
+        "char": "吧",
+        "similarity": "都包含完整的巴部件。",
+        "difference": "笆是上竹字頭、下巴；吧是左口、右巴。"
+      },
+      {
+        "char": "疤",
+        "similarity": "都保留巴，外加另一部件。",
+        "difference": "笆在巴上加竹字頭；疤用疒從上方和左側包住巴，外部輪廓不同。"
+      }
+    ],
+    "teachingTip": "以巴為固定部件比較上方竹、艹、父，再比較左側扌、口及外側疒。先教竹字頭與草字頭的差別，避免把籬笆寫成籬芭。"
+  },
+  "createdAt": "2026-10-21T15:57:31.064841Z"
+}
