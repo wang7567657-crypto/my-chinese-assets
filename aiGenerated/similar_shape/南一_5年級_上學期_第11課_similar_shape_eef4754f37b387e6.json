@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第11課_similar_shape_eef4754f37b387e6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "鬍",
+    "lessonChars": [
+      "瀑",
+      "垂",
+      "財",
+      "炫",
+      "黯",
+      "錶",
+      "衛",
+      "鬍",
+      "盈",
+      "逝",
+      "貨",
+      "司",
+      "禱",
+      "帝",
+      "訝",
+      "恍",
+      "悟",
+      "昂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "鬍",
+    "similarChars": [
+      {
+        "char": "鬚",
+        "similarity": "上方都是髟，下方都是左右組合。",
+        "difference": "鬍下方是胡；鬚下方是須。"
+      },
+      {
+        "char": "鬢",
+        "similarity": "上方都是髟，整體都是上下結構。",
+        "difference": "鬍下方是胡；鬢下方是賓。"
+      },
+      {
+        "char": "髮",
+        "similarity": "上方都是髟。",
+        "difference": "鬍下方是胡；髮下方是犮，不是發。"
+      },
+      {
+        "char": "髯",
+        "similarity": "上方都是髟。",
+        "difference": "鬍下方是胡；髯下方是冉。髯較少見。"
+      },
+      {
+        "char": "髭",
+        "similarity": "上方都是髟。",
+        "difference": "鬍下方是胡；髭下方是此。髭較少見。"
+      },
+      {
+        "char": "胡",
+        "similarity": "鬍的下方完整保留胡。",
+        "difference": "鬍上方多了髟；胡單獨成字。"
+      }
+    ],
+    "teachingTip": "上方髟要有右側三撇；下方先認古和月合成的胡，不要寫成須。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

@@ -1,0 +1,65 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_d76b9785651570fc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "鬍",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鬍",
+    "groups": {
+      "shape": [
+        {
+          "char": "鬚",
+          "why": "共有髟，而且可合成鬍鬚。",
+          "difference": "鬍下方是胡；鬚下方是須。"
+        },
+        {
+          "char": "胡",
+          "why": "鬍含有完整的胡。",
+          "difference": "鬍有髟；胡沒有髟，如胡椒。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "胡",
+          "why": "鬍與胡都讀ㄏㄨˊ。",
+          "difference": "鬍子用鬍；胡椒用胡。"
+        },
+        {
+          "char": "湖",
+          "why": "鬍與湖都讀ㄏㄨˊ。",
+          "difference": "鬍指臉部毛髮；湖指湖泊，左邊是氵。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "髮",
+          "why": "兩字都與人的毛髮有關。",
+          "difference": "鬍指嘴邊、下巴或兩頰的毛；髮通常指頭上的毛髮。"
+        },
+        {
+          "char": "鬚",
+          "why": "鬍、鬚在臉部毛髮的用法有重疊。",
+          "difference": "鬚還可用於根鬚、觸鬚；不能把這些鬚都改成鬍。"
+        }
+      ],
+      "component": [
+        {
+          "char": "髮",
+          "why": "同有髟，容易只記住上半。",
+          "difference": "鬍要接胡；髮要接犮。髟只是共同部件，不能決定整字的讀音。"
+        }
+      ]
+    },
+    "tip": "先看下半是胡還是須，再用「鬍子、頭髮、觸鬚」分用法。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

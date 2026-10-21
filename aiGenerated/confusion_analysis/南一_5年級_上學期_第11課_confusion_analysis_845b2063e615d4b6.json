@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_845b2063e615d4b6",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "禱",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "禱",
+    "groups": {
+      "shape": [
+        {
+          "char": "濤",
+          "why": "右邊同是壽，左邊都較窄。",
+          "difference": "禱左邊是示字旁；濤左邊是氵。"
+        },
+        {
+          "char": "鑄",
+          "why": "右邊同是壽。",
+          "difference": "禱左邊是示字旁；鑄左邊是金。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "島",
+          "why": "兩字都讀ㄉㄠˇ。",
+          "difference": "祈禱用禱；島嶼用島。"
+        },
+        {
+          "char": "倒",
+          "why": "禱與跌倒的倒都讀ㄉㄠˇ。",
+          "difference": "祈禱用禱；跌倒用倒。倒水的倒另讀ㄉㄠˋ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "祈",
+          "why": "兩字都與向神明或上天請求有關，也可組成祈禱。",
+          "difference": "禱常見於祈禱、禱告；祈也可組祈求、祈望，搭配不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "壽",
+          "why": "禱右邊是壽，容易把部件當成整字。",
+          "difference": "禱加了示字旁，讀ㄉㄠˇ；長壽的壽讀ㄕㄡˋ。"
+        }
+      ]
+    },
+    "tip": "用「祈禱」記示字旁和ㄉㄠˇ；有壽部件的字，讀音仍要各自確認。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

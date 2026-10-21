@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第11課_similar_shape_abcb61f9a91c4b0c",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "錶",
+    "lessonChars": [
+      "瀑",
+      "垂",
+      "財",
+      "炫",
+      "黯",
+      "錶",
+      "衛",
+      "鬍",
+      "盈",
+      "逝",
+      "貨",
+      "司",
+      "禱",
+      "帝",
+      "訝",
+      "恍",
+      "悟",
+      "昂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "錶",
+    "similarChars": [
+      {
+        "char": "表",
+        "similarity": "錶的右半完整保留表。",
+        "difference": "錶左邊多了金；表單獨成字。"
+      },
+      {
+        "char": "裱",
+        "similarity": "右邊都是表。",
+        "difference": "錶左邊是金；裱左邊是衤，如裝裱。"
+      },
+      {
+        "char": "俵",
+        "similarity": "右邊都是表。",
+        "difference": "錶左邊是金；俵左邊是亻。俵是罕用字，只作字形比較。"
+      },
+      {
+        "char": "錢",
+        "similarity": "左邊都是金，右邊筆畫較密。",
+        "difference": "錶右邊是表；錢右邊是戔，上下各有戈形。"
+      },
+      {
+        "char": "錦",
+        "similarity": "左邊都是金，右半均為上下組合。",
+        "difference": "錶右邊是表；錦右邊是帛，上白下巾。"
+      },
+      {
+        "char": "錘",
+        "similarity": "左邊都是金，右半都有多道橫畫。",
+        "difference": "錶右邊是表；錘右邊是垂，沒有表下方的衣形筆畫。"
+      }
+    ],
+    "teachingTip": "先確認金字旁，再完整寫出右邊的表；本課學習用字是錶。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

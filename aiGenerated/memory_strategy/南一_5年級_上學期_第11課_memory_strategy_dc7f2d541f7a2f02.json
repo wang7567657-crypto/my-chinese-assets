@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第11課_memory_strategy_dc7f2d541f7a2f02",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "貨",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "貨",
+    "components": [
+      "化",
+      "貝"
+    ],
+    "association": "想像貨物標籤上寫著化和貝，提醒自己貨是上化、下貝。這只是記字聯想，不是字源解釋。",
+    "mnemonic": "上面化，下面貝，貨物送到不寫錯。",
+    "visualPrompt": "完整標準字形「貨」置於中央，字旁畫有標籤的紙箱；可用不同顏色標示字中化與貝，但保持全部原筆畫與位置，紙箱不嵌入字形。",
+    "teachingTip": "貨和貸下方都是貝，先遮住貝，比較化與代；貨物用貨，貸款用貸。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

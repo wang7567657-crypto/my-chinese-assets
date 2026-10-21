@@ -1,0 +1,55 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_ca1641716cf7863a",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "昂",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "昂",
+    "groups": {
+      "shape": [
+        {
+          "char": "昴",
+          "why": "上方同是日，下面卬與卯相近。",
+          "difference": "昂下方是卬；星名昴下方是卯。昴作星名讀ㄇㄠˇ，另有作昂異體的字典記錄，本課用昂。"
+        },
+        {
+          "char": "仰",
+          "why": "都含卬，但布局不同。",
+          "difference": "昂上方是日；仰左邊是亻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "盎",
+          "why": "昂讀ㄤˊ，盎讀ㄤˋ，只有聲調不同。",
+          "difference": "昂首用昂；春意盎然用盎，形容春天的氣息十分濃厚。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "仰",
+          "why": "都能描述抬頭向上。",
+          "difference": "昂可組昂首、昂貴；仰可組仰頭、仰望，昂貴不能改成仰貴。"
+        }
+      ],
+      "component": [
+        {
+          "char": "迎",
+          "why": "都含卬，容易誤以為讀音相同。",
+          "difference": "昂讀ㄤˊ；迎接的迎讀ㄧㄥˊ。昂上方加日，迎外面加辶。"
+        }
+      ]
+    },
+    "tip": "用「昂首」記ㄤˊ和下方卬；卬左半不要多添卯的那一筆。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

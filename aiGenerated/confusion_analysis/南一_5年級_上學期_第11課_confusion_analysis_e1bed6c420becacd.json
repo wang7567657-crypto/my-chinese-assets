@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_e1bed6c420becacd",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "逝",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "逝",
+    "groups": {
+      "shape": [
+        {
+          "char": "浙",
+          "why": "共同部件都是折。",
+          "difference": "逝的辶有向右伸展的捺；浙的氵在左邊。"
+        },
+        {
+          "char": "近",
+          "why": "都有辶和斤。",
+          "difference": "逝內部的斤左邊還有扌；近沒有扌。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "誓",
+          "why": "兩字都讀ㄕˋ，且都含折。",
+          "difference": "流逝用逝；發誓用誓，誓下方是言。"
+        },
+        {
+          "char": "事",
+          "why": "兩字都讀ㄕˋ。",
+          "difference": "逝去用逝；事情用事。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "消",
+          "why": "消失和流逝都可能表示逐漸不見。",
+          "difference": "逝常指時間流去或生命離去，如流逝、逝世；消可指消除、減少或不見，如消失。"
+        }
+      ],
+      "component": [
+        {
+          "char": "折",
+          "why": "逝內部是折，容易照部件讀音讀整字。",
+          "difference": "逝讀ㄕˋ；折紙的折讀ㄓㄜˊ。寫逝還要加辶。"
+        }
+      ]
+    },
+    "tip": "內部折、外面辶，合起來讀ㄕˋ；用「時間流逝、開口發誓」分字。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

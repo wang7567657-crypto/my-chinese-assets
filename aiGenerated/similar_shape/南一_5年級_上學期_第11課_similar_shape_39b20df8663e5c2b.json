@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第11課_similar_shape_39b20df8663e5c2b",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "訝",
+    "lessonChars": [
+      "瀑",
+      "垂",
+      "財",
+      "炫",
+      "黯",
+      "錶",
+      "衛",
+      "鬍",
+      "盈",
+      "逝",
+      "貨",
+      "司",
+      "禱",
+      "帝",
+      "訝",
+      "恍",
+      "悟",
+      "昂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "訝",
+    "similarChars": [
+      {
+        "char": "芽",
+        "similarity": "都含牙。",
+        "difference": "訝是言在左、牙在右；芽是艹在上、牙在下。"
+      },
+      {
+        "char": "呀",
+        "similarity": "右邊都是牙。",
+        "difference": "訝左邊是言；呀左邊是口。"
+      },
+      {
+        "char": "蚜",
+        "similarity": "右邊都是牙。",
+        "difference": "訝左邊是言；蚜左邊是虫，如蚜蟲。"
+      },
+      {
+        "char": "雅",
+        "similarity": "都含牙，都是左右結構。",
+        "difference": "訝的牙在右；雅的牙在左，右邊是隹。"
+      },
+      {
+        "char": "牙",
+        "similarity": "訝的右半完整保留牙。",
+        "difference": "訝左邊多了言。"
+      },
+      {
+        "char": "訪",
+        "similarity": "左邊都是言，右半都有折筆及撇筆。",
+        "difference": "訝右邊是牙；訪右邊是方，上方有點。"
+      }
+    ],
+    "teachingTip": "先認言旁，再看牙在右邊；驚訝不要寫成口旁的呀。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

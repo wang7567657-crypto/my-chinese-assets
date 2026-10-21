@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_5cb3d6e8eca41fe2",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "財",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "財",
+    "groups": {
+      "shape": [
+        {
+          "char": "材",
+          "why": "只有左邊部件不同。",
+          "difference": "財左邊是貝；材左邊是木。"
+        },
+        {
+          "char": "豺",
+          "why": "右邊同是才。",
+          "difference": "財左邊是貝；豺左邊是豸，如豺狼。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "才",
+          "why": "財和才都讀ㄘㄞˊ。",
+          "difference": "財物用財；才能用才。"
+        },
+        {
+          "char": "材",
+          "why": "財和材都讀ㄘㄞˊ。",
+          "difference": "財產用財；材料用材，不能只憑讀音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "貨",
+          "why": "都與物品或經濟活動有關。",
+          "difference": "財可指錢財、財產；貨常指可買賣或運送的物品，如貨物。"
+        }
+      ],
+      "component": [
+        {
+          "char": "貝",
+          "why": "財包含貝，容易漏掉右半。",
+          "difference": "財要寫貝和才；只有貝時是貝殼的貝。"
+        }
+      ]
+    },
+    "tip": "把「財產、材料、才能」放在一起辨認，同音也要看詞義。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

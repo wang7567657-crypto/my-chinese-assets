@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_b3fb32258c267b99",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "帝",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "帝",
+    "groups": {
+      "shape": [
+        {
+          "char": "蒂",
+          "why": "只差上方的艹。",
+          "difference": "帝沒有艹；蒂有艹，如瓜蒂。"
+        },
+        {
+          "char": "締",
+          "why": "締右邊就是帝。",
+          "difference": "帝沒有糹；締有糹，如締結。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "弟",
+          "why": "帝與弟弟的弟都讀ㄉㄧˋ。",
+          "difference": "皇帝用帝；弟弟用弟。"
+        },
+        {
+          "char": "地",
+          "why": "帝與土地的地都讀ㄉㄧˋ。",
+          "difference": "上帝用帝；土地用地。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "王",
+          "why": "都可指古代的統治者。",
+          "difference": "帝可組皇帝，王可組國王；是不同稱號，寫詞語時不能任意替換。"
+        }
+      ],
+      "component": [
+        {
+          "char": "啼",
+          "why": "啼含有帝，容易照讀成ㄉㄧˋ。",
+          "difference": "帝讀ㄉㄧˋ；啼讀ㄊㄧˊ，如啼哭，且左邊有口。"
+        }
+      ]
+    },
+    "tip": "帝字不加艹；含帝的字不一定同音，例如皇帝的帝與啼哭的啼。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}

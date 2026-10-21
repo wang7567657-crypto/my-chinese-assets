@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第11課_confusion_analysis_5ec94ce240071310",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "char": "悟",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "悟",
+    "groups": {
+      "shape": [
+        {
+          "char": "晤",
+          "why": "右半同是吾。",
+          "difference": "悟左邊是忄；晤左邊是日。"
+        },
+        {
+          "char": "語",
+          "why": "右半同是吾。",
+          "difference": "悟左邊是忄；語左邊是言。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "晤",
+          "why": "兩字都讀ㄨˋ。",
+          "difference": "領悟用悟，表示明白；會晤用晤，表示見面。"
+        },
+        {
+          "char": "誤",
+          "why": "兩字都讀ㄨˋ。",
+          "difference": "覺悟用悟；錯誤用誤。誤右邊是吳，與悟右邊的吾不同。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "懂",
+          "why": "都可表示明白。",
+          "difference": "悟常指經過思考而明白，如領悟；懂可表示理解或會某件事，如看懂、懂英文，搭配有別。"
+        }
+      ],
+      "component": [
+        {
+          "char": "吾",
+          "why": "悟含吾，但兩字聲調不同。",
+          "difference": "悟讀ㄨˋ；吾讀ㄨˊ。吾上面是五、下面是口。"
+        }
+      ]
+    },
+    "tip": "用「心裡領悟、見面會晤、發現錯誤」記詞義，並分清吾與吳。"
+  },
+  "createdAt": "2026-10-21T12:17:59.685615Z"
+}
