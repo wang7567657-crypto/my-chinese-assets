@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第6課_memory_strategy_f916f1597d620ac8",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "奪",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "奪",
+    "components": [
+      "大（上）",
+      "隹（中）",
+      "寸（下）"
+    ],
+    "association": "把大、隹、寸想成三張上下排好的卡片，旁邊放一座代表爭取冠軍的獎盃，提醒「奪冠」的奪。這是記字聯想，並非字源解釋。",
+    "mnemonic": "上大、中隹、下寸；奪冠的奪看清寸。",
+    "visualPrompt": "標準「奪」字完整放田字格，旁邊畫獎盃與三張標有大、隹、寸的獨立部件卡。卡片只作輔助，正式字不拆斷、不換筆畫；獎盃置於字外。",
+    "teachingTip": "由上到下指認大、隹、寸；隹的四橫要接左側豎畫，末部寸保留點與豎鉤。和奮並排時，只圈出不同的最下方部件。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

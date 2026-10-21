@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第6課_memory_strategy_65cb21cae963fa28",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "艙",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "艙",
+    "components": [
+      "舟（左）",
+      "倉（右）"
+    ],
+    "association": "記憶聯想，並非字源：想像船舟旁有一個存放行李的小倉庫，把「舟＋倉」連到船艙可容納人或貨物的意思。",
+    "mnemonic": "舟在左，倉在右；船裡的空間叫船艙。",
+    "visualPrompt": "文字示意：以標準字形寫出「艙」，左舟與右倉分色標示；字旁另畫船的剖面示意，圈出放行李的空間。示意圖不嵌入字形，不改筆、不減筆、不生成圖片。",
+    "teachingTip": "讓學生用手指出舟與倉，分辨船的整體和艙內空間；提醒這是記憶故事，並非造字由來。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

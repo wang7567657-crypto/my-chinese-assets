@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第6課_memory_strategy_9b66dd4880803890",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "艇",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "艇",
+    "components": [
+      "舟（左）",
+      "廷（右）"
+    ],
+    "association": "記憶聯想，並非字源：把左邊的舟想成一艘小船，右邊的廷想成船名牌上的標記；用「舟＋廷」記住遊艇的艇。",
+    "mnemonic": "左邊舟，右邊廷；遊艇的艇讀ㄊㄧㄥˇ。",
+    "visualPrompt": "文字示意：端正寫出完整標準字「艇」，以兩種顏色標示左舟、右廷；字旁另放一艘小船的示意圖。圖不放進字內，不改變、增刪或扭曲任何筆畫，不生成圖片。",
+    "teachingTip": "先指認舟與廷，再遮住字回想左右位置；聯想只幫助記形，不把廷說成船的字源或字義。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

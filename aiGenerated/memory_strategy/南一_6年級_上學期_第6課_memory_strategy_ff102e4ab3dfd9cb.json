@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第6課_memory_strategy_ff102e4ab3dfd9cb",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "栽",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "栽",
+    "components": [
+      "十（左上）",
+      "木（左下，右捺改點）",
+      "戈（長橫及右側）"
+    ],
+    "association": "記憶聯想，並非字源：把左下的木想成剛栽好的小樹，把上方與右側部件想成保護小樹的圍欄，幫助記住栽種的栽裡面有木。",
+    "mnemonic": "左上十，左下木，右邊戈；栽好小樹記住木。",
+    "visualPrompt": "文字示意：端正寫出標準字「栽」，依十、木、戈三個字形部分分色；字旁另畫小樹與護欄。護欄與樹只在字旁，不用樹枝替換筆畫，不改筆、不生圖。",
+    "teachingTip": "先找出左下的木，再與裁、載輪流遮住外圍比對；木的右捺要寫成點。說明護欄故事是記憶聯想，不是字源。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

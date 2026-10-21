@@ -1,0 +1,65 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第6課_confusion_analysis_963bdf4fcc7bf904",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "億",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "億",
+    "groups": {
+      "shape": [
+        {
+          "char": "憶",
+          "why": "右半部相同，左旁又都狹長。",
+          "difference": "億是亻，只有撇與豎；憶是忄，寫法與筆數不同。"
+        },
+        {
+          "char": "意",
+          "why": "右半部完全一樣，可能漏寫左旁。",
+          "difference": "億左邊還有亻，不能只寫意。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "憶",
+          "why": "億與憶都讀ㄧˋ。",
+          "difference": "數目一億用億；回憶、記憶用憶。"
+        },
+        {
+          "char": "意",
+          "why": "億與意都讀ㄧˋ。",
+          "difference": "數目用億；意思、注意用意。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "萬",
+          "why": "兩字都是較大數的單位，容易只記成很多。",
+          "difference": "一萬是10,000；一億是100,000,000，也就是一萬個一萬，數量不同。"
+        }
+      ],
+      "component": [
+        {
+          "char": "憶",
+          "why": "右邊意完整相同，容易把亻改成忄。",
+          "difference": "億保留人字旁亻；憶才用豎心旁忄。"
+        },
+        {
+          "char": "音",
+          "why": "音是億右部意的上半部。",
+          "difference": "億的右邊還有心在音下方，不能漏掉心。"
+        }
+      ]
+    },
+    "tip": "用「一億」與「回憶」分辨同音字；數值先記一億等於一萬個一萬，再核對左亻右意。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

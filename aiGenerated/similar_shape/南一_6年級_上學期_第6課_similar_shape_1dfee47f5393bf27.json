@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第6課_similar_shape_1dfee47f5393bf27",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "系",
+    "lessonChars": [
+      "艇",
+      "艙",
+      "宇",
+      "宙",
+      "朽",
+      "栽",
+      "械",
+      "誌",
+      "訓",
+      "劃",
+      "荒",
+      "垠",
+      "系",
+      "駕",
+      "凌",
+      "隕",
+      "奪",
+      "億",
+      "征"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "系",
+    "similarChars": [
+      {
+        "char": "糸",
+        "similarity": "都有糸的主要字形。",
+        "difference": "系在糸上方多一撇；糸單獨使用較少見，這裡只作部件辨形。"
+      },
+      {
+        "char": "係",
+        "similarity": "係的右邊就是系。",
+        "difference": "系單獨成字；係左邊另有亻。"
+      },
+      {
+        "char": "繫",
+        "similarity": "下方都可見糸形。",
+        "difference": "系頂端是一撇；繫上半部筆畫較多，不能只看下方。"
+      },
+      {
+        "char": "紊",
+        "similarity": "下方都有糸。",
+        "difference": "系上方是一撇；紊上方是文。"
+      },
+      {
+        "char": "素",
+        "similarity": "下方都有糸形。",
+        "difference": "系上方是一撇；素上方有較多橫畫與中間豎畫。"
+      },
+      {
+        "char": "累",
+        "similarity": "下方都有糸。",
+        "difference": "系上方是一撇；累上方是田。"
+      }
+    ],
+    "teachingTip": "先找頂端的一撇，再看下方糸形；比較係時，要檢查左邊是否多了亻。頂端撇與下方糸保持分離，不要連在一起。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

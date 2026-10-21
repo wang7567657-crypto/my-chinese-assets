@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第6課_memory_strategy_86a7ceab04b40d0f",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "宙",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "宙",
+    "components": [
+      "宀（上）",
+      "由（下）"
+    ],
+    "association": "記憶聯想，並非字源：把宀想成屋頂，把下方的由想成一個標記時間的窗口，聯想到宙可表示古往今來的時間；窗口只是字旁的故事圖。",
+    "mnemonic": "宀下面放個由，中豎向上出頭；宇宙的宙記心頭。",
+    "visualPrompt": "文字示意：標準字「宙」置左，宀與由分色，特別標示由的中豎上端；右側另放從過去到未來的時間線。圖不進字內，不把由改成鐘面，不變動筆畫，不生成圖片。",
+    "teachingTip": "先把宇、宙並排讀，再遮住下半讓學生選于或由；說明時間線是記憶聯想，並非宙字的造字過程。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

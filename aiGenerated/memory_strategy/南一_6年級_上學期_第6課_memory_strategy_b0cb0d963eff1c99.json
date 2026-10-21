@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第6課_memory_strategy_b0cb0d963eff1c99",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "駕",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "駕",
+    "components": [
+      "加（上）",
+      "馬（下）"
+    ],
+    "association": "想像在馬旁加上一位駕車的人，用「加、馬」幫忙記住上下位置。這是記憶故事，並非字源解釋。",
+    "mnemonic": "加在上，馬在下；駕駛的駕別寫架。",
+    "visualPrompt": "完整標準「駕」字放在田字格內，旁邊另畫一輛馬車及操控方向的人。用文字標示上加、下馬；圖像不嵌入字內，不把馬的四點換成車輪。",
+    "teachingTip": "用兩張部件卡將加放上、馬放下；再把馬換成木，讀出駕與架，確認兩字不是同一字。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

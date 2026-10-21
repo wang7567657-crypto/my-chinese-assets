@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第6課_similar_shape_2d7ef7c994acb2fc",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "艙",
+    "lessonChars": [
+      "艇",
+      "艙",
+      "宇",
+      "宙",
+      "朽",
+      "栽",
+      "械",
+      "誌",
+      "訓",
+      "劃",
+      "荒",
+      "垠",
+      "系",
+      "駕",
+      "凌",
+      "隕",
+      "奪",
+      "億",
+      "征"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "艙",
+    "similarChars": [
+      {
+        "char": "倉",
+        "similarity": "「倉」就是「艙」完整的右半部件。",
+        "difference": "單獨的倉沒有舟；「艙」左邊另加舟。"
+      },
+      {
+        "char": "蒼",
+        "similarity": "同有完整的倉部件。",
+        "difference": "「蒼」是艹在倉上方；「艙」是舟在倉左方。"
+      },
+      {
+        "char": "滄",
+        "similarity": "右邊同為倉，皆為左右結構。",
+        "difference": "「滄」左旁是氵；「艙」左旁是舟。"
+      },
+      {
+        "char": "槍",
+        "similarity": "右邊同為倉，皆為左右結構。",
+        "difference": "「槍」左旁是木；「艙」左旁是舟。"
+      },
+      {
+        "char": "搶",
+        "similarity": "右邊同為倉，皆為左右結構。",
+        "difference": "「搶」左旁是扌；「艙」左旁是舟。"
+      },
+      {
+        "char": "船",
+        "similarity": "同有左舟，右下也可看見口形。",
+        "difference": "「艙」右邊是完整的倉，上方和中間都有筆畫；「船」右邊不是倉，不能省寫成船的右半。"
+      }
+    ],
+    "teachingTip": "固定右邊的倉，再比較舟、氵、木、扌的位置與形狀；與蒼比較時，注意艹在上、舟在左。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

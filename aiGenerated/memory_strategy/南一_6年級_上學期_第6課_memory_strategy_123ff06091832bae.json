@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第6課_memory_strategy_123ff06091832bae",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "宇",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "宇",
+    "components": [
+      "宀（上）",
+      "于（下）"
+    ],
+    "association": "記憶聯想，並非字源：把宀想成一個大屋頂，把于想成屋頂下的標記；旁邊放一張寬廣空間的圖，幫助記住宇宙的宇。",
+    "mnemonic": "宀在上，于在下；兩橫一豎鉤，宇字要記牢。",
+    "visualPrompt": "文字示意：標準字「宇」完整呈現，宀和于分色；字旁另放屋頂及寬廣空間的簡單示意。所有圖都在字旁，不把于變成家具或圖案，不改筆、不生圖。",
+    "teachingTip": "用手指數于的兩橫與一豎鉤，再和字、守並排辨別；記憶故事僅作聯想，不作字源解說。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

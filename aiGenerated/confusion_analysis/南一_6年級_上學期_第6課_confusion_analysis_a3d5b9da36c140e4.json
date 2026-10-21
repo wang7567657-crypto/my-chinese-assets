@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第6課_confusion_analysis_a3d5b9da36c140e4",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "械",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "械",
+    "groups": {
+      "shape": [
+        {
+          "char": "誡",
+          "why": "共同右旁戒很醒目，容易忽略左旁。",
+          "difference": "機械的械用木；告誡的誡用言。"
+        },
+        {
+          "char": "棧",
+          "why": "左旁同為木，右旁又都有斜鉤。",
+          "difference": "械的右旁只有戒；客棧的棧右旁是戔。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "謝",
+          "why": "器械的械與謝謝的謝都讀ㄒㄧㄝˋ。",
+          "difference": "械指機具等；謝常用於感謝，不能只憑讀音選字。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "器",
+          "why": "器與械都可用於工具名稱，也常合成器械。",
+          "difference": "器也可指容器，如陶器；械常用於機具，如機械。應依詞語選字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "戒",
+          "why": "右旁戒容易被少寫筆畫。",
+          "difference": "械保留完整的戒；不能省掉戒左下廾形中的一豎而變成戎形。"
+        },
+        {
+          "char": "木",
+          "why": "木可獨立成字，也作械的左旁。",
+          "difference": "械的左木要收窄讓出右旁；不能漏寫戒而只剩木。"
+        }
+      ]
+    },
+    "tip": "用「機械、告誡、感謝」分別練習形與音；機械、器械的械讀ㄒㄧㄝˋ，不跟著戒讀ㄐㄧㄝˋ。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

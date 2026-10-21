@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第6課_similar_shape_1a5e6a452d2cccb5",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "艇",
+    "lessonChars": [
+      "艇",
+      "艙",
+      "宇",
+      "宙",
+      "朽",
+      "栽",
+      "械",
+      "誌",
+      "訓",
+      "劃",
+      "荒",
+      "垠",
+      "系",
+      "駕",
+      "凌",
+      "隕",
+      "奪",
+      "億",
+      "征"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "艇",
+    "similarChars": [
+      {
+        "char": "挺",
+        "similarity": "右邊都含有完整的「廷」。",
+        "difference": "「艇」左邊是舟；「挺」左邊是扌。"
+      },
+      {
+        "char": "庭",
+        "similarity": "都含有「廷」，可比對內部相同的筆形。",
+        "difference": "「庭」用广從上方和左邊包住廷；「艇」是左舟、右廷。"
+      },
+      {
+        "char": "蜓",
+        "similarity": "右邊同為「廷」，都是左右結構。",
+        "difference": "「蜓」左邊是虫；「艇」左邊是舟。"
+      },
+      {
+        "char": "霆",
+        "similarity": "都含有完整的「廷」。",
+        "difference": "「霆」上面加雨、下面放廷；「艇」將舟放在廷左邊。"
+      },
+      {
+        "char": "廷",
+        "similarity": "「廷」與「艇」的整個右半相同。",
+        "difference": "「艇」比單獨的廷多了左邊的舟。"
+      },
+      {
+        "char": "船",
+        "similarity": "同有左邊的舟，都是左窄右寬的左右結構。",
+        "difference": "「艇」右邊是廷，底部有延伸的筆畫；「船」右下是口，沒有廷。"
+      }
+    ],
+    "teachingTip": "先圈出「舟、廷」兩部分，再與挺、蜓交換左旁比較；最後比較廷放在右邊、下方或广內時的位置。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

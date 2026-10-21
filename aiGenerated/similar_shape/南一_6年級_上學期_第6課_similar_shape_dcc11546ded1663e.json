@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第6課_similar_shape_dcc11546ded1663e",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "targetChar": "億",
+    "lessonChars": [
+      "艇",
+      "艙",
+      "宇",
+      "宙",
+      "朽",
+      "栽",
+      "械",
+      "誌",
+      "訓",
+      "劃",
+      "荒",
+      "垠",
+      "系",
+      "駕",
+      "凌",
+      "隕",
+      "奪",
+      "億",
+      "征"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "億",
+    "similarChars": [
+      {
+        "char": "憶",
+        "similarity": "右邊都是意，整體高度相近。",
+        "difference": "億左亻；憶左忄。"
+      },
+      {
+        "char": "臆",
+        "similarity": "右邊都是意。",
+        "difference": "億左亻；臆左月形肉旁。"
+      },
+      {
+        "char": "噫",
+        "similarity": "右邊都是意。",
+        "difference": "億左亻；噫左口。噫較少用，這裡作辨形補充。"
+      },
+      {
+        "char": "意",
+        "similarity": "億的右半部就是意。",
+        "difference": "意單獨成字；億在左邊另加亻。"
+      },
+      {
+        "char": "薏",
+        "similarity": "都含有完整的意。",
+        "difference": "億是左亻右意；薏是上艹下意。"
+      },
+      {
+        "char": "檍",
+        "similarity": "右邊都是意。",
+        "difference": "億左亻；檍左木。檍是罕見樹名用字，僅作辨形補充，不是億的異體。"
+      }
+    ],
+    "teachingTip": "先把右邊意看成一個完整部件，再比較左旁；億與憶的重點是亻和忄，不要因同音就換字。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}

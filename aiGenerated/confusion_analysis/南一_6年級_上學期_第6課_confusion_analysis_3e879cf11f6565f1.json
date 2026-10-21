@@ -1,0 +1,65 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第6課_confusion_analysis_3e879cf11f6565f1",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "char": "系",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "系",
+    "groups": {
+      "shape": [
+        {
+          "char": "係",
+          "why": "右邊完整保留系，容易漏寫或多寫左旁。",
+          "difference": "系沒有亻；係有亻。"
+        },
+        {
+          "char": "累",
+          "why": "下方相同，容易忽略上方。",
+          "difference": "系頂端是一撇；累上方是田。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "係",
+          "why": "系、係都讀ㄒㄧˋ，聽寫時不能只靠讀音。",
+          "difference": "系可用於系統、科系；係可用於關係。"
+        },
+        {
+          "char": "繫",
+          "why": "繫在聯繫、維繫中讀ㄒㄧˋ，與系同音。",
+          "difference": "系用於系統；聯繫、維繫用繫。繫鞋帶的繫另讀ㄐㄧˋ。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "係",
+          "why": "兩字都可能涉及事物間的關聯。",
+          "difference": "系可指有組織的整體或大學科別；係常表關聯、牽涉，如關係。"
+        },
+        {
+          "char": "繫",
+          "why": "系統與聯繫都讓人想到彼此連接。",
+          "difference": "系統用系；強調連接、牽掛的聯繫、繫念用繫。"
+        }
+      ],
+      "component": [
+        {
+          "char": "糸",
+          "why": "系含有糸形，可能漏掉頂端筆畫。",
+          "difference": "糸上方加一撇才是系；不要把這一撇省去。"
+        }
+      ]
+    },
+    "tip": "在臺灣常用寫法中，分別記「系統、關係、聯繫」。繫有多音，須連同詞語判讀，不能把三字一律互換。"
+  },
+  "createdAt": "2026-10-21T18:54:07.781933Z"
+}
