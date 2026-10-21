@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第7課_similar_shape_6a50ff9a96bfac83",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "搔",
+    "lessonChars": [
+      "抉",
+      "擇",
+      "抽",
+      "搔",
+      "跆",
+      "蹣",
+      "跚",
+      "苞",
+      "芽",
+      "犧",
+      "牲",
+      "勞",
+      "叢",
+      "履",
+      "灶",
+      "壤",
+      "衡",
+      "維"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "搔",
+    "similarChars": [
+      {
+        "char": "騷",
+        "similarity": "右半都含蚤，都是左右結構。",
+        "difference": "搔左旁是扌；騷左旁是馬。"
+      },
+      {
+        "char": "蚤",
+        "similarity": "蚤就是搔的完整右半部件。",
+        "difference": "單獨的蚤沒有左扌；搔在蚤左邊加扌。"
+      },
+      {
+        "char": "溞",
+        "similarity": "右半同有完整的蚤。",
+        "difference": "溞是較少用的字，左旁是氵；搔左旁是扌。只用來比較換旁。"
+      },
+      {
+        "char": "慅",
+        "similarity": "右半同有完整的蚤。",
+        "difference": "慅是較少用的字，左旁是忄；搔左旁是扌。只用來比較換旁。"
+      },
+      {
+        "char": "瘙",
+        "similarity": "都含有蚤這個部件。",
+        "difference": "瘙是較少用的字，用疒從上與左包住蚤；搔是在蚤左邊放扌。"
+      },
+      {
+        "char": "授",
+        "similarity": "左旁同是扌，右上都有交錯筆畫與點畫。",
+        "difference": "搔右邊是蚤，最下方有虫；授右邊是受，下方是又，不能混用。"
+      }
+    ],
+    "teachingTip": "先比較搔、騷、蚤，再把溞、慅、瘙當延伸部件卡。蚤上方按臺灣標準字形保留兩點，不寫成一點的叉。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

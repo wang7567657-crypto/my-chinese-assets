@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第7課_similar_shape_dacb3f521b70ac8b",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "苞",
+    "lessonChars": [
+      "抉",
+      "擇",
+      "抽",
+      "搔",
+      "跆",
+      "蹣",
+      "跚",
+      "苞",
+      "芽",
+      "犧",
+      "牲",
+      "勞",
+      "叢",
+      "履",
+      "灶",
+      "壤",
+      "衡",
+      "維"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "苞",
+    "similarChars": [
+      {
+        "char": "包",
+        "similarity": "包是苞下方的完整部件。",
+        "difference": "苞上方有艹；包沒有艹。"
+      },
+      {
+        "char": "胞",
+        "similarity": "都含完整的包部件。",
+        "difference": "苞是上艹下包；胞是左月右包。"
+      },
+      {
+        "char": "抱",
+        "similarity": "都可看見包的外勹、內巳。",
+        "difference": "苞的包在艹下；抱的包在扌右邊。"
+      },
+      {
+        "char": "泡",
+        "similarity": "都有包部件，外圍曲線和內部轉折相同。",
+        "difference": "苞是上下結構；泡是左氵右包的左右結構。"
+      },
+      {
+        "char": "飽",
+        "similarity": "都含包，包的末鉤向外伸。",
+        "difference": "苞上面是艹；飽左邊是飠。"
+      },
+      {
+        "char": "炮",
+        "similarity": "都有完整的包。",
+        "difference": "苞的艹在包上方；炮的火在包左方，部件位置與種類都不同。"
+      }
+    ],
+    "teachingTip": "圈出共同的包，再指認周圍部件。苞是上艹下包；包裡是巳形，不寫成己或已。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

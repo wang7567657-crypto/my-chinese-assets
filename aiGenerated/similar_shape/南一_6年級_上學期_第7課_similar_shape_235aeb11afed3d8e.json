@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第7課_similar_shape_235aeb11afed3d8e",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "履",
+    "lessonChars": [
+      "抉",
+      "擇",
+      "抽",
+      "搔",
+      "跆",
+      "蹣",
+      "跚",
+      "苞",
+      "芽",
+      "犧",
+      "牲",
+      "勞",
+      "叢",
+      "履",
+      "灶",
+      "壤",
+      "衡",
+      "維"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "履",
+    "similarChars": [
+      {
+        "char": "屢",
+        "similarity": "外面同有尸，內部筆畫都較多。",
+        "difference": "履的尸下是復；屢的尸下是婁，最下方可辨女形。"
+      },
+      {
+        "char": "屐",
+        "similarity": "同有尸，裡面也可見彳。",
+        "difference": "履內部彳右邊是复；屐內部彳右邊是支。屐在日常用語較少見，可用木屐認識。"
+      },
+      {
+        "char": "屋",
+        "similarity": "外側同有尸。",
+        "difference": "履的尸下是復，筆畫較多；屋的尸下是至。"
+      },
+      {
+        "char": "復",
+        "similarity": "履的尸下完整包含復形。",
+        "difference": "復沒有外側的尸；履在復上方及左上方加上尸。"
+      },
+      {
+        "char": "覆",
+        "similarity": "下方都含復。",
+        "difference": "履外側是尸；覆上方是覀，沒有尸的長撇。"
+      },
+      {
+        "char": "複",
+        "similarity": "都能找到复形，包括日形及下方夊。",
+        "difference": "履是尸下的復，含彳；複是左衤右复，左旁不同。"
+      }
+    ],
+    "teachingTip": "先辨尸，再看尸下是不是復。與屢相比要找彳和最下方夊；與覆相比要分清尸和覀，不能只看共同的復。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

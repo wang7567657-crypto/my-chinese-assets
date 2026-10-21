@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第7課_similar_shape_41f2a5cdc1802b0b",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "蹣",
+    "lessonChars": [
+      "抉",
+      "擇",
+      "抽",
+      "搔",
+      "跆",
+      "蹣",
+      "跚",
+      "苞",
+      "芽",
+      "犧",
+      "牲",
+      "勞",
+      "叢",
+      "履",
+      "灶",
+      "壤",
+      "衡",
+      "維"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "蹣",
+    "similarChars": [
+      {
+        "char": "滿",
+        "similarity": "右半同為㒼，都是左右結構。",
+        "difference": "蹣左旁是足字旁；滿左旁是氵。"
+      },
+      {
+        "char": "瞞",
+        "similarity": "右半同為㒼。",
+        "difference": "蹣左旁是足字旁；瞞左旁是目。"
+      },
+      {
+        "char": "蟎",
+        "similarity": "右半同為㒼。",
+        "difference": "蟎是塵蟎的蟎，左旁是虫；蹣左旁是足字旁。此字較少用，只作部件比較。"
+      },
+      {
+        "char": "蹦",
+        "similarity": "左旁同為足字旁，右半都有較寬的外框輪廓。",
+        "difference": "蹣右邊是㒼；蹦右邊是崩，上山下朋，不能把蹣的右半換成山與兩個月。"
+      },
+      {
+        "char": "蹲",
+        "similarity": "左旁同為足字旁，右半筆畫都較密。",
+        "difference": "蹣右邊是㒼；蹲右邊是尊，最下方有寸，沒有㒼中的兩個入形。"
+      },
+      {
+        "char": "踏",
+        "similarity": "左旁同為足字旁，都是左窄右寬。",
+        "difference": "蹣右邊是㒼；踏右邊是沓，上水下日，部件和筆畫數不同。"
+      }
+    ],
+    "teachingTip": "先用滿、瞞、蟎辨別相同右部件，再與蹦、蹲、踏比較不同右半。㒼裡面是兩個入形，不能當作兩個人形來寫。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

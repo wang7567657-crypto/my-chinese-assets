@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第7課_similar_shape_127efb44d8254056",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "跚",
+    "lessonChars": [
+      "抉",
+      "擇",
+      "抽",
+      "搔",
+      "跆",
+      "蹣",
+      "跚",
+      "苞",
+      "芽",
+      "犧",
+      "牲",
+      "勞",
+      "叢",
+      "履",
+      "灶",
+      "壤",
+      "衡",
+      "維"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "跚",
+    "similarChars": [
+      {
+        "char": "珊",
+        "similarity": "右邊都有完整的冊，都是左右結構。",
+        "difference": "跚左邊是足字旁；珊左邊是王字旁。"
+      },
+      {
+        "char": "姍",
+        "similarity": "右邊同為冊，右側的框線與豎畫相同。",
+        "difference": "跚左邊是足字旁；姍左邊是女。"
+      },
+      {
+        "char": "柵",
+        "similarity": "右邊同為冊，整字都是左窄右寬。",
+        "difference": "跚左邊是足字旁；柵左邊是木。"
+      },
+      {
+        "char": "刪",
+        "similarity": "都含完整的冊部件。",
+        "difference": "跚的冊在右邊，左邊有足字旁；刪的冊在左邊，右邊有刂。"
+      },
+      {
+        "char": "冊",
+        "similarity": "冊就是跚右邊的部件。",
+        "difference": "這是部件對照：冊單獨成字；跚還要加上左邊的足字旁。"
+      },
+      {
+        "char": "蹣",
+        "similarity": "左邊都是足字旁，右側都有框形和豎畫。",
+        "difference": "這是局部形狀對照：跚右邊是冊；蹣右邊是㒼，上有廿，下方內部有兩個入形。"
+      }
+    ],
+    "teachingTip": "先看左旁，再辨右冊。把珊、姍、柵的左旁遮住，可看見相同的冊；蹣只作局部對照，不能把兩字的右旁混用。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

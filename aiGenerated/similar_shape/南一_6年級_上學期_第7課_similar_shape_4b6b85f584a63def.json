@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第7課_similar_shape_4b6b85f584a63def",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "芽",
+    "lessonChars": [
+      "抉",
+      "擇",
+      "抽",
+      "搔",
+      "跆",
+      "蹣",
+      "跚",
+      "苞",
+      "芽",
+      "犧",
+      "牲",
+      "勞",
+      "叢",
+      "履",
+      "灶",
+      "壤",
+      "衡",
+      "維"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "芽",
+    "similarChars": [
+      {
+        "char": "牙",
+        "similarity": "牙是芽下方的完整部件。",
+        "difference": "芽多了上方的艹；牙單獨成字。"
+      },
+      {
+        "char": "呀",
+        "similarity": "都含牙，牙的豎鉤和末撇相同。",
+        "difference": "芽是上艹下牙；呀是左口右牙。"
+      },
+      {
+        "char": "蚜",
+        "similarity": "都含完整的牙部件。",
+        "difference": "芽的艹在上；蚜的虫在左。"
+      },
+      {
+        "char": "訝",
+        "similarity": "都有牙，部件內的轉折位置可對照。",
+        "difference": "芽上有艹；訝左有言。"
+      },
+      {
+        "char": "邪",
+        "similarity": "都含牙部件。",
+        "difference": "芽的牙在艹下；邪的牙在左，右側另有阝。"
+      },
+      {
+        "char": "穿",
+        "similarity": "都是上方加部件、下方有牙的上下結構。",
+        "difference": "芽上方是艹；穿上方是穴，不能把兩種字頭寫混。"
+      }
+    ],
+    "teachingTip": "先確認上艹，再確認下牙；牙不是才。六字依共同牙部件比較，不表示讀音相同。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

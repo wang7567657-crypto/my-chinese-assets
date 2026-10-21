@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第7課_memory_strategy_8b1e4a4b8c5c9c1c",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "壤",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "壤",
+    "components": [
+      "左土",
+      "右襄（內有兩個口，其下三橫兩豎）"
+    ],
+    "association": "左邊的土提示泥土，右邊較密集的筆畫可聯想成土裡細細分布的根，幫助記住土壤能讓植物生長。這是教學聯想，並非字源解釋；根的圖像只放在字旁。",
+    "mnemonic": "左土右邊襄，土壤育苗長。",
+    "visualPrompt": "田字格內放標準「壤」字，以色框區分左土、右襄；字旁另畫土壤剖面與植物根部。不得把襄的筆畫畫成樹根，字形不加減筆畫。",
+    "teachingTip": "先寫窄土旁，再臨寫襄；檢查兩個口、其下三橫兩豎，以及下方撇不穿過捺的標準寫法。和嚷並排遮住共同右旁，練習辨土與口。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

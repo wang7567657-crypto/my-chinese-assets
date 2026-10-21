@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第7課_similar_shape_5b41b559fbec0e30",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "勞",
+    "lessonChars": [
+      "抉",
+      "擇",
+      "抽",
+      "搔",
+      "跆",
+      "蹣",
+      "跚",
+      "苞",
+      "芽",
+      "犧",
+      "牲",
+      "勞",
+      "叢",
+      "履",
+      "灶",
+      "壤",
+      "衡",
+      "維"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "勞",
+    "similarChars": [
+      {
+        "char": "撈",
+        "similarity": "撈的右邊就是完整的勞。",
+        "difference": "勞單獨成字；撈另有左扌。"
+      },
+      {
+        "char": "澇",
+        "similarity": "澇的右旁完整保留勞。",
+        "difference": "勞沒有氵；澇左邊有氵。"
+      },
+      {
+        "char": "榮",
+        "similarity": "上方都是雙火形加冖。",
+        "difference": "勞最下方是力；榮最下方是木。"
+      },
+      {
+        "char": "營",
+        "similarity": "上方的雙火形與冖相同。",
+        "difference": "勞下方是力；營下方是呂。"
+      },
+      {
+        "char": "螢",
+        "similarity": "都有雙火形覆在冖之上。",
+        "difference": "勞下方為力；螢下方為虫。"
+      },
+      {
+        "char": "熒",
+        "similarity": "上部的雙火形與冖和勞相同。",
+        "difference": "勞最下是力；熒最下是火。熒較少單用，這裡只比較字形。"
+      }
+    ],
+    "teachingTip": "先認雙火形、冖，再看最下面。勞以力收尾；榮、營、螢、熒雖上半相同，下半不能互換。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

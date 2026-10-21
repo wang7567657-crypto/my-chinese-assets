@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第7課_memory_strategy_9050d692028ad772",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "灶",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "灶",
+    "components": [
+      "左火",
+      "右土"
+    ],
+    "association": "看到左火、右土，聯想到用土石砌起、可以生火煮飯的土灶。這是依現代字形設計的教學聯想，並非字源解釋。",
+    "mnemonic": "左邊火，右邊土，土灶生火把飯煮。",
+    "visualPrompt": "在田字格內呈現標準「灶」字，左火和右土各用一色框標示；字旁另畫土灶及上方的鍋子。火焰只畫在旁邊的情境圖中，不替換或拉長字內火旁的筆畫。",
+    "teachingTip": "臨寫後檢查左火末筆為點、右土下橫較長；讓學生用手勢比出土與士的長短橫差異，再讀土灶、爐灶。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

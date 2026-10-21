@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第7課_memory_strategy_c6ef7041fd82f0bd",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "char": "牲",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "牲",
+    "components": [
+      "牛字旁",
+      "生"
+    ],
+    "association": "想像牧場上的牛正在生活，用牛的畫面提示左旁，用「生活」提示右生。這是教學聯想，不是字源解釋；牲也可指其他家畜。",
+    "mnemonic": "左牛右生寫作牲，牲口的牲讀ㄕㄥ。",
+    "visualPrompt": "中央放臺灣標準楷體「牲」，牛字旁與生分色；字旁畫牛、羊等家畜的小圖和「牲口」詞語卡。保留完整標準字形，不把牛旁畫成牛頭或把生的橫畫當草地。",
+    "teachingTip": "牛作左旁時下橫斜挑；右生先撇、再兩橫、一豎、最後長橫。比較牲、姓、性時只更換左旁，右生保持完整。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}

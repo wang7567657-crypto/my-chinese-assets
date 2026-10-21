@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第7課_similar_shape_0481c4c6e5eb8f91",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第7課",
+    "targetChar": "擇",
+    "lessonChars": [
+      "抉",
+      "擇",
+      "抽",
+      "搔",
+      "跆",
+      "蹣",
+      "跚",
+      "苞",
+      "芽",
+      "犧",
+      "牲",
+      "勞",
+      "叢",
+      "履",
+      "灶",
+      "壤",
+      "衡",
+      "維"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "擇",
+    "similarChars": [
+      {
+        "char": "澤",
+        "similarity": "右半都是睪，上罒下幸。",
+        "difference": "擇左旁是扌；澤左旁是氵。"
+      },
+      {
+        "char": "譯",
+        "similarity": "右半都是完整的睪。",
+        "difference": "擇左旁是扌；譯左旁是言。"
+      },
+      {
+        "char": "釋",
+        "similarity": "右半同有睪，筆畫分布相近。",
+        "difference": "擇左旁是扌；釋左旁是釆，上有撇，不是扌。"
+      },
+      {
+        "char": "驛",
+        "similarity": "右半同有睪。",
+        "difference": "驛左旁是馬；擇左旁是扌。"
+      },
+      {
+        "char": "繹",
+        "similarity": "右半同有睪。",
+        "difference": "繹左旁是糸；擇左旁是扌。"
+      },
+      {
+        "char": "擲",
+        "similarity": "左旁同是扌，右半都是筆畫較密的結構。",
+        "difference": "擇右邊是上罒下幸的睪；擲右邊是鄭，右端可見阝，沒有睪。"
+      }
+    ],
+    "teachingTip": "把睪整塊圈起來，再分辨左旁；最後將擇與擲並排，找出罒和阝的位置差異。"
+  },
+  "createdAt": "2026-10-21T19:48:31.064348Z"
+}
