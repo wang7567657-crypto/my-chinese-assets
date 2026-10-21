@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第8課_similar_shape_ea1d28ca4edffa38",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "targetChar": "臂",
+    "lessonChars": [
+      "怨",
+      "惱",
+      "臂",
+      "膝",
+      "艾",
+      "枕",
+      "跌",
+      "焰",
+      "熄",
+      "熾",
+      "炭",
+      "鬚",
+      "剝",
+      "竄",
+      "瞬",
+      "頹",
+      "飢",
+      "裊",
+      "緒"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "臂",
+    "similarChars": [
+      {
+        "char": "壁",
+        "similarity": "上部同為辟，都是上下結構。",
+        "difference": "臂下面是肉的月形；壁下面是土。"
+      },
+      {
+        "char": "璧",
+        "similarity": "上部同為辟。",
+        "difference": "臂下面是肉的月形；璧下面是玉，別漏看玉的點。"
+      },
+      {
+        "char": "劈",
+        "similarity": "上部同為辟。",
+        "difference": "臂下面是肉的月形；劈下面是刀。"
+      },
+      {
+        "char": "擘",
+        "similarity": "上部同為辟。",
+        "difference": "臂下面是肉的月形；擘下面是手。"
+      },
+      {
+        "char": "譬",
+        "similarity": "上部同為辟。",
+        "difference": "臂下面是肉的月形；譬下面是言。"
+      },
+      {
+        "char": "闢",
+        "similarity": "都含完整的辟。",
+        "difference": "臂在辟下加肉旁；闢用門包住辟，沒有臂的下部。"
+      }
+    ],
+    "teachingTip": "固定上部辟，逐一遮住或換看下部：肉旁、土、玉、刀、手、言。臂的下部是肉旁月形，標準楷體內筆為點、挑，不把它當作一般月字的兩橫。"
+  },
+  "createdAt": "2026-10-21T20:57:00.750110Z"
+}

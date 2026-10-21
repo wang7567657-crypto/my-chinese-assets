@@ -1,0 +1,69 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_6年級_上學期_第8課_feature_ai_batch_27a7b48900d1fb7d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "context": {
+      "publisher": "南一",
+      "grade": "6年級",
+      "semester": "上學期",
+      "lesson": "第8課"
+    },
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 19,
+    "batchCharacters": [
+      "怨",
+      "惱",
+      "臂",
+      "膝",
+      "艾",
+      "枕",
+      "跌",
+      "焰",
+      "熄",
+      "熾",
+      "炭",
+      "鬚",
+      "剝",
+      "竄",
+      "瞬",
+      "頹",
+      "飢",
+      "裊",
+      "緒"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_d771fdf4ea0e4203.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_00d64f1b944a243a.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_ea1d28ca4edffa38.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_0a057189ecfff96d.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_fc2f40f9e8ba0685.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_d129d36200f87bda.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_cd24e97f1b46c0d3.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_b85dc49021939d6d.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_639f1385b1a15cb5.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_dbe6bca9ee9b960e.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_9a260b44ba57dd75.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_f770d9e5048e2638.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_ad8e270c5403e2d9.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_7ceac432846b418b.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_16ec976af467f1b1.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_b4a3f6bc2aaa8d6c.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_ea863af4e6fe3cdc.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_3e862206c316cc0e.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第8課_similar_shape_7fe7cc9ce974abc3.json"
+    ]
+  },
+  "createdAt": "2026-10-21T20:57:00.750110Z"
+}

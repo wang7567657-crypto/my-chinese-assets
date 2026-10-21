@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第8課_memory_strategy_840697d5f404c2ad",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "飢",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "飢",
+    "components": [
+      "食旁（左側，依偏旁標準筆形書寫）",
+      "几（右側）"
+    ],
+    "association": "把几想成小桌，桌旁放著空盤子，食旁提醒想到吃東西，連結肚子飢餓。這是教學聯想，不是字源說明；桌子只畫在字旁，不能改造几。",
+    "mnemonic": "左食右几，肚子飢，想吃飯。",
+    "visualPrompt": "中央放標準楷體「飢」，左食旁與右几清楚分開；字旁另畫小桌、空盤與等待用餐的人。圖像不替換食旁或几，也不增加餐具形狀的筆畫。",
+    "teachingTip": "先比較飢與肌的左旁，再比較飢與饑的右旁。說一次飢餓ㄐㄧ ㄜˋ後遮字試寫，特別核對右邊只有几形部件。"
+  },
+  "createdAt": "2026-10-21T20:57:00.750110Z"
+}
