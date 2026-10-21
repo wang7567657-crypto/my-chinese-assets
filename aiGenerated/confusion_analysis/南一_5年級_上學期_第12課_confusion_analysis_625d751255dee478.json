@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第12課_confusion_analysis_625d751255dee478",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "舟",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "舟",
+    "groups": {
+      "shape": [
+        {
+          "char": "丹",
+          "why": "兩字都有框形和穿過框的橫畫。",
+          "difference": "舟上方有起筆的短撇，框內有上下兩點；丹沒有那一撇，框內只有一點。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "州",
+          "why": "舟和州都讀ㄓㄡ，聲調也相同。",
+          "difference": "舟是船；州可用在地名或行政區名。"
+        },
+        {
+          "char": "洲",
+          "why": "舟和洲都讀ㄓㄡ。",
+          "difference": "舟是船；洲可指水中的陸地，如沙洲。"
+        },
+        {
+          "char": "週",
+          "why": "舟和週都讀ㄓㄡ。",
+          "difference": "舟用在小舟；週用在一週、週末，和一段時間有關。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "船",
+          "why": "舟和船都能指水上的交通工具。",
+          "difference": "舟常見於詩文，如輕舟；船是日常常用的說法，兩者不是按大小嚴格區分。"
+        }
+      ],
+      "component": [
+        {
+          "char": "般",
+          "why": "般的左邊也有舟，容易見到舟部就猜意思。",
+          "difference": "舟本身是船；一般的般不能解釋成船，仍要連著詞語理解。"
+        }
+      ]
+    },
+    "tip": "寫輕舟用舟；寫沙洲用洲。舟和洲同音，先看句子是在說船，還是在說陸地。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

@@ -1,0 +1,70 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第12課_confusion_analysis_f78609a1a2690b8d",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "辭",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "辭",
+    "groups": {
+      "shape": [
+        {
+          "char": "亂",
+          "why": "左邊相同，容易只看到複雜的左部。",
+          "difference": "辭右邊是辛；亂右邊是乚形筆畫。"
+        },
+        {
+          "char": "辯",
+          "why": "兩字右邊都有辛形部件，而且筆畫多。",
+          "difference": "辭左部不是辛；辯左右是辛形部件，中間有言。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "詞",
+          "why": "辭、詞都讀ㄘˊ，都是第二聲。",
+          "difference": "辭可用於告辭；詞可用於詞語。"
+        },
+        {
+          "char": "慈",
+          "why": "辭、慈都讀ㄘˊ，都是第二聲。",
+          "difference": "辭可用於辭別；慈可用於慈愛。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "詞",
+          "why": "辭和詞都可能和語言文字有關。",
+          "difference": "「告辭」表示道別，用辭；「名詞」是詞類名稱，用詞。"
+        },
+        {
+          "char": "別",
+          "why": "辭別和告別都能表示離開時道別。",
+          "difference": "辭也能表示推辭；別也能表示分開或另外。"
+        }
+      ],
+      "component": [
+        {
+          "char": "辛",
+          "why": "辛是辭的右部，字形容易被複雜左部干擾。",
+          "difference": "右部要完整寫成辛，不能寫成幸。"
+        },
+        {
+          "char": "幸",
+          "why": "辛和幸都有多條橫畫，容易混寫。",
+          "difference": "辭右部是辛，上方有一點；不要換成上方是土形的幸。"
+        }
+      ]
+    },
+    "tip": "先用「告辭、詞語、慈愛」選字，再比較辭與亂的右邊。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

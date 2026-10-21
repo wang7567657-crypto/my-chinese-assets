@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第12課_memory_strategy_9e8038ad655334a8",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "詩",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "詩",
+    "components": [
+      "言",
+      "寺"
+    ],
+    "association": "記憶聯想，並非字源解說：想像有人在寺旁朗讀詩句，用說話的言加寺來記住字形。",
+    "mnemonic": "言在左邊寺在右，開口讀詩記得久。",
+    "visualPrompt": "呈現標準繁體「詩」，左言右寺完整清楚；字旁另畫一人在寺旁讀詩的小圖。人物、書本與寺廟不得代替或扭曲筆畫。",
+    "teachingTip": "以言、日、扌分別配寺，辨詩、時、持；用古詩、時間、保持各造短語。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

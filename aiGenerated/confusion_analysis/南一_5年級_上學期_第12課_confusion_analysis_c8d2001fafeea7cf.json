@@ -1,0 +1,70 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第12課_confusion_analysis_c8d2001fafeea7cf",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "繚",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "繚",
+    "groups": {
+      "shape": [
+        {
+          "char": "瞭",
+          "why": "右邊都是尞，整體寬度接近。",
+          "difference": "繚左邊是糸，寫繚繞；瞭左邊是目，寫瞭望、瞭解。"
+        },
+        {
+          "char": "嘹",
+          "why": "右邊都是尞，容易因同音寫錯左旁。",
+          "difference": "繚用糸字旁；嘹用口字旁，常見於嘹亮。"
+        },
+        {
+          "char": "療",
+          "why": "都有尞，容易只記住這個大部件。",
+          "difference": "繚左邊是糸；療外側是疒，常見於治療。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "嘹",
+          "why": "繚、嘹都讀ㄌㄧㄠˊ。",
+          "difference": "雲霧繚繞用繚；聲音嘹亮用嘹。"
+        },
+        {
+          "char": "療",
+          "why": "繚、療都讀ㄌㄧㄠˊ。",
+          "difference": "繚用於繚繞；療用於治療、醫療。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "繞",
+          "why": "繚與繞都可表示纏繞或圍繞。",
+          "difference": "繚常出現在繚繞、眼花繚亂；繞可單獨用於繞路、繞圈，不能一律換成繚。"
+        }
+      ],
+      "component": [
+        {
+          "char": "僚",
+          "why": "共享尞，但換了左旁。",
+          "difference": "僚左邊是亻，如同僚；繚左邊是糸。"
+        },
+        {
+          "char": "寮",
+          "why": "共享尞，但部件位置不同。",
+          "difference": "寮是宀在上、尞在下；繚是糸在左、尞在右。"
+        }
+      ]
+    },
+    "tip": "把「雲霧繚繞、歌聲嘹亮、接受治療」並排，先看意思，再選左旁。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

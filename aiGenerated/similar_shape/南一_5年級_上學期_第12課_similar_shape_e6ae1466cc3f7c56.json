@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_e6ae1466cc3f7c56",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "歸",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "歸",
+    "similarChars": [
+      {
+        "char": "帚",
+        "similarity": "歸的右半邊是帚。",
+        "difference": "歸還有左半邊；帚只保留這個部件，可用在掃帚。"
+      },
+      {
+        "char": "婦",
+        "similarity": "兩字右邊都是帚。",
+        "difference": "婦左邊是女；歸左邊較複雜，左下還有止。"
+      },
+      {
+        "char": "掃",
+        "similarity": "兩字右邊都是帚。",
+        "difference": "掃左邊是扌；歸左邊不是扌，左下有止。"
+      },
+      {
+        "char": "師",
+        "similarity": "歸左上和師左邊的部件相同。",
+        "difference": "歸左下另有止，右邊是帚；師右邊是一橫下面接巾。"
+      },
+      {
+        "char": "帥",
+        "similarity": "歸左上和帥左邊的部件相同。",
+        "difference": "歸左下另有止，右邊是帚；帥右邊只有巾。"
+      },
+      {
+        "char": "追",
+        "similarity": "追裡面的部件和歸的左上部件相同。",
+        "difference": "追用辶包住那個部件；歸左下有止，右邊還有帚。"
+      }
+    ],
+    "teachingTip": "把歸看成左上、左下、右邊三區。先找到左下的止與右邊的帚，再和師、帥比缺少哪些部分。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

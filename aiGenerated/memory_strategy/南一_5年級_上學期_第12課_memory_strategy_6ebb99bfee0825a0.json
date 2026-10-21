@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第12課_memory_strategy_6ebb99bfee0825a0",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "桂",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "桂",
+    "components": [
+      "木",
+      "圭"
+    ],
+    "association": "記憶聯想，並非字源解說：想像桂花樹旁疊著兩塊土，提醒左邊寫木，右邊圭的字形像兩個土。",
+    "mnemonic": "木在左，圭在右；兩個土疊好，桂花香味飄。",
+    "visualPrompt": "呈現標準繁體「桂」，左木右圭完整清晰；字旁另畫桂花樹和上下排列的兩塊土作記憶小圖。花與土不得替代筆畫，不在桂字右側添卜。",
+    "teachingTip": "先固定右邊圭，比較桂、佳、娃、蛙；再分辨桂與掛右端是否有卜。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

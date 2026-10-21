@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_e2c658610a1dd555",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "澗",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "澗",
+    "similarChars": [
+      {
+        "char": "間",
+        "similarity": "澗的右半是「間」。",
+        "difference": "澗左邊多「氵」；間沒有水旁。"
+      },
+      {
+        "char": "簡",
+        "similarity": "都含有「間」。",
+        "difference": "澗是左氵右間；簡是上竹字頭、下間。"
+      },
+      {
+        "char": "潤",
+        "similarity": "都是左氵，右邊有「門」。",
+        "difference": "澗的門內是「日」；潤的門內是「王」。"
+      },
+      {
+        "char": "瀾",
+        "similarity": "都是左氵，右邊有「門」。",
+        "difference": "澗的門內是日；瀾的門內是「柬」，筆畫較多。"
+      },
+      {
+        "char": "澖",
+        "similarity": "都是左氵，右邊都有「門」。",
+        "difference": "澗的門內是日；罕用字「澖」的門內是木，僅供字形比較。"
+      },
+      {
+        "char": "閒",
+        "similarity": "兩字都有門形，門內的小字容易看混。",
+        "difference": "澗左有氵，門內是日；閒沒有氵，門內是月。"
+      }
+    ],
+    "teachingTip": "抓住「三點水＋門裡一個日」，再與潤的王、澖的木比較。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

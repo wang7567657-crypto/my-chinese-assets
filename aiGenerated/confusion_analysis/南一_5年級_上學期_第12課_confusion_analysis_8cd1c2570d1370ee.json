@@ -1,0 +1,65 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第12課_confusion_analysis_8cd1c2570d1370ee",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "城",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "城",
+    "groups": {
+      "shape": [
+        {
+          "char": "誠",
+          "why": "右邊同是成。",
+          "difference": "城左邊是土；誠左邊是言。"
+        },
+        {
+          "char": "域",
+          "why": "左邊同是土，右邊都有斜鉤。",
+          "difference": "城右邊是成；域右邊是或，不要多寫口。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "成",
+          "why": "城、成都讀ㄔㄥˊ，都是第二聲。",
+          "difference": "城用於城牆；成用於完成。"
+        },
+        {
+          "char": "誠",
+          "why": "城、誠都讀ㄔㄥˊ，都是第二聲。",
+          "difference": "城用於城市；誠用於誠實。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "市",
+          "why": "城和市都可能指人們聚居的地方。",
+          "difference": "城也可指城牆；市也可指買賣物品的市場。"
+        }
+      ],
+      "component": [
+        {
+          "char": "成",
+          "why": "成是城的右部，容易漏寫左旁。",
+          "difference": "城要有左土右成；成不能代替城。"
+        },
+        {
+          "char": "盛",
+          "why": "都有成，但部件擺放方式不同。",
+          "difference": "城的土在左邊；盛的皿在下邊。"
+        }
+      ]
+    },
+    "tip": "用「完成、城市、誠實」辨音同義異，再比較土、言和沒有左旁的三種字形。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

@@ -1,0 +1,60 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_5年級_上學期_第12課_confusion_analysis_419c91ab012c1bbe",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "描",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "描",
+    "groups": {
+      "shape": [
+        {
+          "char": "瞄",
+          "why": "右邊同是苗，容易看錯左旁。",
+          "difference": "描寫用扌；瞄準用目。"
+        },
+        {
+          "char": "播",
+          "why": "都有扌，右下方也都有田。",
+          "difference": "描右上是艹；播右上是釆。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "苗",
+          "why": "描、苗都讀ㄇㄧㄠˊ，都是第二聲。",
+          "difference": "描用於描寫；苗用於幼苗。"
+        },
+        {
+          "char": "秒",
+          "why": "描讀ㄇㄧㄠˊ；秒讀ㄇㄧㄠˇ，聲調不同。",
+          "difference": "描是描畫；秒是計時單位。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "畫",
+          "why": "描和畫都可能和作畫有關。",
+          "difference": "描常指依著輪廓畫，或用文字表達；畫也能指圖畫。"
+        }
+      ],
+      "component": [
+        {
+          "char": "苗",
+          "why": "只寫出右邊的苗，就少了描的左旁。",
+          "difference": "描要寫成左扌、右苗；不要漏掉扌。"
+        }
+      ]
+    },
+    "tip": "把「描寫、瞄準、幼苗」放進短句，再指出各字左邊的不同。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_ce00c01b5df93888",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "舟",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "舟",
+    "similarChars": [
+      {
+        "char": "船",
+        "similarity": "船左邊保留舟的主要筆形。",
+        "difference": "舟能獨立成字；船把舟寫窄，右邊另外加上部件。"
+      },
+      {
+        "char": "航",
+        "similarity": "航左邊是舟字旁。",
+        "difference": "航右邊多了亢；舟沒有右半邊的亢。"
+      },
+      {
+        "char": "般",
+        "similarity": "般左邊是舟字旁。",
+        "difference": "般右邊多了殳；舟不帶這個右側部件。"
+      },
+      {
+        "char": "舶",
+        "similarity": "舶左邊是舟字旁。",
+        "difference": "舶右邊多了白；舟是單獨的舟。"
+      },
+      {
+        "char": "舫",
+        "similarity": "舫左邊是舟字旁。",
+        "difference": "舫右邊多了方；舟沒有方。舫較少見，可指船，如畫舫。"
+      },
+      {
+        "char": "艇",
+        "similarity": "艇左邊是舟字旁。",
+        "difference": "艇右邊多了廷；舟沒有廷。"
+      }
+    ],
+    "teachingTip": "這組比較共同的舟部。先寫獨體的舟，再觀察它作左偏旁時寫窄的樣子。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

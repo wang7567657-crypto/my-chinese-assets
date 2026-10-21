@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第12課_memory_strategy_35ee1722cb4c4049",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "城",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "城",
+    "components": [
+      "土",
+      "成"
+    ],
+    "association": "想像用土築成一道城牆，把「土」和「成」連在一起記。這是記字聯想，不是字源解釋。",
+    "mnemonic": "土在左，成在右，城牆圍著老城走。",
+    "visualPrompt": "在標準楷體「城」字旁畫一座有城門的古城，城牆畫在字外。保留左土右成的標準字形，不把筆畫改成城牆。",
+    "teachingTip": "先認清土的兩橫和直畫，再寫右邊的成；用城牆和城市各說一句話。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

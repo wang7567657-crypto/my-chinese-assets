@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_5年級_上學期_第12課_memory_strategy_6566a5cb8cf8e718",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "歸",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "歸",
+    "components": [
+      "止",
+      "帚"
+    ],
+    "association": "想像歸家後停下腳步，旁邊放著掃帚，用來提示左下的止和右邊的帚。這只是在記部分部件，不是完整拆字，也不是字源解釋。",
+    "mnemonic": "左下止，右邊帚，左上部件也要有；回家歸來記心頭。",
+    "visualPrompt": "在標準字形的歸旁邊畫一個人回到家門口，門旁另放一把掃帚。把字完整寫在獨立字框中，圖片不替代、遮住或扭曲筆畫。",
+    "teachingTip": "先看範字，依左上、左下、右邊三區定位。左下止的末橫向右斜挑；右邊帚保持完整。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

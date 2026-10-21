@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_146c5ed878d13ed4",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "鳴",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "鳴",
+    "similarChars": [
+      {
+        "char": "嗚",
+        "similarity": "左邊都是「口」，右邊輪廓相近。",
+        "difference": "鳴右邊是「鳥」；嗚右邊是「烏」，頭部裡少一短橫。"
+      },
+      {
+        "char": "鳥",
+        "similarity": "鳴的右半就是「鳥」。",
+        "difference": "鳴左邊另有一個「口」；鳥是獨立的字。"
+      },
+      {
+        "char": "鴨",
+        "similarity": "右邊都是「鳥」。",
+        "difference": "鳴左邊是「口」；鴨左邊是「甲」，有中間直畫。"
+      },
+      {
+        "char": "鴉",
+        "similarity": "右邊都是「鳥」。",
+        "difference": "鳴左邊是「口」；鴉左邊是「牙」。"
+      },
+      {
+        "char": "鵑",
+        "similarity": "右邊都是「鳥」，左上都看得到「口」。",
+        "difference": "鳴左邊只有「口」；鵑左邊的「口」下還有「月」形。"
+      },
+      {
+        "char": "鵝",
+        "similarity": "右邊都是「鳥」。",
+        "difference": "鳴左邊是「口」；鵝左邊是筆畫較多的「我」。"
+      }
+    ],
+    "teachingTip": "先圈左邊的「口」，再看「鳥」頭裡的一短橫，辨清「鳴、嗚」。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

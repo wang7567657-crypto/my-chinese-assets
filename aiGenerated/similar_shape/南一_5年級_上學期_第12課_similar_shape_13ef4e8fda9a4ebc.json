@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_13ef4e8fda9a4ebc",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "銳",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "銳",
+    "similarChars": [
+      {
+        "char": "兌",
+        "similarity": "銳的右邊就是兌。",
+        "difference": "銳的左邊多了金；兌沒有金部件。"
+      },
+      {
+        "char": "說",
+        "similarity": "右邊都是兌。",
+        "difference": "銳的左邊是金；說的左邊是言。"
+      },
+      {
+        "char": "稅",
+        "similarity": "右邊都是兌。",
+        "difference": "銳的左邊是金；稅的左邊是禾。"
+      },
+      {
+        "char": "悅",
+        "similarity": "右邊都是兌。",
+        "difference": "銳的左邊是金；悅的左邊是忄。"
+      },
+      {
+        "char": "脫",
+        "similarity": "右邊都是兌。",
+        "difference": "銳的左邊是金；脫的左邊是月。"
+      },
+      {
+        "char": "蛻",
+        "similarity": "右邊都是兌。",
+        "difference": "銳的左邊是金；蛻的左邊是虫。"
+      }
+    ],
+    "teachingTip": "右邊兌保持不變，依序比較金、言、禾、忄、月、虫等左旁。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

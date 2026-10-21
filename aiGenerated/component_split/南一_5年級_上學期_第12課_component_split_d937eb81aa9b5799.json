@@ -1,0 +1,58 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_5年級_上學期_第12課_component_split_d937eb81aa9b5799",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "舟",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+  },
+  "data": {
+    "structure": "獨體",
+    "split": [
+      6
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    ],
+    "components": [
+      "舟"
+    ],
+    "strokeCount": 6,
+    "radical": "舟",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "獨體字且部首涵蓋全字，保留完整字形，不硬拆。",
+    "verification": {
+      "method": "解析 c9s 原始 XML，核對 Stroke 數、Outline 不重複、有限且合理的座標、每筆有效 Track；渲染原位兩色圖並逐字核對部首位置與字形。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/821f.xml",
+      "sourceBlobSha": "303e9e9c75b47b063dc03eba9f3970d2c69d90a7"
+    },
+    "updatedAt": "2026-10-12T05:36:37Z"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

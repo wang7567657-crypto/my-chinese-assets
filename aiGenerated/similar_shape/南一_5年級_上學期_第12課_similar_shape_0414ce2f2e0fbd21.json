@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_0414ce2f2e0fbd21",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "赦",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "赦",
+    "similarChars": [
+      {
+        "char": "赫",
+        "similarity": "兩字左邊都是赤。",
+        "difference": "赦右邊是攵；赫右邊又是一個赤。"
+      },
+      {
+        "char": "郝",
+        "similarity": "兩字左邊都是赤。",
+        "difference": "赦右邊是攵；郝右邊是右耳旁阝。郝常作姓氏。"
+      },
+      {
+        "char": "赧",
+        "similarity": "兩字左邊都是赤，右邊也都有交叉筆畫。",
+        "difference": "赦右邊是攵；赧右下是又。赧是較少見的字，如羞赧。"
+      },
+      {
+        "char": "赭",
+        "similarity": "兩字左邊都是赤。",
+        "difference": "赦右邊是攵；赭右邊是者。赭是較少見的字，如赭色。"
+      },
+      {
+        "char": "敕",
+        "similarity": "兩字右邊都是攵，左邊也都有橫、豎筆畫。",
+        "difference": "赦左邊是赤；敕左邊是束。敕是較少見的字，如敕令。"
+      },
+      {
+        "char": "政",
+        "similarity": "兩字右邊都是攵。",
+        "difference": "赦左邊是赤；政左邊是正，左下的筆畫不同。"
+      }
+    ],
+    "teachingTip": "先分清左赤、右攵，再比較赫的兩個赤。較少見的赧、赭、敕只用來觀察部件。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}

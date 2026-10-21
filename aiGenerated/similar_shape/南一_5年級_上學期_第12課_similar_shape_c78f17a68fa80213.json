@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_5年級_上學期_第12課_similar_shape_c78f17a68fa80213",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "5年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "辭",
+    "lessonChars": [
+      "鳴",
+      "澗",
+      "桂",
+      "幽",
+      "繚",
+      "詩",
+      "描",
+      "煩",
+      "敏",
+      "銳",
+      "城",
+      "辭",
+      "猿",
+      "啼",
+      "舟",
+      "赦",
+      "歸",
+      "箭"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "辭",
+    "similarChars": [
+      {
+        "char": "亂",
+        "similarity": "左邊的複雜部件相同。",
+        "difference": "辭的右邊是辛；亂的右邊是乚形筆畫。"
+      },
+      {
+        "char": "辯",
+        "similarity": "右邊都有辛形部件。",
+        "difference": "辭左邊是一個複雜部件；辯左右都有辛形部件，中間是言。"
+      },
+      {
+        "char": "辨",
+        "similarity": "右邊都有辛形部件。",
+        "difference": "辭左邊是一個複雜部件；辨左右都有辛形部件，中間是刀的變形，寫成一撇、一點。"
+      },
+      {
+        "char": "辦",
+        "similarity": "右邊都有辛形部件。",
+        "difference": "辭左邊是一個複雜部件；辦左右都有辛形部件，中間是力。"
+      },
+      {
+        "char": "辣",
+        "similarity": "都有辛部件。",
+        "difference": "辭的辛在右邊；辣的辛在左邊，右邊是束。"
+      },
+      {
+        "char": "辛",
+        "similarity": "辭的右邊是辛。",
+        "difference": "辭還有完整的左部；辛只有這個部件。"
+      }
+    ],
+    "teachingTip": "先與亂比左部，再確認辭的右邊是辛；辨、辦、辯要另外看中間的筆畫。"
+  },
+  "createdAt": "2026-10-21T12:50:53.133869Z"
+}
