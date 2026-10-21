@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第8課_memory_strategy_f4f0158f0db5cc48",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "緒",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "緒",
+    "components": [
+      "糸旁（左側，下方三點）",
+      "者（右側，中間不另加點）"
+    ],
+    "association": "把糸旁聯想到一團線，找到線頭就好像找到頭緒；右者當固定部件認。這是教學聯想，不是字源說明；不把者解釋成正在找線頭的人。",
+    "mnemonic": "左糸右者，拉出線頭找頭緒。",
+    "visualPrompt": "中央放標準楷體「緒」，左糸旁下方三點、右者的完整字形清楚可見；字旁畫線團與被找到的一小段線頭。線不得纏進筆畫、替換糸旁或在者中另加點。",
+    "teachingTip": "先辨左糸右者，再將緒、序、續各配情緒、順序、繼續朗讀。遮字試寫後核對糸下三點及者的中間。"
+  },
+  "createdAt": "2026-10-21T20:57:00.750110Z"
+}

@@ -1,0 +1,344 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_6年級_上學期_第8課_feature_ai_batch_e5963f6591b9cae6",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "context": {
+      "publisher": "南一",
+      "grade": "6年級",
+      "semester": "上學期",
+      "lesson": "第8課"
+    },
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 19,
+    "batchCharacters": [
+      "怨",
+      "惱",
+      "臂",
+      "膝",
+      "艾",
+      "枕",
+      "跌",
+      "焰",
+      "熄",
+      "熾",
+      "炭",
+      "鬚",
+      "剝",
+      "竄",
+      "瞬",
+      "頹",
+      "飢",
+      "裊",
+      "緒"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_f446208249f16ae7",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "怨",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_56beaf62d3997643",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "惱",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_b689851753bb286a",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "臂",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_526d96a0319819dd",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "膝",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_f9ecfb004b3561a6",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "艾",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_d6df542be48a099f",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "枕",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_de4a2d09ddb6148a",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "跌",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_7b5d650c6f9f2fae",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "焰",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_cf655a51096a4f6e",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "熄",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_388c8581081c5b86",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "熾",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_e9c415565584a652",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "炭",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_9832e9a08f21871f",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "鬚",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_6476ce8cefeed982",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "剝",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_70b4de6e4d001b2e",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "竄",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_3adc531cd2c57c07",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "瞬",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_4fbf75f16b2415e9",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "頹",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_4f2c0aaf404b6fd9",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "飢",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_1842e84a3eba3281",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "裊",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "南一_6年級_上學期_第8課_confusion_analysis_f4e40efc2195f883",
+        "input": {
+          "publisher": "南一",
+          "grade": "6年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "緒",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "只處理本功能所有items"
+  },
+  "createdAt": "2026-10-21T20:46:07.395354Z",
+  "processedAt": "2026-10-21T20:57:00.750110Z",
+  "output": {
+    "taskType": "feature_ai_batch",
+    "requestId": "南一_6年級_上學期_第8課_feature_ai_batch_e5963f6591b9cae6",
+    "version": "1.0",
+    "status": "completed",
+    "source": "chatgpt",
+    "input": {
+      "publisher": "南一",
+      "grade": "6年級",
+      "semester": "上學期",
+      "lesson": "第8課",
+      "context": {
+        "publisher": "南一",
+        "grade": "6年級",
+        "semester": "上學期",
+        "lesson": "第8課"
+      },
+      "featureTaskType": "confusion_analysis",
+      "featureName": "易混淆字",
+      "itemCount": 19,
+      "batchCharacters": [
+        "怨",
+        "惱",
+        "臂",
+        "膝",
+        "艾",
+        "枕",
+        "跌",
+        "焰",
+        "熄",
+        "熾",
+        "炭",
+        "鬚",
+        "剝",
+        "竄",
+        "瞬",
+        "頹",
+        "飢",
+        "裊",
+        "緒"
+      ]
+    },
+    "data": {
+      "status": "done",
+      "completedCount": 19,
+      "resultPaths": [
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_f446208249f16ae7.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_56beaf62d3997643.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_b689851753bb286a.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_526d96a0319819dd.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_f9ecfb004b3561a6.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_d6df542be48a099f.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_de4a2d09ddb6148a.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_7b5d650c6f9f2fae.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_cf655a51096a4f6e.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_388c8581081c5b86.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_e9c415565584a652.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_9832e9a08f21871f.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_6476ce8cefeed982.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_70b4de6e4d001b2e.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_3adc531cd2c57c07.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_4fbf75f16b2415e9.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_4f2c0aaf404b6fd9.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_1842e84a3eba3281.json",
+        "aiGenerated/confusion_analysis/南一_6年級_上學期_第8課_confusion_analysis_f4e40efc2195f883.json"
+      ]
+    },
+    "createdAt": "2026-10-21T20:57:00.750110Z"
+  }
+}

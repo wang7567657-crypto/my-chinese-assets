@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第8課_memory_strategy_dd56daec765f40c1",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "跌",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "跌",
+    "components": [
+      "足字旁（左）",
+      "失（右）"
+    ],
+    "association": "教學聯想（不是字源解釋）：把「足」想成走路的腳，把「失」連到失去平衡，串成一腳沒站穩而跌倒的畫面。",
+    "mnemonic": "左足右失，失去平衡會跌倒。",
+    "visualPrompt": "白底呈現完整標準楷體「跌」，左足字旁與右失用不同淡色標記；字旁另放一張鞋底打滑、人物扶住欄杆的安全示意圖。圖畫不可嵌入字內，不增減或彎曲筆畫。",
+    "teachingTip": "先讀跌倒ㄉㄧㄝˊ ㄉㄠˇ，再用手指出足、失。書寫後檢查右半是失，不是夫或交；聯想只助記，不當作造字來源。"
+  },
+  "createdAt": "2026-10-21T20:57:00.750110Z"
+}

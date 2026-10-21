@@ -1,0 +1,68 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_6年級_上學期_第8課_component_split_06183de99f315b12",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "跌",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "structure": "左右",
+    "split": [
+      7,
+      5
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    ],
+    "components": [
+      "足",
+      "失"
+    ],
+    "strokeCount": 12,
+    "radical": "足",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "source": "c9s/zh-stroke-data",
+    "verified": true,
+    "note": "split 表示各組筆數，實際取筆依 strokeGroups；每筆恰好出現一次，保留原位置與原筆序。部件分析用於識字教學，不等同字源。",
+    "verification": {
+      "method": "本次重新下載原始 XML，核對 Stroke 數、正規化輪廓無重複、所有座標有限且介於合理範圍、Track 至少兩個有效點；實際渲染完整字形，部首紅色、其餘藍色，逐字視覺核對部首筆畫位置。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/master/utf8/8dcc.xml"
+    },
+    "updatedAt": "2026-10-07T05:40:42.990661Z"
+  },
+  "createdAt": "2026-10-21T20:57:00.750110Z"
+}

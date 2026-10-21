@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第8課_similar_shape_d129d36200f87bda",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "targetChar": "枕",
+    "lessonChars": [
+      "怨",
+      "惱",
+      "臂",
+      "膝",
+      "艾",
+      "枕",
+      "跌",
+      "焰",
+      "熄",
+      "熾",
+      "炭",
+      "鬚",
+      "剝",
+      "竄",
+      "瞬",
+      "頹",
+      "飢",
+      "裊",
+      "緒"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "枕",
+    "similarChars": [
+      {
+        "char": "沈",
+        "similarity": "右半同為冘。",
+        "difference": "枕左旁是木；沈左旁是氵。"
+      },
+      {
+        "char": "忱",
+        "similarity": "右半同為冘。",
+        "difference": "枕左旁是木；忱左旁是忄。"
+      },
+      {
+        "char": "眈",
+        "similarity": "右半同為冘。",
+        "difference": "枕左旁是木；眈左旁是目。"
+      },
+      {
+        "char": "耽",
+        "similarity": "右半同為冘。",
+        "difference": "枕左旁是木；耽左旁是耳。"
+      },
+      {
+        "char": "冘",
+        "similarity": "冘是枕的完整右半，可以核對撇筆出頭的位置。",
+        "difference": "冘是罕用字；單寫冘沒有枕的木旁，不是枕的省略寫法。"
+      },
+      {
+        "char": "沉",
+        "similarity": "右半輪廓都可見冖和向下伸展的筆形。",
+        "difference": "沉右半是冗，下作几；枕右半是冘，撇筆向上穿出冖，末筆為豎曲鉤。"
+      }
+    ],
+    "teachingTip": "把左旁遮起來，先認冘，再看木、氵、忄、目、耳。比較枕與沉時，特別查看右半撇筆是否出頭，不能只看整體輪廓。"
+  },
+  "createdAt": "2026-10-21T20:57:00.750110Z"
+}

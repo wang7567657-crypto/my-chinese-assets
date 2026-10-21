@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第8課_similar_shape_7fe7cc9ce974abc3",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "targetChar": "緒",
+    "lessonChars": [
+      "怨",
+      "惱",
+      "臂",
+      "膝",
+      "艾",
+      "枕",
+      "跌",
+      "焰",
+      "熄",
+      "熾",
+      "炭",
+      "鬚",
+      "剝",
+      "竄",
+      "瞬",
+      "頹",
+      "飢",
+      "裊",
+      "緒"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "緒",
+    "similarChars": [
+      {
+        "char": "諸",
+        "similarity": "兩字右側同為者，整體均是左右結構。",
+        "difference": "緒左為糸旁；諸左為言旁。先看左旁就能分開。"
+      },
+      {
+        "char": "堵",
+        "similarity": "右側同為者。",
+        "difference": "緒左為糸旁；堵左為土，筆畫數與輪廓不同。"
+      },
+      {
+        "char": "賭",
+        "similarity": "右側同為者，左部都較繁密。",
+        "difference": "緒左為糸旁；賭左為貝。可找糸下方三點與貝下方兩筆區分。"
+      },
+      {
+        "char": "睹",
+        "similarity": "右側同為者。",
+        "difference": "緒左為糸旁；睹左為目，目是框形，糸旁不是。"
+      },
+      {
+        "char": "豬",
+        "similarity": "右側同為者，左側都含斜向筆畫。",
+        "difference": "緒左為糸旁；豬左為豕。先分辨糸的繞折形與豕的長撇筆勢。"
+      },
+      {
+        "char": "署",
+        "similarity": "兩字都含者這個部件。",
+        "difference": "緒是左糸右者；署是上罒下者，屬上下結構，者的位置不同。"
+      }
+    ],
+    "teachingTip": "這組以共同的者部件比較：先判斷左右或上下結構，再看另一部件。緒左糸旁下方是三點，右者中間不另加點。"
+  },
+  "createdAt": "2026-10-21T20:57:00.750110Z"
+}
