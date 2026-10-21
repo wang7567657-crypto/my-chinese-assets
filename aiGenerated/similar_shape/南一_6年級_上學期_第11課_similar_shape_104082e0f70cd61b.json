@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第11課_similar_shape_104082e0f70cd61b",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "瞞",
+    "lessonChars": [
+      "涕",
+      "泛",
+      "枇",
+      "杷",
+      "斥",
+      "肅",
+      "遍",
+      "玄",
+      "痘",
+      "腫",
+      "敷",
+      "央",
+      "瞞",
+      "庭",
+      "徽",
+      "袖",
+      "擤",
+      "鎂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "瞞",
+    "similarChars": [
+      {
+        "char": "滿",
+        "similarity": "右半都有相同的㒼形部件。",
+        "difference": "瞞左目；滿左氵。右半相同，辨字先看左旁。"
+      },
+      {
+        "char": "蹣",
+        "similarity": "右半與瞞相同，都是㒼形。",
+        "difference": "蹣左足字旁；瞞左目，不能把目寫成足字旁。"
+      },
+      {
+        "char": "懣",
+        "similarity": "懣上方的滿包含瞞右半的㒼形。",
+        "difference": "懣是上滿下心；瞞是左目右㒼形，沒有下方心。懣較少見，只作部件比較。"
+      },
+      {
+        "char": "蟎",
+        "similarity": "右半與瞞相同，都是㒼形。",
+        "difference": "蟎左虫；瞞左目。蟎見於塵蟎，這裡只比較字形。"
+      },
+      {
+        "char": "璊",
+        "similarity": "右半與瞞相同，都是㒼形。",
+        "difference": "璊是罕用字，左為玉字旁的王形；瞞左目。"
+      },
+      {
+        "char": "顢",
+        "similarity": "都含同一個㒼形部件。",
+        "difference": "顢是較少見的字，左㒼形、右頁；瞞左目、右㒼形，位置不同。"
+      }
+    ],
+    "teachingTip": "先保留右半，再用左目、左氵、左足字旁等來分類。㒼是罕見的部件字形；本課重點是寫出瞞，不必背寫所有延伸字。"
+  },
+  "createdAt": "2026-10-21T23:51:27.550670Z"
+}

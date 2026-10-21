@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第11課_similar_shape_26c17b7e34dcf8ad",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "鎂",
+    "lessonChars": [
+      "涕",
+      "泛",
+      "枇",
+      "杷",
+      "斥",
+      "肅",
+      "遍",
+      "玄",
+      "痘",
+      "腫",
+      "敷",
+      "央",
+      "瞞",
+      "庭",
+      "徽",
+      "袖",
+      "擤",
+      "鎂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "鎂",
+    "similarChars": [
+      {
+        "char": "美",
+        "similarity": "鎂的右半就是美。",
+        "difference": "美單獨成字，沒有左金字旁；鎂須加金字旁。"
+      },
+      {
+        "char": "媄",
+        "similarity": "右半同為美。",
+        "difference": "媄是罕用字，左女；鎂左金字旁。"
+      },
+      {
+        "char": "渼",
+        "similarity": "右半同為美。",
+        "difference": "渼是罕用字，左氵；鎂左金字旁。"
+      },
+      {
+        "char": "羹",
+        "similarity": "羹下半包含與鎂右半相同的美。",
+        "difference": "羹上羔下美，沒有金字旁；鎂左金字旁、右美。"
+      },
+      {
+        "char": "羔",
+        "similarity": "羔上半與鎂右邊美的上半同有羊形。",
+        "difference": "羔羊形下面是灬；鎂右邊美的羊形下面是大，整字左邊另有金字旁。"
+      },
+      {
+        "char": "羨",
+        "similarity": "羨上半與鎂右邊美的上半同有羊形。",
+        "difference": "羨下方是水形與欠；鎂右邊美的下方是大，左邊再加金字旁。"
+      }
+    ],
+    "teachingTip": "先圈完整美，再比較它出現在單字、右半還是下半。羔、羨只作上半羊形與下半的局部比較；寫鎂要保留左金字旁與完整右美。"
+  },
+  "createdAt": "2026-10-21T23:51:27.550670Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第11課_similar_shape_e7233fd16e0c16f6",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "央",
+    "lessonChars": [
+      "涕",
+      "泛",
+      "枇",
+      "杷",
+      "斥",
+      "肅",
+      "遍",
+      "玄",
+      "痘",
+      "腫",
+      "敷",
+      "央",
+      "瞞",
+      "庭",
+      "徽",
+      "袖",
+      "擤",
+      "鎂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "央",
+    "similarChars": [
+      {
+        "char": "英",
+        "similarity": "下方完整保留央，ㄇ形與下接大變形都相同。",
+        "difference": "英在央上加艹；央沒有艹。"
+      },
+      {
+        "char": "映",
+        "similarity": "右半同為央。",
+        "difference": "映左邊有日；央沒有日旁。"
+      },
+      {
+        "char": "秧",
+        "similarity": "右半完整保留央。",
+        "difference": "秧左邊是禾；央單獨成字，左側不加禾。"
+      },
+      {
+        "char": "殃",
+        "similarity": "右半同為央。",
+        "difference": "殃左邊有歹；央沒有歹旁。"
+      },
+      {
+        "char": "泱",
+        "similarity": "右側同為央，ㄇ形內外的位置相同。",
+        "difference": "泱左邊有氵；央沒有三點水。泱可見於「泱泱大國」，作延伸辨識。"
+      },
+      {
+        "char": "鴦",
+        "similarity": "上部就是央。",
+        "difference": "鴦在央下加鳥；央下方沒有鳥。"
+      }
+    ],
+    "teachingTip": "先圈出六個字中的央，辨識新增部件是在左、上或下。央上部作ㄇ形，下接大的變形；臺灣標準楷體右下末筆為頓點，起筆不接橫、撇。"
+  },
+  "createdAt": "2026-10-21T23:51:27.550670Z"
+}

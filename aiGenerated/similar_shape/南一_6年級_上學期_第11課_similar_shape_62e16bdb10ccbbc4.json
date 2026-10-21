@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第11課_similar_shape_62e16bdb10ccbbc4",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第11課",
+    "targetChar": "涕",
+    "lessonChars": [
+      "涕",
+      "泛",
+      "枇",
+      "杷",
+      "斥",
+      "肅",
+      "遍",
+      "玄",
+      "痘",
+      "腫",
+      "敷",
+      "央",
+      "瞞",
+      "庭",
+      "徽",
+      "袖",
+      "擤",
+      "鎂"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "涕",
+    "similarChars": [
+      {
+        "char": "弟",
+        "similarity": "涕的右半完整寫作弟。",
+        "difference": "弟沒有左邊的氵；寫涕時不能漏掉水旁。"
+      },
+      {
+        "char": "梯",
+        "similarity": "兩字右邊同是弟，都是左右結構。",
+        "difference": "涕左邊是氵；梯左邊是木，可遮住右邊比較左旁。"
+      },
+      {
+        "char": "悌",
+        "similarity": "兩字右邊同是弟，左旁都有點或豎向筆形。",
+        "difference": "涕左邊為氵；悌左邊為忄，中央有直豎，不可混成水旁。"
+      },
+      {
+        "char": "剃",
+        "similarity": "兩字都包含完整的弟。",
+        "difference": "涕是左氵、右弟；剃是左弟、右刂，附加偏旁的位置也不同。"
+      },
+      {
+        "char": "娣",
+        "similarity": "兩字右邊同是弟。",
+        "difference": "涕左旁為氵；娣左旁為女。娣較少用，作部件辨形延伸即可。"
+      },
+      {
+        "char": "睇",
+        "similarity": "兩字右邊同是弟。",
+        "difference": "涕左旁為氵；睇左旁為目，有封閉框形。睇較少用，不列為本課必寫字。"
+      }
+    ],
+    "teachingTip": "先辨「涕、梯、悌」的左旁，再比較「涕、剃」的部件位置。共同的弟不能代替整個字；睇、娣僅用來觀察共同部件。"
+  },
+  "createdAt": "2026-10-21T23:51:27.550670Z"
+}
