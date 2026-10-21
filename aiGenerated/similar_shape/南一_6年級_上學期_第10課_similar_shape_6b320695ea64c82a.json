@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第10課_similar_shape_6b320695ea64c82a",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "嘖",
+    "lessonChars": [
+      "傾",
+      "俐",
+      "蕩",
+      "莫",
+      "鉅",
+      "鑼",
+      "亦",
+      "頃",
+      "猶",
+      "墊",
+      "舀",
+      "複",
+      "勾",
+      "篇",
+      "靡",
+      "嘖",
+      "述",
+      "詫"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "嘖",
+    "similarChars": [
+      {
+        "char": "責",
+        "similarity": "嘖的右半完整包含責。",
+        "difference": "責單獨成字，左邊沒有口；嘖要有左口。"
+      },
+      {
+        "char": "績",
+        "similarity": "右半都是責。",
+        "difference": "嘖左口；績左糸字旁。"
+      },
+      {
+        "char": "漬",
+        "similarity": "右半都是責。",
+        "difference": "嘖左口；漬左氵。"
+      },
+      {
+        "char": "積",
+        "similarity": "右半都是責。",
+        "difference": "嘖左口；積左禾。"
+      },
+      {
+        "char": "債",
+        "similarity": "右半都是責。",
+        "difference": "嘖左口；債左人字旁。"
+      },
+      {
+        "char": "磧",
+        "similarity": "右半都是責。",
+        "difference": "磧是較少見的字，左石；嘖左口，不能多添石上方的筆畫。"
+      }
+    ],
+    "teachingTip": "用一張紙遮住共同的責，單獨讀出口、糸、氵、禾、人、石等偏旁；嘖嘖是出聲音，先找口。磧只作形體比較。"
+  },
+  "createdAt": "2026-10-21T23:00:12.047990Z"
+}

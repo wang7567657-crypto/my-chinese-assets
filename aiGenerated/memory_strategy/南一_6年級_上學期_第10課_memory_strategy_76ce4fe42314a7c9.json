@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第10課_memory_strategy_76ce4fe42314a7c9",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "char": "勾",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "勾",
+    "components": [
+      "外：勹",
+      "內：厶"
+    ],
+    "association": "教學聯想，非字源：把外面的勹想成彎彎的掛架，內部厶像留在架內的小記號；實際掛架圖另放在字旁。",
+    "mnemonic": "外勹包內厶，打勾別寫口。",
+    "visualPrompt": "呈現臺灣標準完整「勾」字，勹與厶分色且筆畫清楚；字旁另畫一個彎曲掛架，掛架或勾選符號都不替代、遮住字的筆畫。",
+    "teachingTip": "先對照勾與句，再請學生指出厶。提示圖片只是字形聯想，不解釋漢字來源。"
+  },
+  "createdAt": "2026-10-21T23:00:12.047990Z"
+}

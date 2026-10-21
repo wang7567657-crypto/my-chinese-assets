@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第10課_similar_shape_ee6daf145716a96f",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "鑼",
+    "lessonChars": [
+      "傾",
+      "俐",
+      "蕩",
+      "莫",
+      "鉅",
+      "鑼",
+      "亦",
+      "頃",
+      "猶",
+      "墊",
+      "舀",
+      "複",
+      "勾",
+      "篇",
+      "靡",
+      "嘖",
+      "述",
+      "詫"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "鑼",
+    "similarChars": [
+      {
+        "char": "羅",
+        "similarity": "鑼的右半完整保留羅，上罒、下維的安排相同。",
+        "difference": "鑼在羅左邊另有金旁；羅沒有金旁。"
+      },
+      {
+        "char": "囉",
+        "similarity": "兩字右半都是羅，均為左右結構。",
+        "difference": "鑼左金旁；囉左口旁。"
+      },
+      {
+        "char": "蘿",
+        "similarity": "兩字都包含完整羅形。",
+        "difference": "鑼是左金右羅；蘿是上艹下羅，附加部件位置不同。"
+      },
+      {
+        "char": "籮",
+        "similarity": "兩字都保留羅，上方能見罒，下方能見糸、隹。",
+        "difference": "鑼左側加金；籮在羅上方加竹字頭。"
+      },
+      {
+        "char": "邏",
+        "similarity": "兩字都有羅。",
+        "difference": "鑼左側加金旁；邏由辶在左下方承接羅，底部有走之旁的長捺。"
+      },
+      {
+        "char": "儸",
+        "similarity": "儸右半也是羅，與鑼同為左右排列。",
+        "difference": "鑼左金旁；儸左亻。儸是較少見的正字，這裡僅作部件辨形延伸，不要求背誦。"
+      }
+    ],
+    "teachingTip": "先找出完整羅，再看外加部件在左、上或左下。鑼的金旁必須保留；羅內上為罒，下左為糸、下右為隹，不要省掉任一區。"
+  },
+  "createdAt": "2026-10-21T23:00:12.047990Z"
+}

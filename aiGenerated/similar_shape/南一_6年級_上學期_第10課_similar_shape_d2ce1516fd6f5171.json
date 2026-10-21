@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第10課_similar_shape_d2ce1516fd6f5171",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "勾",
+    "lessonChars": [
+      "傾",
+      "俐",
+      "蕩",
+      "莫",
+      "鉅",
+      "鑼",
+      "亦",
+      "頃",
+      "猶",
+      "墊",
+      "舀",
+      "複",
+      "勾",
+      "篇",
+      "靡",
+      "嘖",
+      "述",
+      "詫"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "勾",
+    "similarChars": [
+      {
+        "char": "句",
+        "similarity": "外圍同為勹，內部都有小形體。",
+        "difference": "勾裡面是厶；句裡面是口，不能把厶補成方框。"
+      },
+      {
+        "char": "勺",
+        "similarity": "外圍同為勹，整體輪廓接近。",
+        "difference": "勺裡面只有點；勾裡面須有完整厶。"
+      },
+      {
+        "char": "勻",
+        "similarity": "外圍同為勹。",
+        "difference": "勻裡面是兩短橫；勾裡面是厶。"
+      },
+      {
+        "char": "旬",
+        "similarity": "外圍同為勹，內部都留在鉤內。",
+        "difference": "旬裡面是日；勾裡面是厶，沒有日的方框與內橫。"
+      },
+      {
+        "char": "匈",
+        "similarity": "外圍同為勹，內部含斜向筆畫。",
+        "difference": "匈裡面是凶；勾裡面是厶，不能添上凵形。"
+      },
+      {
+        "char": "匆",
+        "similarity": "外圍同有勹形，內部含斜向筆畫。",
+        "difference": "匆內有交錯的斜筆；勾內是厶，不能沿用匆的內部寫法。"
+      }
+    ],
+    "teachingTip": "先遮住外面的勹，只比較裡面是厶、口、點、二、日或凶等筆畫組；本課寫勾，要保留厶。"
+  },
+  "createdAt": "2026-10-21T23:00:12.047990Z"
+}

@@ -1,0 +1,74 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第10課_similar_shape_88bb46aced4c1e1d",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第10課",
+    "targetChar": "篇",
+    "lessonChars": [
+      "傾",
+      "俐",
+      "蕩",
+      "莫",
+      "鉅",
+      "鑼",
+      "亦",
+      "頃",
+      "猶",
+      "墊",
+      "舀",
+      "複",
+      "勾",
+      "篇",
+      "靡",
+      "嘖",
+      "述",
+      "詫"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "篇",
+    "similarChars": [
+      {
+        "char": "編",
+        "similarity": "都含扁，內部的戶與下方框格相同。",
+        "difference": "篇上竹字頭、下扁；編左糸字旁、右扁。"
+      },
+      {
+        "char": "偏",
+        "similarity": "都含扁。",
+        "difference": "篇上竹字頭；偏左人字旁，結構為左右。"
+      },
+      {
+        "char": "騙",
+        "similarity": "都含扁。",
+        "difference": "篇上竹字頭；騙左馬、右扁。"
+      },
+      {
+        "char": "翩",
+        "similarity": "都含扁。",
+        "difference": "篇把竹字頭放在扁上；翩在扁右邊加羽。"
+      },
+      {
+        "char": "遍",
+        "similarity": "都含扁。",
+        "difference": "篇上加竹字頭；遍有辶托住扁。"
+      },
+      {
+        "char": "扁",
+        "similarity": "就是篇下方的完整部件。",
+        "difference": "扁上沒有竹字頭；篇須在扁上保留竹字頭。"
+      }
+    ],
+    "teachingTip": "圈出共同的扁，再找竹字頭、糸、人、馬、羽、辶的位置；以一篇文章記住篇的上竹下扁。"
+  },
+  "createdAt": "2026-10-21T23:00:12.047990Z"
+}
