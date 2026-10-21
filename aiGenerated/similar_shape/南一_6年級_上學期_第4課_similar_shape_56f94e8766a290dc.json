@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第4課_similar_shape_56f94e8766a290dc",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "握",
+    "lessonChars": [
+      "衫",
+      "襯",
+      "唯",
+      "吶",
+      "肌",
+      "沸",
+      "騰",
+      "握",
+      "抵",
+      "搞",
+      "摟",
+      "兀",
+      "勺",
+      "置",
+      "頒",
+      "屬",
+      "榮",
+      "黝",
+      "惹"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "握",
+    "similarChars": [
+      {
+        "char": "屋",
+        "similarity": "握的右側就是屋的形體。",
+        "difference": "握左邊另有扌；屋本身沒有扌。"
+      },
+      {
+        "char": "喔",
+        "similarity": "右側同為屋。",
+        "difference": "握左邊為扌，喔左邊為口；辨識時先看左旁。"
+      },
+      {
+        "char": "渥",
+        "similarity": "右側同為屋，左右結構相似。",
+        "difference": "握左邊為扌，渥左邊為氵；不要只依右側屋判字。"
+      },
+      {
+        "char": "幄",
+        "similarity": "右側同為屋。",
+        "difference": "幄是較少見的字，左邊為巾；握左邊為扌。"
+      },
+      {
+        "char": "偓",
+        "similarity": "右側同為屋。",
+        "difference": "偓是較少見的字，左邊為亻；握左邊為扌。"
+      },
+      {
+        "char": "掘",
+        "similarity": "左側都是扌，右側上方都見尸。",
+        "difference": "握的尸下是至；掘的尸下是出，兩字的下半部不同。"
+      }
+    ],
+    "teachingTip": "用「看左旁、看尸下」兩步辨形。先分扌、口、氵，再確認屋內是至；幄、偓只作延伸辨識。"
+  },
+  "createdAt": "2026-10-21T16:52:40.827823Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第4課_memory_strategy_69ef06968ab97bbb",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "搞",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "搞",
+    "components": [
+      "扌",
+      "高"
+    ],
+    "association": "教學聯想，非字源解釋：想像用手把高架上的模型整理好，連起左扌與右高；故事只幫助記字，不說明字的起源。",
+    "mnemonic": "左手右高，事情搞好；高的兩口，仔細寫好。",
+    "visualPrompt": "文字提示，不生成圖片：完整呈現臺灣標準字形「搞」，旁邊另畫手整理高架模型的場景。字與圖分開，不把扌改成手掌，也不把高的口形畫成模型；完整保留高下部的外框、內口與鉤筆。",
+    "teachingTip": "先看標準字卡中的高，再加左扌。用搞、稿對照，請學生指左旁辨字；圖像不能取代高的任何一筆。"
+  },
+  "createdAt": "2026-10-21T16:52:40.827823Z"
+}

@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第4課_similar_shape_419be1f9a4f625a0",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "搞",
+    "lessonChars": [
+      "衫",
+      "襯",
+      "唯",
+      "吶",
+      "肌",
+      "沸",
+      "騰",
+      "握",
+      "抵",
+      "搞",
+      "摟",
+      "兀",
+      "勺",
+      "置",
+      "頒",
+      "屬",
+      "榮",
+      "黝",
+      "惹"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "搞",
+    "similarChars": [
+      {
+        "char": "稿",
+        "similarity": "右側同為高，整體為左右結構。",
+        "difference": "搞左邊為扌；稿左邊為禾。"
+      },
+      {
+        "char": "槁",
+        "similarity": "右側同為高。",
+        "difference": "槁是較少見的字，左邊為木；搞左邊為扌。"
+      },
+      {
+        "char": "縞",
+        "similarity": "右側同為高。",
+        "difference": "縞是較少見的字，左邊為糹；搞左邊為扌。"
+      },
+      {
+        "char": "篙",
+        "similarity": "都能辨出完整的高。",
+        "difference": "篙較少見，竹頭在上、高在下；搞是扌在左、高在右。"
+      },
+      {
+        "char": "敲",
+        "similarity": "都含有高，字形寬度也較大。",
+        "difference": "搞左邊為扌、右邊為高；敲左邊為高、右邊為攴，部件位置不同。"
+      },
+      {
+        "char": "高",
+        "similarity": "是搞右側的完整形體。",
+        "difference": "高沒有左扌；搞必須加上左扌，不能只寫高。"
+      }
+    ],
+    "teachingTip": "把高當作共同辨形單位，再找它左邊、右邊或上方的部件。槁、縞、篙只作延伸辨識，不增加不必要的練寫負擔。"
+  },
+  "createdAt": "2026-10-21T16:52:40.827823Z"
+}

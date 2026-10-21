@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第4課_memory_strategy_0e65f739c96dae77",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "兀",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "兀",
+    "components": [
+      "一",
+      "下方儿形（上接於一）"
+    ],
+    "association": "教學聯想，非字源解釋：在字旁想像一座平頂、突起的高臺，借平頂提醒上面只有一橫；寫字仍依兀的三筆標準形。",
+    "mnemonic": "一橫在上，儿形相接；兀共三筆，別添一橫。",
+    "visualPrompt": "文字提示，不生成圖片：完整呈現臺灣標準字形「兀」，旁邊另畫一座高出地面的平頂高臺。圖放字旁，不把橫改成臺面或把撇鉤改成柱子；保留上橫獨立一筆與下方兩筆相接的字形。",
+    "teachingTip": "先數兀的三筆，再對照元的多一橫、几的橫豎曲鉤。學生可口述差別，但不可為了像高臺而把撇改直或把鉤拉成方框。"
+  },
+  "createdAt": "2026-10-21T16:52:40.827823Z"
+}

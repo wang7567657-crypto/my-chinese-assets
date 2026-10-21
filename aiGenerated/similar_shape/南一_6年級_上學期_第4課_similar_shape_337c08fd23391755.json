@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第4課_similar_shape_337c08fd23391755",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "唯",
+    "lessonChars": [
+      "衫",
+      "襯",
+      "唯",
+      "吶",
+      "肌",
+      "沸",
+      "騰",
+      "握",
+      "抵",
+      "搞",
+      "摟",
+      "兀",
+      "勺",
+      "置",
+      "頒",
+      "屬",
+      "榮",
+      "黝",
+      "惹"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "唯",
+    "similarChars": [
+      {
+        "char": "惟",
+        "similarity": "右邊同是「隹」。",
+        "difference": "唯左邊是封閉的「口」；惟左邊是豎心旁「忄」。"
+      },
+      {
+        "char": "維",
+        "similarity": "右邊同是「隹」。",
+        "difference": "唯左邊是「口」；維左邊是「糸」形的絞絲旁，筆畫較多。"
+      },
+      {
+        "char": "推",
+        "similarity": "右邊同是「隹」。",
+        "difference": "唯左邊是「口」；推左邊是提手旁「扌」，有橫、豎鉤及挑。"
+      },
+      {
+        "char": "堆",
+        "similarity": "右邊同是「隹」。",
+        "difference": "唯左邊是「口」；堆左邊是土旁，作左旁時末筆為挑。"
+      },
+      {
+        "char": "誰",
+        "similarity": "右邊同是「隹」。",
+        "difference": "唯左邊是「口」；誰左邊是「言」，上方多了點、橫等筆畫。"
+      },
+      {
+        "char": "椎",
+        "similarity": "右邊同是「隹」。",
+        "difference": "唯左邊是「口」；椎左邊是「木」，不能把木的撇、點封成框。"
+      }
+    ],
+    "teachingTip": "遮住共同的「隹」，只辨左旁，再揭開合讀。「隹」要按標準字形寫足，不能因聯想到鳥就換成「鳥」。"
+  },
+  "createdAt": "2026-10-21T16:52:40.827823Z"
+}
