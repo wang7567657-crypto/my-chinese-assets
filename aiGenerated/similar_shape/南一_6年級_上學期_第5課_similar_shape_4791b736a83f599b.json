@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第5課_similar_shape_4791b736a83f599b",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "燒",
+    "lessonChars": [
+      "益",
+      "監",
+      "避",
+      "迅",
+      "滅",
+      "液",
+      "載",
+      "援",
+      "承",
+      "攝",
+      "撈",
+      "副",
+      "噪",
+      "燒",
+      "蝕",
+      "觸",
+      "陌",
+      "檔",
+      "註"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "燒",
+    "similarChars": [
+      {
+        "char": "澆",
+        "similarity": "右半同為「堯」。",
+        "difference": "燒左邊是火；澆左邊是三點水。"
+      },
+      {
+        "char": "饒",
+        "similarity": "右半同為「堯」。",
+        "difference": "燒左邊是火；饒左邊是食字旁。"
+      },
+      {
+        "char": "繞",
+        "similarity": "右半同為「堯」。",
+        "difference": "燒左邊是火；繞左邊是糸字旁。"
+      },
+      {
+        "char": "撓",
+        "similarity": "右半同為「堯」。",
+        "difference": "燒左邊是火；撓左邊是提手旁。"
+      },
+      {
+        "char": "曉",
+        "similarity": "右半同為「堯」。",
+        "difference": "燒左邊是火；曉左邊是日。"
+      },
+      {
+        "char": "堯",
+        "similarity": "整字與燒的右半相同。",
+        "difference": "堯沒有左邊的火；燒須保留完整的火字旁。"
+      }
+    ],
+    "teachingTip": "先把右半堯框起來：上方是三個土，下方是兀，不能簡化成一個土或寫成几。再比較左旁，分清燒、澆、繞。"
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}

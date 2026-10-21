@@ -1,0 +1,65 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第5課_confusion_analysis_d5fc48cdbe1ba3c1",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "char": "避",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "避",
+    "groups": {
+      "shape": [
+        {
+          "char": "壁",
+          "why": "兩字的辟完全相同，差別在外側或下方。",
+          "difference": "躲避用辶；牆壁用土，不能互換。"
+        },
+        {
+          "char": "僻",
+          "why": "右邊都含辟。",
+          "difference": "避左下是辶；僻左側是亻，如偏僻。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "壁",
+          "why": "避與壁都讀ㄅㄧˋ。",
+          "difference": "躲開用避；牆面用壁。看見相同讀音仍需按意思選字。"
+        },
+        {
+          "char": "必",
+          "why": "避與必都讀ㄅㄧˋ。",
+          "difference": "「避免」用避；「必須」用必，表示一定要。"
+        }
+      ],
+      "meaning": [
+        {
+          "char": "躲",
+          "why": "躲和避都可表示避開。",
+          "difference": "躲還可著重藏身，如躲藏；避還可表示防止，如避免。一般詞語要整詞判讀，不能任意替字。"
+        }
+      ],
+      "component": [
+        {
+          "char": "辛",
+          "why": "避的辟右側是辛，可能寫漏橫畫。",
+          "difference": "辛只占辟的右側；避還有辟左側的尸與口，以及左下的辶。"
+        },
+        {
+          "char": "尸",
+          "why": "辟左上像尸，容易漏掉它下方的口。",
+          "difference": "避的右內部是完整辟：尸下仍有口，右側有辛；不能只寫尸加辛。"
+        }
+      ]
+    },
+    "tip": "先說「躲避、牆壁、必須」的一般用法，再檢查避左下有辶。學習「避」採ㄅㄧˋ，不由其他含辟字的讀音反推。"
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}

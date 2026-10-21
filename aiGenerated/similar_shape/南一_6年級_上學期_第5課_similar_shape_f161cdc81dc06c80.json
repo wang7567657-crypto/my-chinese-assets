@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第5課_similar_shape_f161cdc81dc06c80",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "援",
+    "lessonChars": [
+      "益",
+      "監",
+      "避",
+      "迅",
+      "滅",
+      "液",
+      "載",
+      "援",
+      "承",
+      "攝",
+      "撈",
+      "副",
+      "噪",
+      "燒",
+      "蝕",
+      "觸",
+      "陌",
+      "檔",
+      "註"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "援",
+    "similarChars": [
+      {
+        "char": "暖",
+        "similarity": "右半同是「爰」。",
+        "difference": "援左邊是扌；暖左邊是日。"
+      },
+      {
+        "char": "緩",
+        "similarity": "右半同是「爰」。",
+        "difference": "援左邊是扌；緩左邊是糹。"
+      },
+      {
+        "char": "媛",
+        "similarity": "右半同是「爰」。",
+        "difference": "援左邊是扌；媛左邊是女。"
+      },
+      {
+        "char": "爰",
+        "similarity": "爰就是援的右半部件。",
+        "difference": "爰是獨立字，援另有左側扌；爰較少單獨使用，作部件辨認即可。"
+      },
+      {
+        "char": "湲",
+        "similarity": "右半同是「爰」。",
+        "difference": "援左邊是扌；湲左邊是氵。湲較少見，宜作延伸辨形字。"
+      },
+      {
+        "char": "瑗",
+        "similarity": "右半同是「爰」。",
+        "difference": "援左邊是扌；瑗左邊是玉旁，寫作王形。瑗較少見，宜作延伸辨形字。"
+      }
+    ],
+    "teachingTip": "先固定右半「爰」，再換左旁比較。爰不是愛：援右半沒有心。爰、湲、瑗只作延伸辨形，不列為本課必學詞。"
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}

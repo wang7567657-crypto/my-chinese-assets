@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第5課_similar_shape_e1e81857f783123e",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "攝",
+    "lessonChars": [
+      "益",
+      "監",
+      "避",
+      "迅",
+      "滅",
+      "液",
+      "載",
+      "援",
+      "承",
+      "攝",
+      "撈",
+      "副",
+      "噪",
+      "燒",
+      "蝕",
+      "觸",
+      "陌",
+      "檔",
+      "註"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "攝",
+    "similarChars": [
+      {
+        "char": "聶",
+        "similarity": "聶就是攝右側的三耳部件。",
+        "difference": "聶獨立成字；攝另有左側扌。聶較少單獨使用，可作部件辨識。"
+      },
+      {
+        "char": "懾",
+        "similarity": "右側同為三耳組成的聶。",
+        "difference": "攝左是扌；懾左是忄。"
+      },
+      {
+        "char": "躡",
+        "similarity": "右側同為聶。",
+        "difference": "攝左是扌；躡左是足旁。"
+      },
+      {
+        "char": "囁",
+        "similarity": "右側同為聶。",
+        "difference": "攝左是扌；囁左是口。"
+      },
+      {
+        "char": "鑷",
+        "similarity": "右側同為聶。",
+        "difference": "攝左是扌；鑷左是金旁。鑷可見於鑷子，作延伸辨形。"
+      },
+      {
+        "char": "灄",
+        "similarity": "右側同為聶，左旁都占較窄位置。",
+        "difference": "攝左是扌；灄左是氵。灄是較少見的水名用字，只作延伸辨形。"
+      }
+    ],
+    "teachingTip": "右半三耳呈上一、下二排列，先數三耳，再辨左旁。左下耳的末橫須斜挑，且不穿過該耳的右豎；不要把三個獨體耳原封不動貼在一起。"
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}

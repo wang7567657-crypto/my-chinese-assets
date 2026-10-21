@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第5課_similar_shape_9ed59eb3f5520f2b",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "檔",
+    "lessonChars": [
+      "益",
+      "監",
+      "避",
+      "迅",
+      "滅",
+      "液",
+      "載",
+      "援",
+      "承",
+      "攝",
+      "撈",
+      "副",
+      "噪",
+      "燒",
+      "蝕",
+      "觸",
+      "陌",
+      "檔",
+      "註"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "檔",
+    "similarChars": [
+      {
+        "char": "擋",
+        "similarity": "右半同為「當」，都是左右結構。",
+        "difference": "檔左木；擋左提手旁。"
+      },
+      {
+        "char": "當",
+        "similarity": "整字與檔的右半相同。",
+        "difference": "當沒有左邊的木；檔要另外寫木字旁。"
+      },
+      {
+        "char": "鐺",
+        "similarity": "右半同為「當」。",
+        "difference": "檔左木；鐺左金字旁。"
+      },
+      {
+        "char": "黨",
+        "similarity": "都能找到上方尚形的共同部分。",
+        "difference": "檔是左木、右當，當下方是田；黨是上尚、下黑，整體沒有左木。此組重點是局部形近。"
+      },
+      {
+        "char": "堂",
+        "similarity": "都能找到尚形，且下方有方正部件。",
+        "difference": "檔右當下方是田；堂下方是土，整體也沒有檔的左木。此組只比較共同局部。"
+      },
+      {
+        "char": "棠",
+        "similarity": "兩字都含木與尚形，部件位置容易混。",
+        "difference": "檔左木右當，右下為田；棠是上尚下木，沒有田。"
+      }
+    ],
+    "teachingTip": "抓住「左木、右當」，再查當的下方是田。把檔與擋並排找左旁差別，再把檔、堂、棠比較部件位置；同有尚形不代表整個字一樣。"
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}

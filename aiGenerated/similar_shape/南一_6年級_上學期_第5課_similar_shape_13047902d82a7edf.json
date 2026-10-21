@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第5課_similar_shape_13047902d82a7edf",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "觸",
+    "lessonChars": [
+      "益",
+      "監",
+      "避",
+      "迅",
+      "滅",
+      "液",
+      "載",
+      "援",
+      "承",
+      "攝",
+      "撈",
+      "副",
+      "噪",
+      "燒",
+      "蝕",
+      "觸",
+      "陌",
+      "檔",
+      "註"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "觸",
+    "similarChars": [
+      {
+        "char": "濁",
+        "similarity": "右半同為「蜀」。",
+        "difference": "觸左邊是角；濁左邊是三點水。"
+      },
+      {
+        "char": "燭",
+        "similarity": "右半同為「蜀」。",
+        "difference": "觸左邊是角；燭左邊是火。"
+      },
+      {
+        "char": "獨",
+        "similarity": "右半同為「蜀」。",
+        "difference": "觸左邊是角；獨左邊是犬字旁。"
+      },
+      {
+        "char": "鐲",
+        "similarity": "右半同為「蜀」。",
+        "difference": "觸左邊是角；鐲左邊是金字旁。"
+      },
+      {
+        "char": "蜀",
+        "similarity": "整字與觸的右半相同。",
+        "difference": "蜀單獨成字時沒有左角；觸必須寫出左邊的角。"
+      },
+      {
+        "char": "解",
+        "similarity": "左邊同有「角」，都是左右組合。",
+        "difference": "觸右半是蜀；解右半由刀與牛組成，沒有蜀上方的罒。"
+      }
+    ],
+    "teachingTip": "先分成「角、蜀」兩塊，再看蜀內的罒、勹與虫。角的中豎不要穿出底部；蜀不能省成單一虫。用遮住右半、比較左旁的方法分清觸、燭、濁。"
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}

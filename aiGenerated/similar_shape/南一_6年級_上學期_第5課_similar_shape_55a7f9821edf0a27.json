@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第5課_similar_shape_55a7f9821edf0a27",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第5課",
+    "targetChar": "監",
+    "lessonChars": [
+      "益",
+      "監",
+      "避",
+      "迅",
+      "滅",
+      "液",
+      "載",
+      "援",
+      "承",
+      "攝",
+      "撈",
+      "副",
+      "噪",
+      "燒",
+      "蝕",
+      "觸",
+      "陌",
+      "檔",
+      "註"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "監",
+    "similarChars": [
+      {
+        "char": "鑑",
+        "similarity": "右半完整含有監。",
+        "difference": "鑑左邊多金旁；監單獨成字沒有金旁。"
+      },
+      {
+        "char": "濫",
+        "similarity": "右半完整含有監。",
+        "difference": "濫左邊多氵；監沒有氵。"
+      },
+      {
+        "char": "藍",
+        "similarity": "下半完整含有監。",
+        "difference": "藍頂端多艹；監頂端沒有艹。"
+      },
+      {
+        "char": "籃",
+        "similarity": "下半完整含有監。",
+        "difference": "籃頂端多竹字頭；監沒有竹字頭。"
+      },
+      {
+        "char": "艦",
+        "similarity": "右半完整含有監。",
+        "difference": "艦左邊是舟；監沒有舟旁。"
+      },
+      {
+        "char": "檻",
+        "similarity": "右半完整含有監。",
+        "difference": "檻左邊是木；監沒有木旁。"
+      }
+    ],
+    "teachingTip": "把每字中的監圈出，再看新增偏旁。監左上為臣；右上依序是撇、橫、短橫，第三筆不是點；下方為皿，不要把右上硬記成完整的午、牛或人。"
+  },
+  "createdAt": "2026-10-21T17:52:14.251919Z"
+}
