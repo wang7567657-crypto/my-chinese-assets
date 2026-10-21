@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第4課_memory_strategy_945a92e3b5a2802e",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "握",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "握",
+    "components": [
+      "扌",
+      "屋",
+      "屋內：尸下至"
+    ],
+    "association": "教學聯想，非字源解釋：想像手握住一個小屋模型，把「手的動作」與左扌、右屋連在一起。",
+    "mnemonic": "左手右屋是握字，尸下的至要寫齊。",
+    "visualPrompt": "文字提示，不生成圖片：完整呈現臺灣標準字形「握」，旁邊另畫一隻手握住小屋模型。字與圖分開，扌、尸、至的筆畫不改形；可用不接觸字體的色框標出左扌、右屋。",
+    "teachingTip": "讓學生先指出屋中至的位置，再比較握與掘。至下部土的中豎要依標準字形上接厶，避免漏寫或改成出。"
+  },
+  "createdAt": "2026-10-21T16:52:40.827823Z"
+}

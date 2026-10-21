@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第4課_similar_shape_f71a6ea0172c2a4d",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "抵",
+    "lessonChars": [
+      "衫",
+      "襯",
+      "唯",
+      "吶",
+      "肌",
+      "沸",
+      "騰",
+      "握",
+      "抵",
+      "搞",
+      "摟",
+      "兀",
+      "勺",
+      "置",
+      "頒",
+      "屬",
+      "榮",
+      "黝",
+      "惹"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "抵",
+    "similarChars": [
+      {
+        "char": "低",
+        "similarity": "右側同為氐，整體都是左右結構。",
+        "difference": "抵左邊為扌；低左邊為亻。兩字氐下都應依臺灣標準寫短橫。"
+      },
+      {
+        "char": "底",
+        "similarity": "都含有氐。",
+        "difference": "抵是扌在左、氐在右；底是广包住氐，外圍結構不同。"
+      },
+      {
+        "char": "牴",
+        "similarity": "右側同為氐。",
+        "difference": "抵左邊為扌，牴左邊為牛的偏旁；只看氐會認錯。"
+      },
+      {
+        "char": "砥",
+        "similarity": "右側同為氐。",
+        "difference": "砥較少見，左邊為石；抵左邊為扌。"
+      },
+      {
+        "char": "詆",
+        "similarity": "右側同為氐。",
+        "difference": "詆較少見，左邊為言；抵左邊為扌。"
+      },
+      {
+        "char": "扺",
+        "similarity": "都有左扌，右側的氏形十分相近。",
+        "difference": "扺是較少見的字，右側為氏；抵右側為氐，氏下多一短橫，不作點。此處比較抵ㄉㄧˇ與扺ㄓˇ。"
+      }
+    ],
+    "teachingTip": "先認左扌，再檢查右側氐下的短橫。不要用「多一點」口訣教臺灣標準字形；扺只作延伸辨識，不與抵ㄉㄧˇ混寫。"
+  },
+  "createdAt": "2026-10-21T16:52:40.827823Z"
+}

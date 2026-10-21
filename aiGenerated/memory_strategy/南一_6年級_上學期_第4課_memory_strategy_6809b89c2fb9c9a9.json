@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第4課_memory_strategy_6809b89c2fb9c9a9",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "頒",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "頒",
+    "components": [
+      "分（左）",
+      "頁（右）"
+    ],
+    "association": "教學聯想，非字源解釋：想像典禮上按名單把獎狀分給得獎者，名單寫在一頁紙上，用「分、頁」提醒左右部件；情節只是記字的小故事。",
+    "mnemonic": "左邊分，右邊頁；頒獎頒發讀ㄅㄢ。",
+    "visualPrompt": "文字提示：臺灣教育部標準字形「頒」旁放正式頒發獎狀的簡單插圖，另以字旁箭頭指出左分、右頁；獎狀與名單不得替代或改造成字內筆畫，保留分下方的刀形。本項只提供提示，不生成圖片。",
+    "teachingTip": "先讓學生拼出左分、右頁，再將頌放在旁邊比較刀與厶；讀音用「頒獎」提醒，不由分的讀音猜整字。"
+  },
+  "createdAt": "2026-10-21T16:52:40.827823Z"
+}

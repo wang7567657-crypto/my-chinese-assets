@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第4課_similar_shape_67558659c7dfcea1",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "targetChar": "摟",
+    "lessonChars": [
+      "衫",
+      "襯",
+      "唯",
+      "吶",
+      "肌",
+      "沸",
+      "騰",
+      "握",
+      "抵",
+      "搞",
+      "摟",
+      "兀",
+      "勺",
+      "置",
+      "頒",
+      "屬",
+      "榮",
+      "黝",
+      "惹"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "摟",
+    "similarChars": [
+      {
+        "char": "樓",
+        "similarity": "右側同為婁，都是左右結構。",
+        "difference": "摟左邊為扌；樓左邊為木。"
+      },
+      {
+        "char": "簍",
+        "similarity": "都含婁，筆畫集中處相近。",
+        "difference": "簍較少見，上方為竹頭、下方為婁；摟為左扌右婁。"
+      },
+      {
+        "char": "縷",
+        "similarity": "右側同為婁。",
+        "difference": "縷左邊為糹；摟左邊為扌，不要只記右半。"
+      },
+      {
+        "char": "褸",
+        "similarity": "右側同為婁。",
+        "difference": "褸較少見，左邊為衤；摟左邊為扌，左旁筆畫與位置不同。"
+      },
+      {
+        "char": "鏤",
+        "similarity": "右側同為婁。",
+        "difference": "鏤較少見，左邊為金的偏旁；摟左邊為扌。"
+      },
+      {
+        "char": "婁",
+        "similarity": "是摟右側的完整辨形單位。",
+        "difference": "婁本身沒有扌；摟必須保留左扌。婁較少見，作部件辨認即可。"
+      }
+    ],
+    "teachingTip": "先辨左扌，再核對右婁：下部是女，上方長橫兩端出頭，中豎不向下穿出。別把婁換成簡化形娄。"
+  },
+  "createdAt": "2026-10-21T16:52:40.827823Z"
+}

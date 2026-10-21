@@ -1,0 +1,28 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第4課_memory_strategy_17fde9257dcba858",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第4課",
+    "char": "抵",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "抵",
+    "components": [
+      "扌",
+      "氐",
+      "氐內：氏下加短橫"
+    ],
+    "association": "教學聯想，非字源解釋：想像用手抵住一塊板子，提醒左邊要有扌；再把氐下的短橫當作需檢查的小記號。",
+    "mnemonic": "左手抵住，右氐記牢；氏下短橫，不能漏掉。",
+    "visualPrompt": "文字提示，不生成圖片：完整呈現臺灣標準字形「抵」，旁邊另畫一隻手抵住直立板子。圖在字旁，不將字的橫筆畫成板子，也不改筆形；在字外用指示線提醒氐下是短橫，不是點。",
+    "teachingTip": "先比較氏與氐，再比較扺與抵。請學生用「有沒有下短橫」回答，並以臺灣標準字卡核對，避免受不同字型的點形影響。"
+  },
+  "createdAt": "2026-10-21T16:52:40.827823Z"
+}
