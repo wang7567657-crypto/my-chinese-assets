@@ -1,0 +1,69 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_6年級_上學期_第12課_feature_ai_batch_4da4636d5892186f",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "context": {
+      "publisher": "南一",
+      "grade": "6年級",
+      "semester": "上學期",
+      "lesson": "第12課"
+    },
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 19,
+    "batchCharacters": [
+      "拮",
+      "据",
+      "抄",
+      "撫",
+      "憊",
+      "懊",
+      "悔",
+      "咳",
+      "啜",
+      "吁",
+      "躡",
+      "仿",
+      "昨",
+      "辯",
+      "熬",
+      "瘦",
+      "徒",
+      "泣",
+      "酣"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_f0accb467fc2f001.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_737baf65017488a1.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_1b0d13c05ab98da4.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_8180d280272d6872.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_39b4c3d8675d22c7.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_0cf3077e28169f68.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_c53ffe3e7c29ba8f.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_5475a51a7a8a07ea.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_9c392be955e4fc9d.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_568ca7145479eac0.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_ba0586759cf822b3.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_69045c652205bd03.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_8af13b99eca1416a.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_5f3e5762bd9d99d7.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_f848b03290f63d63.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_7128c0d33a2c41d1.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_3a8c456ac41be203.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_a4d0c5af71084588.json",
+      "aiGenerated/confusion_analysis/南一_6年級_上學期_第12課_confusion_analysis_ef9b6740520bd9e1.json"
+    ]
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}

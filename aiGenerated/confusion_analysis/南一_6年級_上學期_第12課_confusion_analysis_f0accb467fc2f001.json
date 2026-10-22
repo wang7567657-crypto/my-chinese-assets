@@ -1,0 +1,49 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第12課_confusion_analysis_f0accb467fc2f001",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "拮",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "拮",
+    "groups": {
+      "shape": [
+        {
+          "char": "結",
+          "why": "右側都是吉，左旁容易略看。",
+          "difference": "拮据用扌的拮；結束用糸的結。"
+        },
+        {
+          "char": "拾",
+          "why": "同為提手旁且右下有口。",
+          "difference": "拮右側是士加口；拾右側是人、一、口組成的合。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "結",
+          "why": "「拮据」的拮與「結束」的結都讀 ㄐㄧㄝˊ，是同音。",
+          "difference": "詞語是拮据、結束，字不能互換；結另有其他詞境讀音，此處只比較結束。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "吉",
+          "why": "拮的右半完整保留吉，可能漏掉左旁。",
+          "difference": "拮＝扌與吉的左右組合；吉上士下口，單寫吉不是拮。"
+        }
+      ]
+    },
+    "tip": "連詞讀「拮据 ㄐㄧㄝˊ ㄐㄩ」。它多形容經濟不寬裕，不把拮獨自當成吉祥的意思。"
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}

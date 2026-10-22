@@ -1,0 +1,68 @@
+{
+  "taskType": "component_split",
+  "requestId": "南一_6年級_上學期_第12課_component_split_7d10b5b835cd2b24",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "悔",
+    "strokeCount": null,
+    "strokeSource": "c9s/zh-stroke-data",
+    "needsStrokeCount": true,
+    "instruction": "筆畫須核對 c9s/zh-stroke-data 原始 XML 的 Stroke、Outline 與 Track，並渲染部首分色逐字核對；每筆恰好出現一次，未核實不得標 verified。"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "split": [
+      3,
+      7
+    ],
+    "components": [
+      "忄",
+      "其餘部分"
+    ],
+    "strokeGroups": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ],
+    "strokeCount": 10,
+    "structure": "左右",
+    "radical": "心",
+    "radicalVerified": true,
+    "radicalStrokeIndices": [
+      1,
+      2,
+      3
+    ],
+    "verified": true,
+    "source": "c9s/zh-stroke-data",
+    "note": "部首心在此字作忄旁，第1–3筆為部首、第4–10筆為其餘部分。保留原字位置與筆順，每筆恰好出現一次；僅將正式部首標籤忄正規化為心。",
+    "verification": {
+      "method": "本輪fresh XML逐筆檢查唯一閉合Outline、完整Track、有限合理座標及1起完整索引；未修改c9s parser逐值深等，離線VM/Skia原Word.draw/update全字及10單筆完成；實際檢視分色、原位部首、單筆與累積圖。",
+      "sourceUrl": "https://raw.githubusercontent.com/c9s/zh-stroke-data/52633f01f9973327e2f2823e39590058a6a88ba9/utf8/6094.xml",
+      "sourceBlobSha": "a55c43473522efb0c5c2fe9bc519c937331e3d89",
+      "radicalSourceUrl": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=15048&la=0",
+      "checkedAt": "2026-10-22T00:47:41Z",
+      "execution": "Offline JavaScript VM with @napi-rs/canvas native Skia; not browser or website E2E",
+      "validatedStrokes": 10,
+      "solidInteriorMissingPixels": 0,
+      "extraInkOutsideOutline": 0
+    }
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}

@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第12課_similar_shape_a7769e23c1f4234b",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "拮",
+    "lessonChars": [
+      "拮",
+      "据",
+      "抄",
+      "撫",
+      "憊",
+      "懊",
+      "悔",
+      "咳",
+      "啜",
+      "吁",
+      "躡",
+      "仿",
+      "昨",
+      "辯",
+      "熬",
+      "瘦",
+      "徒",
+      "泣",
+      "酣"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "拮",
+    "similarChars": [
+      {
+        "char": "結",
+        "similarity": "右半同為「吉」，都是左右結構。",
+        "difference": "拮左為扌；結左為糸。"
+      },
+      {
+        "char": "桔",
+        "similarity": "右半同為「吉」，左側都是窄部件。",
+        "difference": "拮用扌；桔用木，木的右側還有點。"
+      },
+      {
+        "char": "詰",
+        "similarity": "右半同為「吉」。",
+        "difference": "拮左為扌；詰左為言，有多層橫筆與口。"
+      },
+      {
+        "char": "佶",
+        "similarity": "右半同為「吉」，左旁較窄。",
+        "difference": "佶是較少用字，左為亻；拮左為扌，不要少寫提手旁的橫與提。"
+      },
+      {
+        "char": "吉",
+        "similarity": "「吉」就是拮的右半。",
+        "difference": "拮還有左側扌；單寫吉會漏掉整個左旁。"
+      },
+      {
+        "char": "拾",
+        "similarity": "同為左扌，右下都有口。",
+        "difference": "拮右上是士，長橫在上；拾右上是人與一，整個右半是合。"
+      }
+    ],
+    "teachingTip": "先框出共同的吉，再比較左旁。吉上方是「士」，上橫較長，不要寫成土；佶只供辨形，不列作本課必學字。"
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}

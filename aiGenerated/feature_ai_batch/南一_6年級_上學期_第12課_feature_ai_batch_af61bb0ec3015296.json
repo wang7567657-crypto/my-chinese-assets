@@ -1,0 +1,69 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_6年級_上學期_第12課_feature_ai_batch_af61bb0ec3015296",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "context": {
+      "publisher": "南一",
+      "grade": "6年級",
+      "semester": "上學期",
+      "lesson": "第12課"
+    },
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 19,
+    "batchCharacters": [
+      "拮",
+      "据",
+      "抄",
+      "撫",
+      "憊",
+      "懊",
+      "悔",
+      "咳",
+      "啜",
+      "吁",
+      "躡",
+      "仿",
+      "昨",
+      "辯",
+      "熬",
+      "瘦",
+      "徒",
+      "泣",
+      "酣"
+    ]
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 19,
+    "resultPaths": [
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_a7769e23c1f4234b.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_d55330c7b90452fb.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_707df71890937b89.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_1212e91a9d0731a1.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_268bc047b77d7d3a.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_34e5aef635a30d80.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_c268afc107288703.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_43146432831df067.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_50468f1d2f45c8ff.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_4de744c16ba90cc2.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_e6e5a78b096bbfb8.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_c7a5dbcb997e09b0.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_c4ea9b627d9f2bbc.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_759e3ae9074a4dac.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_8d9bc3e66298e7ae.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_8f2ea1ac65a17d00.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_cbd9436d5ff9ee06.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_22297595c7da85f2.json",
+      "aiGenerated/similar_shape/南一_6年級_上學期_第12課_similar_shape_c270c486a6125f65.json"
+    ]
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}

@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第12課_memory_strategy_d5cfbcf2c96a1b44",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "抄",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "抄",
+    "components": [
+      "扌（左）",
+      "少（右）"
+    ],
+    "association": "字形記憶聯想，非字源：一隻手拿筆，把黑板上的少量文字抄到本子上；用手記扌，用「少量」記右側的少。",
+    "mnemonic": "提手在左少在右，照著文字抄到手。",
+    "visualPrompt": "標準楷體「抄」獨立置中，左扌與右少保持正常筆形。字旁另畫一隻手用筆將黑板短句寫入筆記本，圖不覆蓋漢字。少的豎不加鉤，下撇不要接上中豎；不把筆或手畫成字的筆畫。",
+    "teachingTip": "先寫左扌，再寫右少，共7畫。比較兩側：扌有豎鉤，少的中豎無鉤；提醒學生最後一撇不要接到中豎。此情境是記憶聯想，非造字說明。"
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}

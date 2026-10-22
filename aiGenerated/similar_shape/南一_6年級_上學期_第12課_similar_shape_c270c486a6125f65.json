@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第12課_similar_shape_c270c486a6125f65",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "酣",
+    "lessonChars": [
+      "拮",
+      "据",
+      "抄",
+      "撫",
+      "憊",
+      "懊",
+      "悔",
+      "咳",
+      "啜",
+      "吁",
+      "躡",
+      "仿",
+      "昨",
+      "辯",
+      "熬",
+      "瘦",
+      "徒",
+      "泣",
+      "酣"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "酣",
+    "similarChars": [
+      {
+        "char": "甘",
+        "similarity": "甘就是酣的完整右半部。",
+        "difference": "酣在甘左邊另有酉；甘單獨成字沒有酉。"
+      },
+      {
+        "char": "甜",
+        "similarity": "右側同為甘，都是左右結構。",
+        "difference": "甜左邊是舌；酣左邊是酉。"
+      },
+      {
+        "char": "鉗",
+        "similarity": "右側同為甘，甘的長橫、兩豎、短橫位置相同。",
+        "difference": "鉗左旁是金；酣左旁是酉。"
+      },
+      {
+        "char": "柑",
+        "similarity": "右半甘相同，都是左旁搭配甘。",
+        "difference": "柑左邊是木；酣左邊是酉。"
+      },
+      {
+        "char": "酥",
+        "similarity": "左側同為酉，屬部件相似。",
+        "difference": "酥右邊是禾；酣右邊是甘。不能只憑酉旁認字。"
+      },
+      {
+        "char": "酌",
+        "similarity": "左側同為酉，整體為左右結構。",
+        "difference": "酌右邊是勺，有包住點的鉤形；酣右邊是甘，有兩直豎和橫筆。"
+      }
+    ],
+    "teachingTip": "先認左酉、右甘。酉內部下方的短橫兩端不接邊，甘則保留一長橫、兩直豎、兩短橫；不可因右甘而把酣讀成ㄍㄢ。"
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}

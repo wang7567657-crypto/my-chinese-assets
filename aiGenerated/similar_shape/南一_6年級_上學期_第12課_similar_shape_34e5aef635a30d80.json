@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第12課_similar_shape_34e5aef635a30d80",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "懊",
+    "lessonChars": [
+      "拮",
+      "据",
+      "抄",
+      "撫",
+      "憊",
+      "懊",
+      "悔",
+      "咳",
+      "啜",
+      "吁",
+      "躡",
+      "仿",
+      "昨",
+      "辯",
+      "熬",
+      "瘦",
+      "徒",
+      "泣",
+      "酣"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "懊",
+    "similarChars": [
+      {
+        "char": "奧",
+        "similarity": "奧就是懊的完整右半。",
+        "difference": "懊左邊還有忄；奧單獨成字時沒有豎心旁。"
+      },
+      {
+        "char": "澳",
+        "similarity": "右半同為奧，左旁都較窄。",
+        "difference": "懊左忄有中豎；澳左氵為三點水，沒有豎心旁的長豎。"
+      },
+      {
+        "char": "噢",
+        "similarity": "右半同為奧。",
+        "difference": "懊左忄；噢左口，是封閉方框。"
+      },
+      {
+        "char": "襖",
+        "similarity": "右半同為奧。",
+        "difference": "懊左忄；襖左衤，左上有點，右側另有分開的撇、點。"
+      },
+      {
+        "char": "燠",
+        "similarity": "右半同為奧。",
+        "difference": "燠是較少用字，左為火；懊左為忄，不能把兩側點形與火的撇、點混寫。"
+      },
+      {
+        "char": "隩",
+        "similarity": "右半同為奧。",
+        "difference": "隩是罕用字，左為阝，有彎折形與豎；懊左為忄。隩不是懊的異體。"
+      }
+    ],
+    "teachingTip": "先找共同的奧，再比較忄、氵、口、衤、火、阝。臺灣標準字形的奧內為釆，不能省成米；燠、隩只作延伸辨形。"
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}

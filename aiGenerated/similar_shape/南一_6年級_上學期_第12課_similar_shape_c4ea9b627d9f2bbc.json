@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第12課_similar_shape_c4ea9b627d9f2bbc",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "昨",
+    "lessonChars": [
+      "拮",
+      "据",
+      "抄",
+      "撫",
+      "憊",
+      "懊",
+      "悔",
+      "咳",
+      "啜",
+      "吁",
+      "躡",
+      "仿",
+      "昨",
+      "辯",
+      "熬",
+      "瘦",
+      "徒",
+      "泣",
+      "酣"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "昨",
+    "similarChars": [
+      {
+        "char": "作",
+        "similarity": "右半同為乍，都是左右結構。",
+        "difference": "昨左為日；作左為亻，如「作業」。"
+      },
+      {
+        "char": "怎",
+        "similarity": "都含完整乍部件。",
+        "difference": "昨是左日右乍；怎是上乍下心，整體排列不同。"
+      },
+      {
+        "char": "炸",
+        "similarity": "右半同為乍，右邊三橫的輪廓相同。",
+        "difference": "昨左為日；炸左為火，如「爆炸」。"
+      },
+      {
+        "char": "詐",
+        "similarity": "右邊同為乍。",
+        "difference": "昨左為日；詐左為言，如「詐騙」。"
+      },
+      {
+        "char": "窄",
+        "similarity": "都含乍，乍內豎與三橫的排列對應。",
+        "difference": "昨的乍在右，左配日；窄的乍在穴字頭下，是上下結構。"
+      },
+      {
+        "char": "柞",
+        "similarity": "右半同為乍，左右布局相近。",
+        "difference": "昨左為日；柞左為木。柞是較少見的樹木用字，如「柞樹」，只作字形比較。"
+      }
+    ],
+    "teachingTip": "先找完整的乍，再辨日、亻、火、言、木等左旁，或上方的穴。「昨」的右乍豎筆接上橫而不接撇；三橫中最上面一橫較長。"
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}
