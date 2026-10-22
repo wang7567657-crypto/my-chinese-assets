@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第12課_memory_strategy_0b22629227a8e2a5",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "徒",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "徒",
+    "components": [
+      "左側的彳",
+      "右側的走（上為土，下方末兩筆為撇、捺）"
+    ],
+    "association": "把彳當作步行提示，再看到右邊的走，聯想到背著小背包徒步走路。這是幫助記住現代字形的聯想，不是字源。",
+    "mnemonic": "雙人旁，右邊走；徒步旅行用腳走。",
+    "visualPrompt": "完整標準楷體『徒』旁畫一位背小背包、沿步道行走的人，字旁標示『彳』『走』兩張部件卡。腳印與步道只放字旁，不延伸或替換彳、走的任何筆畫。",
+    "teachingTip": "讀ㄊㄨˊ。確認彳有兩撇一豎，走上方是土、下方有撇捺；再用徒勞、徒弟提醒同字在不同詞中意思不同。"
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}

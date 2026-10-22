@@ -1,0 +1,27 @@
+{
+  "taskType": "memory_strategy",
+  "requestId": "南一_6年級_上學期_第12課_memory_strategy_98c36c657b916696",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "拮",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "拮",
+    "components": [
+      "扌（左）",
+      "吉（右：上士、下口）"
+    ],
+    "association": "字形記憶聯想，非字源：想像一隻手在記帳本旁整理開銷，提醒自己把「拮据」的拮寫成左扌、右吉。",
+    "mnemonic": "左手旁，右邊吉；士上橫長，拮据記。",
+    "visualPrompt": "中央獨立呈現標準楷體「拮」，左扌、右吉位置不變。字旁另畫一隻手整理記帳本的簡單圖示，並列詞語「拮据」。圖與字分開，不以手或物品替代筆畫，不改變士、口及提手旁的標準筆形。",
+    "teachingTip": "先指認左右部件，再寫吉上面的士；上橫長、下橫短。提手旁末筆是提。此聯想只協助記形，不解釋造字來源。"
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}

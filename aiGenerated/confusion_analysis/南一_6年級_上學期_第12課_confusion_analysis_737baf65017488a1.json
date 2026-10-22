@@ -1,0 +1,54 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "南一_6年級_上學期_第12課_confusion_analysis_737baf65017488a1",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "char": "据",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "char": "据",
+    "groups": {
+      "shape": [
+        {
+          "char": "據",
+          "why": "同為提手旁，且容易因兩岸字形關係混用。",
+          "difference": "拮据的据右側是居；根據的據右側是豦。在本課詞語中寫据。"
+        },
+        {
+          "char": "倨",
+          "why": "右側都是居。",
+          "difference": "据左扌；倨左亻，見較少用的倨傲。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "居",
+          "why": "「拮据」的据和「居住」的居都讀 ㄐㄩ，是同音。",
+          "difference": "拮据用据；居住用居，据比居多左扌。"
+        },
+        {
+          "char": "據",
+          "why": "「拮据」的据讀 ㄐㄩ，「根據」的據讀 ㄐㄩˋ，僅聲調不同，屬近音。",
+          "difference": "用完整詞語辨讀；此處不可把据讀成根據的四聲。"
+        }
+      ],
+      "meaning": [],
+      "component": [
+        {
+          "char": "居",
+          "why": "据右部是居，但容易漏掉扌或把居內部寫錯。",
+          "difference": "居為尸下古；古的十與口相接。据還要加上左扌。"
+        }
+      ]
+    },
+    "tip": "先讀「拮据 ㄐㄧㄝˊ ㄐㄩ」，再比「根據 ㄍㄣ ㄐㄩˋ」。据在拮据中是正字；作據的異體時另屬別的讀音與用法，不能混為一談。"
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}

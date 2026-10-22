@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第12課_similar_shape_8f2ea1ac65a17d00",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "瘦",
+    "lessonChars": [
+      "拮",
+      "据",
+      "抄",
+      "撫",
+      "憊",
+      "懊",
+      "悔",
+      "咳",
+      "啜",
+      "吁",
+      "躡",
+      "仿",
+      "昨",
+      "辯",
+      "熬",
+      "瘦",
+      "徒",
+      "泣",
+      "酣"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "瘦",
+    "similarChars": [
+      {
+        "char": "搜",
+        "similarity": "都含叟部件，內部的中豎及下方又相同。",
+        "difference": "瘦用疒從上、左包住叟；搜是左扌、右叟。"
+      },
+      {
+        "char": "嫂",
+        "similarity": "都含叟，叟的輪廓相同。",
+        "difference": "嫂左邊是女；瘦外側是疒，不能把左側只寫成女或扌。"
+      },
+      {
+        "char": "艘",
+        "similarity": "右側或內側都可辨認叟部件。",
+        "difference": "艘左邊是舟，瘦是疒包叟。"
+      },
+      {
+        "char": "餿",
+        "similarity": "兩字都含完整叟部件。",
+        "difference": "餿左邊是食字旁；瘦上左側是疒。"
+      },
+      {
+        "char": "颼",
+        "similarity": "都含叟，但周圍搭配的部件不同。",
+        "difference": "颼左邊是風；瘦外側是疒。颼是較少見的字，可在颼颼聲中認讀。"
+      },
+      {
+        "char": "叟",
+        "similarity": "叟就是瘦裡面的完整部件。",
+        "difference": "瘦在叟外加疒；叟單獨成字沒有疒。叟是較少見的文言字，可認識老叟一詞，不必擴大默寫負擔。"
+      }
+    ],
+    "teachingTip": "將叟當作共同字形觀察，逐字指出外側或左側不同的部件。瘦的叟中豎向下接到又，勿只靠大致輪廓描寫。"
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}

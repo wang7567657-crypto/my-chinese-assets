@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第12課_similar_shape_707df71890937b89",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "抄",
+    "lessonChars": [
+      "拮",
+      "据",
+      "抄",
+      "撫",
+      "憊",
+      "懊",
+      "悔",
+      "咳",
+      "啜",
+      "吁",
+      "躡",
+      "仿",
+      "昨",
+      "辯",
+      "熬",
+      "瘦",
+      "徒",
+      "泣",
+      "酣"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "抄",
+    "similarChars": [
+      {
+        "char": "鈔",
+        "similarity": "右半同為少。",
+        "difference": "抄左扌，表示抄寫時可聯想到手；鈔左金，如鈔票。"
+      },
+      {
+        "char": "炒",
+        "similarity": "右半同為少。",
+        "difference": "抄左扌；炒左火，左旁有點與撇。"
+      },
+      {
+        "char": "吵",
+        "similarity": "右半同為少。",
+        "difference": "抄左扌；吵左口，是封閉的小方框。"
+      },
+      {
+        "char": "沙",
+        "similarity": "右半同為少。",
+        "difference": "抄左扌有豎鉤；沙左氵是分開的三點水筆形。"
+      },
+      {
+        "char": "砂",
+        "similarity": "右半同為少。",
+        "difference": "抄左扌；砂左石，上方一橫一撇，下方有口。"
+      },
+      {
+        "char": "妙",
+        "similarity": "右半同為少。",
+        "difference": "抄左扌；妙左女，左旁有撇點、撇和橫。"
+      }
+    ],
+    "teachingTip": "把右側共同的少圈起來，再逐一辨認扌、金、火、口、氵、石、女。少的中豎不鉤，最下方的撇不與中豎相接。"
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}

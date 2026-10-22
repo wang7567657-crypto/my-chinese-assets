@@ -1,0 +1,75 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "南一_6年級_上學期_第12課_similar_shape_c7a5dbcb997e09b0",
+  "input": {
+    "publisher": "南一",
+    "grade": "6年級",
+    "semester": "上學期",
+    "lesson": "第12課",
+    "targetChar": "仿",
+    "lessonChars": [
+      "拮",
+      "据",
+      "抄",
+      "撫",
+      "憊",
+      "懊",
+      "悔",
+      "咳",
+      "啜",
+      "吁",
+      "躡",
+      "仿",
+      "昨",
+      "辯",
+      "熬",
+      "瘦",
+      "徒",
+      "泣",
+      "酣"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "data": {
+    "targetChar": "仿",
+    "similarChars": [
+      {
+        "char": "訪",
+        "similarity": "右邊同為方，都是左右結構。",
+        "difference": "仿左為亻；訪左為言，如「訪問」。"
+      },
+      {
+        "char": "彷",
+        "similarity": "右邊同為方，左邊都有撇與豎的輪廓。",
+        "difference": "仿左為兩筆的亻；彷左為三筆的彳，比亻多一撇，如「彷彿」。"
+      },
+      {
+        "char": "妨",
+        "similarity": "右半同為方。",
+        "difference": "仿左為亻；妨左為女，如「妨礙」。"
+      },
+      {
+        "char": "紡",
+        "similarity": "右半方的點、橫、折鉤、撇相同。",
+        "difference": "仿左為亻；紡左為糸，如「紡織」。"
+      },
+      {
+        "char": "防",
+        "similarity": "右邊同為方，都是左窄右寬。",
+        "difference": "仿左為亻；防左為阝，如「防守」。"
+      },
+      {
+        "char": "坊",
+        "similarity": "右部同為方。",
+        "difference": "仿左為亻；坊左為土，如「街坊」。"
+      }
+    ],
+    "teachingTip": "把方固定在右邊，只換左旁比較。仿左邊是單人旁兩筆，不是彷的雙人旁三筆；右方的橫折鉤起筆和上橫之間要留空。"
+  },
+  "createdAt": "2026-10-22T00:52:10.110901Z"
+}
