@@ -2,7 +2,7 @@
   "taskType": "material_tsv_generate",
   "requestId": "南一_2年級_上學期_第6課_material_tsv_generate_ac784d1fbc72c803",
   "version": "1.0",
-  "status": "pending",
+  "status": "completed",
   "input": {
     "publisher": "南一",
     "grade": "2年級",
@@ -57,5 +57,12 @@
     "level": "國小中高年級",
     "formatVersion": "tsv-v1"
   },
-  "createdAt": "2026-10-26T23:41:11.400Z"
+  "createdAt": "2026-10-26T23:41:11.400Z",
+  "completedAt": "2026-10-26T23:44:11.997Z",
+  "resultPath": "aiGenerated/material_tsv_generate/南一_2年級_上學期_第6課_material_tsv_generate_ac784d1fbc72c803.json",
+  "validation": {
+    "characters": 20,
+    "rows": 20,
+    "columns": 6
+  }
 }
