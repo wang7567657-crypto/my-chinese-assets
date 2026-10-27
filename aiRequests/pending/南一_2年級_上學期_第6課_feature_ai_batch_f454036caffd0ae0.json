@@ -1,0 +1,75 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "南一_2年級_上學期_第6課_feature_ai_batch_f454036caffd0ae0",
+  "version": "1.0",
+  "status": "pending",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "featureTaskType": "reading_worksheet_questions",
+    "featureName": "課文閱讀學習單提問",
+    "itemCount": 1,
+    "batchCharacters": [],
+    "items": [
+      {
+        "taskType": "reading_worksheet_questions",
+        "requestId": "南一_2年級_上學期_第6課_reading_worksheet_questions_2f34698a78fd22ae",
+        "input": {
+          "publisher": "南一",
+          "grade": "2年級",
+          "semester": "上學期",
+          "lesson": "第6課",
+          "source": "original",
+          "activity": "questions",
+          "count": 4,
+          "level": "國小中高年級",
+          "paragraphs": [
+            {
+              "paragraphIndex": 1,
+              "text": "第六課　從自己開始"
+            },
+            {
+              "paragraphIndex": 2,
+              "text": "沙灘上，很多人低著頭，努力撿著大大小小的垃圾。"
+            },
+            {
+              "paragraphIndex": 3,
+              "text": "看著眼前的沙灘，我說：「好多塑膠垃圾呀！」爸爸滿頭大汗，笑著對我說：「海裡的動物最怕塑膠，為了給牠們一個安全的家，我們努力撿吧！」"
+            },
+            {
+              "paragraphIndex": 4,
+              "text": "「如果沒有這麼多的垃圾就好了，該怎麼做呢？」我心裡想。"
+            },
+            {
+              "paragraphIndex": 5,
+              "text": "回房間睡覺前，我留了一張便條給媽媽。減少塑膠垃圾，我要從自己開始。"
+            }
+          ],
+          "formatVersion": "reading-questions-mc-v1",
+          "instruction": "請為這篇課文產生 4 題國小特教閱讀學習單問題。依課文內容提出具體問題，涵蓋人物、事件、原因與主旨；依文體調整。 問題必須直接寫出課文中的人物、事物或事件，不能只問「誰、在哪裡、做什麼」等通用題。用臺灣繁體中文，句子短且清楚，不超出本課與學生程度。每題附參考答案，以及原文中可直接找到的逐字依據 evidence。每題只能引用一段，paragraphIndex 為從 1 開始的段落編號。不可編造課文未提到的訊息，不要改寫原文依據。questions 題數須等於 count。請將結果寫回此項目的 taskType/requestId，data 格式如下。 本次全部為單選選擇題，每題提供 3 個不重複的短選項，只有一個正確答案。干擾選項須與本課內容相關、合理且易讀，不可用明顯無關或荒謬的內容湊數，不可使用「以上皆是／皆非」。answerIndex 必須是 0、1、2 的整數（從 0 開始），answer 必須與正確選項文字完全相同。",
+          "outputSchema": {
+            "questions": [
+              {
+                "question": "具體的課文選擇題",
+                "choices": [
+                  "選項一",
+                  "選項二",
+                  "選項三"
+                ],
+                "answerIndex": 0,
+                "answer": "選項一",
+                "paragraphIndex": 1,
+                "evidence": "該段原文中的逐字依據"
+              }
+            ]
+          },
+          "questionType": "multiple"
+        }
+      }
+    ],
+    "instruction": "這是一筆整篇課文的閱讀學習單提問代辦。請依 items 中的完整課文、題數、教學程度與 outputSchema 產生具體問題、答案與原文依據，並將結果寫回 items 原本的 taskType/requestId，不要另建待辦。"
+  },
+  "createdAt": "2026-10-27T00:42:00.176Z"
+}
