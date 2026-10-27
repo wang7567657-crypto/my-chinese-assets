@@ -2,7 +2,7 @@
   "taskType": "feature_ai_batch",
   "requestId": "南一_2年級_上學期_第6課_feature_ai_batch_d6988f2e7231288d",
   "version": "1.0",
-  "status": "pending",
+  "status": "completed",
   "input": {
     "publisher": "南一",
     "grade": "2年級",
@@ -64,5 +64,9 @@
     ],
     "instruction": "這是一筆整篇課文的閱讀學習單提問代辦。請依 items 中的完整課文、題數、教學程度與 outputSchema 產生具體問題、答案與原文依據，並將結果寫回 items 原本的 taskType/requestId，不要另建待辦。"
   },
-  "createdAt": "2026-10-27T00:25:15.886Z"
+  "createdAt": "2026-10-27T00:25:15.886Z",
+  "completedAt": "2026-10-27T00:26:44.678Z",
+  "resultPaths": [
+    "aiGenerated/reading_worksheet_questions/南一_2年級_上學期_第6課_reading_worksheet_questions_33432953b4115a42.json"
+  ]
 }
