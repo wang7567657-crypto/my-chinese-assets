@@ -1,0 +1,81 @@
+{
+  "taskType": "reading_worksheet_questions",
+  "requestId": "南一_2年級_上學期_第6課_reading_worksheet_questions_271ae53dac8f9683",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "source": "original",
+    "activity": "keywords",
+    "count": 4,
+    "level": "國小中高年級",
+    "paragraphs": [
+      {
+        "paragraphIndex": 1,
+        "text": "第六課　從自己開始"
+      },
+      {
+        "paragraphIndex": 2,
+        "text": "沙灘上，很多人低著頭，努力撿著大大小小的垃圾。"
+      },
+      {
+        "paragraphIndex": 3,
+        "text": "看著眼前的沙灘，我說：「好多塑膠垃圾呀！」爸爸滿頭大汗，笑著對我說：「海裡的動物最怕塑膠，為了給牠們一個安全的家，我們努力撿吧！」"
+      },
+      {
+        "paragraphIndex": 4,
+        "text": "「如果沒有這麼多的垃圾就好了，該怎麼做呢？」我心裡想。"
+      },
+      {
+        "paragraphIndex": 5,
+        "text": "回房間睡覺前，我留了一張便條給媽媽。減少塑膠垃圾，我要從自己開始。"
+      }
+    ],
+    "formatVersion": "reading-questions-v1",
+    "instruction": "請為這篇課文產生 4 題國小特教閱讀學習單問題。依課文提出關鍵詞、段落重點與主旨問題。 問題必須直接寫出課文中的人物、事物或事件，不能只問「誰、在哪裡、做什麼」等通用題。用臺灣繁體中文，句子短且清楚，不超出本課與學生程度。每題附參考答案，以及原文中可直接找到的逐字依據 evidence。每題只能引用一段，paragraphIndex 為從 1 開始的段落編號。不可編造課文未提到的訊息，不要改寫原文依據。questions 題數須等於 count。請將結果寫回此項目的 taskType/requestId，data 格式如下。",
+    "outputSchema": {
+      "questions": [
+        {
+          "question": "具體的課文提問",
+          "answer": "參考答案",
+          "paragraphIndex": 1,
+          "evidence": "該段原文中的逐字依據"
+        }
+      ]
+    }
+  },
+  "data": {
+    "questions": [
+      {
+        "question": "課文中，沙灘上最需要清理的是什麼？",
+        "answer": "垃圾",
+        "paragraphIndex": 2,
+        "evidence": "沙灘上，很多人低著頭，努力撿著大大小小的垃圾。"
+      },
+      {
+        "question": "爸爸說，海裡的動物最怕哪一種東西？",
+        "answer": "塑膠",
+        "paragraphIndex": 3,
+        "evidence": "海裡的動物最怕塑膠"
+      },
+      {
+        "question": "「我」希望沙灘上的垃圾有什麼改變？",
+        "answer": "不要有這麼多垃圾",
+        "paragraphIndex": 4,
+        "evidence": "「如果沒有這麼多的垃圾就好了，該怎麼做呢？」我心裡想。"
+      },
+      {
+        "question": "課文最後，「我」決定怎麼減少塑膠垃圾？",
+        "answer": "從自己開始",
+        "paragraphIndex": 5,
+        "evidence": "減少塑膠垃圾，我要從自己開始。"
+      }
+    ]
+  },
+  "createdAt": "2026-10-27T01:02:03.990Z",
+  "updatedAt": "2026-10-27T01:03:01.659Z"
+}
