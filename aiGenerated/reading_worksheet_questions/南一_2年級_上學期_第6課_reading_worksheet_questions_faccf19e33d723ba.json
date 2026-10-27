@@ -1,0 +1,112 @@
+{
+  "taskType": "reading_worksheet_questions",
+  "requestId": "南一_2年級_上學期_第6課_reading_worksheet_questions_faccf19e33d723ba",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "南一",
+    "grade": "2年級",
+    "semester": "上學期",
+    "lesson": "第6課",
+    "source": "original",
+    "activity": "keywords",
+    "count": 4,
+    "level": "國小中高年級",
+    "paragraphs": [
+      {
+        "paragraphIndex": 1,
+        "text": "第六課　從自己開始"
+      },
+      {
+        "paragraphIndex": 2,
+        "text": "沙灘上，很多人低著頭，努力撿著大大小小的垃圾。"
+      },
+      {
+        "paragraphIndex": 3,
+        "text": "看著眼前的沙灘，我說：「好多塑膠垃圾呀！」爸爸滿頭大汗，笑著對我說：「海裡的動物最怕塑膠，為了給牠們一個安全的家，我們努力撿吧！」"
+      },
+      {
+        "paragraphIndex": 4,
+        "text": "「如果沒有這麼多的垃圾就好了，該怎麼做呢？」我心裡想。"
+      },
+      {
+        "paragraphIndex": 5,
+        "text": "回房間睡覺前，我留了一張便條給媽媽。減少塑膠垃圾，我要從自己開始。"
+      }
+    ],
+    "formatVersion": "reading-questions-mc-v1",
+    "instruction": "請為這篇課文產生 4 題國小特教閱讀學習單問題。依課文提出關鍵詞、段落重點與主旨問題。 問題必須直接寫出課文中的人物、事物或事件，不能只問「誰、在哪裡、做什麼」等通用題。用臺灣繁體中文，句子短且清楚，不超出本課與學生程度。每題附參考答案，以及原文中可直接找到的逐字依據 evidence。每題只能引用一段，paragraphIndex 為從 1 開始的段落編號。不可編造課文未提到的訊息，不要改寫原文依據。questions 題數須等於 count。請將結果寫回此項目的 taskType/requestId，data 格式如下。 本次全部為單選選擇題，每題提供 3 個不重複的短選項，只有一個正確答案。干擾選項須與本課內容相關、合理且易讀，不可用明顯無關或荒謬的內容湊數，不可使用「以上皆是／皆非」。answerIndex 必須是 0、1、2 的整數（從 0 開始），answer 必須與正確選項文字完全相同。",
+    "outputSchema": {
+      "questions": [
+        {
+          "question": "具體的課文選擇題",
+          "choices": [
+            "選項一",
+            "選項二",
+            "選項三"
+          ],
+          "answerIndex": 0,
+          "answer": "選項一",
+          "paragraphIndex": 1,
+          "evidence": "該段原文中的逐字依據"
+        }
+      ]
+    },
+    "questionType": "multiple"
+  },
+  "data": {
+    "questions": [
+      {
+        "question": "課文中，沙灘上最需要清理的是什麼？",
+        "choices": [
+          "垃圾",
+          "沙子",
+          "海水"
+        ],
+        "answerIndex": 0,
+        "answer": "垃圾",
+        "paragraphIndex": 2,
+        "evidence": "沙灘上，很多人低著頭，努力撿著大大小小的垃圾。"
+      },
+      {
+        "question": "爸爸說，海裡的動物最怕哪一種東西？",
+        "choices": [
+          "便條",
+          "沙子",
+          "塑膠"
+        ],
+        "answerIndex": 2,
+        "answer": "塑膠",
+        "paragraphIndex": 3,
+        "evidence": "海裡的動物最怕塑膠"
+      },
+      {
+        "question": "「我」希望沙灘上的垃圾有什麼改變？",
+        "choices": [
+          "垃圾變得更多",
+          "不要有這麼多垃圾",
+          "垃圾只要變小就好"
+        ],
+        "answerIndex": 1,
+        "answer": "不要有這麼多垃圾",
+        "paragraphIndex": 4,
+        "evidence": "「如果沒有這麼多的垃圾就好了，該怎麼做呢？」我心裡想。"
+      },
+      {
+        "question": "課文最後，「我」決定怎麼減少塑膠垃圾？",
+        "choices": [
+          "從自己開始",
+          "等媽媽先開始",
+          "等爸爸再提醒"
+        ],
+        "answerIndex": 0,
+        "answer": "從自己開始",
+        "paragraphIndex": 5,
+        "evidence": "減少塑膠垃圾，我要從自己開始。"
+      }
+    ]
+  },
+  "createdAt": "2026-10-27T01:02:03.990Z",
+  "updatedAt": "2026-10-27T01:03:01.659Z"
+}
