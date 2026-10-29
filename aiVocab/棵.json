@@ -1,17 +1,17 @@
 [
   {
     "word": "一棵樹",
-    "meaning": "用來計算樹木數量的單位，例如「公園裡有一棵大樹」。",
-    "en_prompt": "A big green tree standing in a park"
+    "meaning": "用來計算樹木數量的量詞。",
+    "en_prompt": "A single tall green tree with a brown trunk standing in a park"
   },
   {
     "word": "一棵草",
-    "meaning": "用來形容一小株草，通常是指單獨的一株。",
-    "en_prompt": "A single small green sprout of grass"
+    "meaning": "用來計算小草或小型植物的量詞。",
+    "en_prompt": "A small green plant sprout growing from the soil"
   },
   {
-    "word": "一棵白菜",
-    "meaning": "計算整株蔬菜的單位，像是一整顆完整的白菜或高麗菜。",
-    "en_prompt": "A head of fresh Chinese cabbage"
+    "word": "一棵菜",
+    "meaning": "用來計算整株蔬菜（如白菜、高麗菜）的量詞。",
+    "en_prompt": "A fresh head of Chinese cabbage"
   }
 ]
