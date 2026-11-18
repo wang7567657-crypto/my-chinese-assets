@@ -1,17 +1,17 @@
 [
   {
-    "word": "一幅",
-    "meaning": "用來計算圖畫、地圖或風景等的單位。",
-    "en_prompt": "A beautiful painting hanging on a classroom wall"
+    "word": "一幅畫",
+    "meaning": "「幅」是計算畫作的量詞，指一張完整的圖畫。",
+    "en_prompt": "A beautiful framed painting hanging on a wall"
   },
   {
     "word": "大幅",
-    "meaning": "指變動的範圍或程度很大。",
-    "en_prompt": "A giant arrow pointing upwards showing a big increase"
+    "meaning": "形容變化的程度很大，例如進步很多或增加很多。",
+    "en_prompt": "A large upward arrow indicating a significant increase"
   },
   {
     "word": "幅度",
-    "meaning": "指事物變動或振動的大小程度。",
-    "en_prompt": "A colorful wave graph showing high and low points"
+    "meaning": "指事物變動的大小或範圍。",
+    "en_prompt": "A line graph showing fluctuations and a wide range"
   }
 ]
