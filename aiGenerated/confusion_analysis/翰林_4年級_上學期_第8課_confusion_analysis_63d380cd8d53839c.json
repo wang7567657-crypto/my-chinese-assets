@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_63d380cd8d53839c",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "措",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "措",
+    "groups": {
+      "shape": [
+        {
+          "char": "錯",
+          "why": "字形相近",
+          "difference": "措左邊是扌，錯左邊是金字旁；措施用措，錯誤用錯。"
+        },
+        {
+          "char": "惜",
+          "why": "字形相近",
+          "difference": "措左邊是扌，惜左邊是忄；珍惜用惜。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "錯",
+          "why": "相同讀音或特定詞語中讀音相同",
+          "difference": "措與錯都讀ㄘㄨㄛˋ，不能只憑聲音選字；措施用措，錯誤用錯。"
+        }
+      ],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "措右邊是昔，左邊是扌；與借、惜、錯比較時，先辨認左邊偏旁。"
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}

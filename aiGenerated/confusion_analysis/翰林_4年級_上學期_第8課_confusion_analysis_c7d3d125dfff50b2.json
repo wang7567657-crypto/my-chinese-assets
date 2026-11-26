@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_c7d3d125dfff50b2",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "脫",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "脫",
+    "groups": {
+      "shape": [
+        {
+          "char": "說",
+          "why": "字形相近",
+          "difference": "脫左邊是月，說左邊是言；脫衣用脫，說話用說。"
+        },
+        {
+          "char": "悅",
+          "why": "字形相近",
+          "difference": "脫左邊是月，悅左邊是忄；喜悅用悅。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "拖",
+          "why": "相同讀音或特定詞語中讀音相同",
+          "difference": "脫與拖都讀ㄊㄨㄛ；脫下外套用脫，拖地用拖。"
+        }
+      ],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "脫左邊是月字旁；比較說、悅、稅、閱時，先找不同的偏旁。"
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}

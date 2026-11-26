@@ -1,0 +1,46 @@
+{
+  "taskType": "similar_shape",
+  "requestId": "翰林_4年級_上學期_第8課_similar_shape_1df8b897f008865a",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "targetChar": "概",
+    "lessonChars": [
+      "俠",
+      "頓",
+      "江",
+      "鞋",
+      "溼",
+      "柱",
+      "止",
+      "措",
+      "撐",
+      "概",
+      "折",
+      "根",
+      "脫",
+      "愣",
+      "帥"
+    ],
+    "count": 6,
+    "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "targetChar": "概",
+    "similarChars": [
+      "慨",
+      "溉",
+      "既",
+      "根",
+      "棍",
+      "槪"
+    ],
+    "teachingTip": "概左邊是木，右邊是既；跟慨、溉比較時，把左邊偏旁圈出來。"
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}

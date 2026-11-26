@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_7df500a8274f3ea2",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "帥",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "帥",
+    "groups": {
+      "shape": [
+        {
+          "char": "師",
+          "why": "字形相近",
+          "difference": "帥右邊是巾，師右邊是帀，多一橫；元帥用帥，老師用師。"
+        },
+        {
+          "char": "歸",
+          "why": "字形相近",
+          "difference": "歸的右半邊筆畫較多；不要把元帥的帥加寫成歸。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "率",
+          "why": "相同讀音或特定詞語中讀音相同",
+          "difference": "帥與率在「率領」中同讀ㄕㄨㄞˋ；元帥用帥，率領用率。"
+        }
+      ],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "帥右邊是巾，師右邊是帀；比較右上方是否多一橫。"
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}

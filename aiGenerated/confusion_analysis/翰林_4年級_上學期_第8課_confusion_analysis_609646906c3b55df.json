@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_609646906c3b55df",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "愣",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "愣",
+    "groups": {
+      "shape": [
+        {
+          "char": "楞",
+          "why": "字形相近",
+          "difference": "愣左邊是忄，楞左邊是木；發愣用愣。"
+        },
+        {
+          "char": "慢",
+          "why": "字形相近",
+          "difference": "兩字都是忄旁；愣右下是方，慢右下是又。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "冷",
+          "why": "聲音相近、聲調不同",
+          "difference": "愣讀ㄌㄥˋ，冷讀ㄌㄥˇ，聲調不同；發愣與寒冷要分清。"
+        }
+      ],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "愣左邊是忄，楞左邊是木；先認偏旁，再看右邊上方的罒和下方的方。"
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}

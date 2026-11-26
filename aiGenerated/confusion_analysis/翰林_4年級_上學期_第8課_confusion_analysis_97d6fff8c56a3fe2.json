@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_97d6fff8c56a3fe2",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "撐",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "撐",
+    "groups": {
+      "shape": [
+        {
+          "char": "掌",
+          "why": "字形相近",
+          "difference": "撐比掌左邊多扌；支撐用撐，手掌用掌。"
+        },
+        {
+          "char": "撑",
+          "why": "異體字比較",
+          "difference": "撑與撐屬異體字關係；本課依課本練習撐的寫法。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "稱",
+          "why": "相同讀音或特定詞語中讀音相同",
+          "difference": "撐與稱在「稱讚」中同讀ㄔㄥ；支撐用撐，稱讚用稱。"
+        }
+      ],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "撐左邊是扌，右邊是掌；先比較撐與掌是否有左邊的提手旁。"
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}

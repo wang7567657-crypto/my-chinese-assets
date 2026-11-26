@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_9635f4d09b56c922",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "止",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "止",
+    "groups": {
+      "shape": [
+        {
+          "char": "正",
+          "why": "字形相近",
+          "difference": "正比止上方多一橫；停止用止，正確用正。"
+        },
+        {
+          "char": "步",
+          "why": "字形相近",
+          "difference": "步上方有止，下方還有筆畫；不要少寫步的下半部。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "只",
+          "why": "相同讀音或特定詞語中讀音相同",
+          "difference": "止與只在「只有」中同讀ㄓˇ；停止用止，只有用只。"
+        }
+      ],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "先看「止」的基本字形；正上方多一橫，址和趾則在左邊增加偏旁。"
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}

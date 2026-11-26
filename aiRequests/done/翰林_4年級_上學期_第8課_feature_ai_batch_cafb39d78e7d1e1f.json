@@ -1,0 +1,237 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_4年級_上學期_第8課_feature_ai_batch_cafb39d78e7d1e1f",
+  "version": "1.0",
+  "status": "done",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "featureTaskType": "confusion_analysis",
+    "featureName": "易混淆字",
+    "itemCount": 15,
+    "batchCharacters": [
+      "俠",
+      "頓",
+      "江",
+      "鞋",
+      "溼",
+      "柱",
+      "止",
+      "措",
+      "撐",
+      "概",
+      "折",
+      "根",
+      "脫",
+      "愣",
+      "帥"
+    ],
+    "items": [
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_838b59dcfe25f082",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "俠",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_c785f39696846323",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "頓",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_c172b6aeabe043c9",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "江",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_ef73b8099b7af556",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "鞋",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_5b9299de7f5e2e19",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "溼",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_047f66cfc32cb9ec",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "柱",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_9635f4d09b56c922",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "止",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_63d380cd8d53839c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "措",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_97d6fff8c56a3fe2",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "撐",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_7471d24626fb5a6d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "概",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_326a4f2888c5f19c",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "折",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_8a4268b29206b00e",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "根",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_c7d3d125dfff50b2",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "脫",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_609646906c3b55df",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "愣",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "confusion_analysis",
+        "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_7df500a8274f3ea2",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "char": "帥",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
+  },
+  "createdAt": "2026-11-26T06:58:33.117Z",
+  "processedAt": "2026-11-26T07:04:11.194Z",
+  "output": {
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_838b59dcfe25f082.json",
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_c785f39696846323.json",
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_c172b6aeabe043c9.json",
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_ef73b8099b7af556.json",
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_5b9299de7f5e2e19.json",
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_047f66cfc32cb9ec.json",
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_9635f4d09b56c922.json",
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_63d380cd8d53839c.json",
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_97d6fff8c56a3fe2.json",
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_7471d24626fb5a6d.json",
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_326a4f2888c5f19c.json",
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_8a4268b29206b00e.json",
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_c7d3d125dfff50b2.json",
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_609646906c3b55df.json",
+      "aiGenerated/confusion_analysis/翰林_4年級_上學期_第8課_confusion_analysis_7df500a8274f3ea2.json"
+    ]
+  }
+}

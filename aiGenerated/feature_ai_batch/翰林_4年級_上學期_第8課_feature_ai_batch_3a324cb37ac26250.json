@@ -1,0 +1,523 @@
+{
+  "taskType": "feature_ai_batch",
+  "requestId": "翰林_4年級_上學期_第8課_feature_ai_batch_3a324cb37ac26250",
+  "version": "1.0",
+  "status": "completed",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "featureTaskType": "similar_shape",
+    "featureName": "形近字探索",
+    "itemCount": 15,
+    "batchCharacters": [
+      "俠",
+      "頓",
+      "江",
+      "鞋",
+      "溼",
+      "柱",
+      "止",
+      "措",
+      "撐",
+      "概",
+      "折",
+      "根",
+      "脫",
+      "愣",
+      "帥"
+    ],
+    "items": [
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_dfefcb8fc2e028b5",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "俠",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_c379f281de79d409",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "頓",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_b9459299b7af664d",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "江",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_288290479a3e73fd",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "鞋",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_8223943372723de3",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "溼",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_407fd0feb4cb8556",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "柱",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_24d6884ff0cbf16a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "止",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_34de0990cb1a5ad7",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "措",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_adf93b5cd32f0b14",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "撐",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_1df8b897f008865a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "概",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_ca6baa910aad137a",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "折",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_b233c11fe11e23d0",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "根",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_8222c4f2f48fcb44",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "脫",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_40336e5f31e7fa15",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "愣",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      },
+      {
+        "taskType": "similar_shape",
+        "requestId": "翰林_4年級_上學期_第8課_similar_shape_4134bc00d900e8a0",
+        "input": {
+          "publisher": "翰林",
+          "grade": "4年級",
+          "semester": "上學期",
+          "lesson": "第8課",
+          "targetChar": "帥",
+          "lessonChars": [
+            "俠",
+            "頓",
+            "江",
+            "鞋",
+            "溼",
+            "柱",
+            "止",
+            "措",
+            "撐",
+            "概",
+            "折",
+            "根",
+            "脫",
+            "愣",
+            "帥"
+          ],
+          "count": 6,
+          "rule": "以字形相似為主：整體輪廓、共用部件、只差一兩筆、偏旁不同但主體相近。不要以同音或近義為主要依據。",
+          "level": "國小中高年級"
+        }
+      }
+    ],
+    "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
+  },
+  "data": {
+    "status": "done",
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_dfefcb8fc2e028b5.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_c379f281de79d409.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_b9459299b7af664d.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_288290479a3e73fd.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_8223943372723de3.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_407fd0feb4cb8556.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_24d6884ff0cbf16a.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_34de0990cb1a5ad7.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_adf93b5cd32f0b14.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_1df8b897f008865a.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_ca6baa910aad137a.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_b233c11fe11e23d0.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_8222c4f2f48fcb44.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_40336e5f31e7fa15.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_4134bc00d900e8a0.json"
+    ]
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}

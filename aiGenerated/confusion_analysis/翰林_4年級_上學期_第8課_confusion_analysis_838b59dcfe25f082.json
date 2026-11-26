@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_838b59dcfe25f082",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "俠",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "俠",
+    "groups": {
+      "shape": [
+        {
+          "char": "狹",
+          "why": "字形相近",
+          "difference": "俠左邊是亻，狹左邊是犭；大俠用俠，狹窄用狹。"
+        },
+        {
+          "char": "峽",
+          "why": "字形相近",
+          "difference": "峽左邊是山；山峽用峽，俠客用俠。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "霞",
+          "why": "相同讀音或特定詞語中讀音相同",
+          "difference": "俠與霞都讀ㄒㄧㄚˊ；俠客是人，晚霞在天空。"
+        }
+      ],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "共同注意「夾」的形狀；俠是人字旁，狹是犬字旁，峽是山字旁。"
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}

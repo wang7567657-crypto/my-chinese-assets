@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_8a4268b29206b00e",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "根",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "根",
+    "groups": {
+      "shape": [
+        {
+          "char": "跟",
+          "why": "字形相近",
+          "difference": "根左邊是木，跟左邊是足字旁；樹根用根，跟隨用跟。"
+        },
+        {
+          "char": "很",
+          "why": "字形相近",
+          "difference": "根左邊是木，很左邊是彳；很好的很不是樹根的根。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "跟",
+          "why": "相同讀音或特定詞語中讀音相同",
+          "difference": "根與跟都讀ㄍㄣ；樹根用根，跟著用跟。"
+        }
+      ],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "根右邊是艮，左邊是木；跟、很、狠、恨也有艮，要仔細分左邊。"
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}

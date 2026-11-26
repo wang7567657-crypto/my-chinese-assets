@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_c172b6aeabe043c9",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "江",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "江",
+    "groups": {
+      "shape": [
+        {
+          "char": "汪",
+          "why": "字形相近",
+          "difference": "江右邊是工，汪右邊是王；注意王比工多一橫。"
+        },
+        {
+          "char": "紅",
+          "why": "字形相近",
+          "difference": "江左邊是氵，紅左邊是糹；江水與水有關。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "將",
+          "why": "相同讀音或特定詞語中讀音相同",
+          "difference": "江與將在「將來」中同讀ㄐㄧㄤ；江水用江，將來用將。"
+        }
+      ],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "江是氵加工；比較同樣有工的紅、虹、扛，再看左邊偏旁。"
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}

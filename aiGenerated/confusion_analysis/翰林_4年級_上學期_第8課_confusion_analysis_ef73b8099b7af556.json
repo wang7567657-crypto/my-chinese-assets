@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_ef73b8099b7af556",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "鞋",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "鞋",
+    "groups": {
+      "shape": [
+        {
+          "char": "靴",
+          "why": "字形相近",
+          "difference": "鞋右邊是圭，靴右邊是化；鞋子與靴子要分清。"
+        },
+        {
+          "char": "娃",
+          "why": "字形相近",
+          "difference": "鞋和娃都有圭，左邊分別是革、女。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "斜",
+          "why": "相同讀音或特定詞語中讀音相同",
+          "difference": "鞋與斜都讀ㄒㄧㄝˊ；鞋子用鞋，傾斜用斜。"
+        }
+      ],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "鞋左邊是革，右邊是兩個土疊成的圭；不要只看右邊就猜字。"
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}

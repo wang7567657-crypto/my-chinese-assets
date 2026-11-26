@@ -2,7 +2,7 @@
   "taskType": "feature_ai_batch",
   "requestId": "翰林_4年級_上學期_第8課_feature_ai_batch_3a324cb37ac26250",
   "version": "1.0",
-  "status": "pending",
+  "status": "done",
   "input": {
     "publisher": "翰林",
     "grade": "4年級",
@@ -497,5 +497,26 @@
     ],
     "instruction": "這是一筆「單一功能、全部生字」代辦。只能處理 featureTaskType 指定的這一個功能；請一次完成 items 內所有生字，將每個結果寫回其原 taskType/requestId，不要加入其他功能，也不要再拆成多筆 pending 待辦。"
   },
-  "createdAt": "2026-11-26T06:58:24.058Z"
+  "createdAt": "2026-11-26T06:58:24.058Z",
+  "processedAt": "2026-11-26T07:04:11.194Z",
+  "output": {
+    "completedCount": 15,
+    "resultPaths": [
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_dfefcb8fc2e028b5.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_c379f281de79d409.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_b9459299b7af664d.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_288290479a3e73fd.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_8223943372723de3.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_407fd0feb4cb8556.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_24d6884ff0cbf16a.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_34de0990cb1a5ad7.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_adf93b5cd32f0b14.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_1df8b897f008865a.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_ca6baa910aad137a.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_b233c11fe11e23d0.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_8222c4f2f48fcb44.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_40336e5f31e7fa15.json",
+      "aiGenerated/similar_shape/翰林_4年級_上學期_第8課_similar_shape_4134bc00d900e8a0.json"
+    ]
+  }
 }

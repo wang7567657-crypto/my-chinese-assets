@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_326a4f2888c5f19c",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "折",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "折",
+    "groups": {
+      "shape": [
+        {
+          "char": "拆",
+          "why": "字形相近",
+          "difference": "折右邊是斤，拆右邊是斥，多了一點；折斷用折，拆開用拆。"
+        },
+        {
+          "char": "析",
+          "why": "字形相近",
+          "difference": "折左邊是扌，析左邊是木；分析用析。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "哲",
+          "why": "相同讀音或特定詞語中讀音相同",
+          "difference": "折在折斷中與哲都讀ㄓㄜˊ；折斷用折，哲學用哲。"
+        }
+      ],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "折左邊是扌，右邊是斤；拆的右邊多一點，析的左邊是木。"
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}

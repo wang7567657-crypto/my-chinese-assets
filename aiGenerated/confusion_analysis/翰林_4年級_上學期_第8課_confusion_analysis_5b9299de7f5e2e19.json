@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_5b9299de7f5e2e19",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "溼",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "溼",
+    "groups": {
+      "shape": [
+        {
+          "char": "濕",
+          "why": "異體字比較",
+          "difference": "溼與濕是異體字關係，不應直接判成意思不同的錯字；本課練習溼的字形。"
+        },
+        {
+          "char": "滋",
+          "why": "字形相近",
+          "difference": "兩字都有氵與細密筆畫；滋右邊是茲，不能把溼的右邊寫成茲。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "失",
+          "why": "相同讀音或特定詞語中讀音相同",
+          "difference": "溼與失都讀ㄕ；潮溼用溼，失去用失。"
+        }
+      ],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "溼和濕都可表示潮溼，但右邊寫法不同；練習時先依課本字形「溼」書寫。"
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}

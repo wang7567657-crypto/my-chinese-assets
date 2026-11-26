@@ -1,0 +1,42 @@
+{
+  "taskType": "confusion_analysis",
+  "requestId": "翰林_4年級_上學期_第8課_confusion_analysis_c785f39696846323",
+  "version": "1.0",
+  "source": "chatgpt",
+  "input": {
+    "publisher": "翰林",
+    "grade": "4年級",
+    "semester": "上學期",
+    "lesson": "第8課",
+    "char": "頓",
+    "level": "國小中高年級"
+  },
+  "data": {
+    "char": "頓",
+    "groups": {
+      "shape": [
+        {
+          "char": "鈍",
+          "why": "字形相近",
+          "difference": "頓右邊是頁，鈍左邊是金字旁；停頓用頓，遲鈍用鈍。"
+        },
+        {
+          "char": "噸",
+          "why": "字形相近",
+          "difference": "噸左邊有口，是重量單位；頓右邊有頁。"
+        }
+      ],
+      "sound": [
+        {
+          "char": "盾",
+          "why": "相同讀音或特定詞語中讀音相同",
+          "difference": "頓與盾都讀ㄉㄨㄣˋ；停頓用頓，盾牌用盾。"
+        }
+      ],
+      "meaning": [],
+      "component": []
+    },
+    "tip": "先找左邊「屯」，再看右邊是不是「頁」；頓、鈍、噸的共同部分位置不同。"
+  },
+  "createdAt": "2026-11-26T07:04:11.194Z"
+}
